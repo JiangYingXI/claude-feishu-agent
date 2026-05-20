@@ -30,6 +30,9 @@ def _extract_field(record: dict, field: str, default=None):
     val = fields.get(field)
     if val is None:
         return default
+    # Handle rich text fields: [{"text": "...", "type": "text"}]
+    if isinstance(val, list) and len(val) > 0 and isinstance(val[0], dict) and "text" in val[0]:
+        return "".join(block.get("text", "") for block in val if isinstance(block, dict))
     # Handle link fields: {"link": "...", "text": "..."}
     if isinstance(val, dict) and "link" in val:
         return val["link"]
@@ -96,6 +99,9 @@ def main():
             "summary": _extract_field(rec, "中文摘要", ""),
             "recommendation": _extract_field(rec, "AI推荐理由", ""),
             "categories": _extract_field(rec, "分类标签", []),
+            "quality_score": _extract_field(rec, "质量评分", 0),
+            "language": _extract_field(rec, "语言", ""),
+            "original_title": _extract_field(rec, "原标题", ""),
         })
 
     data = {
