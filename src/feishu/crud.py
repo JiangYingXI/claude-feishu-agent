@@ -9,6 +9,7 @@ logger = logging.getLogger(__name__)
 
 TZ_BEIJING = timezone(timedelta(hours=8))
 TABLE_PATH = f"/bitable/v1/apps/{FEISHU_BITABLE_APP_TOKEN}/tables/{FEISHU_TABLE_ID}/records"
+SEARCH_PATH = f"/bitable/v1/apps/{FEISHU_BITABLE_APP_TOKEN}/tables/{FEISHU_TABLE_ID}/records/search"
 
 
 def _fmt_dt(dt: datetime | None) -> int | None:
@@ -77,37 +78,33 @@ def insert_article(
 
 def fetch_recent_articles(page_size: int = 200,
                           page_token: str | None = None) -> dict:
-    """Fetch recent articles sorted by publish_time desc."""
-    import json as _json
-    sort_val = _json.dumps([{"field_name": "发布时间", "desc": True}], ensure_ascii=False)
-    params = {
-        "sort": sort_val,
+    """Fetch recent articles sorted by publish_time desc using search endpoint."""
+    body = {
+        "sort": [{"field_name": "发布时间", "desc": True}],
         "page_size": page_size,
     }
     if page_token:
-        params["page_token"] = page_token
-    resp = api("GET", TABLE_PATH, params=params)
+        body["page_token"] = page_token
+    resp = api("POST", SEARCH_PATH, json=body)
     return resp
 
 
 def fetch_articles_since(days: int = 1) -> list[dict]:
     """Fetch articles from the last N days for digest generation."""
-    import json as _json
     since = datetime.now(TZ_BEIJING) - timedelta(days=days)
     since_ts = str(int(since.timestamp() * 1000))
-    sort_val = _json.dumps([{"field_name": "质量评分", "desc": True}], ensure_ascii=False)
 
     all_records = []
     page_token = None
     while True:
-        params = {
+        body = {
             "filter": f'CurrentValue.[发布时间]>{since_ts}',
-            "sort": sort_val,
+            "sort": [{"field_name": "质量评分", "desc": True}],
             "page_size": 100,
         }
         if page_token:
-            params["page_token"] = page_token
-        resp = api("GET", TABLE_PATH, params=params)
+            body["page_token"] = page_token
+        resp = api("POST", SEARCH_PATH, json=body)
         if resp.get("code") != 0:
             break
         items = resp.get("data", {}).get("items", [])
