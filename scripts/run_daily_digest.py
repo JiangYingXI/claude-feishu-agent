@@ -1,4 +1,4 @@
-"""Generate daily AI-curated digest via Claude."""
+"""Generate daily AI-curated digest via DeepSeek."""
 import json
 import logging
 import sys
@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from anthropic import Anthropic
 from src.feishu.crud import fetch_articles_since
 from src.ai.prompts import SYSTEM_PROMPT, DAILY_DIGEST_PROMPT
-from src.utils.config import CLAUDE_API_KEY, CLAUDE_MODEL
+from src.utils.config import DEEPSEEK_API_KEY, DEEPSEEK_MODEL, DEEPSEEK_ANTHROPIC_BASE_URL
 from src.utils import config
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(name)s: %(message)s")
@@ -30,7 +30,6 @@ def main():
         logger.info("No articles today, skipping digest.")
         return
 
-    # Build simplified article list for Claude
     articles_for_ai = []
     for rec in records:
         fields = rec.get("fields", {})
@@ -43,11 +42,11 @@ def main():
             "categories": fields.get("分类标签", []),
         })
 
-    logger.info(f"Sending {len(articles_for_ai)} articles to Claude for curation...")
+    logger.info(f"Sending {len(articles_for_ai)} articles to DeepSeek for curation...")
 
-    client = Anthropic(api_key=CLAUDE_API_KEY)
+    client = Anthropic(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_ANTHROPIC_BASE_URL)
     resp = client.messages.create(
-        model=CLAUDE_MODEL,
+        model=DEEPSEEK_MODEL,
         max_tokens=500,
         temperature=0.4,
         system=SYSTEM_PROMPT,
@@ -73,7 +72,6 @@ def main():
     intro = digest.get("intro", "")
     editor_note = digest.get("editor_note", "")
 
-    # Log the digest (in future: write to a separate Feishu table or generate digest.json)
     print(f"\n{'='*60}")
     print(f"📰 影像Hot · 每日精选日报")
     print(f"{'='*60}")
@@ -87,7 +85,6 @@ def main():
             a = matched[0]
             print(f"  ✅ [{a['quality_score']}分] {a['title']} — {a['source']}")
 
-    # Write digest to frontend data
     output_dir = os.path.join(os.path.dirname(__file__), "..", "frontend", "data")
     os.makedirs(output_dir, exist_ok=True)
     digest_data = {

@@ -3,12 +3,12 @@ import logging
 
 from anthropic import Anthropic
 
-from src.utils.config import CLAUDE_API_KEY, CLAUDE_MODEL
+from src.utils.config import DEEPSEEK_API_KEY, DEEPSEEK_MODEL, DEEPSEEK_ANTHROPIC_BASE_URL
 from src.ai.prompts import SYSTEM_PROMPT, TAG_PROMPT, RECOMMEND_PROMPT
 
 logger = logging.getLogger(__name__)
 
-_client = Anthropic(api_key=CLAUDE_API_KEY)
+_client = Anthropic(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_ANTHROPIC_BASE_URL)
 
 VALID_TAGS = [
     "传感器硬件", "镜头与光学", "ISP & 影像芯片",
@@ -18,21 +18,29 @@ VALID_TAGS = [
 
 
 def _validate_tags(tags: list[str]) -> list[str]:
-    """Ensure tags are valid, discard unknown ones."""
     result = []
     for t in tags:
         if t in VALID_TAGS:
             result.append(t)
     if not result:
-        result.append("产品洞察 & 行业资讯")  # safe default
+        result.append("产品洞察 & 行业资讯")
     return result[:2]
 
 
+def _parse_json(text: str) -> dict:
+    """Extract JSON from model response (handles markdown code blocks)."""
+    if "```" in text:
+        text = text.split("```")[1]
+        if text.startswith("json"):
+            text = text[4:]
+    return json.loads(text.strip())
+
+
 def tag_article(title: str, summary: str) -> tuple[list[str], float]:
-    """Classify article into 1-2 of 7 categories via Claude. Returns (tags, confidence)."""
+    """Classify article into 1-2 of 7 categories via DeepSeek."""
     try:
         resp = _client.messages.create(
-            model=CLAUDE_MODEL,
+            model=DEEPSEEK_MODEL,
             max_tokens=100,
             temperature=0.2,
             system=SYSTEM_PROMPT,
@@ -42,12 +50,7 @@ def tag_article(title: str, summary: str) -> tuple[list[str], float]:
             }],
         )
         text = resp.content[0].text if resp.content else "{}"
-        # Extract JSON from possible markdown code block
-        if "```" in text:
-            text = text.split("```")[1]
-            if text.startswith("json"):
-                text = text[4:]
-        data = json.loads(text.strip())
+        data = _parse_json(text)
         tags = _validate_tags(data.get("tags", []))
         confidence = float(data.get("confidence", 0.5))
         return tags, confidence
@@ -57,10 +60,10 @@ def tag_article(title: str, summary: str) -> tuple[list[str], float]:
 
 
 def recommend(title: str, summary: str, tags: list[str]) -> tuple[str, int]:
-    """Generate AI recommendation reason and quality score via Claude."""
+    """Generate AI recommendation and quality score via DeepSeek."""
     try:
         resp = _client.messages.create(
-            model=CLAUDE_MODEL,
+            model=DEEPSEEK_MODEL,
             max_tokens=200,
             temperature=0.4,
             system=SYSTEM_PROMPT,
@@ -71,11 +74,7 @@ def recommend(title: str, summary: str, tags: list[str]) -> tuple[str, int]:
             }],
         )
         text = resp.content[0].text if resp.content else "{}"
-        if "```" in text:
-            text = text.split("```")[1]
-            if text.startswith("json"):
-                text = text[4:]
-        data = json.loads(text.strip())
+        data = _parse_json(text)
         rec = data.get("recommendation", "")
         score = int(data.get("quality_score", 5))
         score = max(1, min(10, score))
