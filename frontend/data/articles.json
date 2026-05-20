@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "updated_at": "2026-05-20T12:00:00+08:00",
+    "total_articles": 0,
+    "data_range_days": 90
+  },
+  "categories": [
+    {"key": "传感器硬件", "label": "传感器硬件", "count": 0},
+    {"key": "镜头与光学", "label": "镜头与光学", "count": 0},
+    {"key": "ISP & 影像芯片", "label": "ISP & 影像芯片", "count": 0},
+    {"key": "计算摄影 & AI 影像", "label": "计算摄影 & AI 影像", "count": 0},
+    {"key": "拆机 & 实测 & 样张", "label": "拆机 & 实测 & 样张", "count": 0},
+    {"key": "产品洞察 & 行业资讯", "label": "产品洞察 & 行业资讯", "count": 0},
+    {"key": "摄影美学 & 技术科普", "label": "摄影美学 & 技术科普", "count": 0}
+  ],
+  "articles": []
+}
