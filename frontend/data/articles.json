@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-21T00:49:21.018976+08:00",
-    "total_articles": 154,
+    "updated_at": "2026-05-21T04:39:19.576786+08:00",
+    "total_articles": 164,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 45
+      "count": 48
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 12
+      "count": 14
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,171 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 116
+      "count": 123
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 53
+      "count": 57
     }
   ],
   "articles": [
+    {
+      "id": "recvkc9pXOmE1s",
+      "title": "Adobe持续推进代理式AI：Google Gemini即将在Lightroom和Photoshop中为你编辑照片，并在Premiere中处理视频",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/google-gemini-will-soon-be-able-to-edit-photos-for-you-across-lightroom-and-photoshop-and-videos-in-premiere-as-adobe-continues-agentic-ai-push",
+      "publish_time": "2026-05-21T04:00:26+08:00",
+      "summary": "Adobe将Agentic AI引入Google Gemini，使其能在Photoshop、Lightroom和Premiere等应用中自动执行照片编辑和视频处理任务。",
+      "recommendation": "揭示Adobe将Gemini代理式AI集成到Lightroom/Photoshop/Premiere，实现自动化编辑，对追求效率的影像创作者有实操价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Google Gemini will soon be able to edit photos for you across Lightroom and Photoshop – and videos in Premiere –  as Adobe continues agentic AI push"
+    },
+    {
+      "id": "recvkc9iutofza",
+      "title": "你可能从未见过全光谱彩色照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/20/youve-probably-never-seen-a-full-spectrum-color-photo/",
+      "publish_time": "2026-05-21T03:04:18+08:00",
+      "summary": "科学教育家史蒂夫·莫尔德视频揭示常被遗忘的彩色摄影工艺，称其照片更接近真实色彩，核心价值在于展示全光谱彩色照片的独特魅力。",
+      "recommendation": "揭秘全光谱彩色摄影工艺，展示超越传统RGB的色彩还原，为影像爱好者提供技术科普与审美新视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "You’ve Probably Never Seen a Full-Spectrum Color Photo"
+    },
+    {
+      "id": "recvkc9vr4SPbD",
+      "title": "为什么我要教摄影师冥想（以及为什么你比另一个镜头更需要它）",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/20/teaching-meditation-photographers/",
+      "publish_time": "2026-05-21T03:00:00+08:00",
+      "summary": "Phoblographer推出摄影师冥想工作坊，以极低价格在纽约秘密地点帮助摄影师超越社交媒体灌输的成长方式。",
+      "recommendation": "从摄影美学角度切入冥想训练，提供超越器材升级的创作思维提升方案，对陷入技术瓶颈的爱好者有独特启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why I’m Teaching Meditation to Photographers (And Why You Need It More Than Another Lens)"
+    },
+    {
+      "id": "recvkc9rKm5w4o",
+      "title": "我把两台理光GR IV系列便携相机塞进口袋，最常用那台让我惊讶",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-tucked-two-ricoh-gr-iv-series-compact-cameras-into-my-pockets-i-was-surprised-by-the-one-that-i-shot-the-most",
+      "publish_time": "2026-05-21T02:47:50+08:00",
+      "summary": "作者原以为会喜欢理光GR IV，但实际使用后，GR IV Monochrome成为其最爱，因其黑白成像性能出色。",
+      "recommendation": "对比GR IV与GR IV Monochrome实际使用体验，揭示黑白机型的独特成像优势，为便携相机爱好者提供选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I tucked two Ricoh GR IV series compact cameras into my pockets. I was surprised by the one that I shot the most"
+    },
+    {
+      "id": "recvkc9xkOrLrf",
+      "title": "七工匠发布尼康Z卡口AF 135mm f/1.8全画幅镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/20/7artisans-af-135mm-f-1-8-full-frame-lens-for-nikon-z-mount-released.aspx/",
+      "publish_time": "2026-05-21T02:04:06+08:00",
+      "summary": "七工匠发布尼康Z卡口AF 135mm f/1.8全画幅镜头，售价689美元，可在官方商店订购。",
+      "recommendation": "七工匠为尼康Z卡口带来135mm f/1.8自动对焦镜头，售价689美元，填补副厂长焦大光圈选择，适合人像与街拍爱好者关注性价比方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans AF 135mm f/1.8 full‑frame lens for Nikon Z-mount released"
+    },
+    {
+      "id": "recvkc9kFtP1h8",
+      "title": "库克将其变形镜头传统带入无反相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/20/cooke-brings-its-anamorphic-lens-legacy-to-mirrorless-cameras/",
+      "publish_time": "2026-05-21T01:54:04+08:00",
+      "summary": "库克发布AP3 FF系列，专为全画幅无反相机设计的1.5倍变形镜头，延续其电影镜头传统。",
+      "recommendation": "库克将电影级1.5倍变形镜头引入全画幅无反，提供独特光学特性与画质数据，适合追求电影感的影像创作者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Cooke Brings its Anamorphic Lens Legacy to Mirrorless Cameras"
+    },
+    {
+      "id": "recvkc9txt3YqU",
+      "title": "Nano Banana 走红后，谷歌将同一AI理念引入视频领域：Gemini Omni 引发网友热议",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/nano-banana-went-viral-now-google-is-bringing-the-same-ai-idea-to-video-with-gemini-omni-the-internet-already-has-mixed-opinions",
+      "publish_time": "2026-05-21T01:52:50+08:00",
+      "summary": "谷歌推出Gemini Omni视频生成器，基于Nano Banana理念，利用照片、视频和文本提示生成十秒视频片段，引发网友热议。",
+      "recommendation": "解析Nano Banana理念如何迁移至视频生成，揭示谷歌AI影像新方向。对计算摄影爱好者有启发，但缺乏具体技术参数与实测数据。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nano Banana went viral. Now, Google is bringing the same AI idea to video with Gemini Omni. The internet already has mixed opinions"
+    },
+    {
+      "id": "recvkc9mtn71lG",
+      "title": "游客在泰国与老虎合影的令人不安视频揭露黑暗摄影趋势",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/20/disturbing-video-of-tourist-posing-with-tiger-in-thailand-exposes-dark-photo-trend/",
+      "publish_time": "2026-05-21T01:33:18+08:00",
+      "summary": "X平台视频揭露泰国老虎世界拍摄幕后，游客与老虎合影的黑暗摄影趋势引发关注",
+      "recommendation": "揭露泰国老虎合影幕后，揭示摄影伦理与动物福利冲突，对关注纪实摄影伦理的爱好者有警示价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Disturbing Video of Tourist Posing With Tiger in Thailand Exposes Dark Photo Trend"
+    },
+    {
+      "id": "recvkc9zllfvn6",
+      "title": "富士胶片停产X-H2/X-H2S手柄，相机逐渐从商店消失——你该对X-H3感到兴奋吗？",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-discontinues-x-h2-x-h2s-grips-as-cameras-slowly-vanish-from-stores-should-you-get-hyped-about-the-x-h3/",
+      "publish_time": "2026-05-21T01:21:53+08:00",
+      "summary": "富士停产X-H2/X-H2S手柄，相机逐渐下架，暗示X-H3即将到来。X-H1曾因商业失败而大幅促销，如今X-H2系列步其后尘，引发对X-H3的期待。",
+      "recommendation": "从富士X-H2系列停产信号切入，结合X-H1历史商业失败案例，预测X-H3动向，提供行业趋势与产品迭代的深度视角。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm Discontinues X-H2/X-H2S Grips as Cameras Slowly Vanish from Stores — Should You Get Hyped About the X-H3?"
+    },
+    {
+      "id": "recvkc9oi3oh0c",
+      "title": "七工匠发布Z卡口最亲民的135mm f/1.8定焦镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/20/7artisans-launches-689-135mm-f-1-8-af-portrait-prime-for-nikon-z-mount/",
+      "publish_time": "2026-05-21T01:02:14+08:00",
+      "summary": "七工匠发布尼康Z卡口135mm f/1.8自动对焦镜头，光圈f/1.8，STM对焦，适合人像和弱光摄影",
+      "recommendation": "七工匠为尼康Z卡口带来135mm f/1.8自动对焦镜头，STM马达和亲民定价是亮点，适合人像与弱光拍摄。文章提供具体规格与市场定位，对预算有限的Z卡口用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans Launches the Z-Mount’s Most Affordable 135mm f/1.8 Prime"
+    },
     {
       "id": "recvkb9SNaXjAm",
       "title": "新固件为索尼a7 V带来重大电影制作升级",
