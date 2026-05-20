@@ -33,7 +33,14 @@ def _extract_field(record: dict, field: str, default=None):
     # Handle link fields: {"link": "...", "text": "..."}
     if isinstance(val, dict) and "link" in val:
         return val["link"]
-    # Handle datetime: milliseconds timestamp
+    # Handle datetime: milliseconds timestamp (int or string)
+    if isinstance(val, (int, float)):
+        ts = int(val) / 1000
+        try:
+            dt = datetime.fromtimestamp(ts, tz=TZ_BEIJING)
+            return dt.isoformat()
+        except (ValueError, OSError):
+            return str(val)
     if isinstance(val, str) and val.isdigit() and len(val) == 13:
         try:
             ts = int(val) / 1000
