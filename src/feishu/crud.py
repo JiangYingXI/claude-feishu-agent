@@ -78,8 +78,10 @@ def insert_article(
 def fetch_recent_articles(page_size: int = 200,
                           page_token: str | None = None) -> dict:
     """Fetch recent articles sorted by publish_time desc."""
+    import json as _json
+    sort_val = _json.dumps([{"field_name": "发布时间", "desc": True}], ensure_ascii=False)
     params = {
-        "sort": [{"field_name": "发布时间", "desc": True}],
+        "sort": sort_val,
         "page_size": page_size,
     }
     if page_token:
@@ -90,15 +92,17 @@ def fetch_recent_articles(page_size: int = 200,
 
 def fetch_articles_since(days: int = 1) -> list[dict]:
     """Fetch articles from the last N days for digest generation."""
+    import json as _json
     since = datetime.now(TZ_BEIJING) - timedelta(days=days)
     since_ts = str(int(since.timestamp() * 1000))
+    sort_val = _json.dumps([{"field_name": "质量评分", "desc": True}], ensure_ascii=False)
 
     all_records = []
     page_token = None
     while True:
         params = {
             "filter": f'CurrentValue.[发布时间]>{since_ts}',
-            "sort": [{"field_name": "质量评分", "desc": True}],
+            "sort": sort_val,
             "page_size": 100,
         }
         if page_token:
