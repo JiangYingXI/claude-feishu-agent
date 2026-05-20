@@ -11,11 +11,10 @@ TZ_BEIJING = timezone(timedelta(hours=8))
 TABLE_PATH = f"/bitable/v1/apps/{FEISHU_BITABLE_APP_TOKEN}/tables/{FEISHU_TABLE_ID}/records"
 
 
-def _fmt_dt(dt: datetime | None) -> str | None:
-    """Format datetime to milliseconds timestamp for Feishu."""
+def _fmt_dt(dt: datetime | None) -> int | None:
     if dt is None:
         return None
-    return str(int(dt.timestamp() * 1000))
+    return int(dt.timestamp() * 1000)
 
 
 def check_duplicate(hash_val: str) -> bool:
