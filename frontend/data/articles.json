@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-21T00:24:11.735443+08:00",
-    "total_articles": 153,
+    "updated_at": "2026-05-21T00:34:18.029018+08:00",
+    "total_articles": 154,
     "data_range_days": 90
   },
   "categories": [
@@ -33,15 +33,31 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 115
+      "count": 116
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 52
+      "count": 53
     }
   ],
   "articles": [
+    {
+      "id": "recvkb9SNaXjAm",
+      "title": "新固件为索尼a7 V带来重大电影制作升级",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/20/new-firmware-gives-sony-a7-v-a-major-filmmaking-upgrade/",
+      "publish_time": "2026-05-21T00:26:24+08:00",
+      "summary": "索尼发布a7 V固件2.00，带来专业音频工作流程、FTP功能及新生产工具的重大更新，提升混合型摄影师和电影制作人的工作效率。",
+      "recommendation": "固件2.00为a7 V新增专业音频与FTP功能，对视频创作者有实用价值，但缺乏独家数据或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Firmware Gives Sony a7 V a Major Filmmaking Upgrade"
+    },
     {
       "id": "recvkb7l1QJ7Yl",
       "title": "南·戈尔丁将镜头对准艺术史，结果激励着任何希望重塑自我的摄影师",
@@ -53,7 +69,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Nan Goldin turns her camera onto art history, and the results are an inspiration for any photographer wishing to reinvent themselves"
     },
@@ -69,7 +85,7 @@
         "镜头与光学",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "7Artisans 135mm f1.8 Review: A Gorgeous Lens"
     },
@@ -85,7 +101,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "‘AI Could Have Made It,’ Blogger Claims After Photographer Sues"
     },
@@ -101,7 +117,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "This retro Olympus mirrorless camera is a a brilliant beginner buy and now it's just $599 in Adorama’s Memorial Day sale"
     },
@@ -116,7 +132,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "“This isn’t about politics. It’s about representation.” This project turns a statistic into stunning portraits documenting the milestone 40% female representation in British Parliament"
     },
@@ -131,7 +147,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Disneyland Sued Over Use of Facial Recognition Tech at Park Entrances"
     },
@@ -147,7 +163,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Canon’s New, Less Annoying Lens Cap Already Sold Out in Japan"
     },
@@ -163,7 +179,7 @@
         "摄影美学 & 技术科普",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "This photograph isn’t the Moon. It’s Mars. But it’s not the only stunning image coming from Psyche’s Mars flyby"
     },
@@ -179,7 +195,7 @@
         "摄影美学 & 技术科普",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Surprising camera accessories our readers keep with them at all times"
     },
@@ -195,7 +211,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The surprise camera accessories our readers keep with them at all times"
     },
@@ -211,7 +227,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Reviewing the Most Beautiful Digital Camera Ever Made 22 Years Later"
     },
@@ -227,7 +243,7 @@
         "产品洞察 & 行业资讯",
         "传感器硬件"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The Nikon Z5 II packs powerful full-frame features at a hard-to-ignore price"
     },
@@ -243,7 +259,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "I’m a Nikon expert –and the Nikon Z 24-120mm f/4 S might be the best kit lens on the planet"
     },
@@ -259,7 +275,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The big size difference between the LX100 II and the L10, illustrated"
     },
@@ -275,7 +291,7 @@
         "镜头与光学",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Are Fisheye Lenses Reclaiming Their Place in Photography?"
     },
@@ -291,7 +307,7 @@
         "产品洞察 & 行业资讯",
         "传感器硬件"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Sony A7v and 50-150 GM win the Camera Grand Prix 2026 Grand Prize"
     },
@@ -306,7 +322,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Trump Mobile’s Gold T1 Smartphone Set to Begin Shipping After Months of Delays"
     },
@@ -322,7 +338,7 @@
         "计算摄影 & AI 影像",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "OpenAI Gets Serious About Detecting Fake Images"
     },
@@ -337,7 +353,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Social Media Platforms Must Now Remove Sexual Deepfakes Within 48 Hours"
     },
@@ -352,7 +368,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Where can I pre-order the Canon EOS R6V camera? Here's how to get your hands on the new 7K video flagship"
     },
@@ -368,7 +384,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Sigma’s New Affordable Telephoto Lenses May Interest Birders"
     },
@@ -384,7 +400,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "This Beginner-Friendly 35mm Camera Comes With Two Rolls of Film For Just $50"
     },
@@ -399,7 +415,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "9 Things New Documentary Photographers Need to Know"
     },
@@ -415,7 +431,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Sigma 85mm f/1.2 demo unit displayed at the Beijing show"
     },
@@ -430,7 +446,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "You Can Take Your Rage Out on Photography by Smashing a Camera to Pieces at New Exhibit"
     },
@@ -446,7 +462,7 @@
         "产品洞察 & 行业资讯",
         "传感器硬件"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The Sony A7 V has led best-seller lists for months. But Sony’s new 67MP camera is already threatening to take the top spot"
     },
@@ -462,7 +478,7 @@
         "镜头与光学",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Leica improves the color matrix of Q3-series cameras in the latest firmware update"
     },
@@ -477,7 +493,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "One of the best beginner DSLRs may be discontinued – just three years after its release"
     },
@@ -492,7 +508,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Photography Weekends Britain is on sale now – get 25% off this book that's full of great photo opportunities!"
     },
@@ -508,7 +524,7 @@
         "计算摄影 & AI 影像",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "These are the features I’d love to see camera manufacturers borrow from the iPhone"
     },
@@ -524,7 +540,7 @@
         "摄影美学 & 技术科普",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The Best Film Cameras Under $500"
     },
@@ -540,7 +556,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Sony Tidbits…"
     },
@@ -556,7 +572,7 @@
         "计算摄影 & AI 影像",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Google launches Gemini 3.5 Flash and Gemini Omni AI models"
     },
@@ -571,7 +587,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Canon to Raise Prices on a Wide Selection of Gear in Japan"
     },
@@ -587,7 +603,7 @@
         "摄影美学 & 技术科普",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The Most Important Thing a Photographer Can Have Today Isn’t Gear"
     },
@@ -602,7 +618,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Itel A100 Pro goes official with a 6.6-inch display and a 5,000mAh battery"
     },
@@ -618,7 +634,7 @@
         "计算摄影 & AI 影像",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Clean Up High-ISO Noise and Heavy Crops Naturally with Aiarty Image Enhancer (49% Off)"
     },
@@ -633,7 +649,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Fujifilm X100VI Black In Stock Now at BHphoto"
     },
@@ -649,7 +665,7 @@
         "产品洞察 & 行业资讯",
         "计算摄影 & AI 影像"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The a7R VI's Raw power has been revealed"
     },
@@ -664,7 +680,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Big savings on Nextorage cards!"
     },
@@ -679,7 +695,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Ludicrous $17,400 Batman Graphic Novel Looks Like a Camera"
     },
@@ -695,7 +711,7 @@
         "计算摄影 & AI 影像",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Google Pics Makes AI Image Generation Way Less Annoying"
     },
@@ -711,7 +727,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Why Photographers Are Paying Premiums for This Leica"
     },
@@ -727,7 +743,7 @@
         "计算摄影 & AI 影像",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "VWFNDR MBL Is a New Android Camera App and an Actual Camera Is In the Works"
     },
@@ -743,7 +759,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "A cheap full-frame DSLR is still the sensible buy for budget photographers"
     },
@@ -758,7 +774,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "New Sony a7R VI videos from BH"
     },
@@ -773,7 +789,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Todd Webb, a Photographer Who Once Walked From New York to San Francisco, Has Archive Preserved"
     },
@@ -788,7 +804,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "DJI Holds a Whopping 73% of the Video Camera Market"
     },
@@ -804,7 +820,7 @@
         "镜头与光学",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Insta360's new GO 3S Retro Bundle – old-school viewfinder and film filters make this ultra-light 39g camera look like your nan's 110 compact"
     },
@@ -820,7 +836,7 @@
         "产品洞察 & 行业资讯",
         "传感器硬件"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The full-frame Nikon Z5 camera is trending and I think I know why"
     },
@@ -836,7 +852,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Just how annoying is the original RF rear lens cap? Canon Japan says the new dust cap is so popular, orders may be delayed"
     },
@@ -852,7 +868,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Is Canon Working on Tilt-Shift Lens Unlike Any Other?"
     },
@@ -867,7 +883,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Photographer Larry Chen Stars in the New Forza Horizon Racing Game"
     },
@@ -883,7 +899,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "PURE35 reloadable film camera gets back to basics with a simple design made for capturing \"everyday moments\""
     },
@@ -899,7 +915,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "New Fujinon XF23mm Lens Variations Surface in Latest Fujifilm Patents"
     },
@@ -915,7 +931,7 @@
         "拆机 & 实测 & 样张",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Panasonic's L10 in the wild: samples from the newest enthusiast compact"
     },
@@ -931,7 +947,7 @@
         "产品洞察 & 行业资讯",
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "This Nikon Z6 II bundle includes everything you need to start your full-frame journey – and saves you £750"
     },
@@ -946,7 +962,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The Rolling Clones? I’m critical of genAI, but ‘deepfaked’ music video of Jagger and co hits differently"
     },
@@ -961,7 +977,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "This trending footage of a one-day-old rhino makes me want to ditch photography to become a national park ranger"
     },
@@ -977,7 +993,7 @@
         "产品洞察 & 行业资讯",
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Canon continues massive firmware rollout with more cameras added – including a PowerShot compact camera and pocket-sized cinema EOS"
     },
@@ -993,7 +1009,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "This all-in-one zoom lens covers all my photo needs – and it just dropped by $100"
     },
@@ -1008,7 +1024,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Shutterstock to Pay $35 Million to FTC Over Allegations the Company Misled Customers"
     },
@@ -1023,7 +1039,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Insta360’s New Flagship Wireless Mics Have Customizable Displays"
     },
@@ -1038,7 +1054,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Insta360's new mic's big feature puts your branding first"
     },
@@ -1054,7 +1070,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The Best Classic Sigma Lenses for Portraits Under $1000"
     },
@@ -1069,7 +1085,7 @@
       "categories": [
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Yongnuo announced two new f/1.4 FF primes and says f/1.2 fast lenses are coming later this year!"
     },
@@ -1084,7 +1100,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Plan For Teachers to Record Children For AI Training Purposes Scrapped After Parent Backlash"
     },
@@ -1100,7 +1116,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Sigma is updating one of its most popular Art lenses with an even brighter aperture, but I think the upcoming 85mm has more competition than ever"
     },
@@ -1115,7 +1131,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Where can I pre-order the 67-megapixel Sony A7R VI? Here's how to get your hands on the new high-resolution flagship from Sony"
     },
@@ -1130,7 +1146,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "These Reporters Working at Local Florida News Website Were Actually AI-Generated"
     },
@@ -1146,7 +1162,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The Canon EOS R6 V \"might be the perfect camera\". But is it perfect for you?"
     },
@@ -1162,7 +1178,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Fujifilm is going on tour. These free Instax events introduce instant film (and yes, you get to keep the photos)"
     },
@@ -1177,7 +1193,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Film Photography for Street Photographers: The Basics"
     },
@@ -1192,7 +1208,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Stop guessing with Lightroom Classic color wheels and master cinematic style with this color grading cheat sheet!"
     },
@@ -1207,7 +1223,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Blending Natural Light and Strobe Light for Better Portrait Photography"
     },
@@ -1222,7 +1238,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Nikon Japan announced a price increase for the Z50II camera and a few other products"
     },
@@ -1237,7 +1253,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "3 Landscape Lessons from Minor White"
     },
@@ -1253,7 +1269,7 @@
         "摄影美学 & 技术科普",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Rankin, Nile Rodgers and Raye among star-studded judging panel as Abbey Road Music Photography Awards 2026 opens for entries"
     },
@@ -1268,7 +1284,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Fujifilm Is Taking Instax on the Road With a Summer Tour"
     },
@@ -1284,7 +1300,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "AI-Generated ‘Photo’ Disqualified From Hasselblad Masters 2026"
     },
@@ -1300,7 +1316,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Compact cameras have an annoying heat problem. The Canon PowerShot V1 is one of the few point-and-shoots that cools itself"
     },
@@ -1316,7 +1332,7 @@
         "摄影美学 & 技术科普",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "This Photographer Built a Camera That Shoots Wider Than Any Camera You Can Buy"
     },
@@ -1331,7 +1347,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Is this a joke? The most iconic Batman comic of all time gets a US$17,500 prestige edition that looks like a camera"
     },
@@ -1347,7 +1363,7 @@
         "产品洞察 & 行业资讯",
         "计算摄影 & AI 影像"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Apple buys one-person photo editing software application: What’s it got up its sleeve?"
     },
@@ -1362,7 +1378,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Nikon cuts executive pay as camera giant looks to turn around declining revenue"
     },
@@ -1378,7 +1394,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "This Mamiya Camera Kit Fetched Over $5000"
     },
@@ -1394,7 +1410,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "\"Probably the best 70-200mm zoom in the world\" successor just became the #1 selling lens in Japan – it's improved in almost every way"
     },
@@ -1410,7 +1426,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Chinese Lens Makers Unleash Wave of New Autofocus Lenses for Fujifilm X and GFX"
     },
@@ -1426,7 +1442,7 @@
         "产品洞察 & 行业资讯",
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The Sony RX100 VII is our readers' most bought compact camera – and now it's $200 off"
     },
@@ -1442,7 +1458,7 @@
         "传感器硬件",
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Hands on with the Panasonic L10: the most exciting camera of 2026 (so far)"
     },
@@ -1458,7 +1474,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Godox crams a bright light into a palm-sized, budget LED light using a modifier trick with the new ML40Bi and ML40R"
     },
@@ -1474,7 +1490,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Why am I more excited about this random Canon accessory than the camera and lens it just announced?"
     },
@@ -1489,7 +1505,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Fujifilm Wins 27 RedDot Awards with GFX100RF Declared “Best of the Best” – And Here is How Much Fujifilm Has to Pay For That"
     },
@@ -1504,7 +1520,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Where photographers are submitting work in May 2026 for real exposure"
     },
@@ -1519,7 +1535,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The Nikon Z50 II May Become More Expensive"
     },
@@ -1535,7 +1551,7 @@
         "镜头与光学",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.008000+08:00",
+      "quality_score": 8,
       "language": "English",
       "original_title": "Leica 28mm APO-Summicron-SL f/2 ASPH. lens review"
     },
@@ -1551,7 +1567,7 @@
         "镜头与光学",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Leica APO-Vario-Elmarit-SL 90-280mm f/2.8-4 review"
     },
@@ -1567,7 +1583,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The 2 Best Cameras for Travel Photography to Buy Used"
     },
@@ -1582,7 +1598,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Edith Tudor-Hart was one of Britain's best documentary photographers and a soviet spy - so why have most people never heard of her?"
     },
@@ -1598,7 +1614,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Canon has given the Mark II treatment to one of its cheapest accessories – and photographers are actually really excited about the clever new rear lens cap"
     },
@@ -1613,7 +1629,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Memory card prices may just be the start. These three camera brands warn of rising costs amid the AI memory crisis"
     },
@@ -1629,7 +1645,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Stock Notice: Canon RF 14mm f/1.4L VCM at Adorama"
     },
@@ -1645,7 +1661,7 @@
         "产品洞察 & 行业资讯",
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Weekly Nikon news flash #886"
     },
@@ -1660,7 +1676,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "How do you photograph history that people would rather forget, or grief that has no shape? Two Japanese photographers give very different answers"
     },
@@ -1675,7 +1691,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.008000+08:00",
+      "quality_score": 8,
       "language": "English",
       "original_title": "\"I wish I’d never taken it\"–Aberfan disaster photographer still haunted by his award-winning image"
     },
@@ -1690,7 +1706,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "They Can’t Last Forever: This is When the Fujifilm X and GFX Deals Will End"
     },
@@ -1706,7 +1722,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The trendy Sony A7 V just gained pro audio features, including 32-bit float recording in a key firmware update"
     },
@@ -1722,7 +1738,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "New Brightin Star 10mm f/5.6Ⅱ APS-C fisheye lens for Nikon Z-mount launched with an intro price of $66"
     },
@@ -1738,7 +1754,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Best accessories for the OM System TG-7 and Olympus Tough underwater compact cameras"
     },
@@ -1754,7 +1770,7 @@
         "镜头与光学",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "We put Thypoch's new autofocus zoom to the test"
     },
@@ -1770,7 +1786,7 @@
         "镜头与光学",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Wide load! The history of panoramic cameras –from the iconic XPan to the old and new Widelux"
     },
@@ -1785,7 +1801,7 @@
       "categories": [
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Brightin Star Announces the RF-S 10mm F5.6 II Fisheye for only $65"
     },
@@ -1801,7 +1817,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "All new lenses from the 2026 China P&E Imaging Show"
     },
@@ -1817,7 +1833,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The Sony a7R VI in action: wildlife, landscapes, portraits and more"
     },
@@ -1832,7 +1848,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Exclusive Discounts at Midwest Photo on Most Canon Gear"
     },
@@ -1848,7 +1864,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.008000+08:00",
+      "quality_score": 8,
       "language": "English",
       "original_title": "No, the Sony a7R VI isn't a cut-price a1 II"
     },
@@ -1863,7 +1879,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "How creating a challenge helped one creator find new inspiration"
     },
@@ -1879,7 +1895,7 @@
         "产品洞察 & 行业资讯",
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "The team discusses the wild week in camera releases"
     },
@@ -1895,7 +1911,7 @@
         "计算摄影 & AI 影像",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Fix soft video and low-light noise in video workflow with Aiarty Video Enhancer (36% off lifetime license + extra coupon)"
     },
@@ -1911,7 +1927,7 @@
         "产品洞察 & 行业资讯",
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The DJI Osmo Pocket 4P teaser hints at a multi-camera design"
     },
@@ -1926,7 +1942,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Deal of the day: the Nikon ZR camera is now 16% off at Amazon UK"
     },
@@ -1942,7 +1958,7 @@
         "镜头与光学",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "This photographer uses an 800mm to lock onto split-second moments"
     },
@@ -1958,7 +1974,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Thypoch reveals the prime-like price of its autofocus zoom"
     },
@@ -1974,7 +1990,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Insta360 gave its tiny action camera a retro refresh"
     },
@@ -1990,7 +2006,7 @@
         "镜头与光学",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Canon RF 20-50mm f/4L IS USM PZ MTF Curve Performance"
     },
@@ -2005,7 +2021,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "SPINN.DESIGN ProWrapp Impact+ gear wrapper with max shock resistance crowdfunding campaign is ending soon"
     },
@@ -2020,7 +2036,7 @@
       "categories": [
         "镜头与光学"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Nikon Nikkor Z 24-120mm f/4 S lens firmware update version 1.20 released"
     },
@@ -2036,7 +2052,7 @@
         "产品洞察 & 行业资讯",
         "计算摄影 & AI 影像"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Canon is updating one of the flagship features of its high-end cameras"
     },
@@ -2052,7 +2068,7 @@
         "传感器硬件",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Sony's a7R VI comes speeding out of the studio"
     },
@@ -2068,7 +2084,7 @@
         "产品洞察 & 行业资讯",
         "计算摄影 & AI 影像"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Sony's new Xperia flagship phone makes a major camera tradeoff"
     },
@@ -2084,7 +2100,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Sony's updated telephoto zoom is bigger, badder, faster"
     },
@@ -2100,7 +2116,7 @@
         "传感器硬件",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Canon's latest camera is targeting a new audience"
     },
@@ -2116,7 +2132,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Canon's new lens is a first for its full-frame mirrorless lineup"
     },
@@ -2132,7 +2148,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Canon's most understated new accessory might be its most exciting"
     },
@@ -2147,7 +2163,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "What accessories are must-haves in your photography kit?"
     },
@@ -2162,7 +2178,7 @@
       "categories": [
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The new 2026 5DayDeal “Photography Path To Mastery” is now available"
     },
@@ -2177,7 +2193,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Apple quietly purchased a cult-favorite photography tool"
     },
@@ -2193,7 +2209,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Panasonic Lumix L10 unboxing: we couldn't wait to get our hands on it"
     },
@@ -2209,7 +2225,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Nikon Z5II firmware update version 1.11 released"
     },
@@ -2225,7 +2241,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.005000+08:00",
+      "quality_score": 5,
       "language": "English",
       "original_title": "Brightin Star announced a new 7.5mm f/2.8 IV APS-C ultra-wide fisheye lens for Nikon Z-mount"
     },
@@ -2241,7 +2257,7 @@
         "产品洞察 & 行业资讯",
         "摄影美学 & 技术科普"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Weekly Nikon news flash #885"
     },
@@ -2256,7 +2272,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "March CIPA numbers"
     },
@@ -2271,7 +2287,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Nikon FY2026 financial results: profits down, targets recovery in FY2027"
     },
@@ -2287,7 +2303,7 @@
         "镜头与光学",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "The Nikon R1C1 wireless close-up Speedlight system is now on sale (up to $300 off)"
     },
@@ -2303,7 +2319,7 @@
         "产品洞察 & 行业资讯",
         "计算摄影 & AI 影像"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Next-Generation Smartphone Cameras: Trends Driving Innovation"
     },
@@ -2318,7 +2334,7 @@
       "categories": [
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "ThinkPad X1 Carbon Gen 14 Aura Edition laptop test"
     },
@@ -2334,7 +2350,7 @@
         "拆机 & 实测 & 样张",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Samsung Galaxy S26 Ultra Camera test"
     },
@@ -2350,7 +2366,7 @@
         "拆机 & 实测 & 样张",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Google Pixel 10a Camera test"
     },
@@ -2366,7 +2382,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Tecno Camon 50 Ultra 5G Camera test"
     },
@@ -2382,7 +2398,7 @@
         "摄影美学 & 技术科普",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.007000+08:00",
+      "quality_score": 7,
       "language": "English",
       "original_title": "Understanding portrait preferences: DXOMARK Insights in Riyadh"
     },
@@ -2398,7 +2414,7 @@
         "产品洞察 & 行业资讯",
         "拆机 & 实测 & 样张"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Motorola Razr Fold Camera Test"
     },
@@ -2414,7 +2430,7 @@
         "拆机 & 实测 & 样张",
         "产品洞察 & 行业资讯"
       ],
-      "quality_score": "1970-01-01T08:00:00.006000+08:00",
+      "quality_score": 6,
       "language": "English",
       "original_title": "Xiaomi 17 Ultra Camera Test"
     },
@@ -2429,7 +2445,7 @@
       "categories": [
         "传感器硬件"
       ],
-      "quality_score": "1970-01-01T08:00:00.008000+08:00",
+      "quality_score": 8,
       "language": "中文",
       "original_title": "Test Article 2"
     }
