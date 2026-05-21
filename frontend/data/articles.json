@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-21T04:39:19.576786+08:00",
-    "total_articles": 164,
+    "updated_at": "2026-05-21T12:58:30.323055+08:00",
+    "total_articles": 166,
     "data_range_days": 90
   },
   "categories": [
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 123
+      "count": 125
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvkebcoNfBc9",
+      "title": "Poco Pad C1发布，配置与以往相似",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/poco_pad_c1_launches_with_familiar_specs-news-72922.php",
+      "publish_time": "2026-05-21T12:16:02+08:00",
+      "summary": "小米发布Poco Pad C1，实为Redmi Pad 2 9.7换标版，配备9.7英寸120Hz LCD屏，骁龙处理器，峰值亮度600尼特。",
+      "recommendation": "常规资讯，可了解行业动态。文章揭示Poco Pad C1实为Redmi Pad 2换标版，对关注平板影像生态的读者有参考价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Poco Pad C1 launches with familiar specs"
+    },
+    {
+      "id": "recvkebeUAA4JG",
+      "title": "iQOO Pad6 Pro 发布：4K 屏幕 + 骁龙 8 Elite Gen 5 处理器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_pad6_pro_is_here_with_4k_screen_snapdragon_8_elite_gen_5_soc-news-72919.php",
+      "publish_time": "2026-05-21T08:11:02+08:00",
+      "summary": "iQOO发布Pad6 Pro平板，配备13.2英寸4K LCD屏、骁龙8 Elite Gen 5处理器、13000mAh电池，售价4499元。",
+      "recommendation": "平板影像非核心卖点，但4K LCD屏对照片回放和视频剪辑有参考价值，骁龙8 Elite Gen 5的ISP性能可关注。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iQOO Pad6 Pro is here with 4K screen, Snapdragon 8 Elite Gen 5 SoC"
+    },
     {
       "id": "recvkc9pXOmE1s",
       "title": "Adobe持续推进代理式AI：Google Gemini即将在Lightroom和Photoshop中为你编辑照片，并在Premiere中处理视频",
