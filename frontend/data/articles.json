@@ -1,19 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-05-22T00:06:56.934627+08:00",
-    "total_articles": 200,
+    "updated_at": "2026-05-22T04:27:20.159175+08:00",
+    "total_articles": 218,
     "data_range_days": 90
   },
   "categories": [
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 10
+      "count": 11
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 59
+      "count": 63
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,289 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 14
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 17
+      "count": 18
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 153
+      "count": 164
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 69
+      "count": 78
     }
   ],
   "articles": [
+    {
+      "id": "recvkhWIGVnZrw",
+      "title": "我把微单放家里，试了试时髦的柯达PixPro FZ55。我明白这款廉价卡片机为何畅销——但我并不买账",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-left-my-mirrorless-at-home-to-try-the-trendy-kodak-pixpro-fz55-i-get-why-the-cheap-point-and-shoot-is-a-best-seller-but-im-not-sold",
+      "publish_time": "2026-05-22T04:08:41+08:00",
+      "summary": "柯达PixPro FZ55廉价卡片机畅销，但曝光测光和色彩还原不如多花几百元的微单。",
+      "recommendation": "文章通过实测对比，揭示廉价卡片机在曝光测光和色彩还原上的短板，为预算有限的影像爱好者提供选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I left my mirrorless at home to try the trendy Kodak PixPro FZ55. I get why the cheap point-and-shoot is a best-seller – but I’m not sold"
+    },
+    {
+      "id": "recvkhWx3RZvDt",
+      "title": "取景之前：一位电影制作人的街头摄影之道",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/before-the-frame-a-filmmakers-approach-to-street-photography/",
+      "publish_time": "2026-05-22T04:08:23+08:00",
+      "summary": "丹阿拉贡在布鲁克林大桥上体验清晨宁静，强调拍摄前观察的重要性，核心价值在于街头摄影的哲学与实践",
+      "recommendation": "从电影制作人视角解析街头摄影的观察哲学，提供拍摄前静心观察的实操方法，适合追求影像深度的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Before the Frame: A Filmmaker’s Approach to Street Photography"
+    },
+    {
+      "id": "recvkhWz46Wff6",
+      "title": "科学家正在构建摄像头系统以监测动物园动物健康",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/scientists-are-building-a-camera-system-to-monitor-zoo-animals-health/",
+      "publish_time": "2026-05-22T03:51:33+08:00",
+      "summary": "研究人员开发AI摄像头平台，帮助动物园管理员监测动物健康与福祉。",
+      "recommendation": "AI摄像头监测动物园动物健康，展示计算摄影在非消费场景的创新应用，提供行业跨界视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Scientists Are Building a Camera System to Monitor Zoo Animals’ Health"
+    },
+    {
+      "id": "recvkhWKwaLcrd",
+      "title": "抱歉，时髦的薄饼镜头——老蛙新款多卡口紧凑型鱼眼变焦镜头是“松饼镜头”，带有巧妙的齐焦功能",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/sorry-trendy-pancake-lenses-laowas-new-multi-mount-compact-fisheye-zoom-is-a-muffin-lens-with-a-neat-parafocal-trick",
+      "publish_time": "2026-05-22T03:07:07+08:00",
+      "summary": "老蛙新款4.5-10mm f/2.8 CF鱼眼变焦镜头，紧凑齐焦设计，支持裁幅传感器，可拍圆形和矩形画面。",
+      "recommendation": "老蛙这款鱼眼变焦镜头以紧凑齐焦设计实现圆形与矩形画面切换，对裁幅传感器用户有实用价值，齐焦功能是独特亮点。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sorry, trendy pancake lenses – Laowa’s new multi-mount compact fisheye zoom is a “muffin lens” with a neat parafocal trick"
+    },
+    {
+      "id": "recvkhWYzkU2Rw",
+      "title": "灰尘为何会毁掉你的自动对焦（以及如何防护）",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/21/dust-can-kill-autofocus-insurance/",
+      "publish_time": "2026-05-22T03:00:00+08:00",
+      "summary": "灰尘会严重影响相机自动对焦性能，保修通常不覆盖此类损坏，摄影护理计划提供额外防护。",
+      "recommendation": "解析灰尘干扰对焦的机制，揭示保修盲区，提供实用防护方案，对相机用户有直接维护价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Why Dust Could Kill Your Autofocus (And How to Protect Against It)"
+    },
+    {
+      "id": "recvkhWATXpfkr",
+      "title": "MLS比赛将成首个完全用iPhone拍摄的职业体育转播",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/mls-game-to-be-first-pro-sports-broadcast-shot-entirely-with-iphone/",
+      "publish_time": "2026-05-22T02:32:05+08:00",
+      "summary": "苹果将于5月23日首次完全用iPhone 17 Pro直播MLS比赛，这是职业体育转播的里程碑。",
+      "recommendation": "苹果用iPhone 17 Pro直播MLS赛事，验证手机影像在体育转播中的极限，提供计算摄影与实时视频处理的技术细节。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "MLS Game To Be First Pro Sports Broadcast Shot Entirely With iPhone"
+    },
+    {
+      "id": "recvkhWTE8Qf9L",
+      "title": "使用Aiarty清理高ISO和裁剪的富士胶片文件：工作流程更新与周年庆优惠",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/clean-up-high-iso-and-cropped-fujifilm-files-with-aiarty-workflow-updates-and-anniversary-savings/",
+      "publish_time": "2026-05-22T02:27:02+08:00",
+      "summary": "Aiarty图像增强器可清理高ISO和裁剪的富士文件，优化街拍、旅行及转接镜头图像，工作流程更新并推出周年庆优惠。",
+      "recommendation": "针对富士用户的高ISO降噪与裁剪优化方案，含具体工作流更新，非通用教程，对街拍和转接党有实操价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Clean Up High-ISO and Cropped Fujifilm Files with Aiarty: Workflow Updates and Anniversary Savings"
+    },
+    {
+      "id": "recvkhX4IkQerw",
+      "title": "BH、亚马逊、Adorama 推出阵亡将士纪念日新优惠",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-memorial-day-savings-at-bh-amazon-adorama/",
+      "publish_time": "2026-05-22T02:25:30+08:00",
+      "summary": "BH、亚马逊、Adorama推出阵亡将士纪念日优惠，包括亚马逊Outlet最高50%折扣、闪迪存储折扣及捷信三脚架优惠800美元。",
+      "recommendation": "阵亡将士纪念日优惠汇总，含闪迪存储折扣及捷信三脚架最高省800美元，适合近期有器材采购需求的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Memorial Day Savings at BH, Amazon, Adorama"
+    },
+    {
+      "id": "recvkhWRJzlail",
+      "title": "三星Galaxy S27 Pro相机细节泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_camera_details_leak-news-72934.php",
+      "publish_time": "2026-05-22T02:21:02+08:00",
+      "summary": "三星Galaxy S27 Pro相机细节泄露，传闻其与Ultra将配备不同长焦摄像头，屏幕尺寸此前已曝光。",
+      "recommendation": "曝光S27 Pro与Ultra长焦差异化配置，提供屏幕尺寸等关键参数，助影像爱好者预判三星旗舰相机策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 Pro camera details leak"
+    },
+    {
+      "id": "recvkhWCP70nkh",
+      "title": "摄影师可在家自制专属钥匙链相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/photographers-can-build-their-very-own-keychain-camera-at-home/",
+      "publish_time": "2026-05-22T02:02:31+08:00",
+      "summary": "Keymera是一款可通过3D打印在家自制的钥匙链相机，摄影师可自行组装，延续了柯达Charmera的潮流。",
+      "recommendation": "介绍Keymera钥匙链相机的3D打印自制方案，延续柯达Charmera潮流，提供DIY组装细节与摄影创意价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographers Can Build Their Very Own Keychain Camera at Home"
+    },
+    {
+      "id": "recvkhWMft3okE",
+      "title": "“美国亚马逊”也需要保护，这本摄影书探索其消失的生物多样性",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/the-american-amazon-needs-protecting-too-and-this-photography-book-explores-its-disappearing-biodiversity",
+      "publish_time": "2026-05-22T02:00:00+08:00",
+      "summary": "摄影师麦克·斯通新书记录美国东南部生态避难所，展现其美景并警示人类侵占威胁，探索消失的生物多样性。",
+      "recommendation": "通过生态摄影案例，探讨影像记录对生物多样性保护的独特价值，提供自然摄影构图与叙事技巧的深度分析。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The “American Amazon” needs protecting too, and this photography book explores its disappearing biodiversity"
+    },
+    {
+      "id": "recvkhX0AlpyIM",
+      "title": "Thypoch Ksana 35mm F2 ASPH（M卡口）镜头：现代光学中的复古灵魂",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/21/thypoch-ksana-35mm-f2-asph-announcement/",
+      "publish_time": "2026-05-22T00:34:23+08:00",
+      "summary": "Thypoch Ksana 35mm F2 ASPH M卡口镜头，现代光学兼顾复古灵魂，手动对焦，平衡临床性能与特质。",
+      "recommendation": "解析Thypoch Ksana 35mm F2 ASPH如何在现代光学中融入复古特质，提供手动对焦体验与临床性能的平衡数据，适合M卡口用户评估其独特成像风格。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Thypoch’s Ksana 35mm F2 ASPH (M-Mount) Lens Promises Vintage Soul in a Modern Optic"
+    },
+    {
+      "id": "recvkhWELqAp1e",
+      "title": "NASA系外行星猎手揭示其最完整的夜空视图",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/nasas-exoplanet-hunter-reveals-its-most-complete-look-at-the-night-sky/",
+      "publish_time": "2026-05-22T00:29:35+08:00",
+      "summary": "NASA的TESS卫星发布历时八年拍摄的全天拼接图，包含679颗已确认系外行星和近5200颗候选系外行星，提供最完整的夜空视图。",
+      "recommendation": "TESS八年全天拼接图含679颗系外行星数据，为天文摄影爱好者提供罕见星图素材与深空目标参考，独家数据可辅助观测规划。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "NASA’s Exoplanet Hunter Reveals its Most Complete Look at the Night Sky"
+    },
+    {
+      "id": "recvkhWNYdSJkh",
+      "title": "紧凑型相机可能是十年来的摄影趋势，但相机太小也是个问题",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/compact-cameras-may-be-the-photo-trend-of-the-decade-but-there-is-such-a-thing-as-cameras-that-are-too-small",
+      "publish_time": "2026-05-22T00:09:03+08:00",
+      "summary": "紧凑型相机虽流行便携，但尺寸过小影响握持舒适度，需平衡便携性与人体工学设计。",
+      "recommendation": "剖析紧凑相机便携与握持的冲突，提供人体工学设计平衡观点，适合关注产品形态演变的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Compact cameras may be the photo trend of the decade, but there is such a thing as cameras that are too small"
+    },
+    {
+      "id": "recvkhWPShM2yh",
+      "title": "这款新鱼眼镜头可放进口袋，比棒球还轻，采用经典对焦技巧，售价仅75美元/56英镑",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-new-fisheye-lens-fits-in-a-pocket-weighs-less-than-a-baseball-uses-a-longstanding-focus-trick-and-costs-us-usd75-gbp56",
+      "publish_time": "2026-05-22T00:03:45+08:00",
+      "summary": "Brightin Star 10mm f/5.6 II鱼眼镜头，APS-C/M4/3卡口，轻于棒球，售价75美元，采用经典对焦技巧。",
+      "recommendation": "文章介绍Brightin Star 10mm f/5.6 II鱼眼镜头，APS-C/M4/3卡口，仅75美元，轻于棒球，适合预算有限的广角爱好者。提供价格、重量、对焦方式等关键数据，属于常规产品资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This new fisheye lens fits in a pocket, weighs less than a baseball, uses a longstanding focus trick – and costs US$75 / £56"
+    },
+    {
+      "id": "recvkhWVAIJpO4",
+      "title": "Venus Optics发布新款Laowa 4.5-10mm f/2.8 CF APS-C鱼眼变焦镜头，适用于尼康Z卡口",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/21/venus-optics-announced-a-new-laowa-4-5-10mm-f-2-8-cf-aps-c-fisheye-zoom-lens-for-nikon-z-mount.aspx/",
+      "publish_time": "2026-05-22T00:01:52+08:00",
+      "summary": "Venus Optics发布Laowa 4.5-10mm f/2.8 CF APS-C鱼眼变焦镜头，适用于尼康Z卡口，售价399美元，视角175-180°，最近对焦距离3.9英寸，手动对焦。",
+      "recommendation": "APS-C鱼眼变焦新选择，175-180°超广视角与f/2.8恒定光圈是亮点，399美元定价明确，手动对焦设计适合特定创作需求。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Venus Optics announced a new Laowa 4.5-10mm f/2.8 CF APS-C fisheye zoom lens for Nikon Z-mount"
+    },
+    {
+      "id": "recvkhX2vwhQqM",
+      "title": "宾得645数码单反相机即将问世？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/21/is-a-new-pentax-645-dslr-on-the-way/",
+      "publish_time": "2026-05-22T00:00:00+08:00",
+      "summary": "宾得即将推出645数码单反相机，试图逆转单反市场衰退趋势，为消费者提供新选择。",
+      "recommendation": "解析宾得645数码单反逆势布局，提供中画幅市场新动态与产品策略分析，适合关注单反未来走向的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is a New Pentax 645 DSLR on the Way?"
+    },
     {
       "id": "recvkgTjdfFzyP",
       "title": "Oura Ring 5 发布日期泄露，就在下周",
@@ -260,6 +524,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Laowa Just Made Fisheye Photography More Versatile Than Ever Before"
+    },
+    {
+      "id": "recvkhWGRt5SAN",
+      "title": "a7R VI在测试中展现动态范围实力",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/2817322047/sony-a7r-vi-dynamic-range-studio-tests",
+      "publish_time": "2026-05-21T21:00:00+08:00",
+      "summary": "索尼a7R VI在测试中展现动态范围实力，采用新技术实现系列最快速度且动态范围优于前代，使用FE 24-70mm F2.8 GM II镜头于ISO 100拍摄。",
+      "recommendation": "实测数据证实a7R VI动态范围超越前代，ISO 100下配合GM II镜头表现亮眼，为高像素机型用户提供关键画质参考。",
+      "categories": [
+        "传感器硬件",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The a7R VI flexes its dynamic range in our tests"
     },
     {
       "id": "recvkgT5UDjAUe",
