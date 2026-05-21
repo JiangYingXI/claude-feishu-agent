@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-21T12:58:30.323055+08:00",
-    "total_articles": 166,
+    "updated_at": "2026-05-21T18:16:50.983613+08:00",
+    "total_articles": 176,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 48
+      "count": 50
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,170 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 125
+      "count": 135
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 57
+      "count": 60
     }
   ],
   "articles": [
+    {
+      "id": "recvkft4DDgHVm",
+      "title": "小巧、全画幅且价格亲民：这就是我仍将索尼A7C视为日常相机的原因（尤其是这个价位）",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/its-small-full-frame-and-affordable-this-is-why-i-still-rate-the-sony-a7c-as-an-everyday-camera-and-especially-at-this-price",
+      "publish_time": "2026-05-21T18:04:03+08:00",
+      "summary": "索尼A7C虽非最新，但2400万像素全画幅、无4K/60p，价格亲民，仍是日常相机首选。",
+      "recommendation": "解析A7C在2024年的性价比定位，提供2400万像素全画幅与无4K/60p的取舍分析，适合预算有限但追求轻便全画幅的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "It's small, full-frame, and affordable: this is why I still rate the Sony A7C as an everyday camera (and especially at this price)"
+    },
+    {
+      "id": "recvkftiLrFDw0",
+      "title": "PocketWizard Plus VE 收发器值得买吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/21/is-the-pocketwizard-plus-ve-transceiver-worth-your-money/",
+      "publish_time": "2026-05-21T18:00:00+08:00",
+      "summary": "PocketWizard在2026年发布新款Plus VE收发器，在闪光灯系统专用化趋势下，探讨其通用触发能力与市场适应性。",
+      "recommendation": "解析PocketWizard新款收发器在专用化趋势下的通用触发能力，提供市场适应性分析，适合关注闪光灯系统的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is the PocketWizard Plus VE Transceiver Worth Your Money?"
+    },
+    {
+      "id": "recvkft1Z04gUg",
+      "title": "雷克沙与阿根廷合作推出世界杯主题存储方案",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/lexar-teams-up-with-argentina-for-world-cup-themed-storage-solution/",
+      "publish_time": "2026-05-21T17:35:55+08:00",
+      "summary": "雷克沙与阿根廷足协合作，在世界杯前夕推出以卫冕冠军球衣为品牌的存储系列产品。",
+      "recommendation": "常规资讯，可了解行业动态。文章揭示存储品牌与体育IP联名策略，对影像爱好者无直接技术价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lexar Teams Up With Argentina for World Cup-Themed Storage Solution"
+    },
+    {
+      "id": "recvkfte9xqKSZ",
+      "title": "Oppo Find X9 Ultra 和 Find X9s 在印度发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_find_x9_ultra_find_x9s_india_price_sale_date-news-72929.php",
+      "publish_time": "2026-05-21T17:28:02+08:00",
+      "summary": "Oppo在印度推出Find X9 Ultra和Find X9s，其中Ultra版12GB/512GB售价169,999卢比，提供冻土赭色和峡谷橙色，成为Oppo在印度首款Ultra机型。",
+      "recommendation": "Oppo首款Ultra机型登陆印度，提供1英寸主摄与双潜望长焦配置，对关注旗舰影像硬件布局的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo Find X9 Ultra and Find X9s launched in India"
+    },
+    {
+      "id": "recvkft6VpgqY8",
+      "title": "这是我目前看到的阵亡将士纪念日最佳相机优惠",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/these-are-the-best-cameras-deals-across-memorial-day-i-have-seen-so-far",
+      "publish_time": "2026-05-21T16:26:36+08:00",
+      "summary": "本文精选阵亡将士纪念日最佳相机优惠，由专业优惠搜寻者推荐，提供核心技术参数和数据，突出促销活动核心价值。",
+      "recommendation": "汇总阵亡将士纪念日期间相机促销，提供具体机型与参数，适合近期有购机计划的影像爱好者快速筛选优惠。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These are the best cameras deals across Memorial Day I have seen so far"
+    },
+    {
+      "id": "recvkft9k7WTze",
+      "title": "索尼新100-400mm f/4.5镜头惊艳亮相——但我坚持使用老款“低配”f/5.6版本的两个关键原因",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lens-filters/sonys-new-100-400mm-f-4-5-lens-looks-incredible-but-im-sticking-to-the-older-inferior-version-with-its-f-5-6-for-two-key-reasons",
+      "publish_time": "2026-05-21T16:00:00+08:00",
+      "summary": "作者虽欣赏索尼新100-400mm f/4.5镜头，但因价格和重量，坚持使用老款f/5.6版本。",
+      "recommendation": "从重量与价格角度对比新旧两款100-400mm镜头，提供f/4.5与f/5.6的权衡分析，适合追求轻便与性价比的长焦用户参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony’s new 100-400mm f/4.5 lens looks incredible – but I’m sticking to the older \"inferior\" version with its f/5.6 for two key reasons"
+    },
+    {
+      "id": "recvkftbJF0tQn",
+      "title": "比竞品便宜五倍，这款佳能超高速镜头为我的创意摄影打开新世界",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/composition/five-times-cheaper-than-the-alternative-this-new-super-fast-canon-lens-opens-up-a-new-world-for-my-creative-photography",
+      "publish_time": "2026-05-21T15:00:00+08:00",
+      "summary": "佳能超高速镜头以比竞品便宜五倍的价格，提供f/1.2光圈，让浅景深创意摄影更亲民。",
+      "recommendation": "从价格与性能双维度解析佳能f/1.2超高速镜头，提供竞品价格对比数据，揭示低成本实现浅景深创意的实操路径，适合预算有限的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Five times cheaper than the alternative, this new super-fast Canon lens opens up a new world for my creative photography"
+    },
+    {
+      "id": "recvkftkZMPCIj",
+      "title": "5款1000美元以下的入门级全画幅相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/21/5-older-entry-level-full-frame-cameras-under-1000/",
+      "publish_time": "2026-05-21T15:00:00+08:00",
+      "summary": "本文介绍5款1000美元以下的入门级全画幅相机，适合追求高画质和性价比的年轻摄影师，涵盖佳能、尼康、索尼等品牌的核心参数与价格。",
+      "recommendation": "汇总5款千元内全画幅相机核心参数与价格，含佳能、尼康、索尼品牌对比，为预算有限的画质追求者提供选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "5 Older Entry-level Full Frame Cameras Under $1000"
+    },
+    {
+      "id": "recvkftnH4fkHV",
+      "title": "索尼花絮…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1904/",
+      "publish_time": "2026-05-21T14:39:11+08:00",
+      "summary": "Brightin Star 11mm f/2.8鱼眼二代镜头评测，今日优惠信息，野生动物摄影技巧，Sigma 35mm f/1.2 II评测，索尼XYN空间动态。",
+      "recommendation": "本期涵盖Brightin Star鱼眼二代评测、Sigma 35mm f/1.2 II实测数据及索尼XYN动态，提供多款镜头对比与野生动物拍摄技巧，适合关注广角与定焦镜头的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvkftgpUTmmE",
+      "title": "HMD Thunder Pro 规格和图片泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/hmd_thunder_pro_specs_and_images_leak-news-72923.php",
+      "publish_time": "2026-05-21T13:31:02+08:00",
+      "summary": "HMD Thunder Pro 曝光，配备6.67英寸90Hz OLED屏、50MP主摄、6000mAh电池及Unsioc T620处理器，8GB+256GB存储",
+      "recommendation": "曝光HMD Thunder Pro的50MP主摄与Unsioc T620处理器组合，提供中端影像配置参考，适合关注入门级手机摄影的用户了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "HMD Thunder Pro specs and images leak"
+    },
     {
       "id": "recvkebcoNfBc9",
       "title": "Poco Pad C1发布，配置与以往相似",
