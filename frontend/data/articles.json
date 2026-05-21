@@ -1,19 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-05-21T18:16:50.983613+08:00",
-    "total_articles": 176,
+    "updated_at": "2026-05-22T00:06:56.934627+08:00",
+    "total_articles": 200,
     "data_range_days": 90
   },
   "categories": [
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 8
+      "count": 10
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 50
+      "count": 59
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,389 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 135
+      "count": 153
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 60
+      "count": 69
     }
   ],
   "articles": [
+    {
+      "id": "recvkgTjdfFzyP",
+      "title": "Oura Ring 5 发布日期泄露，就在下周",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oura_ring_5_launch_date_leaks_and_its_next_week-news-72936.php",
+      "publish_time": "2026-05-21T23:41:02+08:00",
+      "summary": "Oura Ring 5将于5月28日发布并开启预购，6月4日发货，新设计与此前泄露一致。",
+      "recommendation": "智能戒指非影像设备，但可监测健康数据辅助摄影创作状态管理。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 3,
+      "language": "English",
+      "original_title": "Oura Ring 5 launch date leaks and it's next week"
+    },
+    {
+      "id": "recvkgSLTE8meT",
+      "title": "普利策获奖摄影师抗癌后重返摄影",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/pulitzer-winning-photographer-back-behind-the-camera-after-cancer-battle/",
+      "publish_time": "2026-05-21T23:28:33+08:00",
+      "summary": "洛杉矶摄影记者大卫·斯旺森抗癌后重返摄影，他发誓战胜癌症，继续用镜头记录世界。",
+      "recommendation": "抗癌摄影师的真实经历，探讨疾病如何重塑创作视角，对理解摄影与生命的关系有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Pulitzer-Winning Photographer Back Behind the Camera After Cancer Battle"
+    },
+    {
+      "id": "recvkgSO6QVT8b",
+      "title": "老蛙的疯狂超广角鱼眼变焦镜头只有松饼大小",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/laowas-insanely-wide-fisheye-zoom-lens-is-muffin-sized/",
+      "publish_time": "2026-05-21T23:13:07+08:00",
+      "summary": "Venus Optics发布Laowa 4.5-10mm f/2.8 CF鱼眼变焦镜头，专为APS-C或M4/3相机设计，广角端达180度视野，体积仅松饼大小。",
+      "recommendation": "APS-C/M4/3用户关注：老蛙4.5-10mm f/2.8鱼眼变焦，广角端180度视野，松饼大小体积，提供独特超广角创作可能。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Laowa’s Insanely Wide Fisheye Zoom Lens is Muffin-Sized"
+    },
+    {
+      "id": "recvkgTs1SQpZy",
+      "title": "好奇：适马为180mm f/1.4和100mm f/1.25申请新专利",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/curiosity-new-sigma-patents-for-the-180mm-f-1-4-and-100mm-f-1-25/",
+      "publish_time": "2026-05-21T22:45:54+08:00",
+      "summary": "适马新专利曝光两款超大光圈镜头：180mm f/1.4和100mm f/1.25，均为摄影史上未见规格，引发是否需要讨论。",
+      "recommendation": "适马专利曝光180mm f/1.4和100mm f/1.25两款超大光圈镜头，规格罕见，对追求极限虚化与弱光性能的摄影师有参考价值，可了解行业光学设计新动向。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Curiosity: New Sigma patents for the 180mm f/1.4 and 100mm f/1.25"
+    },
+    {
+      "id": "recvkgSQeFtgw1",
+      "title": "新单反销量暴跌，二手单反市场却蓬勃发展",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/as-new-dslr-sales-plummet-the-used-dslr-market-is-thriving/",
+      "publish_time": "2026-05-21T22:40:39+08:00",
+      "summary": "2025年新单反相机出货量从近100万台降至不足70万台，但二手单反市场却蓬勃发展",
+      "recommendation": "文章提供2025年新单反销量从近100万降至70万台的独家数据，并揭示二手市场逆势增长的行业趋势，对关注相机市场动态的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "As New DSLR Sales Plummet, the Used DSLR Market Is Thriving"
+    },
+    {
+      "id": "recvkgTpXl9xie",
+      "title": "老蛙发布富士X卡口4.5-10mm f/2.8 CF变焦鱼眼镜头",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/laowa-4-5-10mm-f-2-8-cf-zoom-fisheye-for-fujifilm-x-announced/",
+      "publish_time": "2026-05-21T22:13:57+08:00",
+      "summary": "老蛙发布富士X卡口4.5-10mm f/2.8 CF变焦鱼眼镜头，适用于APS-C画幅，提供超广视角与恒定大光圈。",
+      "recommendation": "APS-C画幅超广变焦鱼眼新选择，恒定f/2.8光圈与4.5mm端独特视角，为风光与创意摄影提供实用参数参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Laowa 4.5-10mm f/2.8 CF Zoom Fisheye for Fujifilm X Announced"
+    },
+    {
+      "id": "recvkgSSIEygYN",
+      "title": "佳能RF 20-50mm f/4 L IS USM PZ上手体验：拍照效果出奇的好",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/canon-rf-20-50mm-f-4-l-pz-hands-on-surprisingly-good-for-photos/",
+      "publish_time": "2026-05-21T22:01:35+08:00",
+      "summary": "佳能RF 20-50mm f/4 L IS USM PZ镜头结合超广角变焦与f/4光圈，体积小巧，拍照效果出色，是索尼20-70mm f/4的强劲对手。",
+      "recommendation": "实测RF 20-50mm f/4 L镜头拍照性能，对比索尼20-70mm f/4，提供超广角变焦与f/4光圈组合的实拍样张与体积优势分析。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon RF 20-50mm f/4 L IS USM PZ Hands-On: Surprisingly Good for Photos"
+    },
+    {
+      "id": "recvkgTuboRXJB",
+      "title": "刚刚发布：老蛙4.5-10mm f/2.8 CF变焦鱼眼镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/just-announced-new-laowa-4-5-10mm-f-2-8-cf-zoom-fisheye/",
+      "publish_time": "2026-05-21T22:00:22+08:00",
+      "summary": "Venus Optics发布老蛙4.5-10mm f/2.8 APS-C变焦鱼眼镜头，可在Venus Store预购，即将在BHphoto和Amazon上架。",
+      "recommendation": "老蛙推出APS-C画幅4.5-10mm f/2.8变焦鱼眼镜头，覆盖超广视角并保持恒定大光圈，为风光与创意摄影提供新选择。文章含预购渠道及上架时间，属常规产品资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Just announced: New Laowa 4.5-10mm f/2.8 CF Zoom Fisheye"
+    },
+    {
+      "id": "recvkgSGRAS7Ue",
+      "title": "永不停歇追逐完美镜头的摄影师",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/8507786637/the-photographer-who-never-stopped-chasing-the-perfect-shot",
+      "publish_time": "2026-05-21T22:00:00+08:00",
+      "summary": "摄影师Josh S. Rose自20世纪70年代起追逐完美镜头，使用徕卡M相机和35mm F2镜头，以F11、1/750秒、ISO 400参数捕捉舞者瞬间，展现对摄影的执着与热爱。",
+      "recommendation": "通过摄影师Josh S. Rose的徕卡M相机与35mm F2镜头实战案例，解析F11、1/750秒、ISO 400参数在动态捕捉中的具体应用，为追求精准曝光的影像爱好者提供可复用的技术参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The photographer who never stopped chasing the perfect shot"
+    },
+    {
+      "id": "recvkgTgZygEAf",
+      "title": "Venus Optics 正式发布 Laowa RF (RF-S) 4.5-10mm f/2.8 CF 变焦鱼眼镜头",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/venus-optics-officially-announces-the-laowa-rf-rf-s-4-5-10mm-f-2-8-cf-zoom-fisheye/",
+      "publish_time": "2026-05-21T21:24:15+08:00",
+      "summary": "Venus Optics发布Laowa 4.5-10mm f/2.8 CF变焦鱼眼镜头，适用于APS-C和MFT相机，从4.5mm端180°圆形鱼眼到10mm端对角线鱼眼，提供广阔创作范围。",
+      "recommendation": "文章详解Laowa 4.5-10mm f/2.8 CF鱼眼变焦头，覆盖APS-C/MFT系统，从180°圆形到对角线鱼眼切换，提供独特视角数据与创作范围分析，适合追求超广角创意摄影的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Venus Optics Officially Announces the Laowa RF (RF-S) 4.5-10mm f/2.8 CF Zoom Fisheye"
+    },
+    {
+      "id": "recvkgSUMzenty",
+      "title": "Pilot 88 是 Chris Niccolls 设计的限量版 Wotancraft 信使包",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/the-pilot-88-is-a-limited-edition-wotancraft-messenger-designed-by-chris-niccolls/",
+      "publish_time": "2026-05-21T21:15:58+08:00",
+      "summary": "Wotancraft与Chris Niccolls合作推出限量版Pilot 88信使包，专为旅行摄影师设计，采用独特尺寸和定制调整，经近一年开发而成。",
+      "recommendation": "Chris Niccolls与Wotancraft合作细节及近一年开发历程，揭示旅行摄影师专用信使包的定制调整与独特尺寸设计。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Pilot 88 Is a Limited Edition Wotancraft Messenger Designed by Chris Niccolls"
+    },
+    {
+      "id": "recvkgT3JaPlSV",
+      "title": "尼康Z8在B&H直降900美元，创历史新低，还免费赠送XQD卡",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-nikon-z8-is-now-usd900-off-at-b-and-h-at-its-lowest-ever-price-and-comes-with-a-free-xqd-card-to-sweeten-the-deal",
+      "publish_time": "2026-05-21T21:06:08+08:00",
+      "summary": "尼康Z8在B&H降至3396.95美元，直降900美元创历史新低，并免费赠送XQD卡，是阵亡将士纪念日最佳专业相机优惠。",
+      "recommendation": "尼康Z8直降900美元至3396.95美元，附赠XQD卡，为专业相机罕见低价，提供具体优惠幅度与赠品信息，适合关注高端机型动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Nikon Z8 is now $900 off at B&H, at its lowest-ever price, and comes with a FREE XQD card to sweeten the deal"
+    },
+    {
+      "id": "recvkgSJwGo3tc",
+      "title": "a7R VI的新速度是否会影响其动态范围？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/2817322047/sony-a7r-vi-dynamic-range-studio-tests",
+      "publish_time": "2026-05-21T21:00:00+08:00",
+      "summary": "索尼a7R VI承诺成为系列中速度最快且动态范围优于前代的相机，采用新技术实现这一目标。",
+      "recommendation": "解析a7R VI速度提升对动态范围的实际影响，提供传感器技术细节与实测数据对比，适合关注高像素机型画质取舍的摄影爱好者。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Does the a7R VI's newfound speed cast a shadow on its dynamic range?"
+    },
+    {
+      "id": "recvkgTwl5VQ0S",
+      "title": "老蛙让鱼眼摄影比以往更加多功能",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/21/laowa-just-made-fisheye-photography-more-versatile-than-ever-before/",
+      "publish_time": "2026-05-21T21:00:00+08:00",
+      "summary": "老蛙推出新鱼眼镜头，为APS-C和M4/3用户提供优质实惠选择，扩展产品线，提升鱼眼摄影多功能性。",
+      "recommendation": "老蛙新鱼眼镜头为APS-C和M4/3用户提供高性价比选择，扩展产品线并提升多功能性，适合追求创意视角的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Laowa Just Made Fisheye Photography More Versatile Than Ever Before"
+    },
+    {
+      "id": "recvkgT5UDjAUe",
+      "title": "我是富士摄影师，这些是我全年见过的最佳紧凑型相机和复古无反相机优惠",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/im-a-fujifilm-photographer-and-these-are-the-best-camera-deals-ive-seen-all-year-on-compact-cameras-and-retro-mirrorless",
+      "publish_time": "2026-05-21T20:34:31+08:00",
+      "summary": "富士胶片相机优惠罕见，作为富士摄影师，本文推荐最佳紧凑型和复古无反相机优惠，保留核心技术参数。",
+      "recommendation": "富士摄影师精选全年紧凑型与复古无反相机优惠，保留核心技术参数，为影像爱好者提供稀缺购买时机与机型对比参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I’m a Fujifilm photographer, and these are the best camera deals I’ve seen all year on compact cameras and retro mirrorless"
+    },
+    {
+      "id": "recvkgSWUvJzS7",
+      "title": "摄影师耗时四年捕捉郊狼冰面腾空瞬间",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/photographer-waits-four-years-to-capture-stunning-image-of-coyote-mid-air-over-ice/",
+      "publish_time": "2026-05-21T20:29:23+08:00",
+      "summary": "摄影师耗时四年，成功捕捉郊狼跃过冰面裂缝的震撼瞬间，展现自然摄影的极致耐心与技巧。",
+      "recommendation": "四年追踪揭示郊狼行为与冰面环境互动，含拍摄参数与耐心技巧，为自然摄影提供实战参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Waits Four Years to Capture Stunning Image of Coyote Mid-Air Over Ice"
+    },
+    {
+      "id": "recvkgSZcscGMD",
+      "title": "看克里斯托弗·诺兰如何用真剪刀剪辑《奥德赛》的华丽场景",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/watch-the-glorious-way-christopher-nolan-cuts-scenes-in-the-odyssey-using-literal-scissors/",
+      "publish_time": "2026-05-21T20:10:25+08:00",
+      "summary": "《奥德赛》是首部完全使用IMAX 70毫米胶片拍摄的电影，因相机限制每次只能连续拍摄约两分半钟，诺兰用真剪刀剪辑华丽场景。",
+      "recommendation": "解析诺兰用IMAX 70毫米胶片拍摄《奥德赛》的创作限制与真剪刀剪辑手法，提供独家技术细节，对理解胶片摄影美学与电影工业实践有直接价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Watch the Glorious Way Christopher Nolan Cuts Scenes in ‘The Odyssey’ Using Literal Scissors"
+    },
+    {
+      "id": "recvkgT8aIYel3",
+      "title": "Thypoch Ksana 35mm f/2 ASPH. 评测：一款具有迷人胶片质感的紧凑手动镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/thypoch-ksana-35mm-f-2-asph-review",
+      "publish_time": "2026-05-21T20:00:00+08:00",
+      "summary": "Thypoch Ksana 35mm f/2 ASPH是一款紧凑全金属手动镜头，具有迷人胶片质感，适合追求个性与复古外观的摄影师。",
+      "recommendation": "全金属手动镜头实测，解析其胶片质感与紧凑设计的平衡，含实拍样张与光学性能数据，适合追求复古影像风格的爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Thypoch Ksana 35mm f/2 ASPH. review: a compact manual lens with a beautifully filmic charm"
+    },
+    {
+      "id": "recvkgTanaH5au",
+      "title": "摄影师投票选出这款相机为赢家——让人想起经典单反",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/photographers-voted-this-camera-a-winner-reminiscent-of-an-iconic-dslr",
+      "publish_time": "2026-05-21T19:55:07+08:00",
+      "summary": "摄影师投票选出3250万像素无反相机为赢家，称赞其旗舰级自动对焦、精致操控和出色性价比，媲美佳能5D Mark IV",
+      "recommendation": "文章揭示3250万像素无反相机获摄影师投票认可，其旗舰级对焦与操控被指媲美佳能5D Mark IV，提供同类产品对比的独特视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographers voted this camera a winner – reminiscent of an iconic DSLR"
+    },
+    {
+      "id": "recvkgTlzxNqEU",
+      "title": "Oppo Reno16系列相机细节在发布前曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_reno16_series_camera_details_revealed_ahead_of_launch-news-72928.php",
+      "publish_time": "2026-05-21T19:27:02+08:00",
+      "summary": "Oppo Reno16系列发布前曝光相机细节，后置三摄包括200MP主摄、50MP潜望长焦和50MP超广角，前置5MP。",
+      "recommendation": "曝光Oppo Reno16系列三摄规格，200MP主摄+双50MP副摄组合提供具体像素数据，可提前了解中端机型影像配置趋势。",
+      "categories": [
+        "传感器硬件",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo Reno16 series camera details revealed ahead of launch"
+    },
+    {
+      "id": "recvkgTnJcFUPO",
+      "title": "HMD Vibe 2 5G正式发布：6.75英寸屏幕+6000mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/hmd_vibe_2_5g_goes_official_with_a_675inch_screen_6000mah_battery-news-72931.php",
+      "publish_time": "2026-05-21T18:27:02+08:00",
+      "summary": "HMD在印度发布Vibe 2 5G，配备6.75英寸120Hz屏幕、紫光展锐T8200芯片、最高6GB RAM和128GB存储，电池升级至6000mAh。",
+      "recommendation": "本文聚焦HMD Vibe 2 5G的影像相关硬件配置，如紫光展锐T8200芯片对计算摄影的潜在影响，但未提供具体摄像头参数或样张数据，属于常规产品资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "HMD Vibe 2 5G goes official with a 6.75-inch screen, 6,000mAh battery"
+    },
+    {
+      "id": "recvkgTcAcsd3P",
+      "title": "我们长期钟爱的索尼相机降至今年最佳价格！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/our-long-time-favorite-sony-camera-drops-to-its-best-price-this-year",
+      "publish_time": "2026-05-21T18:17:53+08:00",
+      "summary": "索尼A7 III相机降至今年最佳价格，套机价下仍是发烧友价位出色的全能选择",
+      "recommendation": "A7 III降至年内低价，套机性价比突出，适合预算有限但追求全画幅性能的发烧友。文章提供价格走势与市场定位分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Our long-time favorite Sony camera drops to its best price this year!"
+    },
+    {
+      "id": "recvkgT1wmMYEf",
+      "title": "摄影师在恐袭后偷走邦迪枪击案受害者相机被捕",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/21/photographer-arrested-for-stealing-bondi-shooting-victims-camera-after-terror-attack/",
+      "publish_time": "2026-05-21T18:12:54+08:00",
+      "summary": "摄影师涉嫌在邦迪恐袭后偷走受害者相机并典当获数百美元被捕",
+      "recommendation": "从相机被窃案切入，揭示二手影像设备流通中的法律与道德风险，对关注器材安全的用户有现实警示价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer Arrested for Stealing Bondi Shooting Victim’s Camera After Terror Attack"
+    },
+    {
+      "id": "recvkgTeAncsEA",
+      "title": "佳能：凭借EOS R100，我们是唯一支持入门摄影师的品牌",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canon-we-are-the-only-ones-supporting-beginner-photographers-with-the-canon-eos-r100",
+      "publish_time": "2026-05-21T18:08:25+08:00",
+      "summary": "佳能EOS R100是唯一适合初学者的实惠无反相机，强调品牌对入门摄影师的独家支持。",
+      "recommendation": "分析佳能EOS R100在入门市场的定位策略，揭示品牌对新手摄影师的独家支持。适合关注入门相机选择的用户了解行业竞争格局。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon: \"We are the only ones supporting beginner photographers\" with the Canon EOS R100"
+    },
     {
       "id": "recvkft4DDgHVm",
       "title": "小巧、全画幅且价格亲民：这就是我仍将索尼A7C视为日常相机的原因（尤其是这个价位）",
