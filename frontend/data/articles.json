@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-22T12:50:31.926910+08:00",
-    "total_articles": 222,
+    "updated_at": "2026-05-22T18:07:55.998877+08:00",
+    "total_articles": 233,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 64
+      "count": 67
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 16
+      "count": 17
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,186 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 167
+      "count": 178
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 79
+      "count": 81
     }
   ],
   "articles": [
+    {
+      "id": "recvklhCA6itry",
+      "title": "索尼Xperia 1 VIII 发布",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-xperia-1-viii-announced/",
+      "publish_time": "2026-05-22T17:53:24+08:00",
+      "summary": "索尼发布Xperia 1 VIII，定位便携式Alpha相机，旨在打造专业摄影手机，消息源自sonyalpharumors。",
+      "recommendation": "索尼Xperia 1 VIII定位便携式Alpha相机，提供手机影像专业化新思路，适合关注计算摄影与移动端专业拍摄的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Xperia 1 VIII  announced"
+    },
+    {
+      "id": "recvklhsEtHnw0",
+      "title": "Realme 16T 发布：搭载天玑 6300 处理器、144Hz 屏幕和 8000mAh 电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/realme_16t_features_price_sale_date-news-72945.php",
+      "publish_time": "2026-05-22T16:04:02+08:00",
+      "summary": "Realme 16T发布，搭载天玑6300处理器、144Hz屏幕和8000mAh电池，支持45W充电及15W反向充电，配备5000万像素主摄，续航3天。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦Realme 16T的5000万像素主摄与天玑6300影像处理能力，适合关注入门级手机影像性能的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Realme 16T arrives with the Dimensity 6300 SoC, a 144Hz display, and an 8,000 mAh battery"
+    },
+    {
+      "id": "recvklhgzW7hOh",
+      "title": "佳能EF 70-200mm f/2.8L IS USM III已停产，让我们回顾一下它的辉煌历史",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/the-canon-ef-70-200mm-f-2-8l-is-usm-iii-has-been-discontinued-so-heres-a-walk-down-memory-lane/",
+      "publish_time": "2026-05-22T16:03:39+08:00",
+      "summary": "佳能EF 70-200mm f/2.8L IS USM III已停产，这款经典镜头生产结束，库存售完即止。",
+      "recommendation": "回顾经典长焦镜头的生命周期，提供停产时间节点与市场影响分析，对二手选购和收藏有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Canon EF 70-200mm f/2.8L IS USM III Has Been Discontinued, So Here’s a Walk Down Memory Lane"
+    },
+    {
+      "id": "recvklhjpiXafk",
+      "title": "托德·韦伯在二战后倡导未经修改的照片。如今，他的6.5万张历史影像将得到保存",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/todd-webb-championed-unmodified-photographs-in-the-post-wwii-era-now-65-000-of-his-historic-images-will-be-preserved",
+      "publish_time": "2026-05-22T16:00:00+08:00",
+      "summary": "托德·韦伯的6.5万张历史影像（含1.5万张照片和5万张底片）将获保存，其倡导未经修改的照片，记录二战后纽约和巴黎",
+      "recommendation": "6.5万张历史影像保存案例，揭示二战后纪实摄影对“未经修改”的坚持，为手机计算摄影时代提供美学反思的独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Todd Webb championed unmodified photographs in the post-WWII era. Now, 65,000 of his historic images will be preserved"
+    },
+    {
+      "id": "recvklhlCOyh9T",
+      "title": "Brightin Star AF 12mm f/2.8新镜头：超广角自动对焦，比索尼原厂镜头更实惠",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-new-brightin-star-af-12mm-f-2-8-crams-an-ultra-wide-view-with-autofocus-for-less-than-native-sony-camera-lenses",
+      "publish_time": "2026-05-22T15:00:00+08:00",
+      "summary": "Brightin Star AF 12mm f/2.8镜头上市，定价有竞争力，为全画幅索尼微单提供自动对焦，比原厂更实惠。",
+      "recommendation": "文章对比Brightin Star AF 12mm f/2.8与索尼原厂镜头，突出价格优势与自动对焦性能，为超广角爱好者提供高性价比选择参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The new Brightin Star AF 12mm f/2.8 crams an ultra-wide view with autofocus for less than native Sony camera lenses"
+    },
+    {
+      "id": "recvklhxIERrLX",
+      "title": "尼康要被法国巨头收购了吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/is-nikon-about-to-be-sold-to-a-french-giant/",
+      "publish_time": "2026-05-22T15:00:00+08:00",
+      "summary": "尼康或被法国依视路陆逊梯卡收购，影响相机市场竞争格局，对摄影师意义重大。",
+      "recommendation": "解析尼康被收购传闻对相机市场格局的潜在影响，提供行业竞争分析，帮助影像爱好者预判器材生态变化。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is Nikon About to Be Sold To a French Giant?"
+    },
+    {
+      "id": "recvklhAd7aO3n",
+      "title": "Brightin Star发布首款全画幅自动对焦镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/brightin-star-launches-its-first-full-frame-af-lens/",
+      "publish_time": "2026-05-22T15:00:00+08:00",
+      "summary": "Brightin Star发布首款全画幅自动对焦广角镜头，解决第三方镜头自动对焦难题，满足用户需求。",
+      "recommendation": "Brightin Star首款全画幅自动对焦镜头，解决第三方镜头自动对焦痛点，对追求性价比的广角用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Brightin Star Launches Its First Full Frame AF Lens"
+    },
+    {
+      "id": "recvklhnZe5OaK",
+      "title": "确认：富士胶片已正式停产旗舰无反相机X-H2和X-H2S的电池手柄",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/confirmed-fujifilm-has-officially-discontinued-both-battery-grips-for-its-flagship-mirrorless-cameras-the-x-h2-and-x-h2s",
+      "publish_time": "2026-05-22T14:50:00+08:00",
+      "summary": "富士胶片已正式停产旗舰无反相机X-H2和X-H2S的专用竖拍电池手柄。",
+      "recommendation": "富士X-H2/X-H2S电池手柄停产，提醒用户关注配件供应变化，对已购或计划购入该机型的用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Confirmed: Fujifilm has officially discontinued both battery grips for its flagship mirrorless cameras, the X-H2 and X-H2S"
+    },
+    {
+      "id": "recvklhFcXiriM",
+      "title": "索尼小贴士…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1905/",
+      "publish_time": "2026-05-22T14:39:15+08:00",
+      "summary": "文章介绍索尼小贴士，提及百年老镜头独特之处，曝光101快门速度入门，城市街头摄影技巧，适马35mm f/1.4 DG II新标杆，摄影表现资讯首发于sonyalpharumors。",
+      "recommendation": "文章融合百年老镜头解析与城市街拍技巧，曝光101入门指南适合新手，适马35mm f/1.4 DG II标杆数据来自sonyalpharumors独家源。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvklhqe5Yu9a",
+      "title": "全球首款AI智能观鸟望远镜：内置相机，或将彻底改变观鸟体验",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/optics/spotting-scopes/the-worlds-first-ai-powered-smart-spotting-scope-could-change-birding-forever-and-it-has-a-built-in-camera",
+      "publish_time": "2026-05-22T14:38:20+08:00",
+      "summary": "GoBirding推出全球首款AI智能观鸟望远镜，内置相机可拍摄4K视频并实时识别鸟类，有望彻底改变观鸟体验。",
+      "recommendation": "AI+望远镜跨界产品，内置4K相机与实时鸟类识别，为户外影像爱好者提供全新创作工具，行业趋势值得关注。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The world’s first AI-powered smart spotting scope could change birding forever - and it has a built-in camera"
+    },
+    {
+      "id": "recvklhviVwvma",
+      "title": "Realme 16T 开箱",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/realme_16t_unboxing_-news-72939.php",
+      "publish_time": "2026-05-22T14:33:03+08:00",
+      "summary": "Realme 16T开箱，配备8000mAh电池、6.8英寸144Hz屏幕、天玑6300 SoC，主打人像摄影，售价待公布。",
+      "recommendation": "开箱展示Realme 16T人像摄影定位，8000mAh续航与天玑6300 SoC组合，影像爱好者可关注其计算摄影优化潜力。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Realme 16T unboxing"
+    },
     {
       "id": "recvkjZH289qFE",
       "title": "三星专利暗示可卷曲手机配可移动摄像头模块",
