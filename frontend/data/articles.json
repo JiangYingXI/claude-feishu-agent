@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-22T23:43:07.278023+08:00",
-    "total_articles": 252,
+    "updated_at": "2026-05-23T04:26:01.965725+08:00",
+    "total_articles": 264,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 74
+      "count": 79
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,210 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 19
+      "count": 20
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 191
+      "count": 202
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 88
+      "count": 93
     }
   ],
   "articles": [
+    {
+      "id": "recvknNbb7PMYV",
+      "title": "富士经理：XF16-80mmF2.8可能实现，双焦距惊喜，以及保护摄影文化的使命",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-manager-xf16-80mmf2-8-is-possible-dual-focal-length-surprise-and-a-mission-to-preserve-photographic-culture/",
+      "publish_time": "2026-05-23T04:11:01+08:00",
+      "summary": "富士经理透露XF16-80mmF2.8镜头可能实现，并提及双焦距惊喜，强调公司80年镜头制造历史及保护摄影文化的使命。",
+      "recommendation": "富士经理透露XF16-80mmF2.8可能量产，并提及双焦距设计惊喜，结合80年镜头史谈摄影文化保护，对关注富士镜头路线图的用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm Manager: XF16-80mmF2.8 Is Possible, Dual Focal Length Surprise, and a Mission to Preserve Photographic Culture"
+    },
+    {
+      "id": "recvknMVCWGSBj",
+      "title": "Yashica将经典角色引入廉价钥匙扣相机市场",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/yashica-brings-beloved-characters-to-the-cheap-keychain-camera-segment/",
+      "publish_time": "2026-05-23T03:32:09+08:00",
+      "summary": "Yashica发布微型相机Funtastic，与Kodak Charmera相似，定位廉价钥匙扣相机市场。",
+      "recommendation": "Yashica将经典角色引入廉价钥匙扣相机市场，分析其与Kodak Charmera的相似性，提供产品定位与设计思路，适合关注复古便携影像趋势的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Yashica Brings Beloved Characters to the Cheap Keychain Camera Segment"
+    },
+    {
+      "id": "recvknNd7GajsG",
+      "title": "世界还需要另一款Charmera吗？Yashica Funtastic表示绝对需要！",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/yashica-funtastic-collection-launch/",
+      "publish_time": "2026-05-23T03:26:21+08:00",
+      "summary": "Yashica推出四款超紧凑型钥匙链相机Funtastic，探讨其是否值得收藏，强调独特魅力与便携性。",
+      "recommendation": "解析Yashica四款钥匙链相机的设计逻辑与收藏价值，提供超紧凑影像设备的市场定位分析，适合关注复古便携相机趋势的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Does the World Need Another Charmera? The Yashica Funtastic Says Absolutely!"
+    },
+    {
+      "id": "recvknNf0ICi3S",
+      "title": "我们测试了所有相机品牌——这些预设适用于所有机型",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/get-the-look-of-retro-digital-cameras-easily-copy-3-copy-2/",
+      "publish_time": "2026-05-23T03:00:00+08:00",
+      "summary": "文章介绍了一组与所有相机品牌兼容的预设，强调其真实性，能复现AI难以模仿的风格，旨在辅助摄影师而非替代其工作。",
+      "recommendation": "文章提供跨品牌兼容的预设方案，强调真实风格与AI差异，对追求高效后期、避免同质化风格的影像爱好者有实用参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "We Tested Every Camera Brand—Here Are the Presets That Work on All of Them"
+    },
+    {
+      "id": "recvknMXLppUY1",
+      "title": "富士胶片拥有超过40个新镜头构想：‘很难表达我们对镜头的重视程度’",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/fujifilm-has-over-40-new-lens-ideas-its-difficult-to-convey-how-much-we-care-about-our-lenses/",
+      "publish_time": "2026-05-23T02:21:09+08:00",
+      "summary": "富士胶片影像部门总经理五十岚裕二透露，公司拥有超过40个新镜头构想，强调对镜头的重视，并讨论了未来发展方向。",
+      "recommendation": "富士官方透露超40个新镜头规划，含独家数据与未来方向，对关注X卡口系统的用户有直接参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm Has Over 40 New Lens Ideas: ‘It’s Difficult to Convey How Much We Care About Our Lenses’"
+    },
+    {
+      "id": "recvknN94LaAf4",
+      "title": "加入我们的社区照片链：每张照片激发下一张",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/3334381491/join-our-community-photo-chain-each-shot-inspires-the-next",
+      "publish_time": "2026-05-23T01:36:00+08:00",
+      "summary": "DPReview在25年来最大规模改版期间，推出协作照片链活动，以激发摄影灵感并展示用户作品。",
+      "recommendation": "DPReview改版期间推出协作照片链活动，通过用户作品接力激发灵感，展示社区创作生态，对摄影爱好者有参与价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Join our community photo chain: each shot inspires the next"
+    },
+    {
+      "id": "recvknMZAxUhbc",
+      "title": "为何众多手表爱好者钟情于某一特定相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/why-so-many-watch-enthusiasts-love-one-specific-camera/",
+      "publish_time": "2026-05-23T00:49:13+08:00",
+      "summary": "手表爱好者偏爱理光GR IIIx相机，因其紧凑设计、快速对焦和微距功能，便于拍摄手表细节，满足钟表摄影需求。",
+      "recommendation": "从手表爱好者视角解析理光GR IIIx的微距与便携优势，提供跨圈层摄影选机思路，数据详实但非独家。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why So Many Watch Enthusiasts Love One Specific Camera"
+    },
+    {
+      "id": "recvknN75pAHjo",
+      "title": "蔡司预告“镜头技术的下一个重大进步”，但预告片看起来不像我见过的任何镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/zeiss-is-teasing-the-next-major-advancement-in-lens-technology-but-the-teaser-looks-unlike-any-lens-that-ive-ever-seen",
+      "publish_time": "2026-05-23T00:19:49+08:00",
+      "summary": "蔡司预告6月2日发布镜头技术重大突破，预告片展示非传统镜头形态，引发行业好奇。",
+      "recommendation": "蔡司预告6月2日镜头技术突破，预告片展示非传统形态，引发行业对光学设计新方向的讨论。对影像爱好者而言，可提前了解潜在技术趋势，但缺乏具体参数与独家数据，属于常规行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Zeiss is teasing “the next major advancement in lens technology,” but the teaser looks unlike any lens that I’ve ever seen"
+    },
+    {
+      "id": "recvknN1pwkCPq",
+      "title": "摄影师必看：25个最佳阵亡将士纪念日优惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/the-25-best-memorial-day-deals-for-photographers/",
+      "publish_time": "2026-05-23T00:19:13+08:00",
+      "summary": "阵亡将士纪念日相机优惠涵盖相机、镜头、存储卡、包和三脚架，折扣从日常到高端设备大幅降价。",
+      "recommendation": "阵亡将士纪念日相机优惠汇总，涵盖镜头、存储卡等品类，折扣力度从日常到高端设备，适合计划升级装备的影像爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 25 Best Memorial Day Deals for Photographers"
+    },
+    {
+      "id": "recvknN5exdm0z",
+      "title": "Gura Gear：全场八折优惠，截止5月26日！",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/gura-gear-save-20-site-wide-until-may-26/",
+      "publish_time": "2026-05-23T00:11:32+08:00",
+      "summary": "Gura Gear背包全场八折优惠至5月26日，品牌以轻便耐用著称，经15年使用仍保持良好状态。",
+      "recommendation": "Gura Gear背包八折优惠，适合影像爱好者升级轻便耐用装备。文章提及15年使用验证的耐用性，提供具体折扣截止日期，属常规促销资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Gura Gear: Save 20% Site Wide Until May 26!"
+    },
+    {
+      "id": "recvknNh0geqaE",
+      "title": "Lomography Joseph Petzval 27 f1.7 评测：旋焦迷人，但仍有遗憾",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/lomography-joseph-petzval-27mm-art-lens-review/",
+      "publish_time": "2026-05-23T00:00:00+08:00",
+      "summary": "Lomography Joseph Petzval 27mm F1.7镜头保持Petzval传统，旋焦迷人，但仍有遗憾。使用一个月后，评测者分享了其优缺点。",
+      "recommendation": "一个月实测分享Petzval 27mm F1.7旋焦效果与光学遗憾，含具体样张对比和操作体验，对复古镜头爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Lomography Joseph Petzval 27 f1.7 Review: Swirly Bokeh is Nice, but Something’s Missing"
+    },
+    {
+      "id": "recvknN3l8dyxW",
+      "title": "Thypoch 时尚 Ksana 35mm f/2 定焦镜头承诺带来 1980 年代风格眩光",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/thypochs-stylish-ksana-35mm-f-2-prime-promises-1980s-inspired-flare/",
+      "publish_time": "2026-05-22T23:39:42+08:00",
+      "summary": "Thypoch推出Ksana 35mm f/2徕卡M卡口手动对焦定焦镜头，适配全画幅和APS-C无反相机，具有1980年代风格眩光效果。",
+      "recommendation": "解析Thypoch Ksana 35mm f/2的1980年代眩光设计，提供徕卡M卡口手动镜头复古光学特性与全画幅适配数据，适合追求胶片风格影像的爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Thypoch’s Stylish Ksana 35mm f/2 Prime Promises 1980s-Inspired Flare"
+    },
     {
       "id": "recvkmDomvxWaL",
       "title": "Lyft司机试图用AI生成的车辆‘损坏’照片诈骗顾客",
