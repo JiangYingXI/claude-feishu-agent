@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-22T18:07:55.998877+08:00",
-    "total_articles": 233,
+    "updated_at": "2026-05-22T23:43:07.278023+08:00",
+    "total_articles": 252,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 67
+      "count": 74
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,314 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 18
+      "count": 19
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 178
+      "count": 191
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 81
+      "count": 88
     }
   ],
   "articles": [
+    {
+      "id": "recvkmDomvxWaL",
+      "title": "Lyft司机试图用AI生成的车辆‘损坏’照片诈骗顾客",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/lyft-driver-tried-to-scam-customer-with-ai-generated-photo-of-damage-to-vehicle/",
+      "publish_time": "2026-05-22T23:15:44+08:00",
+      "summary": "Lyft司机被指控用AI生成车辆损坏照片，对青少年乘客虚假索赔",
+      "recommendation": "揭示AI生成图像在消费场景中的滥用案例，提醒影像爱好者关注计算摄影技术的伦理边界与识别挑战。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Lyft Driver Tries to Scam Customer with AI-Generated Photo of ‘Damage’ to Vehicle"
+    },
+    {
+      "id": "recvkmDUmJlt1L",
+      "title": "Field Made 发布适用于尼康 EN-EL25 电池的新型可定制指示标签",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/22/field-made-released-new-customizable-indicator-labels-for-nikon-en-el25-batteries.aspx/",
+      "publish_time": "2026-05-22T22:39:47+08:00",
+      "summary": "Field Made发布尼康EN-EL25电池可定制指示标签，使用优惠码Rumors10享10%折扣，材质为美国户外级乙烯基，产地美国免税。",
+      "recommendation": "常规资讯，可了解行业动态。提供尼康EN-EL25电池可定制标签的实用配件信息，含优惠码，但无独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Field Made released new customizable indicator labels for Nikon EN-EL25 batteries:"
+    },
+    {
+      "id": "recvkmDC473KZ9",
+      "title": "150张照片展现美国矿业185年历史，全球首次历史展览",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/150-images-depict-185-years-of-the-us-mining-industry-in-world-first-historical-exhibition",
+      "publish_time": "2026-05-22T22:30:23+08:00",
+      "summary": "《地表之下》全球首次展览，用150张照片展现美国矿业185年历史，揭示摄影师记录工业资源开采的隐秘关系。",
+      "recommendation": "150张历史照片揭示矿业与摄影的隐秘关系，提供185年工业影像档案，对纪实摄影爱好者有独特史料价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "150 photos depict 185 years of the US mining industry in world-first historical exhibition"
+    },
+    {
+      "id": "recvkmDS5K7hff",
+      "title": "CNN实测15款旅行相机——这款富士型号胜出",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/cnn-tested-15-travel-cameras-and-this-fujifilm-model-won-the-battle/",
+      "publish_time": "2026-05-22T22:17:56+08:00",
+      "summary": "CNN实测15款旅行相机，富士X-T50胜出，文章涵盖尼康Z fc、索尼a7CR等型号对比，核心价值在于为夏季旅游提供相机选购参考。",
+      "recommendation": "CNN实测15款旅行相机，富士X-T50胜出，提供尼康Z fc、索尼a7CR等机型横向对比，核心价值在于夏季旅行选购参考，含具体型号优劣分析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "CNN Tested 15 Travel Cameras — And This Fujifilm Model Won the Battle"
+    },
+    {
+      "id": "recvkmDWtqVhBZ",
+      "title": "蔡司预告镜头技术“重大飞跃”",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/zeiss-teases-a-major-leap-in-lens-technology/",
+      "publish_time": "2026-05-22T22:00:00+08:00",
+      "summary": "蔡司预告6月2日揭晓镜头技术重大飞跃，Otus系列回归但手动对焦未满足部分用户，新突破值得期待。",
+      "recommendation": "蔡司预告Otus系列回归及6月2日技术突破，对手动对焦用户有针对性价值，但缺乏具体参数，常规资讯可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Zeiss Teases a “Major Leap” in Lens Technology"
+    },
+    {
+      "id": "recvkmDqMffFuZ",
+      "title": "用半个镜头拍照是什么体验？",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/what-does-it-look-to-take-a-photo-with-half-a-lens/",
+      "publish_time": "2026-05-22T21:20:23+08:00",
+      "summary": "Viltrox在Instagram展示用被切成两半的镜头拍照的演示，揭示其独特成像效果。",
+      "recommendation": "Viltrox展示被切半镜头的实拍效果，揭示极端光学结构对成像的独特影响，为摄影爱好者提供非传统创作视角的硬核技术参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What Does It Look to Take a Photo With Half a Lens?"
+    },
+    {
+      "id": "recvkmE38VeYBe",
+      "title": "索尼正在为2026年第三季度后的Alpha相机研发新的显示技术",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-is-working-on-a-new-display-technology-for-its-alpha-cameras-after-2026q3/",
+      "publish_time": "2026-05-22T21:05:34+08:00",
+      "summary": "索尼正研发用于Alpha相机的新显示技术，对比LCD加LED背光与FSC LCD加OLED背光，预计2026年第三季度后推出。",
+      "recommendation": "解析索尼Alpha相机新显示技术路线，对比LCD与FSC LCD方案，提供2026年时间节点，对关注未来相机取景器发展的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "SONY is working on a new display technology for its Alpha cameras after 2026’Q3 ?"
+    },
+    {
+      "id": "recvkmDzQdmGWF",
+      "title": "合作可能是你的摄影所需的创意推动力",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/7501109396/collaboration-might-be-the-creative-push-your-photography-needs",
+      "publish_time": "2026-05-22T21:00:00+08:00",
+      "summary": "合作摄影项目如双重曝光系列能提供创意推动力，打破独自创作的孤立，带来反馈和不同视角。",
+      "recommendation": "本文通过双重曝光等合作案例，解析如何突破创作瓶颈，提供实战视角与反馈价值，适合寻求创意突破的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Collaboration might be the creative push your photography needs"
+    },
+    {
+      "id": "recvkmDNc8Vs7s",
+      "title": "Realme Watch S5发布：1.43英寸AMOLED屏，续航长达20天",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/realme_watch_s5_debuts_with_up_to_20_day_battery_143inch_amoled_display-news-72951.php",
+      "publish_time": "2026-05-22T20:48:02+08:00",
+      "summary": "Realme Watch S5发布，配备1.43英寸AMOLED屏，续航20天，铝合金表壳，熊猫玻璃防护，峰值亮度1000尼特。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦智能手表而非影像设备，对影像爱好者价值有限，但提及AMOLED屏亮度数据可供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "Realme Watch S5 debuts with up to 20 day battery, 1.43-inch AMOLED display"
+    },
+    {
+      "id": "recvkmDsXCV8ew",
+      "title": "94年首次！‘锈色云雀’被疑灭绝后首张照片问世",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/first-ever-photograph-of-rusty-lark-bird-thought-to-be-extinct-for-94-years/",
+      "publish_time": "2026-05-22T20:27:47+08:00",
+      "summary": "锈色云雀，被认为灭绝近一个世纪后，首次被拍摄到照片，这是94年来的首次记录。",
+      "recommendation": "94年首张锈色云雀照片，展现长焦与隐蔽拍摄技术极限，为生态摄影提供罕见案例与数据。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "First Ever Photograph of ‘Rusty Lark’ Bird Thought to be Extinct for 94 Years"
+    },
+    {
+      "id": "recvkmDEkMh7Zt",
+      "title": "订阅《数码相机》杂志2026年6月刊，获赠15份额外好礼",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/magazines/get-15-bonus-gifts-with-the-june-2026-issue-of-digital-camera-magazine",
+      "publish_time": "2026-05-22T20:15:00+08:00",
+      "summary": "订阅《数码相机》2026年6月刊，获赠9张摄影技巧卡片、31分钟视频课程、18款软件组件和一本电子书，来自全球最受欢迎摄影杂志的精选集",
+      "recommendation": "订阅赠品含摄影技巧卡片、视频课程及软件组件，对影像爱好者有实用价值，但内容为常规促销资讯，可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Get 15 bonus gifts with the June 2026 issue of Digital Camera magazine"
+    },
+    {
+      "id": "recvkmDGoEOtZ1",
+      "title": "Insta360 新 Luna 相机搭载徕卡技术，以独特技巧挑战 DJI 口袋云台霸主地位",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/gimbals/insta360-luna-series-with-leica-tech-is-coming-to-challenge-djis-gimbal-dominance",
+      "publish_time": "2026-05-22T20:00:00+08:00",
+      "summary": "Insta360在徕卡园区展示新款Luna和Luna Ultra相机，搭载徕卡技术，挑战DJI口袋云台霸主地位。",
+      "recommendation": "本文披露Insta360与徕卡合作细节，对比DJI口袋云台的技术差异，为手持影像设备选购提供独家竞品分析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Insta360's new Luna cameras – with Leica tech – are coming to challenge DJI's pocket gimbal dominance with this unique trick"
+    },
+    {
+      "id": "recvkmDPLw43bO",
+      "title": "Flipkart再次预热摩托罗拉Edge 70 Pro+，发布在即",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/flipkart_once_again_teases_motorola_edge_70_pro_ahead_of_launch-news-72948.php",
+      "publish_time": "2026-05-22T19:49:02+08:00",
+      "summary": "Flipkart预告摩托罗拉Edge 70 Pro+即将在印度发布，提供三种潘通配色和材质，包括酒红色缎面与浅蓝色斜纹纹理。",
+      "recommendation": "常规资讯，可了解行业动态。文章披露了摩托罗拉Edge 70 Pro+的潘通配色与材质细节，但未涉及影像规格或独家数据，对关注外观设计的用户有一定参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Flipkart once again teases Motorola Edge 70 Pro+ ahead of launch"
+    },
+    {
+      "id": "recvkmDYQxMzKu",
+      "title": "佳能是否已停产一款经典人像镜头？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/has-canon-discontinued-an-iconic-portrait-lens/",
+      "publish_time": "2026-05-22T19:48:52+08:00",
+      "summary": "佳能拥有85mm f1.2 L等经典镜头，转向无反后部分EF镜头将停产，延续对EF卡口的承诺。",
+      "recommendation": "分析佳能EF 85mm f/1.2 L等经典人像镜头停产可能性，提供EF卡口转向无反后的产品策略洞察，适合关注镜头生态的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Has Canon Discontinued an Iconic Portrait Lens?"
+    },
+    {
+      "id": "recvkmDIMQfluq",
+      "title": "Yashica推出新款Funtastic钥匙扣相机，对标柯达Charmera：小巧精致，既能拍照又能保管钥匙",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/yashica-guns-for-the-kodak-charmera-with-its-new-funtastic-keychain-camera-a-little-box-of-delights-that-takes-pictures-as-well-as-keeping-your-keys-safe",
+      "publish_time": "2026-05-22T19:19:48+08:00",
+      "summary": "Yashica推出Funtastic钥匙扣相机，体积小巧重量极轻，可拍摄照片和视频，对标柯达Charmera，兼具拍照与钥匙保管功能。",
+      "recommendation": "常规资讯，可了解行业动态。文章对比柯达Charmera，提供Yashica新款钥匙扣相机的体积重量数据，适合关注便携影像玩具的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Yashica guns for the Kodak Charmera with its new Funtastic Keychain Camera: a little box of delights that takes photos as well as keeping your keys safe"
+    },
+    {
+      "id": "recvkmDvj7RMdm",
+      "title": "戛纳摄影师揭秘：如何让好莱坞明星看向他的镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/cannes-photographer-reveals-his-trick-of-getting-hollywood-stars-to-look-at-his-camera/",
+      "publish_time": "2026-05-22T18:48:52+08:00",
+      "summary": "戛纳电影节摄影师身着燕尾服，既是记录者也是创造者，揭秘如何让好莱坞明星看向镜头，展现摄影师的独特角色与魅力。",
+      "recommendation": "从戛纳摄影师视角揭秘明星拍摄技巧，含现场构图与光线控制经验，对提升人像摄影有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Cannes Photographer Reveals His Trick of Getting Hollywood Stars to Look at His Camera"
+    },
+    {
+      "id": "recvkmDKV2PdH2",
+      "title": "尼康Z8价格降至历史最低，迎接春季银行假日",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/nikon-z8-price-drops-to-its-lowest-ever-price-ahead-of-spring-bank-holiday",
+      "publish_time": "2026-05-22T18:29:57+08:00",
+      "summary": "尼康Z8全画幅无反相机降至2999英镑历史最低价，迎接春季银行假日",
+      "recommendation": "尼康Z8降至2999英镑历史新低，提供全画幅无反相机价格趋势关键数据，适合关注性价比的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon Z8 price drops to its lowest-ever price ahead of Spring Bank Holiday"
+    },
+    {
+      "id": "recvkmDxvZzVY9",
+      "title": "IMAX股票飙升，收购谈判曝光",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/22/imax-stock-soars-as-takeover-talks-revealed/",
+      "publish_time": "2026-05-22T18:09:14+08:00",
+      "summary": "IMAX股票因收购谈判曝光而飙升，据《华尔街日报》报道，公司正与潜在买家就出售事宜进行谈判。",
+      "recommendation": "IMAX收购谈判曝光，股票飙升。对影像爱好者而言，可了解影院放映技术巨头的资本动向，但缺乏影像产品具体数据或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "IMAX Stock Soars as Takeover Talks Revealed"
+    },
+    {
+      "id": "recvkmE0VFLkf6",
+      "title": "400美元以下最适合街头摄影的两款索尼镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/the-two-best-sony-lenses-for-street-photographers-under-400/",
+      "publish_time": "2026-05-22T18:00:00+08:00",
+      "summary": "本文推荐两款400美元以下的索尼镜头，适合街头摄影，保留核心参数，帮助用户记录街头景象。",
+      "recommendation": "为预算有限的街头摄影爱好者筛选两款索尼镜头，提供核心参数与实拍建议，避免高价器材焦虑。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Two Best Sony Lenses for Street Photographers Under $400"
+    },
     {
       "id": "recvklhCA6itry",
       "title": "索尼Xperia 1 VIII 发布",
