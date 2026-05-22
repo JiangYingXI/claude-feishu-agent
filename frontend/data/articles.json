@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-22T04:27:20.159175+08:00",
-    "total_articles": 218,
+    "updated_at": "2026-05-22T12:50:31.926910+08:00",
+    "total_articles": 222,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 63
+      "count": 64
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,76 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 164
+      "count": 167
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 78
+      "count": 79
     }
   ],
   "articles": [
+    {
+      "id": "recvkjZH289qFE",
+      "title": "三星专利暗示可卷曲手机配可移动摄像头模块",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_patent_hints_at_a_rollable_phone_with_movable_camera_module-news-72944.php",
+      "publish_time": "2026-05-22T12:05:02+08:00",
+      "summary": "三星新专利显示可卷曲手机配可移动摄像头模块，屏幕扩展时摄像头随之移动，巩固其折叠屏领导地位。",
+      "recommendation": "解析三星可卷曲手机摄像头移动设计，揭示屏幕扩展与影像模组联动的技术细节，对关注折叠屏影像创新的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung patent hints at a rollable phone with movable camera module"
+    },
+    {
+      "id": "recvkjZL1wqj5p",
+      "title": "400美元以下最佳佳能人像摄影镜头推荐",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/22/the-best-canon-lenses-for-portrait-photography-under-400/",
+      "publish_time": "2026-05-22T12:00:00+08:00",
+      "summary": "推荐两款400美元以下佳能人像镜头，经济实惠，适合摄影棚或旅行抓拍，保留核心参数。",
+      "recommendation": "聚焦400美元以下佳能人像镜头，提供具体参数与场景适配建议，适合预算有限的摄影爱好者快速决策。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Canon Lenses for Portrait Photography Under $400"
+    },
+    {
+      "id": "recvkjZJ227eWr",
+      "title": "小米手环10 Pro及夹式耳机发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_band_10_pro_and_clipon_earbuds_announced-news-72941.php",
+      "publish_time": "2026-05-22T10:02:02+08:00",
+      "summary": "小米发布手环10 Pro，升级健康追踪传感器、睡眠追踪及骑行模式，同时推出首款夹式无线耳机。",
+      "recommendation": "常规资讯，可了解行业动态。手环与耳机发布，虽非影像核心产品，但健康传感器升级或间接影响运动影像记录场景。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi Band 10 Pro and Clip-on earbuds announced"
+    },
+    {
+      "id": "recvkjZEDHEe1P",
+      "title": "备受期待的Trump T1拍照手机现已发货！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phones/the-long-awaited-trump-t1-camera-phone-is-now-shipping",
+      "publish_time": "2026-05-22T08:22:23+08:00",
+      "summary": "Trump T1拍照手机已发货，以美国价值观为设计理念，展示爱国情怀。",
+      "recommendation": "常规资讯，可了解Trump T1手机发货动态，但缺乏影像规格、传感器型号或拍摄样张等关键数据，对技术爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "The long-awaited Trump T1 camera phone is now shipping!"
+    },
     {
       "id": "recvkhWIGVnZrw",
       "title": "我把微单放家里，试了试时髦的柯达PixPro FZ55。我明白这款廉价卡片机为何畅销——但我并不买账",
