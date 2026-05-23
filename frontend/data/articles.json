@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-23T04:26:01.965725+08:00",
-    "total_articles": 264,
+    "updated_at": "2026-05-23T12:31:44.474525+08:00",
+    "total_articles": 269,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 79
+      "count": 80
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 20
+      "count": 21
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 202
+      "count": 207
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,83 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvkpLoFIQcbc",
+      "title": "荣耀Win 2规格泄露，同时曝光Win 2 RT部分细节",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_win_2_specs_leak_alongside_some_details_about_the_win_2_rt-news-72965.php",
+      "publish_time": "2026-05-23T12:02:02+08:00",
+      "summary": "荣耀Win 2传闻配备6.89英寸185Hz 2K+屏、骁龙8 Elite Gen 6处理器及10000mAh电池，同时曝光Win 2 RT部分细节。",
+      "recommendation": "曝光Win 2系列屏幕与电池规格，虽未提及影像参数，但可推测其旗舰定位对计算摄影的潜在影响。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Win 2 specs leak alongside some details about the Win 2 RT"
+    },
+    {
+      "id": "recvkpLyhsFBcs",
+      "title": "街拍必备：仅需这一套佳能相机装备",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/23/the-only-canon-camera-kit-you-need-for-street-photography/",
+      "publish_time": "2026-05-23T12:00:00+08:00",
+      "summary": "佳能相机防尘防滴溅性能出色，推荐一套适合街头摄影师的相机和镜头组合，是理想选择。",
+      "recommendation": "针对街拍场景，详析佳能防尘防滴溅机身与镜头组合，提供具体型号搭配建议，对街头摄影爱好者有实用参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Only Canon Camera Kit You Need for Street Photography"
+    },
+    {
+      "id": "recvkpLrhAcd1l",
+      "title": "Oppo Reno16系列官方发布在即，快闪视频抢先曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_reno16_series_stars_in_quick_videos_just_a_few_days_ahead_of_the_official_unveiling-news-72961.php",
+      "publish_time": "2026-05-23T10:02:02+08:00",
+      "summary": "Oppo将于5月25日发布Reno16系列，Reno16 Pro配备200MP主摄、50MP潜望长焦、50MP超广角及50MP自拍，采用6.78英寸LTPO OLED屏幕。",
+      "recommendation": "200MP主摄与50MP潜望长焦参数曝光，对高像素多摄系统爱好者有参考价值，属常规新品预热资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo Reno16 series stars in quick videos just a few days ahead of the official unveiling"
+    },
+    {
+      "id": "recvkpLtT0ijWQ",
+      "title": "小米17 Max 拆解视频曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_17_max_gets_disassembled_on_video-news-72964.php",
+      "publish_time": "2026-05-23T08:02:02+08:00",
+      "summary": "小米17 Max拆解视频曝光，WekiHome频道展示其内部结构，英文字幕质量好，该机为旗舰系列首款Max机型，与17、17 Pro及17 Pro Max同期发布。",
+      "recommendation": "拆解视频揭示小米17 Max内部结构，含影像模组布局与散热设计，对关注旗舰机影像堆叠的爱好者有参考价值。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Xiaomi 17 Max gets disassembled on video"
+    },
+    {
+      "id": "recvkpLw0247oO",
+      "title": "Spotify新推个人播客功能，支持通过文字提示创建播客",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/spotifys_new_personal_podcast_feature_lets_you_create_podcasts_with_text_prompts-news-72962.php",
+      "publish_time": "2026-05-23T06:01:02+08:00",
+      "summary": "Spotify推出个人播客功能，用户通过文字提示即可生成AI驱动的私人播客，并可根据兴趣和收听习惯定制，支持日程安排。",
+      "recommendation": "常规资讯，可了解行业动态。虽非直接影像内容，但AI生成播客技术或预示未来影像创作中语音交互的革新方向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Spotify's new Personal Podcast feature lets you create podcasts with text prompts"
+    },
     {
       "id": "recvknNbb7PMYV",
       "title": "富士经理：XF16-80mmF2.8可能实现，双焦距惊喜，以及保护摄影文化的使命",
