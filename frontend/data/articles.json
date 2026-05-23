@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-23T22:16:56.058912+08:00",
-    "total_articles": 282,
+    "updated_at": "2026-05-24T03:49:36.913825+08:00",
+    "total_articles": 287,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 80
+      "count": 81
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,91 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 212
+      "count": 214
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 101
+      "count": 104
     }
   ],
   "articles": [
+    {
+      "id": "recvktuwRiQpTE",
+      "title": "从泛非电影档案到1973年后智利流亡电影制作：这些动态影像作品刚刚获得重大认可",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/from-pan-african-cinema-archives-to-chilean-exile-filmmaking-after-1973-these-moving-image-works-just-earned-major-recognition",
+      "publish_time": "2026-05-24T02:30:00+08:00",
+      "summary": "英国摄影与动态影像出版最高奖项长名单中，档案、政治记忆和实验电影主导，泛非电影档案与1973年后智利流亡电影制作获重大认可。",
+      "recommendation": "档案与政治记忆影像获英国摄影出版大奖，提供泛非电影与智利流亡电影制作的非主流视角，适合拓展影像文化认知的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "From Pan-African cinema archives to Chilean exile filmmaking after 1973: These moving image works just earned major recognition"
+    },
+    {
+      "id": "recvktuD8HDwyb",
+      "title": "刚刚发布：新款Brightin Star 12mm f/2.8 FE自动对焦镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/just-announced-new-brightin-star-12mm-f-2-8-fe-autofocus-lens/",
+      "publish_time": "2026-05-24T02:17:09+08:00",
+      "summary": "新款Brightin Star 12mm f/2.8 FE自动对焦镜头发布，现可在亚马逊、BHphoto及官方商店预购。",
+      "recommendation": "常规资讯，可了解行业动态。提供12mm f/2.8 FE自动对焦镜头发布信息及预购渠道，适合关注超广角镜头的用户快速获取市场新品动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Just announced: New Brightin Star 12mm f/2.8 FE autofocus lens"
+    },
+    {
+      "id": "recvktuyXLPJIX",
+      "title": "朗·霍华德新纪录片《阿维顿》提醒我们：为何20世纪最伟大的摄影师不在乎他用什么相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/ron-howards-new-documentary-movie-avedon-reminds-us-why-the-greatest-photographer-of-the-20th-century-didnt-care-what-camera-he-used",
+      "publish_time": "2026-05-23T23:20:00+08:00",
+      "summary": "朗·霍华德新纪录片《阿维顿》在戛纳首映，揭示20世纪最伟大摄影师的成功秘诀在于解读人物而非相机参数，强调影像核心价值来自对人物的理解而非技术掌握。",
+      "recommendation": "通过阿维顿案例，揭示影像核心在于人物解读而非相机参数，为器材党提供反思视角，含戛纳首映独家纪录片观点。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Ron Howard's new documentary movie, Avedon, reminds us why the greatest photographer of the 20th century didn't care what camera he used"
+    },
+    {
+      "id": "recvktuBhJyU61",
+      "title": "小米首次官方展示17T真机，揭示17T系列长焦相机放大倍率",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_17t_series_telephoto_camera_magnification-news-72968.php",
+      "publish_time": "2026-05-23T23:10:02+08:00",
+      "summary": "小米17T系列将于5月28日发布，17T于6月4日在印度上市。官方视频展示17T后盖设计，确认居中打孔自拍相机显示屏，证实此前传闻。",
+      "recommendation": "文章提前展示小米17T真机设计，确认居中打孔屏与长焦倍率细节，为影像爱好者提供未发布机型的外观与相机配置参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Xiaomi gives us our best official look yet at the 17T, reveals magnification of 17T series' telephoto cameras"
+    },
+    {
+      "id": "recvktuuybVhKJ",
+      "title": "标志性美国照片《钢梁上的午餐》背后的持久谜团",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/23/the-enduring-mystery-behind-iconic-american-photograph-lunch-on-a-beam/",
+      "publish_time": "2026-05-23T23:00:44+08:00",
+      "summary": "新书揭秘《钢梁上的午餐》背后人物的神秘故事，探讨这张标志性照片的摄影师身份之谜。",
+      "recommendation": "揭秘《钢梁上的午餐》摄影师身份谜团，提供历史影像创作背景，对理解纪实摄影的构图与叙事有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Enduring Mystery Behind Iconic American Photograph ‘Lunch on a Beam’"
+    },
     {
       "id": "recvks8z9hxmCq",
       "title": "艺术家起诉版权局拒绝注册其AI增强照片",
