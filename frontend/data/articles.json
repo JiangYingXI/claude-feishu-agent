@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-23T12:31:44.474525+08:00",
-    "total_articles": 269,
+    "updated_at": "2026-05-23T16:41:04.290432+08:00",
+    "total_articles": 272,
     "data_range_days": 90
   },
   "categories": [
@@ -33,15 +33,60 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 207
+      "count": 208
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 93
+      "count": 95
     }
   ],
   "articles": [
+    {
+      "id": "recvkqMhx8lvtF",
+      "title": "促销：Galaxy Z Fold7、iPhone Air降价，Galaxy S26 Ultra、小米17 Ultra持续优惠",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_galaxy_z_fold7_iphone_air_get_price_cuts_galaxy_s26_ultra_xiaomi_17_ultra_continue_to_be_disco-news-72966.php",
+      "publish_time": "2026-05-23T15:47:02+08:00",
+      "summary": "三星Galaxy S26系列降价100英镑，Galaxy S25 FE降130英镑，Galaxy Z Fold7、iPhone Air、小米17 Ultra等多款机型同步优惠。",
+      "recommendation": "汇总多款旗舰机型降价信息，含S26 Ultra、小米17 Ultra等影像旗舰，适合关注高端手机影像配置与价格动态的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Galaxy Z Fold7, iPhone Air get price cuts, Galaxy S26 Ultra, Xiaomi 17 Ultra continue to be discounted"
+    },
+    {
+      "id": "recvkqMjRm3oXL",
+      "title": "我们是否过度思考摄影？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/23/are-we-overthinking-photography/",
+      "publish_time": "2026-05-23T15:00:00+08:00",
+      "summary": "当代摄影因社交媒体要求先了解背景再观看，导致无法让照片自然存在，引发现代危机，人们需被告知感受。",
+      "recommendation": "探讨社交媒体对摄影观看方式的异化，提出“先了解背景再观看”的现代危机，对追求纯粹影像表达的爱好者有反思价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Are We Overthinking Photography?"
+    },
+    {
+      "id": "recvkqMeUM6ElE",
+      "title": "专业摄影师常用的10个风景摄影技巧，助你拍出更佳效果",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/landscape-photography/10-landscape-photography-techniques-that-pros-use-for-better-results",
+      "publish_time": "2026-05-23T14:15:00+08:00",
+      "summary": "专业摄影师杰里米·弗林特分享10个风景摄影技巧，助你提升技能，拍出震撼效果",
+      "recommendation": "10个实用技巧涵盖构图、光线与后期，来自专业摄影师的实战经验，对提升风光摄影水平有直接帮助。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "10 landscape photography techniques that pros use for better results"
+    },
     {
       "id": "recvkpLoFIQcbc",
       "title": "荣耀Win 2规格泄露，同时曝光Win 2 RT部分细节",
