@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-24T03:49:36.913825+08:00",
-    "total_articles": 287,
+    "updated_at": "2026-05-24T12:55:04.485658+08:00",
+    "total_articles": 292,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 81
+      "count": 82
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,92 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 214
+      "count": 217
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 104
+      "count": 107
     }
   ],
   "articles": [
+    {
+      "id": "recvkvHTfAPH8x",
+      "title": "每周投票：Android 17 的哪些功能让你兴奋？",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_which_android_17_features_are_you_excited_about-news-72938.php",
+      "publish_time": "2026-05-24T12:33:02+08:00",
+      "summary": "Android 17测试中不断添加新功能，包括Gemini智能、Android Auto等，视频回顾亮点，核心价值在于提供丰富新功能与产品。",
+      "recommendation": "Android 17新增Gemini智能与Android Auto功能，虽未直接涉及影像，但系统底层优化可能影响计算摄影管线。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly poll: which Android 17 features are you excited about?"
+    },
+    {
+      "id": "recvkvHX2nMas9",
+      "title": "5款1000美元以下最佳微距镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/24/the-5-best-macro-lenses-under-1000/",
+      "publish_time": "2026-05-24T12:00:00+08:00",
+      "summary": "微距摄影可观察微观细节，本文推荐5款1000美元以下微距镜头，涵盖昆虫色彩、产品细节与纹理捕捉，适合拓展作品集。",
+      "recommendation": "千元内微距镜头横评，涵盖昆虫、产品等场景，提供光圈、放大倍率等关键参数对比，适合拓展微观创作。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 5 Best Macro Lenses Under $1000"
+    },
+    {
+      "id": "recvkvHVhqlwev",
+      "title": "相机包阵亡将士纪念日促销",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/23/camera-bags-memorial-day-deals.aspx/",
+      "publish_time": "2026-05-24T11:42:58+08:00",
+      "summary": "多家相机包品牌推出阵亡将士纪念日促销，WANDRD全场20%-40%折扣，Gura Gear每款包20%折扣，Peak Design最高50%折扣，ThinkTank DarkLight促销15%折扣",
+      "recommendation": "汇总WANDRD、Peak Design等主流品牌促销折扣，提供具体折扣比例，方便影像爱好者按需选购相机包。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Camera bag Memorial Day deals"
+    },
+    {
+      "id": "recvkvHP3Na4Q6",
+      "title": "这张非凡的战时快照揭示了模特转型摄影记者李·米勒的一个重要真相",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/this-remarkable-wartime-snapshot-reveals-an-important-truth-about-model-turned-photojournalist-lee-miller",
+      "publish_time": "2026-05-24T08:10:00+08:00",
+      "summary": "李·米勒新展本周开幕，一张战时快照揭示她从模特转型摄影记者的关键真相，凸显其作品核心价值",
+      "recommendation": "通过战时快照解析李·米勒从模特转型摄影记者的关键转折，揭示其作品核心价值，为影像爱好者提供历史视角与创作启示。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This remarkable wartime snapshot reveals an important truth about model-turned-photojournalist Lee Miller"
+    },
+    {
+      "id": "recvkvHRg3qSaG",
+      "title": "黑白相机越来越多是好事——它们不会限制创造力，反而会丰富它！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-growing-number-of-black-and-white-only-cameras-is-a-good-thing-they-dont-restrict-creativity-they-actually-enrich-it",
+      "publish_time": "2026-05-24T05:20:00+08:00",
+      "summary": "徕卡、宾得和理光推出仅拍黑白照片的相机，这种限制反而丰富了创意调色板，不会限制创造力。",
+      "recommendation": "从徕卡、宾得、理光黑白相机案例切入，探讨技术限制如何激发创意，提供摄影美学新视角，适合追求深度影像表达的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The growing number of black-and-white-only cameras is a good thing – they don't restrict creativity, they actually enrich it!"
+    },
     {
       "id": "recvktuwRiQpTE",
       "title": "从泛非电影档案到1973年后智利流亡电影制作：这些动态影像作品刚刚获得重大认可",
