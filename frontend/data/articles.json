@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-24T22:20:18.998265+08:00",
-    "total_articles": 303,
+    "updated_at": "2026-05-25T03:55:23.731447+08:00",
+    "total_articles": 312,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 84
+      "count": 86
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,139 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 224
+      "count": 233
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 115
+      "count": 117
     }
   ],
   "articles": [
+    {
+      "id": "recvkzmuisWYGh",
+      "title": "第21周十大热门手机排行榜",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/top_10_trending_phones_of_week_21-news-72971.php",
+      "publish_time": "2026-05-25T03:31:02+08:00",
+      "summary": "本周索尼Xperia 1 VIII热度降温，三星Galaxy A57重夺榜首，Galaxy S26 Ultra升至第二，小米17 Max保持第四。",
+      "recommendation": "榜单揭示索尼Xperia 1 VIII影像旗舰热度回落，三星Galaxy A57与S26 Ultra影像配置竞争格局，为购机提供市场风向参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Top 10 trending phones of week 21"
+    },
+    {
+      "id": "recvkzmmzhKEhv",
+      "title": "我根本不同意佳能在其V系列和C系列相机之间筑起壁垒",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/24/i-fundamentally-disagree-with-canon-building-a-wall-between-its-v-and-c-series-cameras/",
+      "publish_time": "2026-05-25T03:00:40+08:00",
+      "summary": "佳能新推EOS C50、R6 Mark III及R6 V，细分产品线筑壁垒，作者批评此举为EOS R系统最大失误，令人恼火。",
+      "recommendation": "本文批评佳能细分V/C系列产品线策略，指出其筑壁垒是EOS R系统最大失误。对关注佳能生态的爱好者有行业洞察价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I Fundamentally Disagree With Canon Building a Wall Between its V and C Series Cameras"
+    },
+    {
+      "id": "recvkzmzRlh7OC",
+      "title": "富士相机超值优惠及购买指南",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fantastic-fujifilm-deals-and-where-to-find-them/",
+      "publish_time": "2026-05-25T02:46:59+08:00",
+      "summary": "富士X和GFX系列设备有优惠，如X-T5在ProDigitalGear售价1850美元，比折扣价1899美元节省150美元，文章提供购买指南。",
+      "recommendation": "文章提供X-T5等富士相机具体售价与折扣信息，含购买指南，对近期有购机需求的影像爱好者有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fantastic Fujifilm Deals and Where to Find Them"
+    },
+    {
+      "id": "recvkzmqEGXLUV",
+      "title": "最不像GoPro的GoPro即将到来——但别把Mission 1 Pro叫做运动相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/the-most-un-gopro-gopro-yet-is-almost-here-but-dont-call-the-mission-1-pro-an-action-camera",
+      "publish_time": "2026-05-25T02:15:00+08:00",
+      "summary": "GoPro Mission 1 Pro 是一款8K设备，与以往GoPro不同，但不宜称为运动相机，更像电影摄影机。",
+      "recommendation": "解析GoPro转型之作Mission 1 Pro的8K电影级定位，揭示其与运动相机路线的本质差异，提供行业转型深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The most un-GoPro GoPro yet is almost here – but don’t call the Mission 1 Pro an action camera"
+    },
+    {
+      "id": "recvkzmBS81KJ6",
+      "title": "DxO发布适用于最新Z卡口镜头的新光学模块",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/24/dxo-released-new-optics-modules-for-the-latest-z-mount-lenses.aspx/",
+      "publish_time": "2026-05-25T00:39:32+08:00",
+      "summary": "DxO为尼康Z卡口镜头发布新光学模块，支持老蛙180mm F4.5等四款镜头，更新于PhotoLab和PureRAW多个版本。",
+      "recommendation": "DxO为Z卡口老蛙180mm等四款镜头更新光学模块，提供矫正数据，对追求RAW画质的尼康用户有实用价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "DxO released new optics modules for the latest Z-mount lenses"
+    },
+    {
+      "id": "recvkzmw9SMvKQ",
+      "title": "我们的Realme 16T电池续航与充电测试已准备就绪",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/our_realme_16t_battery_life_and_charging_test_is_done-news-72959.php",
+      "publish_time": "2026-05-24T23:34:02+08:00",
+      "summary": "Realme 16T配备8000mAh电池，起售价29999印度卢比，续航达23小时，电池寿命7年，性价比高。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦Realme 16T的8000mAh大电池与续航数据，对影像爱好者而言，长续航意味着更持久的户外拍摄体验，但缺乏影像功能或拍摄性能的深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Our Realme 16T battery life and charging test is ready"
+    },
+    {
+      "id": "recvkzmssUowGa",
+      "title": "这款相机挑战了“功能越多拍照越好”的观念——或许能让你成为更好的摄影师",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-camera-challenges-the-idea-that-more-features-mean-better-photography-and-might-make-you-a-better-photographer",
+      "publish_time": "2026-05-24T23:20:00+08:00",
+      "summary": "一款全画幅无反相机通过简化功能挑战传统观念，证明少即是多，可能帮助用户成为更好的摄影师。",
+      "recommendation": "挑战功能堆砌的行业惯性，以简化设计反思摄影本质。提供少即是多的深度观点，对追求创作本真的爱好者有启发价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This camera challenges the idea that more features mean better photography – and might make you a better photographer"
+    },
+    {
+      "id": "recvkzmoPzqMMc",
+      "title": "索尼100-400mm F4.5远摄变焦镜头，一镜摄远方",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/samples/4620354788/sony-fe-100-400mm-f4p5-gm-oss-sample-gallery",
+      "publish_time": "2026-05-24T23:00:00+08:00",
+      "summary": "索尼发布FE 100-400mm F4.5 GM OSS远摄变焦镜头，恒定光圈内变焦，面向专业体育摄影，与a7R VI一同试用。",
+      "recommendation": "文章提供索尼100-400mm F4.5 GM OSS与a7R VI的联合试用体验，包含恒定光圈内变焦设计细节，对体育摄影爱好者有实用参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Reaching far with Sony's 100-400mm F4.5 zoom lens"
+    },
     {
       "id": "recvky04reh7sU",
       "title": "松下Lumix L10评测：一款时尚便携机，终于为富士X100VI提供了变焦镜头替代方案",
@@ -119,6 +243,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Sony 1000X The ColleXion, Xiaomi 17 Max are official"
+    },
+    {
+      "id": "recvkzmy5lfy1o",
+      "title": "索尼1000X系列、小米17 Max正式发布——第21周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/sony_1000x_the_collexion_xiaomi_17_max_are_official-news-72957.php",
+      "publish_time": "2026-05-24T19:33:02+08:00",
+      "summary": "小米17 Max发布，配备200MP主摄、8000mAh电池和骁龙8 Elite Gen 5，12/256GB起售价4799元。",
+      "recommendation": "小米17 Max搭载200MP主摄与骁龙8 Elite Gen 5，提供高像素与长续航影像方案，适合关注手机影像硬件升级的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony 1000X The ColleXion, Xiaomi 17 Max are official - week 21 in review"
     },
     {
       "id": "recvkxZXN5ZOfl",
