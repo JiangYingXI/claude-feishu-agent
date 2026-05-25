@@ -1,19 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-05-25T23:46:27.923431+08:00",
-    "total_articles": 338,
+    "updated_at": "2026-05-26T04:16:18.583270+08:00",
+    "total_articles": 343,
     "data_range_days": 90
   },
   "categories": [
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 11
+      "count": 12
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 94
+      "count": 95
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,99 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 28
+      "count": 29
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 249
+      "count": 253
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 128
+      "count": 130
     }
   ],
   "articles": [
+    {
+      "id": "recvkFip3ejtNd",
+      "title": "7Artisans AF 10mmF4 和 AF 18mmF2.0 – 首批样张",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/7artisans-af-10mmf4-and-af-18mmf2-0-first-images/",
+      "publish_time": "2026-05-26T03:38:28+08:00",
+      "summary": "7Artisans即将推出AF 10mm F4和AF 18mm F2.0两款APS-C自动对焦镜头，由独立摄影师联合会在微博分享首张样张，此前已发布LITE系列。",
+      "recommendation": "7Artisans两款APS-C自动对焦镜头样张首曝，AF 10mm F4超广角与AF 18mm F2.0大光圈组合，提供实拍画质参考，适合关注国产镜头动态的用户。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans AF 10mmF4 and AF 18mmF2.0 – First Images"
+    },
+    {
+      "id": "recvkFijdXfZCN",
+      "title": "Oppo Pad 6发布：搭载天玑9500s，12英寸屏幕，10420mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_pad_6_launches_with_dimensity_9500s_12inch_screen_10420_mah_battery-news-72982.php",
+      "publish_time": "2026-05-26T02:41:02+08:00",
+      "summary": "Oppo发布Pad 6平板，12.1英寸144Hz屏幕，天玑9500s处理器，10420mAh电池支持67W快充，配六扬声器。",
+      "recommendation": "本文虽聚焦平板而非影像设备，但提及天玑9500s芯片的ISP性能，可间接了解移动端计算摄影能力。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo Pad 6 launches with Dimensity 9500s, 12-inch screen, 10,420 mAh battery"
+    },
+    {
+      "id": "recvkFigZskQ1i",
+      "title": "我在博茨瓦纳度过了10天，以车为家，穿越偏远沙漠，完全与世隔绝，专注于拍摄夜空",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/i-spent-10-days-traveling-through-botswana-living-out-of-my-car-and-moving-through-remote-desert-landscapes-in-complete-isolation-focused-entirely-on-photographing-the-night-sky",
+      "publish_time": "2026-05-26T02:30:00+08:00",
+      "summary": "摄影师用天文改装单反，在博茨瓦纳偏远盐沼拍摄银河下的猴面包树，10天以车为家与世隔绝",
+      "recommendation": "天文改机实战案例，详解博茨瓦纳盐沼银河拍摄技巧与设备改装经验，含10天野外生存与星空摄影的独家数据。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "\"I spent 10 days traveling through Botswana, living out of my car and moving through remote desert landscapes in complete isolation, focused entirely on photographing the night sky\""
+    },
+    {
+      "id": "recvkFil835tBt",
+      "title": "Oppo Reno16 Pro和Reno16正式发布，配备200MP后置摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_reno16_pro_and_reno16_go_official_with_200mp_rear_camera-news-72985.php",
+      "publish_time": "2026-05-26T01:31:02+08:00",
+      "summary": "Oppo发布Reno16 Pro和Reno16，均配备200MP后置三摄，Pro版采用6.78英寸AMOLED屏和天玑9500s芯片，标准版为6.32英寸OLED屏。",
+      "recommendation": "200MP传感器首次落地中高端机型，天玑9500s与双尺寸屏幕选择值得关注，适合想了解手机影像硬件迭代的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Oppo Reno16 Pro and Reno16 go official with 200MP rear camera"
+    },
+    {
+      "id": "recvkFin6ZG8Mm",
+      "title": "Oberwerth Little William 评测：街头摄影师的最佳相机包？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/25/oberwerth-little-william-review-the-best-camera-bag-for-street-photographers/",
+      "publish_time": "2026-05-26T00:00:00+08:00",
+      "summary": "Oberwerth Little William相机包以卓越材质和工艺惊艳用户，虽非全新设计，但品质出众，适合追求美学的街头摄影师。",
+      "recommendation": "评测聚焦Oberwerth相机包材质与工艺细节，为追求摄影美学的街头摄影师提供选包参考，但缺乏独家数据或深度观点。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oberwerth Little William Review: The Best Camera Bag for Street Photographers?"
+    },
     {
       "id": "recvkEc8UT3kbZ",
       "title": "X-M5是富士最时尚的廉价无反相机——但作为富士摄影师，我会买这台",
