@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-25T03:55:23.731447+08:00",
-    "total_articles": 312,
+    "updated_at": "2026-05-25T13:14:11.048940+08:00",
+    "total_articles": 317,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 86
+      "count": 89
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,98 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 23
+      "count": 24
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 233
+      "count": 235
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 117
+      "count": 119
     }
   ],
   "articles": [
+    {
+      "id": "recvkBDfa8Lm5E",
+      "title": "尼康新闻周刊第887期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/25/weekly-nikon-news-flash-887.aspx/",
+      "publish_time": "2026-05-25T12:06:57+08:00",
+      "summary": "本期尼康新闻周刊介绍Thypoch Ksana 35mm f/2 ASPH和LLL 50mm f/1.9 Rigid-ZS6镜头通过转接环适配尼康Zf/ZR相机，并提及佳能EOS R6V对比及野生动物",
+      "recommendation": "介绍Thypoch Ksana 35mm f/2与LLL 50mm f/1.9转接尼康Zf/ZR，提供手动镜头适配方案，适合街拍与野生动物题材爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #887"
+    },
+    {
+      "id": "recvkBDhKmKoNG",
+      "title": "LUMIX 40mm f2 评测：我们一直想要的镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/25/lumix-40mm-f2-review-what-we-always-wanted/",
+      "publish_time": "2026-05-25T12:00:00+08:00",
+      "summary": "LUMIX 40mm f2镜头具备防尘防溅功能，适合L卡口机身，但TTArtisan 40mm f2因更小巧且无防溅需求仍是更好选择。",
+      "recommendation": "对比LUMIX与TTArtisan两款40mm f2镜头，提供防溅性能与便携性的权衡分析，适合L卡口用户选购参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "LUMIX 40mm f2 Review: What We Always Wanted"
+    },
+    {
+      "id": "recvkBD6Tr7Z8r",
+      "title": "所有摄影师都应该购买相机保险吗？你需要覆盖的风险可能比你想象的更多",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/tripods/should-all-photographers-have-camera-insurance-there-are-more-risks-to-cover-than-you-probably-think",
+      "publish_time": "2026-05-25T08:10:00+08:00",
+      "summary": "文章探讨摄影师是否应购买相机保险，强调覆盖三脚架绊倒他人等意外责任风险，指出保险范围比想象中更广。",
+      "recommendation": "从意外责任险切入，揭示三脚架绊人、设备损坏等常被忽视的摄影风险，提供保险覆盖范围的深度分析，对器材投入较大的影像爱好者有实用参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Should all photographers have camera insurance? There are more risks to cover than you probably think"
+    },
+    {
+      "id": "recvkBDcteAn90",
+      "title": "荣耀600 vs. 600 Pro",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_600_vs_600_pro_review_battery_camera_price_compared-news-72880.php",
+      "publish_time": "2026-05-25T07:02:02+08:00",
+      "summary": "荣耀600 Pro相比标准版升级了芯片组和长焦摄像头，贵300欧元，但两者共享旗舰级显示屏、电池容量、主摄像头和80W快充，标准版性价比更高。",
+      "recommendation": "对比荣耀600与600 Pro影像差异，揭示长焦升级与性价比取舍，为购机提供数据参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor 600 vs. 600 Pro"
+    },
+    {
+      "id": "recvkBD9Bk6wsb",
+      "title": "玛丽莲·梦露100周年——唯一官方照片集致敬好莱坞与文化偶像",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/marilyn-monroe-100-the-only-official-book-that-celebrates-the-hollywood-and-cultural-icon-in-photos",
+      "publish_time": "2026-05-25T05:20:00+08:00",
+      "summary": "本书与梦露遗产管理机构合作，通过20世纪伟大摄影师镜头，纪念玛丽莲·梦露诞辰100周年，致敬这位好莱坞与文化偶像。",
+      "recommendation": "通过20世纪摄影大师镜头，解析梦露肖像的用光与构图技巧，为肖像摄影提供历史级参考案例。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Marilyn Monroe 100 –the only official book that celebrates the Hollywood and cultural icon in photos"
+    },
     {
       "id": "recvkzmuisWYGh",
       "title": "第21周十大热门手机排行榜",
