@@ -1,19 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-05-26T12:52:32.603464+08:00",
-    "total_articles": 350,
+    "updated_at": "2026-05-27T00:32:48.307783+08:00",
+    "total_articles": 387,
     "data_range_days": 90
   },
   "categories": [
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 12
+      "count": 15
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 98
+      "count": 106
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,602 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 18
+      "count": 19
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 29
+      "count": 32
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 258
+      "count": 287
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 132
+      "count": 147
     }
   ],
   "articles": [
+    {
+      "id": "recvkKeCUatsyp",
+      "title": "最适合街头摄影师的富士相机套件",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/26/the-best-fujifilm-camera-kit-for-street-photographers/",
+      "publish_time": "2026-05-27T00:00:00+08:00",
+      "summary": "富士相机套件适合街头摄影师，提供出色相机和镜头，是投资装备的好时机。",
+      "recommendation": "解析富士街拍套件选配逻辑，含镜头焦段与机身操控的实战搭配建议，对提升街拍效率有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Fujifilm Camera Kit for Street Photographers"
+    },
+    {
+      "id": "recvkKefvSsyu4",
+      "title": "佳能今年将推出两款前所未见的镜头",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/two-never-before-seen-lenses-coming-from-canon-this-year/",
+      "publish_time": "2026-05-26T23:32:21+08:00",
+      "summary": "佳能发布EOS R6 V和RF 20-50mm f/4L IS USM PZ镜头，评测界反响良好，但正式发货仍需等待。",
+      "recommendation": "文章聚焦佳能两款新镜头，含RF 20-50mm f/4L IS USM PZ具体规格与评测反馈，为关注视频拍摄的影像爱好者提供实用参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Two Never Before Seen Lenses Coming from Canon This Year"
+    },
+    {
+      "id": "recvkKdVVkN5DK",
+      "title": "苹果如何仅用iPhone拍摄整场MLS比赛",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/how-apple-shot-an-entire-mls-game-using-only-iphone/",
+      "publish_time": "2026-05-26T23:29:28+08:00",
+      "summary": "苹果用iPhone 17 Pro Max拍摄整场MLS比赛，创造体育转播历史，展示手机拍摄极限",
+      "recommendation": "解析iPhone 17 Pro Max拍摄MLS比赛的技术细节，揭示手机体育转播的极限与创新，含独家拍摄参数与后期流程。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "How Apple Shot an Entire MLS Game Using Only iPhone"
+    },
+    {
+      "id": "recvkKehBlgW6g",
+      "title": "显微摄影大赛获奖照片揭示生物学与宇宙的“奇妙相似性”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/microscopy-contest-winning-photo-reveals-intriguing-parallels-between-biology-and-the-cosmos",
+      "publish_time": "2026-05-26T23:26:12+08:00",
+      "summary": "显微摄影大赛获奖照片揭示微观世界与宇宙的奇妙相似性，展现生物学与天文学的视觉关联。",
+      "recommendation": "显微摄影与天文影像的视觉对比，为手机微距和长焦拍摄提供构图灵感，揭示计算摄影中多尺度成像的技术关联。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Microscopy contest-winning photo reveals “intriguing parallels” between biology and the cosmos"
+    },
+    {
+      "id": "recvkKdYfSKLcC",
+      "title": "X平台严厉打击盗用摄影师及其他创作者作品的账号",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/x-is-cracking-down-on-accounts-that-rip-off-the-work-of-photographers-and-other-creators/",
+      "publish_time": "2026-05-26T23:25:11+08:00",
+      "summary": "X平台宣布打击大账户剽窃小创作者作品以操纵收入分成系统的行为",
+      "recommendation": "揭示平台版权保护机制漏洞，提供创作者维权策略参考，对关注内容分成的影像从业者有实际警示价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "X is Cracking Down on Accounts That Rip Off the Work of Photographers and Other Creators"
+    },
+    {
+      "id": "recvkKe0vFTG2F",
+      "title": "富士胶片公告被误解引发社交媒体恐慌",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/misunderstanding-of-fujifilm-film-announcement-causes-panic-on-social-media/",
+      "publish_time": "2026-05-26T23:00:20+08:00",
+      "summary": "富士胶片公告被误解，社交媒体误以为停止黑白胶卷冲印服务，实际仅调整部分业务，相纸和化学品支持未变。",
+      "recommendation": "澄清富士胶片业务调整的误解，揭示社交媒体信息传播偏差，对黑白胶卷用户有实际参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Misunderstanding of Fujifilm Film Announcement Causes Panic on Social Media"
+    },
+    {
+      "id": "recvkKejC5jY0v",
+      "title": "18岁摄影师凭暖心小天鹅照片获大奖——“它们就在我身边躺下休息”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/18-year-old-photographer-wins-top-prize-with-heartwarming-cygnet-image-they-all-lay-down-for-a-rest-right-beside-me",
+      "publish_time": "2026-05-26T22:29:02+08:00",
+      "summary": "18岁摄影师用APS-C画幅无反相机和长焦镜头拍摄天鹅家庭温馨瞬间，获2026年英国青年野生动物摄影师奖",
+      "recommendation": "APS-C画幅+长焦拍野生动物获奖案例，展示非全幅设备创作潜力，含具体拍摄参数与获奖细节。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "18-year-old photographer wins top prize with heartwarming cygnet image – \"They all lay down for a rest right beside me\""
+    },
+    {
+      "id": "recvkKeu1D17Up",
+      "title": "荣耀Win Turbo确认搭载10000mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_win_turbo_confirmed_to_pack_a_10000mah_battery-news-72996.php",
+      "publish_time": "2026-05-26T22:16:02+08:00",
+      "summary": "荣耀Win Turbo将于5月29日发布，确认配备10000mAh电池，支持80W快充和27W反向充电，可连续游戏超14小时。",
+      "recommendation": "电池容量影响手机影像续航，10000mAh可支撑长时间拍摄与视频录制，80W快充减少充电等待。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Win Turbo confirmed to pack a 10,000mAh battery"
+    },
+    {
+      "id": "recvkKeyC56c7W",
+      "title": "免费FilmCase应用：从你的图像构建胶片模拟配方目录和图库，并将配方加载到相机",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/the-free-filmcase-app-builds-a-film-simulation-recipe-catalog-and-gallery-from-your-images-and-loads-recipes-to-your-camera/",
+      "publish_time": "2026-05-26T22:03:16+08:00",
+      "summary": "Juan开发的开源FilmCase应用，能从富士JPEG照片构建胶片模拟配方目录和图库，支持按颗粒、动态范围等筛选，并可将配方加载到相机。",
+      "recommendation": "开源FilmCase应用为富士用户提供从JPEG提取胶片模拟配方并加载至相机的实用工具，支持按颗粒、动态范围筛选，是计算摄影与胶片美学结合的独特资源。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Free FilmCase App Builds a Film Simulation Recipe Catalog and Gallery from Your Images and Loads Recipes to Your Camera"
+    },
+    {
+      "id": "recvkKelyoGTrT",
+      "title": "纽约画廊未经许可展出AI版著名照片，人们对愤怒我毫不意外！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/a-new-york-gallery-exhibited-an-ai-version-of-a-famous-photo-without-getting-permission-and-im-not-surprised-people-are-furious",
+      "publish_time": "2026-05-26T22:01:48+08:00",
+      "summary": "纽约丹齐格画廊未经许可展出并出售AI生成的安塞尔·亚当斯标志性照片版本，引发公众愤怒。",
+      "recommendation": "探讨AI生成经典摄影作品的伦理争议，揭示版权与创作边界问题，对关注影像行业趋势的读者有启发价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A New York gallery exhibited an AI version of a famous photo without getting permission, and I'm not surprised people are furious!"
+    },
+    {
+      "id": "recvkKenF19CQv",
+      "title": "GoPro Mission 1 Pro评测 – GoPro高端运动相机让公司重回巅峰",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-mission-1-pro-review",
+      "publish_time": "2026-05-26T22:00:00+08:00",
+      "summary": "GoPro Mission 1 Pro配备1英寸传感器和新处理芯片，满足电影制作人需求，助力公司重回高端运动相机巅峰。",
+      "recommendation": "1英寸传感器与新款处理芯片的实测数据，分析GoPro如何通过硬件升级满足电影级需求，对运动相机画质提升有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "GoPro Mission 1 Pro review – GoPro's premium action cam puts the company back on top of its game"
+    },
+    {
+      "id": "recvkKe2IVyl7t",
+      "title": "Viltrox Vintage Z1 Pro闪光灯：不到60美元，复古造型与现代性能兼得",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/viltrox-vintage-z1-pro-flash-offers-retro-style-and-modern-performance-for-under-60/",
+      "publish_time": "2026-05-26T21:45:08+08:00",
+      "summary": "唯卓仕发布Viltrox Vintage Z1 Pro闪光灯，复古造型结合现代TTL技术，售价不到60美元。",
+      "recommendation": "解析唯卓仕60美元复古闪光灯，兼顾TTL与现代性能，为预算有限的街拍爱好者提供高性价比补光方案。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox Vintage Z1 Pro Flash Offers Retro Style and Modern Performance for Under $60"
+    },
+    {
+      "id": "recvkKeAJEkzv5",
+      "title": "未来2-3个月内，索尼将再发布两款相机及新镜头！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/two-more-sony-cameras-and-new-lenses-will-be-announced-within-the-next-2-3-months/",
+      "publish_time": "2026-05-26T21:28:45+08:00",
+      "summary": "索尼在中国注册两款新相机，预计未来2-3个月内发布，可能为RX或APS-C相机及新FX型号，同时将推出新镜头。",
+      "recommendation": "索尼新品路线图曝光，含RX或APS-C机型及新FX镜头，为影像爱好者提供未来2-3个月选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Two more Sony cameras and new lenses will be announced within the next 2-3 months!"
+    },
+    {
+      "id": "recvkKe4IWrbZi",
+      "title": "教皇利奥警告AI图像是虚假信息的“强大放大器”",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/pope-leo-warns-ai-images-are-a-powerful-amplifier-of-disinformation/",
+      "publish_time": "2026-05-26T21:00:02+08:00",
+      "summary": "教皇利奥发布通谕，警告AI图像工具是虚假信息的强大放大器，敦促当局加强监管。",
+      "recommendation": "从宗教领袖视角审视AI图像风险，为影像爱好者提供技术伦理反思，非技术性但具行业警示价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Pope Leo Warns AI Images Are a ‘Powerful Amplifier’ of Disinformation"
+    },
+    {
+      "id": "recvkKeEZkd0o9",
+      "title": "最适合街头摄影的松下相机套件",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/26/the-best-panasonic-camera-kit-for-street-photography/",
+      "publish_time": "2026-05-26T21:00:00+08:00",
+      "summary": "松下推出小巧全画幅相机套件，专为街头摄影设计，满足高分辨率与便携需求。",
+      "recommendation": "解析松下全画幅套件在街头摄影中的便携与高画质平衡，提供具体镜头搭配与拍摄场景实测数据，适合追求轻量化街拍方案的爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Panasonic Camera Kit for Street Photography"
+    },
+    {
+      "id": "recvkKe7aQkP7z",
+      "title": "视频揭示新发现蓝色章鱼，大小不及高尔夫球",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/footage-reveals-newly-discovered-blue-octopus-no-bigger-than-a-golf-ball/",
+      "publish_time": "2026-05-26T20:37:38+08:00",
+      "summary": "科学家在海洋5800英尺深处发现一种大小约等于高尔夫球的微小新种蓝色章鱼",
+      "recommendation": "海洋5800英尺深处发现高尔夫球大小蓝色章鱼，提供微距摄影新题材与深海生物影像数据，对自然摄影爱好者有独特参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Footage Reveals Newly Discovered Blue Octopus No Bigger Than a Golf Ball"
+    },
+    {
+      "id": "recvkKepPX1MX0",
+      "title": "赛车摄影师赢得法拉利比赛：创意混搭无反相机与单反镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/motorsport-photographer-wins-ferrari-competition-mixing-her-mirrorless-camera-and-dslr-lenses-with-creative-techniques",
+      "publish_time": "2026-05-26T20:28:50+08:00",
+      "summary": "法拉利英国赛车摄影大赛首位获奖者因创意混搭无反相机与单反镜头，以新颖构思与技法令评委眼前一亮。",
+      "recommendation": "解析赛车摄影师如何通过无反与单反镜头混搭赢得比赛，提供实战构图与器材适配技巧，对创意拍摄有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Motorsport photographer wins Ferrari competition mixing her mirrorless camera and DSLR lenses with creative techniques"
+    },
+    {
+      "id": "recvkKewbncwE6",
+      "title": "小米17T Pro电池容量与芯片组在发布前曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_17t_pros_battery_capacity_and_chipset_revealed_ahead_of_launch-news-72995.php",
+      "publish_time": "2026-05-26T20:11:02+08:00",
+      "summary": "小米17T Pro发布前曝光，确认搭载7000mAh硅碳电池，可连续录制视频9.5小时，充电规格未公布。",
+      "recommendation": "曝光7000mAh电池支撑9.5小时视频录制，为高功耗影像场景提供续航参考，但芯片组与充电规格未明确，影像价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi 17T Pro's battery capacity and chipset revealed ahead of launch"
+    },
+    {
+      "id": "recvkKe9brY2ZJ",
+      "title": "婚礼摄影师被宾客刺伤，伤势严重",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/wedding-photographer-seriously-injured-after-being-stabbed-by-guest/",
+      "publish_time": "2026-05-26T19:38:40+08:00",
+      "summary": "本周末，一名婚礼摄影师在缅因州婚礼上被客人刺伤胸部，伤势严重。",
+      "recommendation": "该事件提醒影像从业者注意工作场景安全风险，虽非技术内容，但涉及行业安全议题，值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Wedding Photographer Seriously Injured After Being Stabbed by Guest"
+    },
+    {
+      "id": "recvkKerQ61rQl",
+      "title": "水下摄像机镜头揭示极度濒危僧海豹从海滩消失后的藏身之处",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/underwater-camera-footage-reveals-hiding-spot-of-critically-endangered-monk-seals-that-disappeared-from-beaches",
+      "publish_time": "2026-05-26T19:37:17+08:00",
+      "summary": "研究人员用水下摄像机发现极度濒危的地中海僧海豹藏身于远离人类的淹没气泡洞穴中",
+      "recommendation": "水下摄像机在极端环境中的应用案例，展示镜头防水与低光性能的实战价值，含僧海豹栖息地的独家影像数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Underwater camera footage reveals hiding spot of critically endangered monk seals that disappeared from beaches"
+    },
+    {
+      "id": "recvkKebfFtjnW",
+      "title": "摄影师拍到飞机凌日罕见瞬间，概率仅170万分之一",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/photographer-takes-one-in-1-7-million-photo-of-airplane-transiting-the-sun/",
+      "publish_time": "2026-05-26T19:35:04+08:00",
+      "summary": "天文摄影师安德鲁·麦卡锡耗时六天拍摄170万张照片，捕捉到波音737飞越太阳的罕见瞬间，概率仅170万分之一。",
+      "recommendation": "170万分之一概率的飞机凌日拍摄案例，详解高帧率连拍与天文摄影技巧，提供独家拍摄参数与成功率数据。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Takes One in 1.7 Million Photo of Airplane Transiting the Sun"
+    },
+    {
+      "id": "recvkKedm0E5Pz",
+      "title": "冲浪比赛中摄影师被“鲨鱼或海狮”咬伤",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/photographer-bitten-by-shark-or-sea-lion-during-surf-competition/",
+      "publish_time": "2026-05-26T18:35:36+08:00",
+      "summary": "新西兰冲浪比赛决赛中，一名摄影师被疑为鲨鱼或海狮的动物咬伤，比赛暂停数小时。",
+      "recommendation": "虽非影像技术内容，但提醒摄影师户外拍摄时需注意环境安全，尤其水域场景的潜在风险。常规资讯，可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "Photographer Bitten by ‘Shark or Sea Lion’ During Surf Competition"
+    },
+    {
+      "id": "recvkIOENVBdUW",
+      "title": "Lava Shark 2发布：120Hz屏幕与6000mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_shark_2_features_price_sale_date-news-72993.php",
+      "publish_time": "2026-05-26T18:06:02+08:00",
+      "summary": "Lava Shark 2发布，搭载紫光展锐T8200处理器、4GB RAM、64GB存储，支持1TB扩展，配备120Hz屏幕和6000mAh电池，预装纯净Android 16系统，承诺一次系统升级和两",
+      "recommendation": "常规资讯，可了解行业动态。该机未提及影像规格，对影像爱好者价值有限，但120Hz屏幕和6000mAh电池或间接影响拍摄体验。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "Lava Shark 2 announced with a 120Hz display and a 6,000 mAh battery"
+    },
+    {
+      "id": "recvkIOrtU8ftk",
+      "title": "我带上了用过的最烂相机去度假，却有点爱上这种糟糕的画质",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-took-the-worst-camera-i-have-ever-used-on-vacation-and-i-kind-of-love-how-bad-the-photos-are",
+      "publish_time": "2026-05-26T17:59:27+08:00",
+      "summary": "柯达Charmera相机画质极差，但作者却爱上这种糟糕感，认为这正是其魅力所在。",
+      "recommendation": "从极端画质中发掘摄影乐趣，挑战主流画质崇拜。提供反常规的创作视角，适合探索摄影本质的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I took the worst camera I have ever used on vacation, and I kind of love how bad the photos are"
+    },
+    {
+      "id": "recvkIOp1UUEeg",
+      "title": "纽约画廊称其‘完全有权’制作安塞尔·亚当斯标志性照片的AI版本",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/nyc-gallery-says-it-has-every-right-to-create-ai-version-of-iconic-ansel-adams-photo/",
+      "publish_time": "2026-05-26T17:31:58+08:00",
+      "summary": "纽约丹齐格画廊出售安塞尔·亚当斯《月出》AI版本，老板辩护称完全有权，引发版权争议。",
+      "recommendation": "探讨AI生成经典摄影作品的版权边界，提供画廊辩护与争议双方观点，对理解AI影像伦理有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "NYC Gallery Says it Has ‘Every Right’ to Create AI Version of Iconic Ansel Adams Photo"
+    },
+    {
+      "id": "recvkIOH70rsmQ",
+      "title": "vivo X500 Pro相机规格曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x500_pros_camera_specifications_tipped-news-72992.php",
+      "publish_time": "2026-05-26T17:03:02+08:00",
+      "summary": "vivo X500 Pro相机规格曝光，后置三摄包括50MP主摄（1/1.28英寸，LOFIC技术）、50MP超广角和64MP潜望长焦（3倍光变），拍照性能大幅提升。",
+      "recommendation": "曝光vivo X500 Pro三摄规格，含1/1.28英寸LOFIC主摄与64MP潜望长焦，为影像爱好者提供传感器技术升级与长焦配置的独家数据参考。",
+      "categories": [
+        "传感器硬件",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "vivo X500 Pro's camera specifications tipped"
+    },
+    {
+      "id": "recvkIOQca6Ty7",
+      "title": "七工匠即将发布三款全新广角自动对焦E卡口镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/7artisans-is-about-to-release-three-new-wide-angle-af-e-mount-lenses/",
+      "publish_time": "2026-05-26T17:02:31+08:00",
+      "summary": "七工匠即将发布三款广角自动对焦E卡口镜头：全画幅10mm f/2.5鱼眼、10mm f/4.0和APS-C 18mm f/2.0薄饼镜头。",
+      "recommendation": "七工匠三款广角自动对焦E卡口镜头参数曝光，含全画幅鱼眼与APS-C薄饼镜，为索尼用户提供高性价比广角新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans is about to release three new wide angle AF E-mount lenses"
+    },
+    {
+      "id": "recvkIOtBfYhgC",
+      "title": "松下Lumix L10紧凑型相机从技术坟墓中带回一个不寻常的功能——有点像开放门，但也适用于照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-panasonic-lumix-l10-compact-camera-brings-back-an-unusual-feature-from-the-tech-graveyard-and-its-a-little-like-open-gate-but-for-photos-too",
+      "publish_time": "2026-05-26T16:58:00+08:00",
+      "summary": "松下Lumix L10紧凑型相机重新引入多角度传感器功能，适用于照片拍摄，类似开放门概念，恰逢其时地复活了这一不寻常技术。",
+      "recommendation": "解析松下Lumix L10复活多角度传感器技术，类比开放门概念，提供照片拍摄新视角。对关注复古技术创新的影像爱好者有独特参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Panasonic Lumix L10 compact camera brings back an unusual feature from the tech graveyard – and it’s a little like open gate, but for photos too"
+    },
+    {
+      "id": "recvkIOJmBcG0k",
+      "title": "荣耀Pad 20发布：12.1英寸屏幕，10100mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_pad_20_unveiled_with_a_121inch_display_10100mah_battery-news-72990.php",
+      "publish_time": "2026-05-26T16:02:02+08:00",
+      "summary": "荣耀发布Pad 20平板，配备12.1英寸120Hz高刷屏、骁龙7 Gen 3芯片、10100mAh电池，最高8GB内存，柔光版可选",
+      "recommendation": "虽未直接涉及影像，但Pad 20的120Hz高刷屏与骁龙7 Gen 3芯片可提升修图与视频剪辑体验，柔光版对屏幕反光控制有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Pad 20 unveiled with a 12.1-inch display, 10,100mAh battery"
+    },
+    {
+      "id": "recvkIOvKzvf41",
+      "title": "宝丽来Wave评测：一款基础且相对便宜的水下直播相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/polaroid-wave-review-a-basic-and-relatively-cheap-underwater-streaming-camera",
+      "publish_time": "2026-05-26T15:43:06+08:00",
+      "summary": "宝丽来Wave水下直播相机可拍1800万像素照片和4K视频，能浮在水面，价格相对便宜。",
+      "recommendation": "提供宝丽来Wave水下直播相机的实测数据（1800万像素、4K视频、浮水功能），对水下摄影爱好者有参考价值，但内容偏常规。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Polaroid Wave review: a basic and relatively cheap underwater streaming camera"
+    },
+    {
+      "id": "recvkIOxTf0eFA",
+      "title": "纳尔逊·曼德拉世界需要的那张照片：为何吉莉安·埃德尔斯坦逆流而上拍摄这位南非偶像的肖像",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/the-one-photo-of-nelson-mandela-the-world-needed-why-jillian-edelstein-went-against-the-grain-to-shoot-this-portrait-of-the-south-african-icon",
+      "publish_time": "2026-05-26T15:26:28+08:00",
+      "summary": "吉莉安·埃德尔斯坦逆流而上拍摄曼德拉肖像，其背后故事在伦敦沉浸式体验中生动呈现，揭示南非偶像的独特视角。",
+      "recommendation": "解析吉莉安·埃德尔斯坦拍摄曼德拉肖像的创作逆流，提供摄影美学与历史人物肖像的独家视角，适合追求深度影像叙事的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The one photo of Nelson Mandela the world needed: why Jillian Edelstein went against the grain to shoot this portrait of the South African icon"
+    },
+    {
+      "id": "recvkIOLFOyBRh",
+      "title": "三星Galaxy S26 FE现身第三方保护壳展示",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_gets_showcased_inside_some_thirdparty_cases-news-72987.php",
+      "publish_time": "2026-05-26T15:01:02+08:00",
+      "summary": "三星Galaxy S26 FE现身第三方保护壳渲染图，搭载Exynos 2500和8GB RAM，采用居中打孔屏及新相机岛设计。",
+      "recommendation": "保护壳渲染图揭示S26 FE相机岛新设计，Exynos 2500与8GB RAM参数曝光，对关注三星中端影像机型布局的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy S26 FE gets showcased inside some third-party cases"
+    },
+    {
+      "id": "recvkIOUSd6OIW",
+      "title": "适马是否在悄悄为人像摄影师打造更多镜头？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/26/is-sigma-quietly-building-more-lenses-for-portrait-photographers/",
+      "publish_time": "2026-05-26T15:00:00+08:00",
+      "summary": "适马可能正在研发三款新定焦镜头，专为人像摄影师设计，延续其高性能和亲民价格的传统。",
+      "recommendation": "适马可能推出三款新定焦人像镜头，延续高性能与亲民定价策略，对预算有限的人像摄影师有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Sigma Quietly Building More Lenses for Portrait Photographers?"
+    },
+    {
+      "id": "recvkIOSBoQrJZ",
+      "title": "索尼小贴士…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1906/",
+      "publish_time": "2026-05-26T14:39:14+08:00",
+      "summary": "文章介绍了索尼相关摄影器材资讯，包括200mm镜头对比、野生动物构图指南、Viltrox和Samyang镜头评测等，为摄影爱好者提供实用技巧与产品信息。",
+      "recommendation": "涵盖索尼200mm镜头对比、野生动物构图指南及Viltrox/Samyang镜头评测，为摄影爱好者提供实用技巧与产品选择参考，信息丰富但无独家数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvkIOAeJMcPw",
+      "title": "这款电影感紧凑型相机屡获殊荣——但并非人人认同",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-film-inspired-compact-camera-is-winning-awards-but-not-everyone-agrees",
+      "publish_time": "2026-05-26T14:15:00+08:00",
+      "summary": "富士胶片复古紧凑型相机屡获殊荣，但因其独特设计引发争议，核心参数包括X-Trans CMOS传感器和胶片模拟模式",
+      "recommendation": "解析X-Trans CMOS与胶片模拟的争议点，提供传感器硬件与摄影美学的深度碰撞，适合纠结复古与性能的爱好者。",
+      "categories": [
+        "传感器硬件",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This film-inspired compact camera is winning awards – but not everyone agrees"
+    },
+    {
+      "id": "recvkIOCvxlHFC",
+      "title": "2026年摄影日：比利时亨克，由Foto Robyns呈现",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/photo-day-2026-genk-belgium-presented-by-foto-robyns/",
+      "publish_time": "2026-05-26T13:49:41+08:00",
+      "summary": "5月31日，Foto Robyns在比利时亨克举办大型摄影活动，面向比荷摄影爱好者，含讲座、实践及品牌参展，亮点为Jeroen Van Nieuwenhove。",
+      "recommendation": "文章报道了比利时亨克摄影日活动，包含讲座、实践及品牌参展信息，亮点为Jeroen Van Nieuwenhove。对欧洲摄影爱好者有参考价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photo Day 2026: Genk, Belgium Presented by Foto Robyns"
+    },
+    {
+      "id": "recvkIONTcOFPA",
+      "title": "vivo S60完整规格在5月29日发布前泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_s60_full_specs_leak_ahead_of_may_29_unveiling-news-72988.php",
+      "publish_time": "2026-05-26T13:41:02+08:00",
+      "summary": "vivo S60将于5月29日发布，配备6.59英寸1260p直屏、骁龙8s Gen 3处理器及后置50MP主摄、8MP超广角和50MP 3倍潜望长焦摄像头。",
+      "recommendation": "提前曝光vivo S60完整规格，含50MP 3倍潜望长焦与骁龙8s Gen 3处理器，对关注中端影像手机潜望长焦配置的用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "vivo S60 full specs leak ahead of May 29 unveiling"
+    },
     {
       "id": "recvkHogsrVmSu",
       "title": "关于适马镜头你可能不知道的事",
