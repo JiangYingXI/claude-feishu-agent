@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-26T04:16:18.583270+08:00",
-    "total_articles": 343,
+    "updated_at": "2026-05-26T12:52:32.603464+08:00",
+    "total_articles": 350,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 95
+      "count": 98
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,123 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 253
+      "count": 258
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 130
+      "count": 132
     }
   ],
   "articles": [
+    {
+      "id": "recvkHogsrVmSu",
+      "title": "关于适马镜头你可能不知道的事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/26/the-things-about-sigma-lenses-you-probably-never-knew/",
+      "publish_time": "2026-05-26T12:00:00+08:00",
+      "summary": "适马镜头名称使用大量缩写，随无反相机转型经历变革，2014年采访显示制造商认为镜头寿命将缩短。",
+      "recommendation": "解析适马镜头缩写与转型历程，含2014年厂商对镜头寿命缩短的独家观点，助爱好者理解品牌策略与产品选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Things About Sigma Lenses You Probably Never Knew"
+    },
+    {
+      "id": "recvkHokKsRB5s",
+      "title": "神牛最新产品",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/25/the-latest-godox-products.aspx/",
+      "publish_time": "2026-05-26T11:05:57+08:00",
+      "summary": "神牛发布多款尼康用新品，包括微距双灯闪光灯MF-T76N、可折叠柔光箱EazyFlow、LED视频闪光灯FL15Bi及双色温便携灯ML40Bi，其中iT32等四款获红点设计奖",
+      "recommendation": "神牛尼康新品覆盖微距、柔光、便携补光场景，MF-T76N双灯与iT32获红点奖，为影像创作提供实用工具参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The latest Godox products"
+    },
+    {
+      "id": "recvkHomGFaxGj",
+      "title": "Viltrox发布Z1 Pro复古风格紧凑型闪光灯，专为尼康相机设计",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/25/viltrox-announced-a-new-z1-pro-vintage-retro-inspired-compact-flash-for-nikon-cameras.aspx/",
+      "publish_time": "2026-05-26T10:20:08+08:00",
+      "summary": "Viltrox发布Z1 Pro复古风格紧凑型闪光灯，专为尼康相机设计，已开放预购，售价等信息见原文。",
+      "recommendation": "Viltrox为尼康用户推出复古风格闪光灯，提供紧凑设计与预购信息，适合追求便携与风格匹配的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Viltrox announced a new Z1 Pro vintage/retro-inspired compact flash for Nikon cameras"
+    },
+    {
+      "id": "recvkHoa6mBNz7",
+      "title": "Gered Mankowitz：记录滚石乐队和吉米·亨德里克斯的摄影师65年职业生涯",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/gered-mankowitz-photographs-charts-the-rolling-stones-and-jimi-hendrix-photographers-65-year-career",
+      "publish_time": "2026-05-26T08:10:00+08:00",
+      "summary": "摄影师Gered Mankowitz65年职业生涯的全面著作，收录滚石乐队、吉米·亨德里克斯等明星的精彩照片，展现其艺术价值。",
+      "recommendation": "从65年摄影生涯中提炼滚石乐队等明星拍摄的布光、构图与胶片选择技巧，对人像与纪实摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Gered Mankowitz: Photographs charts The Rolling Stones and Jimi Hendrix photographer’s 65-year career"
+    },
+    {
+      "id": "recvkHoepqFNHp",
+      "title": "Galaxy Z Fold8和Z Fold Wide官方名称在线曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_official_galaxy_z_fold8_and_z_fold_wide_names_surface_online-news-72978.php",
+      "publish_time": "2026-05-26T06:21:02+08:00",
+      "summary": "三星计划更改下一代Galaxy Z折叠屏命名，因新成员Galaxy Z Fold Wide将对抗iPhone Ultra等宽屏折叠手机。",
+      "recommendation": "曝光三星折叠屏新命名及宽屏机型，揭示对抗iPhone Ultra的影像策略，提供行业动态参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The official Galaxy Z Fold8 and Z Fold Wide names surface online"
+    },
+    {
+      "id": "recvkHocgk8uyQ",
+      "title": "“赛博卡车徕卡”：这款相机纯手工打造，颜值爆表",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/the-cybertruck-leica-this-beautiful-camera-is-100-percent-handmade-and-200-percent-handsome",
+      "publish_time": "2026-05-26T05:20:00+08:00",
+      "summary": "手工打造徕卡卡口机身，追求最精良机械式35毫米胶片相机，颜值与工艺并存。",
+      "recommendation": "手工徕卡卡口机身，聚焦机械胶片相机工艺与设计美学，提供独特视角的影像硬件赏析。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The \"Cybertruck Leica\": This beautiful camera is 100% handmade and 200% handsome"
+    },
+    {
+      "id": "recvkHoiDanPxg",
+      "title": "即将结束：BH、亚马逊、Adorama的阵亡将士纪念日促销",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/ending-soon-memorial-day-savings-at-bh-amazon-adorama/",
+      "publish_time": "2026-05-26T04:13:06+08:00",
+      "summary": "BH、亚马逊、Adorama阵亡将士纪念日促销即将结束，Amazon Outlet最高5折，闪迪存储省钱，Gitzo三脚架省800美元。",
+      "recommendation": "阵亡将士纪念日促销收尾，涵盖BH、亚马逊等平台，Gitzo三脚架省800美元、闪迪存储折扣等具体优惠，适合近期有采购需求的影像爱好者快速锁定省钱机会。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Ending soon: Memorial Day Savings at BH, Amazon, Adorama"
+    },
     {
       "id": "recvkFip3ejtNd",
       "title": "7Artisans AF 10mmF4 和 AF 18mmF2.0 – 首批样张",
