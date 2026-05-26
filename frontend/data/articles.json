@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-27T00:32:48.307783+08:00",
-    "total_articles": 387,
+    "updated_at": "2026-05-27T04:37:02.534213+08:00",
+    "total_articles": 394,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 106
+      "count": 109
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 19
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,125 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 287
+      "count": 292
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 147
+      "count": 150
     }
   ],
   "articles": [
+    {
+      "id": "recvkLdZra1d0a",
+      "title": "Calibrite色度计：首款可硬件校准苹果显示器的设备",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/calibrite-colorimeter-is-the-first-that-hardware-calibrates-apple-displays/",
+      "publish_time": "2026-05-27T03:40:51+08:00",
+      "summary": "Calibrite Display Plus HL色度计获苹果批准，成为首款可硬件校准苹果显示器的设备，支持显示器校准工作流程。",
+      "recommendation": "苹果首次开放硬件校准权限，Calibrite色度计填补Mac生态专业校色空白。对追求色准的摄影后期用户有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Calibrite Colorimeter Is the First That Hardware Calibrates Apple Displays"
+    },
+    {
+      "id": "recvkLe95Ghw9Z",
+      "title": "K4MERA 登场：摄影师最值得关注的数字3D相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/26/meet-k4mera-the-most-compelling-digital-3d-camera-for-photographers/",
+      "publish_time": "2026-05-27T03:00:00+08:00",
+      "summary": "瑞士初创公司Roofless Labs推出K4MERA数字3D相机，为摄影师提供超越传统二维成像的立体拍摄体验。",
+      "recommendation": "瑞士初创公司Roofless Labs推出K4MERA数字3D相机，为摄影师提供立体成像新方案，含独家技术细节与行业趋势分析。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Meet K4MERA: The Most Compelling Digital 3D Camera for Photographers"
+    },
+    {
+      "id": "recvkLe7jYAVkA",
+      "title": "新品：Lensbaby Twist 28mm f/3.5全画幅手动对焦饼干镜头，尼康Z卡口，售价190美元",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/26/new-lensbaby-twist-28mm-f-3-5-full-frame-manual-focus-pancake-lens-for-nikon-z-mount-190.aspx/",
+      "publish_time": "2026-05-27T02:54:08+08:00",
+      "summary": "Lensbaby发布Twist 28mm f/3.5全画幅手动对焦饼干镜头，尼康Z卡口，Petzval风格旋转散景，售价190美元，重140g。",
+      "recommendation": "解析Lensbaby Twist 28mm f/3.5的Petzval旋转散景特性，提供尼康Z卡口用户独特创意拍摄方案，140g轻量化设计是亮点。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New: Lensbaby Twist 28mm f/3.5 full-frame manual-focus pancake lens for Nikon Z-mount ($190)"
+    },
+    {
+      "id": "recvkLe17aDLdl",
+      "title": "摄影师如何转型为作家，讲述更震撼的故事",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/how-a-photographer-became-a-writer-to-tell-a-powerful-story/",
+      "publish_time": "2026-05-27T02:46:54+08:00",
+      "summary": "获奖独立摄影记者称，拍摄并撰写深度项目提升了出版产品质量，揭示摄影师转型作家可讲述更震撼故事的核心价值。",
+      "recommendation": "独立摄影记者分享转型作家经验，揭示影像叙事与文字结合的深度项目如何提升作品价值，对追求故事表达的爱好者有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How a Photographer Became a Writer to Tell an Even More Powerful Story"
+    },
+    {
+      "id": "recvkLdXnd9VWC",
+      "title": "2026年世界杯参赛队伍数量创历史新高——这张色彩缤纷的照片展示了所有队伍的球迷",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/the-2026-world-cup-has-more-teams-competing-than-ever-before-and-this-colorful-photograph-shows-fans-from-every-single-one-of-them",
+      "publish_time": "2026-05-27T02:41:01+08:00",
+      "summary": "2026年世界杯参赛队伍数量创新高，盖蒂发布合成图展示每队一名球迷，色彩丰富",
+      "recommendation": "盖蒂合成图展示各队球迷色彩，对体育摄影构图与色彩搭配有参考价值，但内容偏资讯性。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The 2026 World Cup has more teams competing than ever before – and this colorful photograph shows fans from every single one of them"
+    },
+    {
+      "id": "recvkLe2W52ZOJ",
+      "title": "Imagen推出10美元AI编辑全权限，恰逢旺季",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/imagen-is-offering-full-ai-editing-access-for-10-just-in-time-for-peak-season/",
+      "publish_time": "2026-05-27T02:09:29+08:00",
+      "summary": "Imagen推出10美元AI编辑全权限，解决摄影师耗时编辑问题，约70%摄影师将26%-75%工作时间用于编辑，仅5%能管理压力。",
+      "recommendation": "10美元AI编辑全权限切入摄影师编辑痛点，70%摄影师耗时数据揭示行业现状，对计算摄影爱好者有成本与效率参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Imagen Is Offering Full AI Editing Access for $10, Just In Time for Peak Season"
+    },
+    {
+      "id": "recvkLe56Mioun",
+      "title": "松下L10初评：这款紧凑型相机让摄影师们意见不一",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/panasonic-dc-l10-comapct-camera-four-thirds-review",
+      "publish_time": "2026-05-27T01:00:00+08:00",
+      "summary": "松下L10是一款面向爱好者的紧凑型相机，配备四分之三传感器和24-75mm等效F1.7-2.8电动变焦镜头，具备光学防抖，引发摄影师不同意见。",
+      "recommendation": "文章剖析松下L10紧凑型相机争议点，提供四分之三传感器与F1.7-2.8电动变焦镜头实测数据，对爱好者选购有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Panasonic L10 initial review: The compact that's dividing photographers"
+    },
     {
       "id": "recvkKeCUatsyp",
       "title": "最适合街头摄影师的富士相机套件",
