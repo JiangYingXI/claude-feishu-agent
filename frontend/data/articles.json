@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-27T18:45:03.069783+08:00",
-    "total_articles": 412,
+    "updated_at": "2026-05-28T00:30:06.058509+08:00",
+    "total_articles": 429,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 115
+      "count": 119
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 23
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,279 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 306
+      "count": 317
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 157
+      "count": 166
     }
   ],
   "articles": [
+    {
+      "id": "recvkQ4iqDI9fO",
+      "title": "单反相机捕捉到螃蟹与鱼泥泞生死决斗照片，荣获顶级旅游摄影奖亚军",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/photo-of-a-muddy-duel-to-the-death-between-a-crab-and-a-fish-captured-on-a-dslr-was-runner-up-in-top-travel-photography-award",
+      "publish_time": "2026-05-28T00:12:58+08:00",
+      "summary": "一张单反相机拍摄的螃蟹与鱼在泥浆中搏斗的照片，荣获年度旅行摄影师奖野生动物类亚军。",
+      "recommendation": "解析单反相机在极端泥泞环境中捕捉动态对决的技术要点，揭示获奖作品背后的拍摄参数与构图策略，为野生动物摄影爱好者提供实战参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photo of a muddy duel to the death between a crab and a fish captured on a DSLR was runner-up in top travel photography award"
+    },
+    {
+      "id": "recvkQ40T48NNV",
+      "title": "Halide Mark III 承诺在 iPhone 上实现‘最美照片’",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/halide-mark-iii-promises-most-beautiful-photos-possible-on-iphone/",
+      "publish_time": "2026-05-28T00:02:11+08:00",
+      "summary": "Halide Mark III 正式发布，承诺无AI摄影体验和全新“Looks”功能，实现iPhone最美照片。",
+      "recommendation": "Halide Mark III 以无AI摄影和“Looks”功能挑战计算摄影，提供iPhone原生画质新思路，适合追求真实影像的用户。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Halide Mark III Promises ‘Most Beautiful Photos Possible’ on iPhone"
+    },
+    {
+      "id": "recvkQ3W5wwJr0",
+      "title": "Halide Mark III：重新设计的相机、全新外观，以及惊喜的Raw文件支持",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/4797770033/halide-mark-iii-announced",
+      "publish_time": "2026-05-28T00:00:00+08:00",
+      "summary": "Halide Mark III相机应用发布，支持多品牌Raw文件，图像处理能力大幅提升。",
+      "recommendation": "Halide Mark III重新设计界面并支持多品牌Raw文件，提供独家图像处理升级细节，对追求移动摄影画质的用户有实操参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Halide Mark III: Redesigned camera, new looks, and surprise Raw file support"
+    },
+    {
+      "id": "recvkQ4t0V57Sx",
+      "title": "最佳佳能相机套件：鸟类摄影之选",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/27/the-best-canon-camera-kit-for-bird-photography/",
+      "publish_time": "2026-05-28T00:00:00+08:00",
+      "summary": "佳能单反与无反相机套件适合严肃鸟类摄影师，提供优秀性能与画质",
+      "recommendation": "针对鸟类摄影需求，对比佳能单反与无反套件性能差异，含具体镜头搭配建议与对焦系统实测数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best Canon Camera Kit For Bird Photography"
+    },
+    {
+      "id": "recvkQ430E6eUa",
+      "title": "新片将记录巴西摄影师克劳迪娅·安杜哈尔的生平与作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/new-film-will-chronicle-the-life-and-work-of-brazilian-photographer-claudia-andujar/",
+      "publish_time": "2026-05-27T23:32:13+08:00",
+      "summary": "新传记片聚焦巴西摄影师克劳迪娅·安杜哈尔，她以记录亚诺马米原住民而闻名，展现其生平与作品。",
+      "recommendation": "通过传记视角，揭示纪实摄影师与亚诺马米原住民共生的创作历程，提供人文摄影的独特案例与跨文化影像记录方法论。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Film Will Chronicle the Life and Work of Brazilian Photographer Claudia Andujar"
+    },
+    {
+      "id": "recvkQ4kqX2dPg",
+      "title": "在日本大受欢迎：为何紧凑型尼康Z30从未真正赢得西方市场，以及它本应如此的原因",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/big-in-japan-why-the-compact-nikon-z30-never-really-won-over-the-west-and-why-it-really-should",
+      "publish_time": "2026-05-27T23:17:35+08:00",
+      "summary": "尼康Z30在日本畅销，但在西方市场未获广泛认可，仍是最好紧凑型无反相机之一。",
+      "recommendation": "分析Z30在东西方市场差异，提供跨文化消费视角与产品定位洞察，适合关注相机市场趋势的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Big in Japan: Why the compact Nikon Z30 never really won over the West and why it really should"
+    },
+    {
+      "id": "recvkQ4oJiDgGV",
+      "title": "唯卓仕AF 75mm F1.8（389欧元）和90mm F2.2（429欧元）上架",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/viltrox-af-75mmf1-8-389e-and-90mmf2-2-429e-listed/",
+      "publish_time": "2026-05-27T22:44:51+08:00",
+      "summary": "唯卓仕AF 75mm F1.8和90mm F2.2镜头在德国商店上架，售价分别为389欧元和429欧元，参数与价格信息源自Fuji Rumors。",
+      "recommendation": "唯卓仕两款新镜头的欧洲定价曝光，75mm F1.8与90mm F2.2参数明确，为关注副厂定焦头的用户提供参考。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Viltrox AF 75mmF1.8 (389€) and 90mmF2.2 (429€) Listed"
+    },
+    {
+      "id": "recvkQ45cWjzZn",
+      "title": "弗吉尼亚美术博物馆获赠近2000张重要摄影作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/virginia-museum-of-fine-arts-receives-major-gift-of-nearly-2000-important-photographs/",
+      "publish_time": "2026-05-27T22:34:59+08:00",
+      "summary": "弗吉尼亚美术博物馆获赠近2000张摄影作品，含纳达尔、斯蒂格利茨和舍曼重要作品",
+      "recommendation": "博物馆获赠纳达尔、斯蒂格利茨等近2000张原作，含未公开作品，为摄影史研究提供一手资料，影像爱好者可从中获取创作灵感与历史脉络。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Virginia Museum of Fine Arts Receives Major Gift of Nearly 2,000 Important Photographs"
+    },
+    {
+      "id": "recvkQ4mylZVEA",
+      "title": "柯达相机胶片刚刚更名——而且它们来自一个不同的柯达。困惑吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/kodaks-camera-films-have-just-changed-names-and-they-come-from-a-different-kodak-confused",
+      "publish_time": "2026-05-27T22:29:10+08:00",
+      "summary": "柯达对相机胶卷进行品牌重塑，但新胶卷来自另一个柯达公司，引发困惑。",
+      "recommendation": "解析柯达品牌分家后的胶卷更名，帮助爱好者厘清产品来源，避免混淆。含品牌历史与产品线独家梳理。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Kodak's camera films have just changed names –and they come from a different Kodak. Confused?"
+    },
+    {
+      "id": "recvkQ47givNfP",
+      "title": "伊尔福与过期胶片俱乐部共襄世界杯盛举",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/ilford-and-expired-film-club-get-into-the-world-cup-spirit/",
+      "publish_time": "2026-05-27T22:03:13+08:00",
+      "summary": "Harman Technology为两款35mm胶片推出世界杯限量版包装，庆祝即将开幕的足球盛事。",
+      "recommendation": "胶片厂商与过期胶片俱乐部合作推出世界杯限量包装，展示传统影像品牌如何借势体育赛事营销，对关注胶片文化或收藏限量版的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Ilford and Expired Film Club Get Into the World Cup Spirit"
+    },
+    {
+      "id": "recvkQ4qSsxe2C",
+      "title": "适马即将发布一款“有趣”的全画幅E/L卡口镜头……",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sigma-will-soon-announce-a-funny-full-frame-e-l-lens/",
+      "publish_time": "2026-05-27T21:57:21+08:00",
+      "summary": "适马即将发布一款全画幅E/L卡口镜头，被描述为“有趣”，暗示设计不寻常，具体规格待公布。",
+      "recommendation": "适马“有趣”镜头暗示非传统光学设计，E/L卡口用户可提前关注规格参数，获取差异化产品线索。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sigma will soon announce a “funny” Full Frame E/L lens…"
+    },
+    {
+      "id": "recvkQ49CcMsDy",
+      "title": "摄影师因涉嫌未交付成人礼照片被捕",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/photographer-arrested-for-allegedly-failing-to-deliver-quinceanera-photos/",
+      "publish_time": "2026-05-27T21:45:40+08:00",
+      "summary": "一名摄影师因未在女儿成人礼后八个月内交付照片，被女士报警后被捕。",
+      "recommendation": "从法律与商业合同角度剖析摄影师交付纠纷，提醒影像从业者重视书面协议与交付期限，避免类似风险。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer Arrested for Allegedly Failing to Deliver Quinceañera Photos"
+    },
+    {
+      "id": "recvkQ4bNx4Fhq",
+      "title": "宏碁三款新显示器专为摄影师和摄像师打造",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/acers-three-new-monitors-are-made-for-photographers-and-videographers/",
+      "publish_time": "2026-05-27T21:45:31+08:00",
+      "summary": "宏碁发布三款显示器，其中高端ProDesigner PE320QXT为31.5英寸6K触摸屏，具备出色色彩准确性和HDR能力，专为摄影师和视频编辑设计",
+      "recommendation": "针对摄影师和视频编辑的6K触摸屏显示器，31.5英寸、色彩准确性与HDR能力是核心亮点，适合影像后期处理需求。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Acer’s Three New Monitors Are Made for Photographers and Videographers"
+    },
+    {
+      "id": "recvkQ3YIu0jyB",
+      "title": "你最喜欢的摄影天气条件是什么？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/forums/threads/what-are-your-favorite-weather-conditions-for-photography.4837268/",
+      "publish_time": "2026-05-27T21:39:00+08:00",
+      "summary": "本文是每周问题系列，邀请摄影社区分享关于最喜欢的摄影天气条件的想法，融入节日气氛，鼓励讨论器材、建议等话题",
+      "recommendation": "从天气条件切入摄影创作，社区讨论激发灵感，提供器材适配建议与节日氛围结合，适合爱好者拓展拍摄思路。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "What are your favorite weather conditions for photography?"
+    },
+    {
+      "id": "recvkQ4vdbMinD",
+      "title": "尼康人像摄影师的最佳副厂镜头：400美元以下推荐",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/27/the-best-third-party-lenses-for-nikon-portrait-photographers-under-400/",
+      "publish_time": "2026-05-27T21:00:00+08:00",
+      "summary": "人像摄影师可用400美元以下副厂镜头实现漂亮虚化，推荐两款快速镜头。",
+      "recommendation": "为预算有限的人像摄影师筛选400美元以下副厂镜头，提供两款快速镜头实测数据与虚化效果对比，聚焦性价比与实用场景。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Third-Party Lenses for Nikon Portrait Photographers Under $400"
+    },
+    {
+      "id": "recvkQ4e0KhcUD",
+      "title": "一个完全由AI生成节目组成的流媒体服务即将上线",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/a-streaming-service-made-up-entirely-of-ai-generated-shows-is-about-to-launch/",
+      "publish_time": "2026-05-27T20:04:07+08:00",
+      "summary": "数字资产平台Artlist推出Artlist TV，一个完全由AI生成节目组成的流媒体服务，提供创新内容体验。",
+      "recommendation": "AI生成内容首次以流媒体服务形式落地，展示AI视频创作技术边界，对影像创作者了解内容生产趋势有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "A Streaming Service Made Up Entirely of AI-Generated Shows is About to Launch"
+    },
+    {
+      "id": "recvkQ4gaI2oBd",
+      "title": "《痴迷》中令人难以置信的摄影作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/the-incredible-photography-of-obsession/",
+      "publish_time": "2026-05-27T18:41:31+08:00",
+      "summary": "低成本恐怖片《着魔》票房成功，阵亡将士纪念日周末超3000万美元，全球达8000万美元，制作成本仅100万美元。",
+      "recommendation": "解析低成本恐怖片《着魔》的摄影美学，探讨如何用有限预算实现高冲击力画面，提供独立电影影像创作的技术参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Incredible Photography of ‘Obsession’"
+    },
     {
       "id": "recvkOFdUsy212",
       "title": "获奖照片：仅1毫米宽的黏菌，由87张微距照片合成，使用全球首款IP53防尘防水相机拍摄",
