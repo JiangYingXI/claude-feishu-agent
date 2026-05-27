@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-27T04:37:02.534213+08:00",
-    "total_articles": 394,
+    "updated_at": "2026-05-27T13:01:53.473093+08:00",
+    "total_articles": 399,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 109
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,93 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 292
+      "count": 296
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 150
+      "count": 152
     }
   ],
   "articles": [
+    {
+      "id": "recvkNhfaPnc0y",
+      "title": "快门效应：让AI难以复制的3种图像处理方式",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/27/shutter-effects-3-ways-to-make-images-ai-cant-easily-duplicate/",
+      "publish_time": "2026-05-27T12:00:00+08:00",
+      "summary": "本文介绍三种利用快门效果使AI难以复制的图像处理方式，包括独特拍摄技巧，鼓励摄影师探索更多方法以保持创作独特性。",
+      "recommendation": "从快门效应切入，揭示AI难以复制的三种图像处理技法，为追求创作独特性的摄影爱好者提供实用技巧与深度视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Shutter Effects: 3 Ways to Make Images AI Can’t Easily Duplicate"
+    },
+    {
+      "id": "recvkNhaIrMaqi",
+      "title": "对比即将发布的尼康尼克尔Z 120-300mm f/2.8 TC VR S镜头与400mm f/2.8 TC VR S的尺寸",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/26/comparing-the-size-of-the-upcoming-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-with-the-400mm-f-2-8-tc-vr-s.aspx/",
+      "publish_time": "2026-05-27T08:35:41+08:00",
+      "summary": "对比尼康Z 120-300mm f/2.8 TC VR S与400mm f/2.8 TC VR S尺寸，前者传闻售价超8000美元，已宣布开发。",
+      "recommendation": "对比两款超长焦镜头的尺寸数据，为选购提供直观参考，包含传闻售价与开发状态信息。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Comparing the size of the upcoming Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens with the 400mm f/2.8 TC VR S"
+    },
+    {
+      "id": "recvkNh5ZmZeSq",
+      "title": "VSCO使用条款解读：为何声称不会盗用你的照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/26/vsco-terms-of-use-explained-why-it-says-it-isnt-stealing-your-photos/",
+      "publish_time": "2026-05-27T05:55:22+08:00",
+      "summary": "VSCO因使用条款中类似Adobe的争议措辞引发用户担忧，但声称不会盗用照片，文章解读其条款核心价值与用户权益保障。",
+      "recommendation": "解读VSCO条款争议，澄清用户对照片盗用的担忧，提供条款核心价值分析，帮助影像爱好者理解权益保障，避免盲目恐慌。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "VSCO Terms of Use Explained: Why It Says It Isn’t Stealing Your Photos"
+    },
+    {
+      "id": "recvkNhcZrjoKi",
+      "title": "徕兹Hektor电影定焦镜头现已适配富士GFX",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/leitz-hektor-cine-prime-lenses-for-fujifilm-gfx-available-now/",
+      "publish_time": "2026-05-27T04:53:07+08:00",
+      "summary": "徕兹Hektor电影定焦镜头套装及多款T2.1镜头现已适配富士GFX系统，提供从18mm到100mm的焦段选择。",
+      "recommendation": "徕兹Hektor电影镜头适配GFX系统，提供18-100mm焦段与T2.1光圈数据，为中画幅视频创作拓展了专业镜头选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leitz Hektor Cine Prime Lenses for Fujifilm GFX Available Now"
+    },
+    {
+      "id": "recvkNh8rW15YM",
+      "title": "新传闻暗示索尼即将推出的相机电池续航将显著提升",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/new-rumor-suggests-upcoming-sony-cameras-could-have-noticeably-better-battery-life",
+      "publish_time": "2026-05-27T04:48:00+08:00",
+      "summary": "新传闻称索尼即将推出的相机因采用更高效LCD屏幕技术，电池续航将显著提升",
+      "recommendation": "聚焦索尼新机LCD屏幕技术升级对续航的影响，为等待索尼新机的用户提供具体技术改进方向，属于常规产品传闻，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New rumor suggests upcoming Sony cameras could have noticeably better battery life"
+    },
     {
       "id": "recvkLdZra1d0a",
       "title": "Calibrite色度计：首款可硬件校准苹果显示器的设备",
