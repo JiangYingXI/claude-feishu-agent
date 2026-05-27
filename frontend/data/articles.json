@@ -1,19 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-05-27T13:01:53.473093+08:00",
-    "total_articles": 399,
+    "updated_at": "2026-05-27T18:45:03.069783+08:00",
+    "total_articles": 412,
     "data_range_days": 90
   },
   "categories": [
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 15
+      "count": 16
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 115
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,229 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 20
+      "count": 21
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 32
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 296
+      "count": 306
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 152
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvkOFdUsy212",
+      "title": "获奖照片：仅1毫米宽的黏菌，由87张微距照片合成，使用全球首款IP53防尘防水相机拍摄",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/award-winning-photo-of-slime-mold-measuring-just-one-millimetre-across-created-from-87-macro-shots-using-worlds-first-ip53-weather-sealed-camera",
+      "publish_time": "2026-05-27T18:27:23+08:00",
+      "summary": "获奖照片由87张微距照片合成，展示仅1毫米宽的黏菌，使用全球首款IP53防尘防水相机拍摄，焦点堆叠技术揭示肉眼不可见的细节。",
+      "recommendation": "87张微距堆叠合成1毫米黏菌，IP53防水相机实战案例，焦点堆叠技术细节与微距摄影技巧干货。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Award-winning photo of slime mold measuring just one millimetre across created from 87 macro shots using world's first IP53 weather-sealed camera"
+    },
+    {
+      "id": "recvkOFtLAUnJp",
+      "title": "荣耀Magic9据称搭载骁龙8 Elite Gen 5处理器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_magic9_said_to_be_powered_by_the_snapdragon_8_elite_gen_5_soc-news-73006.php",
+      "publish_time": "2026-05-27T18:24:01+08:00",
+      "summary": "荣耀Magic9据称搭载3nm骁龙8 Elite Gen 5处理器，配备6.36英寸屏和8000mAh电池，前代Magic8也使用同款芯片。",
+      "recommendation": "常规资讯，可了解行业动态。虽未提及影像规格，但骁龙8 Elite Gen 5的ISP性能将影响未来手机影像处理能力。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Magic9 said to be powered by the Snapdragon 8 Elite Gen 5 SoC"
+    },
+    {
+      "id": "recvkOFATfSu6q",
+      "title": "这些预设是为摄影师设计的，而非AI",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/27/get-the-look-of-retro-digital-cameras-easily-copy-3/",
+      "publish_time": "2026-05-27T18:00:00+08:00",
+      "summary": "这些预设为摄影师设计，无需AI即可实现真实视觉效果，复现AI难以达到的影像风格，核心在于保持创作自主性。",
+      "recommendation": "解析预设如何绕过AI实现真实影像风格，强调创作自主性，对追求手动控制的摄影师有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These Presets are Designed for Photographers, Not AI"
+    },
+    {
+      "id": "recvkOFyDwZJ3U",
+      "title": "更多索尼A7rVI YouTube评测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/more-sony-a7rvi-youtube-reviews-2/",
+      "publish_time": "2026-05-27T17:54:47+08:00",
+      "summary": "索尼A7rVI在多家电商平台预购，搭配100-400mm f/4.5 GM镜头及配件，更多YouTube评测首发于sonyalpharumors。",
+      "recommendation": "汇总YouTube多源评测，提供A7rVI搭配100-400mm镜头实际表现与预购动态，适合关注高像素全画幅机型性能的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "More Sony A7rVI youtube reviews"
+    },
+    {
+      "id": "recvkOFg9P34w2",
+      "title": "全球最大单反相机问世：百年来首款8x10画幅单反",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/meet-the-worlds-largest-slr-this-gigantic-camera-is-the-first-time-a-company-has-built-an-8x10-format-slr-in-over-100-years",
+      "publish_time": "2026-05-27T17:48:58+08:00",
+      "summary": "全球最大单反相机Smartflex 8x10问世，采用8x10页片或湿版，腰平取景器，重5.6公斤，是百年来首款8x10画幅单反。",
+      "recommendation": "罕见8x10画幅单反结构解析，腰平取景与5.6kg重量数据，为大画幅爱好者提供独特技术参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Meet the world’s largest SLR. This gigantic camera is the first time a company has built an 8x10 format SLR in over 100 years!"
+    },
+    {
+      "id": "recvkOFiy2trxW",
+      "title": "松下Lumix L10真的是富士X100VI杀手吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/is-the-panasonic-lumix-l10-really-a-fujifilm-x100vi-killer",
+      "publish_time": "2026-05-27T17:48:30+08:00",
+      "summary": "文章探讨松下Lumix L10是否凭借某项功能成为富士X100VI的强劲对手，引发摄影师争议。",
+      "recommendation": "对比松下L10与富士X100VI，解析L10是否真能成为X100VI的替代品，提供传感器、对焦等关键参数对比，适合纠结选购的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the Panasonic Lumix L10 really a Fujifilm X100VI killer?"
+    },
+    {
+      "id": "recvkOFkCOJU0g",
+      "title": "尼康为何今年让数百万忠实摄影师陷入困境？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/why-is-nikon-is-leaving-millions-of-loyal-photographers-in-the-dark-this-year",
+      "publish_time": "2026-05-27T17:07:57+08:00",
+      "summary": "尼康今年在相机讨论中缺席，Z6 II于2024年6月发布，忠实摄影师期待新品。",
+      "recommendation": "分析尼康Z6 II发布后市场缺席现象，揭示品牌策略对忠实用户的影响，适合关注相机行业动态的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Why is Nikon is leaving millions of loyal photographers in the dark this year?"
+    },
+    {
+      "id": "recvkOFbio1RZz",
+      "title": "相机捕捉到火山喷发背后流星爆炸的壮观瞬间",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/spectacular-moment-meteor-explodes-behind-erupting-volcano-caught-on-camera/",
+      "publish_time": "2026-05-27T15:57:01+08:00",
+      "summary": "摄像机捕捉到绿色火球照亮菲律宾喷发火山，形成壮观画面。",
+      "recommendation": "捕捉火山与流星同框的罕见瞬间，展示消费级相机在极端弱光下的抓拍能力，附有拍摄参数与机位选择技巧，对风光摄影爱好者有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Spectacular Moment Meteor Explodes Behind Erupting Volcano Caught on Camera"
+    },
+    {
+      "id": "recvkOFrsgzKN7",
+      "title": "佳能RF 10-20mm f/4L IS STM 1899美元（原价2399美元）",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-rf-10-20mm-f-4l-is-stm-1899-reg-2399/",
+      "publish_time": "2026-05-27T15:30:48+08:00",
+      "summary": "佳能美国官方翻新店对RF 10-20mm f/4L IS STM镜头提供大幅折扣，仅1899美元（原价2399美元），享完整1年保修。",
+      "recommendation": "佳能RF 10-20mm f/4L IS STM官方翻新降价500美元，提供完整1年保修，适合超广角爱好者以更低预算入手L级镜头。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon RF 10-20mm f/4L IS STM $1899 (Reg $2399)"
+    },
+    {
+      "id": "recvkOFDriQOfb",
+      "title": "这款富士相机现在售价翻倍",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/27/this-fujifilm-camera-now-sells-for-double-its-original-price/",
+      "publish_time": "2026-05-27T15:00:00+08:00",
+      "summary": "富士相机推出后保值甚至涨价，部分型号如康泰时G2等十多年前机型仍受追捧，近年发布的富士相机表现最佳，该款相机问世仅几年便售价翻倍。",
+      "recommendation": "解析富士相机逆势涨价现象，揭示康泰时G2等老机型保值规律，提供二手市场投资参考，对关注相机保值的用户有数据支撑。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Fujifilm Camera Now Sells for Double Its Original Price"
+    },
+    {
+      "id": "recvkOFw9ZYnMf",
+      "title": "Oppo Find X10 新细节泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_details_about_the_oppo_find_x10_have_leaked-news-73004.php",
+      "publish_time": "2026-05-27T14:45:02+08:00",
+      "summary": "Oppo Find X10系列标准版泄露，将搭载200MP HPC传感器，尺寸1/1.3英寸或1/1.4英寸，预计10月发布。",
+      "recommendation": "200MP HPC传感器尺寸1/1.3英寸或1/1.4英寸，为高像素手机摄影提供关键硬件参考，适合关注传感器技术迭代的爱好者。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New details about the Oppo Find X10 leak"
+    },
+    {
+      "id": "recvkOFmIw2cP2",
+      "title": "Godox新款双管微距闪光灯：为极致近摄提供全面光线控制",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/flashguns/godoxs-new-twin-tube-macro-flashgun-is-designed-to-give-you-complete-lighting-control-for-extreme-close-up-photography",
+      "publish_time": "2026-05-27T14:40:00+08:00",
+      "summary": "Godox推出MF-T76微距双灯闪光灯，支持佳能、尼康和索尼，为近摄提供全面光线控制。",
+      "recommendation": "Godox MF-T76双管微距灯支持佳能、尼康、索尼，提供近摄全面光线控制，对微距摄影爱好者有实用参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Godox's new twin-tube macro flashgun is designed to give you complete lighting control for extreme close-up photography"
+    },
+    {
+      "id": "recvkOFoW7dCgM",
+      "title": "富士Cardia Travel Mini：90年代传奇傻瓜机，其复古设计或激发无反新镜头灵感",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-fuji-cardia-travel-mini-was-a-legendary-1990s-point-and-shoot-but-the-retro-camera-could-be-inspiring-a-new-lens-design-for-mirrorless",
+      "publish_time": "2026-05-27T14:15:00+08:00",
+      "summary": "富士Cardia Travel Mini是90年代传奇傻瓜机，其复古设计或激发无反新镜头灵感，概念镜头基于紧凑型相机",
+      "recommendation": "解析90年代Cardia Travel Mini的复古设计如何启发无反镜头新灵感，提供具体概念镜头信息与光学设计思路，对摄影美学与技术爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Fuji Cardia Travel Mini was a legendary 1990s point-and-shoot. But the retro camera could be inspiring a new lens design for mirrorless"
+    },
     {
       "id": "recvkNhfaPnc0y",
       "title": "快门效应：让AI难以复制的3种图像处理方式",
