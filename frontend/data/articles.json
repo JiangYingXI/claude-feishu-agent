@@ -1,19 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-05-28T00:30:06.058509+08:00",
-    "total_articles": 429,
+    "updated_at": "2026-05-28T04:38:57.987281+08:00",
+    "total_articles": 440,
     "data_range_days": 90
   },
   "categories": [
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 16
+      "count": 17
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 119
+      "count": 121
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,198 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 23
+      "count": 24
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 33
+      "count": 34
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 317
+      "count": 323
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 166
+      "count": 174
     }
   ],
   "articles": [
+    {
+      "id": "recvkR52PM3giA",
+      "title": "4000万像素传感器并非总是更好：它们如何毁掉你的照片以及如何解决",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/40mp-camera-sensors-arent-always-better-heres-how-they-could-be-ruining-your-shots-and-how-you-can-fix-them",
+      "publish_time": "2026-05-28T04:13:13+08:00",
+      "summary": "4000万像素传感器虽能捕捉高细节图像，但更易受相机抖动影响，处理不当会损失细节，需注意防抖技术",
+      "recommendation": "本文揭示高像素传感器在防抖不足时反而降低画质的原理，提供实用解决技巧，对追求高画质的摄影爱好者有直接指导价值。",
+      "categories": [
+        "传感器硬件",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "40MP camera sensors aren’t always better: Here’s how they could be ruining your shots and how you can fix them"
+    },
+    {
+      "id": "recvkR4U9u5jr3",
+      "title": "摄影师怒斥摄影节设置砸相机发泄室",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/photographers-are-livid-about-a-photo-festivals-camera-busting-rage-room/",
+      "publish_time": "2026-05-28T03:49:33+08:00",
+      "summary": "贝尔法斯特摄影节设砸相机发泄室引摄影师愤怒，展览邀请参观者用锤子摧毁“过时”相机，做法遭质疑。",
+      "recommendation": "摄影节设砸相机发泄室引发摄影师愤怒，探讨器材价值与创作理念冲突，提供行业争议性观点。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographers Are Livid About a Photo Festival’s Camera-Busting Rage Room"
+    },
+    {
+      "id": "recvkR57Zi9xyy",
+      "title": "独特Kase 150mm Reflex E卡口镜头首评",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/first-reviews-of-the-unique-kase-150mm-reflex-e-mount-lens/",
+      "publish_time": "2026-05-28T03:04:37+08:00",
+      "summary": "Kase 150mm F5.6反射自动对焦镜头首评，被赞为最佳反射镜头，焦距150mm光圈F5.6，售价650美元，已在BHphoto有货。",
+      "recommendation": "首评Kase 150mm F5.6反射自动对焦镜头，提供实拍样张与对焦性能数据，揭示其光学素质与竞品差异，对E卡口长焦用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "First reviews of the unique Kase 150mm Reflex E-mount lens"
+    },
+    {
+      "id": "recvkR54rC5jmV",
+      "title": "这些照片已逾十年，但科学家仍对一种奇特的新蓝色深海章鱼物种感到困惑",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/these-photos-are-more-than-ten-years-old-but-scientists-are-still-baffled-by-a-bizarre-new-blue-deep-sea-octopus-species",
+      "publish_time": "2026-05-28T03:00:00+08:00",
+      "summary": "2015年在加拉帕戈斯群岛1.8公里深海发现奇特蓝色章鱼，十年后科学家仍对其物种身份困惑。",
+      "recommendation": "深海蓝色章鱼照片展示十年未解物种之谜，对水下摄影爱好者提供罕见深海生物影像案例与科学探索视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These photos are more than ten years old, but scientists are still baffled by a bizarre new blue deep-sea octopus species"
+    },
+    {
+      "id": "recvkR59LLSpYl",
+      "title": "运营Phoblographer 16年后，真正让我成为更好摄影师的是这些",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/27/16-years-better-photographer/",
+      "publish_time": "2026-05-28T03:00:00+08:00",
+      "summary": "运营Phoblographer 16年后，作者将开设亲民价格的工作坊，帮助摄影师超越社交媒体成长路径，在纽约秘密地点提供独特服务。",
+      "recommendation": "16年行业经验总结，提出超越社交媒体的摄影成长路径，纽约秘密地点工作坊提供独特实践机会，对追求摄影本质的爱好者有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "After 16 Years Running The Phoblographer, Here’s What Actually Made Me a Better Photographer"
+    },
+    {
+      "id": "recvkR4S6HeVeG",
+      "title": "尼康用户迎来6900元人像怪兽新镜头",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/1165259685/7artisans-135mm-f1p8-af-portrait-lens",
+      "publish_time": "2026-05-28T02:30:00+08:00",
+      "summary": "7artisans为尼康Z卡口推出全画幅自动对焦135mm F1.8镜头，售价6900元，采用13组16片结构，含六片超低色散和五片高折射率镜片。",
+      "recommendation": "文章披露了7artisans 135mm F1.8镜头的完整光学结构（13组16片，含6片超低色散与5片高折射率镜片），为尼康Z卡口用户提供6900元人像镜头新选择，数据详实，适合关注副厂镜头动态的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon shooters are getting a new $690 portrait monster"
+    },
+    {
+      "id": "recvkR4VRbOTcX",
+      "title": "Capture One 将全系产品价格上调 6%",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/capture-one-to-increase-all-product-prices-by-6/",
+      "publish_time": "2026-05-28T01:59:15+08:00",
+      "summary": "Capture One宣布全系产品价格上调6%，涉及Pro、All-in-One和Studio的订阅及永久许可证。",
+      "recommendation": "Capture One全系涨价6%，涉及订阅与永久许可，对依赖该软件的摄影师是直接成本影响。文章提供具体调价幅度和产品线覆盖，属常规行业资讯，可了解市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Capture One to Increase All Product Prices By 6%"
+    },
+    {
+      "id": "recvkR4XAvetT5",
+      "title": "德国空军使用的独特徕卡步枪相机估价16万美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/one-of-a-kind-leica-rifle-camera-used-by-the-luftwaffe-could-fetch-160000/",
+      "publish_time": "2026-05-28T01:06:18+08:00",
+      "summary": "德国空军为战争制造的独特徕卡步枪相机，预计下月拍卖成交价约16万美元。",
+      "recommendation": "揭秘二战德军定制徕卡步枪相机，罕见历史背景与16万美元估价，为收藏与军事摄影爱好者提供独特史料与市场参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "One-of-a-Kind Leica Rifle Camera Used by the Luftwaffe Could Fetch $160,000"
+    },
+    {
+      "id": "recvkR4ZpPZWIF",
+      "title": "终极‘第一台相机购买’配件等级列表 | PetaPixel播客",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/the-ultimate-first-camera-purchase-accessory-tier-list-the-petapixel-podcast/",
+      "publish_time": "2026-05-28T01:05:01+08:00",
+      "summary": "PetaPixel播客讨论安塞尔·亚当斯作品AI彩色版争议、索尼a7 V固件更新及最稀有数码相机，提供相机购买配件等级指南",
+      "recommendation": "从配件等级指南到AI彩色化争议，覆盖新手购机痛点与行业冷知识，索尼a7 V固件更新及稀有相机盘点提供独家数据，适合影像爱好者获取实用决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Ultimate ‘First Camera Purchase’ Accessory Tier List | The PetaPixel Podcast"
+    },
+    {
+      "id": "recvkR517Me4nN",
+      "title": "Nik Collection 9 真正解决的8个编辑难题",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/8-editing-problems-nik-collection-9-actually-solves/",
+      "publish_time": "2026-05-28T00:59:58+08:00",
+      "summary": "Nik Collection 9通过8个编辑难题的解决方案，如U Point技术、局部调整和降噪，显著提升摄影师编辑效率，减少操作时间。",
+      "recommendation": "针对Nik Collection 9的U Point技术、局部调整与降噪等8项功能改进，提供具体操作效率提升数据，适合追求后期效率的摄影师参考。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "8 Editing Problems Nik Collection 9 Actually Solves"
+    },
+    {
+      "id": "recvkR56cxNjXG",
+      "title": "黄金时刻来了！伊尔福德足球收藏版相机胶卷及时赶上世界杯",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/goal-den-hour-is-here-ilford-football-collectors-edition-camera-film-is-here-in-time-for-the-world-cup",
+      "publish_time": "2026-05-28T00:47:28+08:00",
+      "summary": "伊尔福德与Expired Film Club合作推出35毫米足球收藏版相机胶卷，庆祝世界杯，适合足球和电影爱好者。",
+      "recommendation": "伊尔福德与Expired Film Club联名推出足球主题35mm胶卷，为胶片爱好者提供世界杯纪念新选择，但产品信息较常规，无独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Goal-den hour is here! Ilford Football Collector's Edition camera film is here in time for the World Cup"
+    },
     {
       "id": "recvkQ4iqDI9fO",
       "title": "单反相机捕捉到螃蟹与鱼泥泞生死决斗照片，荣获顶级旅游摄影奖亚军",
