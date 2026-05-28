@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-29T00:46:29.958143+08:00",
-    "total_articles": 479,
+    "updated_at": "2026-05-29T05:01:22.152045+08:00",
+    "total_articles": 488,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 131
+      "count": 133
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,144 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 41
+      "count": 42
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 353
+      "count": 359
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 189
+      "count": 194
     }
   ],
   "articles": [
+    {
+      "id": "recvkX1hH9A2XK",
+      "title": "iPhone Ultra折叠手机壳泄露：设计及双摄方案曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_ultra_foldable_case_leak_reveals_design_dual_camera_setup-news-73030.php",
+      "publish_time": "2026-05-29T04:09:02+08:00",
+      "summary": "苹果折叠屏iPhone Ultra预计9月与iPhone 18 Pro系列发布，手机壳渲染图显示黑色外观，可能无MagSafe。",
+      "recommendation": "从手机壳渲染图推测折叠屏双摄布局，为影像爱好者提供早期设计参考。虽无具体传感器参数，但可预判Ultra系列影像策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iPhone Ultra foldable case leak reveals design, dual camera setup"
+    },
+    {
+      "id": "recvkX11ZsbuVP",
+      "title": "报告：Capture One的私募股权所有者正试图出售该软件",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/28/capture-ones-private-equity-owner-is-trying-to-sell-it-report/",
+      "publish_time": "2026-05-29T03:59:32+08:00",
+      "summary": "自2019年起拥有Capture One的私募股权公司Axcel正试图通过拍卖出售该摄影软件公司",
+      "recommendation": "解析Capture One被私募出售的幕后动因，对关注修图软件生态与行业资本动向的影像用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Capture One’s Private Equity Owner Is Trying to Sell It: Report"
+    },
+    {
+      "id": "recvkX1k4VYTiF",
+      "title": "每位摄影师都会犯的3000美元器材错误",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/28/mistake-photographers-with-gear/",
+      "publish_time": "2026-05-29T03:00:00+08:00",
+      "summary": "文章揭示相机保修不覆盖灰尘等损害，与Full Frame Insurance合作推出摄影护理计划，提供更全面保障，避免3000美元器材错误。",
+      "recommendation": "揭示相机保修盲区，提供摄影护理计划数据，帮助避免器材损失，对影像爱好者有实用价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The $3,000 Mistake Every Photographer Makes With Their Gear"
+    },
+    {
+      "id": "recvkX0ZcJmhlL",
+      "title": "徕卡为其最受欢迎的几款相机换上新装",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/6833997475/leica-metal-gray-paint-new-finish-m11-p-d-lux-8-q3",
+      "publish_time": "2026-05-29T02:55:00+08:00",
+      "summary": "徕卡为M11-P、Q3和D-Lux 8推出新金属灰饰面，M11-P为首款，涂装外有更多更新。",
+      "recommendation": "解析徕卡三款热门机型新金属灰饰面，M11-P为首款升级，提供产品迭代细节与设计美学洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leica's giving some of its most popular cameras a fresh coat of paint"
+    },
+    {
+      "id": "recvkX14AGHmxU",
+      "title": "Thypoch 新款 Simera-C 16mm T1.9 成为其最广电影镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/28/thypochs-new-simera-c-16mm-t1-9-is-its-widest-cinema-lens-yet/",
+      "publish_time": "2026-05-29T02:21:48+08:00",
+      "summary": "Thypoch为Simera-C系列新增16mm T1.9镜头，是其最广全画幅电影定焦镜头，经济紧凑。",
+      "recommendation": "文章介绍Thypoch最广全画幅电影定焦镜头16mm T1.9，提供经济紧凑的广角选择，适合独立电影制作人关注。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Thypoch’s New Simera-C 16mm T1.9 Is its Widest Cinema Lens Yet"
+    },
+    {
+      "id": "recvkX17exAGhP",
+      "title": "员工 vs 承包商：摄影师需要了解什么",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/28/employee-vs-contractor-what-photographers-need-to-know/",
+      "publish_time": "2026-05-29T02:08:09+08:00",
+      "summary": "美国媒体摄影师协会6月4日举办免费网络研讨会，由CEO兼律师托马斯·马德雷讲解摄影师雇员与承包商的法律区别",
+      "recommendation": "解析摄影师雇员与承包商的法律区别，提供合同风险规避要点，对自由职业者规避税务与版权纠纷有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Employee vs Contractor: What Photographers Need to Know"
+    },
+    {
+      "id": "recvkX1a4EUxgd",
+      "title": "国家地理新纪录片《时间与水》讲述你仍在书写的故事",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/28/nat-geos-new-documentary-time-and-water-tells-a-story-youre-still-writing/",
+      "publish_time": "2026-05-29T01:11:59+08:00",
+      "summary": "国家地理纪录片《时间与水》由奥斯卡提名导演萨拉·多萨执导，跟随冰岛作家安德里·斯奈尔·马格纳森，通过档案影像和艺术，探讨冰川消逝与离别的深刻问题。",
+      "recommendation": "通过冰川消逝的影像叙事，探讨摄影如何记录时间与离别，提供纪录片级美学视角与创作灵感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nat Geo’s New Documentary, ‘Time and Water,’ Tells a Story You’re Still Writing"
+    },
+    {
+      "id": "recvkX1cBuBX2v",
+      "title": "海量样张更新：Lumix L10、索尼a7R VI等机型",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/28/massive-sample-gallery-update-lumix-l10-sony-a7r-vi-and-more/",
+      "publish_time": "2026-05-29T01:07:36+08:00",
+      "summary": "PetaPixel更新样张库，新增松下Lumix L10和索尼a7R VI等八个图库，提供超大文件夹照片供会员查看。",
+      "recommendation": "PetaPixel更新样张库，新增Lumix L10与a7R VI等八款机型，提供高分辨率原图，适合对比画质与色彩科学，是器材选购的实用参考。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Massive Sample Gallery Update: Lumix L10, Sony a7R VI, and More"
+    },
     {
       "id": "recvkVYYQztuaE",
       "title": "一加16再曝：搭载185Hz屏幕，配备200MP 3倍长焦和50MP主摄",
@@ -1167,6 +1291,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Meet the world’s largest SLR. This gigantic camera is the first time a company has built an 8x10 format SLR in over 100 years!"
+    },
+    {
+      "id": "recvkX1f1bc6rX",
+      "title": "比四台单反叠起来还高，世界最大单反相机使用腰平取景器拍摄8x10大画幅胶片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/meet-the-worlds-largest-slr-this-gigantic-camera-is-the-first-time-a-company-has-built-an-8x10-format-slr-in-over-100-years",
+      "publish_time": "2026-05-27T17:48:58+08:00",
+      "summary": "Smartflex 8x10相机，世界最大单反，重5.6公斤，使用8x10页片或湿版，腰平取景器拍摄大画幅胶片。",
+      "recommendation": "揭秘世界最大单反Smartflex 8x10，重5.6公斤，腰平取景器拍大画幅胶片，含8x10页片与湿版数据，为极端摄影设备爱好者提供独特技术参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Taller than four DSLRs stacked on top of each other, the world's largest SLR shoots massive 8x10 film with a waist-level viewfinder"
     },
     {
       "id": "recvkOFiy2trxW",
