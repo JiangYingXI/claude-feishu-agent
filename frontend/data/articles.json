@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-28T12:56:22.720727+08:00",
-    "total_articles": 446,
+    "updated_at": "2026-05-28T18:45:14.878896+08:00",
+    "total_articles": 456,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 122
+      "count": 126
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,176 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 35
+      "count": 36
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 328
+      "count": 333
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 174
+      "count": 180
     }
   ],
   "articles": [
+    {
+      "id": "recvkUwacY1g7X",
+      "title": "我为一家杂货店拍摄了价值32.4万美元的广告",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/28/i-did-a-324k-shoot-for-a-grocery-store/",
+      "publish_time": "2026-05-28T18:00:00+08:00",
+      "summary": "本文分析一份32.4万美元的杂货店广告合同，隐去姓名分享定价与谈判机密信息，帮助读者掌握成本估算与谈判技巧。",
+      "recommendation": "揭秘32.4万美元广告合同，含定价与谈判机密，助影像爱好者掌握商业拍摄成本估算与报价技巧。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "I Did a $324K Shoot for a Grocery Store"
+    },
+    {
+      "id": "recvkUw5jFZKrQ",
+      "title": "三星Galaxy Z Fold Wide 真机上手视频曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold_wide_dummy_appears_in_handson_video-news-73022.php",
+      "publish_time": "2026-05-28T17:58:02+08:00",
+      "summary": "三星Galaxy Z Fold Wide宽屏折叠手机预计7月发布，白色模型机上手视频曝光，展示设计但非最终产品。",
+      "recommendation": "曝光Galaxy Z Fold Wide宽屏设计模型，虽非最终产品，但可提前窥探折叠形态对影像布局的影响，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold Wide dummy appears in hands-on video"
+    },
+    {
+      "id": "recvkUw7Gs0BCs",
+      "title": "即将发布的唯卓仕26mm f/2.8紧凑型FE镜头新图",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-image-of-the-upcoming-viltrox-26mm-f-2-8-compact-fe-lens/",
+      "publish_time": "2026-05-28T17:31:04+08:00",
+      "summary": "唯卓仕即将发布26mm f/2.8紧凑型FE镜头，新图显示其体积小巧，画质待验证。",
+      "recommendation": "展示唯卓仕26mm f/2.8 FE镜头实拍图，体积数据直观，适合关注便携全幅镜头的用户了解新品外观与定位。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New image of the upcoming Viltrox 26mm f/2.8 compact FE lens"
+    },
+    {
+      "id": "recvkUvS787B8o",
+      "title": "人类即将重返月球。相机和七英尺巨型无人机将助其安全着陆",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/humans-are-going-to-the-moon-cameras-and-massive-seven-foot-drones-will-help-them-arrive-safely",
+      "publish_time": "2026-05-28T17:09:34+08:00",
+      "summary": "人类重返月球计划中，将使用七英尺宽的摄像头无人机辅助安全着陆，用于研究月球表面，为建立月球基地做准备。",
+      "recommendation": "揭秘月球着陆用7英尺无人机摄像头，解析太空影像技术如何反哺消费级相机传感器与计算摄影发展。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Humans are going to the Moon. Cameras and massive seven-foot drones will help them arrive safely"
+    },
+    {
+      "id": "recvkUvPmSUYFY",
+      "title": "70毫米胶片电影节本周末将在棕榈泉举行",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/28/70mm-film-festival-to-show-in-palm-springs-this-weeekend/",
+      "publish_time": "2026-05-28T16:37:11+08:00",
+      "summary": "南加州棕榈泉本周末举办70毫米胶片电影节，为影迷带来大画幅观影盛宴。",
+      "recommendation": "70毫米胶片电影节展示大画幅观影体验，对胶片摄影爱好者是难得的沉浸式学习机会，可直观感受胶片颗粒与色彩魅力。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "70mm Film Festival to Show in Palm Springs This Weeekend"
+    },
+    {
+      "id": "recvkUvUFycNqq",
+      "title": "GoPro Mission 1 Pro 不是傻瓜相机，但能取代它吗？我放下卡片机，改用新款 GoPro 拍摄体验",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-gopro-mission-1-pro-isnt-a-point-and-shoot-camera-but-could-it-replace-one-i-left-my-compact-camera-behind-and-tried-shooting-with-the-new-gopro-instead",
+      "publish_time": "2026-05-28T16:04:49+08:00",
+      "summary": "作者用GoPro Mission 1 Pro替代防水卡片机去海滩拍摄，其防水、防抖和画质表现令人惊喜，虽非傻瓜相机但足以胜任日常拍摄。",
+      "recommendation": "实测GoPro Mission 1 Pro替代防水卡片机的海滩场景，提供防水、防抖与画质表现的真实数据，揭示其日常拍摄的实用边界。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The GoPro Mission 1 Pro isn't a point-and-shoot camera, but could it replace one? I left my compact camera behind and tried shooting with the new GoPro instead"
+    },
+    {
+      "id": "recvkUvXyL0Sm8",
+      "title": "当Shirin Neshat为马拉拉拍照时，她借助书法表达了相机无法捕捉的内容",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/when-shirin-neshat-photographed-malala-she-turned-to-calligraphy-to-say-what-the-camera-alone-could-not",
+      "publish_time": "2026-05-28T15:42:17+08:00",
+      "summary": "伦敦沉浸式体验展展出Shirin Neshat为马拉拉拍摄的肖像，借助书法表达相机无法捕捉的内容，超越摄影本身。",
+      "recommendation": "探讨摄影与书法结合的艺术表达，揭示相机无法捕捉的深层叙事，对追求影像人文价值的爱好者有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "When Shirin Neshat photographed Malala, she turned to calligraphy to say what the camera alone could not"
+    },
+    {
+      "id": "recvkUw0587ps7",
+      "title": "在花园建池4年后，摄影师用特殊探针镜头拍摄到蛙卵内胚胎，获大奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/4-years-after-building-a-pool-in-his-garden-photographer-captures-award-winning-image-of-frog-embryo-inside-an-egg-using-special-probe-lens",
+      "publish_time": "2026-05-28T15:28:18+08:00",
+      "summary": "摄影师用佳能相机和老蛙微距探针镜头，在自家泳池拍摄蛙卵内胚胎，获权威大奖",
+      "recommendation": "老蛙微距探针镜头结合佳能相机，展示蛙卵胚胎微观影像，提供特殊拍摄技法与生态摄影创新视角，数据详实。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "4 years after building a pool in his garden, photographer captures award-winning image of frog embryo inside an egg using special probe lens"
+    },
+    {
+      "id": "recvkUwd0gvy5l",
+      "title": "最佳尼康相机套件：鸟类摄影指南",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/28/the-best-nikon-camera-kit-for-bird-photography/",
+      "publish_time": "2026-05-28T15:00:00+08:00",
+      "summary": "尼康提供适合鸟类摄影的相机套件，包括机身和镜头组合，能轻松应对挑战性拍摄。",
+      "recommendation": "针对鸟类摄影场景，详解尼康机身与镜头组合的实战搭配，包含具体型号与适配逻辑，为爱好者提供可参考的器材选择方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Nikon Camera Kit for Bird Photography"
+    },
+    {
+      "id": "recvkUw2HIYNvV",
+      "title": "厌倦了令人昏昏欲睡的成像完美？这款190美元的煎饼镜头带来一股清流",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tired-of-yawn-inducing-imaging-perfection-this-us-usd190-pancake-lens-is-a-breath-of-fresh-air",
+      "publish_time": "2026-05-28T14:40:00+08:00",
+      "summary": "Lensbaby推出190美元Petzval风格煎饼镜头，故意制造不完美成像，在AI泛滥时代以个性画质脱颖而出",
+      "recommendation": "190美元Petzval煎饼镜头以故意制造光学缺陷对抗AI完美成像，提供f/2.8光圈与个性画质，适合追求摄影趣味的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tired of yawn-inducing imaging perfection? This US$190 pancake lens is a breath of fresh air"
+    },
     {
       "id": "recvkT6nJEFVrN",
       "title": "7Artisans 35mm f2.8 评测：制造这款镜头时他们是在炫技",
