@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-28T04:38:57.987281+08:00",
-    "total_articles": 440,
+    "updated_at": "2026-05-28T12:56:22.720727+08:00",
+    "total_articles": 446,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 121
+      "count": 122
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,17 +23,17 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 24
+      "count": 25
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 35
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 323
+      "count": 328
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvkT6nJEFVrN",
+      "title": "7Artisans 35mm f2.8 评测：制造这款镜头时他们是在炫技",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/28/7artisans-35mm-f2-8-review-they-were-showing-off-when-they-made-this/",
+      "publish_time": "2026-05-28T12:00:00+08:00",
+      "summary": "七工匠35mm f2.8镜头搭配尼康Zf和TechArt转接环实现自动对焦，锐度出色，核心价值在于其带来的惊艳成像效果。",
+      "recommendation": "实测七工匠35mm f2.8搭配尼康Zf转接自动对焦，提供锐度数据和成像样张，揭示小光圈镜头的光学设计巧思。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "7Artisans 35mm f2.8 Review: They Were Showing Off When They Made This"
+    },
+    {
+      "id": "recvkT6e5k3qHs",
+      "title": "红魔11S Pro 评测中",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmagic_11s_pro_in_for_review-news-73019.php",
+      "publish_time": "2026-05-28T11:05:02+08:00",
+      "summary": "红魔11S Pro外观延续前代设计，无凸起平整表面，提供12/256GB和16/512GB配置，暗夜黑与冰晶银两色，附80W充电器及薄保护壳。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦红魔11S Pro外观配置，未涉及影像系统核心参数或拍摄样张，对影像爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "RedMagic 11S Pro in for review"
+    },
+    {
+      "id": "recvkT6gfPXp9C",
+      "title": "Spotify 支持保存和分享播客片段",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/spotify_now_lets_you_save_and_share_clips_from_podcasts-news-73017.php",
+      "publish_time": "2026-05-28T09:03:01+08:00",
+      "summary": "Spotify移动应用新增播客片段功能，用户可剪辑、保存并分享片段，通过内置消息或其他平台分享，全球逐步推出。",
+      "recommendation": "常规资讯，可了解行业动态。对影像爱好者价值有限，但播客片段分享功能或为未来音频与影像内容联动提供新思路。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Spotify enables saving and sharing clips from podcasts"
+    },
+    {
+      "id": "recvkT6in8Uajj",
+      "title": "YouTube将更显著地标注AI生成内容",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/youtube_will_now_more_prominently_label_aigenerated_content-news-73018.php",
+      "publish_time": "2026-05-28T07:31:02+08:00",
+      "summary": "YouTube即日起要求AI生成或实质性修改的视频标注醒目标签，长视频标签在播放器下方，短视频叠加显示，主要依赖创作者自行标注。",
+      "recommendation": "AI生成内容标注规则影响影像创作真实性，对视频创作者有直接合规参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "YouTube will now more prominently label AI-generated content"
+    },
+    {
+      "id": "recvkT6byAqhnr",
+      "title": "谷歌新推出的Gemini Omni AI视频模型能实现疯狂功能",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/27/googles-new-gemini-omni-ai-video-model-can-do-crazy-things/",
+      "publish_time": "2026-05-28T05:04:28+08:00",
+      "summary": "谷歌Gemini Omni AI模型能从任何内容创造任何东西，实现惊人功能，核心是跨模态生成能力。",
+      "recommendation": "解析Gemini Omni跨模态生成对手机影像的潜在影响，提供AI视频编辑新思路，适合关注计算摄影前沿的读者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google’s New Gemini Omni AI Video Model Can Do Crazy Things"
+    },
+    {
+      "id": "recvkT6knDJFjB",
+      "title": "Ultrahuman 发布 Photon：249 美元红光治疗设备，现已开启预售",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/ultrahuman_unveils_photon__a_249_red_light_therapy_device_that_is_now_on_preorder-news-73014.php",
+      "publish_time": "2026-05-28T04:31:01+08:00",
+      "summary": "Ultrahuman发布249美元红光治疗设备Photon，价格不到同类产品一半，预售中，有助于肌肉恢复和皮肤健康。",
+      "recommendation": "红光治疗设备与影像无关，但可作为消费电子健康趋势参考，了解跨界产品定价策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "Ultrahuman unveils Photon - a $249 red light therapy device that is now on pre-order"
+    },
     {
       "id": "recvkR52PM3giA",
       "title": "4000万像素传感器并非总是更好：它们如何毁掉你的照片以及如何解决",
