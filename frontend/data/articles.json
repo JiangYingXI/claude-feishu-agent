@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-05-30T00:30:36.367326+08:00",
+    "updated_at": "2026-05-30T04:48:22.458670+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 20
+      "count": 18
     },
     {
       "key": "镜头与光学",
@@ -23,25 +23,164 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 24
+      "count": 22
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 39
+      "count": 38
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 370
+      "count": 369
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 202
+      "count": 205
     }
   ],
   "articles": [
+    {
+      "id": "recvl2OepWYmru",
+      "title": "一部AI生成的“真人”电影长片将在翠贝卡电影节首映，原因不明",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/a-feature-length-ai-generated-live-action-movie-is-premiering-at-tribeca-for-some-reason/",
+      "publish_time": "2026-05-30T04:16:59+08:00",
+      "summary": "翠贝卡电影节将首映全球首部完全由AI生成的真人长片，标志AI电影制作里程碑。",
+      "recommendation": "探讨AI生成真人电影对影像创作的影响，提供翠贝卡电影节首映的独家行业动态，适合关注计算摄影与AI影像趋势的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "A Feature-Length AI-Generated ‘Live Action’ Movie Is Premiering at Tribeca for Some Reason"
+    },
+    {
+      "id": "recvl2OsPhUNty",
+      "title": "三星Galaxy Z Fold8系列被曝屏幕折痕控制媲美Oppo Find N6",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_crease_free_display_tipped-news-73038.php",
+      "publish_time": "2026-05-30T04:02:02+08:00",
+      "summary": "三星Galaxy Z Fold8系列折痕控制媲美Oppo Find N6，采用新显示技术降低折痕可见度约20%",
+      "recommendation": "折痕控制是折叠屏影像体验的关键，本文披露三星新显示技术降低折痕20%的具体数据，对比Oppo Find N6提供直观参考，对关注折叠屏拍摄稳定性的用户有实际价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8 series tipped to have a display crease as good as Oppo Find N6's"
+    },
+    {
+      "id": "recvl2Oh51VdvA",
+      "title": "虽为成员，YoloLiv却不遵守Micro Four Thirds标准",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/despite-being-a-member-yololiv-isnt-complying-with-the-micro-four-thirds-standard/",
+      "publish_time": "2026-05-30T03:20:45+08:00",
+      "summary": "YoloLiv发布18mm f/1.4 Micro Four Thirds镜头，但被发现不符合该标准，引发关注。",
+      "recommendation": "揭露YoloLiv镜头未遵守M4/3标准，提供独家技术细节与行业影响分析，帮助爱好者了解标准合规性对器材兼容性的关键作用。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Despite Being a Member, YoloLiv Isn’t Complying with the Micro Four Thirds Standard"
+    },
+    {
+      "id": "recvl2OzIxw51Z",
+      "title": "为什么你的Lightroom预设看起来很假（以及真正有效的方法）",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/29/lightroom-presets-look-fake/",
+      "publish_time": "2026-05-30T03:00:00+08:00",
+      "summary": "文章指出Lightroom预设常显假，强调预设应注重真实性和独特风格，而非依赖AI，旨在帮助摄影师保持创作自主性。",
+      "recommendation": "文章直击预设假感痛点，提供非AI依赖的真实风格调整方法，对追求个性化影像的爱好者有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Your Lightroom Presets Look Fake (And What Actually Works)"
+    },
+    {
+      "id": "recvl2OjiMQsB9",
+      "title": "ArcBlue C42：全球首款智能全画幅天文摄影系统",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/arcblue-c42-is-the-worlds-first-smart-full-frame-astrophotography-system/",
+      "publish_time": "2026-05-30T01:53:57+08:00",
+      "summary": "ArcBlue C42是全球首款智能全画幅天文摄影系统，即将登陆Kickstarter，其规格和功能令天文摄影爱好者兴奋。",
+      "recommendation": "解析ArcBlue C42全画幅天文摄影系统的核心规格与智能化功能，提供传感器尺寸、像素数等关键数据，适合关注天文摄影与消费级相机创新的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "ArcBlue C42 Is the World’s First Smart Full-Frame Astrophotography System"
+    },
+    {
+      "id": "recvl2OvdevAYw",
+      "title": "vivo S60和S60活力版发布：6.59英寸AMOLED屏+7200mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_s60_and_s60_vitality_edition_arrive_with_659_amoleds_and_7200mah_batteries-news-73052.php",
+      "publish_time": "2026-05-30T01:38:02+08:00",
+      "summary": "vivo S60系列发布，含S60和S60活力版，均配6.59英寸1.5K 120Hz AMOLED屏、5000万前置及超广角，S60更强芯片和3倍长焦，电池7200mAh",
+      "recommendation": "文章提供vivo S60系列影像配置细节：5000万前置、超广角及S60的3倍长焦，对关注中端手机多摄方案的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "vivo S60 and S60 Vitality Edition arrive with 6.59” AMOLEDs and 7,200mAh batteries"
+    },
+    {
+      "id": "recvl2OxwYHHkn",
+      "title": "Meike AF 56mm f/1.7 Air 现已开放预购",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/meike-af-56mm-f-1-7-air-available-for-preorder/",
+      "publish_time": "2026-05-30T01:15:45+08:00",
+      "summary": "Meike AF 56mm f/1.7 Air镜头现已在BHphoto、亚马逊美国站和Meike全球官网开启预售，同时宣布了25mm和35mm两款Air镜头。",
+      "recommendation": "Meike 56mm f/1.7 Air开启预售，同时透露25mm和35mm两款新镜头规划，为APS-C用户提供高性价比人像镜头选择，适合关注副厂镜头动态的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Meike AF 56mm f/1.7 Air Available for Preorder"
+    },
+    {
+      "id": "recvl2Oou6JNqu",
+      "title": "“为什么需要照片？我知道我去过那里”——埃德蒙·希拉里在历史性登顶珠峰后所说的话，在如今“拍下一切”的标准下显得疯狂",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/why-did-i-need-a-photograph-i-knew-id-been-there-edmund-hillarys-purported-words-after-history-making-everest-summit-seem-crazy-by-todays-snap-everything-standards",
+      "publish_time": "2026-05-30T01:08:41+08:00",
+      "summary": "73年前埃德蒙·希拉里登顶珠峰，其反对自拍的态度与当今拍照文化形成鲜明对比，引发对记录意义的思考。",
+      "recommendation": "从希拉里反自拍态度切入，对比当代拍照文化，引发对影像记录本质的深度思考，适合摄影爱好者反思拍摄动机。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"Why did I need a photograph? I knew I'd been there\" – Edmund Hillary’s purported words after history-making Everest summit seem crazy by today's 'snap everything' standards"
+    },
+    {
+      "id": "recvl2OlRg9ah4",
+      "title": "Film Friday: Kodak TMax 400 Is Far From a One-Trick Pony",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/film-friday-kodak-tmax-400-is-far-from-a-one-trick-pony/",
+      "publish_time": "2026-05-30T00:56:43+08:00",
+      "summary": "TMax 400于1986年问世，凭借片状颗粒结构、高分辨率和清晰细节，定义了一代黑白胶片。",
+      "recommendation": "解析TMax 400片状颗粒结构与高分辨率特性，适合胶片爱好者了解其技术定义与成像优势。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Film Friday: Kodak TMax 400 Is Far From a One-Trick Pony"
+    },
     {
       "id": "recvl1KWHapxvO",
       "title": "Sihoo Doro C300 Pro V2人体工学椅：全身自适应支撑，助您保持舒适与创造力",
@@ -133,6 +272,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Budget super telephoto zooms • Smart telescopes • Travel compact cameras, it's the Digital Camera World podcast!"
+    },
+    {
+      "id": "recvl2OqAx5i78",
+      "title": "预算超长焦变焦镜头 • 智能望远镜 • 旅行便携相机 • 这是《数字相机世界》播客！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/budget-super-telephoto-zooms-o-smart-telescopes-o-travel-compact-cameras-its-the-digital-camera-world-podcast",
+      "publish_time": "2026-05-29T22:45:42+08:00",
+      "summary": "Chris介绍智能望远镜实现居家天文摄影，Bokeh Face团队评测旅行便携相机，Mike评价预算级超长焦变焦镜头。",
+      "recommendation": "涵盖智能望远镜、旅行相机与预算超长焦镜头，提供居家天文摄影新思路及便携相机实测数据，适合关注跨界影像设备的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Budget super telephoto zooms • Smart telescopes • Travel compact cameras •  It's the Digital Camera World podcast!"
     },
     {
       "id": "recvl1LcVFZd8z",
@@ -7675,164 +7830,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Thypoch reveals the prime-like price of its autofocus zoom"
-    },
-    {
-      "id": "recvkaPGJ3aQWR",
-      "title": "Insta360为其微型运动相机带来复古更新",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/7611147898/insta360-go-3s-retro-bundle-announcement",
-      "publish_time": "2026-05-14T20:00:00+08:00",
-      "summary": "Insta360推出Go 3S Retro Bundle，含复古取景器替代Action Pod，模拟传统运动相机外观，迎合复古风潮。",
-      "recommendation": "解析Insta360 Go 3S复古套装设计思路，含取景器替代方案与复古风潮对运动相机市场的影响，适合关注产品形态创新的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Insta360 gave its tiny action camera a retro refresh"
-    },
-    {
-      "id": "recvkaQdLkJKab",
-      "title": "佳能RF 20-50mm f/4L IS USM PZ MTF曲线性能表现",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canon-rf-20-50mm-f-4l-is-usm-pz-mtf-curve-performance/",
-      "publish_time": "2026-05-14T16:45:41+08:00",
-      "summary": "佳能RF 20-50mm f/4L IS USM PZ镜头作为L系列变焦镜头，具备内部变焦、小巧轻便和电动变焦功能，是视频创作者的理想选择。",
-      "recommendation": "MTF曲线数据揭示RF 20-50mm f/4L在广角端中心锐度优异，边缘画质表现及电动变焦线性度是视频用户关注点。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon RF 20-50mm f/4L IS USM PZ MTF Curve Performance"
-    },
-    {
-      "id": "recvkaShCK2o4l",
-      "title": "SPINN.DESIGN ProWrapp Impact+ 最大抗冲击齿轮保护套众筹活动即将结束",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/14/spinn-design-prowrapp-impact-gear-wrapper-with-max-shock-resistance-crowdfunding-campaign-is-ending-soon.aspx/",
-      "publish_time": "2026-05-14T13:22:57+08:00",
-      "summary": "SPINN.DESIGN ProWrapp Impact+ 抗冲击装备保护套众筹活动将在36小时内结束，该产品由德国公司设计，提供最大抗冲击性能，保护摄影装备。",
-      "recommendation": "德国团队设计的抗冲击保护套众筹即将截止，提供具体抗冲击性能数据，适合需携带摄影装备外出的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "SPINN.DESIGN ProWrapp Impact+ gear wrapper with max shock resistance crowdfunding campaign is ending soon"
-    },
-    {
-      "id": "recvkaSjQJwd1u",
-      "title": "尼康Nikkor Z 24-120mm f/4 S镜头固件更新1.20版本发布",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/14/nikon-nikkor-z-24-120mm-f-4-s-lens-firmware-update-version-1-20-released.aspx/",
-      "publish_time": "2026-05-14T12:23:53+08:00",
-      "summary": "尼康发布Nikkor Z 24-120mm f/4 S镜头固件1.20版，修复光圈操作可靠性和噪音问题。",
-      "recommendation": "固件更新修复了Z 24-120mm f/4 S的光圈可靠性及噪音问题，对追求稳定拍摄的用户有实用价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon Nikkor Z 24-120mm f/4 S lens firmware update version 1.20 released"
-    },
-    {
-      "id": "recvkaPIFOn6jO",
-      "title": "佳能正在更新其高端相机的旗舰功能之一",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/6850004575/canon-is-updating-one-of-the-flagship-features-of-its-high-end-cameras",
-      "publish_time": "2026-05-14T04:52:00+08:00",
-      "summary": "佳能发布EOS R5 II和EOS R1固件更新，首次重大更新Action Priority模式，并推出C2PA标准图像认证系统。",
-      "recommendation": "固件更新引入Action Priority模式与C2PA认证系统，解析佳能高端相机在AI辅助拍摄和图像真实性上的技术动向，对关注专业机型功能迭代的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon is updating one of the flagship features of its high-end cameras"
-    },
-    {
-      "id": "recvkaPL3OTsV5",
-      "title": "索尼a7R VI高速驶出工作室",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/sony-a7r-vi-review",
-      "publish_time": "2026-05-13T22:00:00+08:00",
-      "summary": "索尼a7R VI搭载66.8MP堆叠式CMOS传感器，支持电子快门30fps连拍，机械快门10fps，具备可调预拍摄功能，是一款高分辨率高速全画幅无反相机。",
-      "recommendation": "本文披露索尼a7R VI的66.8MP堆叠传感器与30fps电子连拍参数，对高像素高速机用户有明确参考价值，含可调预拍摄等独家功能数据。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony's a7R VI comes speeding out of the studio"
-    },
-    {
-      "id": "recvkaPNdlxV5R",
-      "title": "索尼新Xperia旗舰手机在相机上做出重大取舍",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/1175927025/sony-xperia-1-viii-smartphone-announcement",
-      "publish_time": "2026-05-13T22:00:00+08:00",
-      "summary": "索尼新Xperia 1 VIII旗舰手机放弃85-170mm变焦长焦，改用固定70mm等效镜头，重点推出AI相机助手功能。",
-      "recommendation": "解析索尼Xperia 1 VIII放弃变焦长焦、改用固定70mm镜头的取舍逻辑，并介绍AI相机助手新功能，为关注手机影像差异化设计的读者提供决策参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony's new Xperia flagship phone makes a major camera tradeoff"
-    },
-    {
-      "id": "recvkaPPujbWEM",
-      "title": "索尼更新版长焦变焦镜头：更大、更强、更快",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/9272095925/sony-fe-100-400-f4p5-gm-oss-announcement",
-      "publish_time": "2026-05-13T22:00:00+08:00",
-      "summary": "索尼发布FE 100-400mm F4.5 GM OSS全画幅远摄镜头，采用恒定光圈和内部变焦设计，由28片镜片组成，是2017年款的精神继承者。",
-      "recommendation": "文章详析索尼FE 100-400mm F4.5 GM OSS的28片镜片结构与内部变焦设计，提供恒定光圈远摄镜头的技术参数与升级细节，适合关注长焦镜头性能的影像爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony's updated telephoto zoom is bigger, badder, faster"
-    },
-    {
-      "id": "recvkaPRCbuAlp",
-      "title": "佳能最新相机瞄准新受众",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/4154527639/canon-eos-r6-v-launch-announcement-vlogging-video-camera",
-      "publish_time": "2026-05-13T21:00:00+08:00",
-      "summary": "佳能发布EOS R6 V摄像机，面向高级创作者，采用32MP全画幅传感器和处理器，机身方正无取景器，增加散热风扇防过热",
-      "recommendation": "文章解析佳能EOS R6 V的32MP传感器、无取景器设计与散热风扇，对关注视频性能的创作者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon's latest camera is targeting a new audience"
-    },
-    {
-      "id": "recvkaPU11xg9k",
-      "title": "佳能新镜头是其全画幅微单系列的首款",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/1302932824/canon-rf-20-50-f4-l-is-usm-pz-powerzoom-video-lens-announcement",
-      "publish_time": "2026-05-13T21:00:00+08:00",
-      "summary": "佳能发布RF 20-50mm F4 L IS USM PZ全画幅电动变焦镜头，采用11组13片光学结构含2片非球面镜片，兼顾视频与摄影需求",
-      "recommendation": "文章披露佳能首款全画幅电动变焦镜头RF 20-50mm F4 L的11组13片光学结构及2片非球面镜片数据，对视频创作者和摄影用户有具体参考价值，属常规新品资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon's new lens is a first for its full-frame mirrorless lineup"
     }
   ]
 }
