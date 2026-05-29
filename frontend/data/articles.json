@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-29T05:01:22.152045+08:00",
-    "total_articles": 488,
+    "updated_at": "2026-05-29T12:58:22.891790+08:00",
+    "total_articles": 491,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 133
+      "count": 135
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,63 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 359
+      "count": 362
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 194
+      "count": 195
     }
   ],
   "articles": [
+    {
+      "id": "recvkYXpunbKDj",
+      "title": "最适合鸟类摄影师的富士相机套件",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/29/the-best-fujifilm-camera-kit-for-bird-photographers/",
+      "publish_time": "2026-05-29T12:00:00+08:00",
+      "summary": "富士相机是鸟类摄影师的可靠伙伴，本文推荐其APS-C相机套件，帮助捕捉获奖级图像。",
+      "recommendation": "针对鸟类摄影场景，详解富士APS-C套件选配逻辑，含长焦镜头适配与对焦性能实测数据，非泛泛而谈的器材清单。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best Fujifilm Camera Kit for Bird Photographers"
+    },
+    {
+      "id": "recvkYXncN1lLU",
+      "title": "Meike AF 56mm f/1.7 Air APS-C镜头发布，尼康Z卡口版本售价159美元，现已接受预订",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/28/meike-af-56mm-f-1-7-air-aps-c-lens-for-nikon-z-mount-released-and-available-for-order-for-159.aspx/",
+      "publish_time": "2026-05-29T11:02:21+08:00",
+      "summary": "Meike发布AF 56mm f/1.7 Air APS-C镜头，尼康Z卡口，售价159美元，f/1.7至f/16，85mm等效，重6.7盎司，现已开放预订。",
+      "recommendation": "159美元超低价APS-C自动对焦镜头，85mm等效焦距适合人像，提供f/1.7大光圈与轻量化设计，适合尼康Z卡口用户入门。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Meike AF 56mm f/1.7 Air APS-C lens for Nikon-Z mount released and available for order for $159"
+    },
+    {
+      "id": "recvkYXkgaWxSR",
+      "title": "徕卡称曾就手机照片应呈现的效果进行过“严肃讨论”",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/0966220713/leica-xiaomi-interview-phone-photography-processing",
+      "publish_time": "2026-05-29T08:30:00+08:00",
+      "summary": "徕卡副总裁称曾就手机照片效果进行严肃讨论，批评某些手机过度提亮阴影，强调小米17T Pro在徕卡经典模式下保持自然效果。",
+      "recommendation": "文章披露徕卡内部对手机照片效果的争议，批评过度提亮阴影，提供行业对计算摄影美学的深度观点。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica says it had \"serious discussions\" about how phone photos should look"
+    },
     {
       "id": "recvkX1hH9A2XK",
       "title": "iPhone Ultra折叠手机壳泄露：设计及双摄方案曝光",
