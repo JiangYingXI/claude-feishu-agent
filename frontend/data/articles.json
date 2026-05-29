@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-05-29T18:36:51.935921+08:00",
-    "total_articles": 499,
+    "updated_at": "2026-05-30T00:30:36.367326+08:00",
+    "total_articles": 500,
     "data_range_days": 90
   },
   "categories": [
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 136
+      "count": 137
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,12 +23,12 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 25
+      "count": 24
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 39
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,337 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 197
+      "count": 202
     }
   ],
   "articles": [
+    {
+      "id": "recvl1KWHapxvO",
+      "title": "Sihoo Doro C300 Pro V2人体工学椅：全身自适应支撑，助您保持舒适与创造力",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/sihoo-doro-c300-pro-v2-ergonomic-chair-with-full-body-adaptive-support-keeps-you-comfortable-and-creative/",
+      "publish_time": "2026-05-30T00:19:10+08:00",
+      "summary": "Sihoo Doro C300 Pro V2人体工学椅通过全身自适应支撑技术，缓解长时间工作带来的身体负担，保护健康并提升创造力。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦人体工学椅对影像工作者的健康价值，但缺乏影像领域独有数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sihoo Doro C300 Pro V2 Ergonomic Chair with Full-Body Adaptive Support Keeps You Comfortable and Creative"
+    },
+    {
+      "id": "recvl1LE5aX2Uc",
+      "title": "400美元以下最佳3款变焦镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/29/the-3-best-zoom-lenses-under-400/",
+      "publish_time": "2026-05-30T00:00:00+08:00",
+      "summary": "变焦镜头对摄影师至关重要，但价格昂贵。本文推荐三款400美元以下的变焦镜头，覆盖多个焦段，性价比高。",
+      "recommendation": "三款400美元内变焦镜头实测，覆盖广角至长焦，提供具体光圈与画质对比，适合预算有限的摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 3 Best Zoom Lenses Under $400"
+    },
+    {
+      "id": "recvl1KZfaRMci",
+      "title": "拍摄首张皇家肖像的匿名摄影师获蓝牌纪念",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/unknown-photographer-who-took-first-royal-portrait-honored-with-blue-plaque/",
+      "publish_time": "2026-05-29T23:54:46+08:00",
+      "summary": "一位匿名摄影师因拍摄英国王室首张肖像照，在英国布莱顿获蓝牌纪念。",
+      "recommendation": "从摄影史角度解析匿名摄影师与王室肖像的技术细节，揭示早期摄影工艺对现代影像的启示，适合关注摄影技术演变的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Unknown Photographer Who Took First Royal Portrait Honored With Blue Plaque"
+    },
+    {
+      "id": "recvl1Ls1dtUTE",
+      "title": "佳能PowerShot新机将于今年发布",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/the-next-canon-powershot-is-coming-this-year/",
+      "publish_time": "2026-05-29T23:11:48+08:00",
+      "summary": "佳能今年将发布一款PowerShot新机，非V系列，回归摄影本质",
+      "recommendation": "佳能PowerShot新机非V系列，回归摄影本质，对关注便携相机市场的用户有参考价值，但缺乏具体参数和发布时间，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Next Canon PowerShot is Coming This Year"
+    },
+    {
+      "id": "recvl1L1KLEOhy",
+      "title": "史密森尼学会刚刚免费添加到Unsplash的15张最佳照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/15-of-the-best-photos-smithsonian-just-added-to-unsplash-for-free/",
+      "publish_time": "2026-05-29T23:05:47+08:00",
+      "summary": "史密森尼学会将旗下21家博物馆等机构的精选照片免费上传至Unsplash平台，本文推荐了其中15张最佳照片。",
+      "recommendation": "史密森尼免费开放高清馆藏照片，为影像爱好者提供无版权素材库与历史视觉参考，独特价值在于博物馆级影像的公共化。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "15 of the Best Photos Smithsonian Just Added to Unsplash for Free"
+    },
+    {
+      "id": "recvl1LaTNLAnt",
+      "title": "预算超长焦变焦镜头 • 智能望远镜 • 旅行便携相机，尽在《数字相机世界》播客！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/budget-super-telephoto-zooms-o-smart-telescopes-o-travel-compact-cameras-its-the-digital-camera-world-podcast",
+      "publish_time": "2026-05-29T22:45:42+08:00",
+      "summary": "播客评测智能望远镜、旅行便携相机和预算超长焦变焦镜头，提供天文摄影、便携拍摄与长焦拍摄的实用建议。",
+      "recommendation": "播客形式评测智能望远镜、旅行相机与超长焦镜头，提供天文与便携拍摄的实用对比，适合关注多场景影像器材的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Budget super telephoto zooms • Smart telescopes • Travel compact cameras, it's the Digital Camera World podcast!"
+    },
+    {
+      "id": "recvl1LcVFZd8z",
+      "title": "这些相机完美适配你的下一次旅行探险——全能套装最高可省164美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/these-cameras-are-perfect-for-your-next-travel-adventure-save-up-to-usd164-with-all-you-need-bundles",
+      "publish_time": "2026-05-29T22:28:17+08:00",
+      "summary": "这些相机完美适配旅行探险，全能套装最高省164美元，兼具便携性、高性能和出色画质，选购可节省开支。",
+      "recommendation": "文章汇总旅行相机套装优惠，最高省164美元，提供便携与画质平衡的选购参考，适合计划购机的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These cameras are perfect for your next travel adventure – save up to $164 with all-you-need bundles"
+    },
+    {
+      "id": "recvl1Lf5kdBpC",
+      "title": "这位摄影师以病毒式传播的光绘作品闻名。现在，他真正为摄影师创造了一支用光书写的笔",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-lights/this-photographer-is-known-for-his-viral-light-paintings-now-hes-literally-created-a-pen-for-photographers-to-write-with-light",
+      "publish_time": "2026-05-29T22:26:04+08:00",
+      "summary": "光绘艺术家达伦·皮尔逊设计了一款可变换颜色的光绘笔，为摄影师提供用光书写的工具。",
+      "recommendation": "光绘艺术家达伦·皮尔逊从创作者视角设计可变色光绘笔，揭秘工具研发背后的实用逻辑与色彩控制技术，为摄影爱好者提供用光创作的新思路。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This photographer is known for his viral light paintings. Now, he’s literally created a pen for photographers to write with light"
+    },
+    {
+      "id": "recvl1LBCwYrZG",
+      "title": "Sidney Diongzon：索尼的下一步棋…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sidney-diongzon-this-is-sonys-next-move/",
+      "publish_time": "2026-05-29T22:13:46+08:00",
+      "summary": "Sidney Diongzon指出索尼新款电池电压7.82V、容量20.9瓦时，比旧款7.2V、16.4瓦时更强，为相机提供更高能量输出以支持密集处理任务，是索尼的重要一步。",
+      "recommendation": "从电池电压与容量数据（7.82V/20.9Wh vs 7.2V/16.4Wh）揭示索尼相机性能提升的硬件基础，对关注续航与处理能力的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sidney Diongzon: This is Sony’s Next Move…"
+    },
+    {
+      "id": "recvl1LhbMhDdy",
+      "title": "日本最新销售榜单显示，新款相机不敌这款三年前的微单机型",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/newer-cameras-are-losing-out-to-this-three-year-old-mirrorless-model-in-japans-latest-sales-charts",
+      "publish_time": "2026-05-29T22:10:23+08:00",
+      "summary": "日本销售榜单显示，2023年全画幅微单相机仍居榜首，超越新款旗舰机型，凸显其市场价值。",
+      "recommendation": "榜单揭示三年前微单仍居榜首，提供日本市场真实销售数据，助你判断相机长期价值与选购策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Newer cameras are losing out to this three-year-old mirrorless model in Japan's latest sales charts"
+    },
+    {
+      "id": "recvl1L8HKHvpW",
+      "title": "DPReview社区五月动态回顾：2026年",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/9999142289/what-you-missed-in-the-dpreview-community-may-2026",
+      "publish_time": "2026-05-29T22:08:00+08:00",
+      "summary": "DPReview社区经理Mathew Anderson以冰淇淋甜筒象征轻松认真的态度，回顾五月社区动态，包括讨论、成员特写和摄影活动。",
+      "recommendation": "DPReview社区动态汇总，含成员讨论精华与摄影活动，为影像爱好者提供社区趋势参考。无独家数据，属常规资讯，可了解行业交流动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What you missed in the DPReview community: May 2026"
+    },
+    {
+      "id": "recvl1Ljj2DUOX",
+      "title": "尼康、索尼和Lumix全画幅相机降价——起价929英镑",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canon-sony-and-nikon-full-frame-cameras-just-got-price-cuts-starting-from-gbp929",
+      "publish_time": "2026-05-29T21:58:53+08:00",
+      "summary": "尼康、索尼和Lumix全画幅相机降价，起价929英镑，最高节省640英镑，让升级更实惠。",
+      "recommendation": "全画幅相机降价资讯，含尼康、索尼、Lumix具体型号与节省金额，适合预算有限的升级用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon, Sony and Lumix full-frame cameras just got price cuts – starting from £929"
+    },
+    {
+      "id": "recvl1LyNu0xdK",
+      "title": "三星Galaxy A57 vs. Galaxy S25 FE",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_a57_vs_galaxy_s25_fe_review_battery_camera_price_compared-news-72666.php",
+      "publish_time": "2026-05-29T21:51:02+08:00",
+      "summary": "三星Galaxy A57是中端选择，而Galaxy S25 FE凭借旗舰功能跨入中高端，两者价格差异小，值得考虑。",
+      "recommendation": "对比A57与S25 FE的影像配置差异，含传感器尺寸、像素数等关键数据，助中端用户权衡性价比。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy A57 vs. Galaxy S25 FE"
+    },
+    {
+      "id": "recvl1LlrE4pPS",
+      "title": "热门复古无反相机与镜头套装降至仅898.99美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/popular-retro-mirrorless-camera-and-lens-bundle-drops-to-only-usd898-99",
+      "publish_time": "2026-05-29T21:28:19+08:00",
+      "summary": "OM System OM-5搭配14-42mm变焦镜头套装降至898.99美元，节省400美元，适合旅行或街头摄影",
+      "recommendation": "OM System OM-5套装降价400美元，提供复古设计与旅行便携性，适合街头摄影爱好者关注性价比。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Popular retro mirrorless camera and lens bundle drops to only $898.99"
+    },
+    {
+      "id": "recvl1L42sfIba",
+      "title": "在密林迷雾中拍摄山地大猩猩的挑战",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/the-challenge-of-photographing-mountain-gorillas-in-the-mist-of-an-impenetrable-forest/",
+      "publish_time": "2026-05-29T21:09:42+08:00",
+      "summary": "乌干达布温迪国家公园地形复杂，栖息着山地大猩猩，拍摄面临密林迷雾等挑战。",
+      "recommendation": "本文通过乌干达密林迷雾中的实拍案例，揭示山地大猩猩拍摄的器材选择与参数设置技巧，提供独家野外影像数据，对生态摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Challenge of Photographing Mountain Gorillas in the Mist of an Impenetrable Forest"
+    },
+    {
+      "id": "recvl1LGmDRJ2t",
+      "title": "四款保值率最高的相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/29/the-4-cameras-that-retain-their-resale-value/",
+      "publish_time": "2026-05-29T21:00:00+08:00",
+      "summary": "文章介绍四款保值率最高的全画幅相机，强调其技术参数和实用性，适合严肃摄影师投资。",
+      "recommendation": "从保值率切入，提供四款全画幅相机的技术参数与实用性分析，对投资器材的摄影师有参考价值，数据较详实。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 4 Cameras That Retain Their Resale Value"
+    },
+    {
+      "id": "recvl1LulzHTVx",
+      "title": "同步发布：美科AF 85mm f/1.4 Ⅱ全画幅镜头，尼康Z卡口，售价498美元",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/29/also-announced-new-meike-af-85mm-f-1-4-%e2%85%b1-full-frame-lens-for-nikon-z-mount-for-498.aspx/",
+      "publish_time": "2026-05-29T20:38:23+08:00",
+      "summary": "美科发布尼康Z卡口AF 85mm f/1.4 Ⅱ全画幅镜头，售价498美元，有白色和黑白配色可选。",
+      "recommendation": "美科AF 85mm f/1.4 Ⅱ尼康Z卡口版售价498美元，提供白色/黑白配色，适合预算有限的人像爱好者。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Also announced: new Meike AF 85mm f/1.4 Ⅱ full-frame lens for Nikon Z-mount for $498"
+    },
+    {
+      "id": "recvl1Lny5hgRT",
+      "title": "DJI Pocket 3 折扣不会持续太久，Pocket 4 相机已发布——但新款真的有很大不同吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/dji-pocket-3-discounts-wont-last-long-now-the-pocket-4-camera-is-out-but-is-the-new-model-really-that-much-different",
+      "publish_time": "2026-05-29T20:13:47+08:00",
+      "summary": "DJI Pocket 3折扣使其极具吸引力，但Pocket 4已发布，新款差异不大，核心价值在于性价比。",
+      "recommendation": "对比Pocket 3与4代差异，指出核心价值在性价比，适合关注便携相机升级的爱好者做购买决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "DJI Pocket 3 discounts won't last long now the Pocket 4 camera is out – but is the new model really that much different?"
+    },
+    {
+      "id": "recvl1LwxxUQoQ",
+      "title": "摄影师在尼康Zf相机上安装了《毁灭战士》",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/29/photographer-installed-doom-on-a-nikon-zf-camera.aspx/",
+      "publish_time": "2026-05-29T20:03:18+08:00",
+      "summary": "摄影师Taylor Jackson成功在尼康Zf相机上安装经典游戏《毁灭战士》，展示了相机改装潜力。",
+      "recommendation": "展示尼康Zf相机改装潜力，提供相机硬件与游戏兼容性的独特实测数据，对探索相机扩展功能的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer installed Doom on a Nikon Zf camera"
+    },
+    {
+      "id": "recvl1LpSVrLXg",
+      "title": "徕卡在新詹姆斯·邦德电子游戏中推出“冲击波相机”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/gaming/leica-debuts-shockwave-camera-in-the-new-james-bond-videogame",
+      "publish_time": "2026-05-29T19:56:03+08:00",
+      "summary": "徕卡Q在最新007游戏中作为冲击波相机登场，成为野战武器，令人震惊。",
+      "recommendation": "揭示徕卡Q在007游戏中跨界成为武器，提供品牌跨界与影像文化融合的独特视角，适合关注品牌动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leica debuts \"Shockwave Camera\" in the new James Bond videogame"
+    },
+    {
+      "id": "recvl1L6neKZAK",
+      "title": "这张标枪运动员的错视照片看起来像在刺穿自己",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/this-javelin-thrower-looks-like-he-is-impaling-himself-in-crazy-optical-illusion-photo/",
+      "publish_time": "2026-05-29T19:37:55+08:00",
+      "summary": "爱沙尼亚标枪运动员马格努斯·基尔特的照片因错视效果看似被标枪刺穿，实则安全无恙，展示了摄影错觉的巧妙。",
+      "recommendation": "解析错视摄影原理，展示快门时机与构图如何制造视觉错觉，对提升抓拍创意有实操启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This Javelin Thrower Looks Like He is Impaling Himself in Crazy Optical Illusion Photo"
+    },
     {
       "id": "recvl0kyCxj0qM",
       "title": "最适合天文摄影师的M4/3相机套件",
@@ -7506,319 +7833,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Canon's new lens is a first for its full-frame mirrorless lineup"
-    },
-    {
-      "id": "recvkaPWi6zJmG",
-      "title": "佳能最低调的新配件，或许也是最令人兴奋的",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/4566511083/canon-may-2026-accessory-launch-rf-rear-cap-remote-tripod-stand",
-      "publish_time": "2026-05-13T21:00:00+08:00",
-      "summary": "佳能发布RF卡口新镜头后盖，虽看似普通但可能大幅提升使用体验，是低调却令人兴奋的配件。",
-      "recommendation": "解析佳能RF后盖设计如何优化镜头密封与操作体验，提供卡口系统新视角，适合关注配件细节的影像用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon's most understated new accessory might be its most exciting"
-    },
-    {
-      "id": "recvkaPYi4Owsh",
-      "title": "你的摄影包中必备哪些配件？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/forums/threads/what-accessories-are-must-haves-in-your-kit.4836011/",
-      "publish_time": "2026-05-13T21:00:00+08:00",
-      "summary": "本文探讨摄影包中必备配件，包括电池、存储卡、滤镜等，强调实用性和便携性，帮助摄影师应对各种拍摄场景。",
-      "recommendation": "从电池、存储卡到滤镜，系统梳理摄影包必备配件，强调实用性与便携性，对新手快速配置装备有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "What accessories are must-haves in your photography kit?"
-    },
-    {
-      "id": "recvkaSm91lQ6Q",
-      "title": "2026年新版5DayDeal《摄影大师之路》现已上线",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/12/the-new-2026-5daydeal-photography-path-to-mastery-is-now-available.aspx/",
-      "publish_time": "2026-05-13T09:16:37+08:00",
-      "summary": "2026年5DayDeal摄影精通之路上线，价值超1500美元工具包仅售78美元，终身访问课程，部分收益捐赠慈善",
-      "recommendation": "78美元获取超1500美元摄影工具包，含终身课程与慈善捐赠，适合预算有限的爱好者系统提升技术。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The new 2026 5DayDeal “Photography Path To Mastery” is now available"
-    },
-    {
-      "id": "recvkaQ0Ds4C9C",
-      "title": "苹果悄然收购一款备受追捧的摄影工具",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/4253119292/apple-quietly-purchased-a-cult-favorite-photography-tool",
-      "publish_time": "2026-05-13T05:57:00+08:00",
-      "summary": "苹果收购了摄影工具Color.io，其创始人加入苹果，该工具以电影风格色彩和自定义模型著称，吸引高级创作者。",
-      "recommendation": "苹果收购Color.io，揭示其对专业摄影工具的战略布局。文章提供创始人加入苹果的独家信息，分析该工具的电影级色彩模型对高级创作者的吸引力，适合关注行业并购与影像技术趋势的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple quietly purchased a cult-favorite photography tool"
-    },
-    {
-      "id": "recvkaQ2QZyrFr",
-      "title": "松下Lumix L10开箱：我们迫不及待想上手",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/9932390584/panasonic-lumix-l10-unboxing",
-      "publish_time": "2026-05-13T01:02:00+08:00",
-      "summary": "松下Lumix L10是面向发烧友的固定镜头相机，采用26.5MP传感器（输出20MP）、24-75mm F1.7-2.8镜头和S1RII处理器，具备相位检测自动对焦和主体识别功能。",
-      "recommendation": "文章详解松下Lumix L10的26.5MP传感器与24-75mm F1.7-2.8镜头规格，含相位对焦和S1RII处理器信息，对关注固定镜头相机发烧友有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Panasonic Lumix L10 unboxing: we couldn't wait to get our hands on it"
-    },
-    {
-      "id": "recvkaSohpnlGc",
-      "title": "尼康Z5II固件更新版本1.11发布",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/12/nikon-z5ii-firmware-update-version-1-11-released.aspx/",
-      "publish_time": "2026-05-12T13:30:36+08:00",
-      "summary": "尼康发布Z5II固件1.11，修复待机定时器到期时光圈调整问题，美国降价250美元，PhotonstoPhotos公布其动态范围数据。",
-      "recommendation": "固件修复待机光圈问题，美国降价250美元，PhotonstoPhotos动态范围数据提供量化参考，适合Z5II用户关注性能优化与价格变动。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon Z5II firmware update version 1.11 released"
-    },
-    {
-      "id": "recvkaSqBkXozg",
-      "title": "Brightin Star发布适用于尼康Z卡口的7.5mm f/2.8 IV APS-C超广角鱼眼镜头",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/11/brightin-star-announced-a-new-7-5mm-f-2-8-iv-aps-c-ultra-wide-fisheye-lens-for-nikon-z-mount.aspx/",
-      "publish_time": "2026-05-11T21:29:33+08:00",
-      "summary": "Brightin Star发布尼康Z卡口7.5mm f/2.8 IV APS-C超广角鱼眼镜头，重274克，视野190°，支持后置滤镜，首发价139.99美元。",
-      "recommendation": "尼康Z卡口APS-C用户新增轻量超广角鱼眼选择，274克、190°视野与后置滤镜设计是亮点，首发价139.99美元具性价比。常规产品资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Brightin Star announced a new 7.5mm f/2.8 IV APS-C ultra-wide fisheye lens for Nikon Z-mount"
-    },
-    {
-      "id": "recvkaSsZ2PFwZ",
-      "title": "尼康新闻周刊第885期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/10/weekly-nikon-news-flash-885.aspx/",
-      "publish_time": "2026-05-11T10:28:29+08:00",
-      "summary": "2026年AI驱动NAND闪存需求激增，存储卡及设备价格大幅上涨，B&H销售Kolari Vision尼康Z5全光谱UV/IR相机法医版。",
-      "recommendation": "聚焦AI驱动NAND闪存涨价对存储卡市场的影响，并介绍尼康Z5全光谱相机法医版，为影像爱好者提供行业趋势与特殊设备信息。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #885"
-    },
-    {
-      "id": "recvkaSuY5UpRC",
-      "title": "三月CIPA数据",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/10/march-cipa-numbers.aspx/",
-      "publish_time": "2026-05-11T01:43:01+08:00",
-      "summary": "CIPA发布2026年3月相机生产数据，显示较1月和2月增长，且高于2025年同期。",
-      "recommendation": "CIPA三月数据揭示相机市场回暖趋势，提供关键生产量对比，助你判断行业走向。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "March CIPA numbers"
-    },
-    {
-      "id": "recvkaSx5B8NZM",
-      "title": "尼康2026财年业绩：利润下滑，目标2027财年复苏",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/08/nikon-fy2026-financial-results-profits-down-targets-recovery-in-fy2027.aspx/",
-      "publish_time": "2026-05-09T04:39:18+08:00",
-      "summary": "尼康2026财年营收2900亿日元，利润167亿日元，同比下滑，目标2027财年复苏。",
-      "recommendation": "尼康财报揭示其影像业务利润下滑，目标2027年复苏，含营收2900亿日元等关键数据，适合关注行业趋势的爱好者了解市场动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon FY2026 financial results: profits down, targets recovery in FY2027"
-    },
-    {
-      "id": "recvkaSzqyMmsr",
-      "title": "尼康R1C1无线微距闪光灯系统现已发售（最高优惠300美元）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/07/the-nikon-r1c1-wireless-close-up-speedlight-system-is-now-on-sale-up-to-300-off.aspx/",
-      "publish_time": "2026-05-08T08:08:00+08:00",
-      "summary": "尼康R1C1无线微距闪光灯系统现发售，最高优惠300美元，兼容支持CLS和i-TTL的尼康单反及Z系列无反相机。",
-      "recommendation": "微距摄影用户可关注尼康R1C1系统优惠，兼容单反与Z系列，最高省300美元，含CLS/i-TTL技术细节。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Nikon R1C1 wireless close-up Speedlight system is now on sale (up to $300 off)"
-    },
-    {
-      "id": "recvkaRJoHPQMS",
-      "title": "下一代智能手机摄像头：驱动创新的趋势",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/future-smartphone-imaging-trends/",
-      "publish_time": "2026-04-10T23:25:02+08:00",
-      "summary": "智能手机成像技术持续发展，驱动用户体验和产品差异化，制造商面临提升高质量结果挑战，文章首发于DXOMARK。",
-      "recommendation": "DXOMARK首发行业趋势分析，含多摄融合与计算摄影数据，适合关注手机影像技术迭代的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Next-Generation Smartphone Cameras: Trends Driving Innovation"
-    },
-    {
-      "id": "recvkaRLnf2YgY",
-      "title": "ThinkPad X1 Carbon Gen 14 Aura Edition 笔记本评测",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/lenovo-thinkpad-x1-carbon-gen-14-laptop-test/",
-      "publish_time": "2026-03-24T21:51:22+08:00",
-      "summary": "联想ThinkPad X1 Carbon Gen 14 Aura Edition在DXOMARK测试中，目标曝光准确稳定，对焦性能良好，综合表现优异。",
-      "recommendation": "DXOMARK测试数据揭示X1 Carbon Gen 14在目标曝光与对焦上的影像表现，为笔记本影像爱好者提供客观参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "ThinkPad X1 Carbon Gen 14 Aura Edition laptop test"
-    },
-    {
-      "id": "recvkaRNqoIt6s",
-      "title": "三星Galaxy S26 Ultra相机测试",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/samsung-galaxy-s26-ultra-camera-test/",
-      "publish_time": "2026-03-09T18:35:47+08:00",
-      "summary": "DXOMARK评测三星Galaxy S26 Ultra相机，从用户角度分析照片、视频和变焦质量，突出关键测试结果。",
-      "recommendation": "DXOMARK实测数据，含照片、视频、变焦多维度评分，对比竞品突出长焦与夜景表现，为购机提供量化参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Samsung Galaxy S26 Ultra Camera test"
-    },
-    {
-      "id": "recvkaRPBnMu9D",
-      "title": "谷歌Pixel 10a相机测试",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/google-pixel-10a-camera-test/",
-      "publish_time": "2026-03-05T21:00:57+08:00",
-      "summary": "DXOMARK对Google Pixel 10a进行相机评测，从照片、视频和变焦质量分析其表现，突出关键结果。",
-      "recommendation": "DXOMARK评测Pixel 10a相机，含照片、视频与变焦实测数据，揭示中端机型影像性能边界，适合关注谷歌算法迭代的用户。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 10a Camera test"
-    },
-    {
-      "id": "recvkaRRLMCVeR",
-      "title": "Tecno Camon 50 Ultra 5G 相机测试",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/tecno-camon-50-ultra-5g-camera-test/",
-      "publish_time": "2026-03-03T18:49:36+08:00",
-      "summary": "Tecno Camon 50 Ultra 5G在DXOMARK相机测试中，从用户角度评估照片、视频和变焦质量，分析多种场景表现，突出核心性能。",
-      "recommendation": "DXOMARK用户视角实测Tecno Camon 50 Ultra，含照片/视频/变焦多场景数据，为关注中端手机影像表现者提供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tecno Camon 50 Ultra 5G Camera test"
-    },
-    {
-      "id": "recvkaRU26o0MH",
-      "title": "理解人像偏好：DXOMARK在利雅得的洞察",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/understanding-portrait-preferences-dxomark-insights-in-riyadh/",
-      "publish_time": "2026-03-03T17:01:39+08:00",
-      "summary": "DXOMARK自2023年起全球开展Insights研究，聚焦消费者人像摄影偏好，超越传统指标，理解用户感知与期望，识别技术挑战，文章首发于利雅得洞察。",
-      "recommendation": "DXOMARK基于全球调研揭示消费者人像偏好，超越跑分指标，提供用户感知与技术挑战的深度视角，对理解计算摄影方向有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Understanding portrait preferences: DXOMARK Insights in Riyadh"
-    },
-    {
-      "id": "recvkaRWbhcxAm",
-      "title": "摩托罗拉Razr折叠屏相机测试",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/motorola-razr-fold-camera-test/",
-      "publish_time": "2026-03-02T12:51:59+08:00",
-      "summary": "DXOMARK对摩托罗拉Razr Fold折叠屏手机进行相机测试，从用户角度评估照片、视频和变焦质量，解析多项测试及常见场景表现，突出核心结果。",
-      "recommendation": "DXOMARK从用户场景切入，解析Razr折叠屏相机照片、视频与变焦实测数据，提供第三方客观量化评估，对关注折叠屏影像表现的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Motorola Razr Fold Camera Test"
-    },
-    {
-      "id": "recvkaRYdoamcF",
-      "title": "小米17 Ultra相机测试",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/xiaomi-17-ultra-camera-test/",
-      "publish_time": "2026-02-12T01:53:29+08:00",
-      "summary": "小米17 Ultra通过DXOMARK严格测试，从用户角度评估照片、视频和变焦质量，分析多种场景表现，突出核心结果。",
-      "recommendation": "DXOMARK实测小米17 Ultra，提供照片、视频与变焦的量化评分及场景分析，适合关注旗舰机影像基准的用户参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Xiaomi 17 Ultra Camera Test"
-    },
-    {
-      "id": "recvkaN2pXnMPC",
-      "title": "测试文章2",
-      "source": "PetaPixel",
-      "source_url": "https://example.com/test2",
-      "publish_time": "2023-11-15T06:13:20+08:00",
-      "summary": "这是一个测试",
-      "recommendation": "测试推荐",
-      "categories": [
-        "传感器硬件"
-      ],
-      "quality_score": 8,
-      "language": "中文",
-      "original_title": "Test Article 2"
     }
   ]
 }
