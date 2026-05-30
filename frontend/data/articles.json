@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-05-30T12:39:58.011317+08:00",
+    "updated_at": "2026-05-30T17:09:39.203228+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 135
+      "count": 134
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 22
+      "count": 21
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,57 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 206
+      "count": 207
     }
   ],
   "articles": [
+    {
+      "id": "recvl5PcavCcBO",
+      "title": "每周优惠：小米17T和17T Pro发布，可选平板套装",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_deals_xiaomi_17t_and_17t_pro_launch_with_optional_tablet_bundle-news-73045.php",
+      "publish_time": "2026-05-30T16:09:02+08:00",
+      "summary": "小米发布17T系列，起价较前代贵100欧元，升级50MP 5倍潜望式摄像头，支持微距和10倍无损变焦，搭配50MP主摄等。",
+      "recommendation": "小米17T系列升级50MP 5倍潜望长焦，支持微距与10倍无损变焦，起价上涨100欧元，影像爱好者可关注其长焦性能提升与定价策略。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly deals: Xiaomi 17T and 17T Pro launch with optional tablet bundle"
+    },
+    {
+      "id": "recvl5P7AfCx6a",
+      "title": "这张瞬间抓拍的鸟类照片展现了“一个真正非凡的时刻”，著名摄影比赛评委如此评价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-split-second-bird-photo-shows-a-truly-extraordinary-moment-captured-in-time-says-judge-of-prestigious-photography-competition",
+      "publish_time": "2026-05-30T15:45:00+08:00",
+      "summary": "规划时机和技巧将罕见日晕与鸟类瞬间抓拍成获奖照片，评委称其展现真正非凡时刻",
+      "recommendation": "解析鸟类抓拍与罕见日晕结合的摄影技巧，评委点评揭示瞬间抓拍的核心策略，对提升动态场景构图与时机把控有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This split-second bird photo shows \"a truly extraordinary moment captured in time\", says judge of prestigious photography competition"
+    },
+    {
+      "id": "recvl5P9PdooNp",
+      "title": "2026年最佳日常使用紧凑型相机",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/the-best-compact-camera-for-everyday-use-in-2026/",
+      "publish_time": "2026-05-30T15:18:51+08:00",
+      "summary": "2026年紧凑型相机因独特优势重新流行，本文推荐最佳日常使用机型，强调便携性与画质平衡，适合非专业用户。",
+      "recommendation": "盘点2026年紧凑型相机新品，聚焦便携与画质平衡，提供多款机型参数对比，适合非专业用户选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Compact Camera For Everyday Use in 2026"
+    },
     {
       "id": "recvl4JixfV0HQ",
       "title": "最适合新闻摄影师的索尼相机套件",
@@ -7782,54 +7829,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "How creating a challenge helped one creator find new inspiration"
-    },
-    {
-      "id": "recvkaPxKVBIvC",
-      "title": "团队热议相机发布狂潮周",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/videos/9500880484/dpreview-discussions-sony-a7rvi-canon-eos-r6v-launches",
-      "publish_time": "2026-05-15T21:00:00+08:00",
-      "summary": "DPReview团队讨论索尼a7R VI和FE 100-400mm镜头，以及佳能EOS R6 V和20-50mm F4 L IS USM PZ套机镜头，聚焦相机发布狂潮周的核心新品。",
-      "recommendation": "DPReview团队剖析索尼a7R VI与佳能EOS R6 V核心参数，含FE 100-400mm及20-50mm F4 PZ镜头实测观点，提供竞品对比与行业趋势洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The team discusses the wild week in camera releases"
-    },
-    {
-      "id": "recvkaSdjAM4At",
-      "title": "使用Aiarty Video Enhancer修复视频工作流中的软视频和低光噪点（终身授权享36%折扣+额外优惠券）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/14/fix-soft-video-and-low-light-noise-in-video-workflow-with-aiarty-video-enhancer-36-off-lifetime-license-extra-coupon.aspx/",
-      "publish_time": "2026-05-15T09:32:35+08:00",
-      "summary": "文章介绍Aiarty Video Enhancer修复4K N-Raw视频软度和低光噪点，提供终身授权36%折扣加额外优惠券",
-      "recommendation": "针对视频创作者，详解Aiarty修复低光噪点与软视频的实测效果，含4K N-Raw处理案例及终身授权折扣信息。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fix soft video and low-light noise in video workflow with Aiarty Video Enhancer (36% off lifetime license + extra coupon)"
-    },
-    {
-      "id": "recvkaPzNxvbuf",
-      "title": "大疆Osmo Pocket 4P预告暗示多摄像头设计",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/6252691480/dji-osmo-pocket-4p-teaser",
-      "publish_time": "2026-05-15T02:05:00+08:00",
-      "summary": "大疆预告Osmo Pocket 4P，暗示多摄像头设计，在戛纳电影节展示，称其从创作者工具演变为电影级成像设备。",
-      "recommendation": "大疆Osmo Pocket 4P多摄像头设计预告，从创作者工具迈向电影级成像，揭示便携影像设备新方向，对关注移动拍摄升级的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The DJI Osmo Pocket 4P teaser hints at a multi-camera design"
     }
   ]
 }
