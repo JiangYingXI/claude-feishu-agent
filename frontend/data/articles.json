@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-05-30T22:20:38.796184+08:00",
+    "updated_at": "2026-05-31T03:53:37.258926+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 132
+      "count": 131
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,62 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 369
+      "count": 370
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 210
+      "count": 211
     }
   ],
   "articles": [
+    {
+      "id": "recvl8reLuW0Td",
+      "title": "奥斯卡·王尔德临终诡异照片拍卖价高达37.5万美元，远超预售估价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/eerie-photograph-of-oscar-wilde-on-his-deathbed-sells-at-auction-for-whopping-us-usd375-000-blowing-pre-sale-estimates-out-of-the-water",
+      "publish_time": "2026-05-31T02:30:00+08:00",
+      "summary": "奥斯卡·王尔德临终照片拍卖价达37.5万美元，超出预售估价7400%，创下纪录。",
+      "recommendation": "从影像拍卖数据看历史照片价值飙升，37.5万美元成交价揭示摄影收藏市场趋势，对理解影像资产化有参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Eerie photograph of Oscar Wilde on his deathbed sells at auction for whopping US$375,000 – blowing pre-sale estimates out of the water"
+    },
+    {
+      "id": "recvl8rhehffXs",
+      "title": "这位空乘人员利用飞行中转时间，用佳能相机的自定义设置拍摄世界级野生动物摄影",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/this-cabin-crew-member-uses-flight-layovers-to-shoot-world-class-wildlife-photography-using-custom-settings-on-his-canon-camera",
+      "publish_time": "2026-05-30T23:20:00+08:00",
+      "summary": "空乘人员埃斯特班·弗雷利用飞行中转时间，使用佳能相机自定义设置拍摄世界级野生动物摄影，分享对冒险和摄影的热爱",
+      "recommendation": "空乘利用中转时间拍摄野生动物，展示佳能自定义设置的实际应用，提供非职业摄影师的高效创作思路与设备调参技巧。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This cabin crew member uses flight layovers to shoot world-class wildlife photography using custom settings on his Canon camera"
+    },
+    {
+      "id": "recvl8rjHX5s9K",
+      "title": "10美元花园摄影工作坊启动",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/the-garden-photography-workshop-launched-for-10/",
+      "publish_time": "2026-05-30T22:21:05+08:00",
+      "summary": "富士X系列用户Andrew S. Gibson出版《花园摄影工作坊》，折扣价10美元，原价15美元，提供多种套餐，文章首发于Fuji Rumors。",
+      "recommendation": "10美元富士花园摄影工作坊，提供X系列用户专属拍摄技巧与套餐选择，常规资讯，可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Garden Photography Workshop Launched for $10"
+    },
     {
       "id": "recvl757q4JpDy",
       "title": "Thypoch Simera 50mm f/1.4评测：清晰锐利",
@@ -7782,52 +7829,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Stock Notice: Canon RF 14mm f/1.4L VCM at Adorama"
-    },
-    {
-      "id": "recvkaS6DNBwGn",
-      "title": "尼康新闻周刊第886期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/17/weekly-nikon-news-flash-886.aspx/",
-      "publish_time": "2026-05-18T10:14:21+08:00",
-      "summary": "尼康Z卡口蔡司Otus ML 35mm f/1.4镜头到货，Nextorage存储卡促销，Think Tank Photo发布新款相机包，尼康新闻周刊第886期。",
-      "recommendation": "涵盖Z卡口蔡司Otus镜头到货、存储卡促销及相机包新品，为Z系统用户提供实用配件选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #886"
-    },
-    {
-      "id": "recvkaRyU5vSgD",
-      "title": "如何拍摄人们宁愿遗忘的历史，或无形之痛？两位日本摄影师给出截然不同的答案",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/fine-art-photography/how-do-you-photograph-history-that-people-would-rather-forget-or-grief-that-has-no-shape-two-japanese-photographers-give-very-different-answers",
-      "publish_time": "2026-05-18T05:20:00+08:00",
-      "summary": "展览配对两位日本摄影师作品，展示从广岛到东北的创伤艺术转化，探讨拍摄历史痛苦的不同方式",
-      "recommendation": "通过两位日本摄影师作品对比，探讨创伤影像的伦理与美学，提供历史题材拍摄的深度视角，适合寻求摄影叙事突破的创作者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How do you photograph history that people would rather forget, or grief that has no shape? Two Japanese photographers give very different answers"
-    },
-    {
-      "id": "recvkaRBcTQEuE",
-      "title": "“真希望从未拍过它”——阿伯凡灾难摄影师仍被获奖照片困扰",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/i-wish-id-never-taken-it-aberfan-disaster-photographer-still-haunted-by-his-award-winning-image",
-      "publish_time": "2026-05-18T02:20:00+08:00",
-      "summary": "阿伯凡灾难摄影师梅尔·帕里反思其获奖照片，称60年后仍被照片中警察抱受伤女孩的场景困扰。",
-      "recommendation": "从摄影师60年心理创伤切入，揭示纪实影像伦理困境与情感代价，对理解摄影社会责任有深度启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "\"I wish I’d never taken it\"–Aberfan disaster photographer still haunted by his award-winning image"
     }
   ]
 }
