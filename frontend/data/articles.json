@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-05-30T04:48:22.458670+08:00",
+    "updated_at": "2026-05-30T12:39:58.011317+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 18
+      "count": 19
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 137
+      "count": 135
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,57 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 205
+      "count": 206
     }
   ],
   "articles": [
+    {
+      "id": "recvl4JixfV0HQ",
+      "title": "最适合新闻摄影师的索尼相机套件",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/30/the-best-sony-camera-kit-for-photojournalists/",
+      "publish_time": "2026-05-30T12:00:00+08:00",
+      "summary": "索尼全画幅无反相机套件适合新闻摄影师，涵盖多种需求，提供高性能参数与数据，核心价值在于满足专业摄影要求。",
+      "recommendation": "解析索尼全画幅无反套件如何匹配新闻摄影需求，含机身与镜头参数对比及实战场景建议，对选购专业设备有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best Sony Camera Kit for Photojournalists"
+    },
+    {
+      "id": "recvl4JgAhiiKR",
+      "title": "Oppo Find X10、荣耀Magic9系列被曝测试1亿像素方形自拍传感器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_find_x10_honor_magic9_series_said_to_be_testing_a_100mp_square_selfie_sensor-news-73053.php",
+      "publish_time": "2026-05-30T09:02:02+08:00",
+      "summary": "Oppo Find X10和荣耀Magic9系列被曝将采用三星1亿像素方形自拍传感器，尺寸1/2.5英寸。",
+      "recommendation": "文章曝光Oppo Find X10和荣耀Magic9系列将采用三星1亿像素方形自拍传感器，尺寸1/2.5英寸，为关注前置影像升级的用户提供独家传感器参数与行业动向。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo Find X10, Honor Magic9 series said to be testing a 100MP square selfie sensor"
+    },
+    {
+      "id": "recvl4JefCs1nN",
+      "title": "Atmos：由摄影师为摄影师打造的天气应用",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/29/atmos-is-a-weather-app-by-photographers-for-photographers/",
+      "publish_time": "2026-05-30T05:15:54+08:00",
+      "summary": "摄影师Matthew Raifman开发Atmos天气应用，专为摄影提供天气条件判断，帮助摄影师把握最佳光线时机。",
+      "recommendation": "从摄影师需求切入天气应用，提供光线时机判断的实用工具，对风光摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Atmos Is a Weather App By Photographers, for Photographers"
+    },
     {
       "id": "recvl2OepWYmru",
       "title": "一部AI生成的“真人”电影长片将在翠贝卡电影节首映，原因不明",
@@ -7783,53 +7830,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The DJI Osmo Pocket 4P teaser hints at a multi-camera design"
-    },
-    {
-      "id": "recvkaSfmy2IWI",
-      "title": "今日特惠：尼康ZR相机在亚马逊英国降价16%",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/14/deal-of-the-day-the-nikon-zr-camera-is-now-16-off-at-amazon-uk.aspx/",
-      "publish_time": "2026-05-15T01:46:09+08:00",
-      "summary": "尼康ZR相机在亚马逊英国站降价16%，欧洲返利活动最高减1000欧元。",
-      "recommendation": "尼康ZR在英降价16%，欧洲返利最高减1000欧，适合观望用户参考价格动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deal of the day: the Nikon ZR camera is now 16% off at Amazon UK"
-    },
-    {
-      "id": "recvkaPCgr89dc",
-      "title": "这位摄影师用800mm镜头锁定瞬间",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/9443175828/this-photographer-uses-an-800mm-to-lock-onto-split-second-moments",
-      "publish_time": "2026-05-14T22:00:00+08:00",
-      "summary": "摄影师Alan Randle使用尼康Z9与800mm镜头，以1/4000秒快门拍摄冲浪锦标赛，通过预判动作捕捉巅峰瞬间。",
-      "recommendation": "通过1/4000秒快门与预判技巧，解析超长焦在动态场景的实战价值，提供冲浪摄影的独家参数与构图思路。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This photographer uses an 800mm to lock onto split-second moments"
-    },
-    {
-      "id": "recvkaPEuuPF7u",
-      "title": "Thypoch 公布其自动对焦变焦镜头的近似定焦价格",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/6296852418/thypoch-24-50-f2p8-zoom-announced-price",
-      "publish_time": "2026-05-14T20:00:00+08:00",
-      "summary": "Thypoch公布其首款全画幅自动对焦变焦镜头Voyager 24-50mm F2.8 AF的完整细节和价格，价格接近定焦镜头，是亮点。",
-      "recommendation": "Thypoch自动对焦变焦镜头定价接近定焦，打破传统定价逻辑，对追求性价比的影像爱好者有参考价值。文章提供完整规格与价格数据，可了解市场新动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Thypoch reveals the prime-like price of its autofocus zoom"
     }
   ]
 }
