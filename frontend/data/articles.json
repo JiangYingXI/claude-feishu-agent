@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-05-31T22:24:06.234093+08:00",
+    "updated_at": "2026-06-01T03:54:28.484478+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 129
+      "count": 130
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,141 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 36
+      "count": 35
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 370
+      "count": 367
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 214
+      "count": 215
     }
   ],
   "articles": [
+    {
+      "id": "recvlehTjAIWD6",
+      "title": "Chris Yan的春节摄影系列：用色彩与构图诠释意义的典范",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/travel-photography/chris-yans-photo-series-about-a-chinese-new-year-festival-is-a-masterclass-in-using-color-and-framing-to-evoke-meaning",
+      "publish_time": "2026-06-01T03:30:00+08:00",
+      "summary": "北京摄影师Chris Yan凭借商业摄影专业知识和视觉精准度，通过色彩与构图记录社火传统，诠释春节文化意义。",
+      "recommendation": "解析商业摄影师如何用色彩与构图重构社火传统，提供可复用的节日摄影构图技巧与色彩搭配思路。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Chris Yan's photo series about a Chinese New Year festival is a masterclass in using color and framing to evoke meaning"
+    },
+    {
+      "id": "recvlehP2G6FdF",
+      "title": "轻松拍出惊人微距照片的摄影技巧",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/31/easy-macro-photography-tips-for-incredible-close-up-photos/",
+      "publish_time": "2026-06-01T03:00:34+08:00",
+      "summary": "本指南介绍微距摄影技巧，涵盖花卉昆虫等拍摄，推荐相机设置、灯光、镜头、柔光器及焦点堆叠，助你提升特写图像清晰度。",
+      "recommendation": "从相机设置到柔光器、焦点堆叠，系统拆解微距拍摄痛点，提供可复用的参数与器材建议，适合想提升花卉昆虫特写清晰度的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Easy Macro Photography Tips for Incredible Close-Up Photos"
+    },
+    {
+      "id": "recvlehVo3MMty",
+      "title": "2026年6月天文摄影指南：准备好相机，本月拍摄月亮与星辰",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/astrophotography-in-june-2026-get-your-camera-ready-to-photograph-the-moon-and-the-stars-this-month",
+      "publish_time": "2026-06-01T02:00:00+08:00",
+      "summary": "2026年6月天文摄影指南，涵盖月亮与星辰拍摄技巧，提供最佳拍摄时间与设备参数，助你捕捉夜空之美",
+      "recommendation": "提供2026年6月天文摄影的拍摄时间、设备参数与技巧，对月亮与星辰爱好者有实用指导价值。内容偏常规资讯，可了解当月拍摄动态。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Astrophotography in June 2026: get your camera ready to photograph the moon and the stars this month"
+    },
+    {
+      "id": "recvlei1yJeFkv",
+      "title": "尼康慕尼黑服务公司运营47年后申请破产/无力偿债",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/05/31/after-47-years-nikon-service-munich-files-for-bankruptcy-insolvency.aspx/",
+      "publish_time": "2026-06-01T00:21:57+08:00",
+      "summary": "尼康慕尼黑服务公司运营47年后申请破产，自2026年3月18日起进入初步破产程序，6月1日转为正式破产程序并停止运营。",
+      "recommendation": "尼康慕尼黑服务公司破产事件，揭示传统相机售后体系面临的财务压力，对关注品牌长期服务保障的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "After 47 years Nikon Service Munich files for bankruptcy/insolvency"
+    },
+    {
+      "id": "recvlehRsa7BJ6",
+      "title": "摄影意图的神话",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/31/beyond-the-shutter-the-myth-of-intent/",
+      "publish_time": "2026-05-31T23:30:11+08:00",
+      "summary": "摄影界面临真实性危机，AI生成图像与照片难以区分，评委、观众甚至专家均无法分辨，引发对摄影意图的质疑。",
+      "recommendation": "探讨AI生成图像与照片难以区分的真实性危机，揭示评委与专家均无法分辨的现状，对影像爱好者理解摄影意图本质有深度启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Myth of Intent in Photography"
+    },
+    {
+      "id": "recvlehXeWazzS",
+      "title": "这张1933年纳粹焚书事件的诡异照片，以令人恐惧的方式展示了快门速度的重要性",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/this-eerie-photograph-of-the-1933-nazi-book-burning-images-demonstrates-the-importance-of-shutter-speed-in-a-terrifying-way",
+      "publish_time": "2026-05-31T23:20:00+08:00",
+      "summary": "这张1933年纳粹焚书事件的慢速快门照片，通过捕捉动态模糊和恐怖氛围，展示了快门速度对历史瞬间记录的关键作用。",
+      "recommendation": "通过1933年历史照片案例，直观解析慢速快门对动态模糊与氛围营造的影响，为摄影爱好者提供技术参数与历史叙事的交叉视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This eerie photograph of the 1933 Nazi book-burning images demonstrates the importance of shutter speed in a terrifying way"
+    },
+    {
+      "id": "recvlei3xqjM0P",
+      "title": "超级优惠已结束，但XF镜头大促还剩8天",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/one-super-deal-is-gone-but-there-are-8-days-left-to-save-big-on-xf-lenses/",
+      "publish_time": "2026-05-31T23:17:33+08:00",
+      "summary": "富士龙XF镜头大额优惠还剩8天，6月7日结束；其他X和GFX优惠持续至6月28日。X-S20套装已售罄。",
+      "recommendation": "富士XF镜头大促倒计时提醒，含X-S20售罄等市场动态，对计划购入富士镜头的用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "One Super-Deal is Gone, but There are 8 Days Left to Save Big on XF Lenses"
+    },
+    {
+      "id": "recvlehZmfxLIs",
+      "title": "2026年全品牌人像摄影最佳镜头推荐",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/best-lenses-for-portrait-photography-across-all-brands-in-2026/",
+      "publish_time": "2026-05-31T22:31:50+08:00",
+      "summary": "2026年全品牌人像摄影最佳镜头推荐，涵盖85mm定焦、70-200mm变焦及50mm镜头，强调不同镜头满足不同需求，核心价值在于提供多样化选择。",
+      "recommendation": "涵盖85mm、70-200mm及50mm三大焦段，提供2026年全品牌人像镜头横向对比，含光圈值与适用场景分析，适合选购参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Best Lenses for Portrait Photography Across All Brands in 2026"
+    },
     {
       "id": "recvlcWBKIv482",
       "title": "做YouTube和内容创作，你到底需要多好的相机？",
@@ -7706,129 +7827,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Film Photography for Street Photographers: The Basics"
-    },
-    {
-      "id": "recvkaR1ivHlOD",
-      "title": "告别猜测！用Lightroom Classic色轮和这份调色速查表掌握电影感风格",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/stop-guessing-with-lightroom-classic-color-wheels-and-master-cinematic-style-with-this-color-grading-cheat-sheet",
-      "publish_time": "2026-05-19T16:21:17+08:00",
-      "summary": "Lightroom Classic色轮与调色速查表可精准实现电影感风格，告别盲目调色，核心在于颜色分级工具的阴影、中间调和高光独立控制。",
-      "recommendation": "本文提供Lightroom Classic色轮与调色速查表，精准控制阴影、中间调和高光，解决电影感调色痛点，适合追求风格化影像的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Stop guessing with Lightroom Classic color wheels and master cinematic style with this color grading cheat sheet!"
-    },
-    {
-      "id": "recvkaTjCE64Y2",
-      "title": "融合自然光与闪光灯，打造更佳人像摄影",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/19/effectively-blend-strobe-light-natural-light-copy/",
-      "publish_time": "2026-05-19T15:00:00+08:00",
-      "summary": "文章探讨室外人像摄影中融合自然光与闪光灯的技术，强调闪光灯功率、创意愿景等因素对效果的影响，核心在于平衡两者以提升照片质量。",
-      "recommendation": "解析自然光与闪光灯融合技巧，提供功率平衡与创意应用等实操要点，适合提升人像摄影质感的爱好者参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Blending Natural Light and Strobe Light for Better Portrait Photography"
-    },
-    {
-      "id": "recvkaS4zrcGVq",
-      "title": "尼康日本宣布Z50II相机及部分其他产品涨价",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/19/nikon-japan-announced-a-price-increase-on-the-z50ii-camera-and-a-few-other-products.aspx/",
-      "publish_time": "2026-05-19T12:25:53+08:00",
-      "summary": "尼康日本宣布自2026年6月1日起对Z50II相机及套机涨价，目前未知是否影响其他地区。",
-      "recommendation": "尼康Z50II涨价公告，提供具体生效日期和产品范围，对关注APS-C市场及购机时机的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon Japan announced a price increase for the Z50II camera and a few other products"
-    },
-    {
-      "id": "recvkaTlW6MrXb",
-      "title": "从Minor White学到的三个景观摄影技巧",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/19/creating-better-compositions-landscape-lessons-from-minor-white-copy/",
-      "publish_time": "2026-05-19T12:00:00+08:00",
-      "summary": "文章从Minor White的摄影教学中提炼三个景观技巧，强调其一生教授摄影原理，核心价值在于用其照片作为构图教材，传授引人入胜的风景摄影方法。",
-      "recommendation": "从大师教学提炼三大景观技巧，以经典照片为构图教材，提供可操作的摄影原理，对提升构图与审美有直接价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "3 Landscape Lessons from Minor White"
-    },
-    {
-      "id": "recvkaR3jFyDG9",
-      "title": "2026年艾比路音乐摄影奖开放投稿，Rankin、Nile Rodgers和Raye等明星评委阵容揭晓",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/rankin-nile-rodgers-and-raye-among-star-studded-judging-panel-as-abbey-road-music-photography-awards-2026-opens-for-entries",
-      "publish_time": "2026-05-19T07:01:00+08:00",
-      "summary": "2026年艾比路音乐摄影奖开放投稿，传奇摄影师罗伯塔·贝利将获偶像奖，评委包括Rankin、Nile Rodgers和Raye。",
-      "recommendation": "文章披露2026年艾比路音乐摄影奖评委阵容及偶像奖得主，为关注音乐摄影的爱好者提供投稿窗口与行业风向标。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Rankin, Nile Rodgers and Raye among star-studded judging panel as Abbey Road Music Photography Awards 2026 opens for entries"
-    },
-    {
-      "id": "recvkaP6P3SBko",
-      "title": "富士胶片携Instax开启夏季巡展之旅",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/18/fujifilm-is-taking-instax-on-the-road-with-a-summer-tour/",
-      "publish_time": "2026-05-19T05:50:01+08:00",
-      "summary": "富士胶片今夏启动2026年Instax Capture the Joy Tour全国巡展，让消费者体验即时相机与智能手机打印机等产品。",
-      "recommendation": "富士Instax巡展为即时摄影爱好者提供线下体验机会，可亲手试用相机与手机打印机，了解产品功能细节。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm Is Taking Instax on the Road With a Summer Tour"
-    },
-    {
-      "id": "recvkaP8XwlbVE",
-      "title": "AI生成‘照片’被哈苏大师赛2026取消资格",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/18/ai-generated-photo-disqualified-from-hasselblad-masters-2026/",
-      "publish_time": "2026-05-19T05:00:21+08:00",
-      "summary": "哈苏取消被指控使用生成式AI的摄影师参加2026年大师赛资格，强调比赛真实性原则。",
-      "recommendation": "文章揭示哈苏对AI生成内容的明确态度，为摄影师提供赛事真实性红线参考，是行业规则演进的即时记录。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "AI-Generated ‘Photo’ Disqualified From Hasselblad Masters 2026"
-    },
-    {
-      "id": "recvkaR5k4vVqO",
-      "title": "紧凑型相机存在恼人的发热问题，佳能PowerShot V1是为数不多能自行散热的卡片机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/compact-cameras-have-a-key-problem-that-gets-worse-in-the-summer-the-canon-powershot-v1-has-a-rare-fix",
-      "publish_time": "2026-05-19T03:53:36+08:00",
-      "summary": "紧凑型相机普遍存在发热问题，佳能PowerShot V1因内置主动散热系统成为少数能自行散热的卡片机",
-      "recommendation": "解析佳能PowerShot V1主动散热系统，对比紧凑型相机普遍发热痛点，提供拆机实测与散热方案数据，对关注卡片机性能的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Compact cameras have an annoying heat problem. The Canon PowerShot V1 is one of the few point-and-shoots that cools itself"
     }
   ]
 }
