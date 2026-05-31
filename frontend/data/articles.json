@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-05-31T17:39:00.704086+08:00",
+    "updated_at": "2026-05-31T22:24:06.234093+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 132
+      "count": 129
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,166 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 36
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 372
+      "count": 370
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 211
+      "count": 214
     }
   ],
   "articles": [
+    {
+      "id": "recvlcWBKIv482",
+      "title": "做YouTube和内容创作，你到底需要多好的相机？",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/how-much-camera-do-you-really-need-for-youtube-and-content-creation/",
+      "publish_time": "2026-05-31T21:45:42+08:00",
+      "summary": "文章指出YouTube成功创作者并非依赖旗舰相机，许多使用普通相机也能获得数百万播放量，强调内容比设备更重要。",
+      "recommendation": "打破设备迷信，用真实案例论证内容为王，适合纠结器材升级的创作者参考，提供数据支撑而非空谈。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How Much Camera Do You Really Need for YouTube and Content Creation?"
+    },
+    {
+      "id": "recvlcWLiU9V6n",
+      "title": "GoPro揭秘：可换镜头相机究竟为谁而造",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/3499820161/gopro-mission-pro-1-ils-audience-filmmakers",
+      "publish_time": "2026-05-31T21:00:00+08:00",
+      "summary": "GoPro发布Mission 1和Mission 1 Pro运动相机，并预告可换镜头型号，视频展示拍摄镜头与幕后花絮，揭示目标用户为专业创作者。",
+      "recommendation": "GoPro可换镜头运动相机预告，揭示目标用户为专业创作者。含幕后花絮与镜头设计思路，对运动影像爱好者有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "GoPro reveals who its interchangeable lens camera is really for"
+    },
+    {
+      "id": "recvlcWQkZhyx5",
+      "title": "索尼A7rVI YouTube评测汇总",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-sony-a7rvi-youtube-reviews-roundup/",
+      "publish_time": "2026-05-31T20:12:05+08:00",
+      "summary": "索尼A7rVI在多家电商平台预售，搭配100-400mm GM镜头及配件，YouTube评测汇总首发于sonyalpharumors。",
+      "recommendation": "汇总YouTube博主对A7rVI的评测，涵盖高像素传感器与对焦性能实测，提供多角度样张对比，适合关注索尼全画幅微单的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Sony A7rVI youtube reviews roundup"
+    },
+    {
+      "id": "recvlcWEiBRZ7z",
+      "title": "拍摄大卫·鲍伊：“他建立了所有证据。所以我必须摧毁它们……”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photographing-david-bowie-hed-built-up-all-the-evidence-so-then-i-had-to-destroy-them",
+      "publish_time": "2026-05-31T20:10:00+08:00",
+      "summary": "六位摄影师分享拍摄大卫·鲍伊的经历，揭示这位形象意识极强的明星如何建立并摧毁自己的视觉证据，提供独特个人见解。",
+      "recommendation": "六位摄影师亲述拍摄大卫·鲍伊的幕后，揭示其如何通过影像建立并摧毁视觉身份。对肖像摄影爱好者，提供构图、光线与人物心理互动的实战案例。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Photographing David Bowie: \"He'd built up all the evidence. So then I had to destroy them…\""
+    },
+    {
+      "id": "recvlcWGtaRfsj",
+      "title": "Valoi easy35 v2评测：我最喜欢的胶片扫描仪更值得推荐了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/valoi-easy35-v2-review",
+      "publish_time": "2026-05-31T20:00:00+08:00",
+      "summary": "Valoi easy35 v2采用更好材料和改进支架，简化控制，保持快速相机扫描流程，解决原版问题，成为更值得推荐的胶片扫描仪。",
+      "recommendation": "评测Valoi easy35 v2的材质升级与支架改进，提供胶片扫描仪快速流程的实测数据，解决原版痛点，对胶片爱好者有实用参考价值。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Valoi easy35 v2 review: my favorite film scanner just got easier to recommend"
+    },
+    {
+      "id": "recvlcWz0Zn9Yp",
+      "title": "三星的竞争对手拥有比三星更好的三星相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/05/31/samsungs-competitors-have-a-better-samsung-camera-than-samsung-does/",
+      "publish_time": "2026-05-31T19:00:02+08:00",
+      "summary": "三星虽以Galaxy S系列相机闻名，但已不再引领移动相机硬件发展，其竞争对手推出了更优的三星相机。",
+      "recommendation": "剖析三星相机硬件策略转变，揭示竞争对手如何超越三星。提供传感器供应链独家视角，助影像爱好者理解行业格局。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Samsung’s Competitors Have a Better Samsung Camera Than Samsung Does"
+    },
+    {
+      "id": "recvlcWICPV9ku",
+      "title": "这些获奖照片以最怀旧的方式触动心弦",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/these-award-winning-photos-pull-on-all-the-heartstrings-in-the-most-nostalgic-way",
+      "publish_time": "2026-05-31T18:45:00+08:00",
+      "summary": "OpenWalls Spotlight Awards获奖照片以怀旧方式触动心弦，唤起对家和逝去时光的深切渴望。",
+      "recommendation": "解析获奖照片的怀旧美学，提供构图与情感表达的深度观点，对手机摄影爱好者有创作启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These award-winning photos pull on all the heartstrings in the most nostalgic way"
+    },
+    {
+      "id": "recvlcWSPCY99Z",
+      "title": "为什么追求更多点赞正在毁掉你的摄影生涯",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/05/31/the-brutal-truth-about-social-media-and-your-art-copy/",
+      "publish_time": "2026-05-31T18:00:00+08:00",
+      "summary": "社交媒体算法重视频轻照片，点赞机制损害摄影创作。平台问题而非作品问题，特设摄影师作品集评审计划以应对。",
+      "recommendation": "剖析社交媒体点赞机制对摄影创作的负面影响，提供摄影师作品集评审计划应对方案，适合反思创作方向的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Getting More Likes Is Killing Your Photography Career"
+    },
+    {
+      "id": "recvlcWNLXOYlx",
+      "title": "每周优惠：小米17T系列降价开售，Galaxy S26 Ultra、iPhone Air等多款机型折扣来袭",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_deals_xiaomi_17t_duo_go_on_sale_with_price_cuts_plus_discounts_on_galaxy_s26_ultra_iphone_air-news-73054.php",
+      "publish_time": "2026-05-31T17:31:02+08:00",
+      "summary": "小米17T系列降价开售，17T降150英镑，17T Pro降200英镑，三星Galaxy、谷歌Pixel 10等机型也有折扣。",
+      "recommendation": "汇总小米17T系列及多款旗舰降价信息，含具体降幅数据，助影像爱好者把握购机时机。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly deals: Xiaomi 17T duo go on sale with price cuts, plus discounts on Galaxy S26 Ultra, iPhone Air and more"
+    },
     {
       "id": "recvlbN2oa4H9u",
       "title": "柯达曾卖出5000万台这种廉价塑料相机，为何它们突然消失了？",
@@ -7688,148 +7829,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Compact cameras have an annoying heat problem. The Canon PowerShot V1 is one of the few point-and-shoots that cools itself"
-    },
-    {
-      "id": "recvkaTo9KWZ9K",
-      "title": "这位摄影师自制了一台相机，视角比任何市售相机都广",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/18/this-photographer-built-a-camera-that-shoots-wider-than-any-camera-you-can-buy/",
-      "publish_time": "2026-05-19T03:00:00+08:00",
-      "summary": "一位摄影师用破损苏联相机自制视角更广的全景相机，复兴濒危摄影格式",
-      "recommendation": "自制超广角相机案例，展示濒危全景格式的复兴可能，含苏联相机改造细节与视角数据，对摄影器材爱好者有技术启发。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Photographer Built a Camera That Shoots Wider Than Any Camera You Can Buy"
-    },
-    {
-      "id": "recvkaR7eQ4ZyT",
-      "title": "开什么玩笑？史上最具标志性的蝙蝠侠漫画推出价值17500美元的尊享版，外形酷似相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/is-this-a-joke-the-most-iconic-batman-comic-of-all-time-gets-a-us-usd17-500-prestige-edition-that-looks-like-a-camera",
-      "publish_time": "2026-05-19T01:33:41+08:00",
-      "summary": "经典蝙蝠侠图像小说《致命玩笑》推出价值17500美元的尊享版，外形酷似相机，吸引摄影师",
-      "recommendation": "蝙蝠侠漫画跨界推出相机造型尊享版，揭示影像与流行文化融合趋势，提供跨界设计灵感与收藏市场新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is this a joke? The most iconic Batman comic of all time gets a US$17,500 prestige edition that looks like a camera"
-    },
-    {
-      "id": "recvkaR93U0J5u",
-      "title": "苹果收购单人照片编辑软件应用：它葫芦里卖的什么药？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/software/apple-buys-one-person-photo-editing-software-application-whats-it-got-up-its-sleeve",
-      "publish_time": "2026-05-19T00:33:05+08:00",
-      "summary": "苹果在创意软件扩张之年收购了备受追捧的电影模拟工具Color.io，以增强其照片编辑能力。",
-      "recommendation": "解析苹果收购Color.io的战略意图，揭示其如何通过电影模拟工具强化计算摄影能力，对关注手机影像算法演进方向有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple buys one-person photo editing software application: What’s it got up its sleeve?"
-    },
-    {
-      "id": "recvkaRb8DJpqv",
-      "title": "尼康削减高管薪酬，相机巨头寻求扭转营收下滑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/nikon-cuts-executive-pay-as-camera-giant-looks-to-turn-around-declining-revenue",
-      "publish_time": "2026-05-19T00:20:35+08:00",
-      "summary": "尼康因收入下滑，今年将削减董事和高管薪酬高达10%，以扭转营收下滑趋势。",
-      "recommendation": "尼康削减高管薪酬反映相机行业营收困境，对关注品牌动向的影像爱好者有参考价值，但无独家数据，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon cuts executive pay as camera giant looks to turn around declining revenue"
-    },
-    {
-      "id": "recvkaTqdmaUIm",
-      "title": "这套玛米亚相机套装拍出5000美元高价",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/18/this-mamiya-camera-kit-fetched-over-5000/",
-      "publish_time": "2026-05-19T00:00:00+08:00",
-      "summary": "玛米亚7 II中画幅胶片相机套件在eBay以5000美元高价成交，显示老式相机仍受摄影师青睐。",
-      "recommendation": "玛米亚7 II中画幅套件5000美元成交价，揭示胶片相机收藏与实用价值，提供二手市场定价参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Mamiya Camera Kit Fetched Over $5000"
-    },
-    {
-      "id": "recvkaRd7F5kah",
-      "title": "“可能是世界上最好的70-200mm变焦镜头”的继任者成为日本最畅销镜头——几乎全方位升级",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/probably-the-best-70-200mm-zoom-in-the-world-successor-just-became-the-1-selling-lens-in-japan-its-improved-in-almost-every-way",
-      "publish_time": "2026-05-18T23:55:16+08:00",
-      "summary": "被誉为最佳远摄变焦镜头的继任者，几乎全方位升级，登顶日本最新销售排行榜。",
-      "recommendation": "解析70-200mm镜头继任者全方位升级细节，提供日本市场销量数据与产品迭代对比，适合关注高端变焦镜头的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "\"Probably the best 70-200mm zoom in the world\" successor just became the #1 selling lens in Japan – it's improved in almost every way"
-    },
-    {
-      "id": "recvkaSG3fEpOM",
-      "title": "中国镜头制造商为富士X和GFX系统推出多款新型自动对焦镜头",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/chinese-lens-makers-unleash-wave-of-new-autofocus-lenses-for-fujifilm-x-and-gfx/",
-      "publish_time": "2026-05-18T23:53:18+08:00",
-      "summary": "中国镜头制造商在P&E展会上为富士X和GFX系统推出多款自动对焦镜头，完整列表及详情见Fuji Rumors文章。",
-      "recommendation": "汇总P&E展会国产厂商为富士X/GFX系统推出的多款自动对焦镜头，含完整列表与规格，适合关注富士副厂镜头选择的用户快速了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Chinese Lens Makers Unleash Wave of New Autofocus Lenses for Fujifilm X and GFX"
-    },
-    {
-      "id": "recvkaRgkCPbcX",
-      "title": "索尼RX100 VII成为读者最常购买的紧凑型相机——现在直降200美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-sony-rx100-vii-is-our-readers-most-bought-compact-camera-and-now-its-usd200-off",
-      "publish_time": "2026-05-18T23:50:20+08:00",
-      "summary": "索尼RX100 VII紧凑型相机在亚马逊直降200美元，成为读者最常购买的机型，具备核心技术参数",
-      "recommendation": "文章提供RX100 VII降价200美元的实时行情，并揭示其成为读者最常购机型，对关注便携高性能相机的用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Sony RX100 VII is our readers' most bought compact camera – and now it's $200 off"
-    },
-    {
-      "id": "recvkaPmxtE8cC",
-      "title": "上手松下L10：2026年最令人兴奋的相机（迄今为止）",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/9011490317/panasonic-l10-2026-tour-controls-changes",
-      "publish_time": "2026-05-18T23:00:00+08:00",
-      "summary": "松下L10是LX100系列继承者，采用四分之三传感器，使用最大182mm²区域，比1英寸传感器大50%，搭配24-75mm F1.7-2.8镜头，通过1.1倍裁切实现紧凑设计。",
-      "recommendation": "文章披露松下L10采用四分之三传感器182mm²区域及1.1倍裁切设计，对关注便携高性能相机的用户有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Hands on with the Panasonic L10: the most exciting camera of 2026 (so far)"
     }
   ]
 }
