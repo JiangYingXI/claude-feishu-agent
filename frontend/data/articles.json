@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-02T02:31:27.364743+08:00",
+    "updated_at": "2026-06-02T05:54:41.813641+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 20
+      "count": 19
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 130
+      "count": 129
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,109 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 369
+      "count": 370
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 216
+      "count": 217
     }
   ],
   "articles": [
+    {
+      "id": "recvlkCKAMQfDc",
+      "title": "一加Turbo 6X和Turbo 6X Pro规格及图片曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oneplus_turbo_6x_and_turbo_6x_pro_specs_and_images_are_out-news-73074.php",
+      "publish_time": "2026-06-02T05:44:02+08:00",
+      "summary": "一加将推出Turbo 6X和6X Pro，配备6.72英寸144Hz LCD屏、天玑7400处理器、7000mAh电池，提供多种存储配置。",
+      "recommendation": "常规资讯，可了解行业动态。文章曝光一加Turbo 6X系列规格，但未提及影像核心参数（如传感器型号、光圈），对影像爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "OnePlus Turbo 6X and Turbo 6X Pro specs and images are out"
+    },
+    {
+      "id": "recvlkCMPYCE9p",
+      "title": "冰宇宙分享iPhone折叠屏（白色/银色）照片",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/photo_of_the_iphone_fold_in_white_silver_shared_by_ice_universe-news-73075.php",
+      "publish_time": "2026-06-02T04:12:01+08:00",
+      "summary": "冰宇宙分享iPhone折叠屏照片，显示苹果首款折叠设备为宽屏风格，展开尺寸120.6x167.6毫米，折叠厚度9.23毫米（含摄像头凸起13毫米）",
+      "recommendation": "曝光iPhone折叠屏外观尺寸及厚度数据，含摄像头凸起参数，对关注苹果影像形态的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photo of the iPhone Fold (in white/silver) shared by Ice Universe"
+    },
+    {
+      "id": "recvlkCG6pqcLB",
+      "title": "新款50美元Y2K风格紧凑相机：外形与功能均显纤薄",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/01/new-50-y2k-inspired-compact-camera-is-thin-in-form-and-function/",
+      "publish_time": "2026-06-02T04:07:59+08:00",
+      "summary": "新款Leaf相机以50美元低价主打Y2K复古风格，外形纤薄，试图成为下一个柯达PixPro的平价数码相机。",
+      "recommendation": "解析50美元Y2K复古相机Leaf的纤薄设计与市场定位，对比柯达PixPro，提供平价数码相机趋势的实用洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New $50 Y2K-Inspired Compact Camera Looks Thin In Form and Function"
+    },
+    {
+      "id": "recvlkCItso4WZ",
+      "title": "微距摄影必备器材大省",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/01/save-big-on-macro-photography-essentials/",
+      "publish_time": "2026-06-02T03:17:07+08:00",
+      "summary": "微距摄影升级必备：专用镜头、环形闪光灯、三脚架、对焦导轨等配件超值优惠，助你拍出更出色特写照片。",
+      "recommendation": "文章系统梳理微距摄影核心配件，含专用镜头、环形闪光灯等实用推荐，对入门用户有明确选购指导，但缺乏独家数据或深度对比。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Save Big on Macro Photography Essentials"
+    },
+    {
+      "id": "recvlkCONR2v1A",
+      "title": "4款配备出色LCD屏幕的最佳相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/01/the-4-best-cameras-with-fantastic-lcds/",
+      "publish_time": "2026-06-02T03:00:00+08:00",
+      "summary": "文章介绍四款配备出色LCD屏幕的相机，强调在预算内获得最佳显示屏对摄影师的重要性，适合依赖屏幕而非取景器的用户。",
+      "recommendation": "针对依赖屏幕而非取景器的用户，提供四款相机LCD屏的横向对比，含具体亮度、色准数据，帮助预算内选机。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 4 Best Cameras with Fantastic LCDs"
+    },
+    {
+      "id": "recvlkCQMVp9PT",
+      "title": "佳能是否会为微单卡口复活其标志性EF镜头？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/01/will-canon-revive-its-iconic-ef-for-mirrorless-mount/",
+      "publish_time": "2026-06-02T03:00:00+08:00",
+      "summary": "佳能新专利可能复活EF经典镜头如85mm f1.2 L，用于微单卡口，提升无反系统性能。",
+      "recommendation": "解析佳能专利动向，探讨经典EF镜头转微单卡口的可能性，为RF系统用户提供镜头升级的深度参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Will Canon Revive its Iconic EF for Mirrorless Mount?"
+    },
     {
       "id": "recvljNylaz30X",
       "title": "尼康ZR最新配件：贴膜、兔笼、水下外壳、第三方应用",
@@ -7737,100 +7831,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Where can I pre-order the Canon EOS R6V camera? Here's how to get your hands on the new 7K video flagship"
-    },
-    {
-      "id": "recvkaT3aAMzac",
-      "title": "适马新款平价长焦镜头或吸引鸟类观察者",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/20/sigmas-new-affordable-telephoto-lenses-may-interest-birders/",
-      "publish_time": "2026-05-20T18:39:40+08:00",
-      "summary": "适马研发新专利，推出平价长焦镜头如100-400mm等，旨在提升鸟类与野生动物摄影性能",
-      "recommendation": "适马平价长焦专利曝光，100-400mm等规格或降低鸟类摄影门槛，提供镜头市场新选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sigma’s New Affordable Telephoto Lenses May Interest Birders"
-    },
-    {
-      "id": "recvkaOIjZ6ULV",
-      "title": "这款新手友好的35mm相机仅需50美元，还附赠两卷胶卷",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/this-beginner-friendly-35mm-camera-comes-with-two-rolls-of-film-for-just-50/",
-      "publish_time": "2026-05-20T18:16:21+08:00",
-      "summary": "英国Analogue Wonderland推出50美元Pure35相机，附赠两卷胶卷，适合胶片摄影新手入门。",
-      "recommendation": "50美元入门胶片机附赠胶卷，降低新手尝试门槛，提供低成本的胶片摄影体验。常规产品资讯，可了解入门级市场动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Beginner-Friendly 35mm Camera Comes With Two Rolls of Film For Just $50"
-    },
-    {
-      "id": "recvkaT533yrgb",
-      "title": "新纪实摄影师需要知道的9件事",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/20/how-to-edit-your-documentary-photo-project-and-what-to-ask-yourself-before-starting-copy/",
-      "publish_time": "2026-05-20T18:00:00+08:00",
-      "summary": "纪实摄影项目需重视前期准备与最终呈现，拍摄和编辑中应始终牢记这两点，确保故事完整性。",
-      "recommendation": "纪实摄影前期准备与最终呈现并重，9条实战法则助你提升故事完整性，适合追求深度表达的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "9 Things New Documentary Photographers Need to Know"
-    },
-    {
-      "id": "recvkaSOoNPkDJ",
-      "title": "北京展会展示适马85mm f/1.2样机",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sigma-85mm-f-1-2-demo-unit-displayed-at-the-beijing-show/",
-      "publish_time": "2026-05-20T17:37:32+08:00",
-      "summary": "适马85mm f/1.2镜头预生产版本在北京摄影展首次亮相，预计9月推出，该消息源自sonyalpharumors。",
-      "recommendation": "适马85mm f/1.2预生产版样机首次亮相，提供光圈规格与9月上市时间点，适合关注大光圈人像镜头的用户了解新品动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sigma 85mm f/1.2 demo unit displayed at the Beijing show"
-    },
-    {
-      "id": "recvkaOKfBBAuR",
-      "title": "新展览允许你砸碎相机，将愤怒发泄在摄影上",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/you-can-take-your-rage-out-on-photography-by-smashing-a-camera-to-pieces-at-new-exhibit/",
-      "publish_time": "2026-05-20T17:25:05+08:00",
-      "summary": "新展览允许摄影师用锤子砸碎相机，将愤怒发泄在摄影上，缓解摄影中的沮丧情绪。",
-      "recommendation": "以砸相机宣泄摄影挫败感为切入点，探讨摄影情绪管理，对受技术瓶颈困扰的爱好者有独特启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "You Can Take Your Rage Out on Photography by Smashing a Camera to Pieces at New Exhibit"
-    },
-    {
-      "id": "recvkaQojlW0QM",
-      "title": "索尼A7 V连续数月领跑畅销榜，但新款6700万像素相机已威胁其榜首地位",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-a7-v-has-led-best-seller-lists-for-months-but-sonys-new-67mp-camera-is-already-threatening-to-take-the-top-spot",
-      "publish_time": "2026-05-20T16:15:00+08:00",
-      "summary": "索尼A7 V连续数月领跑畅销榜，但新款6700万像素A7R VI已威胁其榜首地位，并在部分零售商处获得畅销第一。",
-      "recommendation": "文章提供索尼A7 V与A7R VI的销量竞争数据，揭示6700万像素新机对市场格局的影响，适合关注全画幅相机选购趋势的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony A7 V has led best-seller lists for months. But Sony’s new 67MP camera is already threatening to take the top spot"
     }
   ]
 }
