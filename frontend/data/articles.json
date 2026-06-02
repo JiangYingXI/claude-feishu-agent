@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-02T05:54:41.813641+08:00",
+    "updated_at": "2026-06-02T13:18:23.990873+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 19
+      "count": 18
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 129
+      "count": 127
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 17
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 370
+      "count": 371
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,113 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvlmqw8Yqk5q",
+      "title": "尼康Zfc固件更新1.81版本发布",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/01/nikon-zfc-firmware-update-version-1-81-released.aspx/",
+      "publish_time": "2026-06-02T10:45:55+08:00",
+      "summary": "尼康发布Zfc固件1.81版，修复取景器模式下监视器空白问题，同时AkaraLabs推出Zf和Zfc保护壳。",
+      "recommendation": "尼康Zfc固件修复取景器显示问题，AkaraLabs同步推出保护壳，对Zfc用户有实用价值，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Zfc firmware update version 1.81 released"
+    },
+    {
+      "id": "recvlmqycKaXSY",
+      "title": "4月CIPA数据出炉",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/01/the-cipa-numbers-for-april-are-out.aspx/",
+      "publish_time": "2026-06-02T10:35:38+08:00",
+      "summary": "2026年4月CIPA数据显示相机销量普遍上升，但单反相机销量同比下降31%，销售额下降39%，紧凑型相机增长30%",
+      "recommendation": "CIPA最新数据揭示单反加速衰退与紧凑相机逆势增长，为影像爱好者提供市场趋势量化参考，含关键同比降幅数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The CIPA numbers for April are out"
+    },
+    {
+      "id": "recvlmqrNCmqnM",
+      "title": "谷歌今年夏天将在美国以外开设首家实体店",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_is_opening_its_first_physical_store_outside_the_us_this_summer-news-73076.php",
+      "publish_time": "2026-06-02T09:12:02+08:00",
+      "summary": "谷歌今年夏天将在日本东京表参道开设美国以外首家实体店，销售Pixel、Nest、Fitbit等设备，提供AI体验，并作为在线订单取货点。",
+      "recommendation": "常规资讯，可了解行业动态。对影像爱好者而言，实体店提供Pixel系列手机实机体验，可直观感受计算摄影与AI影像功能。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google is opening its first physical store outside the US this summer"
+    },
+    {
+      "id": "recvlmqu2yEAbw",
+      "title": "三星Galaxy Z Fold8宽折叠屏真机曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php",
+      "publish_time": "2026-06-02T07:12:01+08:00",
+      "summary": "三星Galaxy Z Fold8宽折叠屏真机曝光，预计7月发布，可能命名Z Fold8，而Z Fold7继任者或为Z Fold8 Ultra。",
+      "recommendation": "曝光三星折叠屏新机命名策略，提供发布时间线索，对关注移动影像形态演变的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung's Galaxy Z Fold8 wide foldable spotted in the wild"
+    },
+    {
+      "id": "recvlmqji2F6YT",
+      "title": "小米17T Pro评测：旗舰级摄影，非旗舰价格",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/01/xiaomi-17t-pro-review-high-end-photography-without-the-flagship-price/",
+      "publish_time": "2026-06-02T06:19:07+08:00",
+      "summary": "小米17T Pro评测：徕卡加持的旗舰级摄影，非旗舰价格，低光与长焦表现优异，电池续航出色。",
+      "recommendation": "评测提供徕卡加持下低光与长焦样张实测数据，对比同价位机型，揭示非旗舰价格下的影像上限。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Xiaomi 17T Pro Review: High-End Photography Without the Flagship Price"
+    },
+    {
+      "id": "recvlmqnMkPFdS",
+      "title": "这家公司如何将其新款三脚架的成本降低32%",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/0457053316/really-right-stuff-core-line-announcement",
+      "publish_time": "2026-06-02T06:14:00+08:00",
+      "summary": "Really Right Stuff发布最实惠碳纤维三脚架Core系列，通过自研碳纤维技术及内部制造流程，将成本降低32%，首批推出Benchmark和Benchmark Inverted两款型号。",
+      "recommendation": "揭秘RRS通过自研碳纤维与内部制造流程将三脚架成本降低32%的具体路径，为追求性价比的影像爱好者提供技术降本与产品选型的深度参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How this company figured out how to make its new tripods 32% cheaper"
+    },
+    {
+      "id": "recvlmqlAODmx5",
+      "title": "摄影师打造梦寐以求的iPhone相机应用",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/01/photographer-builds-the-iphone-camera-app-he-always-wanted/",
+      "publish_time": "2026-06-02T06:09:52+08:00",
+      "summary": "Better Camera是一款iPhone相机应用，提供手动控制和胶片模拟，宣称零AI技术，旨在超越原生相机应用。",
+      "recommendation": "解析Better Camera如何以零AI理念挑战原生相机，提供手动控制与胶片模拟，为追求纯粹摄影体验的用户提供实用替代方案。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Builds the iPhone Camera App He Always Wanted"
+    },
     {
       "id": "recvlkCKAMQfDc",
       "title": "一加Turbo 6X和Turbo 6X Pro规格及图片曝光",
@@ -227,6 +334,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "BREAKING: GoPro is in serious financial trouble and “may be required to significantly reduce, restructure, cease operations” amid lower sales and high memory costs"
+    },
+    {
+      "id": "recvlmqpFRr6e5",
+      "title": "新文件揭示：GoPro因销量下滑和内存成本高企面临破产风险",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/breaking-news-gopro-is-in-serious-financial-trouble-and-may-be-required-to-significantly-reduce-restructure-cease-operations-amid-lower-sales-and-high-memory-costs",
+      "publish_time": "2026-06-02T00:11:59+08:00",
+      "summary": "GoPro最新财务文件显示，因销量下滑和内存成本高企，公司未来12个月恢复盈利能力存疑，面临破产风险。",
+      "recommendation": "GoPro财务文件揭示销量与内存成本双重压力，对影像爱好者了解运动相机行业生存现状有参考价值，含独家财务数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "GoPro is at risk of potential bankruptcy amid lower sales and high memory costs, new documents reveal"
     },
     {
       "id": "recvljNCqXFCOb",
@@ -7706,131 +7828,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Nikon Z5 II packs powerful full-frame features at a hard-to-ignore price"
-    },
-    {
-      "id": "recvkaQk7QPo08",
-      "title": "我是尼康专家——尼康Z 24-120mm f/4 S可能是地球上最好的套机镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/im-a-nikon-expert-and-the-nikon-z-24-120mm-f-4-s-might-be-the-best-kit-lens-on-the-planet",
-      "publish_time": "2026-05-20T21:12:40+08:00",
-      "summary": "尼康Z 24-120mm f/4 S镜头是Z系列相机的最佳套机选择，优于Z 24-70mm f/4 S，提供更广的焦段和恒定光圈。",
-      "recommendation": "对比Z 24-70mm f/4 S，详解24-120mm焦段优势与恒定光圈实用性，为Z系统用户提供套机镜头选购的深度参考数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I’m a Nikon expert –and the Nikon Z 24-120mm f/4 S might be the best kit lens on the planet"
-    },
-    {
-      "id": "recvkaPdI7ASGT",
-      "title": "LX100 II与L10的巨大尺寸差异，图解",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/7448610185/panasonic-lx100ii-versus-l10-size-comparison",
-      "publish_time": "2026-05-20T21:00:00+08:00",
-      "summary": "松下L10紧凑型相机虽延续LX100 II的镜头、传感器和功能设计，但尺寸显著更大，文章通过图解对比两者差异。",
-      "recommendation": "通过图解直观对比松下L10与LX100 II的尺寸差异，揭示同款镜头传感器下机身设计取舍，为便携性选择提供数据参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The big size difference between the LX100 II and the L10, illustrated"
-    },
-    {
-      "id": "recvkaT1jWX3IY",
-      "title": "鱼眼镜头正在摄影中重获一席之地吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/20/are-fisheye-lenses-reclaiming-their-place-in-photography/",
-      "publish_time": "2026-05-20T21:00:00+08:00",
-      "summary": "鱼眼镜头在摄影中重获关注，其独特视角和表现力优于多数镜头，成为叙事和框架的新支柱。",
-      "recommendation": "解析鱼眼镜头从冷门到重获关注的趋势，提供独特视角与叙事价值，适合探索非传统构图的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Are Fisheye Lenses Reclaiming Their Place in Photography?"
-    },
-    {
-      "id": "recvkaSMoT7uuG",
-      "title": "索尼A7v与50-150 GM荣获2026年相机大奖赛最高奖",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-a7v-and-50-150-gm-win-the-camera-grand-prix-2026-grand-prize/",
-      "publish_time": "2026-05-20T20:35:04+08:00",
-      "summary": "索尼A7V凭借集成AI处理单元的BIONZ XR2处理器和部分堆叠式CMOS传感器，实现先进处理与低功耗，荣获2026年相机大奖赛最高奖。",
-      "recommendation": "解析A7V获奖背后的AI处理器与堆叠传感器技术，揭示索尼最新影像硬件突破，适合关注相机技术迭代的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony A7v and 50-150 GM win the Camera Grand Prix 2026 Grand Prize"
-    },
-    {
-      "id": "recvkaOCsN7QZc",
-      "title": "特朗普移动Gold T1智能手机历经数月延迟后即将开始发货",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/trump-mobiles-gold-t1-smartphone-set-to-begin-shipping-after-months-of-delays/",
-      "publish_time": "2026-05-20T20:32:37+08:00",
-      "summary": "特朗普移动金色T1智能手机历经九个月延迟后本周发货，预装Truth Social，售价或为1200美元",
-      "recommendation": "文章披露特朗普手机延迟发货细节及1200美元定价，影像配置未提及，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Trump Mobile’s Gold T1 Smartphone Set to Begin Shipping After Months of Delays"
-    },
-    {
-      "id": "recvkaOElDDJBA",
-      "title": "OpenAI认真对待检测假图",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/openai-gets-serious-about-detecting-fake-images/",
-      "publish_time": "2026-05-20T19:46:11+08:00",
-      "summary": "OpenAI宣布ChatGPT等生成的图像将加入C2PA元数据和SynthID水印，以识别AI假图。",
-      "recommendation": "文章解析OpenAI在AI生成图像中嵌入C2PA元数据与SynthID水印的技术细节，为影像爱好者提供识别假图的前沿工具认知，属于行业标准动态的实用资讯。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "OpenAI Gets Serious About Detecting Fake Images"
-    },
-    {
-      "id": "recvkaOGiZkVjW",
-      "title": "社交媒体平台须在48小时内删除性深度伪造内容",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/social-media-platforms-must-now-remove-sexual-deepfakes-within-48-hours/",
-      "publish_time": "2026-05-20T19:33:08+08:00",
-      "summary": "联邦法律生效，要求社交媒体平台48小时内删除性深度伪造及未经同意的私密图像。",
-      "recommendation": "联邦新规要求平台48小时删除性深度伪造，对影像创作者而言，这是内容合规与版权保护的重要信号，需关注技术伦理与法律边界。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Social Media Platforms Must Now Remove Sexual Deepfakes Within 48 Hours"
-    },
-    {
-      "id": "recvkaQmcGVT4b",
-      "title": "佳能EOS R6V相机哪里可以预购？教你入手这款7K视频新旗舰",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/where-can-i-pre-order-the-canon-eos-r6v-camera-heres-how-to-get-your-hands-on-the-new-7k-video-flagship",
-      "publish_time": "2026-05-20T18:58:42+08:00",
-      "summary": "佳能EOS R6V相机支持7K视频录制，已在美国和英国开启预购，本文指导用户如何入手这款新旗舰。",
-      "recommendation": "提供EOS R6V预购渠道与7K视频规格解析，适合关注佳能新旗舰的用户快速获取购买信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Where can I pre-order the Canon EOS R6V camera? Here's how to get your hands on the new 7K video flagship"
     }
   ]
 }
