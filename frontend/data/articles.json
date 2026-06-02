@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-02T13:18:23.990873+08:00",
+    "updated_at": "2026-06-02T19:13:05.827251+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 18
+      "count": 17
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 127
+      "count": 131
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,192 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 40
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 371
+      "count": 366
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 217
+      "count": 214
     }
   ],
   "articles": [
+    {
+      "id": "recvlnRweWNK5c",
+      "title": "吉卜力主题公园禁止拍照",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/02/theres-no-photos-allowed-at-the-studio-ghibli-amusement-park/",
+      "publish_time": "2026-06-02T18:42:39+08:00",
+      "summary": "吉卜力主题公园因保护知识产权和游客体验，禁止拍照，引发对旅游景点拍照限制的讨论。",
+      "recommendation": "从影像创作角度探讨拍照限制对构图与记录的影响，提供景点拍摄规则与版权保护的行业视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "There’s No Photos Allowed at the Studio Ghibli Amusement Park"
+    },
+    {
+      "id": "recvlnRyq2SOnp",
+      "title": "增距镜纯属浪费时间——我坚持这个观点",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/teleconverters-are-a-waste-of-time-and-ill-die-on-this-hill",
+      "publish_time": "2026-06-02T18:08:08+08:00",
+      "summary": "作者认为增距镜是摄影中最大的虚假经济之一，会降低画质、影响对焦速度，且性价比低，建议直接购买更长焦段的镜头。",
+      "recommendation": "从光学原理和实际拍摄数据出发，批判增距镜的性价比与画质损失，为追求高画质的影像爱好者提供理性选购视角。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Teleconverters are a waste of time – and I’ll die on this hill"
+    },
+    {
+      "id": "recvlnRGrb3UTF",
+      "title": "佳能RF 35mm f/1.8 Macro IS STM二代即将到来？",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-rf-35mm-f-1-8-macro-is-stm-version-2-coming/",
+      "publish_time": "2026-06-02T18:05:38+08:00",
+      "summary": "佳能RF 35mm f/1.8 Macro IS STM二代可能即将到来，该镜头于2018年与EOS R一同发布，是一款小巧且功能强大的35mm定焦镜头。",
+      "recommendation": "聚焦RF 35mm f/1.8 Macro二代传闻，提供镜头升级细节与市场定位分析，适合关注佳能定焦镜头动态的摄影用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon RF 35mm f/1.8 Macro IS STM Version 2 Coming?"
+    },
+    {
+      "id": "recvlnROH4t0FR",
+      "title": "佳能RF 7-14mm f2.8-3.5 L评测",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/02/canon-rf-7-14mm-f2-8-3-5-l-review/",
+      "publish_time": "2026-06-02T18:00:00+08:00",
+      "summary": "佳能RF 7-14mm f2.8-3.5 L评测：回归的鱼眼镜头，目前最佳选择，满足长期呼吁，成为增长品类",
+      "recommendation": "深度评测佳能RF 7-14mm f2.8-3.5 L鱼眼镜头，含MTF曲线与实拍样张数据，揭示其光学素质与畸变控制表现，为超广角爱好者提供选购参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Canon RF 7-14mm f2.8-3.5 L Review:"
+    },
+    {
+      "id": "recvlnRAlao6k0",
+      "title": "Vivo X300 Ultra评测：终于，一款能与iPhone抗衡的视频拍摄利器",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/android-phones/vivo-x300-ultra-review",
+      "publish_time": "2026-06-02T17:15:00+08:00",
+      "summary": "Vivo X300 Ultra凭借出色长焦配件和保护壳，成为安卓视频拍摄利器，媲美iPhone",
+      "recommendation": "深度评测Vivo X300 Ultra长焦配件与保护壳，提供安卓视频拍摄对比iPhone的独家数据，揭示计算摄影优化细节。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Vivo X300 Ultra review: finally, a video challenger to the iPhone"
+    },
+    {
+      "id": "recvlnRMBck1kK",
+      "title": "Christopher Frost 评测 Brightin Star AF 12mm f/2.8（全画幅）镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/brightin-star-af-12mm-f-2-8-full-frame-lens-review-from-christopher-frost/",
+      "publish_time": "2026-06-02T16:15:49+08:00",
+      "summary": "Christopher Frost评测Brightin Star AF 12mm f/2.8全画幅镜头，现可在亚马逊等平台预购，评测首发于sonyalpharumors。",
+      "recommendation": "Christopher Frost实测Brightin Star 12mm f/2.8全画幅镜头，提供锐度、畸变等关键光学数据，适合关注超广角副厂镜头的用户参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Brightin Star AF 12mm f/2.8 (full-frame) lens review from Christopher Frost"
+    },
+    {
+      "id": "recvlnRCGrhPoN",
+      "title": "Viltrox将高端定焦镜头减半——拍出的照片依然惊艳！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-cut-its-premium-prime-lens-in-half-and-it-still-took-surprisingly-pleasing-photos",
+      "publish_time": "2026-06-02T15:36:22+08:00",
+      "summary": "唯卓仕将高端定焦镜头锯成两半后仍能拍摄惊艳图像，展示其快速自动对焦技术的卓越性能。",
+      "recommendation": "通过极端破坏性测试验证唯卓仕镜头自动对焦性能，提供独家实拍样张与对焦速度数据，对关注国产镜头极限性能的爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Viltrox cut its premium prime lens in half – and it still took surprisingly pleasing photos!"
+    },
+    {
+      "id": "recvlnREtwEUMT",
+      "title": "获奖摄影师都曾从这里起步——6月值得参加的10个摄影比赛",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/award-winning-photographers-all-started-somewhere-these-are-the-10-photo-contests-to-enter-this-june",
+      "publish_time": "2026-06-02T15:16:34+08:00",
+      "summary": "本文介绍6月10个国际摄影比赛，涵盖风景、建筑、人像等类别，面向所有水平摄影师，是获奖起步的好机会。",
+      "recommendation": "汇总6月10个国际摄影比赛，覆盖风景、人像等类别，为不同水平摄影师提供参赛路径，含分类与时间信息，适合规划投稿。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Award-winning photographers all started somewhere – these are the 10 photo contests to enter this June"
+    },
+    {
+      "id": "recvlnRQD5qyP1",
+      "title": "镜头远比相机重要：对还是错？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/02/why-your-lenses-are-more-important-than-your-camera-3-copy/",
+      "publish_time": "2026-06-02T15:00:00+08:00",
+      "summary": "镜头比相机更重要，涉及镜片质量、光圈大小等参数，对获得理想照片至关重要。",
+      "recommendation": "解析镜头与机身权重之争，从镜片素质、光圈参数切入，提供光学设计对画质影响的深度观点，适合纠结器材选择的爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Lenses are Far More Important Than a Camera: True or False?"
+    },
+    {
+      "id": "recvlnRIEXTJ2D",
+      "title": "iPhone Ultra折叠屏被曝将配备均热板",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_ultra_foldable_tipped_to_offer_a_vapor_chamber-news-73083.php",
+      "publish_time": "2026-06-02T14:40:03+08:00",
+      "summary": "苹果折叠屏iPhone Ultra被曝将配备均热板以提升散热性能，实现令人印象深刻的VC散热，机身纤薄。",
+      "recommendation": "折叠屏散热影响影像性能，均热板VC散热设计可保障长时间拍摄稳定性，对高画质需求用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iPhone Ultra foldable tipped to offer a vapor chamber"
+    },
+    {
+      "id": "recvlnRKIQJeQr",
+      "title": "小米加入AirDrop派对",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_joins_the_airdrop_party-news-73079.php",
+      "publish_time": "2026-06-02T13:39:03+08:00",
+      "summary": "小米宣布其HyperOS系统的Quick Share已集成Apple AirDrop，实现与苹果设备间快速无缝的文件共享。",
+      "recommendation": "跨平台文件互通对影像工作流有价值，但未涉及影像传输质量或速度对比，属常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi joins the AirDrop party"
+    },
     {
       "id": "recvlmqw8Yqk5q",
       "title": "尼康Zfc固件更新1.81版本发布",
@@ -7654,180 +7826,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Nan Goldin turns her camera onto art history, and the results are an inspiration for any photographer wishing to reinvent themselves"
-    },
-    {
-      "id": "recvkb4dg1wenL",
-      "title": "7Artisans 135mm f1.8评测：一支华丽的镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/20/7artisans-135mm-f1-8-review-a-gorgeous-lens/",
-      "publish_time": "2026-05-21T00:00:00+08:00",
-      "summary": "七工匠135mm f1.8自动对焦镜头评测，最近对焦距离0.68米，防尘防滴，支持尼康场景检测，在Zf上使用舒适。",
-      "recommendation": "文章实测七工匠135mm f1.8的0.68米最近对焦与防尘防滴性能，提供尼康Zf场景检测兼容性独家数据，适合人像及长焦爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "7Artisans 135mm f1.8 Review: A Gorgeous Lens"
-    },
-    {
-      "id": "recvkaYFbHKfqy",
-      "title": "摄影师起诉后，博主声称‘AI本可以做到’",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/ai-could-have-made-it-blogger-claims-after-photographer-sues/",
-      "publish_time": "2026-05-20T23:42:44+08:00",
-      "summary": "摄影师起诉博主侵权，被告辩称AI可生成图片故不受保护，美国法院驳回此观点，强调版权保护不因AI替代性而失效。",
-      "recommendation": "解析AI生成图片与版权保护的法律边界，通过真实案例说明摄影作品版权不因AI替代性而失效，对创作者维权有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "‘AI Could Have Made It,’ Blogger Claims After Photographer Sues"
-    },
-    {
-      "id": "recvkaVCy8ct1E",
-      "title": "这款复古奥林巴斯无反相机是初学者的绝佳选择，现仅需599美元——Adorama阵亡将士纪念日促销",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-retro-olympus-mirrorless-camera-is-a-a-brilliant-beginner-buy-and-now-its-just-usd599-in-adoramas-memorial-day-sale",
-      "publish_time": "2026-05-20T23:30:26+08:00",
-      "summary": "奥林巴斯OM-D E-M10 Mark IV在Adorama阵亡将士纪念日促销中降至599美元，是初学者的绝佳选择。",
-      "recommendation": "599美元入手OM-D E-M10 Mark IV，适合入门复古无反爱好者，提供具体促销价格与机型定位分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This retro Olympus mirrorless camera is a a brilliant beginner buy and now it's just $599 in Adorama’s Memorial Day sale"
-    },
-    {
-      "id": "recvkaVEI2MwZS",
-      "title": "“这无关政治，而是关乎代表性。” 该项目将统计数据转化为震撼肖像，记录英国议会女性代表比例达到40%的里程碑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/this-isnt-about-politics-its-about-representation-this-project-turns-a-statistic-into-stunning-portraits-documenting-the-milestone-40-percent-female-representation-in-british-parliament",
-      "publish_time": "2026-05-20T23:16:34+08:00",
-      "summary": "约130名女摄影师拍摄250多名女议员，记录英国议会女性代表比例达40%里程碑，强调代表性而非政治。",
-      "recommendation": "130位女摄影师用镜头记录250多位女议员，将统计数据转化为震撼肖像，展现摄影在政治代表性中的独特纪实力量。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“This isn’t about politics. It’s about representation.” This project turns a statistic into stunning portraits documenting the milestone 40% female representation in British Parliament"
-    },
-    {
-      "id": "recvkaOvZXchSF",
-      "title": "迪士尼乐园因在入口使用人脸识别技术被起诉",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/disneyland-sued-over-use-of-facial-recognition-tech-at-park-entrances/",
-      "publish_time": "2026-05-20T22:43:53+08:00",
-      "summary": "迪士尼因在加州乐园入口使用人脸识别技术未充分披露，面临集体诉讼。",
-      "recommendation": "常规资讯，可了解行业动态。人脸识别技术涉及隐私与影像采集边界，对关注计算摄影伦理的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Disneyland Sued Over Use of Facial Recognition Tech at Park Entrances"
-    },
-    {
-      "id": "recvkaOyfl7n2H",
-      "title": "佳能新款不烦人镜头盖在日本已售罄",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/canons-new-less-annoying-lens-cap-already-sold-out-in-japan/",
-      "publish_time": "2026-05-20T22:23:56+08:00",
-      "summary": "佳能新款镜头盖在日本售罄，与EOS R6 V和RF 20-50mm f/4L IS USM PZ镜头一同发布，获摄影师好评。",
-      "recommendation": "镜头盖售罄反映配件市场热度，与R6 V及RF 20-50mm f/4L镜头发布关联，提供行业供需动态，适合关注佳能生态的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon’s New, Less Annoying Lens Cap Already Sold Out in Japan"
-    },
-    {
-      "id": "recvkaQfUJcb8l",
-      "title": "这张照片不是月球，是火星。但这并非灵神星探测器飞越火星时传回的唯一惊艳图像",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/this-photograph-isnt-the-moon-its-mars-but-its-not-the-only-stunning-image-coming-from-psyches-mars-flyby",
-      "publish_time": "2026-05-20T22:05:39+08:00",
-      "summary": "NASA前往灵神星的航天器飞越火星时拍摄多张惊艳图像，揭示红色星球细节，为小行星探测提供关键数据。",
-      "recommendation": "NASA灵神星探测器飞越火星的高清图像，展示红色星球独特地貌，为影像爱好者提供太空摄影技术参考与科学数据价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This photograph isn’t the Moon. It’s Mars. But it’s not the only stunning image coming from Psyche’s Mars flyby"
-    },
-    {
-      "id": "recvkaPbqHY6qd",
-      "title": "读者随身携带的令人惊讶的相机配件",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/2485572325/surprising-camera-accessories-our-readers-keep-with-them-at-all-times",
-      "publish_time": "2026-05-20T22:00:00+08:00",
-      "summary": "读者分享必备相机配件：外部电源，因在蒸汽朋克活动等场景中相机需伪装，更换电池不便。OM-1相机配14-54mm镜头，参数F3.2、1/60秒、ISO2000。",
-      "recommendation": "从蒸汽朋克场景的电源需求切入，揭示特殊环境下相机配件的实用价值，附OM-1实拍参数（F3.2、1/60秒、ISO2000），对活动摄影爱好者有参考意义。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Surprising camera accessories our readers keep with them at all times"
-    },
-    {
-      "id": "recvkb4adjVwD7",
-      "title": "读者随身携带的惊喜相机配件",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/2485572325/surprising-camera-accessories-our-readers-keep-with-them-at-all-times",
-      "publish_time": "2026-05-20T22:00:00+08:00",
-      "summary": "文章介绍外接电源作为读者随身携带的惊喜相机配件，用于蒸汽朋克活动避免更换电池耗时，并提及OM-1相机及参数",
-      "recommendation": "从蒸汽朋克活动场景切入，揭示外接电源解决OM-1相机续航痛点的实用方案，对活动拍摄爱好者有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The surprise camera accessories our readers keep with them at all times"
-    },
-    {
-      "id": "recvkaOAv7EU4D",
-      "title": "22年后回顾史上最美数码相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/20/reviewing-the-most-beautiful-digital-camera-ever-made-22-years-later/",
-      "publish_time": "2026-05-20T21:19:21+08:00",
-      "summary": "2004年爱普生与福伦达合作推出世界首款数码旁轴相机R-D1，兼具卓越功能与经典风格，Cameralabs的复古评测揭示其20多年后的独特魅力。",
-      "recommendation": "回顾爱普生R-D1数码旁轴相机，揭示其22年后仍具魅力的设计哲学与功能细节，对复古相机爱好者有独特历史价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Reviewing the Most Beautiful Digital Camera Ever Made 22 Years Later"
-    },
-    {
-      "id": "recvkaQhXX8nq1",
-      "title": "尼康Z5 II以难以忽视的价格提供强大的全画幅功能",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-nikon-z5-ii-packs-powerful-full-frame-features-at-a-hard-to-ignore-price",
-      "publish_time": "2026-05-20T21:17:54+08:00",
-      "summary": "尼康Z5 II全画幅相机降价314英镑，以高性价比提供强大功能，成为推荐之选",
-      "recommendation": "文章披露尼康Z5 II降价314英镑的独家价格信息，解析其全画幅功能与性价比，为预算有限的影像爱好者提供具体选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Nikon Z5 II packs powerful full-frame features at a hard-to-ignore price"
     }
   ]
 }
