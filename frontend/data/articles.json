@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-03T01:11:59.520460+08:00",
+    "updated_at": "2026-06-03T05:38:04.059579+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 19
+      "count": 17
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 136
+      "count": 134
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,125 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 42
+      "count": 41
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 366
+      "count": 369
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 210
+      "count": 207
     }
   ],
   "articles": [
+    {
+      "id": "recvlqoZpKwFu7",
+      "title": "世界美食摄影奖30位获奖者",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/02/30-winners-from-the-world-food-photography-awards/",
+      "publish_time": "2026-06-03T05:30:47+08:00",
+      "summary": "英国摄影师乔·卡尼的作品《一位女士在苏联时代疗养院食堂用餐》获世界美食摄影大赛总冠军",
+      "recommendation": "通过30幅获奖作品解析美食摄影的构图与光影技巧，提供跨文化视觉叙事案例，对提升静物拍摄有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "30 Winners From the World Food Photography Awards"
+    },
+    {
+      "id": "recvlqp7yBvZ8L",
+      "title": "老妇人倒茶——但远不止于此。她布满皱纹的脸上表情美丽，令我感动落泪——世界最大美食摄影奖创始人谈获奖照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/an-old-woman-pours-herself-tea-but-its-so-much-more-than-just-that-the-expression-on-her-crevassed-face-is-beautiful-it-moved-me-to-tears-founder-of-worlds-biggest-food-photography-awards-on-top-prize-winning-photo",
+      "publish_time": "2026-06-03T05:30:00+08:00",
+      "summary": "美食摄影大赛总冠军作品《老妇人倒茶》以皱纹与茶香交织的瞬间，展现超越美食的人文之美，创始人称其令人落泪",
+      "recommendation": "通过美食摄影冠军作品解析人文摄影技巧，独家披露评委对皱纹细节与茶香氛围的评分权重，提供跨题材构图灵感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"An old woman pours herself tea - but it's so much more than just that. The expression on her crevassed face is beautiful, it moved me to tears\" – founder of world's biggest food photography awards on top prize-winning photo"
+    },
+    {
+      "id": "recvlqp1B1wHwi",
+      "title": "索尼世界摄影奖20周年年度摄影大赛规则调整",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/02/sony-world-photography-awards-makes-changes-for-its-20th-annual-photo-contest/",
+      "publish_time": "2026-06-03T04:01:43+08:00",
+      "summary": "索尼世界摄影奖2027届迎来20周年，作为全球最大摄影比赛之一，将进行重大规则调整。",
+      "recommendation": "解析索尼世界摄影奖20周年规则调整，揭示赛事变革对影像创作方向的影响，提供行业趋势参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony World Photography Awards Makes Changes for its 20th Annual Photo Contest"
+    },
+    {
+      "id": "recvlqpbrJdYF8",
+      "title": "佳能是否准备对PowerShot系列进行最大变革之一？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/02/is-canon-preparing-one-of-the-biggest-changes-to-its-powershot-lineup/",
+      "publish_time": "2026-06-03T03:00:00+08:00",
+      "summary": "紧凑型相机重新受欢迎，佳能可能正在酝酿PowerShot系列的重大变革，推出令人兴奋的新品。",
+      "recommendation": "分析佳能PowerShot系列潜在变革，结合紧凑相机回潮趋势，提供行业动态与产品方向洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Canon Preparing One of the Biggest Changes to Its PowerShot lineup?"
+    },
+    {
+      "id": "recvlqp3GM62DT",
+      "title": "GoPro濒临绝境，对其生存能力存有‘重大疑虑’",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/02/gopro-is-on-the-brink-and-has-substantial-doubt-about-its-future/",
+      "publish_time": "2026-06-03T02:24:58+08:00",
+      "summary": "GoPro在财务文件中警告可能无法持续经营，正寻求避免违约，此前已考虑出售或合并。",
+      "recommendation": "GoPro财务危机预警，揭示运动相机巨头生存困境。对影像爱好者而言，可了解行业格局变化，文中提及的出售或合并动向属独家行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "GoPro Is on the Brink and Has ‘Substantial Doubt’ About its Survival"
+    },
+    {
+      "id": "recvlqp5IVtFVO",
+      "title": "Peak Design 四款全新旅行系列包袋现已全面发售",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/02/peak-designs-four-new-travel-line-bags-are-now-available-to-everyone/",
+      "publish_time": "2026-06-03T01:26:03+08:00",
+      "summary": "Peak Design四款旅行背包获7100名Kickstarter支持者捐款超240万美元后，现已零售发售，主打旅行与冒险适用性。",
+      "recommendation": "众筹超240万美元的旅行背包零售上市，提供7100名支持者验证的装载方案，对携带多机身镜头的摄影旅行者有实用参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Peak Design’s Four New Travel Line Bags Are Now Available to Everyone"
+    },
+    {
+      "id": "recvlqp9yst0M5",
+      "title": "紧凑型相机趋势短期内不会放缓，但日本最新数据显示无反相机某一类别出现下滑",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/the-compact-camera-trend-isnt-slowing-down-anytime-soon-but-the-latest-numbers-from-japan-show-a-decline-in-one-mirrorless-category",
+      "publish_time": "2026-06-03T01:25:50+08:00",
+      "summary": "CIPA 2026年4月数据显示紧凑型相机和无反相机整体出货量增长，但大尺寸传感器相机出货量下降",
+      "recommendation": "CIPA最新数据揭示紧凑型相机增长但大尺寸传感器相机下滑，为影像爱好者提供行业趋势的量化洞察，有助于理解市场分化。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The compact camera trend isn’t slowing down anytime soon, but the latest numbers from Japan show a decline in one mirrorless category"
+    },
     {
       "id": "recvlpjRDVgpKL",
       "title": "华硕携12.2英寸新Pad重返平板市场",
@@ -7719,116 +7824,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Laowa Just Made Fisheye Photography More Versatile Than Ever Before"
-    },
-    {
-      "id": "recvkhWGRt5SAN",
-      "title": "a7R VI在测试中展现动态范围实力",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/2817322047/sony-a7r-vi-dynamic-range-studio-tests",
-      "publish_time": "2026-05-21T21:00:00+08:00",
-      "summary": "索尼a7R VI在测试中展现动态范围实力，采用新技术实现系列最快速度且动态范围优于前代，使用FE 24-70mm F2.8 GM II镜头于ISO 100拍摄。",
-      "recommendation": "实测数据证实a7R VI动态范围超越前代，ISO 100下配合GM II镜头表现亮眼，为高像素机型用户提供关键画质参考。",
-      "categories": [
-        "传感器硬件",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The a7R VI flexes its dynamic range in our tests"
-    },
-    {
-      "id": "recvkgT5UDjAUe",
-      "title": "我是富士摄影师，这些是我全年见过的最佳紧凑型相机和复古无反相机优惠",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/im-a-fujifilm-photographer-and-these-are-the-best-camera-deals-ive-seen-all-year-on-compact-cameras-and-retro-mirrorless",
-      "publish_time": "2026-05-21T20:34:31+08:00",
-      "summary": "富士胶片相机优惠罕见，作为富士摄影师，本文推荐最佳紧凑型和复古无反相机优惠，保留核心技术参数。",
-      "recommendation": "富士摄影师精选全年紧凑型与复古无反相机优惠，保留核心技术参数，为影像爱好者提供稀缺购买时机与机型对比参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I’m a Fujifilm photographer, and these are the best camera deals I’ve seen all year on compact cameras and retro mirrorless"
-    },
-    {
-      "id": "recvkgSWUvJzS7",
-      "title": "摄影师耗时四年捕捉郊狼冰面腾空瞬间",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/21/photographer-waits-four-years-to-capture-stunning-image-of-coyote-mid-air-over-ice/",
-      "publish_time": "2026-05-21T20:29:23+08:00",
-      "summary": "摄影师耗时四年，成功捕捉郊狼跃过冰面裂缝的震撼瞬间，展现自然摄影的极致耐心与技巧。",
-      "recommendation": "四年追踪揭示郊狼行为与冰面环境互动，含拍摄参数与耐心技巧，为自然摄影提供实战参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Waits Four Years to Capture Stunning Image of Coyote Mid-Air Over Ice"
-    },
-    {
-      "id": "recvkgSZcscGMD",
-      "title": "看克里斯托弗·诺兰如何用真剪刀剪辑《奥德赛》的华丽场景",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/21/watch-the-glorious-way-christopher-nolan-cuts-scenes-in-the-odyssey-using-literal-scissors/",
-      "publish_time": "2026-05-21T20:10:25+08:00",
-      "summary": "《奥德赛》是首部完全使用IMAX 70毫米胶片拍摄的电影，因相机限制每次只能连续拍摄约两分半钟，诺兰用真剪刀剪辑华丽场景。",
-      "recommendation": "解析诺兰用IMAX 70毫米胶片拍摄《奥德赛》的创作限制与真剪刀剪辑手法，提供独家技术细节，对理解胶片摄影美学与电影工业实践有直接价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Watch the Glorious Way Christopher Nolan Cuts Scenes in ‘The Odyssey’ Using Literal Scissors"
-    },
-    {
-      "id": "recvkgT8aIYel3",
-      "title": "Thypoch Ksana 35mm f/2 ASPH. 评测：一款具有迷人胶片质感的紧凑手动镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/thypoch-ksana-35mm-f-2-asph-review",
-      "publish_time": "2026-05-21T20:00:00+08:00",
-      "summary": "Thypoch Ksana 35mm f/2 ASPH是一款紧凑全金属手动镜头，具有迷人胶片质感，适合追求个性与复古外观的摄影师。",
-      "recommendation": "全金属手动镜头实测，解析其胶片质感与紧凑设计的平衡，含实拍样张与光学性能数据，适合追求复古影像风格的爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Thypoch Ksana 35mm f/2 ASPH. review: a compact manual lens with a beautifully filmic charm"
-    },
-    {
-      "id": "recvkgTanaH5au",
-      "title": "摄影师投票选出这款相机为赢家——让人想起经典单反",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/photographers-voted-this-camera-a-winner-reminiscent-of-an-iconic-dslr",
-      "publish_time": "2026-05-21T19:55:07+08:00",
-      "summary": "摄影师投票选出3250万像素无反相机为赢家，称赞其旗舰级自动对焦、精致操控和出色性价比，媲美佳能5D Mark IV",
-      "recommendation": "文章揭示3250万像素无反相机获摄影师投票认可，其旗舰级对焦与操控被指媲美佳能5D Mark IV，提供同类产品对比的独特视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographers voted this camera a winner – reminiscent of an iconic DSLR"
-    },
-    {
-      "id": "recvkgTlzxNqEU",
-      "title": "Oppo Reno16系列相机细节在发布前曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_reno16_series_camera_details_revealed_ahead_of_launch-news-72928.php",
-      "publish_time": "2026-05-21T19:27:02+08:00",
-      "summary": "Oppo Reno16系列发布前曝光相机细节，后置三摄包括200MP主摄、50MP潜望长焦和50MP超广角，前置5MP。",
-      "recommendation": "曝光Oppo Reno16系列三摄规格，200MP主摄+双50MP副摄组合提供具体像素数据，可提前了解中端机型影像配置趋势。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Oppo Reno16 series camera details revealed ahead of launch"
     }
   ]
 }
