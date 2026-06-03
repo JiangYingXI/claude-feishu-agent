@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-04T01:36:49.434537+08:00",
+    "updated_at": "2026-06-04T05:40:07.017005+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 19
+      "count": 22
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 130
+      "count": 129
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,88 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 205
+      "count": 204
     }
   ],
   "articles": [
+    {
+      "id": "recvlwg5jzIxGs",
+      "title": "百年仅见两次的“失落”鹦鹉最佳照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/03/new-photos-document-a-lost-parrot-for-only-the-second-time-in-a-century/",
+      "publish_time": "2026-06-04T03:07:23+08:00",
+      "summary": "印度尼西亚极罕见的蓝额吸蜜鹦鹉在一个世纪仅两次目击后再次被发现，上次是2014年，此前自1920年代未见。",
+      "recommendation": "罕见物种的影像记录案例，展示野外生态摄影中耐心与时机的重要性，提供1920年至今仅两次目击的独家时间线数据。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best Photos Ever of a ‘Lost’ Parrot Seen Just Twice In a Century"
+    },
+    {
+      "id": "recvlwg7J8KGsX",
+      "title": "索尼新款巨型传感器能否打动克里斯托弗·诺兰？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/1013307816/sony-venice-2-rialto-65-large-format-cinema-sensor",
+      "publish_time": "2026-06-04T02:52:00+08:00",
+      "summary": "索尼为Venice 2摄像机推出Rialto 65大画幅传感器模块，尺寸53.75x35.83mm，接近中画幅，旨在吸引高端电影制作人如诺兰。",
+      "recommendation": "解析索尼53.75x35.83mm大画幅传感器模块，接近中画幅尺寸，为电影级影像爱好者提供传感器尺寸与高端制作关联的深度数据。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Could Sony's massive new sensor sway even Christopher Nolan?"
+    },
+    {
+      "id": "recvlwga2q7VWn",
+      "title": "新爆料揭示一加16相机不同故事",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_leak_tells_a_different_story_about_the_oneplus_16s_cameras-news-73112.php",
+      "publish_time": "2026-06-04T02:47:02+08:00",
+      "summary": "新爆料称一加16相机配置与传闻相反，采用2亿像素主摄、5000万像素潜望长焦和超广角，可能仍在测试不同配置。",
+      "recommendation": "爆料揭示一加16相机配置反转，2亿像素主摄与5000万像素潜望长焦组合，提供行业独家测试动态，影像爱好者可提前洞察旗舰影像方向。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "New leak tells a different story about the OnePlus 16's cameras"
+    },
+    {
+      "id": "recvlwgehUA4sf",
+      "title": "明天是大日子：索尼A7rVI在美国发货！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/tomorrow-is-the-big-day-sony-a7rvi-is-shipping-out-in-the-usa/",
+      "publish_time": "2026-06-04T02:16:00+08:00",
+      "summary": "索尼A7rVI相机在美国发货，售价在BHphoto等平台有售，100-400mm f/4.5 GM镜头一周后发货。",
+      "recommendation": "索尼A7rVI美国发货时间及100-400mm GM镜头一周后到货，提供具体售价与平台信息，适合关注新品上市节奏的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tomorrow is the BIG day: Sony A7rVI is shipping out in the USA!"
+    },
+    {
+      "id": "recvlwgc6utmyr",
+      "title": "富士APS-C与GFX搭载DGO传感器：所有可能性探索",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-aps-c-and-gfx-with-dgo-sensors-all-the-possibilities-explored/",
+      "publish_time": "2026-06-04T01:32:39+08:00",
+      "summary": "文章探讨富士APS-C和GFX相机搭载DGO传感器的可能性，参考索尼A7V（33MP）、A7rVI（67MP）和松下S1II（24MP）的DGO传感器参数，分析技术前景。",
+      "recommendation": "结合索尼、松下DGO传感器参数，分析富士APS-C与GFX搭载该技术的可行性，提供具体像素与动态范围对比数据，对关注传感器技术升级的爱好者有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm APS-C and GFX with DGO Sensors: All the Possibilities Explored"
+    },
     {
       "id": "recvlvgfR1d8ZE",
       "title": "索尼正在打造一款巨大的65mm传感器。索尼Rialto 65将成为迄今最大的电影传感器之一，最早或于2027年问世",
@@ -7749,83 +7827,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Collaboration might be the creative push your photography needs"
-    },
-    {
-      "id": "recvkmDNc8Vs7s",
-      "title": "Realme Watch S5发布：1.43英寸AMOLED屏，续航长达20天",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/realme_watch_s5_debuts_with_up_to_20_day_battery_143inch_amoled_display-news-72951.php",
-      "publish_time": "2026-05-22T20:48:02+08:00",
-      "summary": "Realme Watch S5发布，配备1.43英寸AMOLED屏，续航20天，铝合金表壳，熊猫玻璃防护，峰值亮度1000尼特。",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦智能手表而非影像设备，对影像爱好者价值有限，但提及AMOLED屏亮度数据可供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 4,
-      "language": "English",
-      "original_title": "Realme Watch S5 debuts with up to 20 day battery, 1.43-inch AMOLED display"
-    },
-    {
-      "id": "recvkmDsXCV8ew",
-      "title": "94年首次！‘锈色云雀’被疑灭绝后首张照片问世",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/22/first-ever-photograph-of-rusty-lark-bird-thought-to-be-extinct-for-94-years/",
-      "publish_time": "2026-05-22T20:27:47+08:00",
-      "summary": "锈色云雀，被认为灭绝近一个世纪后，首次被拍摄到照片，这是94年来的首次记录。",
-      "recommendation": "94年首张锈色云雀照片，展现长焦与隐蔽拍摄技术极限，为生态摄影提供罕见案例与数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "First Ever Photograph of ‘Rusty Lark’ Bird Thought to be Extinct for 94 Years"
-    },
-    {
-      "id": "recvkmDEkMh7Zt",
-      "title": "订阅《数码相机》杂志2026年6月刊，获赠15份额外好礼",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/magazines/get-15-bonus-gifts-with-the-june-2026-issue-of-digital-camera-magazine",
-      "publish_time": "2026-05-22T20:15:00+08:00",
-      "summary": "订阅《数码相机》2026年6月刊，获赠9张摄影技巧卡片、31分钟视频课程、18款软件组件和一本电子书，来自全球最受欢迎摄影杂志的精选集",
-      "recommendation": "订阅赠品含摄影技巧卡片、视频课程及软件组件，对影像爱好者有实用价值，但内容为常规促销资讯，可了解行业动态。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Get 15 bonus gifts with the June 2026 issue of Digital Camera magazine"
-    },
-    {
-      "id": "recvkmDGoEOtZ1",
-      "title": "Insta360 新 Luna 相机搭载徕卡技术，以独特技巧挑战 DJI 口袋云台霸主地位",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/gimbals/insta360-luna-series-with-leica-tech-is-coming-to-challenge-djis-gimbal-dominance",
-      "publish_time": "2026-05-22T20:00:00+08:00",
-      "summary": "Insta360在徕卡园区展示新款Luna和Luna Ultra相机，搭载徕卡技术，挑战DJI口袋云台霸主地位。",
-      "recommendation": "本文披露Insta360与徕卡合作细节，对比DJI口袋云台的技术差异，为手持影像设备选购提供独家竞品分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360's new Luna cameras – with Leica tech – are coming to challenge DJI's pocket gimbal dominance with this unique trick"
-    },
-    {
-      "id": "recvkmDPLw43bO",
-      "title": "Flipkart再次预热摩托罗拉Edge 70 Pro+，发布在即",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/flipkart_once_again_teases_motorola_edge_70_pro_ahead_of_launch-news-72948.php",
-      "publish_time": "2026-05-22T19:49:02+08:00",
-      "summary": "Flipkart预告摩托罗拉Edge 70 Pro+即将在印度发布，提供三种潘通配色和材质，包括酒红色缎面与浅蓝色斜纹纹理。",
-      "recommendation": "常规资讯，可了解行业动态。文章披露了摩托罗拉Edge 70 Pro+的潘通配色与材质细节，但未涉及影像规格或独家数据，对关注外观设计的用户有一定参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Flipkart once again teases Motorola Edge 70 Pro+ ahead of launch"
     }
   ]
 }
