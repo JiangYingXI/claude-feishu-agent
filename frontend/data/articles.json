@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-03T05:38:04.059579+08:00",
+    "updated_at": "2026-06-03T13:35:55.933958+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 17
+      "count": 16
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,77 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 369
+      "count": 367
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 207
+      "count": 209
     }
   ],
   "articles": [
+    {
+      "id": "recvlslrY9rA7V",
+      "title": "终极人像镜头的必然回归",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/03/the-inevitable-return-of-the-ultimate-portrait-lens/",
+      "publish_time": "2026-06-03T12:00:00+08:00",
+      "summary": "文章认为长焦镜头比大光圈更特别，指出105mm f1.4镜头能拍出中画幅效果，强调其回归价值。",
+      "recommendation": "深度解析105mm f1.4镜头如何通过光学设计模拟中画幅效果，为追求极致人像的爱好者提供长焦与大光圈之外的独特技术视角。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Inevitable Return of the Ultimate Portrait Lens"
+    },
+    {
+      "id": "recvlslupCMY5S",
+      "title": "更新：美国尼康相机与镜头全折扣清单",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/02/update-here-is-the-full-list-of-all-discounted-nikon-cameras-and-lenses-in-the-us.aspx/",
+      "publish_time": "2026-06-03T07:55:35+08:00",
+      "summary": "更新美国尼康相机与镜头折扣清单，包括D7500、D780等型号优惠，价格从300至600美元不等。",
+      "recommendation": "汇总美国尼康相机与镜头折扣清单，涵盖D7500、D780等型号优惠幅度，为影像爱好者提供价格参考，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Update: here is the full list of all discounted Nikon cameras and lenses in the US"
+    },
+    {
+      "id": "recvlslnvfbMcs",
+      "title": "iPhone Ultra 将采用液态金属铰链",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_ultra_said_to_sport_a_liquid_metal_hinge-news-73096.php",
+      "publish_time": "2026-06-03T07:21:01+08:00",
+      "summary": "苹果可折叠手机iPhone Ultra将采用液态金属铰链，原型机已送测运营商，开发进展迅速。",
+      "recommendation": "液态金属铰链或提升折叠屏影像稳定性，但未涉及具体影像参数，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iPhone Ultra to sport a liquid metal hinge"
+    },
+    {
+      "id": "recvlslpJJMk3J",
+      "title": "三星Galaxy Z Fold8和Fold8 Ultra模型机现身并排对比照片",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_dummy_units_surface-news-73092.php",
+      "publish_time": "2026-06-03T05:58:02+08:00",
+      "summary": "三星Galaxy Z Fold8和Fold8 Ultra模型机并排对比照片曝光，展示宽折叠屏设计，未透露新信息。",
+      "recommendation": "常规资讯，可了解行业动态。对比照片展示Fold8系列宽折叠屏设计，未透露影像规格或新功能，对关注三星折叠屏形态的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8 and Fold8 Ultra's dummy units appear in side-by-side comparison photos"
+    },
     {
       "id": "recvlqoZpKwFu7",
       "title": "世界美食摄影奖30位获奖者",
@@ -71,6 +133,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "\"An old woman pours herself tea - but it's so much more than just that. The expression on her crevassed face is beautiful, it moved me to tears\" – founder of world's biggest food photography awards on top prize-winning photo"
+    },
+    {
+      "id": "recvlsll29eh5b",
+      "title": "渴望好照片？这些摄影师烹制了一道视觉盛宴",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/7280642611/2026-world-food-photography-awards-sponsored-by-bimi",
+      "publish_time": "2026-06-03T05:30:00+08:00",
+      "summary": "2026年世界美食摄影奖揭晓，27个类别获奖者由厨师Gennaro Contaldo在伦敦公布，凸显摄影讲述全球美食故事的力量。",
+      "recommendation": "27个获奖作品覆盖全球美食场景，从构图到光线解析烹饪摄影技巧，为手机/相机用户提供跨文化视觉叙事参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Hungry for good pictures? These photographers have cooked up a treat"
     },
     {
       "id": "recvlqp1B1wHwi",
@@ -7746,84 +7823,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The photographer who never stopped chasing the perfect shot"
-    },
-    {
-      "id": "recvkgTgZygEAf",
-      "title": "Venus Optics 正式发布 Laowa RF (RF-S) 4.5-10mm f/2.8 CF 变焦鱼眼镜头",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/venus-optics-officially-announces-the-laowa-rf-rf-s-4-5-10mm-f-2-8-cf-zoom-fisheye/",
-      "publish_time": "2026-05-21T21:24:15+08:00",
-      "summary": "Venus Optics发布Laowa 4.5-10mm f/2.8 CF变焦鱼眼镜头，适用于APS-C和MFT相机，从4.5mm端180°圆形鱼眼到10mm端对角线鱼眼，提供广阔创作范围。",
-      "recommendation": "文章详解Laowa 4.5-10mm f/2.8 CF鱼眼变焦头，覆盖APS-C/MFT系统，从180°圆形到对角线鱼眼切换，提供独特视角数据与创作范围分析，适合追求超广角创意摄影的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Venus Optics Officially Announces the Laowa RF (RF-S) 4.5-10mm f/2.8 CF Zoom Fisheye"
-    },
-    {
-      "id": "recvkgSUMzenty",
-      "title": "Pilot 88 是 Chris Niccolls 设计的限量版 Wotancraft 信使包",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/21/the-pilot-88-is-a-limited-edition-wotancraft-messenger-designed-by-chris-niccolls/",
-      "publish_time": "2026-05-21T21:15:58+08:00",
-      "summary": "Wotancraft与Chris Niccolls合作推出限量版Pilot 88信使包，专为旅行摄影师设计，采用独特尺寸和定制调整，经近一年开发而成。",
-      "recommendation": "Chris Niccolls与Wotancraft合作细节及近一年开发历程，揭示旅行摄影师专用信使包的定制调整与独特尺寸设计。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Pilot 88 Is a Limited Edition Wotancraft Messenger Designed by Chris Niccolls"
-    },
-    {
-      "id": "recvkgT3JaPlSV",
-      "title": "尼康Z8在B&H直降900美元，创历史新低，还免费赠送XQD卡",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-nikon-z8-is-now-usd900-off-at-b-and-h-at-its-lowest-ever-price-and-comes-with-a-free-xqd-card-to-sweeten-the-deal",
-      "publish_time": "2026-05-21T21:06:08+08:00",
-      "summary": "尼康Z8在B&H降至3396.95美元，直降900美元创历史新低，并免费赠送XQD卡，是阵亡将士纪念日最佳专业相机优惠。",
-      "recommendation": "尼康Z8直降900美元至3396.95美元，附赠XQD卡，为专业相机罕见低价，提供具体优惠幅度与赠品信息，适合关注高端机型动态的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Nikon Z8 is now $900 off at B&H, at its lowest-ever price, and comes with a FREE XQD card to sweeten the deal"
-    },
-    {
-      "id": "recvkgSJwGo3tc",
-      "title": "a7R VI的新速度是否会影响其动态范围？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/2817322047/sony-a7r-vi-dynamic-range-studio-tests",
-      "publish_time": "2026-05-21T21:00:00+08:00",
-      "summary": "索尼a7R VI承诺成为系列中速度最快且动态范围优于前代的相机，采用新技术实现这一目标。",
-      "recommendation": "解析a7R VI速度提升对动态范围的实际影响，提供传感器技术细节与实测数据对比，适合关注高像素机型画质取舍的摄影爱好者。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Does the a7R VI's newfound speed cast a shadow on its dynamic range?"
-    },
-    {
-      "id": "recvkgTwl5VQ0S",
-      "title": "老蛙让鱼眼摄影比以往更加多功能",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/21/laowa-just-made-fisheye-photography-more-versatile-than-ever-before/",
-      "publish_time": "2026-05-21T21:00:00+08:00",
-      "summary": "老蛙推出新鱼眼镜头，为APS-C和M4/3用户提供优质实惠选择，扩展产品线，提升鱼眼摄影多功能性。",
-      "recommendation": "老蛙新鱼眼镜头为APS-C和M4/3用户提供高性价比选择，扩展产品线并提升多功能性，适合追求创意视角的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Laowa Just Made Fisheye Photography More Versatile Than Ever Before"
     }
   ]
 }
