@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-04T05:40:07.017005+08:00",
+    "updated_at": "2026-06-04T13:28:12.389028+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 22
+      "count": 23
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 129
+      "count": 127
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,77 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 371
+      "count": 373
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 204
+      "count": 202
     }
   ],
   "articles": [
+    {
+      "id": "recvly9XBtuXu4",
+      "title": "三星Galaxy Z Fold8 Ultra名称获蓝牙SIG认证",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_moniker_confirmed-news-73119.php",
+      "publish_time": "2026-06-04T13:15:02+08:00",
+      "summary": "三星Galaxy Z Fold8 Ultra名称获蓝牙SIG认证，确认今年将推出两款折叠手机，包括Fold8和Fold8 Ultra，此前更名造成混淆。",
+      "recommendation": "确认Fold8 Ultra命名，暗示三星折叠屏影像旗舰布局。对关注折叠手机长焦、计算摄影能力的用户有参考价值，属常规产品资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8 Ultra moniker confirmed by Bluetooth SIG"
+    },
+    {
+      "id": "recvlya4ANAnwj",
+      "title": "尼康发布新款Nikkor Z 70-200mm f/2.8 VR S II镜头固件更新1.10版",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/03/nikon-released-firmware-update-version-1-10-for-the-new-nikkor-z-70-200mm-f-2-8-vr-s-ii-lens.aspx/",
+      "publish_time": "2026-06-04T11:50:16+08:00",
+      "summary": "尼康发布Nikkor Z 70-200mm f/2.8 VR S II镜头固件1.10版，修复与TC-2.0x增距镜配合时自动对焦响应慢的问题。",
+      "recommendation": "针对Z 70-200mm f/2.8用户，固件修复TC-2.0x增距镜对焦延迟问题，提升长焦拍摄体验。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon released firmware update version 1.10 for the new Nikkor Z 70-200mm f/2.8 VR S II lens"
+    },
+    {
+      "id": "recvlya0cSiXfp",
+      "title": "OPPO和vivo均在研发大疆Osmo Pocket 4竞品，相机信息泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_and_vivo_are_both_making_dji_osmo_pocket_4_competitors_camera_info_leaks-news-73117.php",
+      "publish_time": "2026-06-04T09:12:02+08:00",
+      "summary": "OPPO和vivo均在研发大疆Osmo Pocket 4竞品，均配备200MP摄像头和1/1.12英寸索尼Lytia 901传感器，OPPO或与哈苏联名，vivo与蔡司联名。",
+      "recommendation": "独家披露OPPO/vivo竞品Osmo Pocket 4，含200MP传感器参数与联名细节，为手持云台相机市场提供前瞻数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Oppo and vivo are both making DJI Osmo Pocket 4 competitors, camera info leaks"
+    },
+    {
+      "id": "recvlya2ourad3",
+      "title": "苹果欧洲首个开发者中心将于今年晚些时候在柏林开业",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apples_first_developer_center_in_europe_will_open_its_doors_in_berlin_later_this_year-news-73113.php",
+      "publish_time": "2026-06-04T05:51:02+08:00",
+      "summary": "苹果宣布今年晚些时候在柏林开设欧洲首个开发者中心，提供研讨会和平台支持，以改善与欧洲应用开发者的关系。",
+      "recommendation": "苹果柏林开发者中心虽非直接影像内容，但可能涉及iOS影像API更新，间接影响手机摄影生态。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple's first Developer Center in Europe will open its doors in Berlin later this year"
+    },
     {
       "id": "recvlwg5jzIxGs",
       "title": "百年仅见两次的“失落”鹦鹉最佳照片",
@@ -7764,69 +7826,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "CNN Tested 15 Travel Cameras — And This Fujifilm Model Won the Battle"
-    },
-    {
-      "id": "recvkmDWtqVhBZ",
-      "title": "蔡司预告镜头技术“重大飞跃”",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/22/zeiss-teases-a-major-leap-in-lens-technology/",
-      "publish_time": "2026-05-22T22:00:00+08:00",
-      "summary": "蔡司预告6月2日揭晓镜头技术重大飞跃，Otus系列回归但手动对焦未满足部分用户，新突破值得期待。",
-      "recommendation": "蔡司预告Otus系列回归及6月2日技术突破，对手动对焦用户有针对性价值，但缺乏具体参数，常规资讯可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Zeiss Teases a “Major Leap” in Lens Technology"
-    },
-    {
-      "id": "recvkmDqMffFuZ",
-      "title": "用半个镜头拍照是什么体验？",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/22/what-does-it-look-to-take-a-photo-with-half-a-lens/",
-      "publish_time": "2026-05-22T21:20:23+08:00",
-      "summary": "Viltrox在Instagram展示用被切成两半的镜头拍照的演示，揭示其独特成像效果。",
-      "recommendation": "Viltrox展示被切半镜头的实拍效果，揭示极端光学结构对成像的独特影响，为摄影爱好者提供非传统创作视角的硬核技术参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What Does It Look to Take a Photo With Half a Lens?"
-    },
-    {
-      "id": "recvkmE38VeYBe",
-      "title": "索尼正在为2026年第三季度后的Alpha相机研发新的显示技术",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-is-working-on-a-new-display-technology-for-its-alpha-cameras-after-2026q3/",
-      "publish_time": "2026-05-22T21:05:34+08:00",
-      "summary": "索尼正研发用于Alpha相机的新显示技术，对比LCD加LED背光与FSC LCD加OLED背光，预计2026年第三季度后推出。",
-      "recommendation": "解析索尼Alpha相机新显示技术路线，对比LCD与FSC LCD方案，提供2026年时间节点，对关注未来相机取景器发展的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "SONY is working on a new display technology for its Alpha cameras after 2026’Q3 ?"
-    },
-    {
-      "id": "recvkmDzQdmGWF",
-      "title": "合作可能是你的摄影所需的创意推动力",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/7501109396/collaboration-might-be-the-creative-push-your-photography-needs",
-      "publish_time": "2026-05-22T21:00:00+08:00",
-      "summary": "合作摄影项目如双重曝光系列能提供创意推动力，打破独自创作的孤立，带来反馈和不同视角。",
-      "recommendation": "本文通过双重曝光等合作案例，解析如何突破创作瓶颈，提供实战视角与反馈价值，适合寻求创意突破的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Collaboration might be the creative push your photography needs"
     }
   ]
 }
