@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-05T13:05:57.321686+08:00",
+    "updated_at": "2026-06-05T18:40:47.336856+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 127
+      "count": 130
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,130 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 48
+      "count": 47
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 196
+      "count": 194
     }
   ],
   "articles": [
+    {
+      "id": "recvlFh5ktrdeP",
+      "title": "想要8K 360度视频？Insta360 X4 Air相机降至历史最低价！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/360-cameras/want-8k-360-video-insta360-x4-air-camera-drops-to-its-lowest-price-ever",
+      "publish_time": "2026-06-05T18:21:20+08:00",
+      "summary": "Insta360 X4 Air相机降至历史最低价，支持8K 360度视频拍摄，终极套装大幅折扣。",
+      "recommendation": "文章提供Insta360 X4 Air降至历史最低价的具体信息，对关注8K 360度视频的爱好者有价格参考价值，但缺乏独家数据或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Want 8K 360 video? Insta360 X4 Air camera drops to its lowest price ever!"
+    },
+    {
+      "id": "recvlFh36FNpYI",
+      "title": "警长被控在德莱尼厅抗议活动中偷窃摄影师相机包",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/05/police-sergeant-charged-with-stealing-photographers-camera-bag-from-delaney-hall-protests/",
+      "publish_time": "2026-06-05T18:13:34+08:00",
+      "summary": "新泽西州警长被控在德莱尼厅抗议活动中偷窃摄影师相机包，此前摄影师被木板击中就医。",
+      "recommendation": "事件涉及摄影师装备安全与执法冲突，对影像从业者具警示价值，但缺乏独家数据或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Police Sergeant Charged With Stealing Photographer’s Camera Bag From Delaney Hall Protests"
+    },
+    {
+      "id": "recvlFhfSpc3HJ",
+      "title": "腾龙4款2000美元以下最佳全能变焦镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/05/the-4-best-all-round-zoom-lenses-from-tamron-under-2000/",
+      "publish_time": "2026-06-05T18:00:00+08:00",
+      "summary": "腾龙推出4款2000美元以下全能变焦镜头，覆盖宽广焦段，适合旅行摄影师，无需携带多支镜头。",
+      "recommendation": "文章汇总腾龙4款2000美元以下全能变焦镜头参数与焦段覆盖，提供旅行摄影一镜走天涯的实用方案，适合预算有限但追求焦段灵活性的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 4 Best All-Round Zoom Lenses From Tamron Under $2000"
+    },
+    {
+      "id": "recvlFh7mSVNhh",
+      "title": "这些是已故火星探测器的最佳照片——MAVEN轨道器十多年来以前所未有的细节拍摄红色星球",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/these-are-the-best-photos-from-the-dead-mars-probe-maven-orbiter-photographed-the-red-planet-in-unprecedented-detail-for-over-a-decade",
+      "publish_time": "2026-06-05T17:48:35+08:00",
+      "summary": "MAVEN轨道器搭载紫外相机，十多年来以前所未有细节拍摄火星，留下色彩鲜艳的惊人图像，现已失联。",
+      "recommendation": "火星紫外影像揭示大气细节，提供非可见光摄影的独特视角，对计算摄影与多光谱成像爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These are the best photos from the dead Mars probe - MAVEN orbiter photographed the red planet in unprecedented detail for over a decade"
+    },
+    {
+      "id": "recvlFh9l93YiQ",
+      "title": "6款镜头正在从日本市场消失——包括一款2024年发布的产品",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/6-lenses-are-vanishing-from-the-japanese-market-including-a-2024-release",
+      "publish_time": "2026-06-05T17:43:41+08:00",
+      "summary": "福伦达6款镜头在日本停产，包括2024年发布的尼康Z卡口和徕卡M卡口产品。",
+      "recommendation": "福伦达6款镜头日本停产，含2024年新品，揭示小众品牌市场策略与卡口生态变化，对关注副厂镜头存亡的玩家有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "6 lenses are vanishing from the Japanese market – including a 2024 release"
+    },
+    {
+      "id": "recvlFhbKtmueb",
+      "title": "新固件更新修复尼康旗舰长焦镜头自动对焦问题",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/new-firmware-update-fixes-autofocus-issues-on-nikon-flagship-telephoto-lens",
+      "publish_time": "2026-06-05T17:14:14+08:00",
+      "summary": "尼康Z 70-200mm f/2.8 VR S II新固件修复使用增距镜时自动对焦响应慢的问题",
+      "recommendation": "尼康Z 70-200mm f/2.8固件修复增距镜对焦延迟，长焦用户升级后提升拍摄响应，常规资讯可了解优化细节。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New firmware update fixes autofocus issues on Nikon flagship telephoto lens"
+    },
+    {
+      "id": "recvlFhhWc4aEm",
+      "title": "最适合天文摄影师的佳能相机套件",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/05/the-best-canon-camera-kit-for-astrophotographers/",
+      "publish_time": "2026-06-05T15:00:00+08:00",
+      "summary": "Lensbaby推出新款饼干镜头，为天文摄影师提供紧凑且虚化效果出色的选择，解决预算与性能平衡问题。",
+      "recommendation": "Lensbaby饼干镜头为天文摄影师提供紧凑虚化方案，解析预算与性能平衡的实用数据，适合关注入门天文摄影器材的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Canon Camera Kit for Astrophotographers"
+    },
     {
       "id": "recvlDUSLr6Hdk",
       "title": "小米18 Pro将配备更大的后置屏幕",
@@ -662,6 +772,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Japanese photographers can't stop buying these compact cameras – and smartphone fatigue might be the reason"
+    },
+    {
+      "id": "recvlFhdIYFb1a",
+      "title": "这些畅销的紧凑型相机共享成功秘诀——智能手机疲劳或可解释其在日本的成功",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/japanese-photographers-cant-stop-buying-these-compact-cameras-and-smartphone-fatigue-might-be-the-reason",
+      "publish_time": "2026-06-04T18:38:30+08:00",
+      "summary": "日本畅销紧凑型相机设计简洁，起售价99美元，其成功或归因于智能手机疲劳。",
+      "recommendation": "解析紧凑型相机在日本畅销的深层原因，提出智能手机疲劳这一独特视角，为影像爱好者提供市场趋势洞察与消费心理分析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These best-selling compact cameras share a winning formula – and smartphone fatigue may explain their success in Japan"
     },
     {
       "id": "recvlALmFQr6eL",
@@ -7706,131 +7832,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Reaching far with Sony's 100-400mm F4.5 zoom lens"
-    },
-    {
-      "id": "recvky04reh7sU",
-      "title": "松下Lumix L10评测：一款时尚便携机，终于为富士X100VI提供了变焦镜头替代方案",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/panasonic-lumix-l10-review",
-      "publish_time": "2026-05-24T21:30:00+08:00",
-      "summary": "松下Lumix L10评测：时尚便携机，配备徕卡变焦镜头和机内LUT，但紧凑度和高级感未达预期，为富士X100VI提供变焦替代方案。",
-      "recommendation": "评测对比松下L10与富士X100VI，提供变焦替代方案，含徕卡镜头和机内LUT实测，指出紧凑度不足的独特观点。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Panasonic Lumix L10 review: a stylish compact that finally gives a zoom lens alternative to Fujifilm’s X100VI"
-    },
-    {
-      "id": "recvkxZViVJm30",
-      "title": "怀旧经典：回顾那些原始数码相机",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/8383410380/blast-from-the-past-check-out-these-primordial-digital-cameras",
-      "publish_time": "2026-05-24T21:00:00+08:00",
-      "summary": "BBC《明日世界》节目回顾1990年报道的数码相机创新，从数字视频静像相机开始，探讨其技术参数与市场成功，揭示早期数码摄影的发展历程。",
-      "recommendation": "从BBC《明日世界》档案挖掘早期数码相机技术参数与市场成败，为影像爱好者提供稀缺的历史视角与产品洞察。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Blast from the past: check out these primordial digital cameras"
-    },
-    {
-      "id": "recvky06wvV8rM",
-      "title": "如果你在户外拍摄，我认为天气永远比你使用的相机设备更重要",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/landscape-photography/if-you-shoot-outdoors-id-argue-that-the-weather-is-always-more-important-than-the-camera-kit-you-use",
-      "publish_time": "2026-05-24T20:30:00+08:00",
-      "summary": "户外拍摄中，天气比相机设备更重要，风光摄影关键在于规划与坚持而非设备或技巧。",
-      "recommendation": "打破设备迷信，强调天气规划对风光摄影的决定性作用，提供户外拍摄的实战策略与坚持方法论，适合追求出片的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "If you shoot outdoors, I’d argue that the weather is always more important than the camera kit you use"
-    },
-    {
-      "id": "recvky0dvysOty",
-      "title": "Philip Reeve评测Thypoch Voyager 24-50mm f/2.8 FE：“我绝对没想到会这样”",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/thypoch-voyager-24-50mm-f-2-8-fe-review-by-philip-reeve-i-surely-didnt-see-this-coming/",
-      "publish_time": "2026-05-24T19:43:41+08:00",
-      "summary": "Philip Reeve评测Thypoch Voyager 24-50mm f/2.8 FE镜头，惊讶于其内变焦设计，变焦时长度不变，并赞赏其性能。",
-      "recommendation": "内变焦设计是亮点，变焦时镜身长度不变，实测性能数据详实，对关注便携变焦镜头的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Thypoch Voyager 24-50mm f/2.8 FE review by Philip Reeve: “I surely didn’t see this coming”"
-    },
-    {
-      "id": "recvky027A2H8N",
-      "title": "索尼1000X系列、小米17 Max正式发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/sony_1000x_the_collexion_xiaomi_17_max_are_official-news-72957.php",
-      "publish_time": "2026-05-24T19:33:02+08:00",
-      "summary": "小米17 Max发布，配备200MP主摄、8000mAh电池及骁龙8 Elite Gen 5，起售价4799元",
-      "recommendation": "小米17 Max搭载200MP主摄与骁龙8 Elite Gen 5，影像爱好者可关注其计算摄影与续航平衡的实测表现，文章提供起售价等关键数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony 1000X The ColleXion, Xiaomi 17 Max are official"
-    },
-    {
-      "id": "recvkzmy5lfy1o",
-      "title": "索尼1000X系列、小米17 Max正式发布——第21周回顾",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/sony_1000x_the_collexion_xiaomi_17_max_are_official-news-72957.php",
-      "publish_time": "2026-05-24T19:33:02+08:00",
-      "summary": "小米17 Max发布，配备200MP主摄、8000mAh电池和骁龙8 Elite Gen 5，12/256GB起售价4799元。",
-      "recommendation": "小米17 Max搭载200MP主摄与骁龙8 Elite Gen 5，提供高像素与长续航影像方案，适合关注手机影像硬件升级的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony 1000X The ColleXion, Xiaomi 17 Max are official - week 21 in review"
-    },
-    {
-      "id": "recvkxZXN5ZOfl",
-      "title": "水下相机捕捉海豹在秘密“气泡洞穴”中休息",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/24/remote-underwater-cameras-reveal-how-worlds-rarest-seals-rest-in-secret-bubble-caves/",
-      "publish_time": "2026-05-24T19:00:42+08:00",
-      "summary": "科学家利用远程摄像头揭示世界上最稀有的海豹在水下气泡洞穴中秘密休息以避开人类视线",
-      "recommendation": "展示水下相机在极端环境中的实际应用，揭示海豹行为与气泡洞穴的影像捕捉技巧，提供野生动物摄影的独特视角与设备选型参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Underwater Cameras Capture Seals Resting in Secret ‘Bubble Caves’"
-    },
-    {
-      "id": "recvkxZZOfAKpL",
-      "title": "学生将底片送入太空，在胶片上捕捉宇宙辐射",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/24/student-captures-cosmic-radiation-on-film-by-sending-negative-to-space/",
-      "publish_time": "2026-05-24T19:00:02+08:00",
-      "summary": "一名摄影专业学生于4月19日将5x4彩色负片送入太空，暴露于宇宙辐射，拍摄出前所未有的抽象太空肖像。",
-      "recommendation": "胶片与宇宙辐射碰撞的独特实验，提供底片暴露于太空环境的实测数据与影像结果，对探索非传统摄影媒介的爱好者有技术参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Student Captures Cosmic Radiation on Film by Sending Negative to Space"
     }
   ]
 }
