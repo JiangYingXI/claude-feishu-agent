@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-05T23:42:04.710974+08:00",
+    "updated_at": "2026-06-06T04:32:50.521283+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,15 +33,154 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 379
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 198
+      "count": 197
     }
   ],
   "articles": [
+    {
+      "id": "recvlHGeZjab6D",
+      "title": "索尼首款单反有个疯狂功能：无需按任何按钮即可开始对焦",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/sonys-first-ever-dslr-had-a-wild-feature-that-started-focusing-without-pressing-any-buttons",
+      "publish_time": "2026-06-06T03:57:02+08:00",
+      "summary": "索尼Alpha A100作为Alpha系列创始机型，20年前推出，拥有无需按钮即可自动对焦的独特功能。",
+      "recommendation": "回顾索尼Alpha A100的免按键自动对焦设计，解析20年前的技术创新思路，对理解单反演进史有独特价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony’s first-ever DSLR had a wild feature that started focusing without pressing any buttons"
+    },
+    {
+      "id": "recvlHGjhhFqjN",
+      "title": "如果时间就是金钱，那么我们的预设能为您节省一大笔财富",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/05/ai-cant-do-presets-copy-2/",
+      "publish_time": "2026-06-06T03:00:00+08:00",
+      "summary": "预设旨在节省编辑时间，强调真实性和复现AI难以实现的视觉效果，核心价值在于提升效率同时保持摄影真实性。",
+      "recommendation": "文章聚焦预设如何平衡效率与真实性，提供AI难以复制的视觉风格，适合追求高效后期与独特影像质感的摄影爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "If Time is Money, Then Our Presets Save You a Fortune"
+    },
+    {
+      "id": "recvlHGh2fFBpQ",
+      "title": "亨利·卡蒂埃-布列松会赞许的：国家地理获奖街拍捕捉现实与艺术世界的决定性瞬间",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/henri-cartier-bresson-would-approve-of-this-nat-geo-award-winning-street-photo-capturing-a-decisive-moment-between-the-real-and-art-world",
+      "publish_time": "2026-06-06T02:31:52+08:00",
+      "summary": "国家地理获奖街拍捕捉现实与艺术世界的决定性瞬间，体现布列松哲学，场景元素完美和谐汇聚。",
+      "recommendation": "解析布列松“决定性瞬间”在街拍中的实践，结合国家地理获奖作品案例，提供构图与时机把控的实用方法论。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Henri Cartier-Bresson would approve of this Nat Geo award-winning street photo capturing a decisive moment between the real and art world"
+    },
+    {
+      "id": "recvlHG4AUWNYF",
+      "title": "7-Eleven与New Balance联名推出限量版相机跨界合作",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/05/7-eleven-and-new-balance-team-for-a-limited-edition-camera-crossover/",
+      "publish_time": "2026-06-06T01:37:03+08:00",
+      "summary": "7-Eleven与New Balance联名推出限量版相机，仿柯达Charmera设计，趣味十足。",
+      "recommendation": "跨界联名设计趣味十足，揭示品牌合作新趋势，对关注影像文化融合的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "7-Eleven and New Balance Team for a Limited-Edition Camera Crossover"
+    },
+    {
+      "id": "recvlHG6SJ89zh",
+      "title": "Viltrox新款监视器：5.5英寸高亮屏与强大相机控制",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/05/viltroxs-new-monitor-has-a-bright-5-5-inch-display-and-robust-camera-control/",
+      "publish_time": "2026-06-06T00:49:04+08:00",
+      "summary": "Viltrox发布DC-550 Pro II，5.5英寸高亮监视器，轻量化设计，支持相机控制，适合电影制作人和内容创作者。",
+      "recommendation": "解析Viltrox新款监视器5.5英寸高亮屏与相机控制功能，提供轻量化设计参数，适合视频创作者了解外拍辅助设备新选择。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox’s New Monitor Has a Bright 5.5-Inch Display and Robust Camera Control"
+    },
+    {
+      "id": "recvlHG8SVnOaE",
+      "title": "尼康终于推出日本限定Zf-GR1相机手柄银色版",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/05/nikon-finally-launches-silver-version-of-its-japan-only-zf-gr1-camera-grip/",
+      "publish_time": "2026-06-06T00:26:06+08:00",
+      "summary": "尼康为Zf-GR1扩展手柄推出银色版，日本限定，距Zf发布近三年",
+      "recommendation": "尼康为Zf推出银色限定手柄，距发布近三年，提供机身配色新选择。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Finally Launches Silver Version of its Japan-Only Zf-GR1 Camera Grip"
+    },
+    {
+      "id": "recvlHGaZKJwO8",
+      "title": "胶片星期五：Optik OptiColour 是一款新彩色胶片（拥有众多别名）",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/05/film-friday-optik-opticolour-is-a-new-color-film-that-goes-by-many-names/",
+      "publish_time": "2026-06-06T00:24:19+08:00",
+      "summary": "本期Film Friday Review介绍一款别名众多的新型彩色胶片，如Optik OptiColour、ORWO Wolfen NC200和KONO Color 200，核心价值在于其多样化的市场",
+      "recommendation": "解析Optik OptiColour等多别名胶片的市场策略与特性，为胶片爱好者提供选购参考，揭示同一配方不同品牌化的行业现象。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Film Friday: Optik OptiColour Is a New Color Film (That Goes By Many Names)"
+    },
+    {
+      "id": "recvlHGd7HIr9z",
+      "title": "从广角到超长焦，Sigma镜头大促省大钱",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/05/save-big-on-sigma-lenses-from-wide-angle-to-super-telephoto/",
+      "publish_time": "2026-06-06T00:18:27+08:00",
+      "summary": "适马本周促销涵盖超广角至超远摄全系列镜头，包括APS-C变焦、Art定焦及旅行镜头，以高性价比挑战原厂。",
+      "recommendation": "适马全系镜头促销信息汇总，涵盖超广角至超远摄，对追求高性价比的影像爱好者有直接参考价值，但无独家数据或深度观点。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Save Big on Sigma Lenses From Wide-Angle to Super Telephoto"
+    },
+    {
+      "id": "recvlHGlk4rXdL",
+      "title": "达芬奇调色照片编辑器评测：别费劲了",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/05/da-vinci-resolve-photo-editor-review-dont-bother/",
+      "publish_time": "2026-06-06T00:00:00+08:00",
+      "summary": "DaVinci Resolve免费版提供专业级编辑功能，媲美付费软件，是内容创作者的优选。",
+      "recommendation": "深度对比达芬奇免费版与付费版功能差异，提供调色工作流优化技巧，对视频创作者有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Da Vinci Resolve Photo Editor Review: Don’t Bother"
+    },
     {
       "id": "recvlGuFFT7xy1",
       "title": "Cinelux Sixteen相机同时拍摄Super 16胶片和数字视频",
@@ -7692,144 +7831,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Motorola Edge 70 Pro+ India launch date revealed"
-    },
-    {
-      "id": "recvkEcqA2j3SH",
-      "title": "索尼正在为其相机开发新的显示技术吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/25/is-sony-developing-a-new-display-technology-for-its-cameras/",
-      "publish_time": "2026-05-25T19:49:21+08:00",
-      "summary": "索尼正研发新技术以改进相机LCD，旨在突破显示极限，巩固其创新相机领域的领先地位。",
-      "recommendation": "文章探讨索尼相机LCD显示技术突破，涉及行业趋势与创新方向，对关注相机硬件升级的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is Sony Developing a New Display Technology For Its Cameras?"
-    },
-    {
-      "id": "recvkEc6JQOydk",
-      "title": "奥斯卡·王尔德临终最后一张照片背后的故事",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/25/the-story-behind-the-last-photograph-of-oscar-wilde-on-his-death-bed/",
-      "publish_time": "2026-05-25T19:00:02+08:00",
-      "summary": "文学偶像奥斯卡·王尔德的最后一张照片，在其去世几小时后于巴黎酒店房间拍摄，使用借来相机和易爆早期闪光灯。",
-      "recommendation": "从早期闪光灯技术到借相机拍摄，揭示19世纪摄影器材的局限与操作细节，对理解摄影史与技术演进有独特价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Story Behind The Last Photograph of Oscar Wilde on His Death Bed"
-    },
-    {
-      "id": "recvkD2Mzo1TNH",
-      "title": "这位超人气婚礼摄影师揭秘：为何拍摄大日子时个性胜过技术",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/wedding-photography/this-hype-girl-wedding-photographer-reveals-why-personality-beats-technical-skill-when-it-comes-to-shooting-the-big-day",
-      "publish_time": "2026-05-25T17:41:01+08:00",
-      "summary": "超人气婚礼摄影师强调，拍摄大日子时个性比技术更重要，分享其“氛围感女孩”拍摄方法，核心在于捕捉真实情感与独特氛围。",
-      "recommendation": "婚礼摄影师分享个性优先于技术的实战经验，提供“氛围感女孩”拍摄方法论，对追求情感表达的影像爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This hype-girl wedding photographer reveals why personality beats technical skill when it comes to shooting the big day"
-    },
-    {
-      "id": "recvkD2VF2FvON",
-      "title": "日本最新畅销榜：索尼A7cII持续热销",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-japans-best-seller-list-sony-a7cii-still-selling-hot/",
-      "publish_time": "2026-05-25T17:23:05+08:00",
-      "summary": "日本最新畅销榜显示索尼A7CII持续热销，榜单包括索尼多款机型及尼康、富士、佳能等品牌相机，原文首发于sonyalpharumors。",
-      "recommendation": "日本畅销榜数据揭示索尼A7CII市场热度，含多品牌机型排名，为购机决策提供地域性参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Japans Best Seller list: Sony A7cII still selling hot"
-    },
-    {
-      "id": "recvkD2OGuHxOZ",
-      "title": "这段老虎视频因错误原因走红。我对与圈养老虎合影的趋势感到震惊",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/this-tiger-video-is-going-viral-for-all-the-wrong-reasons-im-shocked-by-the-trend-of-taking-photos-with-captive-tigers",
-      "publish_time": "2026-05-25T17:10:00+08:00",
-      "summary": "文章批评游客与圈养老虎合影的趋势，质疑动物园动物福利，指出老虎视频因错误原因走红。",
-      "recommendation": "从影像伦理角度反思野生动物摄影，揭示圈养场景下的拍摄误区，提供不同于技术参数的深度视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This tiger video is going viral for all the wrong reasons. I’m shocked by the trend of taking photos with captive tigers"
-    },
-    {
-      "id": "recvkD2TkQGnlH",
-      "title": "华为nova 16系列将于6月1日发布，设计曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/huawei_nova_16_series_to_launch_on_june_1_design_revealed-news-72972.php",
-      "publish_time": "2026-05-25T15:00:02+08:00",
-      "summary": "华为宣布nova 16系列将于6月1日在中国发布，包括nova 16、Pro、z和Ultra四款机型，其中Pro和Ultra配备后置三摄，已开启预订。",
-      "recommendation": "华为nova 16系列影像配置曝光，Pro/Ultra后置三摄细节待解，可提前关注计算摄影与传感器升级方向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Huawei nova 16 series to launch on June 1, design revealed"
-    },
-    {
-      "id": "recvkD30mDrJkA",
-      "title": "让你的镜头拍出最锐利图像的技巧",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/25/ensure-lenses-always-give-sharpest-images-copy/",
-      "publish_time": "2026-05-25T15:00:00+08:00",
-      "summary": "镜头比相机更重要，传感器像素未大幅变化，优化镜头设置可获最锐利图像。",
-      "recommendation": "从镜头光学角度解析锐度优化，提供具体设置技巧与数据支撑，对追求画质的影像爱好者有实操价值。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Tricks to Get the Sharpest Images From Your Lenses"
-    },
-    {
-      "id": "recvkD2Y7lVqKK",
-      "title": "索尼花絮…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1907/",
-      "publish_time": "2026-05-25T14:39:16+08:00",
-      "summary": "文章提供索尼相机在婚礼摄影中的最佳自动对焦设置、A7V初学者指南、多平台特惠信息，以及野生动物摄影入门、模拟摄影大师班和跨国摄影体验等内容。",
-      "recommendation": "涵盖婚礼对焦设置、A7V入门、野生动物摄影等多元内容，提供实用技巧与行业优惠信息，适合摄影爱好者扩展知识面。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvkD2QMztt8N",
-      "title": "我不在乎这款佳能超广角定焦镜头如此昂贵——我认为它是大型风光摄影中无可匹敌的镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/composition/i-dont-care-that-this-canon-super-wide-prime-is-so-expensive-i-think-its-an-unbeatable-lens-for-big-landscape-photography",
-      "publish_time": "2026-05-25T14:15:00+08:00",
-      "summary": "佳能RF 14mm f/1.4L VCM超广角定焦镜头虽价格昂贵，但凭借f/1.4大光圈和卓越光学素质，在大型风光摄影中表现无可匹敌。",
-      "recommendation": "解析佳能RF 14mm f/1.4L在大型风光中的独特优势，提供f/1.4大光圈与光学素质的深度数据，适合追求极致画质的风光摄影师。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I don’t care that this Canon super-wide prime is so expensive – I think it’s an unbeatable lens for big landscape photography"
     }
   ]
 }
