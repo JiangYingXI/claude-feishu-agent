@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-05T04:38:31.469848+08:00",
+    "updated_at": "2026-06-05T13:05:57.321686+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 28
+      "count": 29
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 126
+      "count": 127
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,87 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 199
+      "count": 196
     }
   ],
   "articles": [
+    {
+      "id": "recvlDUSLr6Hdk",
+      "title": "小米18 Pro将配备更大的后置屏幕",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_18_pro_is_getting_a_bigger_rear_screen-news-73137.php",
+      "publish_time": "2026-06-05T12:06:02+08:00",
+      "summary": "小米18 Pro将配备4英寸后置屏幕，比前代2.7英寸更大，且亮度和分辨率更高，提升像素密度。",
+      "recommendation": "文章披露小米18 Pro后屏从2.7英寸增至4英寸，分辨率与亮度提升，为影像创作者提供更清晰的副屏取景与参数预览，属行业首发数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Xiaomi 18 Pro is getting a bigger rear screen"
+    },
+    {
+      "id": "recvlDUQkEBk9k",
+      "title": "Light Lens Lab 75mm f/1.5 'Z21' 定焦镜头采用全新原创光学设计",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/04/light-lens-lab-75mm-f-1-5-z21-prime-has-an-entirely-original-optical-design/",
+      "publish_time": "2026-06-05T12:00:48+08:00",
+      "summary": "光透镜实验室发布75mm f/1.5 Z21徕卡M卡口手动对焦中焦人像定焦镜头，采用全新原创光学设计",
+      "recommendation": "解析Light Lens Lab 75mm f/1.5 Z21的原创光学设计，提供MTF曲线与镜组结构数据，对徕卡M口用户评估中焦人像镜头有参考价值。",
+      "categories": [
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Light Lens Lab 75mm f/1.5 ‘Z21’ Prime Has An Entirely Original Optical Design"
+    },
+    {
+      "id": "recvlDUZBHO6RZ",
+      "title": "2013年五款最佳紧凑型相机，2026年依然出色",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/05/the-5-best-compact-cameras-from-2013-that-are-great-in-2026/",
+      "publish_time": "2026-06-05T12:00:00+08:00",
+      "summary": "2013年五款最佳紧凑型相机至今仍出色，满足小巧易用且画质高的需求，适合追求复古风格的摄影师。",
+      "recommendation": "回顾2013年五款经典紧凑相机，分析其画质与设计至今仍具竞争力，为复古风格爱好者提供选购参考，含传感器尺寸与镜头参数对比。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 5 Best Compact Cameras From 2013 that are Great in 2026"
+    },
+    {
+      "id": "recvlDUV8VjDIl",
+      "title": "小米18 Pro Max相机细节泄露，配备两颗200MP传感器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_18_pro_max_camera_details_leak_two_200mp_sensors_are_in-news-73135.php",
+      "publish_time": "2026-06-05T09:02:02+08:00",
+      "summary": "小米18 Pro Max传闻配备200MP主摄和200MP潜望长焦，支持3倍光变和微距，较前代大幅升级",
+      "recommendation": "文章曝光小米18 Pro Max双200MP传感器配置，主摄与潜望长焦参数明确，对关注旗舰手机影像硬件升级的用户有直接参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Xiaomi 18 Pro Max camera details leak, two 200MP sensors are in"
+    },
+    {
+      "id": "recvlDUXmnaBsY",
+      "title": "苹果或已取消所有Vision Pro后续机型，黑色版泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_may_have_cancelled_all_vision_pro_successors_black_version_leaks-news-73129.php",
+      "publish_time": "2026-06-05T04:31:02+08:00",
+      "summary": "苹果可能取消所有Vision Pro后续机型，黑色版原型泄露，郭明錤修正此前预测。",
+      "recommendation": "苹果Vision Pro后续机型取消及黑色版泄露，揭示AR/VR影像生态战略调整，对关注空间计算影像的从业者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Apple may have cancelled all Vision Pro successors, black version leaks"
+    },
     {
       "id": "recvlBR7OkEDnw",
       "title": "Bird Buddy Pro太阳能蜂鸟喂食器评测：这款智能摄像头让我在度假时也能观看蜂鸟",
@@ -7754,84 +7831,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Student Captures Cosmic Radiation on Film by Sending Negative to Space"
-    },
-    {
-      "id": "recvky0fKEK0Wn",
-      "title": "你的作品集太烂了。以下是精确的改进方法。",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/24/the-brutal-truth-about-social-media-and-your-art-copy-4/",
-      "publish_time": "2026-05-24T18:00:00+08:00",
-      "summary": "文章指出社交媒体算法对摄影师不利，照片被埋没，并推出摄影师作品集评审项目，强调平台问题而非摄影本身。",
-      "recommendation": "直击摄影师在算法时代的痛点，提供作品集优化方法论，而非泛泛而谈。对想提升曝光度的影像爱好者有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Your Portfolio Sucks. Here’s Exactly How to Fix It."
-    },
-    {
-      "id": "recvky08BE6Td4",
-      "title": "尼康打造这款相机本想取代传奇，但专业人士却拒绝购买，尽管它坚固耐用",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/nikon-built-this-camera-to-replace-a-legend-but-professionals-refused-to-buy-it-despite-its-rugged-beauty",
-      "publish_time": "2026-05-24T17:10:00+08:00",
-      "summary": "尼康推出坚固耐用的先进相机试图取代传奇机型，但十多年来专业人士拒绝购买，坚持使用前代产品。",
-      "recommendation": "剖析尼康旗舰为何遭专业用户冷落，揭示行业经典机型难以被替代的深层逻辑，对理解相机市场用户忠诚度有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon built this camera to replace a legend – but professionals refused to buy it, despite its rugged beauty"
-    },
-    {
-      "id": "recvkwKUgS65qB",
-      "title": "最适合街头摄影师的尼康相机套件",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/24/the-best-nikon-camera-kit-for-street-photographers/",
-      "publish_time": "2026-05-24T15:00:00+08:00",
-      "summary": "尼康全画幅相机系统革新，为街头摄影提供两款精密相机与镜头套装选择。",
-      "recommendation": "解析尼康全画幅系统革新，提供两款街拍专用相机与镜头套装的详细配置数据，对街拍爱好者选机有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Best Nikon Camera Kit for Street Photographers"
-    },
-    {
-      "id": "recvkvHTfAPH8x",
-      "title": "每周投票：Android 17 的哪些功能让你兴奋？",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/weekly_poll_which_android_17_features_are_you_excited_about-news-72938.php",
-      "publish_time": "2026-05-24T12:33:02+08:00",
-      "summary": "Android 17测试中不断添加新功能，包括Gemini智能、Android Auto等，视频回顾亮点，核心价值在于提供丰富新功能与产品。",
-      "recommendation": "Android 17新增Gemini智能与Android Auto功能，虽未直接涉及影像，但系统底层优化可能影响计算摄影管线。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Weekly poll: which Android 17 features are you excited about?"
-    },
-    {
-      "id": "recvkvHX2nMas9",
-      "title": "5款1000美元以下最佳微距镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/24/the-5-best-macro-lenses-under-1000/",
-      "publish_time": "2026-05-24T12:00:00+08:00",
-      "summary": "微距摄影可观察微观细节，本文推荐5款1000美元以下微距镜头，涵盖昆虫色彩、产品细节与纹理捕捉，适合拓展作品集。",
-      "recommendation": "千元内微距镜头横评，涵盖昆虫、产品等场景，提供光圈、放大倍率等关键参数对比，适合拓展微观创作。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 5 Best Macro Lenses Under $1000"
     }
   ]
 }
