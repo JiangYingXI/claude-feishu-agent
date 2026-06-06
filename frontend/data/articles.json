@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-06T22:24:31.009906+08:00",
+    "updated_at": "2026-06-07T03:58:46.117949+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 29
+      "count": 28
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,77 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 202
+      "count": 201
     }
   ],
   "articles": [
+    {
+      "id": "recvlNofTN2C2R",
+      "title": "即将发布的Viltrox AF 90mm f/2.2和75mm f/1.8 EVO APS-C镜头（尼康Z卡口）规格泄露",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/06/leaked-specifications-of-the-upcoming-viltrox-af-90mm-f-2-2-75mm-f-1-8-evo-aps-c-lenses-for-nikon-z-mount.aspx/",
+      "publish_time": "2026-06-07T02:46:26+08:00",
+      "summary": "唯卓仕将于6月8日发布两款尼康Z卡口AF APS-C EVO镜头：90mm f/2.2和75mm f/1.8，规格已泄露。",
+      "recommendation": "文章提前曝光唯卓仕两款尼康Z卡口APS-C镜头规格，含90mm f/2.2和75mm f/1.8的焦距与光圈数据，为关注副厂镜头选择的用户提供新品动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leaked specifications of the upcoming Viltrox AF 90mm f/2.2 & 75mm f/1.8 EVO APS-C lenses for Nikon Z-mount"
+    },
+    {
+      "id": "recvlNobdzEX8K",
+      "title": "黑白电影感照片获摄影大奖：牧羊人尘土飞扬的旅途中的内姆鲁特山",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/cinematic-black-and-white-image-wins-major-photography-award-captured-on-a-shepherds-dusty-journey-toward-turkeys-famous-mount-nemrut",
+      "publish_time": "2026-06-07T02:15:00+08:00",
+      "summary": "摄影师用70-200mm长焦镜头拍摄牧羊人尘土飞扬的旅途，将内姆鲁特山的日常仪式转化为获奖黑白照片。",
+      "recommendation": "解析70-200mm长焦在纪实摄影中的运用，揭示黑白影调对尘土与光影的强化效果，提供牧羊人旅途的独家拍摄视角与获奖技术细节。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Cinematic black-and-white image wins major photography award – captured on a shepherd's dusty journey toward Turkey's famous Mount Nemrut"
+    },
+    {
+      "id": "recvlNoi7C2e5E",
+      "title": "Skylum Luminar Neo 夏季促销（低至3折）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/06/skylum-luminar-neo-summer-sale-up-to-70-off.aspx/",
+      "publish_time": "2026-06-07T02:00:39+08:00",
+      "summary": "Skylum推出Luminar Neo夏季促销，折扣高达70%，活动时间为2026年6月5日至28日，新用户桌面永久版119美元，跨设备永久版149美元，MAX永久版164.99美元，均附赠免费视频课",
+      "recommendation": "Luminar Neo夏季促销低至3折，活动期明确，新用户永久版119美元起，附赠视频课，适合后期爱好者低成本入手。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Skylum Luminar Neo Summer Sale (up to 70% off)"
+    },
+    {
+      "id": "recvlNodCT55yA",
+      "title": "保护还是利润？尼康与唯卓仕争议背后的隐藏真相",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/protection-or-profit-the-hidden-truth-behind-nikons-dispute-with-viltrox",
+      "publish_time": "2026-06-06T23:20:00+08:00",
+      "summary": "尼康与唯卓仕的专利纠纷表面为短期利润，实则旨在巩固未来镜头生态系统，保护其专利以维护长期市场优势。",
+      "recommendation": "解析尼康与唯卓仕专利纠纷背后的生态战略，揭示品牌如何通过专利布局维护镜头市场优势，对关注相机系统未来发展的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Protection or profit? The hidden truth behind Nikon’s dispute with Viltrox"
+    },
     {
       "id": "recvlM1O3CjIZD",
       "title": "24小时内12个主题12张照片：牛津摄影马拉松挑战摄影师“拥抱不完美”",
@@ -7762,69 +7824,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Samsung Galaxy S26 FE gets showcased inside some third-party cases"
-    },
-    {
-      "id": "recvkIOUSd6OIW",
-      "title": "适马是否在悄悄为人像摄影师打造更多镜头？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/26/is-sigma-quietly-building-more-lenses-for-portrait-photographers/",
-      "publish_time": "2026-05-26T15:00:00+08:00",
-      "summary": "适马可能正在研发三款新定焦镜头，专为人像摄影师设计，延续其高性能和亲民价格的传统。",
-      "recommendation": "适马可能推出三款新定焦人像镜头，延续高性能与亲民定价策略，对预算有限的人像摄影师有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is Sigma Quietly Building More Lenses for Portrait Photographers?"
-    },
-    {
-      "id": "recvkIOSBoQrJZ",
-      "title": "索尼小贴士…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1906/",
-      "publish_time": "2026-05-26T14:39:14+08:00",
-      "summary": "文章介绍了索尼相关摄影器材资讯，包括200mm镜头对比、野生动物构图指南、Viltrox和Samyang镜头评测等，为摄影爱好者提供实用技巧与产品信息。",
-      "recommendation": "涵盖索尼200mm镜头对比、野生动物构图指南及Viltrox/Samyang镜头评测，为摄影爱好者提供实用技巧与产品选择参考，信息丰富但无独家数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvkIOAeJMcPw",
-      "title": "这款电影感紧凑型相机屡获殊荣——但并非人人认同",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-film-inspired-compact-camera-is-winning-awards-but-not-everyone-agrees",
-      "publish_time": "2026-05-26T14:15:00+08:00",
-      "summary": "富士胶片复古紧凑型相机屡获殊荣，但因其独特设计引发争议，核心参数包括X-Trans CMOS传感器和胶片模拟模式",
-      "recommendation": "解析X-Trans CMOS与胶片模拟的争议点，提供传感器硬件与摄影美学的深度碰撞，适合纠结复古与性能的爱好者。",
-      "categories": [
-        "传感器硬件",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This film-inspired compact camera is winning awards – but not everyone agrees"
-    },
-    {
-      "id": "recvkIOCvxlHFC",
-      "title": "2026年摄影日：比利时亨克，由Foto Robyns呈现",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/photo-day-2026-genk-belgium-presented-by-foto-robyns/",
-      "publish_time": "2026-05-26T13:49:41+08:00",
-      "summary": "5月31日，Foto Robyns在比利时亨克举办大型摄影活动，面向比荷摄影爱好者，含讲座、实践及品牌参展，亮点为Jeroen Van Nieuwenhove。",
-      "recommendation": "文章报道了比利时亨克摄影日活动，包含讲座、实践及品牌参展信息，亮点为Jeroen Van Nieuwenhove。对欧洲摄影爱好者有参考价值，但缺乏独家数据或深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Photo Day 2026: Genk, Belgium Presented by Foto Robyns"
     }
   ]
 }
