@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-06T12:43:20.125744+08:00",
+    "updated_at": "2026-06-06T17:13:43.322441+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 126
+      "count": 123
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,82 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 42
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 380
+      "count": 381
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 195
+      "count": 197
     }
   ],
   "articles": [
+    {
+      "id": "recvlKLOWt4Vp6",
+      "title": "2026年单反 vs 无反相机：你该买哪个？",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/dslr-vs-mirrorless-cameras-in-2026-which-should-you-buy/",
+      "publish_time": "2026-06-06T15:08:40+08:00",
+      "summary": "2026年单反与无反相机对比，十年前单反因画质、对焦和镜头优势胜出，如今无反已全面超越，成为主流选择。",
+      "recommendation": "对比单反与无反的2026年现状，提供十年演变数据与选购决策依据，适合纠结升级的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DSLR vs Mirrorless Cameras in 2026: Which Should You Buy?"
+    },
+    {
+      "id": "recvlKLTC1alri",
+      "title": "每年25美元：无广告体验加额外福利",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/06/simple-math-copy-2/",
+      "publish_time": "2026-06-06T15:00:00+08:00",
+      "summary": "《Phoblographer》出版商提出每年25美元无广告订阅方案，通过用户小额付费维持网站运营，并计划重新出版纸质杂志。",
+      "recommendation": "常规资讯，可了解行业动态。揭示影像媒体在广告收入下滑下的订阅制转型尝试，对关注行业生存模式的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "For $25/Year: Get Us Ad Free With Perks"
+    },
+    {
+      "id": "recvlKLMnYY3L6",
+      "title": "Lumix L10 '紧凑型相机'一点也不紧凑。松下到底在想什么？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-lumix-l10-compact-camera-is-anything-but-compact-what-on-earth-was-panasonic-thinking",
+      "publish_time": "2026-06-06T14:15:00+08:00",
+      "summary": "松下最新定焦相机Lumix L10被标榜为紧凑型，但实际体积并不紧凑，引发对其定位的质疑。文章探讨了松下在相机设计上的策略与市场反应。",
+      "recommendation": "剖析松下Lumix L10体积争议，揭示紧凑型相机定位与市场预期的错位，提供对松下产品策略的深度观察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Lumix L10 'compact camera' is anything but compact. What on earth was Panasonic thinking?"
+    },
+    {
+      "id": "recvlKLRihXnR3",
+      "title": "Tecno Pova 8 5G终于确定官方发布日期，品牌透露其电池容量",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/tecno_pova_8_5g_finally_has_an_official_launch_date_brand_reveals_its_battery_capacity-news-73162.php",
+      "publish_time": "2026-06-06T14:01:02+08:00",
+      "summary": "Tecno Pova 8 5G将于6月11日在印度发布，配备点阵显示屏和仿透明设计，电池容量已公布。",
+      "recommendation": "文章透露Tecno Pova 8 5G电池容量及仿透明设计，但未涉及影像规格，对摄影爱好者信息有限，属常规行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tecno Pova 8 5G finally has an official launch date, brand reveals its battery capacity"
+    },
     {
       "id": "recvlJFLefJOGm",
       "title": "荣耀Play11 Plus和Play10 5G正式发布，配备7000mAh电池",
@@ -7766,70 +7828,6 @@
       "quality_score": 4,
       "language": "English",
       "original_title": "Oppo A6c launches in India, here are the prices"
-    },
-    {
-      "id": "recvkEcsZ6YG2f",
-      "title": "Viltrox Z1 Pro复古闪光灯发布",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/viltrox-z1-pro-retro-flash-launched/",
-      "publish_time": "2026-05-25T23:14:42+08:00",
-      "summary": "Viltrox发布Z1 Pro复古闪光灯，具备自动TTL和手动模式，闪光指数39.4英尺，支持高速同步，回电时间1秒，USB-C充电，超轻紧凑机身。",
-      "recommendation": "Viltrox Z1 Pro复古闪光灯具备自动TTL、高速同步及1秒回电，39.4英尺闪光指数，USB-C充电紧凑设计，为复古相机用户提供实用补光方案。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox Z1 Pro Retro Flash Launched"
-    },
-    {
-      "id": "recvkEc22p6N7e",
-      "title": "索尼100-400mm f/4.5 GM OSS评测：变焦之魅",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/25/sony-100-400mm-f-4-5-gm-oss-review-zoom-zoom/",
-      "publish_time": "2026-05-25T22:01:16+08:00",
-      "summary": "索尼100-400mm f/4.5 GM OSS评测，变焦镜头兼顾画质与便携，适合体育和野生动物摄影，价格相对亲民。",
-      "recommendation": "实测100-400mm GM变焦镜头，提供画质与便携性权衡数据，含体育/野生动物实拍样张，解析光圈全开锐度及OSS防抖表现。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony 100-400mm f/4.5 GM OSS Review: Zoom Zoom"
-    },
-    {
-      "id": "recvkEcfDFasuf",
-      "title": "2026年野生动物摄影初学者最佳相机推荐",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/best-cameras-for-wildlife-photography-beginners-in-2026/",
-      "publish_time": "2026-05-25T21:13:07+08:00",
-      "summary": "野生动物摄影初学者最佳相机推荐，强调长焦镜头和高速连拍，核心价值在于平衡性能与预算，避免器材过度昂贵。",
-      "recommendation": "针对预算有限的野生动物摄影新手，提供长焦镜头与高速连拍的平衡选择，含多款机型参数对比与性价比分析。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Best Cameras for Wildlife Photography Beginners in 2026"
-    },
-    {
-      "id": "recvkEcoBzfjdd",
-      "title": "索尼A7rVI vs 索尼A7V：哪款最适合你？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-a7rvi-vs-sony-a7v-which-one-is-best-for-you/",
-      "publish_time": "2026-05-25T21:03:17+08:00",
-      "summary": "索尼A7rVI与A7V对比，帮助用户选择最新Alpha相机，提供预订链接，核心差异在于像素和性能。",
-      "recommendation": "对比A7rVI与A7V像素与性能差异，含6100万与3300万传感器实测数据，为高像素或高速度需求用户提供选机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony A7rVI vs Sony A7V: Which one is best for you?"
     }
   ]
 }
