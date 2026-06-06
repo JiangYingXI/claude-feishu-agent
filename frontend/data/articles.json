@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-06T04:32:50.521283+08:00",
+    "updated_at": "2026-06-06T12:43:20.125744+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 125
+      "count": 126
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,96 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 45
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 379
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 197
+      "count": 195
     }
   ],
   "articles": [
+    {
+      "id": "recvlJFLefJOGm",
+      "title": "荣耀Play11 Plus和Play10 5G正式发布，配备7000mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_play11_plus_and_play10_5g_go_official_with_7000mah_batteries-news-73161.php",
+      "publish_time": "2026-06-06T12:06:02+08:00",
+      "summary": "荣耀发布Play11 Plus和Play10，均配备7000mAh电池和5000万像素主摄，Play11 Plus搭载天玑6500 Elite芯片、6.6英寸1.5K 120Hz AMOLED屏，支持",
+      "recommendation": "聚焦荣耀Play系列影像配置，5000万像素主摄配合7000mAh长续航，适合关注入门级手机影像性能与续航平衡的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Play11 Plus and Play10 5G go official with 7,000mAh batteries"
+    },
+    {
+      "id": "recvlJFNa5A5x9",
+      "title": "Infinix Smart 20 登陆印度时间确定",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/heres_when_the_infinix_smart_20_is_landing_in_india-news-73159.php",
+      "publish_time": "2026-06-06T10:34:02+08:00",
+      "summary": "Infinix Smart 20将于6月8日在印度上市，通过Flipkart销售。配备6.78英寸120Hz屏幕、Helio G81处理器、4GB内存、64/128GB存储、5200mAh电池。",
+      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像规格细节，但Infinix新机发布对关注入门级手机市场的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's when the Infinix Smart 20 is landing in India"
+    },
+    {
+      "id": "recvlJFJhgZByR",
+      "title": "法院裁定：约翰·F·肯尼迪最后车队的争议历史柯达彩色照片归博物馆所有",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/disputed-historic-kodacolor-photo-of-john-f-kennedys-final-motorcade-belongs-to-museum-court-rules",
+      "publish_time": "2026-06-06T06:00:00+08:00",
+      "summary": "法院裁定，肯尼迪遇刺前最后车队的柯达彩色照片归达拉斯JFK博物馆所有，驳回私人收藏家所有权主张。",
+      "recommendation": "涉及柯达彩色胶片在历史事件中的法律归属，对影像收藏与版权争议有参考价值，提供具体司法案例。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Disputed historic Kodacolor photo of John F. Kennedy's final motorcade belongs to museum, court rules"
+    },
+    {
+      "id": "recvlJFPehBole",
+      "title": "新报告称，新版AI Siri需加入候补名单才能试用",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_new_ai_siri_will_require_a_waitlist_to_try_new_report_claims-news-73158.php",
+      "publish_time": "2026-06-06T05:09:02+08:00",
+      "summary": "苹果将发布由谷歌Gemini驱动的AI Siri，需加入候补名单试用，此前已多次推迟。",
+      "recommendation": "虽非直接影像技术，但AI Siri与谷歌Gemini合作可能影响未来手机影像的语音控制与计算摄影交互，属行业生态前瞻资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The new AI Siri will require a waitlist to try, new report claims"
+    },
+    {
+      "id": "recvlJFHeadTzA",
+      "title": "传奇蔡司Otus单反镜头已停产",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/05/the-legendary-zeiss-otus-dslr-lenses-have-been-discontinued/",
+      "publish_time": "2026-06-06T04:37:54+08:00",
+      "summary": "蔡司推出全画幅无反Otus ML系列镜头，标志着传奇Otus单反镜头停产，结束其历史使命。",
+      "recommendation": "Otus单反镜头停产标志一个时代结束，文章梳理蔡司光学技术演进，对单反用户有收藏参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Legendary Zeiss Otus DSLR Lenses Have Been Discontinued"
+    },
     {
       "id": "recvlHGeZjab6D",
       "title": "索尼首款单反有个疯狂功能：无需按任何按钮即可开始对焦",
@@ -7754,83 +7830,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Sony A7rVI vs Sony A7V: Which one is best for you?"
-    },
-    {
-      "id": "recvkEcb6tcEO0",
-      "title": "Viltrox Vintage Z1 Pro评测：一款复古风格机顶闪光灯，为佳能、尼康、索尼和富士提供专用版本，充满巧妙功能",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/flashguns/viltrox-vintage-z1-pro-review-a-retro-styled-on-camera-flash-thats-full-of-clever-tricks-in-dedicated-options-for-canon-nikon-sony-and-fujifilm",
-      "publish_time": "2026-05-25T21:00:00+08:00",
-      "summary": "Viltrox Vintage Z1 Pro评测：复古风格机顶闪光灯，支持佳能、尼康、索尼和富士，增加触摸屏和实用功能，性价比高。",
-      "recommendation": "评测详析Viltrox复古闪光灯触摸屏与实用功能，提供佳能/尼康/索尼/富士专用版数据，对机顶灯爱好者有选购参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Viltrox Vintage Z1 Pro review: a retro styled on-camera flash that’s full of clever tricks, in dedicated options for Canon, Nikon, Sony and Fujifilm"
-    },
-    {
-      "id": "recvkEc4xmO7pG",
-      "title": "纽约画廊未经许可出售AI生成的安塞尔·亚当斯照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/25/nyc-gallery-sold-an-ai-generated-ansel-adams-photo-without-permission/",
-      "publish_time": "2026-05-25T20:44:04+08:00",
-      "summary": "纽约丹齐格画廊未经安塞尔·亚当斯遗产信托许可，展示并出售其名作《月升》的AI生成版本，涉嫌侵权与盈利性篡改。",
-      "recommendation": "文章揭露AI生成经典摄影作品侵权案例，探讨数字时代版权边界与影像伦理，对理解AI对传统摄影的冲击有独特视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "NYC Gallery Sold an AI-Generated Ansel Adams Photo Without Permission"
-    },
-    {
-      "id": "recvkEchPlAQAI",
-      "title": "今晚午夜截止：Midwest Photo 佳能大部分设备独家折扣",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/expires-tonight-at-midnight-exclusive-discounts-at-midwest-photo-on-most-canon-gear/",
-      "publish_time": "2026-05-25T20:38:01+08:00",
-      "summary": "Midwest Photo提供佳能设备独家折扣，使用优惠码CanonSave8可叠加佳能美国返利，今晚午夜截止。",
-      "recommendation": "佳能设备折扣叠加返利，今晚截止。提供具体优惠码和操作方式，适合近期有购买计划的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Expires Tonight at Midnight: Exclusive Discounts at Midwest Photo on Most Canon Gear"
-    },
-    {
-      "id": "recvkEcdriGmD2",
-      "title": "我们所知的彩色摄影是个谎言——这个135年前的工艺证明了这一点！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/color-photography-as-we-know-it-is-a-lie-and-this-135-year-old-process-proves-it",
-      "publish_time": "2026-05-25T20:30:00+08:00",
-      "summary": "现代相机通过算法伪造颜色，而135年前的奥托克罗姆微粒彩屏干版技术使用马铃薯淀粉颗粒染色，真实还原色彩，揭示了数字摄影的色彩谎言。",
-      "recommendation": "对比现代计算摄影，揭秘135年前奥托克罗姆工艺用马铃薯淀粉染色还原色彩的真实机制，提供独特技术史视角，适合反思数字影像本质。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Color photography as we know it is a lie – and this 135-year-old process proves it!"
-    },
-    {
-      "id": "recvkEcmh1vrXp",
-      "title": "摩托罗拉Edge 70 Pro+印度发布日期揭晓",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/motorola_edge_70_pro_india_launch_date_revealed-news-72976.php",
-      "publish_time": "2026-05-25T19:53:02+08:00",
-      "summary": "摩托罗拉宣布Edge 70 Pro+将于6月4日在印度发布，已确认设计、颜色和部分规格，将加入Edge 70系列。",
-      "recommendation": "摩托罗拉Edge 70 Pro+印度发布日确认，影像配置待揭晓，适合关注中高端手机影像布局的用户获取最新动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Motorola Edge 70 Pro+ India launch date revealed"
     }
   ]
 }
