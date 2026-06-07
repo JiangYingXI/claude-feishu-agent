@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-07T13:13:24.136374+08:00",
+    "updated_at": "2026-06-07T17:51:52.932804+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 28
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 121
+      "count": 118
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,57 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 203
+      "count": 206
     }
   ],
   "articles": [
+    {
+      "id": "recvlQLXbLXcol",
+      "title": "左撇子摄影师为何爱上这款80年代糟糕的桥式相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/why-left-handed-photographers-fell-in-love-with-this-otherwise-awful-1980s-bridge-camera",
+      "publish_time": "2026-06-07T17:10:00+08:00",
+      "summary": "左撇子摄影师青睐80年代有缺陷的半格桥式相机，收藏家正寻找这款胶片相机。",
+      "recommendation": "从左撇子视角切入，揭示80年代桥式相机的设计缺陷与收藏价值，提供半格相机独特使用体验，适合胶片爱好者探索小众机型。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why left-handed photographers fell in love with this otherwise awful 1980s bridge camera"
+    },
+    {
+      "id": "recvlQM1V82pQk",
+      "title": "为真正摄影师提供的平价作品集点评",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/07/by-appointment-only-were-doing-portfolio-reviews-copy-copy-2/",
+      "publish_time": "2026-06-07T15:00:00+08:00",
+      "summary": "Phoblographer提供平价个人摄影作品集评审，强调照片在社交媒体上比视频更具影响力，帮助摄影师提升作品互动与参与度。",
+      "recommendation": "文章提供平价作品集点评服务，强调照片在社交媒体的影响力，对提升摄影互动有实操价值，但缺乏独家数据或深度技术分析。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "An Affordable Portfolio Review For Real Photographers"
+    },
+    {
+      "id": "recvlQLZFtBfNH",
+      "title": "目前最受欢迎的紧凑型相机有哪些？这些获奖的经典机型需求旺盛",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/what-are-the-most-popular-compact-cameras-right-now-these-award-winning-cult-favorites-are-in-high-demand",
+      "publish_time": "2026-06-07T14:15:00+08:00",
+      "summary": "紧凑型相机市场持续增长，三款获奖经典机型因需求旺盛而脱颖而出，其中一款具备高像素和快速对焦技术。",
+      "recommendation": "解析紧凑型相机市场增长趋势，聚焦三款获奖经典机型，含高像素与快速对焦技术细节，为选购提供数据参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "What are the most popular compact cameras right now? These award-winning cult favorites are in high demand"
+    },
     {
       "id": "recvlPDVfgDJvd",
       "title": "Ulanzi Falcam Move LightGo 能否取代摄影助理？",
@@ -7777,54 +7824,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "NYC Gallery Says it Has ‘Every Right’ to Create AI Version of Iconic Ansel Adams Photo"
-    },
-    {
-      "id": "recvkIOH70rsmQ",
-      "title": "vivo X500 Pro相机规格曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x500_pros_camera_specifications_tipped-news-72992.php",
-      "publish_time": "2026-05-26T17:03:02+08:00",
-      "summary": "vivo X500 Pro相机规格曝光，后置三摄包括50MP主摄（1/1.28英寸，LOFIC技术）、50MP超广角和64MP潜望长焦（3倍光变），拍照性能大幅提升。",
-      "recommendation": "曝光vivo X500 Pro三摄规格，含1/1.28英寸LOFIC主摄与64MP潜望长焦，为影像爱好者提供传感器技术升级与长焦配置的独家数据参考。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "vivo X500 Pro's camera specifications tipped"
-    },
-    {
-      "id": "recvkIOQca6Ty7",
-      "title": "七工匠即将发布三款全新广角自动对焦E卡口镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/7artisans-is-about-to-release-three-new-wide-angle-af-e-mount-lenses/",
-      "publish_time": "2026-05-26T17:02:31+08:00",
-      "summary": "七工匠即将发布三款广角自动对焦E卡口镜头：全画幅10mm f/2.5鱼眼、10mm f/4.0和APS-C 18mm f/2.0薄饼镜头。",
-      "recommendation": "七工匠三款广角自动对焦E卡口镜头参数曝光，含全画幅鱼眼与APS-C薄饼镜，为索尼用户提供高性价比广角新选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "7Artisans is about to release three new wide angle AF E-mount lenses"
-    },
-    {
-      "id": "recvkIOtBfYhgC",
-      "title": "松下Lumix L10紧凑型相机从技术坟墓中带回一个不寻常的功能——有点像开放门，但也适用于照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-panasonic-lumix-l10-compact-camera-brings-back-an-unusual-feature-from-the-tech-graveyard-and-its-a-little-like-open-gate-but-for-photos-too",
-      "publish_time": "2026-05-26T16:58:00+08:00",
-      "summary": "松下Lumix L10紧凑型相机重新引入多角度传感器功能，适用于照片拍摄，类似开放门概念，恰逢其时地复活了这一不寻常技术。",
-      "recommendation": "解析松下Lumix L10复活多角度传感器技术，类比开放门概念，提供照片拍摄新视角。对关注复古技术创新的影像爱好者有独特参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Panasonic Lumix L10 compact camera brings back an unusual feature from the tech graveyard – and it’s a little like open gate, but for photos too"
     }
   ]
 }
