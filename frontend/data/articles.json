@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-07T22:35:59.603538+08:00",
+    "updated_at": "2026-06-08T04:00:22.113594+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,15 +33,77 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 375
+      "count": 374
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 205
+      "count": 206
     }
   ],
   "articles": [
+    {
+      "id": "recvlTfdyC9IKq",
+      "title": "富士胶片砍掉了这些相机系列——但富士X80值得保留",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-killed-these-camera-lines-but-the-fujifilm-x80-deserves-to-live/",
+      "publish_time": "2026-06-08T02:33:34+08:00",
+      "summary": "富士胶片砍掉X-T100、XF1、XQ1、X-A等系列，但认为X80值得保留，因其独特价值。",
+      "recommendation": "梳理富士砍掉的系列，聚焦X80的保留价值，提供产品线决策逻辑与市场定位分析，适合关注富士产品策略的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm Killed These Camera Lines — But the Fujifilm X80 Deserves to Live"
+    },
+    {
+      "id": "recvlTf8pD2s8b",
+      "title": "夜间收起相机时，我会将其设为ISO400、f/8和后键对焦——这样一早拿起设备就能直接开拍",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/when-i-put-my-cameras-away-at-night-i-leave-them-at-iso400-f-8-and-back-button-focus-so-when-i-pick-up-my-kit-first-thing-im-ready-to-go",
+      "publish_time": "2026-06-08T02:10:00+08:00",
+      "summary": "野生动物摄影大师保罗·尼克伦分享夜间相机设置技巧：ISO400、f/8和后键对焦，确保清晨快速开拍，摘自其新书《如何在摄影中取得成功》",
+      "recommendation": "野生动物摄影师保罗·尼克伦分享ISO400、f/8与后键对焦的夜间设置技巧，提供清晨快速开拍的实用经验，对追求效率的摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"When I put my cameras away at night, I leave them at ISO400, f/8 and back-button focus – so when I pick up my kit first thing, I'm ready to go\""
+    },
+    {
+      "id": "recvlTfaR7ZZIK",
+      "title": "三阳会推出尼康Z卡口自动对焦镜头吗？除非获得官方授权",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/will-samyang-ever-make-af-nikon-z-lenses-not-until-it-becomes-officially-licensed",
+      "publish_time": "2026-06-07T23:20:00+08:00",
+      "summary": "韩国镜头制造商三阳可能推出尼康Z卡口自动对焦镜头，但需先获得官方授权。",
+      "recommendation": "解析三阳Z卡口自动对焦镜头的授权门槛，对尼康用户了解副厂镜头生态有参考价值，揭示第三方厂商的技术与商业博弈。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Will Samyang ever make AF Nikon Z lenses? Not until it becomes officially licensed"
+    },
+    {
+      "id": "recvlTf5LnSC1M",
+      "title": "伊拉克队摄影师世界杯前夕被拒入境美国",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/07/iraqs-team-photographer-denied-entry-into-the-us-ahead-of-the-world-cup/",
+      "publish_time": "2026-06-07T23:17:56+08:00",
+      "summary": "伊拉克队摄影师塔拉勒·萨拉赫随队赴美被拒入境，导致该队40年来首次世界杯亮相无官方摄影师",
+      "recommendation": "揭示体育摄影行业国际差旅风险，对计划海外拍摄的影像从业者有实际参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Iraq’s Team Photographer Denied Entry Into the US Ahead of the World Cup"
+    },
     {
       "id": "recvlRVklj4g7U",
       "title": "你可能听说过屏幕校准，但你知道照片打印机也需要校准吗？",
@@ -7759,68 +7821,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "GoPro Mission 1 Pro review – GoPro's premium action cam puts the company back on top of its game"
-    },
-    {
-      "id": "recvkKe2IVyl7t",
-      "title": "Viltrox Vintage Z1 Pro闪光灯：不到60美元，复古造型与现代性能兼得",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/26/viltrox-vintage-z1-pro-flash-offers-retro-style-and-modern-performance-for-under-60/",
-      "publish_time": "2026-05-26T21:45:08+08:00",
-      "summary": "唯卓仕发布Viltrox Vintage Z1 Pro闪光灯，复古造型结合现代TTL技术，售价不到60美元。",
-      "recommendation": "解析唯卓仕60美元复古闪光灯，兼顾TTL与现代性能，为预算有限的街拍爱好者提供高性价比补光方案。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox Vintage Z1 Pro Flash Offers Retro Style and Modern Performance for Under $60"
-    },
-    {
-      "id": "recvkKeAJEkzv5",
-      "title": "未来2-3个月内，索尼将再发布两款相机及新镜头！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/two-more-sony-cameras-and-new-lenses-will-be-announced-within-the-next-2-3-months/",
-      "publish_time": "2026-05-26T21:28:45+08:00",
-      "summary": "索尼在中国注册两款新相机，预计未来2-3个月内发布，可能为RX或APS-C相机及新FX型号，同时将推出新镜头。",
-      "recommendation": "索尼新品路线图曝光，含RX或APS-C机型及新FX镜头，为影像爱好者提供未来2-3个月选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Two more Sony cameras and new lenses will be announced within the next 2-3 months!"
-    },
-    {
-      "id": "recvkKe4IWrbZi",
-      "title": "教皇利奥警告AI图像是虚假信息的“强大放大器”",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/26/pope-leo-warns-ai-images-are-a-powerful-amplifier-of-disinformation/",
-      "publish_time": "2026-05-26T21:00:02+08:00",
-      "summary": "教皇利奥发布通谕，警告AI图像工具是虚假信息的强大放大器，敦促当局加强监管。",
-      "recommendation": "从宗教领袖视角审视AI图像风险，为影像爱好者提供技术伦理反思，非技术性但具行业警示价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pope Leo Warns AI Images Are a ‘Powerful Amplifier’ of Disinformation"
-    },
-    {
-      "id": "recvkKeEZkd0o9",
-      "title": "最适合街头摄影的松下相机套件",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/26/the-best-panasonic-camera-kit-for-street-photography/",
-      "publish_time": "2026-05-26T21:00:00+08:00",
-      "summary": "松下推出小巧全画幅相机套件，专为街头摄影设计，满足高分辨率与便携需求。",
-      "recommendation": "解析松下全画幅套件在街头摄影中的便携与高画质平衡，提供具体镜头搭配与拍摄场景实测数据，适合追求轻量化街拍方案的爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Panasonic Camera Kit for Street Photography"
     }
   ]
 }
