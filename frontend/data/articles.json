@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-08T13:21:31.010024+08:00",
+    "updated_at": "2026-06-08T19:34:04.174189+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 122
+      "count": 119
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,181 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 12
+      "count": 11
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 41
+      "count": 43
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 375
+      "count": 373
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 203
+      "count": 206
     }
   ],
   "articles": [
+    {
+      "id": "recvlX1UPdnURL",
+      "title": "日本顶级排球联赛因担忧“不当”图像禁止所有摄影",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/japans-top-volleyball-competition-bans-all-photography-over-fears-about-inappropriate-images/",
+      "publish_time": "2026-06-08T19:24:59+08:00",
+      "summary": "日本顶级沙滩排球联赛因选手担忧偷窥和不当拍摄，全面禁止摄影。",
+      "recommendation": "从赛事禁拍事件切入，揭示公众场所摄影伦理争议，为影像创作者提供隐私边界与行业规范的深度参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Japan’s Top Volleyball Competition Bans All Photography Over Fears About ‘Inappropriate’ Images"
+    },
+    {
+      "id": "recvlX2aROZutS",
+      "title": "Viltrox AF 75mm F1.8 和 90mm F2.2 EVO – 现可在 BHphoto 预订",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/viltrox-af-75mmf1-8-and-90mmf2-2-evo-preorder-at-bhphoto-now/",
+      "publish_time": "2026-06-08T18:39:24+08:00",
+      "summary": "Viltrox AF 75mm F1.8和90mm F2.2 EVO镜头现已在BHphoto等渠道开启预购，即将正式发布。",
+      "recommendation": "Viltrox两款新镜头开启预购，提供75mm F1.8与90mm F2.2的规格参数，适合关注副厂定焦镜头的用户了解新品动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Viltrox AF 75mmF1.8 and 90mmF2.2 EVO – Preorder at BHphoto Now"
+    },
+    {
+      "id": "recvlX1Xp7EFTj",
+      "title": "摄影记者在报道德莱尼大厅抗议活动时被车撞倒并拖行",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/photojournalist-hit-and-dragged-by-car-while-covering-delaney-hall-protests/",
+      "publish_time": "2026-06-08T18:33:38+08:00",
+      "summary": "一名摄影记者在德莱尼大厅外报道抗议时被车撞倒并拖行，事件引发关注。",
+      "recommendation": "从摄影记者视角解析突发事件拍摄风险，探讨新闻现场安全与器材防护策略，含实战经验与设备选择建议。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photojournalist Hit and Dragged by Car while Covering Delaney Hall Protests"
+    },
+    {
+      "id": "recvlX1ZpZst0E",
+      "title": "野生动物摄影传奇乔纳森与安吉拉·斯科特分享游猎礼仪指南，推广新电子书",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/wildlife-photography-legends-jonathan-and-angela-scott-share-their-tips-for-safari-etiquette-promoting-their-new-e-book",
+      "publish_time": "2026-06-08T18:06:13+08:00",
+      "summary": "野生动物摄影传奇乔纳森与安吉拉·斯科特分享游猎礼仪指南，推广新电子书，呼吁在拍摄野生动物照片时采取负责任的行为。",
+      "recommendation": "野生动物摄影大师分享游猎礼仪，提供负责任的拍摄行为指南，对生态摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Wildlife photography legends Jonathan and Angela Scott share their tips for Safari Etiquette, promoting their new e-book"
+    },
+    {
+      "id": "recvlX2d1LwkBE",
+      "title": "相机黑客技巧：将你的照片变成艺术品",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/08/the-camera-hack-that-transforms-your-images-into-fine-art/",
+      "publish_time": "2026-06-08T18:00:00+08:00",
+      "summary": "通过电路弯曲技术改造老式相机，无需昂贵设备即可创作独特艺术照片，实现个性化影像叙事。",
+      "recommendation": "本文揭秘电路弯曲改造老相机的黑客技法，提供低成本创作艺术照片的实操路径，含独特改装步骤与样张对比，对追求个性化影像叙事的爱好者有直接启发。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Camera Hack That Transforms Your Images Into Fine Art"
+    },
+    {
+      "id": "recvlX2hzhIrlK",
+      "title": "索尼大精工：RX1R III",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sonys-grand-seiko-the-rx1r-iii/",
+      "publish_time": "2026-06-08T17:59:22+08:00",
+      "summary": "索尼RX1R III相机在多家零售商有售，Dustin评测称其为索尼的Grand Seiko，强调其精湛工艺与卓越性能。",
+      "recommendation": "文章以“索尼大精工”比喻RX1R III，强调其工艺与性能，适合关注高端紧凑相机的用户，但缺乏独家数据或深度评测。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony’s Grand Seiko: The RX1R III"
+    },
+    {
+      "id": "recvlX21FvWT20",
+      "title": "Voygr 1相机包评测：奢华与实用性的近乎完美结合",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/voygr-1-camera-bag-review",
+      "publish_time": "2026-06-08T17:46:31+08:00",
+      "summary": "Voygr 1相机包评测：奢华与实用性近乎完美结合，既能当相机包又能当时尚配件，证明风格也可兼具实用性。",
+      "recommendation": "评测Voygr 1相机包，解析其兼顾摄影器材保护与日常时尚穿搭的设计细节，对追求实用与风格的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Voygr 1 Camera Bag review: Luxury meets practicality in an almost perfect marriage"
+    },
+    {
+      "id": "recvlX23XRUYYS",
+      "title": "无需AI：病毒式相机内创作者Jordi Koaltic将于6月10日在免费摄影工作坊分享视觉特效技巧",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-technique/no-ai-necessary-viral-in-camera-creator-jordi-koaltic-will-share-visual-effects-tricks-in-a-free-photography-workshop-on-june-10",
+      "publish_time": "2026-06-08T17:08:04+08:00",
+      "summary": "病毒式创作者Jordi Koaltic将于6月10日在Adorama免费工作坊分享相机内视觉特效技巧，并在YouTube直播。",
+      "recommendation": "Jordi Koaltic分享相机内视觉特效技巧，无需后期AI，提供实拍创作思路与独家工作坊资源，适合追求技术本真的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "No AI necessary: Viral in-camera creator Jordi Koaltic will share visual effects tricks in a free photography workshop on June 10"
+    },
+    {
+      "id": "recvlX26gyiYYu",
+      "title": "Peak Design旅行背包20L评测：这款旅行相机包极简设计出色，唯两点遗憾",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/peak-design-travel-backpack-20l-review-this-travel-camera-bag-is-wonderfully-minimalist-except-for-two-disappointments",
+      "publish_time": "2026-06-08T17:01:50+08:00",
+      "summary": "Peak Design旅行背包20L评测：外观时尚，尺寸适合极简装备，但水瓶口袋和材质设计存在遗憾。",
+      "recommendation": "背包评测聚焦影像装备携带，20L容量与极简设计适配轻量化出行，水瓶口袋与材质短板提供真实选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Peak Design Travel Backpack 20L review: This travel camera bag is wonderfully minimalist, except for two disappointments"
+    },
+    {
+      "id": "recvlX2fobnQIT",
+      "title": "一群狂热粉丝如何毁了富士胶片",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/08/how-a-bunch-of-fanboys-ruined-fujifilm/",
+      "publish_time": "2026-06-08T15:00:00+08:00",
+      "summary": "文章批评富士胶片因狂热粉丝导致APS-C画幅相机技术停滞，而全画幅和中画幅获得更好功能，指出GF系列画质优于X系列。",
+      "recommendation": "文章从粉丝文化角度切入富士胶片产品策略，揭示X系列技术停滞与GF系列画质优势的行业矛盾，对APS-C用户有决策参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How a Bunch of Fanboys Ruined Fujifilm"
+    },
     {
       "id": "recvlVwp2NWPdQ",
       "title": "解读VSCO在2026年6月的操作：它到底在搞什么鬼",
@@ -1912,6 +2068,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "This creator camera overtakes traditional photography models in Japan – and it hasn't got a viewfinder!"
+    },
+    {
+      "id": "recvlX28wu0r3o",
+      "title": "无取景器创作者相机在日本超越传统摄影模式",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-creator-camera-overtakes-traditional-photography-models-in-japan-and-it-hasnt-got-a-viewfinder",
+      "publish_time": "2026-06-04T20:09:16+08:00",
+      "summary": "无取景器创作者相机在日本销售排行榜超越传统摄影模式，占据榜首，成为入门相机新主流。",
+      "recommendation": "文章揭示日本市场无取景器相机销量超越传统单反/微单，提供关键销售数据与用户偏好转变分析，对入门用户选机有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A viewfinder-free creator camera overtakes traditional photography models in Japan"
     },
     {
       "id": "recvlALx5P4iA6",
@@ -7648,179 +7820,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Leitz Hektor Cine Prime Lenses for Fujifilm GFX Available Now"
-    },
-    {
-      "id": "recvkNh8rW15YM",
-      "title": "新传闻暗示索尼即将推出的相机电池续航将显著提升",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/new-rumor-suggests-upcoming-sony-cameras-could-have-noticeably-better-battery-life",
-      "publish_time": "2026-05-27T04:48:00+08:00",
-      "summary": "新传闻称索尼即将推出的相机因采用更高效LCD屏幕技术，电池续航将显著提升",
-      "recommendation": "聚焦索尼新机LCD屏幕技术升级对续航的影响，为等待索尼新机的用户提供具体技术改进方向，属于常规产品传闻，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New rumor suggests upcoming Sony cameras could have noticeably better battery life"
-    },
-    {
-      "id": "recvkLdZra1d0a",
-      "title": "Calibrite色度计：首款可硬件校准苹果显示器的设备",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/26/calibrite-colorimeter-is-the-first-that-hardware-calibrates-apple-displays/",
-      "publish_time": "2026-05-27T03:40:51+08:00",
-      "summary": "Calibrite Display Plus HL色度计获苹果批准，成为首款可硬件校准苹果显示器的设备，支持显示器校准工作流程。",
-      "recommendation": "苹果首次开放硬件校准权限，Calibrite色度计填补Mac生态专业校色空白。对追求色准的摄影后期用户有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Calibrite Colorimeter Is the First That Hardware Calibrates Apple Displays"
-    },
-    {
-      "id": "recvkLe95Ghw9Z",
-      "title": "K4MERA 登场：摄影师最值得关注的数字3D相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/26/meet-k4mera-the-most-compelling-digital-3d-camera-for-photographers/",
-      "publish_time": "2026-05-27T03:00:00+08:00",
-      "summary": "瑞士初创公司Roofless Labs推出K4MERA数字3D相机，为摄影师提供超越传统二维成像的立体拍摄体验。",
-      "recommendation": "瑞士初创公司Roofless Labs推出K4MERA数字3D相机，为摄影师提供立体成像新方案，含独家技术细节与行业趋势分析。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Meet K4MERA: The Most Compelling Digital 3D Camera for Photographers"
-    },
-    {
-      "id": "recvkLe7jYAVkA",
-      "title": "新品：Lensbaby Twist 28mm f/3.5全画幅手动对焦饼干镜头，尼康Z卡口，售价190美元",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/26/new-lensbaby-twist-28mm-f-3-5-full-frame-manual-focus-pancake-lens-for-nikon-z-mount-190.aspx/",
-      "publish_time": "2026-05-27T02:54:08+08:00",
-      "summary": "Lensbaby发布Twist 28mm f/3.5全画幅手动对焦饼干镜头，尼康Z卡口，Petzval风格旋转散景，售价190美元，重140g。",
-      "recommendation": "解析Lensbaby Twist 28mm f/3.5的Petzval旋转散景特性，提供尼康Z卡口用户独特创意拍摄方案，140g轻量化设计是亮点。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New: Lensbaby Twist 28mm f/3.5 full-frame manual-focus pancake lens for Nikon Z-mount ($190)"
-    },
-    {
-      "id": "recvkLe17aDLdl",
-      "title": "摄影师如何转型为作家，讲述更震撼的故事",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/26/how-a-photographer-became-a-writer-to-tell-a-powerful-story/",
-      "publish_time": "2026-05-27T02:46:54+08:00",
-      "summary": "获奖独立摄影记者称，拍摄并撰写深度项目提升了出版产品质量，揭示摄影师转型作家可讲述更震撼故事的核心价值。",
-      "recommendation": "独立摄影记者分享转型作家经验，揭示影像叙事与文字结合的深度项目如何提升作品价值，对追求故事表达的爱好者有实操参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How a Photographer Became a Writer to Tell an Even More Powerful Story"
-    },
-    {
-      "id": "recvkLdXnd9VWC",
-      "title": "2026年世界杯参赛队伍数量创历史新高——这张色彩缤纷的照片展示了所有队伍的球迷",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/the-2026-world-cup-has-more-teams-competing-than-ever-before-and-this-colorful-photograph-shows-fans-from-every-single-one-of-them",
-      "publish_time": "2026-05-27T02:41:01+08:00",
-      "summary": "2026年世界杯参赛队伍数量创新高，盖蒂发布合成图展示每队一名球迷，色彩丰富",
-      "recommendation": "盖蒂合成图展示各队球迷色彩，对体育摄影构图与色彩搭配有参考价值，但内容偏资讯性。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The 2026 World Cup has more teams competing than ever before – and this colorful photograph shows fans from every single one of them"
-    },
-    {
-      "id": "recvkLe2W52ZOJ",
-      "title": "Imagen推出10美元AI编辑全权限，恰逢旺季",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/26/imagen-is-offering-full-ai-editing-access-for-10-just-in-time-for-peak-season/",
-      "publish_time": "2026-05-27T02:09:29+08:00",
-      "summary": "Imagen推出10美元AI编辑全权限，解决摄影师耗时编辑问题，约70%摄影师将26%-75%工作时间用于编辑，仅5%能管理压力。",
-      "recommendation": "10美元AI编辑全权限切入摄影师编辑痛点，70%摄影师耗时数据揭示行业现状，对计算摄影爱好者有成本与效率参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Imagen Is Offering Full AI Editing Access for $10, Just In Time for Peak Season"
-    },
-    {
-      "id": "recvkLe56Mioun",
-      "title": "松下L10初评：这款紧凑型相机让摄影师们意见不一",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/panasonic-dc-l10-comapct-camera-four-thirds-review",
-      "publish_time": "2026-05-27T01:00:00+08:00",
-      "summary": "松下L10是一款面向爱好者的紧凑型相机，配备四分之三传感器和24-75mm等效F1.7-2.8电动变焦镜头，具备光学防抖，引发摄影师不同意见。",
-      "recommendation": "文章剖析松下L10紧凑型相机争议点，提供四分之三传感器与F1.7-2.8电动变焦镜头实测数据，对爱好者选购有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Panasonic L10 initial review: The compact that's dividing photographers"
-    },
-    {
-      "id": "recvkKeCUatsyp",
-      "title": "最适合街头摄影师的富士相机套件",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/26/the-best-fujifilm-camera-kit-for-street-photographers/",
-      "publish_time": "2026-05-27T00:00:00+08:00",
-      "summary": "富士相机套件适合街头摄影师，提供出色相机和镜头，是投资装备的好时机。",
-      "recommendation": "解析富士街拍套件选配逻辑，含镜头焦段与机身操控的实战搭配建议，对提升街拍效率有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Fujifilm Camera Kit for Street Photographers"
-    },
-    {
-      "id": "recvkKefvSsyu4",
-      "title": "佳能今年将推出两款前所未见的镜头",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/two-never-before-seen-lenses-coming-from-canon-this-year/",
-      "publish_time": "2026-05-26T23:32:21+08:00",
-      "summary": "佳能发布EOS R6 V和RF 20-50mm f/4L IS USM PZ镜头，评测界反响良好，但正式发货仍需等待。",
-      "recommendation": "文章聚焦佳能两款新镜头，含RF 20-50mm f/4L IS USM PZ具体规格与评测反馈，为关注视频拍摄的影像爱好者提供实用参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Two Never Before Seen Lenses Coming from Canon This Year"
-    },
-    {
-      "id": "recvkKdVVkN5DK",
-      "title": "苹果如何仅用iPhone拍摄整场MLS比赛",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/26/how-apple-shot-an-entire-mls-game-using-only-iphone/",
-      "publish_time": "2026-05-26T23:29:28+08:00",
-      "summary": "苹果用iPhone 17 Pro Max拍摄整场MLS比赛，创造体育转播历史，展示手机拍摄极限",
-      "recommendation": "解析iPhone 17 Pro Max拍摄MLS比赛的技术细节，揭示手机体育转播的极限与创新，含独家拍摄参数与后期流程。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "How Apple Shot an Entire MLS Game Using Only iPhone"
     }
   ]
 }
