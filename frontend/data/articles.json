@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-08T19:34:04.174189+08:00",
+    "updated_at": "2026-06-09T00:42:08.533080+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 119
+      "count": 120
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 43
+      "count": 42
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,245 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 206
+      "count": 204
     }
   ],
   "articles": [
+    {
+      "id": "recvlYhfYv7X6l",
+      "title": "联合国世界海洋日摄影大赛13张获奖作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/13-award-winning-photos-from-the-un-world-oceans-day-contest/",
+      "publish_time": "2026-06-09T00:28:41+08:00",
+      "summary": "第十三届联合国世界海洋日摄影大赛公布13位获奖者，展示海洋之美与保护紧迫性。",
+      "recommendation": "13张获奖作品展示海洋摄影的构图与光影技巧，从水下生物到海岸线，提供实拍场景参考。无独家数据，但可作为自然摄影的审美与主题表达案例。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "13 Award-Winning Photos From the UN World Oceans Day Contest"
+    },
+    {
+      "id": "recvlYhiBOuUaQ",
+      "title": "新Chrome扩展为Google Photos带来批量编辑功能",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/new-chrome-extension-brings-batch-editing-to-google-photos/",
+      "publish_time": "2026-06-09T00:27:15+08:00",
+      "summary": "Google Photos月服务超15亿用户，但缺少批量编辑功能，新Chrome扩展填补此空白。",
+      "recommendation": "15亿用户痛点被解决，Chrome扩展实现Google Photos批量编辑，对高频整理照片的影像爱好者有实用价值，属常规功能补全资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Chrome Extension Brings Batch Editing to Google Photos"
+    },
+    {
+      "id": "recvlYhAKaEjHz",
+      "title": "3款取景器出色的富士相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/08/3-fujifilm-cameras-with-excellent-viewfinders/",
+      "publish_time": "2026-06-09T00:00:00+08:00",
+      "summary": "富士相机以出色取景器闻名，推荐三款机型，适合追求顶级体验的摄影师，保留核心参数与设计优势。",
+      "recommendation": "对比三款富士机型取景器规格与光学设计，提供EVF放大倍率、眼点等关键参数，适合追求取景体验的摄影师选型参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "3 Fujifilm Cameras with Excellent Viewfinders"
+    },
+    {
+      "id": "recvlYhl6kZXDE",
+      "title": "2026年烧杯街科学摄影奖26位入围者揭晓",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/the-26-finalists-for-the-2026-beaker-street-science-photography-prize/",
+      "publish_time": "2026-06-08T23:48:25+08:00",
+      "summary": "2026年烧杯街科学摄影奖公布26位入围者，作品兼具美学与科学价值，由全球摄影师和科学家拍摄",
+      "recommendation": "26幅科学摄影作品揭示微观与宏观世界的美学，含独家拍摄参数与成像技术解析，为手机/相机用户提供构图与光控灵感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 26 Finalists for the 2026 Beaker Street Science Photography Prize"
+    },
+    {
+      "id": "recvlYhIiNcYe9",
+      "title": "尼康NX MobileAir将于7月9日起完全免费",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/08/the-nikon-nx-mobileair-will-be-completely-free-starting-july-9.aspx/",
+      "publish_time": "2026-06-08T21:39:20+08:00",
+      "summary": "尼康NX MobileAir应用1.6版本将于2026年7月9日起完全免费，移除所有功能限制，让更多人无限制使用。",
+      "recommendation": "尼康NX MobileAir免费化降低专业影像传输门槛，对需要无线遥控拍摄的用户有直接价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Nikon NX MobileAir will be completely free starting July 9"
+    },
+    {
+      "id": "recvlYhNuNtZe3",
+      "title": "重磅传闻：索尼或将在2-3年内推出中画幅系统",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/wild-rumor-sony-might-launch-the-medium-format-system-within-2-3-years/",
+      "publish_time": "2026-06-08T21:36:37+08:00",
+      "summary": "索尼或将在2-3年内推出中画幅系统，已开发247百万像素传感器及Rialto 65电影摄影机，传闻源自匿名消息。",
+      "recommendation": "中画幅系统传闻涉及索尼247MP传感器及Rialto 65电影机，为影像爱好者提供未来产品路线图与传感器技术前瞻。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "WILD RUMOR: Sony might launch the medium format system within 2-3 years"
+    },
+    {
+      "id": "recvlYhvG6D5TP",
+      "title": "日本目前最畅销的镜头并非来自索尼、佳能或尼康——售价高达4599美元！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/japans-best-selling-lens-right-now-isnt-from-sony-canon-or-nikon-and-it-costs-us-usd4-599",
+      "publish_time": "2026-06-08T21:34:46+08:00",
+      "summary": "日本最畅销镜头非索尼佳能尼康，而是售价4599美元的中画幅变焦镜头，性能超越顶级旗舰长焦",
+      "recommendation": "解析日本市场罕见的中画幅变焦镜头热销现象，揭示高端镜头消费趋势，含定价与性能对比数据，对关注镜头市场动态的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Japan's best-selling lens right now isn't from Sony, Canon, or Nikon – and it costs US$4,599!"
+    },
+    {
+      "id": "recvlYhQ4bX0NL",
+      "title": "索尼在印尼注册固定镜头紧凑型相机：会是新款RX100VIII吗？",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-registered-a-fixed-lens-compact-camera-in-indonesia-is-it-the-new-rx100viii/",
+      "publish_time": "2026-06-08T21:32:08+08:00",
+      "summary": "索尼在印尼注册固定镜头相机WW308784，归类数码相机，暗示非E卡口，可能为RX100VIII，但注册已撤销。",
+      "recommendation": "解析索尼印尼注册固定镜头相机线索，提供RX100VIII潜在规格推测，对关注便携旗舰卡片机的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony registered a fixed lens compact camera in Indonesia: Is it the new RX100VIII?"
+    },
+    {
+      "id": "recvlYhKVUvN6W",
+      "title": "现已开放预购：适用于尼康Z卡口的唯卓仕AF 90mm f/2.2和75mm f/1.8 EVO APS-C镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/08/now-available-for-pre-order-new-viltrox-af-90mm-f-2-2-75mm-f-1-8-evo-aps-c-lenses-for-nikon-z-mount.aspx/",
+      "publish_time": "2026-06-08T21:11:17+08:00",
+      "summary": "唯卓仕两款适用于尼康Z卡口的APS-C镜头AF 90mm f/2.2和75mm f/1.8 EVO现已开放预购，技术规格已公布。",
+      "recommendation": "文章公布唯卓仕两款尼康Z卡口APS-C镜头预购信息及完整规格，含90mm f/2.2和75mm f/1.8 EVO的详细参数，为Z卡口用户提供新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Now available for pre-order: new Viltrox AF 90mm f/2.2 & 75mm f/1.8 EVO APS-C lenses for Nikon Z-mount"
+    },
+    {
+      "id": "recvlYhFPiDvUG",
+      "title": "Viltrox AF 75mm F1.8 和 90mm F2.2 EVO 镜头现已上市 – 首发评测",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/viltrox-af-75mmf1-8-and-90mmf2-2-evo-lenses-available-now-first-reviews/",
+      "publish_time": "2026-06-08T21:01:44+08:00",
+      "summary": "Viltrox发布富士X卡口AF 75mm F1.8和90mm F2.2 EVO镜头，结账用码FUJIRUMORS省5%，首发评测已上线。",
+      "recommendation": "首发评测含实拍样张与自动对焦性能数据，对比富士原厂同焦段镜头，提供光圈全开锐度与色散控制实测，为富士用户选购副厂长焦定焦提供参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Viltrox AF 75mmF1.8 and 90mmF2.2 EVO Lenses Available Now – First Reviews"
+    },
+    {
+      "id": "recvlYhnLozqUU",
+      "title": "唯卓仕发布Evo 75mm f/1.8和90mm f/2.2人像定焦镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/viltrox-announces-evo-75mm-f-1-8-and-90mm-f-2-2-portrait-primes/",
+      "publish_time": "2026-06-08T21:00:10+08:00",
+      "summary": "唯卓仕发布Evo系列两款APS-C人像定焦镜头：AF 75mm f/1.8和AF 90mm f/2.2，支持索尼E、尼康Z、富士X卡口，紧凑轻巧提供专业人像性能",
+      "recommendation": "文章详解唯卓仕Evo系列两款APS-C人像头参数，75mm f/1.8与90mm f/2.2的紧凑设计及三卡口适配性，为追求轻便专业人像的爱好者提供具体选镜参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox Announces Evo 75mm f/1.8 and 90mm f/2.2 Portrait Primes"
+    },
+    {
+      "id": "recvlYhsOFGf6T",
+      "title": "唯卓仕最新APS-C画幅镜头专为人像摄影打造",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/6357360508/viltrox-75-90mm-lenses-aps-c",
+      "publish_time": "2026-06-08T21:00:00+08:00",
+      "summary": "唯卓仕推出两款APS-C画幅人像镜头：75mm F1.8和90mm F2.2，适用于富士X、尼康Z和索尼E卡口，采用高折射率和超低色散镜片，最近对焦距离短。",
+      "recommendation": "文章详解唯卓仕两款APS-C人像镜头的规格参数，包括75mm F1.8和90mm F2.2的镜片配置与卡口适配，为富士、尼康、索尼用户提供具体的人像镜头选择参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox's latest APS-C lenses are made for portraits"
+    },
+    {
+      "id": "recvlYhDlJlmaV",
+      "title": "APS-C画幅相机用户迎来Viltrox激动人心的新品",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/08/aps-c-camera-users-have-something-exciting-coming-from-viltrox/",
+      "publish_time": "2026-06-08T21:00:00+08:00",
+      "summary": "唯卓仕发布75mm F1.8和90mm F2.2自动对焦镜头，专为APS-C画幅索尼、尼康、富士相机设计，价格亲民，适合肖像摄影。",
+      "recommendation": "唯卓仕为APS-C画幅用户带来75mm F1.8和90mm F2.2两款亲民人像镜头，提供自动对焦和具体光圈数据，适合索尼、尼康、富士用户参考性价比选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "APS-C Camera Users Have Something Exciting Coming From Viltrox"
+    },
+    {
+      "id": "recvlYhq3aY4Ew",
+      "title": "《奥德赛》网站让你以全部六种不同格式观看预告片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/the-odyssey-website-lets-you-watch-the-trailer-in-all-six-different-formats/",
+      "publish_time": "2026-06-08T20:42:58+08:00",
+      "summary": "克里斯托弗·诺兰新片《奥德赛》官网提供从IMAX 70毫米到杜比视界共六种格式的预告片观看体验",
+      "recommendation": "六种格式对比直观展示IMAX、杜比视界等画质差异，为影像爱好者提供格式选择参考，含诺兰团队技术细节。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "‘The Odyssey’ Website Lets You Watch the Trailer in All Six Different Formats"
+    },
+    {
+      "id": "recvlYhyjBH1VU",
+      "title": "在此观看苹果WWDC 26主题演讲直播",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/watch_apples_wwdc_26_keynote_livestream_here-news-73172.php",
+      "publish_time": "2026-06-08T19:27:02+08:00",
+      "summary": "苹果WWDC 26主题演讲即将开始，CEO库克可能最后一次主持，预计发布iOS等下一代软件平台。",
+      "recommendation": "WWDC影像系统更新前瞻，关注iOS新API对计算摄影的潜在影响，库克时代最后一次主题演讲或透露影像战略方向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Watch Apple's WWDC 26 keynote livestream here"
+    },
     {
       "id": "recvlX1UPdnURL",
       "title": "日本顶级排球联赛因担忧“不当”图像禁止所有摄影",
@@ -7583,243 +7818,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "These Presets are Designed for Photographers, Not AI"
-    },
-    {
-      "id": "recvkOFyDwZJ3U",
-      "title": "更多索尼A7rVI YouTube评测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/more-sony-a7rvi-youtube-reviews-2/",
-      "publish_time": "2026-05-27T17:54:47+08:00",
-      "summary": "索尼A7rVI在多家电商平台预购，搭配100-400mm f/4.5 GM镜头及配件，更多YouTube评测首发于sonyalpharumors。",
-      "recommendation": "汇总YouTube多源评测，提供A7rVI搭配100-400mm镜头实际表现与预购动态，适合关注高像素全画幅机型性能的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "More Sony A7rVI youtube reviews"
-    },
-    {
-      "id": "recvkOFg9P34w2",
-      "title": "全球最大单反相机问世：百年来首款8x10画幅单反",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/meet-the-worlds-largest-slr-this-gigantic-camera-is-the-first-time-a-company-has-built-an-8x10-format-slr-in-over-100-years",
-      "publish_time": "2026-05-27T17:48:58+08:00",
-      "summary": "全球最大单反相机Smartflex 8x10问世，采用8x10页片或湿版，腰平取景器，重5.6公斤，是百年来首款8x10画幅单反。",
-      "recommendation": "罕见8x10画幅单反结构解析，腰平取景与5.6kg重量数据，为大画幅爱好者提供独特技术参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Meet the world’s largest SLR. This gigantic camera is the first time a company has built an 8x10 format SLR in over 100 years!"
-    },
-    {
-      "id": "recvkX1f1bc6rX",
-      "title": "比四台单反叠起来还高，世界最大单反相机使用腰平取景器拍摄8x10大画幅胶片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/meet-the-worlds-largest-slr-this-gigantic-camera-is-the-first-time-a-company-has-built-an-8x10-format-slr-in-over-100-years",
-      "publish_time": "2026-05-27T17:48:58+08:00",
-      "summary": "Smartflex 8x10相机，世界最大单反，重5.6公斤，使用8x10页片或湿版，腰平取景器拍摄大画幅胶片。",
-      "recommendation": "揭秘世界最大单反Smartflex 8x10，重5.6公斤，腰平取景器拍大画幅胶片，含8x10页片与湿版数据，为极端摄影设备爱好者提供独特技术参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Taller than four DSLRs stacked on top of each other, the world's largest SLR shoots massive 8x10 film with a waist-level viewfinder"
-    },
-    {
-      "id": "recvkOFiy2trxW",
-      "title": "松下Lumix L10真的是富士X100VI杀手吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/is-the-panasonic-lumix-l10-really-a-fujifilm-x100vi-killer",
-      "publish_time": "2026-05-27T17:48:30+08:00",
-      "summary": "文章探讨松下Lumix L10是否凭借某项功能成为富士X100VI的强劲对手，引发摄影师争议。",
-      "recommendation": "对比松下L10与富士X100VI，解析L10是否真能成为X100VI的替代品，提供传感器、对焦等关键参数对比，适合纠结选购的摄影爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Panasonic Lumix L10 really a Fujifilm X100VI killer?"
-    },
-    {
-      "id": "recvkOFkCOJU0g",
-      "title": "尼康为何今年让数百万忠实摄影师陷入困境？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/why-is-nikon-is-leaving-millions-of-loyal-photographers-in-the-dark-this-year",
-      "publish_time": "2026-05-27T17:07:57+08:00",
-      "summary": "尼康今年在相机讨论中缺席，Z6 II于2024年6月发布，忠实摄影师期待新品。",
-      "recommendation": "分析尼康Z6 II发布后市场缺席现象，揭示品牌策略对忠实用户的影响，适合关注相机行业动态的摄影爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Why is Nikon is leaving millions of loyal photographers in the dark this year?"
-    },
-    {
-      "id": "recvkOFbio1RZz",
-      "title": "相机捕捉到火山喷发背后流星爆炸的壮观瞬间",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/spectacular-moment-meteor-explodes-behind-erupting-volcano-caught-on-camera/",
-      "publish_time": "2026-05-27T15:57:01+08:00",
-      "summary": "摄像机捕捉到绿色火球照亮菲律宾喷发火山，形成壮观画面。",
-      "recommendation": "捕捉火山与流星同框的罕见瞬间，展示消费级相机在极端弱光下的抓拍能力，附有拍摄参数与机位选择技巧，对风光摄影爱好者有实操参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Spectacular Moment Meteor Explodes Behind Erupting Volcano Caught on Camera"
-    },
-    {
-      "id": "recvkOFrsgzKN7",
-      "title": "佳能RF 10-20mm f/4L IS STM 1899美元（原价2399美元）",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canon-rf-10-20mm-f-4l-is-stm-1899-reg-2399/",
-      "publish_time": "2026-05-27T15:30:48+08:00",
-      "summary": "佳能美国官方翻新店对RF 10-20mm f/4L IS STM镜头提供大幅折扣，仅1899美元（原价2399美元），享完整1年保修。",
-      "recommendation": "佳能RF 10-20mm f/4L IS STM官方翻新降价500美元，提供完整1年保修，适合超广角爱好者以更低预算入手L级镜头。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon RF 10-20mm f/4L IS STM $1899 (Reg $2399)"
-    },
-    {
-      "id": "recvkOFDriQOfb",
-      "title": "这款富士相机现在售价翻倍",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/27/this-fujifilm-camera-now-sells-for-double-its-original-price/",
-      "publish_time": "2026-05-27T15:00:00+08:00",
-      "summary": "富士相机推出后保值甚至涨价，部分型号如康泰时G2等十多年前机型仍受追捧，近年发布的富士相机表现最佳，该款相机问世仅几年便售价翻倍。",
-      "recommendation": "解析富士相机逆势涨价现象，揭示康泰时G2等老机型保值规律，提供二手市场投资参考，对关注相机保值的用户有数据支撑。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Fujifilm Camera Now Sells for Double Its Original Price"
-    },
-    {
-      "id": "recvkOFw9ZYnMf",
-      "title": "Oppo Find X10 新细节泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_details_about_the_oppo_find_x10_have_leaked-news-73004.php",
-      "publish_time": "2026-05-27T14:45:02+08:00",
-      "summary": "Oppo Find X10系列标准版泄露，将搭载200MP HPC传感器，尺寸1/1.3英寸或1/1.4英寸，预计10月发布。",
-      "recommendation": "200MP HPC传感器尺寸1/1.3英寸或1/1.4英寸，为高像素手机摄影提供关键硬件参考，适合关注传感器技术迭代的爱好者。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New details about the Oppo Find X10 leak"
-    },
-    {
-      "id": "recvkOFmIw2cP2",
-      "title": "Godox新款双管微距闪光灯：为极致近摄提供全面光线控制",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/flashguns/godoxs-new-twin-tube-macro-flashgun-is-designed-to-give-you-complete-lighting-control-for-extreme-close-up-photography",
-      "publish_time": "2026-05-27T14:40:00+08:00",
-      "summary": "Godox推出MF-T76微距双灯闪光灯，支持佳能、尼康和索尼，为近摄提供全面光线控制。",
-      "recommendation": "Godox MF-T76双管微距灯支持佳能、尼康、索尼，提供近摄全面光线控制，对微距摄影爱好者有实用参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Godox's new twin-tube macro flashgun is designed to give you complete lighting control for extreme close-up photography"
-    },
-    {
-      "id": "recvkOFoW7dCgM",
-      "title": "富士Cardia Travel Mini：90年代传奇傻瓜机，其复古设计或激发无反新镜头灵感",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-fuji-cardia-travel-mini-was-a-legendary-1990s-point-and-shoot-but-the-retro-camera-could-be-inspiring-a-new-lens-design-for-mirrorless",
-      "publish_time": "2026-05-27T14:15:00+08:00",
-      "summary": "富士Cardia Travel Mini是90年代传奇傻瓜机，其复古设计或激发无反新镜头灵感，概念镜头基于紧凑型相机",
-      "recommendation": "解析90年代Cardia Travel Mini的复古设计如何启发无反镜头新灵感，提供具体概念镜头信息与光学设计思路，对摄影美学与技术爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Fuji Cardia Travel Mini was a legendary 1990s point-and-shoot. But the retro camera could be inspiring a new lens design for mirrorless"
-    },
-    {
-      "id": "recvkNhfaPnc0y",
-      "title": "快门效应：让AI难以复制的3种图像处理方式",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/27/shutter-effects-3-ways-to-make-images-ai-cant-easily-duplicate/",
-      "publish_time": "2026-05-27T12:00:00+08:00",
-      "summary": "本文介绍三种利用快门效果使AI难以复制的图像处理方式，包括独特拍摄技巧，鼓励摄影师探索更多方法以保持创作独特性。",
-      "recommendation": "从快门效应切入，揭示AI难以复制的三种图像处理技法，为追求创作独特性的摄影爱好者提供实用技巧与深度视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Shutter Effects: 3 Ways to Make Images AI Can’t Easily Duplicate"
-    },
-    {
-      "id": "recvkNhaIrMaqi",
-      "title": "对比即将发布的尼康尼克尔Z 120-300mm f/2.8 TC VR S镜头与400mm f/2.8 TC VR S的尺寸",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/26/comparing-the-size-of-the-upcoming-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-with-the-400mm-f-2-8-tc-vr-s.aspx/",
-      "publish_time": "2026-05-27T08:35:41+08:00",
-      "summary": "对比尼康Z 120-300mm f/2.8 TC VR S与400mm f/2.8 TC VR S尺寸，前者传闻售价超8000美元，已宣布开发。",
-      "recommendation": "对比两款超长焦镜头的尺寸数据，为选购提供直观参考，包含传闻售价与开发状态信息。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Comparing the size of the upcoming Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens with the 400mm f/2.8 TC VR S"
-    },
-    {
-      "id": "recvkNh5ZmZeSq",
-      "title": "VSCO使用条款解读：为何声称不会盗用你的照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/26/vsco-terms-of-use-explained-why-it-says-it-isnt-stealing-your-photos/",
-      "publish_time": "2026-05-27T05:55:22+08:00",
-      "summary": "VSCO因使用条款中类似Adobe的争议措辞引发用户担忧，但声称不会盗用照片，文章解读其条款核心价值与用户权益保障。",
-      "recommendation": "解读VSCO条款争议，澄清用户对照片盗用的担忧，提供条款核心价值分析，帮助影像爱好者理解权益保障，避免盲目恐慌。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "VSCO Terms of Use Explained: Why It Says It Isn’t Stealing Your Photos"
-    },
-    {
-      "id": "recvkNhcZrjoKi",
-      "title": "徕兹Hektor电影定焦镜头现已适配富士GFX",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/leitz-hektor-cine-prime-lenses-for-fujifilm-gfx-available-now/",
-      "publish_time": "2026-05-27T04:53:07+08:00",
-      "summary": "徕兹Hektor电影定焦镜头套装及多款T2.1镜头现已适配富士GFX系统，提供从18mm到100mm的焦段选择。",
-      "recommendation": "徕兹Hektor电影镜头适配GFX系统，提供18-100mm焦段与T2.1光圈数据，为中画幅视频创作拓展了专业镜头选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leitz Hektor Cine Prime Lenses for Fujifilm GFX Available Now"
     }
   ]
 }
