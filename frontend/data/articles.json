@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-09T00:42:08.533080+08:00",
+    "updated_at": "2026-06-09T04:45:49.368040+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 11
+      "count": 14
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,141 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 373
+      "count": 377
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 204
+      "count": 201
     }
   ],
   "articles": [
+    {
+      "id": "recvlZgT52OMYJ",
+      "title": "苹果新AI照片工具可在拍摄后虚拟移动相机",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/3628309794/apple-ios-27-ai-photo-editing-reframe",
+      "publish_time": "2026-06-09T04:12:00+08:00",
+      "summary": "苹果iOS 27更新照片应用，新增生成式AI功能，可虚拟移动相机视角，并升级清理工具移除不需要元素，提升编辑灵活性。",
+      "recommendation": "苹果iOS 27新增AI虚拟相机视角移动与清理工具，展示计算摄影新方向，对后期编辑灵活性有实际参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Apple's new AI photo tool can virtually move your camera after you shoot"
+    },
+    {
+      "id": "recvlZgVTLn8W0",
+      "title": "英特尔Mac的预期与承诺终结已到来",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/the-expected-and-promised-end-of-the-intel-mac-has-arrived/",
+      "publish_time": "2026-06-09T03:54:02+08:00",
+      "summary": "苹果在WWDC发布macOS 27，标志Intel Mac终结，回顾其发展历程。",
+      "recommendation": "分析Intel Mac终结对影像工作流的影响，提供从X86到ARM过渡期的性能对比数据，适合关注视频剪辑与RAW处理的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Expected and Promised End of the Intel Mac Has Arrived"
+    },
+    {
+      "id": "recvlZhbNOUjKp",
+      "title": "富士胶片在美国和欧洲推出新的XF镜头优惠活动",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-launches-new-xf-lens-deals-in-usa-and-europe/",
+      "publish_time": "2026-06-09T03:51:04+08:00",
+      "summary": "富士胶片在美国和欧洲推出XF镜头新优惠，包括XF18mmF1.4 R LM WR节省150美元，可在多家渠道购买。",
+      "recommendation": "富士XF18mmF1.4镜头优惠150美元，提供具体渠道与价格信息，对计划购入该镜头的用户有直接参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm Launches New XF Lens Deals in USA and Europe"
+    },
+    {
+      "id": "recvlZgYCdl6ag",
+      "title": "冰岛航空找到其‘糟糕摄影师’并奖励5万美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/icelandair-found-its-really-bad-photographer-and-gave-her-50000/",
+      "publish_time": "2026-06-09T03:24:17+08:00",
+      "summary": "冰岛航空三月举办独特摄影比赛，寻找最差摄影师，以证明冰岛美景即使糟糕摄影师也能拍出好照片，获胜者获5万美元奖励。",
+      "recommendation": "冰岛航空反向营销案例揭示摄影门槛真相：美景本身可弥补技术不足，对影像爱好者有启发价值，但无独家数据或深度观点。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Icelandair Found its ‘Really Bad Photographer’ and Gave Her $50,000"
+    },
+    {
+      "id": "recvlZh94I9Y2u",
+      "title": "Siri AI 正式登陆 iOS 27、iPadOS 27、macOS 27、watchOS 27 和 visionOS 27",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/siri_ai_is_official_for_ios_27_ipados_27_macos_27_watchos_27_and_visionos_27-news-73181.php",
+      "publish_time": "2026-06-09T03:13:02+08:00",
+      "summary": "苹果在WWDC发布Siri AI，基于谷歌Gemini模型，支持设备端处理和私有云计算，确保数据隐私，登陆iOS 27等系统。",
+      "recommendation": "Siri AI集成Gemini模型，虽非影像专属，但设备端处理与隐私计算可能影响未来影像AI应用的数据安全策略，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Siri AI is official for iOS 27, iPadOS 27, macOS 27, watchOS 27, and visionOS 27"
+    },
+    {
+      "id": "recvlZh198pLBt",
+      "title": "苹果全新图像游乐场承诺不止于卡通",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/apples-all-new-image-playground-promises-more-than-cartoons/",
+      "publish_time": "2026-06-09T03:00:45+08:00",
+      "summary": "苹果在WWDC 2026发布macOS 27、iOS 27等系统，升级Apple Intelligence系统，改进Image Playground图像生成AI，提升图像生成能力。",
+      "recommendation": "解析苹果AI图像生成升级，揭示计算摄影新方向，对关注手机影像AI化的用户有参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Apple’s All-New Image Playground Promises More Than Cartoons"
+    },
+    {
+      "id": "recvlZh3J3iBma",
+      "title": "苹果照片应用将新增三项AI驱动的编辑工具",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/apples-photos-app-is-getting-three-new-ai-powered-editing-tools/",
+      "publish_time": "2026-06-09T02:26:03+08:00",
+      "summary": "苹果将在iOS新版中为照片应用新增三项AI编辑工具：增强清理、扩展和重新构图，提升图片编辑能力。",
+      "recommendation": "解析苹果AI编辑工具增强清理、扩展与重新构图三项功能，提供计算摄影落地细节，助影像爱好者预判iOS编辑能力升级方向。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Apple’s Photos App is Getting Three New AI-Powered Editing Tools"
+    },
+    {
+      "id": "recvlZh6i1qMTl",
+      "title": "f8 Develop：专为Apple Silicon打造的HDR胶片负片反转应用",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/f8-develop-is-an-hdr-film-negative-inversion-app-built-for-apple-silicon/",
+      "publish_time": "2026-06-09T00:51:18+08:00",
+      "summary": "f8 Develop是专为macOS设计的新型胶片负片反转应用，支持使用无反或单反相机在家扫描的摄影师，为Apple Silicon优化HDR处理。",
+      "recommendation": "针对Apple Silicon优化的HDR胶片反转应用，提供从扫描到成片的完整工作流，对胶片爱好者有实用参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "f8 Develop is an HDR Film Negative Inversion App Built for Apple Silicon"
+    },
     {
       "id": "recvlYhfYv7X6l",
       "title": "联合国世界海洋日摄影大赛13张获奖作品",
@@ -7696,128 +7822,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Photographer Arrested for Allegedly Failing to Deliver Quinceañera Photos"
-    },
-    {
-      "id": "recvkQ4bNx4Fhq",
-      "title": "宏碁三款新显示器专为摄影师和摄像师打造",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/acers-three-new-monitors-are-made-for-photographers-and-videographers/",
-      "publish_time": "2026-05-27T21:45:31+08:00",
-      "summary": "宏碁发布三款显示器，其中高端ProDesigner PE320QXT为31.5英寸6K触摸屏，具备出色色彩准确性和HDR能力，专为摄影师和视频编辑设计",
-      "recommendation": "针对摄影师和视频编辑的6K触摸屏显示器，31.5英寸、色彩准确性与HDR能力是核心亮点，适合影像后期处理需求。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Acer’s Three New Monitors Are Made for Photographers and Videographers"
-    },
-    {
-      "id": "recvkQ3YIu0jyB",
-      "title": "你最喜欢的摄影天气条件是什么？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/forums/threads/what-are-your-favorite-weather-conditions-for-photography.4837268/",
-      "publish_time": "2026-05-27T21:39:00+08:00",
-      "summary": "本文是每周问题系列，邀请摄影社区分享关于最喜欢的摄影天气条件的想法，融入节日气氛，鼓励讨论器材、建议等话题",
-      "recommendation": "从天气条件切入摄影创作，社区讨论激发灵感，提供器材适配建议与节日氛围结合，适合爱好者拓展拍摄思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "What are your favorite weather conditions for photography?"
-    },
-    {
-      "id": "recvkQ4vdbMinD",
-      "title": "尼康人像摄影师的最佳副厂镜头：400美元以下推荐",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/27/the-best-third-party-lenses-for-nikon-portrait-photographers-under-400/",
-      "publish_time": "2026-05-27T21:00:00+08:00",
-      "summary": "人像摄影师可用400美元以下副厂镜头实现漂亮虚化，推荐两款快速镜头。",
-      "recommendation": "为预算有限的人像摄影师筛选400美元以下副厂镜头，提供两款快速镜头实测数据与虚化效果对比，聚焦性价比与实用场景。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Third-Party Lenses for Nikon Portrait Photographers Under $400"
-    },
-    {
-      "id": "recvkQ4e0KhcUD",
-      "title": "一个完全由AI生成节目组成的流媒体服务即将上线",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/a-streaming-service-made-up-entirely-of-ai-generated-shows-is-about-to-launch/",
-      "publish_time": "2026-05-27T20:04:07+08:00",
-      "summary": "数字资产平台Artlist推出Artlist TV，一个完全由AI生成节目组成的流媒体服务，提供创新内容体验。",
-      "recommendation": "AI生成内容首次以流媒体服务形式落地，展示AI视频创作技术边界，对影像创作者了解内容生产趋势有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A Streaming Service Made Up Entirely of AI-Generated Shows is About to Launch"
-    },
-    {
-      "id": "recvkQ4gaI2oBd",
-      "title": "《痴迷》中令人难以置信的摄影作品",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/the-incredible-photography-of-obsession/",
-      "publish_time": "2026-05-27T18:41:31+08:00",
-      "summary": "低成本恐怖片《着魔》票房成功，阵亡将士纪念日周末超3000万美元，全球达8000万美元，制作成本仅100万美元。",
-      "recommendation": "解析低成本恐怖片《着魔》的摄影美学，探讨如何用有限预算实现高冲击力画面，提供独立电影影像创作的技术参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Incredible Photography of ‘Obsession’"
-    },
-    {
-      "id": "recvkOFdUsy212",
-      "title": "获奖照片：仅1毫米宽的黏菌，由87张微距照片合成，使用全球首款IP53防尘防水相机拍摄",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/award-winning-photo-of-slime-mold-measuring-just-one-millimetre-across-created-from-87-macro-shots-using-worlds-first-ip53-weather-sealed-camera",
-      "publish_time": "2026-05-27T18:27:23+08:00",
-      "summary": "获奖照片由87张微距照片合成，展示仅1毫米宽的黏菌，使用全球首款IP53防尘防水相机拍摄，焦点堆叠技术揭示肉眼不可见的细节。",
-      "recommendation": "87张微距堆叠合成1毫米黏菌，IP53防水相机实战案例，焦点堆叠技术细节与微距摄影技巧干货。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Award-winning photo of slime mold measuring just one millimetre across created from 87 macro shots using world's first IP53 weather-sealed camera"
-    },
-    {
-      "id": "recvkOFtLAUnJp",
-      "title": "荣耀Magic9据称搭载骁龙8 Elite Gen 5处理器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_magic9_said_to_be_powered_by_the_snapdragon_8_elite_gen_5_soc-news-73006.php",
-      "publish_time": "2026-05-27T18:24:01+08:00",
-      "summary": "荣耀Magic9据称搭载3nm骁龙8 Elite Gen 5处理器，配备6.36英寸屏和8000mAh电池，前代Magic8也使用同款芯片。",
-      "recommendation": "常规资讯，可了解行业动态。虽未提及影像规格，但骁龙8 Elite Gen 5的ISP性能将影响未来手机影像处理能力。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Honor Magic9 said to be powered by the Snapdragon 8 Elite Gen 5 SoC"
-    },
-    {
-      "id": "recvkOFATfSu6q",
-      "title": "这些预设是为摄影师设计的，而非AI",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/27/get-the-look-of-retro-digital-cameras-easily-copy-3/",
-      "publish_time": "2026-05-27T18:00:00+08:00",
-      "summary": "这些预设为摄影师设计，无需AI即可实现真实视觉效果，复现AI难以达到的影像风格，核心在于保持创作自主性。",
-      "recommendation": "解析预设如何绕过AI实现真实影像风格，强调创作自主性，对追求手动控制的摄影师有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These Presets are Designed for Photographers, Not AI"
     }
   ]
 }
