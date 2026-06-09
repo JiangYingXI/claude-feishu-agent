@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-09T12:52:25.321293+08:00",
+    "updated_at": "2026-06-09T18:18:52.742364+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 120
+      "count": 122
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 15
+      "count": 13
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,141 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 201
+      "count": 198
     }
   ],
   "articles": [
+    {
+      "id": "recvm2zAJPh0I8",
+      "title": "科学家首次拍到 elusive '科苏梅尔矮狐' 照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/09/scientists-capture-first-ever-photos-of-the-elusive-cozumel-dwarf-fox/",
+      "publish_time": "2026-06-09T18:02:42+08:00",
+      "summary": "科学家首次拍摄到极其难以捉摸的科苏梅尔矮狐照片，此前其存在性不确定。",
+      "recommendation": "通过罕见野生动物拍摄案例，解析野外摄影中长焦镜头与低光环境应对技巧，提供实际拍摄参数参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Scientists Capture First-Ever Photos of the Elusive ‘Cozumel Dwarf Fox’"
+    },
+    {
+      "id": "recvm2zNM9UbfT",
+      "title": "七工匠135mm f1.8获得新固件，现在是一款出色的运动镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/09/the-7artisans-135mm-f1-8-got-new-firmware-its-a-great-sports-lens-now/",
+      "publish_time": "2026-06-09T18:00:00+08:00",
+      "summary": "七工匠135mm f1.8镜头新固件提升性能，搭配尼康Zf在体育摄影中表现出色，评测更新强调其运动拍摄能力",
+      "recommendation": "固件升级使七工匠135mm f1.8在尼康Zf上实现运动拍摄优化，提供实测数据与性能对比，对关注手动镜头体育摄影的爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 7Artisans 135mm f1.8 Got New Firmware. It’s a Great Sports Lens Now"
+    },
+    {
+      "id": "recvm2zSm7RWZj",
+      "title": "PetaPixel 评测：Thypoch Voyager AF 24-50mm f/2.8 FE 新镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/petapixel-review-of-the-new-thypoch-voyager-af-24-50mm-f-2-8-fe-lens/",
+      "publish_time": "2026-06-09T17:38:18+08:00",
+      "summary": "Thypoch Voyager AF 24-50mm f/2.8 FE是中国首款完全自主设计生产的变焦镜头，具备24-50mm焦距和f/2.8恒定光圈，在多家电商有售，使用代码可享5%折扣。",
+      "recommendation": "国产首款自研变焦镜头深度评测，涵盖24-50mm f/2.8光学性能、实拍样张与自动对焦表现，对关注国产光学突破的用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "PetaPixel review of the new Thypoch Voyager AF 24-50mm f/2.8 FE lens"
+    },
+    {
+      "id": "recvm2zEdjViNF",
+      "title": "重量仅一罐汽水，Viltrox新款多卡口长焦定焦镜头专为预算人像打造",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/weighing-about-as-much-a-can-of-soda-viltroxs-new-multi-mount-telephoto-primes-are-built-for-budget-portraits",
+      "publish_time": "2026-06-09T17:06:21+08:00",
+      "summary": "Viltrox推出AF 75mm f/1.8 Evo和90mm f/2.2 Evo镜头，重量仅一罐汽水，专为索尼E、尼康Z和富士X卡口设计，平衡性能与尺寸，适合预算人像摄影。",
+      "recommendation": "Viltrox两款长焦定焦镜头重量仅一罐汽水，提供75mm f/1.8和90mm f/2.2多卡口选择，数据详实，适合预算人像用户权衡性能与便携性。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weighing about as much a can of soda, Viltrox’s new multi-mount telephoto primes are built for budget portraits"
+    },
+    {
+      "id": "recvm2zLjRuKzN",
+      "title": "Apple 照片应用将支持以幻灯片形式播放照片和视频",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_photos_app_slideshow_feature-news-73186.php",
+      "publish_time": "2026-06-09T16:42:02+08:00",
+      "summary": "苹果照片应用将推出幻灯片功能，支持设置过渡样式、持续时间和音乐，iOS 27用户可保存为视频，并新增共享相册表情反应和活动视图。",
+      "recommendation": "苹果照片应用新增幻灯片功能，支持自定义过渡、时长与音乐，iOS 27可保存为视频，并加入共享相册表情反应。对影像爱好者而言，这是整理与展示作品的实用工具更新，属于常规功能迭代资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple Photos will let you play photos and videos as a slideshow"
+    },
+    {
+      "id": "recvm2zGzK3wAN",
+      "title": "索尼正在打造比E卡口大2.2倍的传感器——Rialto 65mm相机首批图像终于曝光",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-is-building-a-sensor-thats-2-2x-larger-than-e-mount-and-now-we-finally-have-the-first-images-of-the-rialto-65mm-camera",
+      "publish_time": "2026-06-09T15:20:50+08:00",
+      "summary": "索尼在CineGear 2026展示Rialto 65mm相机，其传感器比E卡口大2.2倍，首批图像曝光，核心价值在于超大传感器带来的画质突破。",
+      "recommendation": "独家曝光索尼Rialto 65mm相机首批图像，揭示传感器比E卡口大2.2倍，提供画质突破的硬件参数与行业趋势分析。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Sony is building a sensor that’s 2.2x larger than E-Mount – and now we finally have the first images of the Rialto 65mm camera"
+    },
+    {
+      "id": "recvm2zIQgEWey",
+      "title": "刚刚发布即登顶日本紧凑型相机榜首——搭载徕卡光学元件的旅行变焦相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/just-released-and-already-the-no-1-compact-camera-in-japan-a-travel-zoom-featuring-leica-optics",
+      "publish_time": "2026-06-09T15:18:43+08:00",
+      "summary": "新推出的傻瓜相机搭载24-360mm等效15倍变焦徕卡镜头，发布即登顶日本紧凑型相机榜首，而目前十大紧凑型相机中一半缺货",
+      "recommendation": "文章提供日本紧凑型相机市场最新排名及缺货数据，搭载24-360mm徕卡变焦镜头的机型发布即登顶，对关注旅行相机和行业动态的读者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Just released, and already the No.1 compact camera in Japan – a travel-zoom featuring Leica optics"
+    },
+    {
+      "id": "recvm2zPYQJhSP",
+      "title": "Yashica Funtastic 是更好的柯达 Charmera（Hello Kitty 版）",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/09/the-yashica-funtastic-is-a-better-kodak-charmera-hello-kitty-edition/",
+      "publish_time": "2026-06-09T15:00:00+08:00",
+      "summary": "Yashica Funtastic Hello Kitty版是比柯达Charmera更实惠的相机，定位为亲民玩具，而非专业设备。",
+      "recommendation": "对比Yashica与柯达两款亲民胶片相机，提供价格与定位差异分析，适合关注入门胶片机市场的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Yashica Funtastic is a Better Kodak Charmera (Hello Kitty Edition)"
+    },
     {
       "id": "recvm1fGRoBpUM",
       "title": "为什么你不需要最贵的相机",
@@ -7696,133 +7822,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "8 Editing Problems Nik Collection 9 Actually Solves"
-    },
-    {
-      "id": "recvkR56cxNjXG",
-      "title": "黄金时刻来了！伊尔福德足球收藏版相机胶卷及时赶上世界杯",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/goal-den-hour-is-here-ilford-football-collectors-edition-camera-film-is-here-in-time-for-the-world-cup",
-      "publish_time": "2026-05-28T00:47:28+08:00",
-      "summary": "伊尔福德与Expired Film Club合作推出35毫米足球收藏版相机胶卷，庆祝世界杯，适合足球和电影爱好者。",
-      "recommendation": "伊尔福德与Expired Film Club联名推出足球主题35mm胶卷，为胶片爱好者提供世界杯纪念新选择，但产品信息较常规，无独家数据或深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Goal-den hour is here! Ilford Football Collector's Edition camera film is here in time for the World Cup"
-    },
-    {
-      "id": "recvkQ4iqDI9fO",
-      "title": "单反相机捕捉到螃蟹与鱼泥泞生死决斗照片，荣获顶级旅游摄影奖亚军",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/photo-of-a-muddy-duel-to-the-death-between-a-crab-and-a-fish-captured-on-a-dslr-was-runner-up-in-top-travel-photography-award",
-      "publish_time": "2026-05-28T00:12:58+08:00",
-      "summary": "一张单反相机拍摄的螃蟹与鱼在泥浆中搏斗的照片，荣获年度旅行摄影师奖野生动物类亚军。",
-      "recommendation": "解析单反相机在极端泥泞环境中捕捉动态对决的技术要点，揭示获奖作品背后的拍摄参数与构图策略，为野生动物摄影爱好者提供实战参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photo of a muddy duel to the death between a crab and a fish captured on a DSLR was runner-up in top travel photography award"
-    },
-    {
-      "id": "recvkQ40T48NNV",
-      "title": "Halide Mark III 承诺在 iPhone 上实现‘最美照片’",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/halide-mark-iii-promises-most-beautiful-photos-possible-on-iphone/",
-      "publish_time": "2026-05-28T00:02:11+08:00",
-      "summary": "Halide Mark III 正式发布，承诺无AI摄影体验和全新“Looks”功能，实现iPhone最美照片。",
-      "recommendation": "Halide Mark III 以无AI摄影和“Looks”功能挑战计算摄影，提供iPhone原生画质新思路，适合追求真实影像的用户。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Halide Mark III Promises ‘Most Beautiful Photos Possible’ on iPhone"
-    },
-    {
-      "id": "recvkQ3W5wwJr0",
-      "title": "Halide Mark III：重新设计的相机、全新外观，以及惊喜的Raw文件支持",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/4797770033/halide-mark-iii-announced",
-      "publish_time": "2026-05-28T00:00:00+08:00",
-      "summary": "Halide Mark III相机应用发布，支持多品牌Raw文件，图像处理能力大幅提升。",
-      "recommendation": "Halide Mark III重新设计界面并支持多品牌Raw文件，提供独家图像处理升级细节，对追求移动摄影画质的用户有实操参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Halide Mark III: Redesigned camera, new looks, and surprise Raw file support"
-    },
-    {
-      "id": "recvkQ4t0V57Sx",
-      "title": "最佳佳能相机套件：鸟类摄影之选",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/27/the-best-canon-camera-kit-for-bird-photography/",
-      "publish_time": "2026-05-28T00:00:00+08:00",
-      "summary": "佳能单反与无反相机套件适合严肃鸟类摄影师，提供优秀性能与画质",
-      "recommendation": "针对鸟类摄影需求，对比佳能单反与无反套件性能差异，含具体镜头搭配建议与对焦系统实测数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Best Canon Camera Kit For Bird Photography"
-    },
-    {
-      "id": "recvkQ430E6eUa",
-      "title": "新片将记录巴西摄影师克劳迪娅·安杜哈尔的生平与作品",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/new-film-will-chronicle-the-life-and-work-of-brazilian-photographer-claudia-andujar/",
-      "publish_time": "2026-05-27T23:32:13+08:00",
-      "summary": "新传记片聚焦巴西摄影师克劳迪娅·安杜哈尔，她以记录亚诺马米原住民而闻名，展现其生平与作品。",
-      "recommendation": "通过传记视角，揭示纪实摄影师与亚诺马米原住民共生的创作历程，提供人文摄影的独特案例与跨文化影像记录方法论。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Film Will Chronicle the Life and Work of Brazilian Photographer Claudia Andujar"
-    },
-    {
-      "id": "recvkQ4kqX2dPg",
-      "title": "在日本大受欢迎：为何紧凑型尼康Z30从未真正赢得西方市场，以及它本应如此的原因",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/big-in-japan-why-the-compact-nikon-z30-never-really-won-over-the-west-and-why-it-really-should",
-      "publish_time": "2026-05-27T23:17:35+08:00",
-      "summary": "尼康Z30在日本畅销，但在西方市场未获广泛认可，仍是最好紧凑型无反相机之一。",
-      "recommendation": "分析Z30在东西方市场差异，提供跨文化消费视角与产品定位洞察，适合关注相机市场趋势的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Big in Japan: Why the compact Nikon Z30 never really won over the West and why it really should"
-    },
-    {
-      "id": "recvkQ4oJiDgGV",
-      "title": "唯卓仕AF 75mm F1.8（389欧元）和90mm F2.2（429欧元）上架",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/viltrox-af-75mmf1-8-389e-and-90mmf2-2-429e-listed/",
-      "publish_time": "2026-05-27T22:44:51+08:00",
-      "summary": "唯卓仕AF 75mm F1.8和90mm F2.2镜头在德国商店上架，售价分别为389欧元和429欧元，参数与价格信息源自Fuji Rumors。",
-      "recommendation": "唯卓仕两款新镜头的欧洲定价曝光，75mm F1.8与90mm F2.2参数明确，为关注副厂定焦头的用户提供参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Viltrox AF 75mmF1.8 (389€) and 90mmF2.2 (429€) Listed"
     }
   ]
 }
