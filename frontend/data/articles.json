@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-09T04:45:49.368040+08:00",
+    "updated_at": "2026-06-09T12:52:25.321293+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 14
+      "count": 15
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -42,6 +42,84 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvm1fGRoBpUM",
+      "title": "为什么你不需要最贵的相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/09/why-you-dont-need-the-most-expensive-camera/",
+      "publish_time": "2026-06-09T12:00:00+08:00",
+      "summary": "文章指出，摄影师常因追求高速连拍而购买高端相机，如从索尼a7r V升级到a1 II，但作者提醒，昂贵的相机并非必要，核心在于技术而非设备。",
+      "recommendation": "剖析高端相机升级的性价比陷阱，用真实案例说明技术比设备更关键，适合预算有限但追求进步的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why You Don’t Need the Most Expensive Camera"
+    },
+    {
+      "id": "recvm1fC4egHWE",
+      "title": "苹果发布新一代Apple Intelligence，以下是其功能特点",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_unveils_nextgeneration_apple_intelligence_here_are_the_features-news-73183.php",
+      "publish_time": "2026-06-09T06:03:02+08:00",
+      "summary": "苹果发布新一代Apple Intelligence，Siri AI为核心，照片应用利用更强图像模型支持空间重构，可实时预览视角变化，登陆iOS 27等系统。",
+      "recommendation": "聚焦Apple Intelligence对照片应用的图像模型升级，空间重构与实时视角预览是影像爱好者关注的新功能，但缺乏具体技术参数与独家数据。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Apple unveils next-generation Apple Intelligence, here are the features"
+    },
+    {
+      "id": "recvm1fxjGl7Ob",
+      "title": "Oyen U35 Bolt+ SSD评测：史上最快，但有代价",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/oyen-u35-bolt-ssd-review-fastest-on-record-but-with-a-catch/",
+      "publish_time": "2026-06-09T05:39:56+08:00",
+      "summary": "Oyen Digital发布U35 Bolt+ USB4便携SSD，宣称速度高达6000MB/s，为史上最快，但需付出代价。",
+      "recommendation": "评测揭示USB4 SSD极限速度对8K视频工作流的实际影响，含实测数据与散热代价分析，为高码率素材存储提供决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Oyen U35 Bolt+ SSD Review: Fastest On Record, But With a Catch"
+    },
+    {
+      "id": "recvm1fzI104Oo",
+      "title": "无论多小心，相机内部都会进灰",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/08/no-matter-how-careful-you-are-you-will-get-dust-inside-your-camera/",
+      "publish_time": "2026-06-09T05:25:51+08:00",
+      "summary": "变焦镜头会导致相机内部进灰，即使小心使用也无法避免，影响成像质量。",
+      "recommendation": "揭示变焦镜头进灰的必然性，提供传感器清洁技巧与防灰建议，对日常维护有实用价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "No Matter How Careful You Are, You Will Get Dust Inside Your Camera"
+    },
+    {
+      "id": "recvm1fEp5bgbD",
+      "title": "iOS 27 和 iPadOS 27 的新功能一览",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/heres_whats_new_in_ios_27_and_ipados_27-news-73182.php",
+      "publish_time": "2026-06-09T04:45:09+08:00",
+      "summary": "苹果在WWDC上发布iOS 27和iPadOS 27，主打Siri AI聊天机器人，集成系统并有独立应用，还有多项AI新功能，预览版已向开发者开放，公测下月启动，秋季正式发布。",
+      "recommendation": "文章聚焦iOS 27的AI功能，对影像爱好者而言，Siri集成可能影响计算摄影工作流，但未提及具体影像算法或硬件优化，价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's what's new in iOS 27 and iPadOS 27"
+    },
     {
       "id": "recvlZgT52OMYJ",
       "title": "苹果新AI照片工具可在拍摄后虚拟移动相机",
@@ -7745,83 +7823,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Viltrox AF 75mmF1.8 (389€) and 90mmF2.2 (429€) Listed"
-    },
-    {
-      "id": "recvkQ45cWjzZn",
-      "title": "弗吉尼亚美术博物馆获赠近2000张重要摄影作品",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/virginia-museum-of-fine-arts-receives-major-gift-of-nearly-2000-important-photographs/",
-      "publish_time": "2026-05-27T22:34:59+08:00",
-      "summary": "弗吉尼亚美术博物馆获赠近2000张摄影作品，含纳达尔、斯蒂格利茨和舍曼重要作品",
-      "recommendation": "博物馆获赠纳达尔、斯蒂格利茨等近2000张原作，含未公开作品，为摄影史研究提供一手资料，影像爱好者可从中获取创作灵感与历史脉络。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Virginia Museum of Fine Arts Receives Major Gift of Nearly 2,000 Important Photographs"
-    },
-    {
-      "id": "recvkQ4mylZVEA",
-      "title": "柯达相机胶片刚刚更名——而且它们来自一个不同的柯达。困惑吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/kodaks-camera-films-have-just-changed-names-and-they-come-from-a-different-kodak-confused",
-      "publish_time": "2026-05-27T22:29:10+08:00",
-      "summary": "柯达对相机胶卷进行品牌重塑，但新胶卷来自另一个柯达公司，引发困惑。",
-      "recommendation": "解析柯达品牌分家后的胶卷更名，帮助爱好者厘清产品来源，避免混淆。含品牌历史与产品线独家梳理。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Kodak's camera films have just changed names –and they come from a different Kodak. Confused?"
-    },
-    {
-      "id": "recvkQ47givNfP",
-      "title": "伊尔福与过期胶片俱乐部共襄世界杯盛举",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/ilford-and-expired-film-club-get-into-the-world-cup-spirit/",
-      "publish_time": "2026-05-27T22:03:13+08:00",
-      "summary": "Harman Technology为两款35mm胶片推出世界杯限量版包装，庆祝即将开幕的足球盛事。",
-      "recommendation": "胶片厂商与过期胶片俱乐部合作推出世界杯限量包装，展示传统影像品牌如何借势体育赛事营销，对关注胶片文化或收藏限量版的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Ilford and Expired Film Club Get Into the World Cup Spirit"
-    },
-    {
-      "id": "recvkQ4qSsxe2C",
-      "title": "适马即将发布一款“有趣”的全画幅E/L卡口镜头……",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sigma-will-soon-announce-a-funny-full-frame-e-l-lens/",
-      "publish_time": "2026-05-27T21:57:21+08:00",
-      "summary": "适马即将发布一款全画幅E/L卡口镜头，被描述为“有趣”，暗示设计不寻常，具体规格待公布。",
-      "recommendation": "适马“有趣”镜头暗示非传统光学设计，E/L卡口用户可提前关注规格参数，获取差异化产品线索。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sigma will soon announce a “funny” Full Frame E/L lens…"
-    },
-    {
-      "id": "recvkQ49CcMsDy",
-      "title": "摄影师因涉嫌未交付成人礼照片被捕",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/27/photographer-arrested-for-allegedly-failing-to-deliver-quinceanera-photos/",
-      "publish_time": "2026-05-27T21:45:40+08:00",
-      "summary": "一名摄影师因未在女儿成人礼后八个月内交付照片，被女士报警后被捕。",
-      "recommendation": "从法律与商业合同角度剖析摄影师交付纠纷，提醒影像从业者重视书面协议与交付期限，避免类似风险。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Arrested for Allegedly Failing to Deliver Quinceañera Photos"
     }
   ]
 }
