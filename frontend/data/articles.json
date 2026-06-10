@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-10T13:15:16.959836+08:00",
+    "updated_at": "2026-06-10T18:48:46.562267+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 28
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 122
+      "count": 123
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,172 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 381
+      "count": 382
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 193
+      "count": 192
     }
   ],
   "articles": [
+    {
+      "id": "recvm8xQpHGei6",
+      "title": "关于更锐利镜头的谎言",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/10/the-lie-about-sharper-lenses/",
+      "publish_time": "2026-06-10T18:00:00+08:00",
+      "summary": "作者认为更锐利的镜头并非必要，后期处理可替代，消费主义误导用户，2026年此观点更正确。",
+      "recommendation": "挑战消费主义对锐度的执念，揭示后期处理可替代硬件升级，提供反主流视角，助影像爱好者理性看待器材与创作本质。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Lie About Sharper Lenses"
+    },
+    {
+      "id": "recvm8xVIfJey3",
+      "title": "PMR-TV解答关于新100-400mm GM镜头的28个问题",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/pmr-tv-answered-28-questions-about-the-new-100-400mm-gm/",
+      "publish_time": "2026-06-10T17:40:59+08:00",
+      "summary": "索尼100-400mm f/4.5 GM镜头在多家电商有售，明日美国发货。PMR-TV解答了关于该镜头的28个问题，涵盖核心技术参数与使用细节。",
+      "recommendation": "PMR-TV以28个问答形式解析100-400mm GM镜头，涵盖MTF曲线、对焦速度等核心参数，适合长焦爱好者深度了解光学性能与使用细节。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "PMR-TV answered 28 Questions about the new 100-400mm GM"
+    },
+    {
+      "id": "recvm8xxZNMRF6",
+      "title": "“依然是你买得到的最好的相机”迎来重大固件更新——但有个坑。现在佳能修复了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/still-the-best-damn-camera-you-can-buy-got-a-major-firmware-update-but-it-came-with-a-catch-now-canon-has-a-fix",
+      "publish_time": "2026-06-10T17:35:27+08:00",
+      "summary": "佳能EOS R5 Mark II固件1.3.0修复了触摸与拖动自动对焦问题，此前该版本曾带来降级，现恢复最佳相机体验。",
+      "recommendation": "固件修复细节与用户实际体验关联度高，揭露了佳能版本回退的坑，对R5 Mark II用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"Still the best damn camera you can buy\" got a major firmware update – but it came with a catch. Now Canon has a fix"
+    },
+    {
+      "id": "recvm8xARvz7RI",
+      "title": "是的，你可以在美国买到DJI Pocket 4！这里告诉你如何找到并以最优价格购买",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/yes-you-can-get-the-dji-pocket-4-in-the-us-heres-where-to-find-it-and-buy-it-at-the-best-price",
+      "publish_time": "2026-06-10T16:54:16+08:00",
+      "summary": "全新DJI Osmo Pocket 4手持云台相机升级版在美国上市，本文介绍如何找到并以最优价格购买。",
+      "recommendation": "提供DJI Pocket 4美国购买渠道与价格对比，含独家购买技巧，对海外用户有实操价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Yes, you can get the DJI Pocket 4 in the US! Here's where to find it, and buy it at the best price"
+    },
+    {
+      "id": "recvm8xDCoqujq",
+      "title": "传奇黑白摄影师将赠送他的标志性徕卡相机——你也有机会赢取！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/legendary-black-and-white-photographer-is-giving-away-his-iconic-leica-camera-and-you-could-win-it",
+      "publish_time": "2026-06-10T16:47:40+08:00",
+      "summary": "传奇黑白摄影师将赠送其个人使用15年的徕卡Typ 246相机，一位幸运赢家将有机会获得。",
+      "recommendation": "揭秘传奇摄影师15年使用徕卡Typ 246的独家故事，含相机型号与个人体验细节，对徕卡用户和黑白摄影爱好者有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Legendary black-and-white photographer is giving away his iconic Leica camera – and you could win it!"
+    },
+    {
+      "id": "recvm8xNEOhGFA",
+      "title": "Telegram 宣布推出 Apple Watch 原生应用",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/telegram_announces_native_app_for_the_apple_watch-news-73205.php",
+      "publish_time": "2026-06-10T15:34:02+08:00",
+      "summary": "Telegram推出Apple Watch原生应用，支持文本语音消息、GIF、视频、位置分享和贴纸，恢复智能手表支持。",
+      "recommendation": "常规资讯，可了解行业动态。虽非影像核心内容，但Apple Watch原生应用支持语音、视频消息，为移动影像社交场景提供新交互入口。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Telegram announces native app for the Apple Watch"
+    },
+    {
+      "id": "recvm8xGb1LIr7",
+      "title": "Viltrox AF 75mm f/1.8 Evo评测：物种的进一步进化，这次是APS-C细分市场",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-af-75mm-f-1-8-evo-review-a-further-evolution-of-the-species-this-time-for-the-aps-c-subdivision",
+      "publish_time": "2026-06-10T15:00:00+08:00",
+      "summary": "Viltrox AF 75mm f/1.8 Evo是一款适用于富士、尼康和索尼APS-C画幅无反相机的经典且性价比高的短焦定焦镜头。",
+      "recommendation": "评测Viltrox 75mm f/1.8 Evo在APS-C画幅下的光学表现与性价比，提供实拍样张与MTF数据，适合追求高性价比人像镜头的用户参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Viltrox AF 75mm f/1.8 Evo review: a further evolution of the species, this time for the APS-C subdivision"
+    },
+    {
+      "id": "recvm8xT0khq0c",
+      "title": "数码技术真能重塑宾得67的魔力吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/10/the-simple-way-to-get-the-magic-the-pentax-67-make-copy/",
+      "publish_time": "2026-06-10T15:00:00+08:00",
+      "summary": "宾得67相机因耐用、易用和优秀镜头受摄影师喜爱，被评为最受欢迎中画幅相机之一，无需胶片后背即可直接拍摄。",
+      "recommendation": "探讨数码技术对经典中画幅相机宾得67的影像重塑，提供技术对比与用户视角，适合关注胶片与数码融合的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Can Digital Really Remake the Magic of the Pentax 67?"
+    },
+    {
+      "id": "recvm8xIMGYDbD",
+      "title": "告别泳池浮具，这些神奇的新型摄影摄像灯充气后便携又创意",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-lights/forget-pool-floaties-these-amazing-new-photo-video-lights-inflate-for-portable-creative-lighting",
+      "publish_time": "2026-06-10T14:30:00+08:00",
+      "summary": "Godox LC500R Air和LR150 Air采用充气灯头，在保持光源尺寸的同时最大化便携性，实现创意便携摄影摄像。",
+      "recommendation": "解析Godox充气灯头设计，揭示便携与光源尺寸平衡的解决方案，为创意布光提供新思路。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Forget pool floaties, these amazing new photo-video lights inflate for portable, creative lighting"
+    },
+    {
+      "id": "recvm8xL02BAWr",
+      "title": "像素拉伸趋势回归！在Photoshop中轻松实现的方法",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/the-pixel-stretch-trend-is-back-heres-how-to-do-it-easily-in-photoshop",
+      "publish_time": "2026-06-10T14:15:00+08:00",
+      "summary": "Z世代重新发现像素拉伸趋势，本文介绍在Photoshop中轻松实现该效果的方法，适合错过首次流行的用户快速掌握操作技巧。",
+      "recommendation": "像素拉伸趋势回归，文章提供Photoshop实操步骤，适合错过首次流行的用户快速上手。无独家数据，但技术科普价值明确。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The pixel stretch trend is back!Here's how to do it easily in Photoshop"
+    },
     {
       "id": "recvm7bP9kWisU",
       "title": "荣耀为MagicOS新增虚拟权限功能，保护你的隐私数据",
@@ -7659,163 +7816,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Leica's giving some of its most popular cameras a fresh coat of paint"
-    },
-    {
-      "id": "recvkX14AGHmxU",
-      "title": "Thypoch 新款 Simera-C 16mm T1.9 成为其最广电影镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/thypochs-new-simera-c-16mm-t1-9-is-its-widest-cinema-lens-yet/",
-      "publish_time": "2026-05-29T02:21:48+08:00",
-      "summary": "Thypoch为Simera-C系列新增16mm T1.9镜头，是其最广全画幅电影定焦镜头，经济紧凑。",
-      "recommendation": "文章介绍Thypoch最广全画幅电影定焦镜头16mm T1.9，提供经济紧凑的广角选择，适合独立电影制作人关注。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Thypoch’s New Simera-C 16mm T1.9 Is its Widest Cinema Lens Yet"
-    },
-    {
-      "id": "recvkX17exAGhP",
-      "title": "员工 vs 承包商：摄影师需要了解什么",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/employee-vs-contractor-what-photographers-need-to-know/",
-      "publish_time": "2026-05-29T02:08:09+08:00",
-      "summary": "美国媒体摄影师协会6月4日举办免费网络研讨会，由CEO兼律师托马斯·马德雷讲解摄影师雇员与承包商的法律区别",
-      "recommendation": "解析摄影师雇员与承包商的法律区别，提供合同风险规避要点，对自由职业者规避税务与版权纠纷有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Employee vs Contractor: What Photographers Need to Know"
-    },
-    {
-      "id": "recvkX1a4EUxgd",
-      "title": "国家地理新纪录片《时间与水》讲述你仍在书写的故事",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/nat-geos-new-documentary-time-and-water-tells-a-story-youre-still-writing/",
-      "publish_time": "2026-05-29T01:11:59+08:00",
-      "summary": "国家地理纪录片《时间与水》由奥斯卡提名导演萨拉·多萨执导，跟随冰岛作家安德里·斯奈尔·马格纳森，通过档案影像和艺术，探讨冰川消逝与离别的深刻问题。",
-      "recommendation": "通过冰川消逝的影像叙事，探讨摄影如何记录时间与离别，提供纪录片级美学视角与创作灵感。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nat Geo’s New Documentary, ‘Time and Water,’ Tells a Story You’re Still Writing"
-    },
-    {
-      "id": "recvkX1cBuBX2v",
-      "title": "海量样张更新：Lumix L10、索尼a7R VI等机型",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/massive-sample-gallery-update-lumix-l10-sony-a7r-vi-and-more/",
-      "publish_time": "2026-05-29T01:07:36+08:00",
-      "summary": "PetaPixel更新样张库，新增松下Lumix L10和索尼a7R VI等八个图库，提供超大文件夹照片供会员查看。",
-      "recommendation": "PetaPixel更新样张库，新增Lumix L10与a7R VI等八款机型，提供高分辨率原图，适合对比画质与色彩科学，是器材选购的实用参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Massive Sample Gallery Update: Lumix L10, Sony a7R VI, and More"
-    },
-    {
-      "id": "recvkVYYQztuaE",
-      "title": "一加16再曝：搭载185Hz屏幕，配备200MP 3倍长焦和50MP主摄",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oneplus_16_screen_refresh_rate_main_telephoto_camera_details_tipped-news-73026.php",
-      "publish_time": "2026-05-29T00:01:02+08:00",
-      "summary": "一加16爆料：屏幕刷新率或达185Hz，配备200MP长焦和50MP主摄，新增AI按钮",
-      "recommendation": "曝光一加16的200MP长焦与50MP主摄规格，185Hz屏幕刷新率及AI按钮为独特信息，适合关注手机影像硬件升级的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "OnePlus 16 again tipped to come with a 185Hz display, feature a 200MP 3x telephoto and a 50MP primary camera"
-    },
-    {
-      "id": "recvkVYE1Xry5Z",
-      "title": "Apexel TeleMacro Pro 10X 二合一远摄微距镜头评测：近距离接触各种远近拍摄对象",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phone-accessories/apexel-telemacro-pro-10x-kit-review",
-      "publish_time": "2026-05-29T00:00:00+08:00",
-      "summary": "Apexel TeleMacro Pro 10X二合一镜头，通过10倍远摄和微距功能，提升智能手机拍摄电影感照片和短片的能力。",
-      "recommendation": "实测10倍远摄微距二合一镜头，提供多场景样张与光学结构解析，对手机摄影配件选购有数据参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Apexel TeleMacro Pro 10X 2-in-1 Telephoto & Macro lens review: have a closer encounter with a wide range of subjects, both near and far"
-    },
-    {
-      "id": "recvkVYiEbBvef",
-      "title": "徕卡M系列创意镜头盖：隐藏AirTags的巧妙设计",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/crafty-lens-cap-for-leica-m-hides-airtags/",
-      "publish_time": "2026-05-28T23:50:19+08:00",
-      "summary": "徕卡M系列创意镜头盖巧妙隐藏苹果AirTags，为昂贵摄影设备提供防盗保护，结合经典设计与现代追踪技术。",
-      "recommendation": "将AirTags巧妙嵌入徕卡M系列镜头盖，为昂贵设备提供防盗方案，兼顾经典设计与现代追踪技术，对器材党有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Crafty Lens Cap for Leica M Hides AirTags"
-    },
-    {
-      "id": "recvkVYGHWEnAR",
-      "title": "为何柯达和雅西卡品牌的第三方授权商能在多数主流相机厂商失败之处取得成功",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/why-third-party-licensees-of-kodak-and-yashica-brands-are-succeeding-where-more-major-camera-manufacturers-arent",
-      "publish_time": "2026-05-28T22:56:13+08:00",
-      "summary": "柯达和雅西卡等品牌通过第三方授权生产低价基础数码相机，凭借亲民价格和简化功能，在畅销榜上超越佳能、索尼等巨头，揭示了市场对性价比的强烈需求。",
-      "recommendation": "剖析柯达、雅西卡授权商以低价基础机逆袭佳能索尼的案例，揭示市场对性价比的深层需求，为影像爱好者提供行业竞争新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why third-party licensees of Kodak and Yashica brands are succeeding where more major camera manufacturers aren’t"
-    },
-    {
-      "id": "recvkVYJ2rEkjE",
-      "title": "尼康不到两个月前出售了这家获奖的机器人相机公司，如今MRMC即将关闭",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/nikon-sold-off-this-award-winning-robotic-camera-company-less-than-two-months-ago-now-mrmc-is-shutting-down",
-      "publish_time": "2026-05-28T22:45:31+08:00",
-      "summary": "尼康出售MRMC股份后，该公司在英国进入清算程序，这家获奖机器人相机公司即将关闭。",
-      "recommendation": "尼康出售MRMC后该公司进入清算，揭示机器人相机行业商业风险，影像从业者可从中了解产业链合作与资本运作的潜在影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon sold off this award-winning robotic camera company less than two months ago. Now, MRMC is shutting down"
-    },
-    {
-      "id": "recvkVYlgcVso2",
-      "title": "宝丽来限量版紫色胶片赋予“废片”第二次生命",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/polaroids-limited-edition-purple-film-gives-waste-a-second-life/",
-      "publish_time": "2026-05-28T22:03:14+08:00",
-      "summary": "宝丽来推出限量版紫色600胶片，为摄影师带来迷幻效果，赋予废片第二次生命",
-      "recommendation": "解析宝丽来紫色胶片如何通过色彩实验赋予废片新价值，提供胶片摄影创意玩法与限量版市场动态。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Polaroid’s Limited Edition Purple Film Gives ‘Waste a Second Life’"
     }
   ]
 }
