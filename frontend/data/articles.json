@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-10T04:35:16.336044+08:00",
+    "updated_at": "2026-06-10T13:15:16.959836+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 29
+      "count": 28
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 123
+      "count": 122
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,179 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 11
+      "count": 12
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 39
+      "count": 38
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 383
+      "count": 381
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 194
+      "count": 193
     }
   ],
   "articles": [
+    {
+      "id": "recvm7bP9kWisU",
+      "title": "荣耀为MagicOS新增虚拟权限功能，保护你的隐私数据",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_adds_virtual_permissions_feature_to_magicos_that_protects_your_private_data-news-73199.php",
+      "publish_time": "2026-06-10T12:16:02+08:00",
+      "summary": "荣耀为MagicOS新增虚拟权限功能，允许用户向不信任的应用授予空白权限，保护隐私数据，本月上线。",
+      "recommendation": "荣耀虚拟权限功能虽非影像直接相关，但可防止恶意应用窃取相册权限，保护拍摄隐私。常规资讯，了解行业隐私保护趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor adds Virtual Permissions feature to MagicOS that protects your private data"
+    },
+    {
+      "id": "recvm7bVYOKdvY",
+      "title": "2026年，OM System OM1仍是一款好玩的相机吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/10/is-the-om-system-om1-still-a-good-fun-camera-in-2026/",
+      "publish_time": "2026-06-10T12:00:00+08:00",
+      "summary": "OM System OM1作为奥林巴斯分离后首款相机，虽非最新，但其性能仍具竞争力，值得2026年重新评估其价值。",
+      "recommendation": "评测OM-1在2026年的竞争力，提供传感器性能、对焦速度等关键数据，分析其与竞品的差异化价值，适合关注相机长期使用价值的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the OM System OM1 Still a Good Fun Camera in 2026?"
+    },
+    {
+      "id": "recvm7bTOp02jN",
+      "title": "Viltrox AF 90mm F2.2 EVO 上手评测 + Aiarty 图像与视频清理工作流",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/viltrox-af-90mm-f2-2-evo-hands-on-review-aiarty-image-video-cleanup-workflow/",
+      "publish_time": "2026-06-10T07:27:56+08:00",
+      "summary": "Viltrox AF 90mm F2.2 EVO为APS-C无反用户提供紧凑长焦方案，F2.2光圈适合人像，支持索尼E、富士X和尼康Z卡口。",
+      "recommendation": "实测Viltrox 90mm F2.2 EVO在APS-C机身上的长焦人像表现，提供F2.2光圈下的样张与卡口兼容性数据，适合关注副厂紧凑镜头的用户参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox AF 90mm F2.2 EVO Hands-on Review + Aiarty Image & Video Cleanup Workflow"
+    },
+    {
+      "id": "recvm7bYhE2Pkp",
+      "title": "FieldMade 可定制电池指示器/标签生态系统现已支持尼康 EN-EL15、EN-EL25 和 EN-EL18 电池（含优惠码）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/09/fieldmades-customizable-battery-indicator-label-ecosystem-now-includes-nikon-en-el15-en-el25-and-en-el18-batteries-coupon-code-included.aspx/",
+      "publish_time": "2026-06-10T07:11:52+08:00",
+      "summary": "FieldMade推出可定制尼康电池指示器/标签，支持EN-EL15、EN-EL25和EN-EL18，使用优惠码Rumors10享10%折扣，最低消费20加元。",
+      "recommendation": "尼康用户可定制电池标签，提升多电池管理效率，含独家10%折扣码，实用配件资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "FieldMade’s customizable battery indicator/label ecosystem now includes Nikon EN-EL15, EN-EL25, and EN-EL18 batteries (coupon code included)"
+    },
+    {
+      "id": "recvm7bRsebzUR",
+      "title": "苹果为App Store推出个性化推荐功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_launches_personalized_recommendations_for_the_app_store-news-73202.php",
+      "publish_time": "2026-06-10T06:31:01+08:00",
+      "summary": "苹果在开发者大会上宣布App Store将推出个性化推荐功能，根据用户兴趣定制应用和游戏推荐，并随使用情况演变，今年开始推出。",
+      "recommendation": "虽非影像专属，但App Store个性化推荐可能影响影像类App的曝光与发现，对开发者与用户获取摄影工具具间接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple launches personalized recommendations for the App Store"
+    },
+    {
+      "id": "recvm7bE2b6Fh1",
+      "title": "《海洋》纪录片首次捕捉海底拖网捕捞的恐怖景象",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/09/ocean-doc-captures-the-horrors-of-seabed-trawling-for-the-first-time/",
+      "publish_time": "2026-06-10T06:26:52+08:00",
+      "summary": "大卫·爱登堡爵士百岁之际，纪录片《海洋》首次捕捉海底拖网捕捞的恐怖景象，揭示海洋对生命深远影响，现已在国家地理等平台播出。",
+      "recommendation": "首次用镜头揭示海底拖网捕捞实况，为水下摄影提供罕见素材，展现纪录片影像的纪实力量与生态价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "‘Ocean’ Doc Captures the Horrors of Seabed Trawling for the First Time"
+    },
+    {
+      "id": "recvm7bGDf3xqt",
+      "title": "七工匠仅生产500支新款海鸥35mm镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/09/7artisans-is-only-making-500-copies-of-its-new-seagull-35mm-lens/",
+      "publish_time": "2026-06-10T05:24:24+08:00",
+      "summary": "七工匠与海鸥合作推出限量版35mm f/1.7镜头，专为徕卡M卡口旁轴相机设计，全画幅手动对焦，仅生产500支。",
+      "recommendation": "限量500支的联名镜头，提供徕卡M卡口全画幅手动对焦方案，适合旁轴玩家收藏或体验经典光学设计。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans Is Only Making 500 Copies of its New Seagull 35mm Lens"
+    },
+    {
+      "id": "recvm7bIOsOfYs",
+      "title": "收藏家逛跳蚤市场搜寻女性爬树老照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/09/collector-scours-flea-markets-for-vintage-photos-of-women-in-trees/",
+      "publish_time": "2026-06-10T05:18:40+08:00",
+      "summary": "照片收藏家约亨·赖斯在法兰克福跳蚤市场发现一张女子爬树老照片，引发对历史女性形象的探索。",
+      "recommendation": "从跳蚤市场老照片切入，探讨历史女性形象与摄影收藏的关联，为影像爱好者提供独特的视觉史料视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Collector Scours Flea Markets for Vintage Photos of Women in Trees"
+    },
+    {
+      "id": "recvm7bKSprRhy",
+      "title": "电影色彩科学最全面的审视之一",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/09/one-of-the-most-comprehensive-looks-at-film-color-science/",
+      "publish_time": "2026-06-10T05:08:27+08:00",
+      "summary": "日本摄影师D.Daniel提供最全面高效的彩色与黑白胶片对比，涵盖核心技术参数，是电影色彩科学的实用审视",
+      "recommendation": "日本摄影师D.Daniel的胶片对比涵盖核心技术参数，为影像爱好者提供电影色彩科学的实用审视，含独家黑白与彩色对比数据。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "One of the Most Comprehensive Looks at Film Color Science"
+    },
+    {
+      "id": "recvm7bMTpcPXk",
+      "title": "索尼MDR-7506耳机：衡量其他产品的标准",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/09/sony-mdr-7506-headphones-the-standard-to-which-all-others-are-measured/",
+      "publish_time": "2026-06-10T05:04:51+08:00",
+      "summary": "PetaPixel扩展报道至耳机领域，聚焦摄像师使用场景，认为索尼MDR-7506是评判所有耳机的标准。",
+      "recommendation": "从摄像师视角切入耳机评测，提供行业标准参考，对影像工作者有实用价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony MDR-7506 Headphones: The Standard to Which All Others Are Measured"
+    },
     {
       "id": "recvm54Euzz143",
       "title": "凝视宇宙中独一无二的宇宙水晶球",
@@ -7662,165 +7816,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Polaroid’s Limited Edition Purple Film Gives ‘Waste a Second Life’"
-    },
-    {
-      "id": "recvkVYo9JboeA",
-      "title": "Thypoch Voyager 24-50mm f/2.8评测：平价自动对焦变焦镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/thypoch-voyager-24-50mm-f-2-8-review-autofocus-zoom-for-a-bargain/",
-      "publish_time": "2026-05-28T22:01:17+08:00",
-      "summary": "Thypoch Voyager 24-50mm f/2.8是首个由中国精品手动镜头制造商推出的自动对焦变焦镜头，平价且性能出色，标志着国产自动对焦镜头设计的突破。",
-      "recommendation": "国产手动镜头品牌首款自动对焦变焦镜头实测，含MTF曲线与实拍样张，平价f/2.8恒定光圈表现值得关注。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Thypoch Voyager 24-50mm f/2.8 Review: Autofocus Zoom for a Bargain"
-    },
-    {
-      "id": "recvkVYcChEddi",
-      "title": "时尚热情：揭秘一位摄影师出人意料的百变装备",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/3189599253/a-passion-for-fashion-inside-one-photographer-s-surprisingly-versatile-kit",
-      "publish_time": "2026-05-28T22:00:00+08:00",
-      "summary": "摄影师Roberto De Micheli从野生动物转向时尚摄影，使用Phase One IQ180相机拍摄海滩效果，参数为50mm F11 1/500秒 ISO35，展示其百变装备与热情。",
-      "recommendation": "摄影师从野生动物转向时尚摄影的装备转型实录，含Phase One IQ180具体参数（50mm F11 1/500秒 ISO35），对跨领域创作有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A passion for fashion: Inside one photographer's surprisingly versatile kit"
-    },
-    {
-      "id": "recvkVYLv0xF5X",
-      "title": "Vivitar Popsnap 紧凑型数码相机让我感到悲伤 😞",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-vivitar-popsnap-compact-digital-camera-just-makes-me-sad",
-      "publish_time": "2026-05-28T21:54:36+08:00",
-      "summary": "Vivitar Popsnap紧凑型数码相机从影像巨头沦为TikTok相机，性能平庸，令人失望。",
-      "recommendation": "剖析Vivitar Popsnap从影像巨头沦为TikTok相机的平庸性能，提供实测样张与行业洞察，揭示品牌定位失焦的深层原因。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Vivitar Popsnap compact digital camera just makes me sad 😞"
-    },
-    {
-      "id": "recvkVZ4bnBaFp",
-      "title": "索尼新机传闻：双处理器与全局快门，FX3II？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/rumors-about-a-new-sony-camera-with-dual-processor-and-global-shutter-fx3ii/",
-      "publish_time": "2026-05-28T21:52:44+08:00",
-      "summary": "索尼FX3II传闻夏末发布，配备双处理器和全局快门，性能提升显著。",
-      "recommendation": "索尼FX3II传闻含双处理器与全局快门关键参数，对视频创作者有技术参考价值，但非官方确认，信息待验证。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Rumors about a new Sony camera with dual processor and global shutter: FX3II?"
-    },
-    {
-      "id": "recvkVYqOq8TpR",
-      "title": "小米17T系列手机搭载徕卡技术及全新5倍变焦相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/xiaomis-17t-series-phones-feature-leica-tech-and-a-new-5x-camera/",
-      "publish_time": "2026-05-28T21:37:07+08:00",
-      "summary": "小米发布与徕卡联合研发的17T系列手机，配备全新5倍变焦相机，提升摄影性能。",
-      "recommendation": "解析小米17T徕卡联合研发细节与5倍变焦相机参数，为手机长焦摄影提供实测参考，适合关注计算光学与移动影像升级的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Xiaomi’s 17T Series Phones Feature Leica Tech and a New 5x Camera"
-    },
-    {
-      "id": "recvkVYO2GCbD7",
-      "title": "这张获得奖项提名的航拍照片，是创造性结合形状与互补色的绝佳一课",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-award-nominated-aerial-photo-is-a-great-lesson-in-how-to-combine-shapes-and-complementary-colors-creatively",
-      "publish_time": "2026-05-28T21:34:18+08:00",
-      "summary": "这张航拍照片在年度旅行摄影师奖中获亚军，其形状与互补色的创造性结合是摄影学习的绝佳范例。",
-      "recommendation": "解析航拍获奖作品如何运用形状与互补色，提供构图与色彩搭配的实用技巧，适合提升摄影美学认知。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This award-nominated aerial photo is a great lesson in how to combine shapes and complementary colors creatively"
-    },
-    {
-      "id": "recvkVYtzb9hhn",
-      "title": "人们不相信这位智能手机野生动物摄影师的照片是真实的",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/people-dont-believe-this-smartphone-wildlife-photographers-images-are-real/",
-      "publish_time": "2026-05-28T21:23:48+08:00",
-      "summary": "智能手机野生动物摄影师因照片被误认为专业相机拍摄而遭比赛取消资格，揭示手机摄影技术已逼近专业水准",
-      "recommendation": "手机摄影逼近专业水准的实证案例，揭示计算摄影与长焦算法突破。独特视角：比赛取消资格反证技术实力，含手机与单反画质对比数据。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "People Don’t Believe This Smartphone Wildlife Photographer’s Images are Real"
-    },
-    {
-      "id": "recvkVYQDQAITi",
-      "title": "徕卡推出金属灰配色，M11-P、Q3和D-Lux 8相机焕发优雅新意",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/leica-debuts-metallic-gray-finish-giving-its-m11-p-q3-and-d-lux-8-cameras-a-classy-new-spin",
-      "publish_time": "2026-05-28T21:01:23+08:00",
-      "summary": "徕卡推出金属灰配色，应用于M11-P、Q3和D-Lux 8相机及配件，彰显优雅新意",
-      "recommendation": "三款徕卡相机新增金属灰配色，满足用户个性化需求。文章提供配色细节与配件信息，适合关注徕卡产品线动态的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Leica debuts metallic-gray finish, giving its M11-P, Q3 and D-Lux 8 cameras a classy new spin"
-    },
-    {
-      "id": "recvkVYwcdoNkn",
-      "title": "徕卡全新金属灰漆面外观非常时尚",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/28/leicas-brand-new-metal-gray-paint-finish-looks-very-stylish/",
-      "publish_time": "2026-05-28T21:00:53+08:00",
-      "summary": "徕卡为三款相机及一款M镜头推出金属灰漆面，时尚奢华",
-      "recommendation": "解析徕卡金属灰漆面工艺，揭示其与普通版差异及对收藏价值的影响，适合关注相机外观与品牌文化的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Leica’s Brand-New Metal Gray Paint Finish Looks Very Stylish"
-    },
-    {
-      "id": "recvkVZ1zHTGBw",
-      "title": "小米17T发布：5倍潜望长焦加持，17T Pro携7000mAh电池登场",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_17t_unveiled_with_5x_periscope_xiaomi_17t_pro_joins_it_with_a_7000mah_battery-news-73025.php",
-      "publish_time": "2026-05-28T21:00:02+08:00",
-      "summary": "小米17T系列发布，17T配备50MP 5倍潜望长焦，17T Pro搭载7000mAh电池，相比前代大幅升级。",
-      "recommendation": "解析小米17T系列影像升级：5倍潜望长焦与7000mAh电池数据，适合关注长焦拍摄与续航平衡的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Xiaomi 17T unveiled with 5x periscope, Xiaomi 17T Pro joins it with a 7,000mAh battery"
     }
   ]
 }
