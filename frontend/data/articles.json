@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-12T00:43:53.829611+08:00",
+    "updated_at": "2026-06-12T05:09:00.005288+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 120
+      "count": 121
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,212 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 16
+      "count": 17
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 384
+      "count": 385
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 184
+      "count": 181
     }
   ],
   "articles": [
+    {
+      "id": "recvmgU8UpktN4",
+      "title": "蔡司仍在生产这六款单反镜头，因为它们太受欢迎了",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/zeiss-is-still-making-these-six-dslr-lenses-because-theyre-so-popular/",
+      "publish_time": "2026-06-12T04:57:38+08:00",
+      "summary": "蔡司调整产品组合后，因六款单反镜头极受欢迎，决定继续生产，包括部分Otus系列镜头。",
+      "recommendation": "蔡司保留六款单反镜头生产，含Otus系列，揭示其市场策略与经典光学设计仍受追捧，为镜头收藏与选购提供参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Zeiss Is Still Making These Six DSLR Lenses Because They’re So Popular"
+    },
+    {
+      "id": "recvmgUbwEjNKa",
+      "title": "摄影师如何手工打造出人人梦寐以求的8×10相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/how-a-photographer-handmade-his-dream-8x10-camera-for-everyone/",
+      "publish_time": "2026-06-12T04:08:23+08:00",
+      "summary": "斯洛文尼亚摄影师Elvis Halilović推出Ondu Eikan 8x10轻量手工大画幅野外相机，满足摄影师对便携与画质的追求。",
+      "recommendation": "手工大画幅相机制作过程详解，含Ondu Eikan 8x10具体重量与便携设计数据，为追求极致画质的摄影师提供非量产器材的实用参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How a Photographer Handmade His Dream 8×10 Camera for Everyone"
+    },
+    {
+      "id": "recvmgUdUENUhy",
+      "title": "Insta360 欲证明 Luna 为原创，并非基于大疆专利",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/insta360-intends-to-prove-the-luna-is-original-not-based-on-djis-patents/",
+      "publish_time": "2026-06-12T03:45:19+08:00",
+      "summary": "大疆在美起诉Insta360侵犯专利，Insta360准备辩护，声称Luna为原创。",
+      "recommendation": "解析Insta360与大疆专利纠纷，揭露Luna原创性争议，提供行业法律博弈视角，助你了解影像厂商技术护城河。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Insta360 Intends to Prove the Luna Is Original, Not Based on DJI’s Patents"
+    },
+    {
+      "id": "recvmgUw0FM8Tm",
+      "title": "iPhone照片噪点将大幅减少，即使你从未听说过Core Image RAW 9。iOS 27和macOS 27隐藏了一项关键编辑更新",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/iphones/iphone-photos-are-about-to-get-a-lot-less-noisy-even-if-youve-never-heard-of-core-image-raw-9-ios-27-and-macos-27-hide-a-key-editing-update",
+      "publish_time": "2026-06-12T03:11:27+08:00",
+      "summary": "苹果更新RAW处理引擎Core Image RAW 9，显著减少iPhone照片噪点并改善色彩还原，该更新隐藏于iOS 27和macOS 27中。",
+      "recommendation": "揭秘苹果Core Image RAW 9引擎，提供iOS 27隐藏更新细节，对追求噪点控制和色彩还原的iPhone摄影用户有直接参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "iPhone photos are about to get a lot less noisy, even if you've never heard of Core Image RAW 9. iOS 27 and macOS 27 hide a key editing update"
+    },
+    {
+      "id": "recvmgUguoMjAo",
+      "title": "这款Hello Kitty相机联名款已准备就绪",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/this-hello-kitty-camera-collab-is-ready-for-action/",
+      "publish_time": "2026-06-12T03:03:06+08:00",
+      "summary": "Insta360推出限量版Hello Kitty主题Go Ultra套装，含粉色相机、主题配件和数字内容，专为粉丝设计。",
+      "recommendation": "Insta360联名Hello Kitty推出限量版Go Ultra套装，粉色相机与主题配件为粉丝提供独特影像体验，但缺乏核心参数与深度技术分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This Hello Kitty Camera Collab is Ready for Action"
+    },
+    {
+      "id": "recvmgUBaMoqYm",
+      "title": "摄影师：别等到来不及才做这件事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/11/mistake-photographers-with-gear-copy-3/",
+      "publish_time": "2026-06-12T03:00:00+08:00",
+      "summary": "摄影师应保护器材，摄影保险计划提供比保修更全面的保障，涵盖灰尘、恶劣天气等损坏，核心价值是确保设备安全。",
+      "recommendation": "文章聚焦器材保险这一常被忽视的实用话题，提供灰尘、恶劣天气等具体损坏场景的保障分析，对注重设备安全的影像爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographers: Don’t Do This Until It’s Too Late"
+    },
+    {
+      "id": "recvmgUiUYFgcT",
+      "title": "摄影师厌倦了大相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/photographers-are-tired-of-big-cameras/",
+      "publish_time": "2026-06-12T02:15:11+08:00",
+      "summary": "摄影师克里斯·尼科尔斯因评测工作频繁换相机，却想自购小巧相机，反映对大型设备的厌倦。",
+      "recommendation": "从摄影师视角揭示行业趋势：大型相机疲劳催生便携设备需求，提供从业者真实心态与设备选择洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographers Are Tired of Big Cameras"
+    },
+    {
+      "id": "recvmgUtolpD4a",
+      "title": "大疆Osmo Pocket 4P上手体验：大疆新款双摄口袋相机首批实拍图",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/4889023910/dji-osmo-pocket-4p-hands-on-photos",
+      "publish_time": "2026-06-12T02:09:00+08:00",
+      "summary": "大疆新款Osmo Pocket 4P双摄口袋相机已上手体验，但传感器、镜头等核心技术参数仍保密。",
+      "recommendation": "大疆新款双摄口袋相机首批实拍图曝光，虽核心参数保密，但外观与双摄设计已可窥见产品方向，适合关注便携影像设备升级的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "DJI Osmo Pocket 4P hands-on: our first images of DJI's new dual-camera pocket cam"
+    },
+    {
+      "id": "recvmgUlm6HbLP",
+      "title": "英国威胁：科技CEO若不添加CSAM保护措施将面临监禁",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/uk-threatens-to-jail-tech-ceos-if-they-dont-add-csam-safeguards/",
+      "publish_time": "2026-06-12T01:52:27+08:00",
+      "summary": "英国威胁对拒绝在设备上添加CSAM检测保护措施的科技CEO实施监禁，旨在强制技术公司保护儿童免受性虐待图像侵害。",
+      "recommendation": "英国拟立法强制科技CEO添加CSAM检测，影像设备隐私与安全平衡面临新挑战，对关注数据加密的摄影爱好者有行业风向价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "UK Threatens to Jail Tech CEOs If They Don’t Add CSAM Safeguards"
+    },
+    {
+      "id": "recvmgUnX2XgFq",
+      "title": "大疆起诉Insta360侵犯多项Osmo Pocket专利",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/",
+      "publish_time": "2026-06-12T01:27:53+08:00",
+      "summary": "大疆起诉Insta360侵犯其Osmo Pocket相关专利，涉及Luna云台相机，包括两项外观设计和四项实用新型专利侵权。",
+      "recommendation": "大疆诉Insta360专利侵权案，揭示Osmo Pocket核心技术壁垒，为云台相机选购提供法律风险参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DJI Is Suing Insta360 for Violating Multiple Osmo Pocket Patents"
+    },
+    {
+      "id": "recvmgUyF3SjfI",
+      "title": "获奖照片：一只草原鹰在野火旁等待捕猎逃窜的动物——用83倍超级变焦相机拍摄",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-savanna-hawk-waits-beside-a-wildfire-to-hunt-fleeing-animals-in-this-award-winning-photo-shot-on-an-83x-superzoom-camera",
+      "publish_time": "2026-06-12T01:15:00+08:00",
+      "summary": "83倍超级变焦相机拍摄的草原鹰在野火旁等待捕猎的照片，赢得野生动物摄影奖，挑战长焦镜头主导地位。",
+      "recommendation": "83倍变焦相机挑战长焦镜头，获奖照片证实超长焦在野生动物摄影中的实战价值，提供具体拍摄参数与场景分析。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A Savanna Hawk waits beside a wildfire to hunt fleeing animals in this award-winning photo – shot on an 83x superzoom camera"
+    },
+    {
+      "id": "recvmgUqyWhnQg",
+      "title": "这就是老式手机摄像头眼中的辐射",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/this-is-what-radiation-looks-like-to-an-old-phone-camera/",
+      "publish_time": "2026-06-12T00:47:31+08:00",
+      "summary": "短视频展示旧手机CCD相机对准β辐射源时的成像效果，揭示辐射在相机中的视觉表现。",
+      "recommendation": "用旧手机CCD相机捕捉β辐射视觉表现，揭示传感器对不可见光的响应机制，为影像爱好者提供独特的技术科普视角。",
+      "categories": [
+        "传感器硬件",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This is What Radiation Looks Like to an Old Phone Camera"
+    },
     {
       "id": "recvmfPi9pPwNC",
       "title": "富士新款紧凑型拍立得相机有个自拍绝招：无需尴尬伸长手臂，秘密藏在最奇怪的地方",
@@ -7624,194 +7811,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "This eerie photograph of the 1933 Nazi book-burning images demonstrates the importance of shutter speed in a terrifying way"
-    },
-    {
-      "id": "recvlei3xqjM0P",
-      "title": "超级优惠已结束，但XF镜头大促还剩8天",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/one-super-deal-is-gone-but-there-are-8-days-left-to-save-big-on-xf-lenses/",
-      "publish_time": "2026-05-31T23:17:33+08:00",
-      "summary": "富士龙XF镜头大额优惠还剩8天，6月7日结束；其他X和GFX优惠持续至6月28日。X-S20套装已售罄。",
-      "recommendation": "富士XF镜头大促倒计时提醒，含X-S20售罄等市场动态，对计划购入富士镜头的用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "One Super-Deal is Gone, but There are 8 Days Left to Save Big on XF Lenses"
-    },
-    {
-      "id": "recvlehZmfxLIs",
-      "title": "2026年全品牌人像摄影最佳镜头推荐",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/best-lenses-for-portrait-photography-across-all-brands-in-2026/",
-      "publish_time": "2026-05-31T22:31:50+08:00",
-      "summary": "2026年全品牌人像摄影最佳镜头推荐，涵盖85mm定焦、70-200mm变焦及50mm镜头，强调不同镜头满足不同需求，核心价值在于提供多样化选择。",
-      "recommendation": "涵盖85mm、70-200mm及50mm三大焦段，提供2026年全品牌人像镜头横向对比，含光圈值与适用场景分析，适合选购参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Best Lenses for Portrait Photography Across All Brands in 2026"
-    },
-    {
-      "id": "recvlcWBKIv482",
-      "title": "做YouTube和内容创作，你到底需要多好的相机？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/how-much-camera-do-you-really-need-for-youtube-and-content-creation/",
-      "publish_time": "2026-05-31T21:45:42+08:00",
-      "summary": "文章指出YouTube成功创作者并非依赖旗舰相机，许多使用普通相机也能获得数百万播放量，强调内容比设备更重要。",
-      "recommendation": "打破设备迷信，用真实案例论证内容为王，适合纠结器材升级的创作者参考，提供数据支撑而非空谈。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How Much Camera Do You Really Need for YouTube and Content Creation?"
-    },
-    {
-      "id": "recvlcWLiU9V6n",
-      "title": "GoPro揭秘：可换镜头相机究竟为谁而造",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/3499820161/gopro-mission-pro-1-ils-audience-filmmakers",
-      "publish_time": "2026-05-31T21:00:00+08:00",
-      "summary": "GoPro发布Mission 1和Mission 1 Pro运动相机，并预告可换镜头型号，视频展示拍摄镜头与幕后花絮，揭示目标用户为专业创作者。",
-      "recommendation": "GoPro可换镜头运动相机预告，揭示目标用户为专业创作者。含幕后花絮与镜头设计思路，对运动影像爱好者有独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "GoPro reveals who its interchangeable lens camera is really for"
-    },
-    {
-      "id": "recvlcWQkZhyx5",
-      "title": "索尼A7rVI YouTube评测汇总",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-a7rvi-youtube-reviews-roundup/",
-      "publish_time": "2026-05-31T20:12:05+08:00",
-      "summary": "索尼A7rVI在多家电商平台预售，搭配100-400mm GM镜头及配件，YouTube评测汇总首发于sonyalpharumors。",
-      "recommendation": "汇总YouTube博主对A7rVI的评测，涵盖高像素传感器与对焦性能实测，提供多角度样张对比，适合关注索尼全画幅微单的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Sony A7rVI youtube reviews roundup"
-    },
-    {
-      "id": "recvlcWEiBRZ7z",
-      "title": "拍摄大卫·鲍伊：“他建立了所有证据。所以我必须摧毁它们……”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photographing-david-bowie-hed-built-up-all-the-evidence-so-then-i-had-to-destroy-them",
-      "publish_time": "2026-05-31T20:10:00+08:00",
-      "summary": "六位摄影师分享拍摄大卫·鲍伊的经历，揭示这位形象意识极强的明星如何建立并摧毁自己的视觉证据，提供独特个人见解。",
-      "recommendation": "六位摄影师亲述拍摄大卫·鲍伊的幕后，揭示其如何通过影像建立并摧毁视觉身份。对肖像摄影爱好者，提供构图、光线与人物心理互动的实战案例。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Photographing David Bowie: \"He'd built up all the evidence. So then I had to destroy them…\""
-    },
-    {
-      "id": "recvlcWGtaRfsj",
-      "title": "Valoi easy35 v2评测：我最喜欢的胶片扫描仪更值得推荐了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/valoi-easy35-v2-review",
-      "publish_time": "2026-05-31T20:00:00+08:00",
-      "summary": "Valoi easy35 v2采用更好材料和改进支架，简化控制，保持快速相机扫描流程，解决原版问题，成为更值得推荐的胶片扫描仪。",
-      "recommendation": "评测Valoi easy35 v2的材质升级与支架改进，提供胶片扫描仪快速流程的实测数据，解决原版痛点，对胶片爱好者有实用参考价值。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Valoi easy35 v2 review: my favorite film scanner just got easier to recommend"
-    },
-    {
-      "id": "recvlcWz0Zn9Yp",
-      "title": "三星的竞争对手拥有比三星更好的三星相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/31/samsungs-competitors-have-a-better-samsung-camera-than-samsung-does/",
-      "publish_time": "2026-05-31T19:00:02+08:00",
-      "summary": "三星虽以Galaxy S系列相机闻名，但已不再引领移动相机硬件发展，其竞争对手推出了更优的三星相机。",
-      "recommendation": "剖析三星相机硬件策略转变，揭示竞争对手如何超越三星。提供传感器供应链独家视角，助影像爱好者理解行业格局。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Samsung’s Competitors Have a Better Samsung Camera Than Samsung Does"
-    },
-    {
-      "id": "recvlcWICPV9ku",
-      "title": "这些获奖照片以最怀旧的方式触动心弦",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/these-award-winning-photos-pull-on-all-the-heartstrings-in-the-most-nostalgic-way",
-      "publish_time": "2026-05-31T18:45:00+08:00",
-      "summary": "OpenWalls Spotlight Awards获奖照片以怀旧方式触动心弦，唤起对家和逝去时光的深切渴望。",
-      "recommendation": "解析获奖照片的怀旧美学，提供构图与情感表达的深度观点，对手机摄影爱好者有创作启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These award-winning photos pull on all the heartstrings in the most nostalgic way"
-    },
-    {
-      "id": "recvlcWSPCY99Z",
-      "title": "为什么追求更多点赞正在毁掉你的摄影生涯",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/31/the-brutal-truth-about-social-media-and-your-art-copy/",
-      "publish_time": "2026-05-31T18:00:00+08:00",
-      "summary": "社交媒体算法重视频轻照片，点赞机制损害摄影创作。平台问题而非作品问题，特设摄影师作品集评审计划以应对。",
-      "recommendation": "剖析社交媒体点赞机制对摄影创作的负面影响，提供摄影师作品集评审计划应对方案，适合反思创作方向的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why Getting More Likes Is Killing Your Photography Career"
-    },
-    {
-      "id": "recvlcWNLXOYlx",
-      "title": "每周优惠：小米17T系列降价开售，Galaxy S26 Ultra、iPhone Air等多款机型折扣来袭",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/weekly_deals_xiaomi_17t_duo_go_on_sale_with_price_cuts_plus_discounts_on_galaxy_s26_ultra_iphone_air-news-73054.php",
-      "publish_time": "2026-05-31T17:31:02+08:00",
-      "summary": "小米17T系列降价开售，17T降150英镑，17T Pro降200英镑，三星Galaxy、谷歌Pixel 10等机型也有折扣。",
-      "recommendation": "汇总小米17T系列及多款旗舰降价信息，含具体降幅数据，助影像爱好者把握购机时机。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Weekly deals: Xiaomi 17T duo go on sale with price cuts, plus discounts on Galaxy S26 Ultra, iPhone Air and more"
-    },
-    {
-      "id": "recvlbN2oa4H9u",
-      "title": "柯达曾卖出5000万台这种廉价塑料相机，为何它们突然消失了？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/kodak-sold-50-million-of-these-cheap-plastic-cameras-so-why-did-they-suddenly-vanish",
-      "publish_time": "2026-05-31T17:10:00+08:00",
-      "summary": "柯达Instamatic相机曾售出5000万台，是智能手机时代前的傻瓜相机，其突然消失的原因值得探究。",
-      "recommendation": "解析Instamatic相机5000万台销量背后的技术简史与市场逻辑，提供消费电子影像产品兴衰的独特视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Kodak sold 50 million of these cheap plastic cameras, so why did they suddenly vanish?"
     }
   ]
 }
