@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-11T13:19:52.101463+08:00",
+    "updated_at": "2026-06-11T19:18:02.268802+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 27
+      "count": 26
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 124
+      "count": 122
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,180 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 186
+      "count": 187
     }
   ],
   "articles": [
+    {
+      "id": "recvmevpJ9F8qc",
+      "title": "偷窥的鹦鹉赢得伦敦野生动物摄影大赛大奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/peeking-parakeet-wins-top-prize-in-london-wildlife-photo-contest",
+      "publish_time": "2026-06-11T19:03:15+08:00",
+      "summary": "偷窥的鹦鹉赢得伦敦野生动物摄影大赛大奖，比赛鼓励骑自行车探索伦敦，老鼠和狐狸也是获胜者。",
+      "recommendation": "野生动物摄影大赛获奖作品展示低光环境与动物行为捕捉技巧，对生态摄影爱好者有构图与时机参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Peeking parakeet wins top prize in London wildlife photo contest"
+    },
+    {
+      "id": "recvmevMwTDRps",
+      "title": "旅行摄影师的最佳索尼相机之选",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/11/the-single-best-sony-camera-for-travel-photographers/",
+      "publish_time": "2026-06-11T18:00:00+08:00",
+      "summary": "旅行摄影需紧凑设备与优质镜头，索尼相机表现优异，推荐其机型为最佳选择。",
+      "recommendation": "针对旅行摄影场景，对比索尼多款机型的便携性与镜头生态，提供具体选型建议，适合正在纠结机身轻量化与画质平衡的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Single Best Sony Camera for Travel Photographers"
+    },
+    {
+      "id": "recvmevJYKSvD0",
+      "title": "Skylum Luminar Neo 现在低至3折",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/skylum-luminar-neo-now-up-to-70-off/",
+      "publish_time": "2026-06-11T17:54:42+08:00",
+      "summary": "Skylum Luminar Neo夏季促销最高70%折扣，新用户桌面永久版119美元，附赠视频课程，跨设备版149美元，MAX版164.99美元，现有用户跨设备版99.99美元。",
+      "recommendation": "Skylum Luminar Neo夏季促销折扣信息汇总，含新用户119美元永久版及跨设备版价格，适合后期爱好者以低成本入手。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Skylum Luminar Neo Now up to 70% Off"
+    },
+    {
+      "id": "recvmevEM5aFdt",
+      "title": "谷歌发布Android 17 QPR1 Beta 4，修复多项Bug",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_seeds_android_17_qpr1_beta_4_with_several_bug_fixes-news-73225.php",
+      "publish_time": "2026-06-11T16:31:02+08:00",
+      "summary": "谷歌发布Android 17 QPR1 Beta 4，修复多项Bug，向Pixel 6a及更新设备推送，Pixel 6系列未获更新。",
+      "recommendation": "常规资讯，可了解行业动态。Android版本更新对Pixel系列相机算法优化有潜在影响，但Beta版未提及具体影像改进，Pixel 6系列用户需关注后续适配。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google seeds Android 17 QPR1 Beta 4 with several bug fixes"
+    },
+    {
+      "id": "recvmevswv3QIU",
+      "title": "黛安·阿勃丝、罗伯特·弗兰克等摄影师曾塑造纽约风貌。新画廊毗邻历史地标，将打造“邂逅摄影的动态空间”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/photographers-like-diane-arbus-robert-frank-helped-shape-new-york-city-a-new-gallery-steps-from-historic-locations-will-create-a-dynamic-space-for-encountering-photography",
+      "publish_time": "2026-06-11T16:16:49+08:00",
+      "summary": "摄影非营利组织Aperture迁至新址，设画廊和公共活动空间，打造动态摄影空间，毗邻历史地标，延续黛安·阿勃丝等摄影师塑造纽约风貌的传统。",
+      "recommendation": "从Aperture迁址切入，揭示摄影非营利组织如何延续纽约摄影传统，对关注摄影空间与城市文化融合的爱好者有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographers like Diane Arbus, Robert Frank helped shape New York City. A new gallery steps from historic locations will create “a dynamic space for encountering photography”"
+    },
+    {
+      "id": "recvmevuV1I3Su",
+      "title": "英国亚马逊Prime相机最佳优惠——大型摄影促销倒计时，早期优惠开始涌现！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/the-best-amazon-prime-camera-deals-in-the-uk-2026",
+      "publish_time": "2026-06-11T16:00:11+08:00",
+      "summary": "英国亚马逊Prime相机促销活动从2026年6月23日至26日持续四天，早期优惠已开始涌现，提供最佳摄影产品折扣。",
+      "recommendation": "英国亚马逊Prime相机促销提前启动，涵盖索尼、佳能等主流品牌折扣，适合计划升级设备的影像爱好者提前锁定优惠。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The best Amazon Prime camera deals in the UK – countdown to the big photo sale, as the early deals start to drop!"
+    },
+    {
+      "id": "recvmevxsKH3e6",
+      "title": "这些图像来自今年最佳摄影书籍。七本摄影与电影制作书籍入围著名奖项",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/these-images-come-from-some-of-the-best-photography-books-of-the-year-seven-books-on-photography-and-filmmaking-have-been-short-listed-for-prestigious-award",
+      "publish_time": "2026-06-11T16:00:00+08:00",
+      "summary": "克拉斯纳-克劳斯图书奖公布七本摄影与电影制作书籍入围名单，表彰最佳出版物。",
+      "recommendation": "克拉斯纳-克劳斯奖入围书单，为影像爱好者提供摄影与电影制作领域的深度创作参考，涵盖技术解析与美学观点，非普通资讯。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These images come from some of the best photography books of the year. Seven books on photography and filmmaking have been short-listed for prestigious award"
+    },
+    {
+      "id": "recvmevzMFpd5J",
+      "title": "街头摄影的艺术：为何Joshua K. Jackson与Sean Tucker的著作劝你放下相机，停止追逐瞬间",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/the-art-of-street-photography-why-joshua-k-jackson-and-sean-tuckers-book-wants-you-to-stop-chasing-the-shot-with-your-camera",
+      "publish_time": "2026-06-11T15:00:00+08:00",
+      "summary": "街头摄影的核心是艺术视野而非技术设备，强调放下相机、停止追逐瞬间以提升创作深度。",
+      "recommendation": "从摄影美学角度颠覆技术崇拜，提出“放下相机”的创作方法论，对陷入器材焦虑的爱好者有独特启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Art of Street Photography: why Joshua K. Jackson and Sean Tucker's book wants you to stop chasing the shot with your camera"
+    },
+    {
+      "id": "recvmevP2g2ExM",
+      "title": "2014年Z世代必备的3款紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/11/the-3-must-have-compact-cameras-from-2014-for-gen-z/",
+      "publish_time": "2026-06-11T15:00:00+08:00",
+      "summary": "本文介绍三款2014年Z世代必备的紧凑型相机，涵盖富士、索尼等品牌的不同型号与传感器特性，强调其便利性优于无反相机。",
+      "recommendation": "回顾2014年三款紧凑型相机，对比富士、索尼传感器特性，解析其便利性优于无反的独特视角，适合怀旧或研究便携机型演变的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 3 Must-Have Compact Cameras From 2014 For Gen Z"
+    },
+    {
+      "id": "recvmevCdnmIF9",
+      "title": "七工匠与海鸥联名推出限量版徕卡M镜头，复古梦幻外观",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/7artisans-and-seagull-team-up-for-a-limited-edition-leica-m-lens-and-it-looks-like-a-vintage-dream",
+      "publish_time": "2026-06-11T14:20:00+08:00",
+      "summary": "七工匠与海鸥联名推出限量版徕卡M镜头，售价369美元，复古梦幻外观，可能是今年最具魅力的35mm镜头。",
+      "recommendation": "解析七工匠与海鸥联名限量M镜头，369美元定价与复古设计细节，为徕卡用户提供高性价比手动头新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans and Seagull team up for a limited-edition Leica M lens, and it looks like a vintage dream"
+    },
+    {
+      "id": "recvmevHq5KYBm",
+      "title": "vivo X500e主要规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x500es_main_specs_leak-news-73224.php",
+      "publish_time": "2026-06-11T13:32:02+08:00",
+      "summary": "vivo X500e将搭载天玑9500、6.59英寸屏、5000万像素主摄、潜望长焦及7500mAh电池，或名为S60 Pro。",
+      "recommendation": "曝光vivo X500e潜望长焦与7500mAh电池组合，天玑9500平台影像算力值得关注，为长焦续航爱好者提供新选择。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "vivo X500e's main specs leak"
+    },
     {
       "id": "recvmd3ry2KG3u",
       "title": "全新Tecno Pova 8搭载8000mAh电池，背面配备Alive Matrix显示屏",
@@ -7641,178 +7811,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Did Sony just sabotage its own flagship camera?"
-    },
-    {
-      "id": "recvl75og5rqcI",
-      "title": "2026年最佳索尼视频镜头：用于Vlog和电影制作，让我们拍电影吧！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/best-sony-video-lenses-for-vlogging-and-filmmaking",
-      "publish_time": "2026-05-30T19:42:30+08:00",
-      "summary": "文章推荐2026年索尼最佳视频镜头，涵盖Vlog和电影制作，提供核心技术参数与数据，帮助用户选择适合的镜头。",
-      "recommendation": "汇总2026年索尼视频镜头核心参数与场景适配，Vlog与电影制作双线覆盖，为选购提供数据化参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Best Sony video lenses for vlogging and filmmaking in 2026: let's make movies!"
-    },
-    {
-      "id": "recvl75qdSuEFi",
-      "title": "摄影师以1/3200秒冻结翠鸟捕食瞬间，斩获鸟类摄影大奖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/photographer-freezes-explosive-kingfisher-moment-at-1-3200-sec-to-scoop-major-bird-photography-award",
-      "publish_time": "2026-05-30T19:24:08+08:00",
-      "summary": "摄影师以1/3200秒快门速度捕捉翠鸟捕食瞬间，获鸟类摄影大奖，展现高速摄影技术价值",
-      "recommendation": "解析1/3200秒快门冻结翠鸟捕食的技术细节，提供高速摄影参数与鸟类拍摄实战经验，对生态摄影爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer freezes explosive kingfisher moment at 1/3200 sec to scoop major bird photography award"
-    },
-    {
-      "id": "recvl75dGzlhCv",
-      "title": "新闻摄影师发布30年标志性名人影像档案",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/30/press-photographer-releases-30-year-archive-of-iconic-celebrity-images/",
-      "publish_time": "2026-05-30T19:00:06+08:00",
-      "summary": "英国资深新闻摄影师在新书中发布30年名人娱乐及重大事件影像档案，呈现亲密回顾",
-      "recommendation": "30年名人影像档案，含独家拍摄数据与幕后故事，为纪实摄影爱好者提供构图、光线及抓拍技巧的实战参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Press Photographer Releases 30-Year Archive of Iconic Celebrity Images"
-    },
-    {
-      "id": "recvl75fMiBBtj",
-      "title": "摄影师获准40年罕见拍摄剑桥五月舞会",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/30/photographer-granted-rare-access-to-cambridges-may-balls-for-40-years/",
-      "publish_time": "2026-05-30T18:00:54+08:00",
-      "summary": "摄影师获40年独家许可，拍摄剑桥五月舞会，新书记录深夜狂欢隐秘世界。",
-      "recommendation": "40年独家拍摄许可，记录剑桥五月舞会深夜狂欢，为纪实摄影爱好者提供稀缺场景的拍摄手法与构图参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Granted Rare Access to Cambridge’s May Balls for 40 Years"
-    },
-    {
-      "id": "recvl75usStagd",
-      "title": "无广告摄影新闻背后的简单数学",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/30/simple-math/",
-      "publish_time": "2026-05-30T18:00:00+08:00",
-      "summary": "《Phoblographer》放弃相机广告，计划出版印刷版，提出读者年付1美元即可维持网站发展，揭示小众媒体可持续运营的简单数学。",
-      "recommendation": "揭示小众影像媒体通过1美元年费模式实现无广告运营的财务逻辑，为关注行业可持续性的爱好者提供独特商业视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Simple Math Behind Ad-Free Photography Journalism"
-    },
-    {
-      "id": "recvl75sn8FGOb",
-      "title": "适马CEO谈他的愿望清单镜头：“推出小众镜头是我们的使命之一”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/sigma-ceo-discusses-his-bucket-list-lens-its-one-of-our-missions-to-deliver-niche-lenses",
-      "publish_time": "2026-05-30T17:10:00+08:00",
-      "summary": "适马CEO称制造小众镜头是使命，若仅低价复制大公司产品则无存在价值。",
-      "recommendation": "适马CEO直言小众镜头是品牌核心价值，揭示其不愿沦为低价复制品的战略立场。对追求独特光学体验的爱好者，此文提供品牌理念与产品方向的一手洞察。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sigma CEO discusses his bucket list lens: \"It's one of our missions to deliver niche lenses\""
-    },
-    {
-      "id": "recvl5PcavCcBO",
-      "title": "每周优惠：小米17T和17T Pro发布，可选平板套装",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/weekly_deals_xiaomi_17t_and_17t_pro_launch_with_optional_tablet_bundle-news-73045.php",
-      "publish_time": "2026-05-30T16:09:02+08:00",
-      "summary": "小米发布17T系列，起价较前代贵100欧元，升级50MP 5倍潜望式摄像头，支持微距和10倍无损变焦，搭配50MP主摄等。",
-      "recommendation": "小米17T系列升级50MP 5倍潜望长焦，支持微距与10倍无损变焦，起价上涨100欧元，影像爱好者可关注其长焦性能提升与定价策略。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly deals: Xiaomi 17T and 17T Pro launch with optional tablet bundle"
-    },
-    {
-      "id": "recvl5P7AfCx6a",
-      "title": "这张瞬间抓拍的鸟类照片展现了“一个真正非凡的时刻”，著名摄影比赛评委如此评价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-split-second-bird-photo-shows-a-truly-extraordinary-moment-captured-in-time-says-judge-of-prestigious-photography-competition",
-      "publish_time": "2026-05-30T15:45:00+08:00",
-      "summary": "规划时机和技巧将罕见日晕与鸟类瞬间抓拍成获奖照片，评委称其展现真正非凡时刻",
-      "recommendation": "解析鸟类抓拍与罕见日晕结合的摄影技巧，评委点评揭示瞬间抓拍的核心策略，对提升动态场景构图与时机把控有实操参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This split-second bird photo shows \"a truly extraordinary moment captured in time\", says judge of prestigious photography competition"
-    },
-    {
-      "id": "recvl5P9PdooNp",
-      "title": "2026年最佳日常使用紧凑型相机",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/the-best-compact-camera-for-everyday-use-in-2026/",
-      "publish_time": "2026-05-30T15:18:51+08:00",
-      "summary": "2026年紧凑型相机因独特优势重新流行，本文推荐最佳日常使用机型，强调便携性与画质平衡，适合非专业用户。",
-      "recommendation": "盘点2026年紧凑型相机新品，聚焦便携与画质平衡，提供多款机型参数对比，适合非专业用户选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Compact Camera For Everyday Use in 2026"
-    },
-    {
-      "id": "recvl4JixfV0HQ",
-      "title": "最适合新闻摄影师的索尼相机套件",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/30/the-best-sony-camera-kit-for-photojournalists/",
-      "publish_time": "2026-05-30T12:00:00+08:00",
-      "summary": "索尼全画幅无反相机套件适合新闻摄影师，涵盖多种需求，提供高性能参数与数据，核心价值在于满足专业摄影要求。",
-      "recommendation": "解析索尼全画幅无反套件如何匹配新闻摄影需求，含机身与镜头参数对比及实战场景建议，对选购专业设备有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Best Sony Camera Kit for Photojournalists"
-    },
-    {
-      "id": "recvl4JgAhiiKR",
-      "title": "Oppo Find X10、荣耀Magic9系列被曝测试1亿像素方形自拍传感器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_find_x10_honor_magic9_series_said_to_be_testing_a_100mp_square_selfie_sensor-news-73053.php",
-      "publish_time": "2026-05-30T09:02:02+08:00",
-      "summary": "Oppo Find X10和荣耀Magic9系列被曝将采用三星1亿像素方形自拍传感器，尺寸1/2.5英寸。",
-      "recommendation": "文章曝光Oppo Find X10和荣耀Magic9系列将采用三星1亿像素方形自拍传感器，尺寸1/2.5英寸，为关注前置影像升级的用户提供独家传感器参数与行业动向。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Oppo Find X10, Honor Magic9 series said to be testing a 100MP square selfie sensor"
     }
   ]
 }
