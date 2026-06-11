@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-11T05:18:20.267703+08:00",
+    "updated_at": "2026-06-11T13:19:52.101463+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 125
+      "count": 124
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,169 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 379
+      "count": 381
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 187
+      "count": 186
     }
   ],
   "articles": [
+    {
+      "id": "recvmd3ry2KG3u",
+      "title": "全新Tecno Pova 8搭载8000mAh电池，背面配备Alive Matrix显示屏",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_new_tecno_pova_8_boasts_an_8000mah_battery_alive_matrix_display_on_its_back-news-73218.php",
+      "publish_time": "2026-06-11T13:00:02+08:00",
+      "summary": "Tecno Pova 8搭载8000mAh电池，背面Alive Matrix显示屏升级，借鉴Nothing设计，部分配置有升有降。",
+      "recommendation": "解析Tecno Pova 8的Alive Matrix显示屏与8000mAh电池对影像续航的影响，提供配置升降对比数据，适合关注长续航手机影像的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The new Tecno Pova 8 boasts an 8,000mAh battery, Alive Matrix Display on its back"
+    },
+    {
+      "id": "recvmd3EiHzqSu",
+      "title": "唯卓仕将于6月16日发布新款饼干镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/viltrox-will-announce-a-new-pancake-lens-on-june-16/",
+      "publish_time": "2026-06-11T12:23:55+08:00",
+      "summary": "唯卓仕将于6月16日发布新款饼干镜头，可能非此前预告的26mm版本，外观与预告图不同。",
+      "recommendation": "揭示唯卓仕饼干镜头可能非26mm版本，外观与预告图存差异，提供独家细节，助影像爱好者提前把握新品动向。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Viltrox will announce a new pancake lens on June 16"
+    },
+    {
+      "id": "recvmd3BSEZA6V",
+      "title": "PhotoCuller 帮你找回被 Lightroom 偷走的时间",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/11/photoculler-gives-you-back-the-hours-lightroom-robs-from-you/",
+      "publish_time": "2026-06-11T12:00:00+08:00",
+      "summary": "PhotoCuller 解决 Lightroom Classic 卡顿问题，从海量相册中快速筛选文件，每月节省数小时时间。",
+      "recommendation": "针对Lightroom Classic卡顿痛点，提供PhotoCuller筛选方案，实测每月节省数小时，适合海量照片管理需求的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "PhotoCuller Gives You Back the Hours Lightroom Robs From You"
+    },
+    {
+      "id": "recvmd3u9UIVus",
+      "title": "荣耀Win 2规格再泄露，荣耀Win Pad Mini或也在路上",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/some_honor_win_2_specs_leak_again_honor_win_pad_mini_could_be_on_the_way_too-news-73214.php",
+      "publish_time": "2026-06-11T11:01:02+08:00",
+      "summary": "荣耀Win 2规格再曝光，搭载骁龙8 Elite Gen 6处理器，10000毫安时电池支持无线充电，2K平面屏配超高刷新率和指纹识别",
+      "recommendation": "文章聚焦荣耀Win 2的硬件规格，虽未直接涉及影像参数，但处理器与屏幕升级暗示计算摄影潜力，适合关注移动端影像性能的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Some Honor Win 2 specs leak again, Honor Win Pad Mini could be on the way too"
+    },
+    {
+      "id": "recvmd3wMv8Tzt",
+      "title": "三星Galaxy Z Fold8和Galaxy Watch Ultra 2获得新认证",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
+      "publish_time": "2026-06-11T09:01:02+08:00",
+      "summary": "三星Galaxy Z Fold8通过印度BIS认证，型号SM-F971B，传闻配备7.6英寸4:3内屏、50MP主摄和超广角、4800mAh电池。",
+      "recommendation": "文章披露Fold8影像规格：50MP主摄+超广角、7.6英寸内屏，为折叠屏手机摄影爱好者提供硬件参数参考，属常规认证资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The wide Samsung Galaxy Z Fold8 and the Galaxy Watch Ultra 2 receive new certifications"
+    },
+    {
+      "id": "recvmd3zphb0c3",
+      "title": "Godox发布适用于尼康相机的新款迷你iM30 Pro TTL闪光灯",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/10/godox-announced-a-new-mini-it30-pro-ttl-flash.aspx/",
+      "publish_time": "2026-06-11T08:55:24+08:00",
+      "summary": "Godox发布iM30 Pro迷你TTL闪光灯，售价45美元，融合复古美学与直观照明技术，专为街头摄影师和胶片爱好者设计。",
+      "recommendation": "45美元复古迷你闪光灯，融合TTL技术与便携设计，为街头摄影和胶片爱好者提供低成本补光方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Godox announced a new mini iM30 Pro TTL flash for Nikon cameras"
+    },
+    {
+      "id": "recvmd3hiKIbPB",
+      "title": "Lomo的Sprocket Rocket全景胶片相机推出丑陋新配色",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/10/lomos-sprocket-rocket-pano-film-camera-comes-in-an-ugly-new-color/",
+      "publish_time": "2026-06-11T05:46:16+08:00",
+      "summary": "Lomography为Sprocket Rocket 35mm全景胶片相机推出两种新配色，一美一丑，引发争议。",
+      "recommendation": "Lomo新配色引发争议，文章剖析了胶片相机设计美学与用户审美的冲突，对全景摄影爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Lomo’s Sprocket Rocket Pano Film Camera Comes In an Ugly New Color"
+    },
+    {
+      "id": "recvmd3jOL1Grn",
+      "title": "PetaPixel会员现享三项新折扣",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/10/petapixel-members-now-get-three-new-discounts/",
+      "publish_time": "2026-06-11T05:19:57+08:00",
+      "summary": "PetaPixel会员新增三项特权，价格不变，提升会员价值",
+      "recommendation": "PetaPixel会员新增三项折扣，价格不变，对订阅用户是直接福利。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "PetaPixel Members Now Get Three New Discounts"
+    },
+    {
+      "id": "recvmd3mhSjDO6",
+      "title": "你也能赢得著名摄影师拉尔夫·吉布森的徕卡相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/10/you-can-win-acclaimed-photographer-ralph-gibsons-personal-leica-camera/",
+      "publish_time": "2026-06-11T05:09:50+08:00",
+      "summary": "Blind Magazine与MPB联合传奇摄影师Ralph Gibson举办赠品活动，赢取他使用15年的徕卡M Typ 246数码旁轴相机。",
+      "recommendation": "文章提供与传奇摄影师Ralph Gibson互动机会，并揭示他使用15年的徕卡M Typ 246相机细节，对徕卡用户和摄影收藏爱好者有独特价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "You Can Win Acclaimed Photographer Ralph Gibson’s Personal Leica Camera"
+    },
+    {
+      "id": "recvmd3oJUBqKG",
+      "title": "被NFL球员撞倒的摄影师重返聚光灯下，这次是因为钓鱼",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/10/photographer-hit-by-nfl-player-back-in-the-spotlight-this-time-for-fishing/",
+      "publish_time": "2026-06-11T05:09:00+08:00",
+      "summary": "2021年被NFL球员撞倒的摄影师马特·斯塔基，如今因钓鱼再次成为焦点，展现其从意外事件到新爱好的转变。",
+      "recommendation": "从意外事件到钓鱼爱好，展现摄影师马特·斯塔基的跨界故事，提供行业人物动态与摄影生活化视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer Hit By NFL Player Back in the Spotlight, This Time for Fishing"
+    },
     {
       "id": "recvmb60DGW2mR",
       "title": "尼康S3旁轴相机令人惊叹：尼康应重拾经典",
@@ -7659,160 +7813,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Oppo Find X10, Honor Magic9 series said to be testing a 100MP square selfie sensor"
-    },
-    {
-      "id": "recvl4JefCs1nN",
-      "title": "Atmos：由摄影师为摄影师打造的天气应用",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/29/atmos-is-a-weather-app-by-photographers-for-photographers/",
-      "publish_time": "2026-05-30T05:15:54+08:00",
-      "summary": "摄影师Matthew Raifman开发Atmos天气应用，专为摄影提供天气条件判断，帮助摄影师把握最佳光线时机。",
-      "recommendation": "从摄影师需求切入天气应用，提供光线时机判断的实用工具，对风光摄影爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Atmos Is a Weather App By Photographers, for Photographers"
-    },
-    {
-      "id": "recvl2OepWYmru",
-      "title": "一部AI生成的“真人”电影长片将在翠贝卡电影节首映，原因不明",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/29/a-feature-length-ai-generated-live-action-movie-is-premiering-at-tribeca-for-some-reason/",
-      "publish_time": "2026-05-30T04:16:59+08:00",
-      "summary": "翠贝卡电影节将首映全球首部完全由AI生成的真人长片，标志AI电影制作里程碑。",
-      "recommendation": "探讨AI生成真人电影对影像创作的影响，提供翠贝卡电影节首映的独家行业动态，适合关注计算摄影与AI影像趋势的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A Feature-Length AI-Generated ‘Live Action’ Movie Is Premiering at Tribeca for Some Reason"
-    },
-    {
-      "id": "recvl2OsPhUNty",
-      "title": "三星Galaxy Z Fold8系列被曝屏幕折痕控制媲美Oppo Find N6",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_crease_free_display_tipped-news-73038.php",
-      "publish_time": "2026-05-30T04:02:02+08:00",
-      "summary": "三星Galaxy Z Fold8系列折痕控制媲美Oppo Find N6，采用新显示技术降低折痕可见度约20%",
-      "recommendation": "折痕控制是折叠屏影像体验的关键，本文披露三星新显示技术降低折痕20%的具体数据，对比Oppo Find N6提供直观参考，对关注折叠屏拍摄稳定性的用户有实际价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 series tipped to have a display crease as good as Oppo Find N6's"
-    },
-    {
-      "id": "recvl2Oh51VdvA",
-      "title": "虽为成员，YoloLiv却不遵守Micro Four Thirds标准",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/29/despite-being-a-member-yololiv-isnt-complying-with-the-micro-four-thirds-standard/",
-      "publish_time": "2026-05-30T03:20:45+08:00",
-      "summary": "YoloLiv发布18mm f/1.4 Micro Four Thirds镜头，但被发现不符合该标准，引发关注。",
-      "recommendation": "揭露YoloLiv镜头未遵守M4/3标准，提供独家技术细节与行业影响分析，帮助爱好者了解标准合规性对器材兼容性的关键作用。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Despite Being a Member, YoloLiv Isn’t Complying with the Micro Four Thirds Standard"
-    },
-    {
-      "id": "recvl2OzIxw51Z",
-      "title": "为什么你的Lightroom预设看起来很假（以及真正有效的方法）",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/05/29/lightroom-presets-look-fake/",
-      "publish_time": "2026-05-30T03:00:00+08:00",
-      "summary": "文章指出Lightroom预设常显假，强调预设应注重真实性和独特风格，而非依赖AI，旨在帮助摄影师保持创作自主性。",
-      "recommendation": "文章直击预设假感痛点，提供非AI依赖的真实风格调整方法，对追求个性化影像的爱好者有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why Your Lightroom Presets Look Fake (And What Actually Works)"
-    },
-    {
-      "id": "recvl2OjiMQsB9",
-      "title": "ArcBlue C42：全球首款智能全画幅天文摄影系统",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/29/arcblue-c42-is-the-worlds-first-smart-full-frame-astrophotography-system/",
-      "publish_time": "2026-05-30T01:53:57+08:00",
-      "summary": "ArcBlue C42是全球首款智能全画幅天文摄影系统，即将登陆Kickstarter，其规格和功能令天文摄影爱好者兴奋。",
-      "recommendation": "解析ArcBlue C42全画幅天文摄影系统的核心规格与智能化功能，提供传感器尺寸、像素数等关键数据，适合关注天文摄影与消费级相机创新的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "ArcBlue C42 Is the World’s First Smart Full-Frame Astrophotography System"
-    },
-    {
-      "id": "recvl2OvdevAYw",
-      "title": "vivo S60和S60活力版发布：6.59英寸AMOLED屏+7200mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_s60_and_s60_vitality_edition_arrive_with_659_amoleds_and_7200mah_batteries-news-73052.php",
-      "publish_time": "2026-05-30T01:38:02+08:00",
-      "summary": "vivo S60系列发布，含S60和S60活力版，均配6.59英寸1.5K 120Hz AMOLED屏、5000万前置及超广角，S60更强芯片和3倍长焦，电池7200mAh",
-      "recommendation": "文章提供vivo S60系列影像配置细节：5000万前置、超广角及S60的3倍长焦，对关注中端手机多摄方案的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "vivo S60 and S60 Vitality Edition arrive with 6.59” AMOLEDs and 7,200mAh batteries"
-    },
-    {
-      "id": "recvl2OxwYHHkn",
-      "title": "Meike AF 56mm f/1.7 Air 现已开放预购",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/meike-af-56mm-f-1-7-air-available-for-preorder/",
-      "publish_time": "2026-05-30T01:15:45+08:00",
-      "summary": "Meike AF 56mm f/1.7 Air镜头现已在BHphoto、亚马逊美国站和Meike全球官网开启预售，同时宣布了25mm和35mm两款Air镜头。",
-      "recommendation": "Meike 56mm f/1.7 Air开启预售，同时透露25mm和35mm两款新镜头规划，为APS-C用户提供高性价比人像镜头选择，适合关注副厂镜头动态的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Meike AF 56mm f/1.7 Air Available for Preorder"
-    },
-    {
-      "id": "recvl2Oou6JNqu",
-      "title": "“为什么需要照片？我知道我去过那里”——埃德蒙·希拉里在历史性登顶珠峰后所说的话，在如今“拍下一切”的标准下显得疯狂",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/why-did-i-need-a-photograph-i-knew-id-been-there-edmund-hillarys-purported-words-after-history-making-everest-summit-seem-crazy-by-todays-snap-everything-standards",
-      "publish_time": "2026-05-30T01:08:41+08:00",
-      "summary": "73年前埃德蒙·希拉里登顶珠峰，其反对自拍的态度与当今拍照文化形成鲜明对比，引发对记录意义的思考。",
-      "recommendation": "从希拉里反自拍态度切入，对比当代拍照文化，引发对影像记录本质的深度思考，适合摄影爱好者反思拍摄动机。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"Why did I need a photograph? I knew I'd been there\" – Edmund Hillary’s purported words after history-making Everest summit seem crazy by today's 'snap everything' standards"
-    },
-    {
-      "id": "recvl2OlRg9ah4",
-      "title": "Film Friday: Kodak TMax 400 Is Far From a One-Trick Pony",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/29/film-friday-kodak-tmax-400-is-far-from-a-one-trick-pony/",
-      "publish_time": "2026-05-30T00:56:43+08:00",
-      "summary": "TMax 400于1986年问世，凭借片状颗粒结构、高分辨率和清晰细节，定义了一代黑白胶片。",
-      "recommendation": "解析TMax 400片状颗粒结构与高分辨率特性，适合胶片爱好者了解其技术定义与成像优势。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Film Friday: Kodak TMax 400 Is Far From a One-Trick Pony"
     }
   ]
 }
