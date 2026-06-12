@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-12T13:21:57.873761+08:00",
+    "updated_at": "2026-06-12T19:00:59.262510+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 122
+      "count": 123
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,118 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 16
+      "count": 15
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 39
+      "count": 38
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 391
+      "count": 393
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 175
+      "count": 174
     }
   ],
   "articles": [
+    {
+      "id": "recvmkhQyjR67s",
+      "title": "ACLU起诉ICE未能提供关于威胁拍摄联邦特工的摄影师的记录",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/12/aclu-sues-ice-for-failing-to-turn-over-records-on-threats-to-photographers-who-film-federal-agents/",
+      "publish_time": "2026-06-12T18:11:32+08:00",
+      "summary": "ACLU起诉ICE未能提供关于威胁拍摄联邦特工的摄影师的记录，指控其隐瞒相关信息。",
+      "recommendation": "ACLU诉讼揭露执法机构对拍摄者施压的案例，为影像爱好者提供法律维权参考，揭示拍摄公共事务的潜在风险。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "ACLU Sues ICE for Failing to Turn Over Records on Threats to Photographers Who Film Federal Agents"
+    },
+    {
+      "id": "recvmki0VYwXvs",
+      "title": "过去5年发布的4款最佳鱼眼镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/12/the-4-best-fisheye-lenses-released-in-the-past-5-years/",
+      "publish_time": "2026-06-12T18:00:00+08:00",
+      "summary": "鱼眼镜头通过极端畸变增强视觉效果，文章推荐过去5年发布的4款最佳产品，适合追求独特视角的摄影师。",
+      "recommendation": "精选近5年4款鱼眼镜头，涵盖畸变控制与视角差异，提供具体型号与参数对比，适合追求创意视角的摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 4 Best Fisheye Lenses Released in the Past 5 Years"
+    },
+    {
+      "id": "recvmkhVTBaIMx",
+      "title": "泄露的屏幕保护膜揭示三星即将推出的折叠屏手机尺寸差异",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/leaked_screen_protectors_reveal_size_differences_between_samsungs_upcoming_foldables-news-73247.php",
+      "publish_time": "2026-06-12T17:14:04+08:00",
+      "summary": "泄露的屏幕保护膜显示三星Galaxy Z Flip8、Z Fold8宽版和Z Fold8 Ultra的外屏尺寸差异，由Ice Universe分享图片对比",
+      "recommendation": "屏幕保护膜泄露揭示Z Flip8、Z Fold8宽版与Ultra外屏尺寸差异，为影像爱好者提供折叠屏手机握持与取景设计的参考数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leaked screen protectors reveal size differences between Samsung's upcoming foldables"
+    },
+    {
+      "id": "recvmkhYpXyXAK",
+      "title": "三阳60-180mm f/2.8 FE镜头已上架速卖通",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-samyang-60-180mm-f-2-8-fe-lens-already-listed-at-aliexpress/",
+      "publish_time": "2026-06-12T15:35:58+08:00",
+      "summary": "三阳60-180mm f/2.8 FE镜头已在速卖通上架，售价1099美元，将于6月25日发布。",
+      "recommendation": "三阳60-180mm f/2.8 FE镜头速卖通上架，售价1099美元，提供变焦恒定光圈新选择，适合追求性价比的索尼用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Samyang 60-180mm f/2.8 FE lens already listed at Aliexpress"
+    },
+    {
+      "id": "recvmkhThihknc",
+      "title": "潜水员在地中海首次拍摄到大白鲨视频影像，大白鲨现身欧洲水域！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/underwater-photography/divers-capture-first-ever-video-images-of-a-great-white-shark-in-the-mediterranean-as-jaws-takes-a-trip-to-european-waters",
+      "publish_time": "2026-06-12T15:05:00+08:00",
+      "summary": "潜水员在地中海西西里海峡首次拍摄到大白鲨视频，该水域因非法捕捞致鲨鱼濒危",
+      "recommendation": "水下摄影爱好者可参考其拍摄技巧与设备选择，文章含首次影像记录及地中海鲨鱼生态数据，对海洋影像创作有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Divers capture first-ever video images of a great white shark in the Mediterranean as Jaws takes a trip to European waters!"
+    },
+    {
+      "id": "recvmki3t5eIed",
+      "title": "目前最值得购买的5款全画幅相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/12/5-best-full-frame-cameras-to-buy-right-now/",
+      "publish_time": "2026-06-12T15:00:00+08:00",
+      "summary": "全画幅相机近年进步显著，索尼、尼康、徕卡等品牌突破界限，推出至今仍重要的设备，本文回顾曾备受喜爱的相机。",
+      "recommendation": "梳理索尼、尼康、徕卡等品牌全画幅相机近年关键升级，含传感器与对焦系统数据对比，为选购提供技术参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "5 Best Full Frame Cameras to Buy Right Now"
+    },
     {
       "id": "recvmiUxGJuPOA",
       "title": "Nothing Ear (3a) 价格与配色信息泄露",
@@ -7720,99 +7813,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Best lenses for the Sony A7S III and A7S II in 2026: smart glass for these hybrid cameras"
-    },
-    {
-      "id": "recvlijepSFxmM",
-      "title": "5款最佳虚化效果的人像镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/01/5-portrait-lenses-that-give-the-best-bokeh/",
-      "publish_time": "2026-06-01T15:00:00+08:00",
-      "summary": "本文推荐5款最佳虚化效果的人像镜头，涵盖原厂与第三方产品，核心参数包括光圈、焦距等，帮助用户快速选择高性价比镜头。",
-      "recommendation": "五款人像镜头虚化效果横向对比，含原厂与第三方产品，提供光圈、焦距等核心参数，助你按预算快速筛选高性价比选项。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "5 Portrait Lenses That Give the Best Bokeh"
-    },
-    {
-      "id": "recvliiVQu37HE",
-      "title": "厌倦了在不同照片编辑器之间切换？Aftershoot重大更新让你无需离开，新增RAW编辑与整理功能",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/software/tired-of-switching-between-different-photo-editors-big-aftershoot-update-means-never-having-to-leave-as-it-adds-raw-editing-and-organizing-features",
-      "publish_time": "2026-06-01T14:30:00+08:00",
-      "summary": "Aftershoot重大更新新增RAW编辑与整理功能，用户无需切换编辑器即可完成从筛选到交付的全流程，提升效率。",
-      "recommendation": "Aftershoot新增RAW编辑与整理，实现筛选到交付全流程闭环，减少多软件切换痛点。常规资讯，可了解AI后期工具整合趋势。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tired of switching between different photo editors? Big Aftershoot update means never having to leave, as it adds RAW editing and organizing features"
-    },
-    {
-      "id": "recvlij5dMRGVI",
-      "title": "vivo X Fold6 据称本月发布，规格再次曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x_fold6_reportedly_coming_this_month_specs_tipped_again-news-73059.php",
-      "publish_time": "2026-06-01T14:05:02+08:00",
-      "summary": "vivo X Fold6据称6月底在中国发布，搭载天玑9500芯片，设计延续前代。",
-      "recommendation": "文章曝光vivo X Fold6天玑9500芯片及6月发布信息，影像爱好者可关注其折叠屏影像系统是否延续前代规格，属常规产品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo X Fold6 reportedly coming this month, specs tipped again"
-    },
-    {
-      "id": "recvljNwifVV2d",
-      "title": "vivo X300 Ultra 相机评测",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/vivo-x300-ultra-camera-test/",
-      "publish_time": "2026-06-01T13:47:48+08:00",
-      "summary": "vivo X300 Ultra相机通过DXOMARK测试，在照片、变焦和视频用例中评估成像性能，基于实验室测试提供结构化概述。",
-      "recommendation": "基于DXOMARK实验室测试，提供vivo X300 Ultra在照片、变焦、视频三项用例的成像性能结构化数据，适合关注旗舰手机影像基准的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "vivo X300 Ultra Camera test"
-    },
-    {
-      "id": "recvlgDdjCU7Hw",
-      "title": "无人应效仿的摄影师",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/01/the-photographer-that-no-one-should-copy/",
-      "publish_time": "2026-06-01T12:00:00+08:00",
-      "summary": "文章讲述摄影师在书店偶遇索尔·莱特作品集，回顾其彩色摄影先驱地位，强调他对威廉·埃格尔斯顿等后辈的影响。",
-      "recommendation": "从索尔·莱特到埃格尔斯顿的脉络，揭示彩色摄影美学演变，对理解手机计算摄影的色彩调校有启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Photographer That No One Should Copy"
-    },
-    {
-      "id": "recvlgD4HMnbxe",
-      "title": "想拍出这样的惊艳大片？旅行中拍摄绝美沙景的技巧",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/travel-photography/want-to-shoot-stunning-shots-like-this-heres-how-to-photograph-stunning-sandscapes-on-your-travels",
-      "publish_time": "2026-06-01T11:20:00+08:00",
-      "summary": "本文介绍撒哈拉沙漠旅行摄影技巧，包括使用光圈f/8至f/11、快门1/125秒、ISO 100等参数，强调黄金时段光线和低角度构图，助你拍出绝美沙景大片。",
-      "recommendation": "提供撒哈拉沙漠实拍参数（f/8-f/11、1/125秒、ISO 100），黄金时段与低角度构图技巧具体，适合旅行摄影爱好者直接参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Want to shoot stunning shots like this? Here's how to photograph stunning sandscapes on your travels"
     }
   ]
 }
