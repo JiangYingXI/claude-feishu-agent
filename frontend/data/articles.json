@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-12T05:09:00.005288+08:00",
+    "updated_at": "2026-06-12T13:21:57.873761+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 121
+      "count": 122
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,165 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 17
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 39
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 385
+      "count": 391
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 181
+      "count": 175
     }
   ],
   "articles": [
+    {
+      "id": "recvmiUxGJuPOA",
+      "title": "Nothing Ear (3a) 价格与配色信息泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/nothing_ear_3a_price_leaks_alongside_colors-news-73242.php",
+      "publish_time": "2026-06-12T12:31:01+08:00",
+      "summary": "Nothing Ear (3a) 耳机泄露信息：有白、黑、黄、粉四色，法国定价99欧元，作为Ear (3)的平价替代品。",
+      "recommendation": "常规资讯，可了解行业动态。虽未涉及影像技术细节，但四色选项与99欧元定价对关注消费电子设计趋势的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nothing Ear (3a) price leaks alongside colors"
+    },
+    {
+      "id": "recvmiUHDlv01z",
+      "title": "2011年最值得购买的3款紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/12/the-3-best-compact-cameras-to-buy-from-2011/",
+      "publish_time": "2026-06-12T12:00:00+08:00",
+      "summary": "2011年三款紧凑型相机推荐，适合偏爱小巧便携且怀旧机型的年轻摄影师，价格实惠，核心参数包括传感器尺寸和像素等。",
+      "recommendation": "回顾2011年紧凑型相机，提供传感器尺寸与像素等核心参数，适合怀旧爱好者对比当下机型，了解技术演进脉络。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 3 Best Compact Cameras To Buy From 2011"
+    },
+    {
+      "id": "recvmiUA2jqUt5",
+      "title": "Tecno Pova 8 开箱与上手体验",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/tecno_pova_8_unboxing_and_handson-news-73230.php",
+      "publish_time": "2026-06-12T11:01:02+08:00",
+      "summary": "Tecno Pova 8将设计优先理念带入中低端市场，配备45W充电器和Alive Matrix微型LED状态显示屏，由104个独立LED组成，可快速提醒通知。",
+      "recommendation": "本文解析Tecno Pova 8的Alive Matrix微型LED屏（104颗独立LED）在通知提醒中的创新应用，为关注中低端机型差异化设计的影像爱好者提供独特视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tecno Pova 8 unboxing and hands-on"
+    },
+    {
+      "id": "recvmiUCOudRyM",
+      "title": "荣耀X80 Pro Max真机上手图泄露，确认配备超大容量电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_x80_pro_max_leaked_handson_images_confirm_its_gigantic_battery-news-73238.php",
+      "publish_time": "2026-06-12T09:01:02+08:00",
+      "summary": "荣耀X80 Pro Max真机图泄露，确认配备11000mAh电池和90W快充，采用仿皮革双色调后盖与50MP主摄",
+      "recommendation": "真机泄露确认11000mAh电池与50MP主摄，仿皮革双色调后盖设计，为影像续航需求提供新参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor X80 Pro Max leaked hands-on images confirm its gigantic battery"
+    },
+    {
+      "id": "recvmiUFmVDLfl",
+      "title": "尼康最新停产的相机和镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/11/the-latest-discontinued-nikon-cameras-and-lenses.aspx/",
+      "publish_time": "2026-06-12T08:49:35+08:00",
+      "summary": "尼康首批两款Z卡口镜头Nikkor Z 24-70 f/2.8 VR S和70-200mm f/2.8 VR S（V1）正式停产，B&H仍有库存。",
+      "recommendation": "尼康Z卡口首批f/2.8变焦镜头停产，B&H库存信息对关注镜头迭代的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The latest discontinued Nikon cameras and lenses"
+    },
+    {
+      "id": "recvmiUvf0DYxt",
+      "title": "神牛最新小型闪光灯性价比超高",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/flashguns/godoxs-latest-tiny-flashgun-looks-like-a-bargain-buy",
+      "publish_time": "2026-06-12T06:52:23+08:00",
+      "summary": "神牛最新小型闪光灯性价比超高，与大多数相机兼容。",
+      "recommendation": "文章介绍神牛小型闪光灯高性价比与广泛兼容性，适合预算有限的摄影爱好者了解入门级灯光方案。内容为常规产品资讯，缺乏具体参数或对比数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Godox's latest tiny flashgun looks like a bargain buy"
+    },
+    {
+      "id": "recvmiUnWVyzzR",
+      "title": "提醒：更新松下S9时请谨慎",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/5016564681/panasonic-s9-v2-update-lumix-lab-issues",
+      "publish_time": "2026-06-12T05:50:00+08:00",
+      "summary": "松下为S9发布V2固件以配合Lumix Lab V3应用，新增编辑Raw文件、有线下载图像等功能，但更新需谨慎。",
+      "recommendation": "提醒S9固件更新风险，含Raw编辑与有线传输等新功能细节，对Lumix用户有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "PSA: be careful updating your Panasonic S9"
+    },
+    {
+      "id": "recvmiUqIcPZjL",
+      "title": "Neewer Q120与Z3R：紧凑功率与现代TTL控制的结合",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/neewer-q120-and-z3r-compact-power-meets-modern-ttl-control/",
+      "publish_time": "2026-06-12T05:33:14+08:00",
+      "summary": "Neewer发布Q120紧凑便携户外闪光灯与Z3R TTL圆头机顶闪光灯，前者侧重电池供电离机拍摄，后者通过触摸屏提升机顶体验，评测探讨设计在实际场景中的表现",
+      "recommendation": "文章对比Q120与Z3R两款闪光灯，聚焦紧凑功率与TTL控制的实际场景表现，提供电池供电离机与触摸屏机顶设计的差异化数据，适合关注便携补光方案的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Neewer Q120 and Z3R: Compact Power Meets Modern TTL Control"
+    },
+    {
+      "id": "recvmiUt9tMvpb",
+      "title": "荣耀Magic V6评测：一款拍照媲美直板机的折叠屏手机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/11/honor-magic-v6-review-a-foldable-phone-that-takes-photos-like-a-slab/",
+      "publish_time": "2026-06-12T05:30:45+08:00",
+      "summary": "荣耀Magic V6折叠屏手机主打轻薄手感，接近标准智能手机，旨在改进而非重新定义折叠屏品类，拍照媲美直板机。",
+      "recommendation": "文章对比折叠屏与直板机拍照表现，提供实拍样张和轻薄设计对影像模组的影响分析，适合关注折叠屏影像潜力的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Honor Magic V6 Review: A Foldable Phone That Takes Photos Like a Slab"
+    },
     {
       "id": "recvmgU8UpktN4",
       "title": "蔡司仍在生产这六款单反镜头，因为它们太受欢迎了",
@@ -7673,144 +7813,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Want to shoot stunning shots like this? Here's how to photograph stunning sandscapes on your travels"
-    },
-    {
-      "id": "recvlgDb83hrUs",
-      "title": "尼康新闻周刊第888期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/31/weekly-nikon-news-flash-888.aspx/",
-      "publish_time": "2026-06-01T09:55:46+08:00",
-      "summary": "尼康Z卡口福伦达28mm f/2和40mm f/2镜头到货，闪迪发布Extreme PRO CFexpress 4.0 Type B存储卡，最高4TB，读写速度3700/3500MB/s。",
-      "recommendation": "尼康Z卡口福伦达手动头到货，提供28/40mm f/2紧凑定焦选择；闪迪CFexpress 4.0卡读写3700/3500MB/s，4TB容量为高码率视频用户提供存储方案。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #888"
-    },
-    {
-      "id": "recvlgD6T3mVbB",
-      "title": "速查表：Lightroom Classic的镜头模糊工具及其工作原理",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/cheat-sheet-lightroom-classics-lens-blur-tool-and-how-it-works",
-      "publish_time": "2026-06-01T08:10:00+08:00",
-      "summary": "Lightroom Classic的镜头模糊工具通过数字方式模拟散景效果，是目前最佳选择，能有效实现背景虚化。",
-      "recommendation": "详解Lightroom Classic镜头模糊工具的数字散景模拟原理，提供参数设置与效果对比，对后期虚化需求有实操指导价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Cheat sheet: Lightroom Classic's Lens Blur tool and how it works"
-    },
-    {
-      "id": "recvlgD8S4E04d",
-      "title": "相信我，你的下一台相机应该是能拍照的双筒望远镜（尤其如果你是观鸟爱好者）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/optics/binoculars/believe-me-your-next-camera-should-be-binoculars-that-take-photos-and-particularly-if-you-are-a-birdwatcher",
-      "publish_time": "2026-06-01T05:20:00+08:00",
-      "summary": "Z世代观鸟者涌入自然保护区，推动能拍照录像的双筒望远镜销量飙升，其核心价值在于满足观鸟爱好者同时观察和记录的需求。",
-      "recommendation": "聚焦Z世代观鸟者需求，解析能拍照双筒望远镜的崛起，提供行业销量数据与用户行为洞察，对影像爱好者拓展拍摄场景有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Believe me, your next camera should be binoculars that take photos (and particularly if you are a birdwatcher)"
-    },
-    {
-      "id": "recvlehTjAIWD6",
-      "title": "Chris Yan的春节摄影系列：用色彩与构图诠释意义的典范",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/travel-photography/chris-yans-photo-series-about-a-chinese-new-year-festival-is-a-masterclass-in-using-color-and-framing-to-evoke-meaning",
-      "publish_time": "2026-06-01T03:30:00+08:00",
-      "summary": "北京摄影师Chris Yan凭借商业摄影专业知识和视觉精准度，通过色彩与构图记录社火传统，诠释春节文化意义。",
-      "recommendation": "解析商业摄影师如何用色彩与构图重构社火传统，提供可复用的节日摄影构图技巧与色彩搭配思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Chris Yan's photo series about a Chinese New Year festival is a masterclass in using color and framing to evoke meaning"
-    },
-    {
-      "id": "recvlehP2G6FdF",
-      "title": "轻松拍出惊人微距照片的摄影技巧",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/31/easy-macro-photography-tips-for-incredible-close-up-photos/",
-      "publish_time": "2026-06-01T03:00:34+08:00",
-      "summary": "本指南介绍微距摄影技巧，涵盖花卉昆虫等拍摄，推荐相机设置、灯光、镜头、柔光器及焦点堆叠，助你提升特写图像清晰度。",
-      "recommendation": "从相机设置到柔光器、焦点堆叠，系统拆解微距拍摄痛点，提供可复用的参数与器材建议，适合想提升花卉昆虫特写清晰度的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Easy Macro Photography Tips for Incredible Close-Up Photos"
-    },
-    {
-      "id": "recvlehVo3MMty",
-      "title": "2026年6月天文摄影指南：准备好相机，本月拍摄月亮与星辰",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/astrophotography-in-june-2026-get-your-camera-ready-to-photograph-the-moon-and-the-stars-this-month",
-      "publish_time": "2026-06-01T02:00:00+08:00",
-      "summary": "2026年6月天文摄影指南，涵盖月亮与星辰拍摄技巧，提供最佳拍摄时间与设备参数，助你捕捉夜空之美",
-      "recommendation": "提供2026年6月天文摄影的拍摄时间、设备参数与技巧，对月亮与星辰爱好者有实用指导价值。内容偏常规资讯，可了解当月拍摄动态。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Astrophotography in June 2026: get your camera ready to photograph the moon and the stars this month"
-    },
-    {
-      "id": "recvlei1yJeFkv",
-      "title": "尼康慕尼黑服务公司运营47年后申请破产/无力偿债",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/05/31/after-47-years-nikon-service-munich-files-for-bankruptcy-insolvency.aspx/",
-      "publish_time": "2026-06-01T00:21:57+08:00",
-      "summary": "尼康慕尼黑服务公司运营47年后申请破产，自2026年3月18日起进入初步破产程序，6月1日转为正式破产程序并停止运营。",
-      "recommendation": "尼康慕尼黑服务公司破产事件，揭示传统相机售后体系面临的财务压力，对关注品牌长期服务保障的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "After 47 years Nikon Service Munich files for bankruptcy/insolvency"
-    },
-    {
-      "id": "recvlehRsa7BJ6",
-      "title": "摄影意图的神话",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/05/31/beyond-the-shutter-the-myth-of-intent/",
-      "publish_time": "2026-05-31T23:30:11+08:00",
-      "summary": "摄影界面临真实性危机，AI生成图像与照片难以区分，评委、观众甚至专家均无法分辨，引发对摄影意图的质疑。",
-      "recommendation": "探讨AI生成图像与照片难以区分的真实性危机，揭示评委与专家均无法分辨的现状，对影像爱好者理解摄影意图本质有深度启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Myth of Intent in Photography"
-    },
-    {
-      "id": "recvlehXeWazzS",
-      "title": "这张1933年纳粹焚书事件的诡异照片，以令人恐惧的方式展示了快门速度的重要性",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/this-eerie-photograph-of-the-1933-nazi-book-burning-images-demonstrates-the-importance-of-shutter-speed-in-a-terrifying-way",
-      "publish_time": "2026-05-31T23:20:00+08:00",
-      "summary": "这张1933年纳粹焚书事件的慢速快门照片，通过捕捉动态模糊和恐怖氛围，展示了快门速度对历史瞬间记录的关键作用。",
-      "recommendation": "通过1933年历史照片案例，直观解析慢速快门对动态模糊与氛围营造的影响，为摄影爱好者提供技术参数与历史叙事的交叉视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This eerie photograph of the 1933 Nazi book-burning images demonstrates the importance of shutter speed in a terrifying way"
     }
   ]
 }
