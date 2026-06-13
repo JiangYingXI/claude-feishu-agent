@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-13T04:41:56.337057+08:00",
+    "updated_at": "2026-06-13T13:11:55.067860+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 39
+      "count": 40
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,37 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvmoIHvu8OMo",
+      "title": "4款具备全面自动对焦的最佳相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/13/the-4-best-cameras-with-inclusive-autofocus/",
+      "publish_time": "2026-06-13T12:00:00+08:00",
+      "summary": "本文介绍4款具备全面自动对焦的相机，各公司努力推出出色系统，但部分难以提供包容性产品，最终选出4款优秀选择。",
+      "recommendation": "横向对比4款自动对焦相机，分析各品牌对焦系统差异，提供选机参考。数据详实，适合关注对焦性能的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 4 Best Cameras With Inclusive Autofocus"
+    },
+    {
+      "id": "recvmoIEXuw0RN",
+      "title": "Atlas ONE 三合一系统：需要时才变相机包",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/12/the-atlas-one-is-a-three-pack-system-thats-a-camera-bag-only-when-you-need-it/",
+      "publish_time": "2026-06-13T04:36:55+08:00",
+      "summary": "Atlas Packs推出Atlas ONE三合一超轻背包系统，日常低调使用，需要时转换为相机包，实现多功能便携。",
+      "recommendation": "背包系统设计灵活，满足影像爱好者日常与拍摄场景切换需求，提供模块化收纳思路，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Atlas ONE Is a Three-Pack System That’s a Camera Bag Only When You Need It"
+    },
     {
       "id": "recvmmEeu7n3qG",
       "title": "BHphoto 大量父亲节新优惠",
@@ -7776,36 +7807,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Japanese Zoo Considering Photo Ban After US Tourists Invade Punch the Monkey’s Enclosure"
-    },
-    {
-      "id": "recvljNaB3wGo4",
-      "title": "突发：GoPro陷入严重财务困境，因销量下滑和内存成本高企，“可能需要大幅缩减、重组或停止运营”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/breaking-news-gopro-is-in-serious-financial-trouble-and-may-be-required-to-significantly-reduce-restructure-cease-operations-amid-lower-sales-and-high-memory-costs",
-      "publish_time": "2026-06-02T00:11:59+08:00",
-      "summary": "运动相机巨头GoPro因销量下滑和内存成本高企陷入财务困境，最新财务文件质疑其未来12个月内恢复盈利能力的能力，可能需大幅缩减、重组或停止运营。",
-      "recommendation": "GoPro财务危机深度分析，揭示运动相机行业内存成本压力与销量下滑的连锁反应，对关注消费影像市场趋势的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "BREAKING: GoPro is in serious financial trouble and “may be required to significantly reduce, restructure, cease operations” amid lower sales and high memory costs"
-    },
-    {
-      "id": "recvlmqpFRr6e5",
-      "title": "新文件揭示：GoPro因销量下滑和内存成本高企面临破产风险",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/breaking-news-gopro-is-in-serious-financial-trouble-and-may-be-required-to-significantly-reduce-restructure-cease-operations-amid-lower-sales-and-high-memory-costs",
-      "publish_time": "2026-06-02T00:11:59+08:00",
-      "summary": "GoPro最新财务文件显示，因销量下滑和内存成本高企，公司未来12个月恢复盈利能力存疑，面临破产风险。",
-      "recommendation": "GoPro财务文件揭示销量与内存成本双重压力，对影像爱好者了解运动相机行业生存现状有参考价值，含独家财务数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "GoPro is at risk of potential bankruptcy amid lower sales and high memory costs, new documents reveal"
     }
   ]
 }
