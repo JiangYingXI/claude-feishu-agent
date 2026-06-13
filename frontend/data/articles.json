@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-13T22:45:17.378836+08:00",
+    "updated_at": "2026-06-14T04:09:55.695197+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,15 +33,77 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 386
+      "count": 385
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 175
+      "count": 179
     }
   ],
   "articles": [
+    {
+      "id": "recvmsmJZtLrPb",
+      "title": "让你的运动相机看起来像迷你X100",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/make-your-action-cam-look-like-mini-x100/",
+      "publish_time": "2026-06-14T03:50:46+08:00",
+      "summary": "文章介绍如何将运动相机改装成迷你富士X100VI，利用其受欢迎的设计，提供低成本替代方案。",
+      "recommendation": "提供低成本改装方案，将运动相机变身为迷你X100VI，满足摄影爱好者对复古美学与便携性的双重追求。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Make Your Action Cam Look Like a Mini X100"
+    },
+    {
+      "id": "recvmsmD26DQ3C",
+      "title": "当大多数摄影师躲进室内，真正的魔法却在户外上演——拍摄风暴、雾气和夜空的专业技巧",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/when-most-photographers-go-indoors-the-real-magic-begins-outside-pro-tips-for-shooting-storms-fog-and-night-skies",
+      "publish_time": "2026-06-14T02:30:00+08:00",
+      "summary": "本文介绍拍摄雷暴、雾景和夜空的专业技巧，强调户外自然现象提供震撼视觉故事，指导摄影师捕捉风暴、雾气与天象奇观的核心方法。",
+      "recommendation": "本文提供雷暴、雾景与夜空拍摄的核心技巧，对追求户外自然奇观的影像爱好者有实操价值。文中未含独家数据，但深度解析了风暴与雾气的光学特性，观点独到。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "When most photographers go indoors, the real magic begins outside – Pro tips for shooting storms, fog and night skies"
+    },
+    {
+      "id": "recvmsmMhnLUxi",
+      "title": "传闻：D2 Motion将收购MRMC",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/13/rumors-mrmc-to-be-purchased-by-d2-motion.aspx/",
+      "publish_time": "2026-06-14T01:36:17+08:00",
+      "summary": "传闻澳大利亚运动控制公司D2 Motion正试图收购摄影机机器人公司MRMC，该消息最初出现在Nikon Rumors上。",
+      "recommendation": "解析运动控制与摄影机机器人领域的潜在并购，揭示影视自动化设备市场动向，对关注拍摄技术升级的爱好者有行业参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Rumors: MRMC to be purchased by D2 Motion"
+    },
+    {
+      "id": "recvmsmFdb3WA5",
+      "title": "电影制作人可以用像iPhone一样简单的相机和不同的方法打破'Netflix认可'的限制",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/filmmakers-can-shatter-the-netflix-approved-restrictions-with-a-camera-as-simple-as-an-iphone-and-a-different-approach",
+      "publish_time": "2026-06-13T23:20:00+08:00",
+      "summary": "电影制作人可用手机等简单相机打破Netflix认可限制，方法比想象中容易。",
+      "recommendation": "文章探讨手机等简易设备突破Netflix认证限制，提供低成本电影制作新思路，对影像爱好者有实操启发。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Filmmakers can shatter the 'Netflix approved' restrictions with a camera as simple as an iPhone and a different approach"
+    },
     {
       "id": "recvmr2UoUGdyH",
       "title": "Insta360在美国对DJI提起反诉，指控其侵犯云台和360°相机技术相关专利",
@@ -470,6 +532,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The 3 Best Cameras Designed for Outdoor Photographers"
+    },
+    {
+      "id": "recvmsmHBY8VWg",
+      "title": "智能眼镜：一个兑现画质承诺的新产品类别？",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/smartglasses-a-new-product-category-delivering-on-its-image-quality-promises/",
+      "publish_time": "2026-06-12T23:58:59+08:00",
+      "summary": "智能眼镜作为新兴互联成像设备，制造商探索将拍照功能集成到轻量级可穿戴产品中，但无显示屏限制预览能力，文章评估其图像质量承诺的兑现情况。",
+      "recommendation": "剖析智能眼镜拍照画质兑现度，提供无屏设备成像局限的独家数据与行业洞察，助影像爱好者前瞻可穿戴摄影趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Smartglasses : a new product category delivering on its image quality promises?"
     },
     {
       "id": "recvmltF009zX8",
@@ -7728,81 +7806,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "iPhone Ultra foldable tipped to offer a vapor chamber"
-    },
-    {
-      "id": "recvlnRKIQJeQr",
-      "title": "小米加入AirDrop派对",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_joins_the_airdrop_party-news-73079.php",
-      "publish_time": "2026-06-02T13:39:03+08:00",
-      "summary": "小米宣布其HyperOS系统的Quick Share已集成Apple AirDrop，实现与苹果设备间快速无缝的文件共享。",
-      "recommendation": "跨平台文件互通对影像工作流有价值，但未涉及影像传输质量或速度对比，属常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Xiaomi joins the AirDrop party"
-    },
-    {
-      "id": "recvlmqw8Yqk5q",
-      "title": "尼康Zfc固件更新1.81版本发布",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/01/nikon-zfc-firmware-update-version-1-81-released.aspx/",
-      "publish_time": "2026-06-02T10:45:55+08:00",
-      "summary": "尼康发布Zfc固件1.81版，修复取景器模式下监视器空白问题，同时AkaraLabs推出Zf和Zfc保护壳。",
-      "recommendation": "尼康Zfc固件修复取景器显示问题，AkaraLabs同步推出保护壳，对Zfc用户有实用价值，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon Zfc firmware update version 1.81 released"
-    },
-    {
-      "id": "recvlmqycKaXSY",
-      "title": "4月CIPA数据出炉",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/01/the-cipa-numbers-for-april-are-out.aspx/",
-      "publish_time": "2026-06-02T10:35:38+08:00",
-      "summary": "2026年4月CIPA数据显示相机销量普遍上升，但单反相机销量同比下降31%，销售额下降39%，紧凑型相机增长30%",
-      "recommendation": "CIPA最新数据揭示单反加速衰退与紧凑相机逆势增长，为影像爱好者提供市场趋势量化参考，含关键同比降幅数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The CIPA numbers for April are out"
-    },
-    {
-      "id": "recvlmqrNCmqnM",
-      "title": "谷歌今年夏天将在美国以外开设首家实体店",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_is_opening_its_first_physical_store_outside_the_us_this_summer-news-73076.php",
-      "publish_time": "2026-06-02T09:12:02+08:00",
-      "summary": "谷歌今年夏天将在日本东京表参道开设美国以外首家实体店，销售Pixel、Nest、Fitbit等设备，提供AI体验，并作为在线订单取货点。",
-      "recommendation": "常规资讯，可了解行业动态。对影像爱好者而言，实体店提供Pixel系列手机实机体验，可直观感受计算摄影与AI影像功能。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google is opening its first physical store outside the US this summer"
-    },
-    {
-      "id": "recvlmqu2yEAbw",
-      "title": "三星Galaxy Z Fold8宽折叠屏真机曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php",
-      "publish_time": "2026-06-02T07:12:01+08:00",
-      "summary": "三星Galaxy Z Fold8宽折叠屏真机曝光，预计7月发布，可能命名Z Fold8，而Z Fold7继任者或为Z Fold8 Ultra。",
-      "recommendation": "曝光三星折叠屏新机命名策略，提供发布时间线索，对关注移动影像形态演变的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung's Galaxy Z Fold8 wide foldable spotted in the wild"
     }
   ]
 }
