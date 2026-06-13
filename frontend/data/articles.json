@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-13T13:11:55.067860+08:00",
+    "updated_at": "2026-06-13T17:49:57.194740+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -18,7 +18,7 @@
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 2
+      "count": 1
     },
     {
       "key": "计算摄影 & AI 影像",
@@ -33,15 +33,60 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 393
+      "count": 391
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 170
+      "count": 172
     }
   ],
   "articles": [
+    {
+      "id": "recvmpQAesBQZB",
+      "title": "“拍摄现实就是拍摄虚无”：杜安·迈克尔斯拒绝“决定性瞬间”理念，另辟蹊径",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/fine-art-photography/to-photograph-reality-is-to-photograph-nothing-duane-michals-rejected-the-idea-of-the-decisive-moment-and-did-something-wildly-different",
+      "publish_time": "2026-06-13T16:20:00+08:00",
+      "summary": "美国艺术家杜安·迈克尔斯去世，享年94岁。他六十年证明摄影可叙事提问，拒绝决定性瞬间理念。",
+      "recommendation": "杜安·迈克尔斯用60年实践证明摄影可叙事提问，挑战布列松决定性瞬间理念，为影像爱好者提供另类创作视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"To photograph reality is to photograph nothing\": Duane Michals rejected the idea of the 'decisive moment' and did something wildly different"
+    },
+    {
+      "id": "recvmpQE4gg26B",
+      "title": "这些是2026年最令人心碎的野生动物照片——它们将进行国际巡展",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/these-are-the-most-heartbreaking-wildlife-photographs-of-2026-and-theyre-going-on-an-international-tour",
+      "publish_time": "2026-06-13T15:00:00+08:00",
+      "summary": "2026年环境摄影奖获奖者获摩纳哥亲王祝贺，其野生动物照片将进行国际巡展，揭示生态危机。",
+      "recommendation": "通过获奖野生动物照片揭示生态危机，提供环境摄影奖独家巡展信息与摩纳哥亲王祝贺细节，对关注摄影社会价值的爱好者有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These are the most heartbreaking wildlife photographs of 2026 – and they're going on an international tour"
+    },
+    {
+      "id": "recvmpQGPOl6t1",
+      "title": "Phoblographer 会员：您将获得专属福利！",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/13/simple-math-copy-3/",
+      "publish_time": "2026-06-13T15:00:00+08:00",
+      "summary": "Phoblographer会员可获专属福利，包括可能出版印刷版杂志。网站不售广告，若每位读者年付1美元，即可维持长期发展。",
+      "recommendation": "揭示Phoblographer会员专属福利与无广告运营模式，提供影像行业独立媒体生存的独特视角，适合关注行业生态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Phoblographer Members: You Get Perks!"
+    },
     {
       "id": "recvmoIHvu8OMo",
       "title": "4款具备全面自动对焦的最佳相机",
@@ -7761,52 +7806,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Viltrox AF 90mmF2.2 and AF 75mmF1.8 EVO Lenses Coming Next Week"
-    },
-    {
-      "id": "recvljMQGhZmLf",
-      "title": "这款MacBook Pro的竞争对手来自一个令人惊讶的团队合作",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/6284578355/microsoft-surface-laptop-ultra-nvidia-chip-adobe",
-      "publish_time": "2026-06-02T01:46:00+08:00",
-      "summary": "微软Surface Laptop Ultra*配备15英寸mini-LED屏，HDR峰值亮度2000尼特，有SD卡槽，搭载Nvidia芯片，成为MacBook Pro的有力竞争者。",
-      "recommendation": "微软Surface Laptop Ultra*搭载2000尼特mini-LED屏与SD卡槽，为影像创作者提供高亮度参考与存储便利，Nvidia芯片性能可期。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This MacBook Pro competitor comes from a surprising team-up"
-    },
-    {
-      "id": "recvljMVeQTQFW",
-      "title": "英伟达新芯片旨在颠覆创意笔记本市场",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/01/nvidias-new-chip-aims-to-upend-the-creative-laptop-market/",
-      "publish_time": "2026-06-02T00:42:43+08:00",
-      "summary": "微软与英伟达联合发布Surface Laptop Ultra，搭载英伟达RTX Spark系统级芯片，号称重新定义Windows PC并开启个人AI代理时代。",
-      "recommendation": "解析RTX Spark芯片对笔记本影像处理与AI算力的影响，含微软合作细节，为移动端计算摄影提供新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "ISP & 影像芯片"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nvidia’s New Chip Aims to Upend the Creative Laptop Market"
-    },
-    {
-      "id": "recvljMX28hydQ",
-      "title": "美国游客入侵拍打猴舍后，日本动物园考虑禁止拍照",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/01/japanese-zoo-considering-photo-ban-after-us-tourists-invade-punch-the-monkeys-enclosure/",
-      "publish_time": "2026-06-02T00:39:53+08:00",
-      "summary": "一名美国游客穿表情符号服装爬入日本动物园猴舍，可能促使动物园禁止拍照",
-      "recommendation": "从影像爱好者视角看，该事件折射出公共场所拍摄伦理与规则边界，提醒拍摄时需尊重动物与环境，避免因不当行为引发限制。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Japanese Zoo Considering Photo Ban After US Tourists Invade Punch the Monkey’s Enclosure"
     }
   ]
 }
