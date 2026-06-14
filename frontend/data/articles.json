@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-14T04:09:55.695197+08:00",
+    "updated_at": "2026-06-14T13:22:16.509849+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 120
+      "count": 119
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 385
+      "count": 387
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,69 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvmuBNFtaQmp",
+      "title": "富士X Half被批为‘2025年最差相机’，为何这种评价有失偏颇",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/14/fujifilm-x-half-review-update-062026/",
+      "publish_time": "2026-06-14T12:00:00+08:00",
+      "summary": "富士X Half被批为2025年最差相机，但文章认为这种评价有失偏颇，强调其独特价值与性能优势。",
+      "recommendation": "文章反驳了富士X Half的负面评价，提供独特视角解析其设计逻辑与成像性能，适合关注小众相机价值的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm’s X Half was Panned as the ‘Worst Camera of 2025,’ Here’s Why They’re Wrong"
+    },
+    {
+      "id": "recvmuBJ4D6S0W",
+      "title": "你的下一张照片可能赢得一款最适合创作者的顶级专业相机——它还有取景器！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/your-next-photo-could-win-you-one-of-the-best-pro-featured-cameras-for-creators-and-it-has-a-viewfinder",
+      "publish_time": "2026-06-14T11:20:00+08:00",
+      "summary": "2026年醒酒器葡萄酒摄影大赛征集最佳葡萄酒图像，涵盖风景至抽象题材，获胜者可获顶级专业相机",
+      "recommendation": "葡萄酒摄影大赛征集作品，获奖者可获顶级专业相机，含取景器设计，对创作者有吸引力。常规赛事资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Your next photo could win you one of the best pro-featured cameras for creators – and it has a viewfinder!"
+    },
+    {
+      "id": "recvmuBPVLM7HR",
+      "title": "尼康美国延长保修计划",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/13/nikon-usa-extended-care-plans.aspx/",
+      "publish_time": "2026-06-14T10:22:33+08:00",
+      "summary": "尼康美国提供Nikon Care和Care+两种延保计划，其中3年Care+保护计划适用于无反和单反相机，价格区间$2001-$2500。",
+      "recommendation": "尼康延保计划价格区间与覆盖机型数据明确，对考虑购买高端无反/单反的用户有直接参考价值，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon USA extended care plans"
+    },
+    {
+      "id": "recvmuBLrz1HdD",
+      "title": "Daystar通用镜头太阳滤镜评测：一款兼顾性价比与多功能性的日食滤镜",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/daystar-universal-lens-filter-solar-filter-review",
+      "publish_time": "2026-06-14T08:10:00+08:00",
+      "summary": "Daystar通用镜头太阳滤镜采用Thousand Oaks太阳膜，价格低廉且兼容多镜头，是日食摄影和观测的高性价比首选。",
+      "recommendation": "实测Daystar通用太阳滤镜，提供Thousand Oaks膜材数据与多镜头兼容性对比，为日食摄影提供低成本方案参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Daystar Universal Lens Solar Filter review: an affordable eclipse filter that prioritizes versatility over perfection"
+    },
     {
       "id": "recvmsmJZtLrPb",
       "title": "让你的运动相机看起来像迷你X100",
@@ -7744,68 +7807,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Brightin Star AF 12mm f/2.8 (full-frame) lens review from Christopher Frost"
-    },
-    {
-      "id": "recvlnRCGrhPoN",
-      "title": "Viltrox将高端定焦镜头减半——拍出的照片依然惊艳！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-cut-its-premium-prime-lens-in-half-and-it-still-took-surprisingly-pleasing-photos",
-      "publish_time": "2026-06-02T15:36:22+08:00",
-      "summary": "唯卓仕将高端定焦镜头锯成两半后仍能拍摄惊艳图像，展示其快速自动对焦技术的卓越性能。",
-      "recommendation": "通过极端破坏性测试验证唯卓仕镜头自动对焦性能，提供独家实拍样张与对焦速度数据，对关注国产镜头极限性能的爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Viltrox cut its premium prime lens in half – and it still took surprisingly pleasing photos!"
-    },
-    {
-      "id": "recvlnREtwEUMT",
-      "title": "获奖摄影师都曾从这里起步——6月值得参加的10个摄影比赛",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/award-winning-photographers-all-started-somewhere-these-are-the-10-photo-contests-to-enter-this-june",
-      "publish_time": "2026-06-02T15:16:34+08:00",
-      "summary": "本文介绍6月10个国际摄影比赛，涵盖风景、建筑、人像等类别，面向所有水平摄影师，是获奖起步的好机会。",
-      "recommendation": "汇总6月10个国际摄影比赛，覆盖风景、人像等类别，为不同水平摄影师提供参赛路径，含分类与时间信息，适合规划投稿。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Award-winning photographers all started somewhere – these are the 10 photo contests to enter this June"
-    },
-    {
-      "id": "recvlnRQD5qyP1",
-      "title": "镜头远比相机重要：对还是错？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/02/why-your-lenses-are-more-important-than-your-camera-3-copy/",
-      "publish_time": "2026-06-02T15:00:00+08:00",
-      "summary": "镜头比相机更重要，涉及镜片质量、光圈大小等参数，对获得理想照片至关重要。",
-      "recommendation": "解析镜头与机身权重之争，从镜片素质、光圈参数切入，提供光学设计对画质影响的深度观点，适合纠结器材选择的爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Lenses are Far More Important Than a Camera: True or False?"
-    },
-    {
-      "id": "recvlnRIEXTJ2D",
-      "title": "iPhone Ultra折叠屏被曝将配备均热板",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_ultra_foldable_tipped_to_offer_a_vapor_chamber-news-73083.php",
-      "publish_time": "2026-06-02T14:40:03+08:00",
-      "summary": "苹果折叠屏iPhone Ultra被曝将配备均热板以提升散热性能，实现令人印象深刻的VC散热，机身纤薄。",
-      "recommendation": "折叠屏散热影响影像性能，均热板VC散热设计可保障长时间拍摄稳定性，对高画质需求用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "iPhone Ultra foldable tipped to offer a vapor chamber"
     }
   ]
 }
