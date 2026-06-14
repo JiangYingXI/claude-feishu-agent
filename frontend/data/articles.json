@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-14T18:13:17.254334+08:00",
+    "updated_at": "2026-06-14T22:48:08.507868+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 115
+      "count": 116
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,113 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 36
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 389
+      "count": 388
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 182
+      "count": 184
     }
   ],
   "articles": [
+    {
+      "id": "recvmwU4HBDkNw",
+      "title": "什么是纵向色差？为何如此难以校正？",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/14/what-is-longitudinal-chromatic-aberration-and-why-is-it-so-hard-to-correct/",
+      "publish_time": "2026-06-14T22:30:26+08:00",
+      "summary": "纵向色差（LoCA）是高对比度边缘的绿粉条纹，光学难预防，后处理难去除，是常见光学缺陷。",
+      "recommendation": "深入解析纵向色差的物理成因与校正难点，提供光学设计与后期处理的实用视角，适合追求画质的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What Is Longitudinal Chromatic Aberration and Why Is it So Hard to Correct?"
+    },
+    {
+      "id": "recvmwUcJMcdAr",
+      "title": "将自己置于画面中：加入我们的自拍迷你挑战",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/forums/threads/join-our-self-portrait-mini-challenge.4838688/",
+      "publish_time": "2026-06-14T22:00:00+08:00",
+      "summary": "本文邀请读者参与自拍迷你挑战，在摄影社区论坛分享想法，融入节日气氛，强调给予与分享的季节已到来。",
+      "recommendation": "自拍挑战结合节日氛围，引导用户实践构图与光影技巧，社区互动可激发创作灵感，适合提升自拍表现力。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Put yourself in the frame: join our self-portrait mini challenge"
+    },
+    {
+      "id": "recvmwU7ojamnn",
+      "title": "如何在编辑工作流中利用线性相机配置文件",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/14/how-to-leverage-linear-camera-profiles-in-your-editing-workflow/",
+      "publish_time": "2026-06-14T21:01:59+08:00",
+      "summary": "线性相机配置文件在Lightroom社区中流传但少人用，本文教你如何在编辑工作流中有效利用它们，提升照片处理效率与质量。",
+      "recommendation": "线性配置文件常被忽视，本文填补了实用教程空白，提供具体工作流整合方法，对追求效率的后期爱好者有直接帮助。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How to Leverage Linear Camera Profiles in Your Editing Workflow"
+    },
+    {
+      "id": "recvmwUilnjz4P",
+      "title": "蔡司Horizon变形镜头初体验：新款索尼中画幅电影摄影机的完美搭档！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/zeiss-horizon-anamorphic-first-look-the-perfect-lenses-for-the-new-sony-medium-format-cine-cameras/",
+      "publish_time": "2026-06-14T20:30:23+08:00",
+      "summary": "蔡司发布Horizon变形镜头系列，覆盖索尼Rialto 65中画幅传感器，预计每支超2万美元，是新型中画幅电影摄影机的理想搭档。",
+      "recommendation": "蔡司Horizon变形镜头覆盖中画幅传感器，2万美元级定价揭示高端电影镜头市场动向，适合关注顶级影像装备的爱好者了解技术规格与行业趋势。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "ZEISS Horizon Anamorphic First Look: The perfect lenses for the new Sony medium format Cine cameras!"
+    },
+    {
+      "id": "recvmwUfrsA8Rg",
+      "title": "网上的人真傻：这款相机很棒",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/people-on-the-internet-are-dumb-this-camera-is-great",
+      "publish_time": "2026-06-14T20:30:00+08:00",
+      "summary": "文章反驳对松下Lumix L10的批评，指出其作为入门级数码单反相机，具备1010万像素、Live View功能等核心参数，性价比高，适合新手使用。",
+      "recommendation": "反驳网络偏见，解析松下L10的1010万像素与Live View功能，为入门用户提供实用选购参考，数据扎实。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "People on the internet are dumb: This camera is great"
+    },
+    {
+      "id": "recvmwU9VdHmbh",
+      "title": "为你的摄影带来新视角",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/14/giving-your-photography-a-new-perspective/",
+      "publish_time": "2026-06-14T20:00:40+08:00",
+      "summary": "摄影捕捉光影，但关键在于在二维图像中描绘深度，理解深度运作能让照片更具吸引力。",
+      "recommendation": "从二维平面解析深度感知的摄影技巧，提供构图与光影的实操方法论，适合提升作品层次。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Giving Your Photography a New Perspective"
+    },
     {
       "id": "recvmvN2Ywj4uz",
       "title": "天文摄影师的3款经济相机套件（第二部分）",
@@ -7713,98 +7806,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Camera Industry’s Recovery Is Real, CIPA Data Reveals"
-    },
-    {
-      "id": "recvlpjLaHlitA",
-      "title": "佳能最便宜的无反相机降至429美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canons-cheapest-mirrorless-camera-just-dropped-to-usd429",
-      "publish_time": "2026-06-02T20:40:00+08:00",
-      "summary": "佳能最便宜的无反相机EOS R100降至429美元，极具吸引力。",
-      "recommendation": "EOS R100降至429美元，为入门用户提供佳能RF卡口最低门槛，适合预算有限者体验全画幅无反生态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon’s cheapest mirrorless camera just dropped to $429"
-    },
-    {
-      "id": "recvlpjYp6ZHrF",
-      "title": "vivo X500 Ultra 或配备10倍长焦摄像头",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x500_ultra_may_feature_a_10x_telephoto_camera-news-73086.php",
-      "publish_time": "2026-06-02T19:36:02+08:00",
-      "summary": "vivo X500 Ultra或配备10倍潜望式长焦摄像头，变焦范围超越X300 Ultra的200毫米，相机升级显著。",
-      "recommendation": "曝光vivo X500 Ultra或配备10倍潜望长焦，变焦范围超越前代，为关注手机长焦突破的爱好者提供关键参数与升级方向。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "vivo X500 Ultra may feature a 10x telephoto camera"
-    },
-    {
-      "id": "recvlpjNc7yXUt",
-      "title": "2026年最佳POV相机——可穿戴的免手持运动相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/best-pov-camera",
-      "publish_time": "2026-06-02T19:30:02+08:00",
-      "summary": "2026年最佳POV相机是超紧凑磁性可穿戴免手持运动相机，便于记录生活方式和动作场景",
-      "recommendation": "解析2026年POV相机趋势，聚焦磁性可穿戴设计，提供免手持运动拍摄的实测数据与场景对比，适合关注户外记录的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Best POV camera in 2026 – Tiny hands-free action cameras you can wear and go"
-    },
-    {
-      "id": "recvlpjPggRs0I",
-      "title": "摄影师称在奥拉基上空拍摄获奖银河照片“成为我为自己设定的最具挑战性的任务之一”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/award-winning-milky-way-photo-above-aoraki-became-one-of-the-most-demanding-challenges-i-had-set-for-myself-says-photographer",
-      "publish_time": "2026-06-02T19:15:54+08:00",
-      "summary": "摄影师在冬季穿越陡峭岩石和积雪斜坡，拍摄奥拉基上空银河照片，称其为最具挑战性任务之一。",
-      "recommendation": "通过摄影师亲述极端环境下的银河拍摄挑战，提供高感光与长曝光参数、构图技巧及风险评估等实用经验，适合追求进阶星空摄影的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Award-winning Milky Way photo above Aoraki \"became one of the most demanding challenges I had set for myself,\" says photographer"
-    },
-    {
-      "id": "recvlnRweWNK5c",
-      "title": "吉卜力主题公园禁止拍照",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/02/theres-no-photos-allowed-at-the-studio-ghibli-amusement-park/",
-      "publish_time": "2026-06-02T18:42:39+08:00",
-      "summary": "吉卜力主题公园因保护知识产权和游客体验，禁止拍照，引发对旅游景点拍照限制的讨论。",
-      "recommendation": "从影像创作角度探讨拍照限制对构图与记录的影响，提供景点拍摄规则与版权保护的行业视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "There’s No Photos Allowed at the Studio Ghibli Amusement Park"
-    },
-    {
-      "id": "recvlpjukwIopO",
-      "title": "吉卜力主题公园禁止拍照",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/02/theres-no-photos-allowed-at-the-studio-ghibli-amusement-park/",
-      "publish_time": "2026-06-02T18:42:39+08:00",
-      "summary": "吉卜力主题公园禁止拍照，反映日本旅游景点限制拍照趋势，致敬吉卜力工作室世界。",
-      "recommendation": "探讨吉卜力公园禁拍背后的摄影伦理与体验价值，对影像爱好者思考拍摄边界有启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "There Are No Photos Allowed at the Studio Ghibli Amusement Park"
     }
   ]
 }
