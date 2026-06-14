@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-14T22:48:08.507868+08:00",
+    "updated_at": "2026-06-15T04:12:17.282578+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 116
+      "count": 114
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,75 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 386
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 184
+      "count": 186
     }
   ],
   "articles": [
+    {
+      "id": "recvmydMyhI6D8",
+      "title": "研究人员首次拍摄到世界“最丑鲨鱼”在其自然栖息地的镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/first-ever-camera-footage-of-worlds-ugliest-shark-in-its-natural-habitat-captured-by-researchers",
+      "publish_time": "2026-06-15T02:30:00+08:00",
+      "summary": "科学家首次拍摄到罕见哥布林鲨在自然栖息地的镜头，这种鲨鱼因丑陋而闻名，两次目击影像揭示了其深海生活习性。",
+      "recommendation": "罕见深海生物影像记录，展示极端环境下的拍摄技术挑战，对水下摄影爱好者有独特参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "First-ever camera footage of world’s “ugliest shark” in its natural habitat captured by researchers"
+    },
+    {
+      "id": "recvmydRzbI4rF",
+      "title": "iOS 27 发布，Galaxy S27 泄露，第24周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/ios_27_announced_galaxy_s27_leaks_week_24_in_review-news-73261.php",
+      "publish_time": "2026-06-15T01:34:02+08:00",
+      "summary": "苹果在WWDC发布iOS 27等系统更新，全新Siri AI基于谷歌Gemini模型支持设备端处理，开发者今日可用，公开测试版下月推出。",
+      "recommendation": "iOS 27集成谷歌Gemini模型，Siri AI支持设备端处理，对影像爱好者意味着更快的本地计算摄影优化。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iOS 27 announced, Galaxy S27 leaks, Week 24 in review"
+    },
+    {
+      "id": "recvmydTPFBWDS",
+      "title": "富士X/GFX系列优惠——六月新品与即将结束的促销",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-x-gfx-deals-whats-new-and-whats-ending-in-june/",
+      "publish_time": "2026-06-15T00:45:22+08:00",
+      "summary": "富士推出XF镜头新优惠，X/GFX系列相机及镜头现有优惠持续至6月28日，新镜头优惠稍长。",
+      "recommendation": "富士X/GFX系列促销资讯，含XF镜头新优惠及截止日期，为购机者提供时效性参考。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm X/GFX Deals – What’s New and What’s Ending in June"
+    },
+    {
+      "id": "recvmydP9HRXhx",
+      "title": "唐·麦库林在“最后一部”摄影集中重返越南恐怖场景，收录前所未见照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/don-mccullin-returns-to-the-horrors-of-vietnam-in-last-ever-photobook-featuring-never-before-seen-images",
+      "publish_time": "2026-06-14T23:20:00+08:00",
+      "summary": "英国摄影记者唐·麦库林在其“最后一本书”中重返越南战争，收录前所未见照片，呈现冲突恐怖场景。",
+      "recommendation": "通过麦库林未公开照片，解析战地摄影的伦理与构图技巧，提供纪实影像的独家创作视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Don McCullin returns to the horrors of Vietnam in \"last ever\" photobook featuring never-before-seen images"
+    },
     {
       "id": "recvmwU4HBDkNw",
       "title": "什么是纵向色差？为何如此难以校正？",
@@ -7744,68 +7804,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "When Will Canon End Official Repair Service for Your Gear?"
-    },
-    {
-      "id": "recvlpk7Sn2Oou",
-      "title": "唯卓仕即将发布新品：AF 75mm F1.8和AF 90mm F2.2 E卡口镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/viltrox-is-about-to-release-new-products-the-af-75mm-f1-8-and-af-90mm-f2-2-e-mount-lenses/",
-      "publish_time": "2026-06-02T21:08:36+08:00",
-      "summary": "唯卓仕即将发布AF 75mm F1.8和AF 90mm F2.2 E卡口镜头，兼容索尼、富士、尼康APS-C画幅，重约330克，滤镜58mm，为APS-C用户提供轻便长焦选择。",
-      "recommendation": "APS-C用户关注轻便长焦的实用资讯，75mm F1.8和90mm F2.2的规格与330克重量是核心数据，适合对比现有镜头选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox is about to release new products: the AF 75mm F1.8 and AF 90mm F2.2 E-mount lenses"
-    },
-    {
-      "id": "recvlpjsjqpuye",
-      "title": "徕卡Cine Compact 1投影仪承诺即插即用的家庭影院体验",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/02/leica-cine-compact-1-projector-promises-a-plug-and-play-home-theater-experience/",
-      "publish_time": "2026-06-02T21:00:07+08:00",
-      "summary": "徕卡发布紧凑型激光投影仪Cine Compact 1，基于Cine 1打造，承诺易用设计融合先进激光技术，提供即插即用家庭影院体验。",
-      "recommendation": "本文介绍徕卡Cine Compact 1投影仪，聚焦其激光技术与即插即用设计，对关注家庭影院方案的影像爱好者有参考价值，但未提供独家数据或深度对比。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Leica Cine Compact 1 Projector Promises a Plug-and-Play Home Theater Experience"
-    },
-    {
-      "id": "recvlpjJ3YJdNQ",
-      "title": "虽小但巧：世界最小模拟即时相机更锐利更强大",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/its-not-big-but-it-is-clever-the-worlds-smallest-analog-instant-camera-is-now-sharper-and-more-powerful",
-      "publish_time": "2026-06-02T21:00:00+08:00",
-      "summary": "宝丽来Go Gen 3发布，作为全球最小即时胶片相机，升级了更锐利镜头和更强闪光灯，实现更清晰成像。",
-      "recommendation": "解析宝丽来Go Gen 3镜头与闪光灯升级细节，为即时摄影爱好者提供最小机型成像改进的实测价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "It's not big but it IS clever: The world's smallest analog instant camera is now sharper and more powerful"
-    },
-    {
-      "id": "recvlpk36P7OKg",
-      "title": "CIPA数据揭示相机行业复苏确为事实",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/02/the-camera-industrys-recovery-is-real-cipa-data-reveals/",
-      "publish_time": "2026-06-02T21:00:00+08:00",
-      "summary": "CIPA最新报告显示4月相机出货量改善，表明行业复苏，尽管此前受疫情和战争影响",
-      "recommendation": "CIPA出货量数据为行业复苏提供量化佐证，影像爱好者可据此判断市场趋势，辅助器材购买决策。文章含独家行业数据，非泛泛之谈。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Camera Industry’s Recovery Is Real, CIPA Data Reveals"
     }
   ]
 }
