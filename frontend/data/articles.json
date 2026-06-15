@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-15T20:57:39.937494+08:00",
+    "updated_at": "2026-06-16T05:43:23.654317+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 115
+      "count": 116
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 14
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,500 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 384
+      "count": 390
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 188
+      "count": 185
     }
   ],
   "articles": [
+    {
+      "id": "recvmEqgQ77l4g",
+      "title": "2026年索尼未来电影制作人奖的5位迷人获奖者",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/the-5-captivating-winners-of-the-2026-sony-future-filmmaker-awards/",
+      "publish_time": "2026-06-16T05:02:51+08:00",
+      "summary": "2026年索尼未来电影制作人奖揭晓，五个类别获奖者展示新兴电影制作人才，体现行业创新与未来潜力。",
+      "recommendation": "通过获奖者作品解析新兴影像趋势，含索尼电影机创作细节，对理解消费级视频技术演进有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 5 Captivating Winners of the 2026 Sony Future Filmmaker Awards"
+    },
+    {
+      "id": "recvmEqRHUaYfq",
+      "title": "三星Galaxy Z Fold8宽版或采用比Fold8 Ultra更厚的超薄玻璃",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_wide_may_use_thicker_ultrathin_glass_than_fold8_ultra-news-73278.php",
+      "publish_time": "2026-06-16T05:01:02+08:00",
+      "summary": "三星Galaxy Z Fold8宽版将采用60μm厚超薄玻璃，比Fold8 Ultra更厚，旨在减少折痕并保护屏幕，预计7月与Flip8一同发布。",
+      "recommendation": "揭示Fold8宽版UTG厚度增至60μm，比Ultra更厚，直接关联折痕控制与屏幕耐用性，为折叠屏影像设备提供结构优化数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8 wide may use thicker ultra-thin glass than Fold8 Ultra"
+    },
+    {
+      "id": "recvmEqjjpAn23",
+      "title": "福伦达Nokton 35mm f/1.4镜头下月登陆RF和Z卡口",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/voigtlanders-new-nokton-35mm-f-1-4-arrives-on-rf-and-z-mount-next-month/",
+      "publish_time": "2026-06-16T04:12:42+08:00",
+      "summary": "福伦达Nokton 35mm f/1.4手动镜头下月登陆佳能RF和尼康Z卡口，保留经典光学设计，提供新样张和上市信息。",
+      "recommendation": "福伦达经典35mm f/1.4光学设计登陆RF/Z卡口，提供手动对焦新选择，含具体样张与上市时间，适合追求复古操控的影像爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Voigtländer Nokton 35mm f/1.4 Arrives on RF and Z Mount Next Month"
+    },
+    {
+      "id": "recvmErcuKt2m8",
+      "title": "弗里德曼档案馆新版索尼A7 V指南",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/thew-new-friedman-archives-guide-to-sonys-a7-v/",
+      "publish_time": "2026-06-16T03:42:13+08:00",
+      "summary": "弗里德曼档案馆发布新版索尼A7 V指南，现可在亚马逊及个人网站获取，同时提供E卡口相机和镜头优惠信息。",
+      "recommendation": "指南汇总A7 V关键参数与E卡口优惠，适合关注索尼新机动态的用户快速获取信息，但无独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Thew new Friedman Archives Guide to Sony’s A7 V"
+    },
+    {
+      "id": "recvmEq8mOMeGI",
+      "title": "Z卡口迎来三款轻量级APS-C画幅定焦镜头",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/3853629933/7artisans-lite-autofocus-primes-z-mount",
+      "publish_time": "2026-06-16T03:14:00+08:00",
+      "summary": "7Artisans推出三款F1.8自动对焦APS-C镜头，25mm、35mm和50mm，重量约180克，新增尼康Z卡口版本。",
+      "recommendation": "文章聚焦Z卡口轻量化APS-C定焦镜头，提供180克F1.8规格的独特数据，对尼康用户选购轻便镜头有直接参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Z mount gets three new lightweight APS-C primes"
+    },
+    {
+      "id": "recvmErhq4aJ87",
+      "title": "唯卓仕真的要造相机与尼康竞争吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/15/is-viltrox-really-building-a-camera-to-compete-with-nikon/",
+      "publish_time": "2026-06-16T03:00:00+08:00",
+      "summary": "唯卓仕计划推出配备尼康Z卡口的新相机，挑战尼康市场地位，引发行业关注。",
+      "recommendation": "分析唯卓仕进军相机市场对Z卡口生态的潜在影响，提供行业竞争格局的深度视角，适合关注相机品牌动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is Viltrox Really Building a Camera to Compete with Nikon?"
+    },
+    {
+      "id": "recvmEqlDONYzj",
+      "title": "我探访了中国的Lexar，探究摄影师能否信任其存储卡",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/i-visited-lexar-in-china-to-find-out-whether-photographers-can-trust-its-memory-cards/",
+      "publish_time": "2026-06-16T02:50:43+08:00",
+      "summary": "PetaPixel探访中国雷克沙，评估其存储卡是否值得摄影师信赖，强调性能、可靠性与性价比。",
+      "recommendation": "深入雷克沙工厂，从产线到质检解析存储卡可靠性，提供独家性能测试数据与行业视角，适合关注存储设备稳定性的摄影师。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I Visited Lexar in China to Find Out Whether Photographers Can Trust Its Memory Cards"
+    },
+    {
+      "id": "recvmEqo0tlp34",
+      "title": "投影仪成意外英雄，尼克斯自1973年首夺NBA总冠军",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/projectors-the-unlikely-hero-as-knicks-win-first-nba-title-since-1973/",
+      "publish_time": "2026-06-16T02:50:07+08:00",
+      "summary": "纽约尼克斯队1973年首夺NBA总冠军，投影仪意外成为MVP，凸显技术设备在体育赛事中的关键作用。",
+      "recommendation": "投影仪在体育赛事中的关键作用案例，揭示技术设备对影像呈现的意外影响，提供行业应用新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Projectors the Unlikely Hero as Knicks Win First NBA Title Since 1973"
+    },
+    {
+      "id": "recvmEqqsqrRYn",
+      "title": "Michaels 扩展店内同日照片打印与装裱服务",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/michaels-expands-same-day-photo-printing-and-framing-in-its-stores/",
+      "publish_time": "2026-06-16T02:22:49+08:00",
+      "summary": "Michaels扩展店内同日照片打印与装裱服务，提供最大16x20英寸精美艺术照片打印，成为一站式商店。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦Michaels扩展同日照片打印与装裱服务，提供最大16x20英寸艺术打印，对影像爱好者而言是便利性参考，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Michaels Expands Same-Day Photo Printing and Framing In its Stores"
+    },
+    {
+      "id": "recvmEqAwySPet",
+      "title": "Thypoch Voyager 24-50mm f/2.8评测：紧凑轻便且价格亲民，配备自动对焦与防尘密封",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/thypoch-voyager-24-50mm-f-2-8-review",
+      "publish_time": "2026-06-16T02:00:00+08:00",
+      "summary": "Thypoch Voyager 24-50mm f/2.8是一款紧凑轻便、价格亲民的索尼E卡口标准变焦镜头，具备自动对焦和防尘密封，是首款自动对焦变焦镜头。",
+      "recommendation": "评测Thypoch首款自动对焦变焦镜头，提供24-50mm f/2.8的紧凑设计、防尘密封与亲民价格等关键参数，适合索尼E卡口用户权衡便携性与性能。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Thypoch Voyager 24-50mm f/2.8 review: compact, lightweight and affordable, complete with autofocus and weather-seals"
+    },
+    {
+      "id": "recvmEqsUslXSb",
+      "title": "摄影师因美容杂志中出现AI生成的‘女性’形象感到不安",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/photographer-disturbed-by-ai-generated-women-in-beauty-magazine/",
+      "publish_time": "2026-06-16T01:45:54+08:00",
+      "summary": "生成式AI进军美容时尚领域，摄影师因杂志使用AI生成女性形象感到不安，引发对行业未来的担忧。",
+      "recommendation": "探讨AI生成影像对传统摄影师的冲击，提供行业转型期的真实焦虑与深度观点，适合关注摄影伦理与职业未来的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Disturbed By AI-Generated ‘Women’ in Beauty Magazine"
+    },
+    {
+      "id": "recvmEr4kFcAlm",
+      "title": "7Artisans发布三款Lite系列f/1.8 APS-C自动对焦超轻镜头：尼康Z卡口25mm/35mm/50mm",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/15/7artisans-announced-a-trio-of-lite-series-f-1-8-aps-c-autofocus-ultralight-lenses-for-nikon-z-mount-25mm-35mm-50mm.aspx/",
+      "publish_time": "2026-06-16T01:10:59+08:00",
+      "summary": "7工匠发布三款Lite系列f/1.8 APS-C自动对焦超轻镜头，适用于尼康Z卡口，焦距25mm/35mm/50mm，售价125美元/支或359美元套装，已开售。",
+      "recommendation": "三支f/1.8自动对焦镜头仅125美元/支，提供25mm/35mm/50mm焦距覆盖，超轻设计适合尼康Z卡口APS-C用户。常规产品发布资讯，可了解高性价比镜头选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "7Artisans announced a trio of Lite Series f/1.8 APS-C autofocus ultralight lenses for Nikon Z-mount (25mm/35mm/50mm)"
+    },
+    {
+      "id": "recvmEqD6lZHFv",
+      "title": "仅需1100英镑出头就能拥有旗舰相机？这套超值机身与镜头组合是Prime Day早鸟价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/fancy-a-flagship-camera-for-just-over-gbp1-100-this-killer-body-and-lens-combo-is-an-early-prime-day-steal",
+      "publish_time": "2026-06-16T01:06:14+08:00",
+      "summary": "Prime Day早鸟价，仅1100英镑出头即可购入昔日旗舰相机与镜头组合，适合户外摄影，物超所值",
+      "recommendation": "Prime Day早鸟价中，昔日旗舰相机与镜头组合仅1100英镑出头，提供具体价格和适用场景，对预算有限的户外摄影爱好者有明确选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fancy a flagship camera for just over £1,100? This killer body and lens combo is an early Prime Day steal"
+    },
+    {
+      "id": "recvmEqUlvUeEo",
+      "title": "英国政府宣布禁止16岁以下青少年使用社交媒体",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/uk_government_announces_social_media_ban_for_those_under_16-news-73276.php",
+      "publish_time": "2026-06-16T01:03:02+08:00",
+      "summary": "英国政府宣布禁止16岁以下青少年使用社交媒体，涵盖Snapchat、TikTok等平台，但不包括WhatsApp和Signal，同时限制直播等有害功能，并扩展至游戏网站。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦英国社交媒体禁令，但未涉及影像创作工具或平台影像功能，对影像爱好者参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "UK government announces social media ban for those under 16"
+    },
+    {
+      "id": "recvmEqbvPba4i",
+      "title": "用你最好的野外照片庆祝自然摄影日",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/1456017085/celebrating-nature-photography-day-with-our-readers-best-shots-of-the-wild",
+      "publish_time": "2026-06-16T00:59:00+08:00",
+      "summary": "自然摄影日之际，索尼DSC-RX10M4相机以F4、1/500秒、ISO800参数拍摄的精彩自然照片展示，强调场景多样性与原创性，包括风景、动物及云层形态。",
+      "recommendation": "以RX10M4实拍参数展示自然摄影技巧，提供F4/1/500秒/ISO800的实战数据，对场景多样性与原创性有具体解析，适合提升野外拍摄思路。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Celebrating Nature Photography Day with your best shots of the wild"
+    },
+    {
+      "id": "recvmEr1zzFIEH",
+      "title": "DxO父亲节促销：使用我们的优惠码全场八折",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/dxo-fathers-day-promotion-20-off-everything-using-our-coupon-code/",
+      "publish_time": "2026-06-16T00:57:02+08:00",
+      "summary": "DxO父亲节促销，新客户用优惠码FUJIR_FD26享全场八折，涵盖PhotoLab 9等产品。",
+      "recommendation": "常规资讯，可了解行业动态。提供DxO父亲节八折优惠码，对PhotoLab用户有实用价值，但无独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DxO Father’s Day Promotion: 20% Off Everything using Our Coupon Code"
+    },
+    {
+      "id": "recvmEqvq3WOKQ",
+      "title": "科学家首次在自然栖息地拍摄到‘恐怖电影’级欧氏尖吻鲨",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/scientists-capture-first-ever-footage-of-horror-movie-goblin-shark-in-its-natural-habitat/",
+      "publish_time": "2026-06-16T00:49:59+08:00",
+      "summary": "科学家首次在自然栖息地拍摄到深海哥布林鲨，继大白鲨水下影像后又一突破",
+      "recommendation": "深海哥布林鲨自然栖息地影像首度公开，提供极端弱光环境下的拍摄参数与生物行为数据，对水下摄影爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Scientists Capture First-Ever Footage of ‘Horror Movie’ Goblin Shark in its Natural Habitat"
+    },
+    {
+      "id": "recvmEr705HEa7",
+      "title": "尼康Z卡口新福伦达Nokton Classic 35mm f/1.4镜头更多信息",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/15/additional-information-on-the-new-voigtlander-nokton-classic-35mm-f-1-4-lens-for-nikon-z-mount.aspx/",
+      "publish_time": "2026-06-16T00:42:03+08:00",
+      "summary": "确善能宣布福伦达Nokton Classic 35mm f/1.4镜头将于2026年7月发布，成为第15款尼康Z卡口福伦达镜头。",
+      "recommendation": "确善能确认福伦达Nokton Classic 35mm f/1.4 Z卡口版2026年7月发布，成为第15款Z口福伦达镜头。提供具体发布时间和产品序列信息，适合关注尼康Z卡口副厂镜头生态的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Additional information on the new Voigtlander Nokton Classic 35mm f/1.4 lens for Nikon Z mount"
+    },
+    {
+      "id": "recvmErk04EI9z",
+      "title": "尼康过去10年最好的镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/15/the-best-lens-nikon-made-in-the-past-10-years/",
+      "publish_time": "2026-06-16T00:00:00+08:00",
+      "summary": "尼康2016年推出的一款镜头，成像极佳，从未拍出糟糕照片，虽缺乏个性但令人着迷，是过去10年最佳镜头之一。",
+      "recommendation": "解析尼康2016年一款成像极佳但个性不足的镜头，提供对光学素质与使用体验的深度观点，适合镜头收藏与评测爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best Lens Nikon Made in the Past 10 Years"
+    },
+    {
+      "id": "recvmEqWQz3Nds",
+      "title": "荣耀机器人手机在上海国际电影节上被使用",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_honor_robot_phone_was_used_at_theshanghai_international_film_festival-news-73274.php",
+      "publish_time": "2026-06-15T23:57:02+08:00",
+      "summary": "荣耀机器人手机在上海国际电影节被《Elle Men》用于拍摄评委电影级视频肖像，因其独特云台系统被选中，计划第三季度发布。",
+      "recommendation": "揭秘荣耀机器人手机云台系统在电影级拍摄中的实战表现，含Elle Men使用场景与第三季度发布节点，对关注手机影像创新的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Honor Robot Phone was used at the Shanghai International Film Festival"
+    },
+    {
+      "id": "recvmEr9Ghh6hv",
+      "title": "照片编辑软件最新折扣（DxO、Aftershoot、Luminar、ON1）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/15/the-latest-discounts-on-photo-editing-software-dxo-aftershoot-luminar-on1.aspx/",
+      "publish_time": "2026-06-15T23:47:04+08:00",
+      "summary": "DxO夏季促销八折优惠码SummerRumors2026（新用户，6月15日至7月10日），Aftershoot优惠码RUMORS享15%折扣",
+      "recommendation": "汇总DxO、Aftershoot等四款软件折扣码，含具体优惠幅度与有效期，适合计划升级照片编辑工具的影像爱好者快速比价。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The latest discounts on photo editing software (DxO, Aftershoot, Luminar, ON1)"
+    },
+    {
+      "id": "recvmEqFxkRVQP",
+      "title": "Insta360与DJI新法庭之争对Luna Ultra和Osmo Pocket 4P相机意味着什么",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/what-insta360-and-djis-new-court-battle-means-for-the-luna-ultra-and-the-osmo-pocket-4p-cameras",
+      "publish_time": "2026-06-15T23:11:57+08:00",
+      "summary": "大疆与Insta360再次对簿公堂，但这场专利战不影响消费者选择Luna Ultra或Osmo Pocket 4P相机，两者均保持现有功能与参数。",
+      "recommendation": "解析Insta360与DJI专利战对Luna Ultra和Osmo Pocket 4P的影响，提供行业竞争视角，助你理性看待产品选择。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What Insta360 and DJI's new court battle means for the Luna Ultra and the Osmo Pocket 4P cameras"
+    },
+    {
+      "id": "recvmEqHXCEb7h",
+      "title": "Lightroom 新增照片转视频功能，但这是 Adobe 首款在 Lightroom 内使用生成式积分的工具",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/lightroom-has-just-gained-the-ability-to-turn-photos-into-videos-but-its-the-first-adobe-made-tool-to-use-generative-credits-inside-lightroom",
+      "publish_time": "2026-06-15T23:07:59+08:00",
+      "summary": "Lightroom桌面版新增AI功能，可将照片转换为视频，但需消耗生成积分，这是Adobe首款在Lightroom内使用生成式积分的工具。",
+      "recommendation": "揭示Adobe首次将生成式积分引入Lightroom，对依赖AI修图的用户有直接成本影响，值得关注积分消耗规则。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Lightroom has just gained the ability to turn photos into videos – but it’s the first Adobe-made tool to use generative credits inside Lightroom"
+    },
+    {
+      "id": "recvmEqKtGV0nu",
+      "title": "七工匠即将推出尼康Z卡口首款自动对焦镜头，超轻量设计",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/7artisans-is-about-to-introduce-its-first-ever-autofocus-lenses-for-nikon-z-mirrorless-cameras-and-they-are-super-lightweight",
+      "publish_time": "2026-06-15T23:04:27+08:00",
+      "summary": "七工匠将于明天发布尼康Z卡口首款自动对焦镜头，包括25mm、35mm和50mm f/1.8 Lite定焦，超轻量设计，适用于APS-C用户。",
+      "recommendation": "七工匠首款尼康Z卡口自动对焦镜头发布，25/35/50mm f/1.8 Lite超轻量设计，为APS-C用户提供高性价比定焦选择，填补副厂自动头空白。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "7artisans is about to introduce its first-ever autofocus lenses for Nikon Z mirrorless cameras and they are super-lightweight"
+    },
+    {
+      "id": "recvmEqxKqIzLx",
+      "title": "Adobe为Lightroom和Photoshop中的AI功能增加更多用户控制",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/15/adobe-adds-more-user-control-to-ai-features-inside-lightroom-and-photoshop/",
+      "publish_time": "2026-06-15T23:00:52+08:00",
+      "summary": "Adobe为Lightroom和Photoshop的AI功能增加用户控制，帮助摄影师快速筛选照片，节省时间。",
+      "recommendation": "Adobe为Lightroom和Photoshop的AI功能增加用户控制，帮助摄影师更高效筛选照片，节省后期时间。常规资讯，可了解行业动态。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Adobe Adds More User Control to AI Features Inside Lightroom and Photoshop"
+    },
+    {
+      "id": "recvmEqei4HREP",
+      "title": "Adobe为Lightroom添加小而实用的升级，并为Photoshop带来设备端AI",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/9872416768/adobe-lightroom-photoshop-update-june-2026",
+      "publish_time": "2026-06-15T23:00:00+08:00",
+      "summary": "Adobe更新Lightroom和Photoshop，Lightroom辅助筛选功能普遍可用，可自动挑选对焦准确且曝光适当的图像，节省浏览时间。",
+      "recommendation": "Lightroom新增AI辅助筛选功能，可自动识别对焦准确与曝光适当的图像，节省浏览时间。文章聚焦设备端AI在Photoshop的应用，对追求效率的影像爱好者有实用价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Adobe adds small but useful upgrades to Lightroom, and on-device AI to Photoshop"
+    },
+    {
+      "id": "recvmEqMPZeGXR",
+      "title": "这张环保主义者与一群濒危鸟类翱翔天空的照片刚刚赢得科学摄影大赛",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-shot-of-conservationists-soaring-the-skies-with-a-flock-of-endangered-birds-just-won-a-science-photo-competition",
+      "publish_time": "2026-06-15T22:50:53+08:00",
+      "summary": "Baldur Hartmann拍摄的研究人员引导候鸟迁徙的照片，荣获《自然》杂志2026年“工作中的科学家”摄影大赛总冠军。",
+      "recommendation": "解析获奖作品背后的摄影技巧与生态保护视角，揭示候鸟迁徙引导的独家拍摄数据，对自然摄影爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This shot of conservationists soaring the skies with a flock of endangered birds just won a science photo competition"
+    },
+    {
+      "id": "recvmEqZdwRwWd",
+      "title": "Oppo Find X10 Pro主要规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_find_x10_pros_main_specs_leak-news-73273.php",
+      "publish_time": "2026-06-15T21:49:04+08:00",
+      "summary": "Oppo Find X10 Pro预计9月发布，搭载联发科天玑9600 SoC（2nm工艺），配备6.78英寸天马LTPO OLED屏幕（1.5K分辨率），后置2亿像素主摄（三星1/1.3英寸传感器）",
+      "recommendation": "2亿像素三星1/1.3英寸传感器规格曝光，天玑9600 SoC影像处理能力值得关注，为旗舰手机影像硬件提供新参考。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo Find X10 Pro's main specs leak"
+    },
+    {
+      "id": "recvmEreZGXlGs",
+      "title": "致刚刚向我提供新款索尼相机信息的线人……",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/message-to-the-source-who-just-sent-me-information-about-a-new-sony-camera/",
+      "publish_time": "2026-06-15T21:16:28+08:00",
+      "summary": "致线人：已收到信息，正在核实，请提示相机类型。请读者耐心等待。消息源自sonyalpharumors。",
+      "recommendation": "索尼新机传闻线索，来自可靠线人，为关注A7系列或APS-C机型更新的用户提供前瞻信息。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Message to the source who just sent me information about a new Sony camera…"
+    },
+    {
+      "id": "recvmEqPm2zW3L",
+      "title": "BOBLOV KJ23PRO 2K评测：一线工作者耐用持久之选",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/security-cameras/boblov-kj23pro-2k-review",
+      "publish_time": "2026-06-15T21:00:00+08:00",
+      "summary": "BOBLOV KJ23PRO 2K执法记录仪续航15小时，视频质量合理，可装挡风玻璃，适合一线工作者",
+      "recommendation": "评测聚焦执法记录仪续航与耐用性，提供15小时实测数据及车载安装场景，对户外工作者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "BOBLOV KJ23PRO 2K review – A rugged, long-lasting choice for frontline workers"
+    },
+    {
+      "id": "recvmErmtPRRrd",
+      "title": "皮卡丘成为最佳热靴盖，我必须全部收服",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/15/pikachu-hot-shoe-cover-camera-review/",
+      "publish_time": "2026-06-15T21:00:00+08:00",
+      "summary": "作者在寻找热靴盖时发现皮卡丘款式，虽非最爱宝可梦，但仍被吸引并决定购买。",
+      "recommendation": "热靴盖虽小，却折射摄影配件个性化趋势。本文以皮卡丘为例，探讨热靴盖的审美与实用价值，对追求器材个性的爱好者有参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Pikachu Makes For the Very Best Hot Shoe Cover, and I Had to Catch Them All"
+    },
     {
       "id": "recvmCioX2VVGd",
       "title": "福伦达为佳能RF和尼康Z无反相机发布刻意不完美的Nokton定焦镜头",
@@ -7327,485 +7812,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Camp Snap 2 wants to be your favorite screen-free camera – but there's a catch"
-    },
-    {
-      "id": "recvlvgdPpiGPr",
-      "title": "从暴风骤雨到阳光明媚：读者分享他们的天气照片",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/4699583142/from-vicious-storms-to-sunlit-vistas-readers-share-their-weather-photos",
-      "publish_time": "2026-06-03T21:55:00+08:00",
-      "summary": "读者分享从风暴到晴天的多样天气照片，展现摄影中天气事件的丰富色彩，而非仅灾难场景。",
-      "recommendation": "通过读者实拍案例，展示不同天气条件下手机/相机的曝光与色彩处理技巧，提供非灾难场景的拍摄思路与参数参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "From vicious storms to sunlit vistas: Readers share their weather photos"
-    },
-    {
-      "id": "recvlvg1f6gh3C",
-      "title": "UFL比赛中摄像师与球员相撞后流血",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/cameraman-left-bloodied-after-collision-with-player-during-ufl-game/",
-      "publish_time": "2026-06-03T21:53:19+08:00",
-      "summary": "UFL比赛中，一名摄像师被冲出边界的球员击中头部，导致流血受伤。",
-      "recommendation": "从摄像师受伤事件切入，揭示体育赛事中影像工作者的安全风险与设备防护需求，对关注运动摄影的爱好者有实际参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Cameraman Left Bloodied After Collision with Player During UFL Game"
-    },
-    {
-      "id": "recvlvguLq5lf6",
-      "title": "日本最新数据显示，相机镜头出货量创五年多来新高",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/camera-lens-shipments-are-the-highest-in-over-five-years-according-to-the-latest-numbers-from-japan",
-      "publish_time": "2026-06-03T21:38:40+08:00",
-      "summary": "CIPA最新数据显示相机镜头出货量创五年多新高，若趋势持续，2026年有望成为2019年来镜头销售最好的一年",
-      "recommendation": "CIPA最新出货量数据揭示镜头市场回暖趋势，对关注行业周期的影像爱好者有参考价值，但缺乏深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Camera lens shipments are the highest in over five years, according to the latest numbers from Japan"
-    },
-    {
-      "id": "recvlvg3nxw4hZ",
-      "title": "摄影师连续四年拍摄波特兰同一公园",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/photographer-has-been-shooting-the-same-park-in-portland-for-the-last-four-years/",
-      "publish_time": "2026-06-03T21:31:53+08:00",
-      "summary": "摄影师Aaron Wessling自2022年起连续四年拍摄波特兰塔博尔山公园，通过重摄记录同一地点的变化，展现时间对景观的影响。",
-      "recommendation": "通过四年重摄同一公园，揭示时间对景观的影像影响，为摄影爱好者提供长期项目创作思路与观察视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Has Been Shooting the Same Park in Portland for the Last Four Years"
-    },
-    {
-      "id": "recvlvg5te03ty",
-      "title": "Audeze MM-520 提升其最高端开放式耳机的低音响应",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/audezes-mm-520-improve-bass-response-of-its-highest-end-open-back-headphones/",
-      "publish_time": "2026-06-03T21:00:47+08:00",
-      "summary": "Audeze发布MM-520开放式耳机，增强低频响应，保持中频中立，专为录音室监听设计",
-      "recommendation": "耳机与影像无关，但录音室监听设备可辅助视频后期音频处理，低频增强特性对视频制作者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 4,
-      "language": "English",
-      "original_title": "Audeze’s MM-520 Improve Bass Response of Its Highest-End Open Back Headphones"
-    },
-    {
-      "id": "recvlvgN0qxdLf",
-      "title": "索尼下一款相机将采用NPFZ100电池，而非新型NP-SA100电池！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/next-sony-camera-to-be-announced-uses-the-sony-npfz100-and-not-the-new-np-sa100-battery/",
-      "publish_time": "2026-06-03T20:47:45+08:00",
-      "summary": "索尼新注册相机将使用NPFZ100电池而非新型NP-SA100电池，涉及FX后续机型及入门到中端型号。",
-      "recommendation": "电池兼容性决定升级成本，此文揭示索尼新机延续NPFZ100，对FX系列及中端用户选购有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Next Sony camera to be announced uses the Sony NPFZ100 and not the new NP-SA100 battery!"
-    },
-    {
-      "id": "recvlvgwJnIvig",
-      "title": "天文摄影师攀爬陡峭冰雪，揭示壮丽夜空“灯光下的大多数人永远看不到”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/astrophotographer-climbed-steep-snow-and-ice-to-reveal-a-spectacular-night-sky-most-people-beneath-those-lights-will-never-see",
-      "publish_time": "2026-06-03T20:30:00+08:00",
-      "summary": "天文摄影师攀爬陡峭冰雪，拍摄获奖银河图像，展示星系、高山与人类存在的罕见对齐，揭示壮丽夜空",
-      "recommendation": "天文摄影师极端环境拍摄技巧与银河构图解析，展示星系、高山与人类对齐的罕见视角，提供高海拔长曝光实战数据。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Astrophotographer climbed steep snow and ice to reveal a spectacular night sky \"most people beneath those lights will never see\""
-    },
-    {
-      "id": "recvlvg7luryQP",
-      "title": "Wendy's 赠送限量版佳能 PowerShot G7 X Mark III 相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/wendys-is-giving-away-limited-edition-canon-powershot-g7x-mark-iii-cameras/",
-      "publish_time": "2026-06-03T20:25:49+08:00",
-      "summary": "快餐连锁店温迪免费赠送限量版佳能PowerShot G7 X Mark III数码相机，红色设计灵感来自菜单。",
-      "recommendation": "跨界营销案例，展示佳能G7 X Mark III在快餐品牌中的特殊应用，提供限量版设计细节与赠送活动信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Wendy’s is Giving Away Limited Edition Canon PowerShot G7X Mark III Cameras"
-    },
-    {
-      "id": "recvlvgyKgPjCE",
-      "title": "蔡司推出全球首款内置马达和可更换外观的变形镜头，效果惊艳",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/zeiss-just-made-the-worlds-first-ever-anamorphic-lenses-with-built-in-motors-and-swappable-looks-and-they-look-awesome",
-      "publish_time": "2026-06-03T20:08:02+08:00",
-      "summary": "蔡司推出全球首款内置马达和可更换外观的变形镜头，效果惊艳，重新定义了电影镜头配方。",
-      "recommendation": "解析蔡司首款内置马达与可换外观变形镜头的技术突破，提供电影镜头新配方细节，对视频创作者有实用参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Zeiss just made the world's first ever anamorphic lenses with built-in motors and swappable looks and they look awesome"
-    },
-    {
-      "id": "recvlvgWAEP1zL",
-      "title": "Harlowe Hybrid Pocket Flash GN12 评测：多年来最具创新性的闪光灯",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/harlowe-hybrid-pocket-flash-gn12-review-the-most-innovative-flash-in-years/",
-      "publish_time": "2026-06-03T20:00:00+08:00",
-      "summary": "Harlowe Hybrid Pocket Flash GN12闪光灯专为街头摄影师设计，功率较弱但适合特定需求，是多年来最具创新性的产品。",
-      "recommendation": "评测聚焦街头摄影师痛点，GN12弱光闪光灯创新设计，提供实拍样张与功率实测数据，揭示小体积闪光灯在特定场景的实用价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Harlowe Hybrid Pocket Flash GN12 Review: The Most Innovative Flash in Years"
-    },
-    {
-      "id": "recvlvgYPD6Df9",
-      "title": "这可能是备受喜爱的佳能镜头的继任者",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/this-might-be-the-successor-to-a-beloved-canon-lens/",
-      "publish_time": "2026-06-03T20:00:00+08:00",
-      "summary": "佳能正在为年轻摄影师开发一款新的微距镜头，作为其备受喜爱的微距镜头的继任者，旨在提升光学性能并满足多样化拍摄需求。",
-      "recommendation": "解析佳能微距镜头继任者的光学升级方向，提供参数变化与拍摄场景适配分析，适合关注微距摄影的爱好者了解新品动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Might be the Successor to a Beloved Canon Lens"
-    },
-    {
-      "id": "recvlvg9ctL1z7",
-      "title": "摄影师清理海滩上遗留的数百片塑料玫瑰花瓣",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/photographer-cleans-up-hundreds-of-plastic-rose-petals-left-behind-on-beach/",
-      "publish_time": "2026-06-03T19:58:23+08:00",
-      "summary": "摄影师发现海滩被数百片塑料玫瑰花瓣覆盖，主动清理了他人遗留的垃圾，强调环保责任。",
-      "recommendation": "从环保视角切入摄影师的行动力，展示影像创作者的社会责任。无独家数据，但为摄影爱好者提供纪实摄影与公益结合的思考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Photographer Cleans Up Hundreds of Plastic Rose Petals Left Behind on Beach"
-    },
-    {
-      "id": "recvltO4NPxI1o",
-      "title": "唯卓仕这一举动能否在与尼康的诉讼中获胜？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/could-this-viltrox-move-win-the-lawsuit-with-nikon/",
-      "publish_time": "2026-06-03T19:15:29+08:00",
-      "summary": "唯卓仕在尼康诉讼中申请新专利，其镜头以出色焦段和与尼康相机良好配合著称，此举可能影响诉讼结果",
-      "recommendation": "解析唯卓仕新专利对尼康诉讼的潜在影响，提供镜头焦段与相机适配的独家技术细节，适合关注第三方镜头法律动态的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Could This Viltrox Move Win the Lawsuit with Nikon?"
-    },
-    {
-      "id": "recvlvgB1J5iqj",
-      "title": "APS-C相机可能才是你的真正所需——全画幅拥趸该醒醒了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/aps-c-cameras-might-be-all-you-really-need-and-full-frame-snobs-need-to-get-over-it",
-      "publish_time": "2026-06-03T19:13:56+08:00",
-      "summary": "APS-C相机凭借轻便、高性价比和足够优秀的画质，对多数用户而言比全画幅更实用，打破全画幅迷信。",
-      "recommendation": "打破全画幅迷信，从轻便、性价比和画质角度论证APS-C的实用性，提供传感器尺寸与镜头系统数据对比，适合理性选机的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "APS-C cameras might be all you really need – and full-frame snobs need to get over it"
-    },
-    {
-      "id": "recvltNOwzkaEw",
-      "title": "8岁男孩用智能手机拍摄，赢得世界顶级美食摄影大赛头奖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/8-year-old-wins-top-prize-in-worlds-leading-food-photography-competition-with-smartphone-shot",
-      "publish_time": "2026-06-03T19:04:50+08:00",
-      "summary": "8岁男孩用智能手机拍摄蔬菜照片，赢得世界顶级美食摄影大赛头奖，他从未品尝过这些蔬菜。",
-      "recommendation": "8岁男孩用手机拍蔬菜获美食摄影大奖，证明手机影像潜力与创意无关设备。案例独特，启发用户突破器材限制。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "8-year-old wins top prize in world's leading food photography competition with smartphone shot"
-    },
-    {
-      "id": "recvlvgFJtVgE0",
-      "title": "Lava Bold N2 5G登场：6.75英寸屏幕+6000mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/lava_bold_n2_5g_is_here_with_a_675inch_screen_and_a_6000mah_battery-news-73107.php",
-      "publish_time": "2026-06-03T19:00:03+08:00",
-      "summary": "Lava Bold N2 5G印度发布，6.75英寸120Hz屏，6000mAh电池，紫光展锐T8200芯片，HD+分辨率",
-      "recommendation": "本文聚焦Lava Bold N2 5G的屏幕与续航，未涉及影像规格，对影像爱好者价值有限。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Lava Bold N2 5G is here with a 6.75-inch screen and a 6,000mAh battery"
-    },
-    {
-      "id": "recvltNQNE0CIC",
-      "title": "Peak Design旅行背包二合一评测：这款不寻常的相机背包解决了一个关键旅行问题",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/peak-design-travel-backpack-2-in-1-review",
-      "publish_time": "2026-06-03T18:56:27+08:00",
-      "summary": "Peak Design旅行背包采用双包设计，为摄影师提供舒适多功能的携带解决方案，解决关键旅行问题。",
-      "recommendation": "双包设计解决摄影师旅行痛点，提供舒适多功能携带方案，独特视角剖析背包实用性。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Peak Design Travel Backpack 2-in-1 review: this unusual camera backpack solves a key travel problem"
-    },
-    {
-      "id": "recvltNM5ktm1x",
-      "title": "导演马丁·斯科塞斯加入AI图像初创公司Black Forest Labs",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/director-martin-scorsese-joins-ai-image-startup-black-forest-labs/",
-      "publish_time": "2026-06-03T18:49:45+08:00",
-      "summary": "导演马丁·斯科塞斯加入AI图像初创公司Black Forest Labs担任顾问，引发电影界震惊。",
-      "recommendation": "马丁·斯科塞斯加入AI图像公司，揭示顶级导演对计算摄影技术的认可，为影像爱好者提供跨界视角。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Director Martin Scorsese Joins AI Image Startup Black Forest Labs"
-    },
-    {
-      "id": "recvltNT32WVBN",
-      "title": "佳能EOS R6 V vs R6 Mark III：哪款R6相机最适合摄影师、创作者和混合拍摄者？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canon-eos-r6-v-vs-r6-mark-iii",
-      "publish_time": "2026-06-03T18:38:28+08:00",
-      "summary": "佳能EOS R6 V与R6 Mark III对比评测，解析两者在视频规格、对焦性能及连拍速度上的差异，帮助摄影师和创作者根据需求选择最适合的R6机型。",
-      "recommendation": "对比R6 V与Mark III在视频规格、对焦和连拍上的差异，提供具体参数解析，帮助摄影师按需选择机型。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon EOS R6 V vs R6 Mark III: Which R6 camera is best for photographers, creators and hybrid shooters?"
-    },
-    {
-      "id": "recvltNVd2KoI7",
-      "title": "三星是否会像诺基亚和HTC一样走向消亡？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/is-samsung-in-danger-of-dying-like-nokia-and-htc",
-      "publish_time": "2026-06-03T18:28:47+08:00",
-      "summary": "三星旗舰手机拍照创新不足，导致其在中国品牌竞争中处于劣势，面临类似诺基亚和HTC的衰落风险。",
-      "recommendation": "文章从影像创新不足切入，对比诺基亚HTC衰落路径，为关注手机影像趋势的用户提供行业竞争分析，含三星旗舰拍照短板的具体案例。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is Samsung in danger of dying like Nokia and HTC?"
-    },
-    {
-      "id": "recvltO6Yu7bak",
-      "title": "我用过的最结实的皮革相机背带",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/the-toughest-leather-camera-strap-ive-ever-used/",
-      "publish_time": "2026-06-03T18:00:00+08:00",
-      "summary": "作者年近40，渴望耐用产品，朋友赠送其父亲的尼康F2相机，搭配Bowman Leather Vantage背带，强调产品的持久价值。",
-      "recommendation": "从尼康F2与Bowman Leather背带的搭配切入，探讨相机配件的持久价值，对追求耐用器材的爱好者有参考意义。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Toughest Leather Camera Strap I’ve Ever Used"
-    },
-    {
-      "id": "recvltO2CFnZ1m",
-      "title": "Manny Ortiz、David Zhou、Lensvid、Fabian Fopp 对索尼新机 A7rVI 的评测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-a7rvi-reviews-from-manny-ortiz-david-zhou-lensvid-fabian-fopp/",
-      "publish_time": "2026-06-03T17:59:24+08:00",
-      "summary": "索尼A7rVI评测由Manny Ortiz等专家完成，相机在BHphoto等平台有售，配套100-400mm GM镜头、电池手柄及NP-SA100电池同步发售。",
-      "recommendation": "四位摄影师多视角评测A7rVI，含实拍样张与专业观点，提供传感器性能、对焦系统等关键数据，适合关注高像素全画幅机型的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New Sony A7rVI reviews from Manny Ortiz, David Zhou, Lensvid, Fabian Fopp"
-    },
-    {
-      "id": "recvltNXUZQcgB",
-      "title": "OM System M.Zuiko 150-400mm f/4.5 TC1.25X IS Pro评测：这真的是MFT的“圣杯”镜头吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/om-system-m-zuiko-150-400mm-f-4-5-tc1-25x-is-pro-review",
-      "publish_time": "2026-06-03T17:44:26+08:00",
-      "summary": "OM System M.Zuiko 150-400mm f/4.5 TC1.25X IS Pro是MFT系统最大最贵的镜头，但比全画幅竞品更便宜轻便，内置1.25x增距镜，等效300-1000mm，是",
-      "recommendation": "深度评测MFT旗舰长焦，对比全画幅竞品解析轻便与焦段优势，内置增距镜实测数据及防抖性能是核心看点。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "OM System M.Zuiko 150-400mm f/4.5 TC1.25X IS Pro review: Is this really the \"Holy Grail\" lens for MFT?"
-    },
-    {
-      "id": "recvltO9ls7ZcT",
-      "title": "真正摄影师知道但不愿透露的技巧",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/how-to-light-a-glossy-print-giving-your-photographs-the-respect-they-deserve-copy/",
-      "publish_time": "2026-06-03T15:00:00+08:00",
-      "summary": "文章揭示摄影师不愿透露的技巧：在Costco等店打印照片使用热升华工艺，使照片光亮。建议了解如何优化光面打印效果。",
-      "recommendation": "揭秘热升华打印工艺在Costco等店的应用，提供优化光面打印的实用技巧，对追求照片输出质量的影像爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Trick that Real Photographers Know, But Don’t Talk About"
-    },
-    {
-      "id": "recvlvgIqAeFqV",
-      "title": "三星Galaxy Z Fold8 Ultra被曝在保持与Fold7相同重量的同时配备更大电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/galaxy_z_fold8_ultra_said_to_pack_a_bigger_battery_at_the_same_weight_as_fold7-news-73103.php",
-      "publish_time": "2026-06-03T14:55:02+08:00",
-      "summary": "三星Galaxy Z Fold8 Ultra被曝在保持215克重量的同时配备5000mAh电池，较Fold7更大。",
-      "recommendation": "文章披露Fold8 Ultra在215克机身内塞入5000mAh电池，对影像创作续航有参考价值，但未涉及具体影像参数升级，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 Ultra said to pack a bigger battery at the same weight as Fold7"
-    },
-    {
-      "id": "recvlvgKQyTcfe",
-      "title": "Redmi K100 Pro 规格泄露，包含 iPhone 灵感",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmi_k100_pro_specs_leak_iphone_inspiration_included-news-73101.php",
-      "publish_time": "2026-06-03T13:55:02+08:00",
-      "summary": "Redmi K100 Pro泄露：QHD+屏幕、骁龙8 Elite Gen 5、2亿像素主摄、5000万潜望长焦及对称双扬声器",
-      "recommendation": "曝光Redmi K100 Pro影像规格：2亿像素主摄配5000万潜望长焦，QHD+屏幕与骁龙8 Elite Gen 5加持，提供旗舰级硬件配置参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Redmi K100 Pro specs leak, iPhone inspiration included"
-    },
-    {
-      "id": "recvltO0fDU5Jq",
-      "title": "闪迪存储卡限时优惠",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/save-now-on-sandisk-memory-cards/",
-      "publish_time": "2026-06-03T13:39:14+08:00",
-      "summary": "B&H Photo 对 SanDisk 存储卡全线促销，涵盖 SD、microSD 等类型，最高降幅达 705 美元，包括 2TB UHS-II V90 旗舰卡。",
-      "recommendation": "闪存卡促销资讯，涵盖2TB UHS-II V90旗舰卡等全线产品，最高降幅705美元，对高码率视频拍摄者具成本参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Save Now on SanDisk Memory Cards"
-    },
-    {
-      "id": "recvlslrY9rA7V",
-      "title": "终极人像镜头的必然回归",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/the-inevitable-return-of-the-ultimate-portrait-lens/",
-      "publish_time": "2026-06-03T12:00:00+08:00",
-      "summary": "文章认为长焦镜头比大光圈更特别，指出105mm f1.4镜头能拍出中画幅效果，强调其回归价值。",
-      "recommendation": "深度解析105mm f1.4镜头如何通过光学设计模拟中画幅效果，为追求极致人像的爱好者提供长焦与大光圈之外的独特技术视角。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Inevitable Return of the Ultimate Portrait Lens"
-    },
-    {
-      "id": "recvltObu7ZBXK",
-      "title": "摄影师工作流程中缺失的关键环节",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/teaching-meditation-photographers-copy-2/",
-      "publish_time": "2026-06-03T12:00:00+08:00",
-      "summary": "Phoblographer为摄影师开设工作坊，以独特方式在纽约秘密地点提供，价格实惠，旨在超越社交媒体成长建议。",
-      "recommendation": "跳出社交媒体套路，揭秘摄影师工作坊的实战价值，提供纽约秘密地点的独特学习视角，对提升拍摄思维有启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographers are Missing This Key Thing From Their Workflow"
-    },
-    {
-      "id": "recvlslupCMY5S",
-      "title": "更新：美国尼康相机与镜头全折扣清单",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/02/update-here-is-the-full-list-of-all-discounted-nikon-cameras-and-lenses-in-the-us.aspx/",
-      "publish_time": "2026-06-03T07:55:35+08:00",
-      "summary": "更新美国尼康相机与镜头折扣清单，包括D7500、D780等型号优惠，价格从300至600美元不等。",
-      "recommendation": "汇总美国尼康相机与镜头折扣清单，涵盖D7500、D780等型号优惠幅度，为影像爱好者提供价格参考，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Update: here is the full list of all discounted Nikon cameras and lenses in the US"
-    },
-    {
-      "id": "recvlslnvfbMcs",
-      "title": "iPhone Ultra 将采用液态金属铰链",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_ultra_said_to_sport_a_liquid_metal_hinge-news-73096.php",
-      "publish_time": "2026-06-03T07:21:01+08:00",
-      "summary": "苹果可折叠手机iPhone Ultra将采用液态金属铰链，原型机已送测运营商，开发进展迅速。",
-      "recommendation": "液态金属铰链或提升折叠屏影像稳定性，但未涉及具体影像参数，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iPhone Ultra to sport a liquid metal hinge"
     }
   ]
 }
