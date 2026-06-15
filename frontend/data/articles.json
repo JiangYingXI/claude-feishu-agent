@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-15T04:12:17.282578+08:00",
+    "updated_at": "2026-06-15T13:45:42.916133+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 24
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 114
+      "count": 116
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,124 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 386
+      "count": 384
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 186
+      "count": 188
     }
   ],
   "articles": [
+    {
+      "id": "recvmAygdzxrih",
+      "title": "2026年佳能G1x Mark III还值得买吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/15/is-the-canon-g1x-mk-iii-still-a-good-camera-in-2026/",
+      "publish_time": "2026-06-15T12:00:00+08:00",
+      "summary": "作者闲置一年的佳能G1x Mark III重新使用，认为其作为一体式相机表现优秀，但批评佳能抛弃客户，验证了之前的判断。",
+      "recommendation": "从用户长期使用视角，揭示G1x Mark III作为一体机在2026年的实际价值，并直指佳能售后策略问题，对关注便携相机与品牌信任度的读者有参考意义。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the Canon G1x Mk III Still a Good Camera in 2026?"
+    },
+    {
+      "id": "recvmAy0Gh339H",
+      "title": "Baader AstroSolar 太阳膜与滤镜评测：追求极致锐度的日食摄影师之选",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/baader-astrosolar-film-and-filters-review",
+      "publish_time": "2026-06-15T11:20:00+08:00",
+      "summary": "Baader AstroSolar太阳膜以高锐度、对比度和中性白色还原著称，是日食摄影师首选，但脆弱且昂贵。",
+      "recommendation": "聚焦日食摄影专用太阳膜，提供锐度、对比度与色彩还原的实测数据，揭示其脆弱性与高成本间的取舍，对追求极致画质的太阳拍摄者有明确参考价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Baader AstroSolar film and filters review: the gold standard for eclipse photographers who demand maximum sharpness"
+    },
+    {
+      "id": "recvmAydvc50ZM",
+      "title": "尼康新闻周刊第890期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/14/weekly-nikon-news-flash-890.aspx/",
+      "publish_time": "2026-06-15T08:55:50+08:00",
+      "summary": "尼康Z卡口7artisans AF 135mm f/1.8镜头固件更新v1.21提升对焦性能，翻新D800售价592美元，Peak Design折扣高达50%，尼康美国价格6月23日上涨。",
+      "recommendation": "涵盖副厂镜头固件更新、翻新机身价格及品牌调价动态，为Z卡口用户提供对焦性能提升数据与二手选购参考，行业资讯较全面。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #890"
+    },
+    {
+      "id": "recvmAy3hNqH9t",
+      "title": "这张获奖美食照片让我目不转睛、口水直流",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-award-winning-food-photo-has-my-eyes-peeled-and-my-mouth-watering",
+      "publish_time": "2026-06-15T08:10:00+08:00",
+      "summary": "韩国市场饺子摊照片获《国家地理旅行者》摄影大赛美食类奖，令人垂涎",
+      "recommendation": "解析获奖美食照片的构图、光线与色彩运用，提供可复用的街头美食拍摄技巧，对提升手机摄影实战能力有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This award-winning food photo has my eyes peeled and my mouth watering"
+    },
+    {
+      "id": "recvmAy5ACuXX9",
+      "title": "想要佳能顶级单反？抢购卓越的5D Mark IV，立省数百美元！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/want-canons-top-dslr-save-hundreds-on-the-brilliant-5d-mark-iv",
+      "publish_time": "2026-06-15T05:20:00+08:00",
+      "summary": "佳能5D Mark IV全画幅单反相机在美国售价1999美元，英国1399英镑，附赠配件，立省数百美元。",
+      "recommendation": "5D Mark IV降价资讯，含英美两地具体售价与赠品信息，适合关注全画幅单反性价比的消费者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Want Canon's top DSLR? Save HUNDREDS on the brilliant 5D Mark IV!"
+    },
+    {
+      "id": "recvmAy82RO4Fq",
+      "title": "探秘新旗舰摄影摄像活动中的标志性‘红屋’",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/trade-shows/inside-the-iconic-red-room-at-new-flagship-photography-and-videography-event",
+      "publish_time": "2026-06-15T05:20:00+08:00",
+      "summary": "70岁英国相机零售商在西南部举办大型内容创作者活动，庆祝里程碑之年，探秘新旗舰摄影摄像活动中的标志性‘红屋’。",
+      "recommendation": "探访英国老牌相机零售商70周年活动，揭秘‘红屋’背后的创作者生态，提供行业活动一手观察与品牌文化深度视角。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Inside the iconic 'Red Room' at new flagship photography and videography event"
+    },
+    {
+      "id": "recvmAyatZGSfw",
+      "title": "美科85mm f/1.4 FE镜头现已开放预购",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-meike-85mm-f-1-4-fe-lens-available-for-preorder/",
+      "publish_time": "2026-06-15T04:16:53+08:00",
+      "summary": "美科85mm f/1.4 FE第二代镜头开放预购，提供黑、白及混色版本，首发于sonyalpharumors。",
+      "recommendation": "美科85mm f/1.4 FE二代开放预购，提供黑、白及混色版本，适合追求高性价比人像镜头的用户。首发信息来自sonyalpharumors，可了解新配色与市场动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Meike 85mm f/1.4 FE lens available for preorder"
+    },
     {
       "id": "recvmydMyhI6D8",
       "title": "研究人员首次拍摄到世界“最丑鲨鱼”在其自然栖息地的镜头",
@@ -7695,115 +7804,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "This new Leica adapter turns your smartphone into a powerful digiscoping camera"
-    },
-    {
-      "id": "recvlpjENa1PVb",
-      "title": "2026年最热门无反相机易主：新型6670万像素相机击败索尼A7 V",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/2026s-trendiest-mirrorless-camera-has-been-dethroned-as-new-66-7mp-shooter-knocks-out-sony-a7-v",
-      "publish_time": "2026-06-02T21:55:36+08:00",
-      "summary": "2026年5月，索尼A7R VI以6670万像素成为美国最热销无反相机，击败索尼A7 V，佳能EOS R6 V垫底",
-      "recommendation": "文章提供2026年5月美国市场热销数据，揭示6670万像素A7R VI击败A7 V的行业趋势，对关注高端无反相机竞争格局的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "2026’s trendiest mirrorless camera has been dethroned as new 66.7MP shooter knocks out Sony A7 V"
-    },
-    {
-      "id": "recvlpjH4avsKd",
-      "title": "2026年最热门无反相机易主：新型6670万像素相机击败索尼A7 V",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/2026s-trendiest-mirrorless-camera-has-been-dethroned-as-new-66-7mp-shooter-knocks-out-the-sony-a7-v",
-      "publish_time": "2026-06-02T21:53:51+08:00",
-      "summary": "2026年5月，索尼A7R VI以6670万像素成为美国最热门无反相机，击败索尼A7 V，佳能EOS R6 V垫底。",
-      "recommendation": "文章揭示2026年5月索尼A7R VI以6670万像素登顶美国热门相机榜，提供具体像素数据和竞品排名，适合关注高端全画幅机型动态的影像爱好者。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "2026’s trendiest mirrorless camera has been dethroned as new 66.7MP shooter knocks out the Sony A7 V"
-    },
-    {
-      "id": "recvlpjo93SiHN",
-      "title": "中国乐凯新彩色C200胶片已抵达美国，效果出色",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/02/china-luckys-new-color-c200-film-has-arrived-in-the-us-and-looks-great/",
-      "publish_time": "2026-06-02T21:42:18+08:00",
-      "summary": "中国乐凯新彩色C200胶片在美国上市，效果出色，备受期待。",
-      "recommendation": "乐凯C200胶片重返美国市场，提供实拍样张与用户反馈，对胶片爱好者了解国产胶卷海外表现有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "China Lucky’s New Color C200 Film Has Arrived in the US and Looks Great"
-    },
-    {
-      "id": "recvlpjWbEFeav",
-      "title": "谷歌Pixel Watch 5现身认证列表",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_watch_5_pops_up_in_certification_listing-news-73087.php",
-      "publish_time": "2026-06-02T21:33:02+08:00",
-      "summary": "谷歌Pixel Watch 5获印度BIS认证，四个型号对应41mm和45mm尺寸及Wi-Fi和蜂窝版，此前45mm版本已泄露。",
-      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像规格，但Pixel Watch 5的型号信息对关注谷歌生态的影像用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google Pixel Watch 5 pops up in certification listing"
-    },
-    {
-      "id": "recvlpjq8LTqbW",
-      "title": "中国私募股权公司华平投资成为收购徕卡相机股份的领先竞标者",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/02/chinese-private-equity-firm-hsg-emerges-as-leading-bidder-to-buy-stake-in-leica-camera/",
-      "publish_time": "2026-06-02T21:20:36+08:00",
-      "summary": "中国私募股权公司华平投资成为收购徕卡相机股份的领先竞标者，此前所有者考虑出售控股权，谈判已升温。",
-      "recommendation": "华平投资竞购徕卡控股权，揭示消费影像品牌资本动向，对关注徕卡战略走向的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Chinese Private Equity Firm HSG Emerges as Leading Bidder to Buy Stake in Leica Camera"
-    },
-    {
-      "id": "recvlpkcwEO3bn",
-      "title": "唯卓仕在中国申请涉及尼康Z卡口的专利",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/02/viltrox-filed-a-patent-in-china-that-involves-the-nikon-z-mount.aspx/",
-      "publish_time": "2026-06-02T21:20:33+08:00",
-      "summary": "唯卓仕在中国申请涉及尼康Z卡口的外观设计专利，保护卡口环装饰性设计，非机械或电子功能。",
-      "recommendation": "解析唯卓仕尼康Z卡口外观专利，揭示副厂镜头设计策略，对关注第三方镜头兼容性的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox filed a patent in China that involves the Nikon Z-mount"
-    },
-    {
-      "id": "recvlpjwnPDMoU",
-      "title": "佳能何时停止为你的设备提供官方维修服务？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/when-will-canon-end-official-repair-service-for-your-gear/",
-      "publish_time": "2026-06-02T21:16:47+08:00",
-      "summary": "佳能更新官方维修服务终止时间列表，提醒用户EF卡口设备虽仍出色但维修服务有限，对二手用户有价值",
-      "recommendation": "佳能官方维修终止时间列表，对EF卡口二手用户有实际参考价值，可提前规划设备维护周期。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "When Will Canon End Official Repair Service for Your Gear?"
     }
   ]
 }
