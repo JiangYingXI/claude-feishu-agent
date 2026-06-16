@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-16T05:43:23.654317+08:00",
+    "updated_at": "2026-06-16T14:17:40.287224+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 24
     },
     {
       "key": "镜头与光学",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 16
+      "count": 15
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,107 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 390
+      "count": 389
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 185
+      "count": 184
     }
   ],
   "articles": [
+    {
+      "id": "recvmGwBnxBu06",
+      "title": "vivo正式确定X Fold6发布日期并开启预约",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_officially_sets_x_fold6_launch_date_and_opens_reservations-news-73286.php",
+      "publish_time": "2026-06-16T13:40:02+08:00",
+      "summary": "vivo宣布X Fold6将于6月26日在中国发布并开启预购，搭载联发科天玑9500处理器。",
+      "recommendation": "文章提供vivo X Fold6发布日期与天玑9500处理器信息，对关注折叠屏手机影像性能的用户有参考价值，但缺乏具体影像规格数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo officially sets X Fold6 launch date and opens reservations"
+    },
+    {
+      "id": "recvmGwEpZJ6EH",
+      "title": "大疆Osmo Pocket 4P正式发布，搭载双摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/dji_osmo_pocket_4p_goes_official_with_dual_cameras-news-73285.php",
+      "publish_time": "2026-06-16T12:45:02+08:00",
+      "summary": "大疆发布Osmo Pocket 4P双摄像头口袋云台相机，标准版售价3799元，与Insta360 Luna Ultra竞争，双方存在专利纠纷",
+      "recommendation": "双摄口袋云台首现，3799元定价直面Insta360竞争，专利纠纷细节值得关注，为云台相机市场带来新变量。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DJI Osmo Pocket 4P goes official with dual cameras"
+    },
+    {
+      "id": "recvmGwPo05vAT",
+      "title": "胶片摄影中最大的骗局",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/16/the-biggest-scam-in-film-photography/",
+      "publish_time": "2026-06-16T12:00:00+08:00",
+      "summary": "作者通过保存16年来的即时成像照片，发现每张照片都能唤起回忆，但数码照片同样能做到，质疑胶片摄影的独特价值。",
+      "recommendation": "以16年即时成像照片为样本，质疑胶片摄影的独特价值，提供数据对比与观点碰撞，适合反思摄影本质的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Biggest Scam in Film Photography"
+    },
+    {
+      "id": "recvmGwHakTeTN",
+      "title": "vivo T5 Lite 规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_t5_lite_specs_leak-news-73284.php",
+      "publish_time": "2026-06-16T11:01:02+08:00",
+      "summary": "vivo T5 Lite 规格泄露：6.74英寸120Hz LCD屏，5000万主摄，6500mAh电池+44W快充，天玑6300处理器，支持5G，即将登陆印度。",
+      "recommendation": "常规资讯，可了解行业动态。文中5000万主摄及天玑6300影像处理能力是入门级参考，但缺乏样张或算法细节。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo T5 Lite specs leak"
+    },
+    {
+      "id": "recvmGwJOVIOBa",
+      "title": "Tecno Spark 50 Pro 发布：搭载 Helio G100 Ultimate、支持 60W 快充和 IP69 防护等级",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/tecno_spark_50_pro_arrives_with_helio_g100_ultimate_60w_charging_and_ip69_rating_-news-73269.php",
+      "publish_time": "2026-06-16T09:00:02+08:00",
+      "summary": "Tecno Spark 50 Pro发布，搭载Helio G100 Ultimate，支持60W快充和IP69防护，配备6.78英寸120Hz屏幕及5000万像素主摄。",
+      "recommendation": "文章聚焦Tecno Spark 50 Pro的5000万像素主摄与Helio G100 Ultimate芯片，对关注入门级手机影像性能的读者有参考价值，但缺乏独家数据或深度评测。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tecno Spark 50 Pro arrives with Helio G100 Ultimate, 60W charging and IP69 rating"
+    },
+    {
+      "id": "recvmGwMKQZTD0",
+      "title": "新品：SmallRig 微HDMI转HDMI A型适配器，适用于尼康ZR相机",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/15/new-smallrig-micro-hdmi-to-hdmi-type-a-adapter-for-nikon-zr-cameras.aspx/",
+      "publish_time": "2026-06-16T08:11:34+08:00",
+      "summary": "SmallRig推出Micro-HDMI转HDMI A型适配器（5907），专为尼康ZR相机设计，需搭配兔笼使用，将脆弱端口转为标准全尺寸HDMI母口。",
+      "recommendation": "针对尼康ZR相机脆弱HDMI端口的实用配件，提供将Micro-HDMI转为标准全尺寸母口的解决方案，需搭配兔笼使用。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New: SmallRig Micro-HDMI to HDMI Type A adapter for Nikon ZR cameras"
+    },
     {
       "id": "recvmEqgQ77l4g",
       "title": "2026年索尼未来电影制作人奖的5位迷人获奖者",
@@ -7716,102 +7808,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Canon EOS vlogging camera gets MASSIVE price drop at B&H"
-    },
-    {
-      "id": "recvlvgRUDGOin",
-      "title": "尼康新款NIKKOR Z 70-200mm f/2.8 VR S II镜头日本下一批出货预计9月（美国有现货）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/03/the-next-shipment-of-the-new-nikon-nikkor-z-70-200mm-f-2-8-vr-s-ii-lens-in-japan-is-expected-in-september.aspx/",
-      "publish_time": "2026-06-03T22:43:40+08:00",
-      "summary": "尼康新款NIKKOR Z 70-200mm f/2.8 VR S II镜头在日本下次发货预计9月，美国亚马逊有现货。",
-      "recommendation": "提供尼康Z 70-200mm f/2.8 VR S II镜头的全球供货动态，含日本与美国现货差异，适合关注高端长焦镜头现货情况的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The next shipment of the new Nikon NIKKOR Z 70-200mm f/2.8 VR S II lens in Japan is expected in September (in stock in the US)"
-    },
-    {
-      "id": "recvlvgUe6U4D1",
-      "title": "为什么找到一款好用的迷你闪光灯这么难？49.9美元的Zeniko RF12 M或许给出了答案",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/03/why-is-it-so-hard-to-find-a-mini-flash-that-doesnt-suck-the-49-9-zeniko-rf12-m-might-have-the-answer/",
-      "publish_time": "2026-06-03T22:28:26+08:00",
-      "summary": "机顶闪光灯市场缺乏完美选择：专业级笨重，复古款缺乏灵活性。Zeniko RF12 M以49.9美元提供平衡方案，解决直射光问题。",
-      "recommendation": "剖析机顶闪光灯市场痛点，以49.9美元Zeniko RF12 M为例，提供直射光解决方案的平衡思路，适合寻找便携与性能平衡的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Why Is It So Hard to Find a Mini Flash That Doesn’t Suck? The $49.9 Zeniko RF12 M Might Have the Answer"
-    },
-    {
-      "id": "recvlvgsIsfNN2",
-      "title": "某大型电影节即将首映首部完全由AI生成的长片，灵感源自真实事件。这可能成为电影制作的重大转折",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/a-major-film-festival-will-soon-debut-the-first-fully-ai-generated-feature-inspired-by-real-events-this-could-be-a-major-shift-for-filmmaking",
-      "publish_time": "2026-06-03T22:27:20+08:00",
-      "summary": "翠贝卡电影节将首映首部完全由AI生成的长片，灵感源自真实事件，可能成为电影制作转折点，引发未来无需演员或布景的争议。",
-      "recommendation": "探讨AI生成长片对影像创作的影响，提供电影节首映案例，分析计算摄影与AI影像的边界，适合关注技术趋势的爱好者。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A major film festival will soon debut the first fully AI-generated feature,  inspired by real events. This could be a major shift for filmmaking"
-    },
-    {
-      "id": "recvlvfZcSRNFu",
-      "title": "慢动作视频捕捉SpaceX星舰巨型火箭产生的冲击波",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/slow-mo-video-captures-shockwaves-from-the-spacex-starship-megarocket/",
-      "publish_time": "2026-06-03T22:24:50+08:00",
-      "summary": "摄影师慢动作捕捉SpaceX星舰试飞时产生的冲击波扩散与烟雾升腾画面",
-      "recommendation": "慢动作技术揭示火箭冲击波扩散细节，对高速摄影爱好者有直接参考价值。文中含冲击波速度估算与烟雾形态分析，属罕见影像数据。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Slow-Mo Video Captures Shockwaves From the SpaceX Starship Megarocket"
-    },
-    {
-      "id": "recvlvgPGWDnhW",
-      "title": "DGO魔法：索尼A7rVI低ISO动态范围媲美富士GFX100II，但ISO 500以上中画幅仍占优",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/dgo-magic-sony-a7rvi-matches-fujifilm-gfx100ii-low-iso-dynamic-range-but-medium-format-still-rules-above-iso-500/",
-      "publish_time": "2026-06-03T22:13:24+08:00",
-      "summary": "索尼A7rVI采用DGO技术，低ISO动态范围媲美富士GFX100II，但ISO 500以上中画幅仍占优，EDR为14.6，PDR为12.55。",
-      "recommendation": "文章通过DGO技术对比，揭示索尼A7rVI低ISO动态范围接近中画幅，但高ISO仍存差距，提供EDR 14.6与PDR 12.55独家数据，对全画幅与中画幅选择有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DGO Magic: Sony A7rVI Matches Fujifilm GFX100II Low ISO Dynamic Range, But Medium Format Still Rules Above ISO 500"
-    },
-    {
-      "id": "recvlvgbC4EA6v",
-      "title": "Camp Snap 2 想成为你最喜欢的无屏幕相机——但有个问题",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/the-camp-snap-2-wants-to-be-your-favorite-screen-free-camera",
-      "publish_time": "2026-06-03T22:00:00+08:00",
-      "summary": "Camp Snap 2 基于初代无屏幕相机，采用更纤薄设计，灵感来自经典旁轴相机，吸引追求简约的成年人，但存在一定问题。",
-      "recommendation": "解析无屏幕相机Camp Snap 2的纤薄旁轴设计，探讨其简约理念与实用性的矛盾，为追求纯粹摄影体验的爱好者提供独特产品视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Camp Snap 2 wants to be your favorite screen-free camera – but there's a catch"
     }
   ]
 }
