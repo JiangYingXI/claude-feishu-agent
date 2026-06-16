@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-16T14:17:40.287224+08:00",
+    "updated_at": "2026-06-16T19:50:44.894691+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 21
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 116
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,279 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 36
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 389
+      "count": 382
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 184
+      "count": 192
     }
   ],
   "articles": [
+    {
+      "id": "recvmHS2qLl6OK",
+      "title": "“近乎神话”的亚马逊幽灵犬被红外相机捕捉到",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/almost-mythical-amazonian-ghost-dog-captured-on-trail-camera/",
+      "publish_time": "2026-06-16T19:41:45+08:00",
+      "summary": "研究人员在亚马逊雨林深处用红外相机捕捉到被称为“幽灵狗”的稀有犬科动物影像，证实其存在。",
+      "recommendation": "红外相机捕捉幽灵犬影像，展示野外监测技术应用。对动物摄影爱好者有参考价值，含亚马逊雨林实地拍摄数据。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "‘Almost Mythical’ Amazonian Ghost Dog Captured on Trail Camera"
+    },
+    {
+      "id": "recvmHS55tOm5o",
+      "title": "格雷戈里·克鲁德森为歌手菲比·布里杰斯的‘无手机’巡演拍摄诡异艺术作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/gregory-crewdson-shot-the-eerie-artwork-for-singer-phoebe-bridgers-smartphone-free-tour/",
+      "publish_time": "2026-06-16T19:22:53+08:00",
+      "summary": "摄影师克鲁德森为歌手布里杰斯无手机巡演拍摄诡异艺术作品，巡演禁止使用智能手机。",
+      "recommendation": "解析克鲁德森如何用大画幅相机与电影布光，在无手机巡演中创作诡异影像，提供摄影美学与现场创作技巧的深度案例。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Gregory Crewdson Shot the Eerie Artwork for Singer Phoebe Bridgers’ ‘Smartphone-Free’ Tour"
+    },
+    {
+      "id": "recvmHS7hnGtXa",
+      "title": "柯达Charmera千年纪念版充满Y2K风情",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/the-kodak-charmera-millennium-edition-is-dripping-with-y2k-vibes/",
+      "publish_time": "2026-06-16T19:00:53+08:00",
+      "summary": "Reto公司推出柯达Charmera千禧版，延续盲盒钥匙扣设计，融合Y2K风格，主打怀旧与收藏价值。",
+      "recommendation": "解析柯达Charmera千禧版盲盒设计，融合Y2K美学与怀旧收藏价值，为影像爱好者提供复古相机新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Kodak Charmera Millennium Edition Is Dripping with Y2K Vibes"
+    },
+    {
+      "id": "recvmHSdXbm8So",
+      "title": "柯达爆款钥匙扣相机迎来千禧版：Charmera Millennium Edition 内外兼修的低保真紧凑相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/kodaks-viral-keychain-camera-has-just-gone-y2k-the-new-charmera-millennium-edition-is-a-compact-camera-with-low-fi-vibes-inside-and-out",
+      "publish_time": "2026-06-16T19:00:00+08:00",
+      "summary": "柯达Charmera钥匙扣相机推出千禧版，采用Y2K风格设计，内外兼修的低保真紧凑相机，保留核心技术参数。",
+      "recommendation": "解析柯达千禧版钥匙扣相机的Y2K设计语言与核心技术参数，为低保真摄影爱好者提供复古设备选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Kodak's viral keychain camera has just gone Y2K. The new Charmera Millennium Edition is a compact camera with low-fi vibes inside and out"
+    },
+    {
+      "id": "recvmHS9rcPnl2",
+      "title": "乌拉圭足球教练世界杯拍照时拒绝看镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/uruguay-soccer-coach-refuses-to-look-at-camera-during-world-cup-photo-shoot/",
+      "publish_time": "2026-06-16T18:54:12+08:00",
+      "summary": "乌拉圭主教练贝尔萨在世界杯拍照时拒绝看镜头，展现其不合作态度，引发关注。",
+      "recommendation": "从摄影美学角度解析体育赛事中人物姿态的叙事性，探讨非合作性构图如何传递情绪与态度，为街拍及纪实摄影提供独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Uruguay Soccer Coach Refuses to Look at Camera During World Cup Photo Shoot"
+    },
+    {
+      "id": "recvmHSbz7wg6S",
+      "title": "大学世界大赛首秀前数小时，棒球队大巴上价值3.5万美元摄影器材被盗",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/troy-35k-camera-gear-stolen-from-baseball-teams-bus-hours-before-college-world-series-debut/",
+      "publish_time": "2026-06-16T18:41:59+08:00",
+      "summary": "特洛伊棒球队在男子大学世界系列赛首秀前，大巴上价值3.5万美元摄影器材被盗",
+      "recommendation": "事件暴露运动队器材安保漏洞，提醒影像爱好者大型活动需加强设备看管。无独家数据，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "$35K Camera Gear Stolen From Baseball Team’s Bus Hours Before College World Series Debut"
+    },
+    {
+      "id": "recvmHSz87VbWM",
+      "title": "新款夏普Aquos R11配备3850万像素长焦相机，搭载骁龙8s Gen 4芯片",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_new_sharp_aquos_r11_gains_a_385mp_tele_camera_snapdragon_8s_gen_4_chipset-news-73291.php",
+      "publish_time": "2026-06-16T18:03:02+08:00",
+      "summary": "夏普Aquos R11配备3850万像素长焦相机和骁龙8s Gen 4芯片，采用6.5英寸Pro IGZO OLED屏，支持1-240Hz刷新率，但取消了microSD卡槽。",
+      "recommendation": "夏普Aquos R11搭载3850万像素长焦相机与骁龙8s Gen 4芯片，提供手机影像长焦硬件新数据，适合关注日系机型与传感器规格的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The new Sharp Aquos R11 gains a 38.5MP tele camera, Snapdragon 8s Gen 4 chipset"
+    },
+    {
+      "id": "recvmHSBBogXn0",
+      "title": "年轻旅行摄影师必备的3款相机套件（下）",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/16/3-must-have-camera-kits-for-young-travel-photographers-part-2/",
+      "publish_time": "2026-06-16T18:00:00+08:00",
+      "summary": "本文推荐3款适合年轻旅行摄影师的相机套件，强调便携性与画质平衡，包括索尼A7C、富士X-T30 II和奥林巴斯OM-D E-M10 Mark IV，均配备变焦镜头，适合记录旅途文化。",
+      "recommendation": "三款旅行相机套件横向对比，聚焦索尼A7C、富士X-T30 II与奥林巴斯E-M10 IV的便携性与画质平衡，提供变焦镜头配置建议，适合旅行摄影爱好者选机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "3 Must-Have Camera Kits for Young Travel Photographers (Part 2)"
+    },
+    {
+      "id": "recvmHSGuG3cC9",
+      "title": "日本最新销量排行榜",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-japanese-sales-rankings/",
+      "publish_time": "2026-06-16T17:52:06+08:00",
+      "summary": "日本5月相机销售排名显示富士多款机型领先，索尼α7V等紧随其后，哈苏X2D II 100C在Yodobashi排名第一。",
+      "recommendation": "榜单揭示富士与哈苏在高端市场的强势地位，索尼α7V紧随其后，提供日本市场最新消费偏好数据，助你把握行业趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "New Japanese sales rankings:"
+    },
+    {
+      "id": "recvmHSgtBMB4y",
+      "title": "如何将照片传输到电脑：三种简单方法从相机中取出照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/how-to-transfer-photos-to-a-computer",
+      "publish_time": "2026-06-16T17:45:53+08:00",
+      "summary": "本文介绍了三种简单方法将相机照片传输到电脑，包括使用USB线、读卡器或无线传输，帮助用户快速备份和编辑照片。",
+      "recommendation": "文章提供三种传输方法，适合新手快速掌握备份技巧，但缺乏独家数据或深度观点，属常规技术科普。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How to transfer photos to a computer: Three easy ways to get your pictures off your camera"
+    },
+    {
+      "id": "recvmHSiQpjXiy",
+      "title": "柯达最畅销的紧凑型相机降至仅99美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/kodaks-best-selling-compact-camera-drops-to-just-usd99",
+      "publish_time": "2026-06-16T17:27:28+08:00",
+      "summary": "柯达Pixpro FZ45紧凑型相机降至99美元，是抢购这款畅销相机的绝佳时机。",
+      "recommendation": "99美元价格点揭示入门级相机市场现状，适合预算有限的新手或收藏者了解低价位产品动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Kodak's best-selling compact camera drops to just $99"
+    },
+    {
+      "id": "recvmHSkZ3RAaJ",
+      "title": "全球最大摄影大赛迎来20周年，巨额奖金等你来拿",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/the-worlds-biggest-photo-competition-opens-for-entries-with-huge-cash-prizes-up-for-grabs-in-its-20th-year",
+      "publish_time": "2026-06-16T16:20:00+08:00",
+      "summary": "全球最大摄影大赛索尼世界摄影奖20周年，最高奖金25000美元，每年吸引数十万摄影师参赛，获奖者获广泛认可。",
+      "recommendation": "索尼世界摄影奖20周年奖金达25000美元，提供参赛门槛与行业认可度数据，适合关注赛事动态的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The world's biggest photo competition opens for entries with huge cash prizes up for grabs in its 20th year"
+    },
+    {
+      "id": "recvmHSnfEcBuc",
+      "title": "佳能EOS RP全画幅相机现仅售799美元，超值优惠",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-canon-eos-rp-is-now-only-usd799-in-this-brilliant-full-frame-camera-deal",
+      "publish_time": "2026-06-16T15:38:00+08:00",
+      "summary": "佳能EOS RP全画幅相机现仅售799美元，作为入门级全画幅相机性价比极高。",
+      "recommendation": "佳能EOS RP降至799美元，为入门全画幅用户提供低价选择，含具体售价与定位分析，适合预算有限者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Canon EOS RP is now only $799 in this brilliant full-frame camera deal"
+    },
+    {
+      "id": "recvmHSpxYbiUN",
+      "title": "25岁摄影师说服玛丽莲·梦露在泳池裸泳的那一天：劳伦斯·席勒关于电影偶像的非凡回忆录",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/the-day-a-25-year-old-photographer-convinced-marilyn-monroe-to-go-nude-in-a-swimming-pool-lawrence-schillers-remarkable-memoir-of-movie-icon",
+      "publish_time": "2026-06-16T15:15:00+08:00",
+      "summary": "为纪念梦露诞辰百年重版《玛丽莲与我》，讲述摄影师席勒如何说服她在泳池裸泳，堪称最引人入胜的杂志摄影书籍之一。",
+      "recommendation": "揭秘席勒如何以摄影技巧说服梦露裸泳，含独家拍摄幕后与人物互动细节，对理解人像摄影中的沟通与信任构建有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The day a 25-year-old photographer convinced Marilyn Monroe to go nude in a swimming pool: Lawrence Schiller's remarkable memoir of a movie icon"
+    },
+    {
+      "id": "recvmHSE43qo6f",
+      "title": "会员新福利：免费预设盲盒",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/16/new-perk-for-members-a-free-mystery-box-of-presets/",
+      "publish_time": "2026-06-16T15:00:00+08:00",
+      "summary": "Phobographer会员新增免费预设盲盒福利，含无广告、Capture One折扣等，邮件申请即可。",
+      "recommendation": "Phobographer会员新增免费预设盲盒福利，含无广告及Capture One折扣，邮件即可申请。常规资讯，可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Perk for Members: A Free Mystery Box of Presets"
+    },
+    {
+      "id": "recvmHSrSMXDxA",
+      "title": "打破神话：卡罗尔·艾伦-斯托里长达十年的纪录片项目是年度最具影响力的摄影书籍之一",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/defying-the-myth-carol-allen-storeys-decade-long-documentary-project-is-one-of-the-most-powerful-photography-books-of-the-year",
+      "publish_time": "2026-06-16T14:30:00+08:00",
+      "summary": "与三位单亲母亲共同生活超10年，抚养严重残疾孩子，成就技术精湛的摄影书籍，年度最具影响力之一",
+      "recommendation": "十年跟拍三位单亲母亲与残疾子女，揭示纪实摄影中情感与技术平衡的深度案例，提供罕见长期项目方法论。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Defying the Myth: Carol Allen-Storey's decade-long documentary project is one of the most powerful photography books of the year"
+    },
+    {
+      "id": "recvmHSugkivKA",
+      "title": "日本最畅销相机前五中四款来自同一品牌（非佳能或索尼），潮流紧凑型相机重返榜首",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/4-of-the-top-5-cameras-in-japan-come-from-a-single-brand-and-its-not-canon-or-sony-as-a-trendy-compact-camera-returns-to-1",
+      "publish_time": "2026-06-16T14:15:00+08:00",
+      "summary": "日本最新销售数据显示，X100VI重返榜首，将长期占据首位的索尼A7 V挤至次席，前五中四款来自同一品牌",
+      "recommendation": "日本市场最新销售数据揭示X100VI逆袭登顶，前五中四款同品牌，为关注紧凑相机趋势与品牌格局的读者提供独家榜单分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "4 of the top 5 cameras in Japan come from a single brand (and it’s not Canon or Sony) as a trendy compact camera returns to #1"
+    },
     {
       "id": "recvmGwBnxBu06",
       "title": "vivo正式确定X Fold6发布日期并开启预约",
@@ -430,6 +689,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Best Lens Nikon Made in the Past 10 Years"
+    },
+    {
+      "id": "recvmHSwBg6dux",
+      "title": "新版Adobe Premiere隐藏新胶片颗粒效果、更简单的字幕、更快的遮罩等最新更新",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/video-editing/the-new-premiere-hides-a-new-film-grain-effect-simpler-captions-faster-masking-and-more-inside-the-latest-update",
+      "publish_time": "2026-06-15T23:59:23+08:00",
+      "summary": "Adobe Premiere 2026年6月更新新增胶片颗粒效果、简化字幕制作、加速遮罩等工具，提升视频编辑效率与创意。",
+      "recommendation": "Premiere更新新增胶片颗粒与遮罩加速，对视频创作者是实用工具升级。文章无独家数据，属常规资讯，可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The new Adobe Premiere hides a new film grain effect, simpler captions, faster masking and more inside the latest update"
     },
     {
       "id": "recvmEqWQz3Nds",
@@ -7525,289 +7799,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Apple's first Developer Center in Europe will open its doors in Berlin later this year"
-    },
-    {
-      "id": "recvlwg5jzIxGs",
-      "title": "百年仅见两次的“失落”鹦鹉最佳照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/new-photos-document-a-lost-parrot-for-only-the-second-time-in-a-century/",
-      "publish_time": "2026-06-04T03:07:23+08:00",
-      "summary": "印度尼西亚极罕见的蓝额吸蜜鹦鹉在一个世纪仅两次目击后再次被发现，上次是2014年，此前自1920年代未见。",
-      "recommendation": "罕见物种的影像记录案例，展示野外生态摄影中耐心与时机的重要性，提供1920年至今仅两次目击的独家时间线数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Best Photos Ever of a ‘Lost’ Parrot Seen Just Twice In a Century"
-    },
-    {
-      "id": "recvlwg7J8KGsX",
-      "title": "索尼新款巨型传感器能否打动克里斯托弗·诺兰？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/1013307816/sony-venice-2-rialto-65-large-format-cinema-sensor",
-      "publish_time": "2026-06-04T02:52:00+08:00",
-      "summary": "索尼为Venice 2摄像机推出Rialto 65大画幅传感器模块，尺寸53.75x35.83mm，接近中画幅，旨在吸引高端电影制作人如诺兰。",
-      "recommendation": "解析索尼53.75x35.83mm大画幅传感器模块，接近中画幅尺寸，为电影级影像爱好者提供传感器尺寸与高端制作关联的深度数据。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Could Sony's massive new sensor sway even Christopher Nolan?"
-    },
-    {
-      "id": "recvlwga2q7VWn",
-      "title": "新爆料揭示一加16相机不同故事",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_leak_tells_a_different_story_about_the_oneplus_16s_cameras-news-73112.php",
-      "publish_time": "2026-06-04T02:47:02+08:00",
-      "summary": "新爆料称一加16相机配置与传闻相反，采用2亿像素主摄、5000万像素潜望长焦和超广角，可能仍在测试不同配置。",
-      "recommendation": "爆料揭示一加16相机配置反转，2亿像素主摄与5000万像素潜望长焦组合，提供行业独家测试动态，影像爱好者可提前洞察旗舰影像方向。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New leak tells a different story about the OnePlus 16's cameras"
-    },
-    {
-      "id": "recvlwgehUA4sf",
-      "title": "明天是大日子：索尼A7rVI在美国发货！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/tomorrow-is-the-big-day-sony-a7rvi-is-shipping-out-in-the-usa/",
-      "publish_time": "2026-06-04T02:16:00+08:00",
-      "summary": "索尼A7rVI相机在美国发货，售价在BHphoto等平台有售，100-400mm f/4.5 GM镜头一周后发货。",
-      "recommendation": "索尼A7rVI美国发货时间及100-400mm GM镜头一周后到货，提供具体售价与平台信息，适合关注新品上市节奏的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tomorrow is the BIG day: Sony A7rVI is shipping out in the USA!"
-    },
-    {
-      "id": "recvlwgc6utmyr",
-      "title": "富士APS-C与GFX搭载DGO传感器：所有可能性探索",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-aps-c-and-gfx-with-dgo-sensors-all-the-possibilities-explored/",
-      "publish_time": "2026-06-04T01:32:39+08:00",
-      "summary": "文章探讨富士APS-C和GFX相机搭载DGO传感器的可能性，参考索尼A7V（33MP）、A7rVI（67MP）和松下S1II（24MP）的DGO传感器参数，分析技术前景。",
-      "recommendation": "结合索尼、松下DGO传感器参数，分析富士APS-C与GFX搭载该技术的可行性，提供具体像素与动态范围对比数据，对关注传感器技术升级的爱好者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm APS-C and GFX with DGO Sensors: All the Possibilities Explored"
-    },
-    {
-      "id": "recvlvgfR1d8ZE",
-      "title": "索尼正在打造一款巨大的65mm传感器。索尼Rialto 65将成为迄今最大的电影传感器之一，最早或于2027年问世",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-is-building-a-massive-65mm-sensor-the-sony-rialto-65-is-one-of-the-largest-cinema-sensors-yet-and-could-arrive-as-soon-as-2027",
-      "publish_time": "2026-06-04T01:15:00+08:00",
-      "summary": "索尼为Venice 2开发65mm传感器，支持9.6K开门模式，最早2027年问世",
-      "recommendation": "索尼65mm传感器Rialto 65支持9.6K开门模式，为电影级影像提供新可能，2027年问世时间线值得关注。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony is building a massive 65mm sensor. The Sony Rialto 65 is one of the largest cinema sensors yet and could arrive as soon as 2027"
-    },
-    {
-      "id": "recvlvfL4ib5Wm",
-      "title": "Metabones升级版EF-MFT转接环承诺接近原生自动对焦性能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/metabones-upgraded-ef-mft-adapters-promise-near-native-af-performance/",
-      "publish_time": "2026-06-04T01:14:16+08:00",
-      "summary": "Metabones发布TruePDAF技术，使EF-MFT转接环实现接近原厂镜头的自动对焦和防抖性能。",
-      "recommendation": "详解Metabones TruePDAF技术原理，提供EF-MFT转接环对焦性能接近原厂镜头的实测数据，对M4/3系统用户升级镜头群有明确参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Metabones’ Upgraded EF-MFT Adapters Promise Near-Native AF Performance"
-    },
-    {
-      "id": "recvlvgi7mo2om",
-      "title": "当下最时髦的新款紧凑型相机拥有智能手机甚至热门富士X100VI都没有的功能——但它仍未超越便宜的柯达Charmera",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-trendiest-new-compact-camera-right-now-has-something-smartphones-and-even-the-trendy-fujifilm-x100vi-do-not-but-it-still-didnt-overtake-the-cheap-kodak-charmera",
-      "publish_time": "2026-06-04T00:54:12+08:00",
-      "summary": "松下Lumix L10紧凑型相机登B&H畅销榜，具备智能手机和富士X100VI没有的功能，但未超越便宜的柯达Charmera",
-      "recommendation": "文章对比松下L10与富士X100VI及智能手机功能差异，揭示紧凑相机市场新趋势，但未超越柯达Charmera的性价比，提供B&H畅销榜数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The trendiest new compact camera right now has something smartphones and even the trendy Fujifilm X100VI do not – but it still didn’t overtake the cheap Kodak Charmera"
-    },
-    {
-      "id": "recvlvgkmoXmsV",
-      "title": "当下最时髦的新款紧凑型相机拥有智能手机甚至热门富士X100VI都没有的功能——但它仍未能击败廉价的柯达Charmera",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-trendiest-new-compact-camera-right-now-has-something-smartphones-and-even-the-trendy-fujifilm-x100vi-does-not-but-it-still-didnt-beat-out-the-cheap-kodak-charmera",
-      "publish_time": "2026-06-04T00:52:13+08:00",
-      "summary": "松下Lumix L10紧凑型相机登顶B&H畅销榜，具备智能手机和富士X100VI没有的功能，但未能击败廉价柯达Charmera",
-      "recommendation": "解析松下L10为何登顶畅销榜，对比富士X100VI与柯达Charmera的差异化功能，提供紧凑相机市场趋势的独家数据与观点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The trendiest new compact camera right now has something smartphones and even the trendy Fujifilm X100VI does not – but it still didn’t beat out the cheap Kodak Charmera"
-    },
-    {
-      "id": "recvlvfNIOZ9w5",
-      "title": "Harlowe新款闪光灯可升降和弯曲，提供更柔和的光线",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/harlowes-new-flash-lifts-and-bends-to-deliver-more-flattering-light/",
-      "publish_time": "2026-06-04T00:18:56+08:00",
-      "summary": "Harlowe发布Pocket Flash，将机顶闪光灯与双色温LED灯合二为一，内置升降机构，提供更柔和光线，适合摄影师和内容创作者。",
-      "recommendation": "Harlowe将机顶闪光灯与双色温LED二合一，内置升降机构实现柔光，为内容创作者提供便携补光新方案。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Harlowe’s New Flash Lifts and Bends to Deliver More Flattering Light"
-    },
-    {
-      "id": "recvlvfQ9CWD8W",
-      "title": "DaVinci Resolve 21正式发布：新增照片编辑、AI工具等众多功能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/",
-      "publish_time": "2026-06-04T00:12:47+08:00",
-      "summary": "Blackmagic Design发布DaVinci Resolve 21，新增照片编辑、AI工具，并改进编辑、调色、音频和视觉效果工作流程，支持更多相机格式和编解码器。",
-      "recommendation": "DaVinci Resolve 21新增照片编辑与AI工具，对视频创作者是实用升级。文章未提供独家数据或深度测试，属常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More"
-    },
-    {
-      "id": "recvlvgDw4dUF7",
-      "title": "现在你可以制作自己的Fitbit Air表带",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/you_can_now_make_your_own_fitbit_air_bands-news-73108.php",
-      "publish_time": "2026-06-04T00:11:02+08:00",
-      "summary": "谷歌发布Fitbit Air设计指南，提供精确尺寸、公差和2D CAD文件，用户可3D打印定制表带和配件。",
-      "recommendation": "虽非影像核心内容，但谷歌开放Fitbit Air设计指南，提供精确尺寸与CAD文件，对热衷3D打印定制配件的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "You can now make your own Fitbit Air bands"
-    },
-    {
-      "id": "recvlvfSqR7vle",
-      "title": "华硕RTX Spark驱动ProArt PC：为创作者提供专业性能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/asus-rtx-spark-powered-proart-pcs-promise-pro-performance-for-creators/",
-      "publish_time": "2026-06-04T00:06:28+08:00",
-      "summary": "华硕在2026台北电脑展推出AI创作ProArt PC、ProArt Mini PC及骁龙处理器迷你电脑QN10，为创作者提供专业性能",
-      "recommendation": "文章聚焦华硕为创作者打造的ProArt PC，虽未直接涉及影像设备，但高性能PC是影像后期处理的基础，可了解行业硬件趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Asus’ RTX Spark-Powered ProArt PCs Promise Pro Performance for Creators"
-    },
-    {
-      "id": "recvlvgmhWEL8n",
-      "title": "尼康Z6 II发布5年，现价不到1400美元，性价比超高！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-nikon-z6-ii-is-5-years-old-but-at-under-usd1-400-this-camera-is-now-a-bargain",
-      "publish_time": "2026-06-03T23:06:52+08:00",
-      "summary": "尼康Z6 II发布5年后，机身现价不到1400美元，性价比超高，是性能强大的相机中的划算交易。",
-      "recommendation": "文章聚焦尼康Z6 II五年后价格走势，提供具体降价数据（<1400美元），适合预算有限但追求全画幅性能的摄影爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Nikon Z6 II is 5 years old, but at under $1,400 this camera is now a bargain!"
-    },
-    {
-      "id": "recvlvfUGQBbeB",
-      "title": "蔡司发布专为GFX Eterna 55、Ursa Cine 17K和Alexa 265打造的电影镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/zeiss-unveils-cine-lenses-built-for-the-gfx-eterna-55-ursa-cine-17k-and-alexa-265/",
-      "publish_time": "2026-06-03T22:58:08+08:00",
-      "summary": "蔡司发布Panoptes 65电影镜头，专为大画幅65mm传感器设计，覆盖GFX Eterna 55、Ursa Cine 17K和Alexa 265等机型。",
-      "recommendation": "蔡司专为大画幅65mm传感器设计Panoptes 65镜头，覆盖GFX Eterna 55等机型，提供独家光学适配数据，适合关注电影级影像装备的爱好者了解行业前沿动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Zeiss Unveils Cine Lenses Built for the GFX Eterna 55, Ursa Cine 17K, and Alexa 265"
-    },
-    {
-      "id": "recvlvgouX0GeA",
-      "title": "史上最快相机镜头之一——现直降300美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-is-one-of-the-fastest-camera-lenses-ever-made-and-its-now-usd300-off",
-      "publish_time": "2026-06-03T22:55:48+08:00",
-      "summary": "福伦达Nokton 35mm f/0.9富士X卡口镜头直降300美元，现价1199美元，提供超快光圈和华丽虚化效果的紧凑手动对焦镜头",
-      "recommendation": "福伦达Nokton 35mm f/0.9直降300美元，提供超快光圈与紧凑手动对焦，适合追求极致虚化的富士用户。文章含降价幅度与定价数据，属常规促销资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This is one of the fastest camera lenses ever made – and it's now $300 off"
-    },
-    {
-      "id": "recvlvfWTf3RYf",
-      "title": "神牛发布紧凑复古风格iM30Pro闪光灯",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/03/godox-launches-compact-retro-inspired-im30pro-flash/",
-      "publish_time": "2026-06-03T22:52:44+08:00",
-      "summary": "神牛发布iM30Pro闪光灯，升级可充电锂电池、跳闪功能、彩色显示屏和创意控制，保持紧凑设计，适合旅行和街头摄影。",
-      "recommendation": "神牛iM30Pro升级锂电池与跳闪功能，紧凑复古设计适配旅行街拍，提供可充电方案与创意控制，常规产品更新资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Godox Launches Compact, Retro-Inspired iM30Pro Flash"
-    },
-    {
-      "id": "recvlvgqE8zO5S",
-      "title": "佳能EOS vlog相机在B&H大幅降价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/canon-eos-vlogging-camera-gets-massive-price-drop-at-b-and-h",
-      "publish_time": "2026-06-03T22:51:19+08:00",
-      "summary": "佳能EOS R50 V vlog相机在B&H大幅降价，面向创作者，无需犹豫即可购买",
-      "recommendation": "B&H降价数据直接，适合关注佳能vlog机型价格动态的创作者，含具体折扣幅度，可辅助购买决策。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon EOS vlogging camera gets MASSIVE price drop at B&H"
     }
   ]
 }
