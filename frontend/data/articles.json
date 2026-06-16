@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-17T01:39:48.894539+08:00",
+    "updated_at": "2026-06-17T05:33:15.131835+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 20
+      "count": 19
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 119
+      "count": 121
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,143 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 35
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 379
+      "count": 381
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 192
+      "count": 189
     }
   ],
   "articles": [
+    {
+      "id": "recvmKf3oOHLxC",
+      "title": "光透镜实验室新黑白胶片将拥有独特‘个性’",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/light-lens-labs-new-black-and-white-film-will-have-unique-character/",
+      "publish_time": "2026-06-17T04:11:04+08:00",
+      "summary": "光影实验室黑白胶片项目取得重大进展，解决新问题，胶片将拥有独特个性。",
+      "recommendation": "光影实验室黑白胶片项目突破，揭示胶片‘个性’化技术路径，含独家研发数据，适合追求胶片独特影调的摄影爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Light Lens Lab’s New Black-and-White Film Will Have Unique ‘Character’"
+    },
+    {
+      "id": "recvmKfi9czHiM",
+      "title": "热门理光GR IV紧凑型相机系列在日本即将涨价，其他地区会跟进吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-trendy-ricoh-gr-iv-compact-camera-series-is-about-to-get-more-expensive-in-japan-will-other-regions-follow-suit",
+      "publish_time": "2026-06-17T03:16:11+08:00",
+      "summary": "理光GR IV紧凑型相机因制造和物流成本显著上升，在日本即将涨价，其他地区可能跟进。",
+      "recommendation": "分析GR IV日本涨价原因及全球跟进可能性，提供成本与物流数据，对关注理光或紧凑相机的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The trendy Ricoh GR IV compact camera series is about to get more expensive in Japan. Will other regions follow suit?"
+    },
+    {
+      "id": "recvmKf62NN42D",
+      "title": "Maono发布全新混合音频接口，适用于直播与录音",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/maono-unveils-new-hybrid-audio-interfaces-for-streaming-and-recording/",
+      "publish_time": "2026-06-17T03:09:18+08:00",
+      "summary": "Maono推出P系列混合音频接口P1和P2，专为跨多平台创作者设计，简化多设备音频工作流程，提供高分辨率录音和低噪声性能。",
+      "recommendation": "音频接口非影像核心设备，但多平台创作者需同步录音时，P系列高分辨率低噪声特性可提升视频收音质量。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Maono Unveils New Hybrid Audio Interfaces for Streaming and Recording"
+    },
+    {
+      "id": "recvmKfkCPVz4W",
+      "title": "佳能即将搞砸他们最好的镜头？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/16/is-canon-about-to-screw-up-their-best-lens/",
+      "publish_time": "2026-06-17T03:00:00+08:00",
+      "summary": "佳能正在研发其最具雄心的镜头之一，涵盖10-20mm f4、85mm f1.4L和800mm f5.6L等型号，为不同摄影题材提供关键选择。",
+      "recommendation": "涵盖10-20mm f4、85mm f1.4L等关键焦段，分析佳能镜头研发方向与潜在问题，提供对摄影爱好者选购的实用参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is Canon About to Screw Up Their Best Lens?"
+    },
+    {
+      "id": "recvmKf8kU4v5V",
+      "title": "Zoner Studio 夏季更新瞄准真实世界照片工作流",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/zoner-studios-summer-update-targets-real-world-photo-workflows/",
+      "publish_time": "2026-06-17T02:58:36+08:00",
+      "summary": "Zoner Studio 2026夏季更新聚焦工作流优化，助摄影师减少图像管理时间，专注编辑。",
+      "recommendation": "Zoner Studio 2026夏季更新优化工作流，减少图像管理时间，适合追求效率的影像爱好者。文章聚焦真实世界照片工作流，提供具体功能改进，无独家数据，属常规行业资讯。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Zoner Studio’s Summer Update Targets Real-World Photo Workflows"
+    },
+    {
+      "id": "recvmKfaJH8eYN",
+      "title": "独家：蔡司辟谣，否认Cosina开发Otus ML镜头传闻",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/exclusive-zeiss-refutes-rumors-cosina-developed-otus-ml-lenses/",
+      "publish_time": "2026-06-17T02:02:09+08:00",
+      "summary": "蔡司否认Cosina开发Otus ML镜头传闻，确认正为全画幅无反相机自主研发新Otus ML系列定焦镜头。",
+      "recommendation": "蔡司官方辟谣并确认自主研发Otus ML系列，澄清市场误传，为关注全画幅无反镜头的用户提供准确行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Exclusive: Zeiss Refutes Rumors Cosina Developed Otus ML Lenses"
+    },
+    {
+      "id": "recvmKfd1vSIjF",
+      "title": "北京禁飞禁售无人机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/you-can-no-longer-fly-or-purchase-a-drone-in-beijing/",
+      "publish_time": "2026-06-17T01:48:41+08:00",
+      "summary": "北京禁飞禁售无人机，中国主导消费级无人机市场，此举令人惊讶。",
+      "recommendation": "分析北京禁飞禁售无人机政策对消费级航拍市场的影响，提供中国主导无人机行业的独特视角，助影像爱好者把握政策与市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "You Can No Longer Fly or Purchase a Drone in Beijing"
+    },
+    {
+      "id": "recvmKffK9jJYO",
+      "title": "5张震撼照片：科学家在海、天、实验室中的工作瞬间",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/5-powerful-photos-show-scientists-at-work-in-the-sea-sky-and-lab/",
+      "publish_time": "2026-06-17T01:41:48+08:00",
+      "summary": "《自然》2026年摄影大赛展示五张科学家在海、天、实验室的工作照片，体现科研重要性与探索地点的非凡之处。",
+      "recommendation": "从《自然》摄影大赛看科研场景的影像叙事，5张照片展示海天实验室中科学家工作瞬间，对摄影爱好者有构图与光影启发，独特信息在于科研环境与人文结合。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "5 Powerful Photos Show Scientists at Work in the Sea, Sky, and Lab"
+    },
     {
       "id": "recvmJiaPDPqyr",
       "title": "终于，一款真正值得为我的Lumix S9购买的镜头",
@@ -7679,131 +7802,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Panasonic LUMIX GH6 in 2026: Solid Hardware Is Not Enough"
-    },
-    {
-      "id": "recvlAKLFLjdLr",
-      "title": "Makeda Best 被任命为 MoMA 摄影部首席策展人",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/makeda-best-appointed-as-momas-chief-curator-of-photography/",
-      "publish_time": "2026-06-04T20:51:46+08:00",
-      "summary": "现代艺术博物馆任命摄影师Makeda Best为摄影首席策展人，九月入职。",
-      "recommendation": "MoMA任命摄影师Makeda Best为摄影首席策展人，揭示艺术机构对当代摄影美学的关注方向，对理解影像行业审美趋势有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Makeda Best Appointed as MoMA’s Chief Curator of Photography"
-    },
-    {
-      "id": "recvlAKNN94iWn",
-      "title": "全球最古老摄影博物馆宣布收取400美元拍摄费，摄影师震惊",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/photographers-stunned-after-worlds-oldest-photo-museum-announces-400-shoot-fee/",
-      "publish_time": "2026-06-04T20:41:46+08:00",
-      "summary": "全球最古老摄影博物馆乔治·伊士曼博物馆对专业摄影师收取400美元拍摄费，引发业界震惊",
-      "recommendation": "解析博物馆收费政策对摄影师创作成本的影响，提供行业收费趋势的独家数据，帮助影像爱好者评估拍摄场地选择。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographers Stunned After World’s Oldest Photo Museum Announces $400 Shoot Fee"
-    },
-    {
-      "id": "recvlAL9nArPGB",
-      "title": "在廉价可重复使用的傻瓜相机面前，一次性相机是否仍具有环境合理性？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/are-disposable-cameras-still-environmentally-justifiable-with-cheap-reusable-point-and-shoot-alternatives-available",
-      "publish_time": "2026-06-04T20:27:21+08:00",
-      "summary": "文章质疑一次性相机的环境合理性，认为其是胶片摄影中最浪费的做法，呼吁摒弃这种一次性使用方式。",
-      "recommendation": "从环境角度剖析一次性相机与廉价可重复使用傻瓜相机的对比，提供胶片摄影浪费问题的深度观点，适合关注可持续影像的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Are disposable cameras still environmentally justifiable, with cheap reusable point-and-shoot alternatives available?"
-    },
-    {
-      "id": "recvlAKPREt1X3",
-      "title": "女子因枪支主题宝丽来摄影致摄影师死亡被判过失杀人罪",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/woman-pleads-guilty-to-manslaughter-after-gun-themed-polaroid-photo-shoot-ends-with-photographers-death/",
-      "publish_time": "2026-06-04T20:14:06+08:00",
-      "summary": "拉斯维加斯女子因枪支主题宝丽来摄影，导致摄影师被枪杀，被判过失杀人罪。",
-      "recommendation": "从法律案例揭示摄影创作中安全责任的重要性，提醒影像从业者警惕道具风险。非技术科普，但提供行业警示案例。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Woman Pleads Guilty to Manslaughter After Gun-Themed Polaroid Photo Shoot Ends with Photographer’s Death"
-    },
-    {
-      "id": "recvlALbyae4w5",
-      "title": "这款创作者相机在日本超越传统摄影模式——而且它没有取景器！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-creator-camera-overtakes-traditional-photography-models-in-japan-and-it-hasnt-got-a-viewfinder",
-      "publish_time": "2026-06-04T20:09:16+08:00",
-      "summary": "一款无取景器的创作者相机在日本销售排行榜上超越传统入门相机，占据榜首，其核心价值在于创新设计吸引创作者群体。",
-      "recommendation": "解析无取景器创作者相机如何颠覆日本市场，提供销售排行数据与用户偏好变化，适合关注行业趋势的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This creator camera overtakes traditional photography models in Japan – and it hasn't got a viewfinder!"
-    },
-    {
-      "id": "recvlX28wu0r3o",
-      "title": "无取景器创作者相机在日本超越传统摄影模式",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-creator-camera-overtakes-traditional-photography-models-in-japan-and-it-hasnt-got-a-viewfinder",
-      "publish_time": "2026-06-04T20:09:16+08:00",
-      "summary": "无取景器创作者相机在日本销售排行榜超越传统摄影模式，占据榜首，成为入门相机新主流。",
-      "recommendation": "文章揭示日本市场无取景器相机销量超越传统单反/微单，提供关键销售数据与用户偏好转变分析，对入门用户选机有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A viewfinder-free creator camera overtakes traditional photography models in Japan"
-    },
-    {
-      "id": "recvlALx5P4iA6",
-      "title": "Bill Claff实测索尼A7rVI动态范围：低ISO下较前代A7rV提升1档",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-a7rvi-dynamic-range-measured-by-bill-claff-a-1-stop-improvement-at-low-iso-compared-to-the-previous-sony-a7rv/",
-      "publish_time": "2026-06-04T19:51:39+08:00",
-      "summary": "Bill Claff实测索尼A7rVI动态范围，低ISO下较A7rV提升1档，ISO 50-200范围优势明显，之后仍高出0.25档，性能优于中画幅相机。",
-      "recommendation": "Bill Claff实测数据揭示A7rVI低ISO动态范围较前代提升1档，ISO 50-200优势显著，性能超越中画幅。对追求高画质的用户有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony A7rVI Dynamic Range measured by Bill Claff: a 1-stop improvement at low ISO compared to the previous Sony A7rV."
-    },
-    {
-      "id": "recvlALdGPbrI9",
-      "title": "大疆有应对Insta360 Luna远程触摸屏的方案吗？有，但不在DJI Osmo Pocket 4P上——你现在就能买到！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/does-dji-have-an-answer-for-the-insta360-lunas-remote-touchscreen-yes-but-its-not-on-the-dji-osmo-pocket-4p-you-can-already-buy-it",
-      "publish_time": "2026-06-04T19:48:36+08:00",
-      "summary": "大疆Osmo Pocket 4无遥控器，但已有替代方案在售，应对Insta360 Luna远程触摸屏",
-      "recommendation": "揭示大疆Osmo Pocket 4无遥控器现状，提供替代方案应对Insta360 Luna竞争，含实用选购建议。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Does DJI have an answer for the Insta360 Luna's remote touchscreen? Yes, but it's not on the DJI Osmo Pocket 4P – you can already buy it!"
     }
   ]
 }
