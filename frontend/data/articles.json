@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-16T19:50:44.894691+08:00",
+    "updated_at": "2026-06-17T01:39:48.894539+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 21
+      "count": 20
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 119
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 36
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 382
+      "count": 379
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,274 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvmJiaPDPqyr",
+      "title": "终于，一款真正值得为我的Lumix S9购买的镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/finally-a-lens-thats-actually-worth-buying-for-my-lumix-s9",
+      "publish_time": "2026-06-17T00:12:10+08:00",
+      "summary": "Lumix S9终于迎来完美搭档，一款小巧饼干定焦镜头，与相机时尚外观和便携性高度契合，满足用户对轻便高画质镜头的期待。",
+      "recommendation": "解析Lumix S9饼干定焦镜头的适配性，提供镜头尺寸、光圈值等关键参数，对追求便携高画质的用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "FINALLY, a lens that's actually worth buying for my Lumix S9"
+    },
+    {
+      "id": "recvmJi3BUWhZH",
+      "title": "索尼a7R VI评测：非全能型相机，画质令人印象深刻",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/sony-a7r-vi-review",
+      "publish_time": "2026-06-17T00:02:00+08:00",
+      "summary": "索尼a7R VI评测：66.8MP堆叠式CMOS传感器，电子快门30fps连拍，画质出色，非全能型相机。",
+      "recommendation": "66.8MP堆叠CMOS传感器与30fps连拍数据详实，揭示非全能定位下的画质极限，适合高像素需求者参考。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony a7R VI review: impressive IQ from the not-quite all-rounder"
+    },
+    {
+      "id": "recvmJiwG6IwBF",
+      "title": "这支佳能镜头有灵魂",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/16/this-canon-lens-had-soul/",
+      "publish_time": "2026-06-17T00:00:00+08:00",
+      "summary": "佳能16-35mm f2.8 III镜头充满灵魂，以独特方式呈现世界，体现佳能专注变焦镜头的设计特色。",
+      "recommendation": "深度解析佳能16-35mm f2.8 III光学设计，揭示变焦镜头灵魂所在，含MTF曲线与镜组结构独家分析，适合追求镜头美学的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Canon Lens Had Soul"
+    },
+    {
+      "id": "recvmJil9rnKIT",
+      "title": "佳能今年将发布又一款“世界首创”镜头",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-to-announce-another-worlds-first-at-some-point-this-year/",
+      "publish_time": "2026-06-16T23:34:05+08:00",
+      "summary": "佳能今年将发布RF 24-70mm f/2L镜头，号称世界首款，预计8月底或9月初发布，防抖功能未定。",
+      "recommendation": "佳能RF 24-70mm f/2L镜头传闻聚焦f/2恒定光圈与“世界首创”定位，提供具体发布时间窗口（8月底/9月初），对关注高端变焦镜头的用户有参考价值，但防抖细节未定，属常规资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Canon to Announce Another “World’s First” Lens at Some Point This Year"
+    },
+    {
+      "id": "recvmJipRmUipT",
+      "title": "富士应从其他品牌“借鉴”的5款镜头",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/5-lenses-fujifilm-should-steal-from-other-brands/",
+      "publish_time": "2026-06-16T23:24:56+08:00",
+      "summary": "文章列举了富士应从其他品牌借鉴的5款镜头，回应读者对镜头推荐的需求，核心价值在于为富士用户提供镜头选择参考。",
+      "recommendation": "为富士用户提供跨品牌镜头选择参考，列出5款具体型号及光学特性，含竞品对比数据，对镜头选购有实际指导价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "5 Lenses Fujifilm Should “Steal” From Other Brands"
+    },
+    {
+      "id": "recvmJid0cyDxZ",
+      "title": "这片充满活力的水下百合花田是用10年前的数码单反相机搭配鱼眼镜头拍摄的——并斩获了海洋摄影奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-vibrant-underwater-lily-field-was-shot-on-a-10-year-old-dslr-with-a-fisheye-lens-and-it-snagged-an-ocean-photography-award",
+      "publish_time": "2026-06-16T23:13:25+08:00",
+      "summary": "用10年前数码单反和鱼眼镜头在墨西哥天然井拍摄的水下百合花田，获联合国世界海洋日摄影奖",
+      "recommendation": "用10年前单反+鱼眼拍水下百合花田，获海洋摄影奖，展示老器材在创意拍摄中的潜力，提供水下摄影技巧与器材选择思路。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This vibrant underwater lily field was shot on a 10-year-old DSLR with a fisheye lens –and it snagged an ocean photography award"
+    },
+    {
+      "id": "recvmJife7LAXi",
+      "title": "罕见法庭重审或动摇关键版权判例：摄影师与明星纹身师再对簿公堂",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/a-rare-court-re-hearing-could-call-key-copyright-test-into-question-as-a-photographer-and-celebrity-tattoo-artist-return-to-court",
+      "publish_time": "2026-06-16T22:58:20+08:00",
+      "summary": "全席听证会审理摄影师与纹身师关于照片被纹成纹身的版权争议，或动摇关键判例。",
+      "recommendation": "从法律角度探讨摄影作品版权边界，对影像创作者理解作品使用场景的版权风险有参考价值，但缺乏独家数据与深度观点。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A rare court re-hearing could call key copyright test into question as a photographer and celebrity tattoo artist return to court"
+    },
+    {
+      "id": "recvmJihOn92MY",
+      "title": "K&F Concept ND1,000,000 ND滤镜评测：一款实用的日食旅行滤镜，最适合搭配无反相机使用",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lens-filters/k-and-f-concept-nd1-000-000-nd-filter-review",
+      "publish_time": "2026-06-16T22:55:17+08:00",
+      "summary": "K&F Concept ND1,000,000 ND滤镜是手动相机拍摄太阳的简便工具，但需注意安全，适合无反相机使用。",
+      "recommendation": "实测ND1,000,000滤镜在无反相机上的日食拍摄表现，提供安全使用建议与实拍样张，对天文摄影爱好者有实用参考价值。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "K&F Concept ND1,000,000 ND filter review: a practical eclipse travel filter best used with mirrorless cameras"
+    },
+    {
+      "id": "recvmJinAjC7SO",
+      "title": "一加16屏幕泄露更多细节",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/more_details_about_the_oneplus_16s_screen_leak-news-73292.php",
+      "publish_time": "2026-06-16T22:06:02+08:00",
+      "summary": "一加16屏幕泄露显示将采用185Hz刷新率，放弃240Hz计划，面板来自京东方",
+      "recommendation": "一加16屏幕刷新率从240Hz降至185Hz，京东方面板细节曝光，对关注高刷屏与功耗平衡的影像用户有参考价值，属常规行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "More details about the OnePlus 16's screen leak"
+    },
+    {
+      "id": "recvmJhWra1ygt",
+      "title": "唯卓仕99美元AF 28mm f/4.5 L卡口镜头，专为S9和BF打造",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/viltroxs-99-af-28mm-f-4-5-l-mount-lens-looks-made-for-the-s9-and-bf/",
+      "publish_time": "2026-06-16T21:25:23+08:00",
+      "summary": "唯卓仕推出L卡口AF 28mm f/4.5超薄超轻镜头，专为S9和BF全画幅无反相机设计，售价99美元",
+      "recommendation": "文章解析唯卓仕99美元AF 28mm f/4.5镜头专为S9/BF设计，提供超薄轻量化方案与L卡口适配数据，适合追求便携的影像爱好者了解行业细分动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox’s $99 AF 28mm f/4.5 L-Mount Lens Looks Made for the S9 and BF"
+    },
+    {
+      "id": "recvmJiupHPcUq",
+      "title": "如果索尼Alpha相机采用新款65mm传感器，外观会是这样",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/this-is-how-the-sony-alpha-camera-would-look-if-it-would-use-the-new-sony-65mm-sensor/",
+      "publish_time": "2026-06-16T21:03:30+08:00",
+      "summary": "文章通过PS将新65mm传感器置于索尼A7R VI上，展示其尺寸，并指出使用该传感器的Alpha相机需更大机身",
+      "recommendation": "通过PS直观展示65mm传感器在A7R VI上的尺寸比例，分析机身设计变化，为关注全画幅升级的摄影爱好者提供前瞻性参考。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This is how the Sony Alpha camera would look if it would use the new Sony 65mm sensor"
+    },
+    {
+      "id": "recvmJi61ib2HH",
+      "title": "L卡口终于迎来真正小巧的镜头",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/8583849352/viltrox-l-mount-28mm-f4p5-chip",
+      "publish_time": "2026-06-16T21:00:00+08:00",
+      "summary": "唯卓仕发布L卡口AF 28mm F4.5 Chip镜头，为全画幅自动对焦镜头，体积小巧，是该卡口用户期待已久的选择。",
+      "recommendation": "L卡口用户苦小体积全幅镜头久矣，唯卓仕28mm F4.5填补空白，提供28mm广角与饼干头便携性，是轻量化街拍新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "L-mount finally gets a truly tiny lens"
+    },
+    {
+      "id": "recvmJi8raon8t",
+      "title": "NEEWER Z3R系列闪光灯：以超高性价比提供专业级性能",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/2974743406/neewer-z3r-series-flashes-offer-pro-level-capability-at-a-great-value",
+      "publish_time": "2026-06-16T21:00:00+08:00",
+      "summary": "NEEWER Z3R系列闪光灯以100Ws功率、1/8000s高速同步、圆形灯头及双LED造型灯提供专业级性能，性价比超高。",
+      "recommendation": "本文解析NEEWER Z3R系列100Ws功率、1/8000s同步及双LED造型灯配置，提供高性价比专业闪光方案，适合预算有限的摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "NEEWER Z3R Series flashes offer pro-level capability at a great value"
+    },
+    {
+      "id": "recvmJizcCS1Rp",
+      "title": "最适合街头摄影的唯卓仕镜头现已推出L卡口版本",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/16/the-best-viltrox-lens-for-street-photography-now-comes-for-l-mount/",
+      "publish_time": "2026-06-16T21:00:00+08:00",
+      "summary": "唯卓仕28mm f4.5饼干镜头推出L卡口版本，内置镜头盖、自动对焦、固定光圈，体积小巧，适用于徕卡L卡口相机。",
+      "recommendation": "唯卓仕28mm f4.5饼干镜头L卡口版发布，为徕卡用户提供轻便自动对焦方案。文章详述其内置镜头盖设计与固定光圈特性，适合街头摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Viltrox Lens for Street Photography Now Comes for L-Mount"
+    },
+    {
+      "id": "recvmJhYK8n3JX",
+      "title": "房产中介雇了绿幕小哥却不知如何移除他",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/real-estate-agent-hires-green-screen-guy-but-doesnt-know-how-to-remove-him/",
+      "publish_time": "2026-06-16T20:57:05+08:00",
+      "summary": "东京一高端房产中介制作宣传视频时，雇了穿绿幕服的人，但后期未移除，导致绿幕人清晰可见，暴露了后期制作失误。",
+      "recommendation": "从绿幕失误案例切入，揭示视频后期制作中色彩键控技术的常见误区，对影像爱好者理解绿幕拍摄与后期流程有实际警示价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Real Estate Agent Hires Green Screen Guy But Doesn’t Know How to Remove Him"
+    },
+    {
+      "id": "recvmJis4QmyHs",
+      "title": "“GFX挑战资助计划2026”公告",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/announcement-of-gfx-challenge-grant-program-2026/",
+      "publish_time": "2026-06-16T20:26:38+08:00",
+      "summary": "富士胶片启动GFX挑战资助计划2026，支持创意人士实现影像项目，培养摄影人才。",
+      "recommendation": "富士GFX挑战资助计划2026为影像创作者提供资金与资源支持，适合寻求项目落地的中画幅用户。文中未披露资助金额或评审细节，属常规行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Announcement of “GFX Challenge Grant Program 2026”"
+    },
+    {
+      "id": "recvmJi15jxuv5",
+      "title": "法案将允许摄像师起诉阻碍其记录警察权利的联邦官员",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/right-to-record-act-bill-would-allow-filmmakers-to-sue-federal-officials-who-block-their-right-to-record-police/",
+      "publish_time": "2026-06-16T20:21:54+08:00",
+      "summary": "国会提出法案，赋予摄像师起诉阻止拍摄警察活动的联邦执法人员的权利。",
+      "recommendation": "聚焦影像记录者法律权益，解析法案对街头摄影与新闻拍摄的实际影响，提供行业政策动态参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Bill Would Allow Videographers to Sue Federal Officials Who Block Their Right to Record Police"
+    },
     {
       "id": "recvmHS2qLl6OK",
       "title": "“近乎神话”的亚马逊幽灵犬被红外相机捕捉到",
@@ -7536,269 +7804,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Does DJI have an answer for the Insta360 Luna's remote touchscreen? Yes, but it's not on the DJI Osmo Pocket 4P – you can already buy it!"
-    },
-    {
-      "id": "recvlALrBYmu93",
-      "title": "富士X-E5、X-M5和X-T30III固件更新",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/firmware-updates-for-fujifilm-x-e5-x-m5-and-x-t30iii/",
-      "publish_time": "2026-06-04T19:16:15+08:00",
-      "summary": "富士胶片发布X-E5、X-M5和X-T30III固件更新，提供下载链接，文章首发于Fuji Rumors。",
-      "recommendation": "富士三款中端机型固件更新汇总，提供下载链接，适合X-E5、X-M5、X-T30III用户及时获取功能改进与性能优化。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Firmware Updates for Fujifilm X-E5, X-M5 and X-T30III"
-    },
-    {
-      "id": "recvlAKRT6RZVD",
-      "title": "NASA宣布火星探测器死亡",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/mars-probe-declared-dead-by-nasa/",
-      "publish_time": "2026-06-04T18:56:51+08:00",
-      "summary": "NASA宣布火星探测器MAVEN因失联确认死亡，该探测器用于研究火星大气，已运行多年",
-      "recommendation": "常规资讯，可了解行业动态。对影像爱好者无直接价值，未涉及成像技术或数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 3,
-      "language": "English",
-      "original_title": "Mars Probe Declared Dead by NASA"
-    },
-    {
-      "id": "recvlALfMyht2j",
-      "title": "新型烟雾忍者液体不留油腻残留，拍摄时防止雾霾积聚，且不易触发烟雾报警器",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/new-smoke-ninja-liquid-wont-leave-greasy-residue-stops-haze-build-up-during-photo-shoots-and-less-likely-to-trigger-smoke-alarms",
-      "publish_time": "2026-06-04T18:54:03+08:00",
-      "summary": "PMI推出新型Smoke Ninja烟雾机液体Vanishing Formula，解决油腻残留问题，防止雾霾积聚且不易触发烟雾报警器，提升摄影体验。",
-      "recommendation": "针对烟雾机油腻残留痛点，提供Vanishing Formula配方数据，防止雾霾积聚且不易触发报警器，对室内摄影场景有实用价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Smoke Ninja liquid won’t leave greasy residue, stops haze build-up during photo shoots and less likely to trigger smoke alarms"
-    },
-    {
-      "id": "recvlALhKgyPPj",
-      "title": "日本摄影师疯狂购买这些紧凑型相机——智能手机疲劳或是原因",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/japanese-photographers-cant-stop-buying-these-compact-cameras-and-smartphone-fatigue-might-be-the-reason",
-      "publish_time": "2026-06-04T18:38:30+08:00",
-      "summary": "日本紧凑型相机热销，起售价99美元，设计简洁，或因智能手机疲劳推动需求。",
-      "recommendation": "解析日本紧凑型相机热销现象，提供99美元起售价及智能手机疲劳驱动需求等市场数据，助影像爱好者洞察消费趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Japanese photographers can't stop buying these compact cameras – and smartphone fatigue might be the reason"
-    },
-    {
-      "id": "recvlFhdIYFb1a",
-      "title": "这些畅销的紧凑型相机共享成功秘诀——智能手机疲劳或可解释其在日本的成功",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/japanese-photographers-cant-stop-buying-these-compact-cameras-and-smartphone-fatigue-might-be-the-reason",
-      "publish_time": "2026-06-04T18:38:30+08:00",
-      "summary": "日本畅销紧凑型相机设计简洁，起售价99美元，其成功或归因于智能手机疲劳。",
-      "recommendation": "解析紧凑型相机在日本畅销的深层原因，提出智能手机疲劳这一独特视角，为影像爱好者提供市场趋势洞察与消费心理分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These best-selling compact cameras share a winning formula – and smartphone fatigue may explain their success in Japan"
-    },
-    {
-      "id": "recvlALmFQr6eL",
-      "title": "摩托罗拉Edge 70 Pro+携熟悉规格登场",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/motorola_edge_70_pro_arrives_with_familiar_specs-news-73121.php",
-      "publish_time": "2026-06-04T18:36:02+08:00",
-      "summary": "摩托罗拉Edge 70 Pro+在印度发布，与全球版Edge 70 Pro规格一致，配备5000万像素长焦、3.5倍光变、6.8英寸144Hz AMOLED屏，提供三种配色。",
-      "recommendation": "文章提供摩托罗拉Edge 70 Pro+的完整影像规格，包括5000万像素长焦与3.5倍光变数据，适合关注中端手机长焦配置的爱好者了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Motorola Edge 70 Pro+ arrives with familiar specs"
-    },
-    {
-      "id": "recvlzos53b0i6",
-      "title": "Glyph新款高速Atom EX80 SSD内置定位追踪功能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/glyphs-fast-new-atom-ex80-ssd-has-built-in-location-tracking/",
-      "publish_time": "2026-06-04T18:00:22+08:00",
-      "summary": "Glyph发布Atom EX80 USB4 NVMe便携固态硬盘，专为创意工作者设计，并推出80Gbps USB-C数据线，实现端到端高性能工作流程。",
-      "recommendation": "文章介绍Glyph新款SSD内置定位追踪功能，对影像创作者保障数据安全有实用价值，但未提供具体追踪技术细节或性能数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Glyph’s Fast New Atom EX80 SSD Has Built-in Location Tracking"
-    },
-    {
-      "id": "recvlzowAGjZ7Z",
-      "title": "小米17T在印度发布，观看视频评测了解更多",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_17t_india_price_sale_date-news-73123.php",
-      "publish_time": "2026-06-04T17:37:02+08:00",
-      "summary": "小米17T在印度发布，提供紫蓝黑三色及12GB/256GB和12GB/512GB版本，售价59999和64999卢比，6月10日开售，17T Pro上市时间未定。",
-      "recommendation": "常规资讯，可了解小米17T在印度市场的定价、配置与开售时间，影像规格未提及，适合关注产品布局的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Xiaomi 17T launched in India, watch our video review to know more about it"
-    },
-    {
-      "id": "recvlALpeiIhTk",
-      "title": "小米17T在印度发布，视频评测带你了解更多",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_17t_india_price_sale_date-news-73123.php",
-      "publish_time": "2026-06-04T17:37:02+08:00",
-      "summary": "小米17T在印度发布，提供紫蓝黑三色，12GB/256GB和12GB/512GB版本，售价59999和64999印度卢比，6月10日开售，17T Pro上市时间未定。",
-      "recommendation": "文章提供小米17T印度定价与配置信息，对关注海外手机影像市场的用户有参考价值，但缺乏影像规格细节，属于常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Xiaomi 17T launched in India, here's our video review to know more about it"
-    },
-    {
-      "id": "recvlzoyRVucJd",
-      "title": "vivo X500 Pro Max相机细节泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x500_pro_maxs_camera_details_leaked-news-73120.php",
-      "publish_time": "2026-06-04T15:19:02+08:00",
-      "summary": "vivo X500 Pro Max后置三摄系统曝光，包括两个5000万像素传感器和一个2亿像素摄像头，主摄采用索尼LOFIC传感器。",
-      "recommendation": "曝光vivo X500 Pro Max三摄规格，含2亿像素及索尼LOFIC传感器，为关注手机影像硬件升级的读者提供关键参数与行业趋势参考。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "vivo X500 Pro Max's camera details leaked"
-    },
-    {
-      "id": "recvlzounpNINL",
-      "title": "海滩照片将年轻玛丽莲·梦露送上好莱坞高速，新牌匾纪念",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/beach-photos-that-set-a-young-marilyn-monroe-on-a-highway-to-hollywood-commemorated-with-new-plaque",
-      "publish_time": "2026-06-04T15:00:00+08:00",
-      "summary": "长岛海滩照片让23岁诺玛·珍开启好莱坞之路，新牌匾纪念其历史性起点",
-      "recommendation": "从一张海滩照片追溯玛丽莲·梦露的成名起点，揭示早期人像摄影如何塑造明星形象，对理解摄影美学与历史叙事有独特价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Beach photos that set a young Marilyn Monroe on a highway to Hollywood commemorated with new plaque"
-    },
-    {
-      "id": "recvlzoDsa4fTS",
-      "title": "2012年最佳四款紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/04/the-4-best-compact-cameras-from-2012/",
-      "publish_time": "2026-06-04T15:00:00+08:00",
-      "summary": "2012年最佳四款紧凑型相机，适合从手机升级的用户，提供多种选择，核心价值在于帮助用户找到合适的相机。",
-      "recommendation": "回顾2012年紧凑型相机标杆，提供从手机升级用户的选机参考，包含四款机型的关键参数对比，适合了解当年技术演进与产品定位。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 4 Best Compact Cameras from 2012"
-    },
-    {
-      "id": "recvlzoBbZYHpp",
-      "title": "索尼刚刚宣布为Venice 2开发新型65mm中画幅传感器",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-just-announced-the-development-of-a-new-65mm-medium-format-sensor-for-the-venice-2/",
-      "publish_time": "2026-06-04T13:26:23+08:00",
-      "summary": "索尼为Venice 2电影摄影机推出RIALTO 65模块，采用53.7×35.83mm中画幅传感器，比富士GFX和哈苏X2D更大。",
-      "recommendation": "文章揭示索尼Venice 2新模块采用53.7×35.83mm中画幅传感器，尺寸超富士GFX和哈苏X2D，对关注大画幅影像硬件规格的爱好者有数据参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony just announced the development of a new 65mm medium format sensor for the Venice 2"
-    },
-    {
-      "id": "recvly9XBtuXu4",
-      "title": "三星Galaxy Z Fold8 Ultra名称获蓝牙SIG认证",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_moniker_confirmed-news-73119.php",
-      "publish_time": "2026-06-04T13:15:02+08:00",
-      "summary": "三星Galaxy Z Fold8 Ultra名称获蓝牙SIG认证，确认今年将推出两款折叠手机，包括Fold8和Fold8 Ultra，此前更名造成混淆。",
-      "recommendation": "确认Fold8 Ultra命名，暗示三星折叠屏影像旗舰布局。对关注折叠手机长焦、计算摄影能力的用户有参考价值，属常规产品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 Ultra moniker confirmed by Bluetooth SIG"
-    },
-    {
-      "id": "recvlya4ANAnwj",
-      "title": "尼康发布新款Nikkor Z 70-200mm f/2.8 VR S II镜头固件更新1.10版",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/03/nikon-released-firmware-update-version-1-10-for-the-new-nikkor-z-70-200mm-f-2-8-vr-s-ii-lens.aspx/",
-      "publish_time": "2026-06-04T11:50:16+08:00",
-      "summary": "尼康发布Nikkor Z 70-200mm f/2.8 VR S II镜头固件1.10版，修复与TC-2.0x增距镜配合时自动对焦响应慢的问题。",
-      "recommendation": "针对Z 70-200mm f/2.8用户，固件修复TC-2.0x增距镜对焦延迟问题，提升长焦拍摄体验。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon released firmware update version 1.10 for the new Nikkor Z 70-200mm f/2.8 VR S II lens"
-    },
-    {
-      "id": "recvlya0cSiXfp",
-      "title": "OPPO和vivo均在研发大疆Osmo Pocket 4竞品，相机信息泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_and_vivo_are_both_making_dji_osmo_pocket_4_competitors_camera_info_leaks-news-73117.php",
-      "publish_time": "2026-06-04T09:12:02+08:00",
-      "summary": "OPPO和vivo均在研发大疆Osmo Pocket 4竞品，均配备200MP摄像头和1/1.12英寸索尼Lytia 901传感器，OPPO或与哈苏联名，vivo与蔡司联名。",
-      "recommendation": "独家披露OPPO/vivo竞品Osmo Pocket 4，含200MP传感器参数与联名细节，为手持云台相机市场提供前瞻数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Oppo and vivo are both making DJI Osmo Pocket 4 competitors, camera info leaks"
-    },
-    {
-      "id": "recvlya2ourad3",
-      "title": "苹果欧洲首个开发者中心将于今年晚些时候在柏林开业",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/apples_first_developer_center_in_europe_will_open_its_doors_in_berlin_later_this_year-news-73113.php",
-      "publish_time": "2026-06-04T05:51:02+08:00",
-      "summary": "苹果宣布今年晚些时候在柏林开设欧洲首个开发者中心，提供研讨会和平台支持，以改善与欧洲应用开发者的关系。",
-      "recommendation": "苹果柏林开发者中心虽非直接影像内容，但可能涉及iOS影像API更新，间接影响手机摄影生态。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Apple's first Developer Center in Europe will open its doors in Berlin later this year"
     }
   ]
 }
