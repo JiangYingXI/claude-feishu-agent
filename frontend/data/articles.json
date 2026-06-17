@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-17T05:33:15.131835+08:00",
+    "updated_at": "2026-06-17T13:32:04.375542+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 15
+      "count": 17
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,57 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 189
+      "count": 188
     }
   ],
   "articles": [
+    {
+      "id": "recvmMbSmprX0L",
+      "title": "为什么现代相机无法拍摄全景人像？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/17/why-cant-modern-cameras-make-panoramic-portraits/",
+      "publish_time": "2026-06-17T12:00:00+08:00",
+      "summary": "文章探讨Brenizer全景人像方法，即通过多张照片拼接模拟大画幅效果，分析为何相机未内置此功能，引用2014年APS-C画幅时代背景，强调技术价值与实现挑战。",
+      "recommendation": "解析Brenizer全景人像的技术原理与相机未内置此功能的原因，结合2014年APS-C画幅背景，提供拼接模拟大画幅的实操价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Can’t Modern Cameras Make Panoramic Portraits?"
+    },
+    {
+      "id": "recvmMbPS2Jlgm",
+      "title": "iPhone 18 RAM升级再确认，价格也有好消息",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_18_ram_upgrade_confirmed_again_along_with_good_news_about_its_price-news-73302.php",
+      "publish_time": "2026-06-17T11:06:02+08:00",
+      "summary": "iPhone 18确认配备12GB内存，较iPhone 17的8GB提升，用于支持全新Siri AI功能，需至少12GB内存，iPhone 17无法获得该功能。",
+      "recommendation": "12GB内存升级直接关联计算摄影性能，AI功能门槛揭示影像处理新需求，对关注手机摄影算力的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iPhone 18 RAM upgrade confirmed again along with good news about its price"
+    },
+    {
+      "id": "recvmMbNcoLccH",
+      "title": "摄影师新应用消除银河摄影中的猜测工作",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/16/photographers-new-app-takes-the-guesswork-out-of-milky-way-photography/",
+      "publish_time": "2026-06-17T05:35:15+08:00",
+      "summary": "新应用Milky Way Tonight简化银河摄影，消除观测条件、时机和月亮干扰等不确定性，支持iOS和Android。",
+      "recommendation": "文章介绍Milky Way Tonight应用，通过算法简化银河摄影的观测与时机判断，对天文摄影爱好者有实用价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer’s New App Takes the Guesswork Out of Milky Way Photography"
+    },
     {
       "id": "recvmKf3oOHLxC",
       "title": "光透镜实验室新黑白胶片将拥有独特‘个性’",
@@ -7756,52 +7803,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Honor Magic V6 Foldable Squeezes in Big Battery and Apple Connectivity"
-    },
-    {
-      "id": "recvlAKJrEl9js",
-      "title": "这张JFK照片是谁拍的？博物馆与收藏家版权案交锋",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/who-took-this-jfk-photo-museum-and-collector-clash-in-copyright-case/",
-      "publish_time": "2026-06-04T21:21:00+08:00",
-      "summary": "一张JFK遇刺当天照片的版权归属引发博物馆与收藏家法律纠纷，核心在于确定拍摄者身份。",
-      "recommendation": "从法律纠纷切入，揭示历史照片拍摄者身份鉴定的技术细节与行业惯例，对影像收藏与版权研究者有独特参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Who Took This JFK Photo? Museum and Collector Clash in Copyright Case"
-    },
-    {
-      "id": "recvlAL7fBC4p3",
-      "title": "拿起相机！四次日冕物质抛射可能在6月4日至5日引发大规模北极光",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/grab-your-camera-four-coronal-mass-ejections-could-collide-into-a-major-northern-lights-display-on-june-4-and-june-5",
-      "publish_time": "2026-06-04T21:04:20+08:00",
-      "summary": "太空专家预测，四次日冕物质抛射可能在6月4日至5日引发大规模北极光，美国北部、加拿大看到极光的概率高于平均水平，英格兰北部也有微弱机会",
-      "recommendation": "极光拍摄时机预报，含具体日期与区域概率，为风光摄影师提供精准追光窗口。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Grab your camera! Four coronal mass ejections could collide into a major northern lights display on June 4 and June 5"
-    },
-    {
-      "id": "recvlALBBMivfJ",
-      "title": "2026年的松下LUMIX GH6：扎实的硬件还不够",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/04/panasonic-lumix-gh6-review-2026/",
-      "publish_time": "2026-06-04T21:00:00+08:00",
-      "summary": "2026年M4/3系统成熟，GH6发布四年后硬件扎实但需软件生态支撑",
-      "recommendation": "剖析GH6硬件扎实但M4/3系统需软件生态支撑的行业痛点，提供对松下影像战略的深度观点，适合关注系统生态的摄影爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Panasonic LUMIX GH6 in 2026: Solid Hardware Is Not Enough"
     }
   ]
 }
