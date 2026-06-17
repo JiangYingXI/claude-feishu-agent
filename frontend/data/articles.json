@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-17T13:32:04.375542+08:00",
+    "updated_at": "2026-06-17T19:30:24.411667+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 19
+      "count": 18
     },
     {
       "key": "镜头与光学",
@@ -23,25 +23,287 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 17
+      "count": 18
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 35
+      "count": 32
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 381
+      "count": 377
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 188
+      "count": 190
     }
   ],
   "articles": [
+    {
+      "id": "recvmNDsDnqeCG",
+      "title": "无人机首次记录野外老虎照顾其他母亲幼崽的案例",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/17/drones-capture-first-recorded-case-of-tiger-caring-for-another-mothers-cubs-in-the-wild/",
+      "publish_time": "2026-06-17T19:15:03+08:00",
+      "summary": "无人机首次记录野外老虎照顾其他母亲幼崽的案例，专家认为这是有记录以来首次",
+      "recommendation": "无人机首次记录野外老虎跨母育幼案例，提供独家行为学影像数据，对野生动物摄影爱好者具技术参考与选题启发价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Drones Capture First Recorded Case of Tiger Caring for Another Mother’s Cubs in the Wild"
+    },
+    {
+      "id": "recvmNDJPstTcg",
+      "title": "iPhone 18 Pro 或迎来“相机硬件最大飞跃”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/iphones/the-iphone-18-pro-could-have-the-biggest-leap-in-camera-hardware-in-some-time",
+      "publish_time": "2026-06-17T19:08:03+08:00",
+      "summary": "据传iPhone 18 Pro将迎来相机硬件的最大飞跃，可能包含重大升级，具体参数待官方确认。",
+      "recommendation": "传闻指向iPhone 18 Pro相机硬件重大升级，可能涉及传感器尺寸或像素数突破，对关注手机影像迭代的爱好者有前瞻价值，但缺乏具体参数与独家数据。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The iPhone 18 Pro could have “the biggest leap in camera hardware” in some time"
+    },
+    {
+      "id": "recvmNDYeP4yRN",
+      "title": "日本最新销量排名：富士X100VI、X-E5、X-M5和X-T30III跻身前十",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/new-japanese-sales-rankings-with-fujifilm-x100vi-x-e5-x-m5-and-x-t30iii-in-top-10/",
+      "publish_time": "2026-06-17T18:44:50+08:00",
+      "summary": "日本5月相机销售排名显示，富士X100VI、X-E5、X-M5和X-T30III四款机型进入Mapcamera前十，索尼α7V等也上榜，反映市场对富士相机的强劲需求。",
+      "recommendation": "日本Mapcamera月度销量排名，揭示富士X100VI等四款机型跻身前十，提供真实市场趋势数据，助你把握消费热点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "New Japanese Sales Rankings with Fujifilm X100VI, X-E5, X-M5 and X-T30III in Top 10"
+    },
+    {
+      "id": "recvmNDvjLRWeC",
+      "title": "俄亥俄州赛车中冲刺赛车冲出赛道致三名摄影师受伤",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/17/three-photographers-injured-after-sprint-car-goes-off-track-at-ohio-race/",
+      "publish_time": "2026-06-17T18:13:12+08:00",
+      "summary": "俄亥俄州赛车比赛中，一辆冲刺赛车失控冲出赛道，导致三名摄影师受伤。",
+      "recommendation": "常规资讯，可了解赛车摄影中摄影师站位安全风险，对户外运动拍摄者具警示价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Three Photographers Injured After Sprint Car Goes Off Track at Ohio Race"
+    },
+    {
+      "id": "recvmNE3ipBOnZ",
+      "title": "为什么你的F1.2镜头表现不佳",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/17/why-your-f1-2-lenses-suck/",
+      "publish_time": "2026-06-17T18:00:00+08:00",
+      "summary": "文章回顾f1.2镜头从少数品牌专属到如今普及的历程，指出其虽难驾驭但能拍出美丽照片，核心价值在于揭示大光圈镜头的技术演进与使用挑战。",
+      "recommendation": "解析F1.2镜头从稀缺到普及的技术演进，揭示大光圈在光学设计与实际拍摄中的挑战，为追求极致虚化的爱好者提供避坑指南。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Your F1.2 Lenses Suck"
+    },
+    {
+      "id": "recvmNE0BZe8Gf",
+      "title": "私募公司Effissimo超越索尼，成为腾龙最大股东",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/private-company-effissimo-overtakes-sony-and-becomes-largest-tamron-shareholder/",
+      "publish_time": "2026-06-17T17:53:29+08:00",
+      "summary": "新加坡基金Effissimo增持腾龙股份至17.38%，超越索尼15.35%成为最大股东，腾龙摄影业务表现良好。",
+      "recommendation": "腾龙股权变动影响镜头研发方向，Effissimo增持至17.38%超越索尼，揭示资本对摄影业务信心。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Private company Effissimo overtakes Sony and becomes largest Tamron shareholder"
+    },
+    {
+      "id": "recvmNDAd7jtbL",
+      "title": "谷歌在Android 17中扩展家长控制和Family Link功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_expands_parental_controls_and_family_link_features_with_android_17-news-73309.php",
+      "publish_time": "2026-06-17T17:41:02+08:00",
+      "summary": "谷歌在Android 17中扩展家长控制功能，让家长管理孩子屏幕使用时间、创建休息时间表、过滤应用并限制使用时长。",
+      "recommendation": "虽不直接涉及影像技术，但家长控制功能可限制孩子使用相机应用时长，对家庭影像设备管理有参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google expands Parental Controls and Family Link features with Android 17"
+    },
+    {
+      "id": "recvmNDMx9Ivj5",
+      "title": "“他们总是仰拍，所以相机就在你面前……他们的拍摄方式会让你看起来像个猛男。”阿诺德·施瓦辛格教给摄影师的低角度力量",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/they-always-shoot-up-so-the-camera-is-right-there-in-front-of-you-making-you-taller",
+      "publish_time": "2026-06-17T16:55:12+08:00",
+      "summary": "阿诺德·施瓦辛格七十年摄影作品集收录，低角度拍摄技巧展现力量感，由著名摄影师拍摄",
+      "recommendation": "从施瓦辛格摄影集提炼低角度拍摄技巧，解析仰拍如何增强人物力量感，提供实战构图思路，适合人像与街拍爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"They always shoot up, so the camera is right there in front of you… The way they shoot, you will always look like a stud.\" What Arnie Schwarzenegger teaches photographers about the power of the low angle"
+    },
+    {
+      "id": "recvmNDCFBo7ut",
+      "title": "Android 17 稳定版更新开始推送至 Pixel 手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/android_17_stable_update_is_rolling_out_to_pixel_phones-news-73308.php",
+      "publish_time": "2026-06-17T15:45:03+08:00",
+      "summary": "谷歌开始向Pixel 6及后续机型推送Android 17稳定版，2026年将扩展至其他安卓设备，并已发布源代码至AOSP，部分高级设备获Gemini Intelligence功能。",
+      "recommendation": "Android 17更新涉及Pixel影像系统底层优化，Gemini Intelligence功能可能影响计算摄影流程，适合关注系统级影像性能的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Android 17 stable update is rolling out to Pixel phones"
+    },
+    {
+      "id": "recvmNDOUKpr48",
+      "title": "英国动物园试用AI夜视摄像头提升动物护理——先从长颈鹿开始",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/this-uk-zoo-is-trialling-ai-powered-night-vision-cameras-to-boost-animal-care-starting-with-the-giraffes",
+      "publish_time": "2026-06-17T15:43:20+08:00",
+      "summary": "英国动物园试用AI夜视摄像头监测长颈鹿夜间行为，旨在通过人工智能系统更快发现健康问题，提升动物护理水平。",
+      "recommendation": "AI夜视摄像头在动物护理中的创新应用，展示计算摄影技术如何拓展至非消费场景，对影像爱好者有跨界启发。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This UK zoo is trialling AI-powered night vision cameras to boost animal care –  starting with the giraffes"
+    },
+    {
+      "id": "recvmNDRgYzO2D",
+      "title": "体育摄影师用廉价超广角镜头将“暴雨”变成底特律老虎队和巴尔的摩金莺队的惊艳比赛肖像",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/a-sports-photographer-turned-torrential-rain-into-stunning-mid-game-portraits-of-the-detroit-tigers-and-baltimore-orioles-using-a-cheap-ultra-wide-lens",
+      "publish_time": "2026-06-17T15:19:31+08:00",
+      "summary": "盖蒂体育摄影师帕特里克·史密斯用廉价超广角镜头在老虎队对金莺队的暴雨比赛中拍摄出惊艳比赛肖像",
+      "recommendation": "体育摄影师用廉价超广角在暴雨中拍出惊艳肖像，展示极端天气下镜头选择与创意技巧，含实战参数与构图思路。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A sports photographer turned “torrential rain” into stunning mid-game portraits of the Detroit Tigers and Baltimore Orioles using a cheap ultra-wide lens"
+    },
+    {
+      "id": "recvmNDTCcMRDx",
+      "title": "这款模拟廉价紧凑相机并不完美，但这恰恰是它的卖点。认识一下Fisheye No. 2 La Mer",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-analog-cheap-compact-camera-isnt-perfect-but-thats-actually-the-point-meet-the-fisheye-no-2-la-mer",
+      "publish_time": "2026-06-17T15:10:25+08:00",
+      "summary": "Lomography Fisheye No. 2是一款10mm鱼眼镜头的胶片紧凑相机，其不完美特性正是吸引实验摄影爱好者的核心卖点。",
+      "recommendation": "解析Lomography Fisheye No.2鱼眼胶片相机的10mm镜头与不完美成像，为实验摄影爱好者提供独特创作视角和光学特性深度观点。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This analog, cheap compact camera isn’t perfect, but that’s actually the point. Meet the Fisheye No. 2 La Mer"
+    },
+    {
+      "id": "recvmNDxSqEOuV",
+      "title": "Brightin Star新款14mm f/2.8镜头：高端天文摄影之选",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/17/brightin-stars-new-14mm-f-2-8-lens-promises-high-end-astro-photos/",
+      "publish_time": "2026-06-17T15:00:29+08:00",
+      "summary": "Brightin Star预告MF 14mm f/2.8手动对焦超广角镜头，专为风景、建筑、室内和天文摄影设计，提供高端成像性能。",
+      "recommendation": "文章详解Brightin Star新款14mm f/2.8手动镜头，针对天文摄影场景提供光学设计解析与成像数据，适合超广角爱好者了解非主流品牌的高端产品动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Brightin Star’s New 14mm f/2.8 Lens Promises High-End Astro Photos"
+    },
+    {
+      "id": "recvmNDVMSwj0I",
+      "title": "这款新的Brightin Star 14mm f/2.8镜头覆盖116度广视角——但它的前置滤镜使用方式有点特别",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-new-brightin-star-14mm-f-2-8-covers-a-116-degree-wide-view-but-this-camera-lens-has-an-unusual-trick-for-using-front-filters",
+      "publish_time": "2026-06-17T15:00:00+08:00",
+      "summary": "Brightin Star 14mm f/2.8全画幅超广角镜头，116度视角，独特滤镜支架兼遮光罩。",
+      "recommendation": "解析Brightin Star 14mm f/2.8超广角的116度视角与独特滤镜支架设计，为风光摄影爱好者提供非传统光学方案参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This new Brightin Star 14mm f/2.8 covers a 116-degree wide view – but this camera lens has an unusual trick for using front filters"
+    },
+    {
+      "id": "recvmNE5E70FYM",
+      "title": "你需要的人类撰写风光摄影教程",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/17/phoblographers-introduction-shooting-better-landscapes-copy/",
+      "publish_time": "2026-06-17T15:00:00+08:00",
+      "summary": "本文提供风光摄影入门指南，涵盖核心技术参数与数据，帮助读者提升拍摄水平。",
+      "recommendation": "本文提供风光摄影核心技术参数与数据，对爱好者提升曝光、对焦等实操技能有直接价值，虽无独家数据，但参数解析清晰，属常规技术科普。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Human-Written Landscape Photography Tutorial You Need"
+    },
+    {
+      "id": "recvmNDFo3exVG",
+      "title": "高通发布骁龙Reality Elite，作为其下一代XR平台",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/qualcomm_snapdragon_reality_elite_official-news-73307.php",
+      "publish_time": "2026-06-17T14:45:02+08:00",
+      "summary": "高通发布骁龙Reality Elite XR平台，旨在重新定义空间计算，支持高性能VST头显和轻量级OST设备，AI性能达48 TOPS，带来强大生成式AI能力。",
+      "recommendation": "文章聚焦骁龙Reality Elite的48 TOPS AI算力，对XR影像处理有参考价值，但未涉及具体影像参数或独家数据，属常规行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Qualcomm announces Snapdragon Reality Elite as its next-gen XR platform"
+    },
+    {
+      "id": "recvmNDHJIKE3I",
+      "title": "微软发布搭载骁龙X2的Surface Pro和Surface Laptop",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/microsoft_launches_snapdragon_x2_powered_surface_pro_and_surface_laptop-news-73305.php",
+      "publish_time": "2026-06-17T13:45:02+08:00",
+      "summary": "微软发布搭载高通骁龙X2芯片的Surface Pro和Laptop，13英寸起售价1499美元，可选10核或12核CPU，最高64GB内存和1TB存储，支持Wi-Fi。",
+      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像相关参数，对影像爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Microsoft launches Snapdragon X2-powered Surface Pro and Surface Laptop"
+    },
     {
       "id": "recvmMbSmprX0L",
       "title": "为什么现代相机无法拍摄全景人像？",
@@ -7536,273 +7798,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Capture One and Leica Are for Sale? Plus GoPro Is on ‘The Brink’ | The PetaPixel Podcast"
-    },
-    {
-      "id": "recvlBR2RqQT04",
-      "title": "NBA总决赛展现女性体育摄影的巨大进步",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/nba-finals-showcase-huge-progress-of-women-in-sports-photography/",
-      "publish_time": "2026-06-05T00:31:00+08:00",
-      "summary": "摄影师萨姆·欧文斯报道首个NBA总决赛，标志女性记录精英体育赛事的长期进步",
-      "recommendation": "从女性摄影师视角切入NBA总决赛，揭示体育摄影中性别多元化的行业趋势，对关注摄影职业发展的读者有启发。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "NBA Finals Showcase Huge Progress of Women in Sports Photography"
-    },
-    {
-      "id": "recvlBR5iGP97W",
-      "title": "2026年最佳高端相机推荐",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/buying-guide-best-high-end-cameras",
-      "publish_time": "2026-06-05T00:22:00+08:00",
-      "summary": "2026年高端相机推荐，3000美元以上机型提供极致图像质量和高端视频，适合追求最高画质的摄影需求。",
-      "recommendation": "涵盖3000美元以上高端相机，含传感器尺寸、视频规格等关键参数对比，为追求极致画质的用户提供选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best high-end cameras for 2026"
-    },
-    {
-      "id": "recvlBRcPkBpET",
-      "title": "尼康NIKKOR Z 120-300mm f/2.8 TC VR S镜头在罗兰·加洛斯球场被拍到",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/04/the-upcoming-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-spotted-at-roland-garros.aspx/",
-      "publish_time": "2026-06-05T00:10:41+08:00",
-      "summary": "尼康NIKKOR Z 120-300mm f/2.8 TC VR S镜头在罗兰·加洛斯球场被拍到，该镜头将在2026年世界杯测试，此为首次谍照。",
-      "recommendation": "首次谍照曝光尼康120-300mm f/2.8 TC VR S，揭示2026年世界杯测试动向，提供长焦变焦镜头光学设计线索，适合关注体育摄影装备的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The upcoming Nikon NIKKOR Z 120-300mm f/2.8 TC VR S lens spotted at Roland Garros"
-    },
-    {
-      "id": "recvlBRa78JSqh",
-      "title": "Harlowe为相机闪光灯装上神探加杰特式支架，避免人像照不美观",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/flashguns/harlowe-gave-this-camera-flashgun-inspector-gadget-like-legs-to-avoid-unflattering-portrait-photos",
-      "publish_time": "2026-06-05T00:09:12+08:00",
-      "summary": "Harlowe Pocket Flash为闪光灯增加支架和倾斜功能，解决小型闪光灯系统问题，避免人像照不美观。",
-      "recommendation": "解析Harlowe Pocket Flash支架设计，解决小型闪光灯系统痛点，提供人像布光新思路。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Harlowe gave this camera flashgun Inspector Gadget-like legs to avoid unflattering portrait photos"
-    },
-    {
-      "id": "recvlALzvkRyFh",
-      "title": "Godox AD300 Pro II 评测：摄影最佳新灯光？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/04/godox-ad300-pro-ii-review-the-best-new-light-for-photography/",
-      "publish_time": "2026-06-05T00:00:00+08:00",
-      "summary": "神牛AD300 Pro II影室灯升级显著，便携易收纳，性能提升令主流品牌担忧，是摄影新灯光佳选。",
-      "recommendation": "评测聚焦AD300 Pro II的便携性与性能升级，提供亮度、回电速度等实测数据，对比前代及竞品，对棚拍或外拍用户有选型参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Godox AD300 Pro II Review: The Best New Light for Photography?"
-    },
-    {
-      "id": "recvlAKWKZ4ash",
-      "title": "尼康FTZ II转接环降至诱人低价，省33%",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/nikons-brilliant-ftz-ii-adaptor-drops-to-a-tasty-low-price-save-33-percent",
-      "publish_time": "2026-06-04T23:33:58+08:00",
-      "summary": "尼康FTZ II转接环降价33%，用于将F卡口单反镜头转接至Z卡口无反相机。",
-      "recommendation": "F卡口镜头转接Z系统成本降低33%，提供具体降价幅度数据，适合尼康单反用户评估升级无反的转接方案。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon's brilliant FTZ II adaptor drops to a tasty low price – save 33%"
-    },
-    {
-      "id": "recvlAKAIwuU09",
-      "title": "索尼正在制造一款巨型电影摄影机图像传感器",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/sony-is-making-a-massive-cinema-camera-image-sensor/",
-      "publish_time": "2026-06-04T23:32:01+08:00",
-      "summary": "索尼开发65mm格式图像传感器Rialto 65，2027年上半年发布，为Venice 2用户提供大画幅体验，无需更换系统",
-      "recommendation": "65mm大画幅传感器规格与2027年发布时间，为Venice 2用户提供升级路径，无需换系统即可获得更大画幅。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony Is Making a Massive Cinema Camera Image Sensor"
-    },
-    {
-      "id": "recvlAKYEyl6jp",
-      "title": "iPhone 18：苹果是否在规划一款大胆的新摄像头镜头？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/iphones/iphone-18-could-apple-be-planning-a-bold-new-camera-lens",
-      "publish_time": "2026-06-04T23:14:10+08:00",
-      "summary": "iPhone 18可能首次采用安卓手机已使用的可变光圈镜头技术，提升拍照灵活性。",
-      "recommendation": "解析iPhone 18可能引入可变光圈技术，对比安卓现有方案，提供行业趋势与光学设计深度观点，适合关注手机影像创新的读者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "iPhone 18: could Apple be planning a bold new camera lens?"
-    },
-    {
-      "id": "recvlALuC8yIRq",
-      "title": "索尼A7rVI终于到货并开始发货！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-a7rvi-finally-in-stock-and-shipping/",
-      "publish_time": "2026-06-04T23:09:18+08:00",
-      "summary": "索尼A7rVI相机及100-400mm f/4.5 GM镜头在多家电商有售，Explora发布系列使用教程，核心价值为新品上市并开始发货。",
-      "recommendation": "索尼A7rVI到货资讯，附Explora使用教程，提供新品上市动态与上手参考，适合关注高像素全画幅机型的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sony A7rVI finally in Stock and shipping!"
-    },
-    {
-      "id": "recvlAL0JkkaC2",
-      "title": "免费固件让富士两款最便宜的无反相机变身拍立得，终于无需App即可打印",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/free-firmware-has-just-turned-two-of-fujifilms-cheapest-mirrorless-cameras-into-instant-film-shooters-finally-bringing-back-support-for-printing-without-an-app",
-      "publish_time": "2026-06-04T22:57:18+08:00",
-      "summary": "富士X-M5和X-T30 III通过免费固件更新，可直接连接Instax打印机打印，无需App，提升便利性。",
-      "recommendation": "固件更新让X-M5和X-T30 III直连Instax打印，省去App步骤，提升即拍即打便利性。常规资讯，可了解富士生态新动向。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Free firmware has just turned two of Fujifilm’s cheapest mirrorless cameras into instant film shooters, finally bringing back support for printing without an app"
-    },
-    {
-      "id": "recvlAL2SaJfpY",
-      "title": "Sprocket Rocket 全景模拟紧凑相机推出全新配色——确保不浪费任何胶片！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/sprocket-rocket-panoramic-analog-compact-camera-gets-fresh-new-colors-and-ensures-none-of-your-film-gets-wasted",
-      "publish_time": "2026-06-04T22:45:23+08:00",
-      "summary": "Sprocket Rocket全景模拟紧凑相机推出粉色和薄荷绿新配色，确保不浪费任何胶片。",
-      "recommendation": "常规资讯，可了解行业动态。介绍Sprocket Rocket全景相机新配色，对胶片爱好者有参考价值，但缺乏独家数据或深度观点。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sprocket Rocket panoramic analog compact camera gets fresh new colors – and ensures none of your film gets wasted!"
-    },
-    {
-      "id": "recvlALkmki1G6",
-      "title": "为何今年没有EOS R7 Mark II？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/why-no-eos-r7-mark-ii-this-year/",
-      "publish_time": "2026-06-04T22:42:01+08:00",
-      "summary": "佳能EOS R7发布四年后，Mark II版本迟迟未出，引发关注。文章分析原因，指出佳能可能优先发展全画幅或高端APS-C机型，R7 Mark II或需等待更佳时机。",
-      "recommendation": "分析佳能APS-C旗舰R7 Mark II缺席的深层原因，提供全画幅优先策略与高端APS-C路线博弈的独家行业视角，对关注佳能产品线的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why No EOS R7 Mark II This Year?"
-    },
-    {
-      "id": "recvlAKD0fgGoa",
-      "title": "索尼a7R VI拥有全画幅相机中最佳动态范围",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/the-sony-a7r-vi-has-the-best-dynamic-range-of-any-full-frame-camera/",
-      "publish_time": "2026-06-04T22:11:33+08:00",
-      "summary": "索尼a7R VI凭借全画幅相机中最佳动态范围成为新冠军，超越前代及竞品，为高对比度场景提供更丰富的细节保留能力。",
-      "recommendation": "文章提供索尼a7R VI动态范围超越前代及竞品的具体数据，对高对比度场景细节保留有量化参考，适合关注全画幅相机性能的爱好者。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony a7R VI Has the Best Dynamic Range of Any Full-Frame Camera"
-    },
-    {
-      "id": "recvlAKUl4kzvD",
-      "title": "刀具、威士忌与RGB灯光：一位摄影师痴迷的静物作品幕后",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/4996965488/knives-whiskey-and-rgb-light-inside-one-photographer-s-obsessive-still-life-work",
-      "publish_time": "2026-06-04T22:00:00+08:00",
-      "summary": "摄影师Alberto Tanikawa分享静物作品幕后，展示Bark River Knives Puukko刀与自制库克萨，使用尼康Z8和尼克尔Z 24-120mm F4 S镜头拍摄，参数为F4、1/",
-      "recommendation": "通过尼康Z8与Z 24-120mm F4 S的静物实拍，展示刀具、威士忌与RGB灯光的布光技巧，提供F4、1/等具体参数，适合学习静物摄影的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Knives, whiskey, and RGB light: Inside one photographer's obsessive still-life work"
-    },
-    {
-      "id": "recvlAKF2S3Z76",
-      "title": "震撼科学图像绘制星系间磁场图",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/stunning-science-image-maps-the-magnetic-fields-between-galaxies/",
-      "publish_time": "2026-06-04T21:38:00+08:00",
-      "summary": "澳大利亚研究人员绘制迄今最大宇宙磁场图谱，揭示塑造星系的隐形力量，为理解星系演化提供关键数据。",
-      "recommendation": "从天文磁场图反观手机计算摄影的电磁干扰控制，揭示传感器噪声与宇宙磁场数据的异曲同工之妙，为影像爱好者提供跨领域技术启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Stunning Science Image Maps the Magnetic Fields Between Galaxies"
-    },
-    {
-      "id": "recvlAL5e9sm8S",
-      "title": "温蒂汉堡摄像头：快餐店奇葩拍照设备的最新成员",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/the-wendys-camera-is-the-latest-in-a-long-line-of-crazy-fast-food-photo-cameras",
-      "publish_time": "2026-06-04T21:28:22+08:00",
-      "summary": "温蒂汉堡推出联名相机成头条，此前麦当劳、肯德基和汉堡王也曾推出类似奇葩拍照设备。",
-      "recommendation": "盘点快餐巨头奇葩相机联名，揭示品牌跨界影像营销新趋势，对关注消费电子跨界玩法的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Wendy's camera is the latest in a long line of crazy fast food photo cameras"
-    },
-    {
-      "id": "recvlAKHgA7bHR",
-      "title": "荣耀Magic V6折叠屏：大电池与苹果生态互联加持",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/04/honor-magic-v6-foldable-squeezes-in-big-battery-and-apple-connectivity/",
-      "publish_time": "2026-06-04T21:26:24+08:00",
-      "summary": "荣耀Magic V6折叠屏手机配备迄今最大电池，铰链抗拉强度达2800兆帕，实现苹果生态互联",
-      "recommendation": "文章聚焦折叠屏影像场景的续航痛点，2800兆帕铰链数据与苹果生态互联是独特信息，对关注移动影像效率的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor Magic V6 Foldable Squeezes in Big Battery and Apple Connectivity"
     }
   ]
 }
