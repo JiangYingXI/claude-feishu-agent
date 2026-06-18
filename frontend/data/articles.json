@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-19T00:12:14.008467+08:00",
+    "updated_at": "2026-06-19T05:09:04.886277+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 123
+      "count": 125
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,110 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 390
+      "count": 393
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 173
+      "count": 172
     }
   ],
   "articles": [
+    {
+      "id": "recvmVQ5nYM6m8",
+      "title": "七工匠发布入门级电影镜头系列，起售价仅279美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/18/7artisans-launches-entry-level-cine-lens-series-starting-at-just-279/",
+      "publish_time": "2026-06-19T04:51:39+08:00",
+      "summary": "七工匠发布Dream Cine全画幅手动对焦镜头系列，起售价279美元，专为电影制作入门者设计，提供专业级电影控制与轻便系统。",
+      "recommendation": "279美元全画幅电影镜头，为入门创作者提供专业级控制，轻便系统与亲民价格是核心亮点。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans Launches Entry-Level Cine Lens Series Starting at Just $279"
+    },
+    {
+      "id": "recvmVQgyUpWgT",
+      "title": "新优惠：7Artisans和Astrhori镜头最高可享8折优惠",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-deals-up-to-20-off-on-7artisans-and-astrhori-lenses/",
+      "publish_time": "2026-06-19T04:21:42+08:00",
+      "summary": "购买7工匠和Astrhori镜头最高可享20%折扣，优惠信息首发于sonyalpharumors。",
+      "recommendation": "7工匠与Astrhori镜头最高8折优惠，为预算有限的影像爱好者提供高性价比手动镜头入手机会，附sonyalpharumors首发信息。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New deals: Up to 20% off on 7Artisans and Astrhori lenses"
+    },
+    {
+      "id": "recvmVQiMIVH5Z",
+      "title": "如何保护相机免受意外损坏",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/18/mistake-photographers-with-gear-copy-4/",
+      "publish_time": "2026-06-19T03:00:00+08:00",
+      "summary": "本文介绍摄影保险计划，强调保护相机免受意外损坏的重要性，指出保修不涵盖灰尘、恶劣天气等，该计划提供更全面保障。",
+      "recommendation": "本文解析摄影保险计划，点明保修盲区（灰尘、恶劣天气），提供实用保障建议，对器材昂贵的影像爱好者有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How to Protect Your Camera from Accidents"
+    },
+    {
+      "id": "recvmVQ7MNSPd9",
+      "title": "DZOFilm Octopus II 让PL镜头在微单相机上轻松使用",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/18/the-dzofilm-octopus-ii-makes-it-easy-to-use-pl-lenses-on-mirrorless-cameras/",
+      "publish_time": "2026-06-19T02:36:22+08:00",
+      "summary": "DZOFilm发布Octopus II轻量级转接环，支持索尼E、尼康Z、佳能RF和L卡口相机使用Arri PL镜头。",
+      "recommendation": "常规资讯，可了解行业动态。文章介绍了DZOFilm Octopus II转接环的卡口兼容性，对微单用户转接PL镜头有实用参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The DZOFilm Octopus II Makes it Easy to Use PL Lenses on Mirrorless Cameras"
+    },
+    {
+      "id": "recvmVQc8kjmHK",
+      "title": "VSCO 的目标远不止移动摄影",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/7810596194/vsco-studio-pro-and-vsco-one-announcements",
+      "publish_time": "2026-06-19T01:06:00+08:00",
+      "summary": "VSCO推出专业批量编辑应用Studio Pro和整合平台VSCO One，从移动摄影转向服务专业摄影师的全能平台。",
+      "recommendation": "解析VSCO从移动摄影转向专业工作流的战略，Studio Pro批量编辑和VSCO One平台整合对摄影师的实用价值，提供行业转型的深度视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "VSCO is setting its sights well beyond mobile photography"
+    },
+    {
+      "id": "recvmVQ9RxJ6Fw",
+      "title": "假冒、诈骗SD存储卡真的是个问题吗？",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/18/are-counterfeit-scam-sd-memory-cards-really-a-problem/",
+      "publish_time": "2026-06-19T00:28:47+08:00",
+      "summary": "文章探讨假冒SD卡问题，指出欺诈公司普遍且擅长伪造，几乎每位摄影师都可能成为受害者。",
+      "recommendation": "揭露SD卡假冒产业链，提供鉴别方法与受害者案例，对影像爱好者有实用防坑价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Are Counterfeit, Scam SD Memory Cards Really a Problem?"
+    },
     {
       "id": "recvmUCAkuPaNB",
       "title": "日本暂停订单，因“预购远超预期”，一款新型便携变焦相机加入备受追捧的紧凑型相机行列",
@@ -56,6 +151,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "A new pocketable zoom camera is joining the ranks of highly coveted compact cameras, as Japan suspends orders after “far more preorders than anticipated\""
+    },
+    {
+      "id": "recvmVQewiAHHb",
+      "title": "变焦相机加入热门紧凑相机行列，日本因“预购远超预期”暂停订单",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/a-new-pocketable-zoom-camera-is-joining-the-ranks-of-highly-coveted-compact-cameras-as-japan-suspends-orders-after-far-more-preorders-than-anticipated",
+      "publish_time": "2026-06-18T23:57:12+08:00",
+      "summary": "松下因新款Lumix L10变焦相机预购远超预期，暂停日本订单接收",
+      "recommendation": "日本市场预购数据揭示变焦相机需求回升，L10供不应求反映消费趋势，对关注紧凑相机动态的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "A new zoom camera is joining the ranks of highly coveted compact cameras, as Japan suspends orders after “far more preorders than anticipated\""
     },
     {
       "id": "recvmUCCMSQ4Pk",
@@ -7700,112 +7810,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Iraq’s Team Photographer Denied Entry Into the US Ahead of the World Cup"
-    },
-    {
-      "id": "recvlRVklj4g7U",
-      "title": "你可能听说过屏幕校准，但你知道照片打印机也需要校准吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/printing/you-may-have-heard-of-screen-calibration-but-did-you-know-you-should-calibrate-your-photo-printer-too",
-      "publish_time": "2026-06-07T22:15:00+08:00",
-      "summary": "屏幕与照片打印机需同步校准，否则屏幕显示与打印效果不一致。校准可确保色彩准确，提升打印质量。",
-      "recommendation": "本文揭示屏幕与打印机校准的关联性，提供色彩管理实操技巧，对追求打印色彩准确的影像爱好者有直接帮助。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "You may have heard of screen calibration, but did you know you should calibrate your photo printer too?"
-    },
-    {
-      "id": "recvlRVru4B3bL",
-      "title": "iPhone折叠屏照片泄露，英伟达RTX Spark正式发布，第23周回顾",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php",
-      "publish_time": "2026-06-07T22:04:02+08:00",
-      "summary": "本周可折叠iPhone照片泄露，显示白色/银色厚实造型，传闻将配备均热板散热；摩托罗拉发布Edge (2026)面向美加市场。",
-      "recommendation": "可折叠iPhone照片泄露，提供外观设计线索；均热板散热传闻对影像性能稳定性有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iPhone Fold photo leak, Nvidia RTX Spark is official, Week 23 in review"
-    },
-    {
-      "id": "recvlRVd306nx9",
-      "title": "冰岛针对性无人机禁令：一场自然保护的作秀",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/07/icelands-drone-ban-is-nature-conservation-theater/",
-      "publish_time": "2026-06-07T22:01:43+08:00",
-      "summary": "作者在冰岛持证教授无人机摄影多年，未遭投诉，但该国仍出台针对性禁令，质疑其自然保护效果",
-      "recommendation": "从无人机摄影从业者视角，揭示冰岛禁令背后的形式主义，提供第一手经验与政策分析，对航拍爱好者有实际参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Iceland’s Targeted Drone Ban Is Nature Conservation Theater"
-    },
-    {
-      "id": "recvlRVi18d2kH",
-      "title": "冰岛航空刚花了5万美元雇了最差的摄影师",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/1419752063/icelandair-terrible-photographer-contest-winner",
-      "publish_time": "2026-06-07T21:00:00+08:00",
-      "summary": "冰岛航空花5万美元举办最差摄影师比赛，证明即使技术最差也能拍出美景，旨在推广冰岛风光。",
-      "recommendation": "通过5万美元比赛案例，揭示风光摄影中场景本身的重要性，对爱好者突破技术焦虑有启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Icelandair just paid the worst photographer it could find $50,000"
-    },
-    {
-      "id": "recvlRVyzxOHHJ",
-      "title": "即将发布的唯卓仕75mm和90mm APS-C画幅镜头完整规格",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/full-specs-of-the-upcoming-viltrox-75mm-and-90mm-aps-c-lenses/",
-      "publish_time": "2026-06-07T20:49:59+08:00",
-      "summary": "唯卓仕将发布75mm f/1.8和90mm APS-C画幅镜头，支持索尼E、尼康Z和富士X卡口，具备高锐度和柔美虚化，专为人像摄影设计。",
-      "recommendation": "文章完整披露唯卓仕75mm f/1.8和90mm APS-C镜头的规格数据，涵盖三卡口兼容性，为人像摄影爱好者提供高锐度与柔美虚化的具体参数参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Full specs of the upcoming Viltrox 75mm and 90mm APS-C lenses"
-    },
-    {
-      "id": "recvlRVmJb0IRM",
-      "title": "网红小猴Punch所在的动物园欲禁止拍照——但禁令可能带来意想不到的后果",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/the-zoo-housing-punch-the-viral-baby-monkey-wants-to-ban-photos-but-a-ban-could-have-unintended-consequences",
-      "publish_time": "2026-06-07T20:30:00+08:00",
-      "summary": "日本市川市动物园因美国游客为网红猕猴跳入猴园录视频，拟禁止拍照，但禁令或引发新问题。",
-      "recommendation": "从摄影伦理与公共空间管理角度，探讨拍照禁令对动物摄影爱好者的实际影响，提供日本动物园管理案例与行业争议观点。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The zoo housing Punch, the viral baby monkey, wants to ban photos – but a ban could have unintended consequences"
-    },
-    {
-      "id": "recvlRVtJR5LXS",
-      "title": "每周优惠：小米17T系列、17 Ultra及谷歌Pixel 10手机降价",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/weekly_deals_xiaomi_17t_series_17_ultra_and_googles_pixel_10_phones_on_discount-news-73163.php",
-      "publish_time": "2026-06-07T19:07:02+08:00",
-      "summary": "小米17T系列、17 Ultra及谷歌Pixel手机降价，17T优惠150英镑，17T Pro优惠200英镑，配备6.59英寸屏和天玑芯片",
-      "recommendation": "小米17T系列与Pixel 10降价，含天玑芯片及6.59英寸屏参数，适合关注性价比的影像爱好者了解市场动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Weekly deals: Xiaomi 17T series, 17 Ultra, and Google’s Pixel 10 phones on discount"
     }
   ]
 }
