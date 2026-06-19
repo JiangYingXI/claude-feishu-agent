@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-19T23:55:06.357740+08:00",
+    "updated_at": "2026-06-20T04:22:20.167779+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 23
+      "count": 22
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 122
+      "count": 116
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 24
+      "count": 26
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,158 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 395
+      "count": 394
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 169
+      "count": 174
     }
   ],
   "articles": [
+    {
+      "id": "recvn1v3FCJx9P",
+      "title": "今日仅在BH：雷克沙SD卡、乐摄宝摄影包和奥本三脚架大幅优惠",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/todya-only-at-bh-save-big-on-lexar-sd-cards-lowepro-bag-and-oben-tripod/",
+      "publish_time": "2026-06-20T03:49:24+08:00",
+      "summary": "BHphoto Dealzone今日大幅优惠：雷克沙SD卡、乐摄宝摄影包和奥本三脚架，同时索尼、适马、腾龙E卡口相机镜头在BHphoto、亚马逊、Adorama也有大额节省。",
+      "recommendation": "汇总BHphoto等平台SD卡、摄影包、三脚架及E卡口相机镜头优惠，提供具体折扣信息，适合近期有采购需求的影像爱好者快速比价。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Todya only at BH: Save big on lexar SD cards, Lowepro bag and Oben tripod"
+    },
+    {
+      "id": "recvn1uKdPyEnN",
+      "title": "26张获奖照片展现人类与自然互动的利与弊",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/19/26-award-winning-photos-show-the-good-and-bad-of-how-we-interact-with-nature/",
+      "publish_time": "2026-06-20T03:00:50+08:00",
+      "summary": "第三届年度自然与人类摄影大赛获奖照片揭示非人类动物的两个截然不同但同等重要的方面",
+      "recommendation": "26张获奖照片从独特视角剖析人类与自然互动，对影像爱好者提升生态摄影叙事能力有直接参考价值，含评委独家点评与拍摄参数解析。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "26 Award-Winning Photos Show the Good and Bad of How We Interact With Nature"
+    },
+    {
+      "id": "recvn1uYrZ8JSZ",
+      "title": "我们的预设让每张图像都如梦似幻",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/19/ai-cant-do-presets-copy/",
+      "publish_time": "2026-06-20T03:00:00+08:00",
+      "summary": "Phoblographer使用自研预设评测，强调预设基于真实性，复现AI难模仿的风格，让摄影师无需AI即可创作。",
+      "recommendation": "评测自研预设的真实性优势，揭示AI难以复制的风格化效果，提供摄影师无需AI的创作新思路。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Our Presets Make Every Image Look Like a Dream"
+    },
+    {
+      "id": "recvn1uWfMNEco",
+      "title": "尼康Z fc虽需更新，但仍是我最爱的相机之一！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-nikon-z-fc-could-do-with-an-update-but-its-still-one-of-my-favorite-cameras",
+      "publish_time": "2026-06-20T02:25:30+08:00",
+      "summary": "尼康Z fc虽非尖端技术，但复古设计与持久魅力使其成为最爱的相机之一。",
+      "recommendation": "从复古设计切入，剖析Z fc在技术迭代中的持久魅力，提供对APS-C相机市场趋势的独到观察，适合关注相机美学与实用平衡的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Nikon Z fc could do with an update, but it’s still one of my favorite cameras!"
+    },
+    {
+      "id": "recvn1uMFQQ8lQ",
+      "title": "用手机拍摄世界杯比赛，效果出奇地好",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/19/photographing-a-world-cup-match-with-my-phone-worked-surprisingly-well/",
+      "publish_time": "2026-06-20T01:30:08+08:00",
+      "summary": "世界杯期间，使用外接增距镜头的智能手机可近距离感受比赛，效果出奇地好，前提是拥有合适的设备组合。",
+      "recommendation": "文章实测手机外接增距镜拍摄世界杯，提供具体设备组合与效果数据，对想用手机拍体育赛事的爱好者有实操参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographing a World Cup Match With My Phone Worked Surprisingly Well"
+    },
+    {
+      "id": "recvn1uU3Pm1RK",
+      "title": "Photoshop的AI助手即将登陆桌面端",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/1952544048/adobe-photoshop-ai-assistant-desktop-beta",
+      "publish_time": "2026-06-20T00:30:00+08:00",
+      "summary": "Adobe将AI创意代理引入桌面版Photoshop，提供聊天界面执行任务，此前已在网页版测试，标志其照片编辑软件AI功能扩展计划推进。",
+      "recommendation": "Adobe将AI创意代理引入桌面版Photoshop，提供聊天界面执行任务，标志其照片编辑软件AI功能扩展计划推进。对影像爱好者而言，可提前了解AI辅助修图新范式，但缺乏具体功能细节或独家数据。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photoshop's AI assistant is making its way to the desktop"
+    },
+    {
+      "id": "recvn1uPeBSECv",
+      "title": "父亲节摄影好价：相机、镜头与三脚架优惠精选",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/19/top-fathers-day-photography-deals-on-cameras-lenses-and-tripods/",
+      "publish_time": "2026-06-20T00:00:18+08:00",
+      "summary": "父亲节促销精选佳能、尼康、索尼等品牌相机、镜头和三脚架，折扣数百至数千美元，为摄影师父亲或自己选购礼物。",
+      "recommendation": "汇总父亲节期间佳能、尼康、索尼等品牌相机、镜头及三脚架折扣，含具体降价幅度，适合有购机需求的影像爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Top Father’s Day Photography Deals on Cameras, Lenses, and Tripods"
+    },
+    {
+      "id": "recvn1v12T3Xm8",
+      "title": "Meyer Optik新镜头：可能是你需要的完美焦距",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/19/meyer-optiks-new-lens-might-be-the-perfect-focal-length-that-you-need/",
+      "publish_time": "2026-06-20T00:00:00+08:00",
+      "summary": "Meyer Optik推出新镜头，德国制造，提供完美焦距，适合年轻和职业摄影师，核心技术参数未详述。",
+      "recommendation": "德国Meyer Optik新镜头主打完美焦距概念，但未披露核心参数，适合关注小众镜头品牌的爱好者了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meyer Optik’s New Lens Might Be the Perfect Focal Length That You Need"
+    },
+    {
+      "id": "recvn1uRsRBVj9",
+      "title": "TourBox Dynamic Panel V2 实现 Lightroom 中强大的全屏照片编辑",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/19/tourbox-dynamic-panel-v2-enables-robust-full-screen-photo-editing-in-lightroom/",
+      "publish_time": "2026-06-19T23:55:25+08:00",
+      "summary": "TourBox发布Lightroom动态面板V2插件，配合TourBox Elite控制台实现全屏无干扰编辑，新增摄影师要求的面板。",
+      "recommendation": "介绍TourBox动态面板V2插件，实现Lightroom全屏无干扰编辑，新增摄影师定制面板，提升后期效率。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "TourBox Dynamic Panel V2 Enables Robust Full-Screen Photo Editing in Lightroom"
+    },
     {
       "id": "recvn0pBw54AXU",
       "title": "日本女性摄影师从未缺席——这场展览为她们的作品带来亟需的关注",
@@ -7665,150 +7808,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "The Nikon NX MobileAir will be completely free starting July 9"
-    },
-    {
-      "id": "recvlYhNuNtZe3",
-      "title": "重磅传闻：索尼或将在2-3年内推出中画幅系统",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/wild-rumor-sony-might-launch-the-medium-format-system-within-2-3-years/",
-      "publish_time": "2026-06-08T21:36:37+08:00",
-      "summary": "索尼或将在2-3年内推出中画幅系统，已开发247百万像素传感器及Rialto 65电影摄影机，传闻源自匿名消息。",
-      "recommendation": "中画幅系统传闻涉及索尼247MP传感器及Rialto 65电影机，为影像爱好者提供未来产品路线图与传感器技术前瞻。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "WILD RUMOR: Sony might launch the medium format system within 2-3 years"
-    },
-    {
-      "id": "recvlYhvG6D5TP",
-      "title": "日本目前最畅销的镜头并非来自索尼、佳能或尼康——售价高达4599美元！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/japans-best-selling-lens-right-now-isnt-from-sony-canon-or-nikon-and-it-costs-us-usd4-599",
-      "publish_time": "2026-06-08T21:34:46+08:00",
-      "summary": "日本最畅销镜头非索尼佳能尼康，而是售价4599美元的中画幅变焦镜头，性能超越顶级旗舰长焦",
-      "recommendation": "解析日本市场罕见的中画幅变焦镜头热销现象，揭示高端镜头消费趋势，含定价与性能对比数据，对关注镜头市场动态的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Japan's best-selling lens right now isn't from Sony, Canon, or Nikon – and it costs US$4,599!"
-    },
-    {
-      "id": "recvmfPyAt1H2f",
-      "title": "售价4599美元的快速变焦镜头成为日本新畅销冠军",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/japans-best-selling-lens-right-now-isnt-from-sony-canon-or-nikon-and-it-costs-us-usd4-599",
-      "publish_time": "2026-06-08T21:34:46+08:00",
-      "summary": "售价4599美元的全球最快中画幅变焦镜头，性能超越部分顶级长焦，成为日本新畅销冠军。",
-      "recommendation": "解析4599美元中画幅变焦镜头登顶日本畅销榜，提供性能数据与市场趋势，适合关注高端镜头动态的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This US$4,599 fast zoom lens is Japan's new No.1 best-seller"
-    },
-    {
-      "id": "recvlYhQ4bX0NL",
-      "title": "索尼在印尼注册固定镜头紧凑型相机：会是新款RX100VIII吗？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-registered-a-fixed-lens-compact-camera-in-indonesia-is-it-the-new-rx100viii/",
-      "publish_time": "2026-06-08T21:32:08+08:00",
-      "summary": "索尼在印尼注册固定镜头相机WW308784，归类数码相机，暗示非E卡口，可能为RX100VIII，但注册已撤销。",
-      "recommendation": "解析索尼印尼注册固定镜头相机线索，提供RX100VIII潜在规格推测，对关注便携旗舰卡片机的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony registered a fixed lens compact camera in Indonesia: Is it the new RX100VIII?"
-    },
-    {
-      "id": "recvlYhKVUvN6W",
-      "title": "现已开放预购：适用于尼康Z卡口的唯卓仕AF 90mm f/2.2和75mm f/1.8 EVO APS-C镜头",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/08/now-available-for-pre-order-new-viltrox-af-90mm-f-2-2-75mm-f-1-8-evo-aps-c-lenses-for-nikon-z-mount.aspx/",
-      "publish_time": "2026-06-08T21:11:17+08:00",
-      "summary": "唯卓仕两款适用于尼康Z卡口的APS-C镜头AF 90mm f/2.2和75mm f/1.8 EVO现已开放预购，技术规格已公布。",
-      "recommendation": "文章公布唯卓仕两款尼康Z卡口APS-C镜头预购信息及完整规格，含90mm f/2.2和75mm f/1.8 EVO的详细参数，为Z卡口用户提供新选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Now available for pre-order: new Viltrox AF 90mm f/2.2 & 75mm f/1.8 EVO APS-C lenses for Nikon Z-mount"
-    },
-    {
-      "id": "recvlYhFPiDvUG",
-      "title": "Viltrox AF 75mm F1.8 和 90mm F2.2 EVO 镜头现已上市 – 首发评测",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/viltrox-af-75mmf1-8-and-90mmf2-2-evo-lenses-available-now-first-reviews/",
-      "publish_time": "2026-06-08T21:01:44+08:00",
-      "summary": "Viltrox发布富士X卡口AF 75mm F1.8和90mm F2.2 EVO镜头，结账用码FUJIRUMORS省5%，首发评测已上线。",
-      "recommendation": "首发评测含实拍样张与自动对焦性能数据，对比富士原厂同焦段镜头，提供光圈全开锐度与色散控制实测，为富士用户选购副厂长焦定焦提供参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Viltrox AF 75mmF1.8 and 90mmF2.2 EVO Lenses Available Now – First Reviews"
-    },
-    {
-      "id": "recvlYhnLozqUU",
-      "title": "唯卓仕发布Evo 75mm f/1.8和90mm f/2.2人像定焦镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/viltrox-announces-evo-75mm-f-1-8-and-90mm-f-2-2-portrait-primes/",
-      "publish_time": "2026-06-08T21:00:10+08:00",
-      "summary": "唯卓仕发布Evo系列两款APS-C人像定焦镜头：AF 75mm f/1.8和AF 90mm f/2.2，支持索尼E、尼康Z、富士X卡口，紧凑轻巧提供专业人像性能",
-      "recommendation": "文章详解唯卓仕Evo系列两款APS-C人像头参数，75mm f/1.8与90mm f/2.2的紧凑设计及三卡口适配性，为追求轻便专业人像的爱好者提供具体选镜参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox Announces Evo 75mm f/1.8 and 90mm f/2.2 Portrait Primes"
-    },
-    {
-      "id": "recvlYhsOFGf6T",
-      "title": "唯卓仕最新APS-C画幅镜头专为人像摄影打造",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/6357360508/viltrox-75-90mm-lenses-aps-c",
-      "publish_time": "2026-06-08T21:00:00+08:00",
-      "summary": "唯卓仕推出两款APS-C画幅人像镜头：75mm F1.8和90mm F2.2，适用于富士X、尼康Z和索尼E卡口，采用高折射率和超低色散镜片，最近对焦距离短。",
-      "recommendation": "文章详解唯卓仕两款APS-C人像镜头的规格参数，包括75mm F1.8和90mm F2.2的镜片配置与卡口适配，为富士、尼康、索尼用户提供具体的人像镜头选择参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox's latest APS-C lenses are made for portraits"
-    },
-    {
-      "id": "recvlYhDlJlmaV",
-      "title": "APS-C画幅相机用户迎来Viltrox激动人心的新品",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/08/aps-c-camera-users-have-something-exciting-coming-from-viltrox/",
-      "publish_time": "2026-06-08T21:00:00+08:00",
-      "summary": "唯卓仕发布75mm F1.8和90mm F2.2自动对焦镜头，专为APS-C画幅索尼、尼康、富士相机设计，价格亲民，适合肖像摄影。",
-      "recommendation": "唯卓仕为APS-C画幅用户带来75mm F1.8和90mm F2.2两款亲民人像镜头，提供自动对焦和具体光圈数据，适合索尼、尼康、富士用户参考性价比选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "APS-C Camera Users Have Something Exciting Coming From Viltrox"
     }
   ]
 }
