@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-19T05:09:04.886277+08:00",
+    "updated_at": "2026-06-19T13:40:20.061311+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 125
+      "count": 126
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,92 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 393
+      "count": 394
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 172
+      "count": 170
     }
   ],
   "articles": [
+    {
+      "id": "recvmXUYp7mLHq",
+      "title": "8款最佳变焦镜头紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/19/8-best-compact-cameras-with-good-zoom-lenses/",
+      "publish_time": "2026-06-19T12:00:00+08:00",
+      "summary": "紧凑型相机重获青睐，本文推荐8款配备优质变焦镜头的机型，适合旅行摄影，保留核心参数与数据。",
+      "recommendation": "汇总8款主流变焦卡片机核心参数，含传感器尺寸与焦段数据，为旅行摄影选购提供横向对比参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "8 Best Compact Cameras with Good Zoom Lenses"
+    },
+    {
+      "id": "recvmXV0Gr9oS0",
+      "title": "7Artisans发布尼康Z卡口“梦想”系列入门级电影镜头：35mm、50mm、75mm T1.5",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/18/7artisans-launched-new-dream-35mm-50mm-75mm-t1-5-entry-level-cinema-lenses-for-nikon-z-mount.aspx/",
+      "publish_time": "2026-06-19T08:16:01+08:00",
+      "summary": "7Artisans发布尼康Z卡口入门级电影镜头系列，35mm、50mm、75mm T1.5，售价279-299美元，套装850美元，预购开启。",
+      "recommendation": "尼康Z卡口入门电影镜头新选择，35/50/75mm T1.5三支套装850美元，价格与规格透明，适合视频创作者低成本入坑。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans launched new “Dream” 35mm, 50mm, and 75mm T1.5 entry-level cinema lenses for Nikon Z-mount"
+    },
+    {
+      "id": "recvmXUTDXWp7l",
+      "title": "Spotify Reserved 为最忠实的粉丝提供预售演唱会门票",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/spotify_reserved_offers_advance_concert_tickets_to_the_most_dedicated_fans-news-73344.php",
+      "publish_time": "2026-06-19T06:31:02+08:00",
+      "summary": "Spotify在美国推出Reserved功能，为最忠实粉丝预留两张演唱会门票，在公开售票前提供购买机会，资格基于流媒体播放、收藏和分享等信号判定。",
+      "recommendation": "虽非影像直接相关，但展示了流媒体平台基于用户数据创新服务模式，对理解消费电子生态中用户忠诚度运营有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Spotify Reserved offers advance concert tickets to the most dedicated fans"
+    },
+    {
+      "id": "recvmXUR6ArVUX",
+      "title": "Galaxy S27：新传闻暗示相机硬件无升级",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phones/galaxy-s27-new-rumor-suggests-no-new-camera-hardware",
+      "publish_time": "2026-06-19T05:15:34+08:00",
+      "summary": "三星Galaxy S27新传闻暗示相机硬件无升级，可能延续S系列令人失望的相机表现。",
+      "recommendation": "本文揭示三星S27相机硬件零升级传闻，对关注旗舰影像迭代的用户具参考价值，但缺乏独家数据支撑，观点偏保守。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Galaxy S27: new rumor suggests no new camera hardware"
+    },
+    {
+      "id": "recvmXUW0KZnFT",
+      "title": "SK海力士交付HBM4E内存样品：每引脚16Gbps，12层堆叠容量48GB",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/sk_hynix_ships_samples_of_its_hbm4e_memory_16gbps_per_pin_48gb_capacity_per_12layer_stack-news-73336.php",
+      "publish_time": "2026-06-19T05:03:02+08:00",
+      "summary": "SK海力士交付HBM4E内存样品，每引脚16Gbps，12层堆叠容量48GB，速度超越前代和三星竞品。",
+      "recommendation": "HBM4E内存带宽提升至每引脚16Gbps，12层堆叠48GB容量，直接关联手机影像芯片的缓存与处理速度，为计算摄影提供硬件基础。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "SK hynix ships samples of its HBM4E memory: 16Gbps per pin, 48GB capacity per 12-layer stack"
+    },
     {
       "id": "recvmVQ5nYM6m8",
       "title": "七工匠发布入门级电影镜头系列，起售价仅279美元",
@@ -7733,83 +7810,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "EVF vs LCD: Which one could I live without on my camera?"
-    },
-    {
-      "id": "recvlVwkziXSTp",
-      "title": "每周优惠：三星Galaxy S26 Ultra降价，谷歌Pixel 10 Pro XL仍更便宜",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/weekly_deals_samsung_galaxy_s26_ultra_price_drops_the_google_pixel_10_pro_xl_is_still_cheaper-news-73144.php",
-      "publish_time": "2026-06-08T04:07:02+08:00",
-      "summary": "三星Galaxy S26 Ultra 512GB降至1220美元，亚马逊Prime Day提前至6月23日至26日，提供早期优惠。",
-      "recommendation": "三星S26 Ultra降价至1220美元，Pixel 10 Pro XL仍更便宜，提供旗舰影像设备价格对比，适合关注性价比的摄影爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly deals: Samsung Galaxy S26 Ultra price drops, the Google Pixel 10 Pro XL is still cheaper"
-    },
-    {
-      "id": "recvlTfdyC9IKq",
-      "title": "富士胶片砍掉了这些相机系列——但富士X80值得保留",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-killed-these-camera-lines-but-the-fujifilm-x80-deserves-to-live/",
-      "publish_time": "2026-06-08T02:33:34+08:00",
-      "summary": "富士胶片砍掉X-T100、XF1、XQ1、X-A等系列，但认为X80值得保留，因其独特价值。",
-      "recommendation": "梳理富士砍掉的系列，聚焦X80的保留价值，提供产品线决策逻辑与市场定位分析，适合关注富士产品策略的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm Killed These Camera Lines — But the Fujifilm X80 Deserves to Live"
-    },
-    {
-      "id": "recvlTf8pD2s8b",
-      "title": "夜间收起相机时，我会将其设为ISO400、f/8和后键对焦——这样一早拿起设备就能直接开拍",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/when-i-put-my-cameras-away-at-night-i-leave-them-at-iso400-f-8-and-back-button-focus-so-when-i-pick-up-my-kit-first-thing-im-ready-to-go",
-      "publish_time": "2026-06-08T02:10:00+08:00",
-      "summary": "野生动物摄影大师保罗·尼克伦分享夜间相机设置技巧：ISO400、f/8和后键对焦，确保清晨快速开拍，摘自其新书《如何在摄影中取得成功》",
-      "recommendation": "野生动物摄影师保罗·尼克伦分享ISO400、f/8与后键对焦的夜间设置技巧，提供清晨快速开拍的实用经验，对追求效率的摄影爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"When I put my cameras away at night, I leave them at ISO400, f/8 and back-button focus – so when I pick up my kit first thing, I'm ready to go\""
-    },
-    {
-      "id": "recvlTfaR7ZZIK",
-      "title": "三阳会推出尼康Z卡口自动对焦镜头吗？除非获得官方授权",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/will-samyang-ever-make-af-nikon-z-lenses-not-until-it-becomes-officially-licensed",
-      "publish_time": "2026-06-07T23:20:00+08:00",
-      "summary": "韩国镜头制造商三阳可能推出尼康Z卡口自动对焦镜头，但需先获得官方授权。",
-      "recommendation": "解析三阳Z卡口自动对焦镜头的授权门槛，对尼康用户了解副厂镜头生态有参考价值，揭示第三方厂商的技术与商业博弈。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Will Samyang ever make AF Nikon Z lenses? Not until it becomes officially licensed"
-    },
-    {
-      "id": "recvlTf5LnSC1M",
-      "title": "伊拉克队摄影师世界杯前夕被拒入境美国",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/07/iraqs-team-photographer-denied-entry-into-the-us-ahead-of-the-world-cup/",
-      "publish_time": "2026-06-07T23:17:56+08:00",
-      "summary": "伊拉克队摄影师塔拉勒·萨拉赫随队赴美被拒入境，导致该队40年来首次世界杯亮相无官方摄影师",
-      "recommendation": "揭示体育摄影行业国际差旅风险，对计划海外拍摄的影像从业者有实际参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Iraq’s Team Photographer Denied Entry Into the US Ahead of the World Cup"
     }
   ]
 }
