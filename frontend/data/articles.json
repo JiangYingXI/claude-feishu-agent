@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-19T19:12:04.140659+08:00",
+    "updated_at": "2026-06-19T23:55:06.357740+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 21
+      "count": 23
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 123
+      "count": 122
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,159 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 36
+      "count": 34
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 394
+      "count": 395
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 170
+      "count": 169
     }
   ],
   "articles": [
+    {
+      "id": "recvn0pBw54AXU",
+      "title": "日本女性摄影师从未缺席——这场展览为她们的作品带来亟需的关注",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/japanese-women-photographers-have-always-been-there-and-this-exhibition-sheds-much-needed-light-on-their-work",
+      "publish_time": "2026-06-19T22:25:22+08:00",
+      "summary": "新展览聚焦20世纪50年代至今的日本女性摄影，涵盖身份、自然、母性及日常生活等主题，为她们的作品带来亟需关注。",
+      "recommendation": "展览梳理20世纪50年代至今日本女性摄影脉络，涵盖身份、自然等主题，为影像爱好者提供创作视角与历史背景的深度参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Japanese women photographers have always been there – and this exhibition sheds much-needed light on their work"
+    },
+    {
+      "id": "recvn0puxm91RJ",
+      "title": "Fender Mix 耳机：连接多样但性能平平",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/19/fender-mix-headphones-versatile-connectivity-but-middling-performance/",
+      "publish_time": "2026-06-19T22:01:14+08:00",
+      "summary": "Fender Mix耳机设计独特，可适应多种场景且操作简单，但性能表现一般，适合摄像师和视频编辑使用。",
+      "recommendation": "文章聚焦Fender Mix耳机在摄像场景的适配性，提供多场景连接方案，对视频创作者有参考价值，但性能数据不足。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fender Mix Headphones: Versatile Connectivity but Middling Performance"
+    },
+    {
+      "id": "recvn0pKqNMkyU",
+      "title": "独家重磅：索尼FX3II不会来了……有更好的新品，众多新功能加持！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/exclusive-breaking-news-nonew-sony-fx3ii-coming-there-is-something-better-with-many-new-features/",
+      "publish_time": "2026-06-19T21:48:09+08:00",
+      "summary": "索尼将不推出FX3II，而是发布一款功能更丰富的新FX相机，具体细节待公布。",
+      "recommendation": "独家披露索尼FX3II取消计划，转向功能更丰富的新FX机型，为等待升级的影像用户提供关键决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "EXCLUSIVE breaking news: No new Sony FX3II coming…there is something better with many NEW features!!!"
+    },
+    {
+      "id": "recvn0pwDP5KwY",
+      "title": "Excire Foto 2027 承诺提供功能丰富且强大的照片管理体验",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/19/excire-foto-2027-promises-a-feature-rich-and-powerful-photo-management-experience/",
+      "publish_time": "2026-06-19T21:00:20+08:00",
+      "summary": "模式识别公司发布Excire Foto 2027，为摄影师提供改进的搜索、组织和工作流程工具，提升照片管理体验。",
+      "recommendation": "详解Excire Foto 2027的AI搜索与组织工具，提供照片管理效率提升的具体功能数据，适合需要优化工作流的摄影师参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Excire Foto 2027 Promises a Feature-Rich and Powerful Photo Management Experience"
+    },
+    {
+      "id": "recvn0pI9FrlKt",
+      "title": "三星确认Galaxy M47即将发布，设计图曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_confirms_the_galaxy_m47_is_coming_soon_design_teased-news-73355.php",
+      "publish_time": "2026-06-19T21:00:02+08:00",
+      "summary": "三星确认Galaxy M47 5G即将在印度发布，预告视频展示哑光红后盖、药丸形三摄模组，延续M36设计。",
+      "recommendation": "三星M47设计图曝光，药丸三摄模组延续M36，常规资讯可了解中端影像布局。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung confirms the Galaxy M47 is coming soon, design teased"
+    },
+    {
+      "id": "recvn0pz20Fb95",
+      "title": "专属应用：一位摄影师为何为胶片摄影爱好者建立社区",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/interviews/1380806593/phaos-app-danielle-honan-developer-interview",
+      "publish_time": "2026-06-19T21:00:00+08:00",
+      "summary": "摄影师因对Instagram不满，建立名为Phaos的社区，名称源自希腊语“光”，标志象征光子与卤化银晶体作用，专为胶片摄影爱好者提供分享平台。",
+      "recommendation": "剖析胶片社区Phaos的创立动机与设计理念，提供摄影师逃离算法社交的替代方案，对胶片爱好者有社群参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "An app of their own: Why one photographer built a community for film photographers"
+    },
+    {
+      "id": "recvn0pMrRIaTb",
+      "title": "6款最佳1英寸传感器紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/19/6-best-compact-cameras-with-1-inch-sensors/",
+      "publish_time": "2026-06-19T21:00:00+08:00",
+      "summary": "本文推荐6款1英寸传感器紧凑型相机，强调其小巧体积与出色性能，适合年轻摄影师选购。",
+      "recommendation": "汇总6款主流1英寸卡片机，含索尼ZV-1、佳能G7 X III等，提供传感器尺寸、光圈范围等关键参数对比，适合选购参考。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "6 Best Compact Cameras with 1-inch Sensors"
+    },
+    {
+      "id": "recvn0pDKRLoIj",
+      "title": "订阅《数码相机》杂志2026年7月刊，获赠15份额外好礼",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/magazines/get-15-bonus-gifts-with-the-july-2026-issue-of-digital-camera-magazine",
+      "publish_time": "2026-06-19T20:30:00+08:00",
+      "summary": "订阅《数码相机》2026年7月刊，获赠9张摄影技巧卡片、32分钟视频课程、33款软件附加组件和一本电子书，来自全球最受欢迎摄影杂志的精选好礼。",
+      "recommendation": "订阅赠品含摄影技巧卡片、视频课程与软件组件，适合入门用户获取实用资源，但内容为常规促销资讯，无独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Get 15 bonus gifts with the July 2026 issue of Digital Camera magazine"
+    },
+    {
+      "id": "recvn0pG1fFO3l",
+      "title": "富士X-T6：更强性能，更大续航——NP-W235电池注册信息曝光",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-more-power-more-juice-np-w255-registered/",
+      "publish_time": "2026-06-19T19:56:13+08:00",
+      "summary": "富士X-T6将搭载X Processor 6处理器，性能提升，并采用新注册的NP-W255电池，续航增强。",
+      "recommendation": "曝光X-T6搭载X Processor 6与NP-W255电池，性能续航双升级，为富士用户提供新机关键参数参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm X-T6 – More Power, More Juice – NP-W255 Battery Registered"
+    },
     {
       "id": "recvmZgai8XU8K",
       "title": "相机陷阱首次捕捉到狼群捕猎欧洲野牛",
@@ -7670,146 +7809,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "APS-C Camera Users Have Something Exciting Coming From Viltrox"
-    },
-    {
-      "id": "recvlYhq3aY4Ew",
-      "title": "《奥德赛》网站让你以全部六种不同格式观看预告片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/the-odyssey-website-lets-you-watch-the-trailer-in-all-six-different-formats/",
-      "publish_time": "2026-06-08T20:42:58+08:00",
-      "summary": "克里斯托弗·诺兰新片《奥德赛》官网提供从IMAX 70毫米到杜比视界共六种格式的预告片观看体验",
-      "recommendation": "六种格式对比直观展示IMAX、杜比视界等画质差异，为影像爱好者提供格式选择参考，含诺兰团队技术细节。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "‘The Odyssey’ Website Lets You Watch the Trailer in All Six Different Formats"
-    },
-    {
-      "id": "recvlYhyjBH1VU",
-      "title": "在此观看苹果WWDC 26主题演讲直播",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/watch_apples_wwdc_26_keynote_livestream_here-news-73172.php",
-      "publish_time": "2026-06-08T19:27:02+08:00",
-      "summary": "苹果WWDC 26主题演讲即将开始，CEO库克可能最后一次主持，预计发布iOS等下一代软件平台。",
-      "recommendation": "WWDC影像系统更新前瞻，关注iOS新API对计算摄影的潜在影响，库克时代最后一次主题演讲或透露影像战略方向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Watch Apple's WWDC 26 keynote livestream here"
-    },
-    {
-      "id": "recvlX1UPdnURL",
-      "title": "日本顶级排球联赛因担忧“不当”图像禁止所有摄影",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/japans-top-volleyball-competition-bans-all-photography-over-fears-about-inappropriate-images/",
-      "publish_time": "2026-06-08T19:24:59+08:00",
-      "summary": "日本顶级沙滩排球联赛因选手担忧偷窥和不当拍摄，全面禁止摄影。",
-      "recommendation": "从赛事禁拍事件切入，揭示公众场所摄影伦理争议，为影像创作者提供隐私边界与行业规范的深度参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Japan’s Top Volleyball Competition Bans All Photography Over Fears About ‘Inappropriate’ Images"
-    },
-    {
-      "id": "recvlX2aROZutS",
-      "title": "Viltrox AF 75mm F1.8 和 90mm F2.2 EVO – 现可在 BHphoto 预订",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/viltrox-af-75mmf1-8-and-90mmf2-2-evo-preorder-at-bhphoto-now/",
-      "publish_time": "2026-06-08T18:39:24+08:00",
-      "summary": "Viltrox AF 75mm F1.8和90mm F2.2 EVO镜头现已在BHphoto等渠道开启预购，即将正式发布。",
-      "recommendation": "Viltrox两款新镜头开启预购，提供75mm F1.8与90mm F2.2的规格参数，适合关注副厂定焦镜头的用户了解新品动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Viltrox AF 75mmF1.8 and 90mmF2.2 EVO – Preorder at BHphoto Now"
-    },
-    {
-      "id": "recvlX1Xp7EFTj",
-      "title": "摄影记者在报道德莱尼大厅抗议活动时被车撞倒并拖行",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/photojournalist-hit-and-dragged-by-car-while-covering-delaney-hall-protests/",
-      "publish_time": "2026-06-08T18:33:38+08:00",
-      "summary": "一名摄影记者在德莱尼大厅外报道抗议时被车撞倒并拖行，事件引发关注。",
-      "recommendation": "从摄影记者视角解析突发事件拍摄风险，探讨新闻现场安全与器材防护策略，含实战经验与设备选择建议。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photojournalist Hit and Dragged by Car while Covering Delaney Hall Protests"
-    },
-    {
-      "id": "recvlX1ZpZst0E",
-      "title": "野生动物摄影传奇乔纳森与安吉拉·斯科特分享游猎礼仪指南，推广新电子书",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/wildlife-photography-legends-jonathan-and-angela-scott-share-their-tips-for-safari-etiquette-promoting-their-new-e-book",
-      "publish_time": "2026-06-08T18:06:13+08:00",
-      "summary": "野生动物摄影传奇乔纳森与安吉拉·斯科特分享游猎礼仪指南，推广新电子书，呼吁在拍摄野生动物照片时采取负责任的行为。",
-      "recommendation": "野生动物摄影大师分享游猎礼仪，提供负责任的拍摄行为指南，对生态摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Wildlife photography legends Jonathan and Angela Scott share their tips for Safari Etiquette, promoting their new e-book"
-    },
-    {
-      "id": "recvlX2d1LwkBE",
-      "title": "相机黑客技巧：将你的照片变成艺术品",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/08/the-camera-hack-that-transforms-your-images-into-fine-art/",
-      "publish_time": "2026-06-08T18:00:00+08:00",
-      "summary": "通过电路弯曲技术改造老式相机，无需昂贵设备即可创作独特艺术照片，实现个性化影像叙事。",
-      "recommendation": "本文揭秘电路弯曲改造老相机的黑客技法，提供低成本创作艺术照片的实操路径，含独特改装步骤与样张对比，对追求个性化影像叙事的爱好者有直接启发。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Camera Hack That Transforms Your Images Into Fine Art"
-    },
-    {
-      "id": "recvlX2hzhIrlK",
-      "title": "索尼大精工：RX1R III",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sonys-grand-seiko-the-rx1r-iii/",
-      "publish_time": "2026-06-08T17:59:22+08:00",
-      "summary": "索尼RX1R III相机在多家零售商有售，Dustin评测称其为索尼的Grand Seiko，强调其精湛工艺与卓越性能。",
-      "recommendation": "文章以“索尼大精工”比喻RX1R III，强调其工艺与性能，适合关注高端紧凑相机的用户，但缺乏独家数据或深度评测。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony’s Grand Seiko: The RX1R III"
-    },
-    {
-      "id": "recvlX21FvWT20",
-      "title": "Voygr 1相机包评测：奢华与实用性的近乎完美结合",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/voygr-1-camera-bag-review",
-      "publish_time": "2026-06-08T17:46:31+08:00",
-      "summary": "Voygr 1相机包评测：奢华与实用性近乎完美结合，既能当相机包又能当时尚配件，证明风格也可兼具实用性。",
-      "recommendation": "评测Voygr 1相机包，解析其兼顾摄影器材保护与日常时尚穿搭的设计细节，对追求实用与风格的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Voygr 1 Camera Bag review: Luxury meets practicality in an almost perfect marriage"
     }
   ]
 }
