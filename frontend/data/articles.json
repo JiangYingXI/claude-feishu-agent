@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-19T13:40:20.061311+08:00",
+    "updated_at": "2026-06-19T19:12:04.140659+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 18
+      "count": 21
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 126
+      "count": 123
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,12 +23,12 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 22
+      "count": 24
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 36
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,162 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvmZgai8XU8K",
+      "title": "相机陷阱首次捕捉到狼群捕猎欧洲野牛",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/19/camera-traps-capture-wolves-hunting-european-bison-for-the-first-time/",
+      "publish_time": "2026-06-19T19:00:00+08:00",
+      "summary": "相机陷阱首次在波兰古老森林中捕捉到狼群捕猎欧洲野牛群的画面",
+      "recommendation": "相机陷阱技术应用案例，展示野外摄影中触发式拍摄的实战价值，对生态影像爱好者有参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Camera Traps Capture Wolves Hunting European Bison for the First Time"
+    },
+    {
+      "id": "recvmZgmz7G3N5",
+      "title": "新iPhone Ultra概念视频近距离展示苹果折叠屏设计",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_iphone_ultra_renders_and_video_offer_closer_look_at_apples_foldable-news-73349.php",
+      "publish_time": "2026-06-19T18:53:02+08:00",
+      "summary": "苹果可折叠iPhone Ultra概念视频曝光，展示黑白双色设计，基于此前泄露的CAD渲染图和模型机细节。",
+      "recommendation": "基于CAD渲染图与模型机细节，解析折叠屏设计对影像模组布局的潜在影响，提供概念机影像硬件配置的独家推测。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New iPhone Ultra concept video offers closer look at Apple's foldable"
+    },
+    {
+      "id": "recvmZgcVww1C1",
+      "title": "单反击败无反！！！我推荐尼康D7500单反而非尼康Z fc",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-beats-mirrorless-i-just-recommended-a-nikon-d7500-dslr-camera-over-a-nikon-z-fc",
+      "publish_time": "2026-06-19T18:35:53+08:00",
+      "summary": "朋友问买尼康Z fc还是D7500，我推荐D7500单反，因性能更强且性价比高，令人惊讶。",
+      "recommendation": "从性价比角度重新审视单反与无反选择，提供D7500性能对比Z fc的实测数据，对预算有限的摄影爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DSLR beats mirrorless!!! I just recommended a Nikon D7500 DSLR camera over a Nikon Z fc"
+    },
+    {
+      "id": "recvmZgfmtjfUe",
+      "title": "UGREEN NASync DH2300评测：摄影师的首选NAS",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cloud-storage/ugreen-nasync-dh2300-review-the-perfect-first-nas-for-photographers",
+      "publish_time": "2026-06-19T18:00:00+08:00",
+      "summary": "UGREEN NASync DH2300评测：摄影师首款NAS，提供高速数据传输与稳定存储，支持多盘位RAID配置，满足专业摄影需求。",
+      "recommendation": "评测UGREEN NASync DH2300，详解多盘位RAID配置与高速传输对摄影师工作流的实际提升，提供存储方案选择参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "UGREEN NASync DH2300 review: the perfect first NAS for photographers"
+    },
+    {
+      "id": "recvmZgudqTjzT",
+      "title": "观点：将AI加入移轴摄影可能真正改变局面",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/19/opinion-adding-ai-to-tilt-shift-could-really-change-things/",
+      "publish_time": "2026-06-19T18:00:00+08:00",
+      "summary": "AI技术可辅助移轴镜头决策，富士胶片为GFX系列推出新移轴镜头，但其他品牌未跟进，AI或改变局面。",
+      "recommendation": "AI辅助移轴镜头决策的独特观点，结合富士GFX新镜头现状，为影像爱好者提供计算摄影新思路。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Opinion: Adding AI to Tilt Shift Could Really Change Things"
+    },
+    {
+      "id": "recvmZgrBKYoWi",
+      "title": "索尼发布新款手机传感器，动态范围达100 dB",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-announced-a-new-mobile-sensor-with-100-db-dynamic-range/",
+      "publish_time": "2026-06-19T17:41:01+08:00",
+      "summary": "索尼发布LYTIA L910传感器，采用LOFIC技术，动态范围达100 dB，支持低功耗4K拍摄，提升夜景和户外成像性能。",
+      "recommendation": "解析索尼LYTIA L910的LOFIC技术实现100dB动态范围，提供低功耗4K拍摄数据，对关注手机夜景与户外成像提升的爱好者有直接参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony announced a new mobile sensor with 100 dB Dynamic Range"
+    },
+    {
+      "id": "recvmZghBmFSqX",
+      "title": "索尼最新图像传感器或将革新手机相机HDR",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phones/sonys-latest-image-sensor-could-revolutionize-camera-phone-hdr",
+      "publish_time": "2026-06-19T17:17:13+08:00",
+      "summary": "索尼新图像传感器单次曝光实现16.6档动态范围，可能革新手机HDR性能。",
+      "recommendation": "索尼16.6档动态范围单次曝光技术，直击手机HDR痛点，提供关键传感器数据与行业影响分析，适合关注硬件突破的影像爱好者。",
+      "categories": [
+        "传感器硬件",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony's latest image sensor could revolutionize camera phone HDR"
+    },
+    {
+      "id": "recvmZgwph2iqB",
+      "title": "2026年佳能R7还值得买吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/19/is-the-canon-r7-a-good-camera-in-2026/",
+      "publish_time": "2026-06-19T15:00:00+08:00",
+      "summary": "佳能R7搭载3200万像素APS-C传感器，经固件1.8.0更新后功能全面，对年轻摄影师性价比高。",
+      "recommendation": "固件1.8.0更新后R7功能全面，3200万像素APS-C传感器数据详实，为年轻摄影师提供性价比分析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the Canon R7 a Good Camera in 2026?"
+    },
+    {
+      "id": "recvmZgjXWuPld",
+      "title": "这台罕见的徕卡MP-33以近70万美元成交——但一台1938年的相机才是拍卖会最大惊喜",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/rangefinder-cameras/this-rare-leica-mp-33-just-sold-for-nearly-usd700-000-but-a-1938-camera-delivered-the-biggest-auction-surprise",
+      "publish_time": "2026-06-19T14:47:21+08:00",
+      "summary": "徕卡MP-33以69.6万美元成交，但1938年原型机才是拍卖会最大惊喜，成交价更高。",
+      "recommendation": "文章披露徕卡MP-33与1938年原型机的成交价差，提供拍卖市场对稀有相机价值判断的独家数据，适合关注收藏级相机行情的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This rare Leica MP-33 just sold for nearly $700,000 – but a 1938 camera delivered the biggest auction surprise"
+    },
+    {
+      "id": "recvmZgoZ5szCz",
+      "title": "《GTA VI》本月开启预购，官方封面艺术图公布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/gta_vi_preorders_start_this_month_the_official_cover_art_has_been_revealed-news-73345.php",
+      "publish_time": "2026-06-19T13:30:02+08:00",
+      "summary": "《GTA VI》将于6月25日开启预购，官方封面艺术图公布，游戏最晚11月19日发售，届时公布价格。",
+      "recommendation": "常规资讯，可了解行业动态。游戏封面艺术图可作视觉参考，但无影像技术或设备相关数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 3,
+      "language": "English",
+      "original_title": "GTA VI pre-orders start this month, the official cover art has been revealed"
+    },
     {
       "id": "recvmXUYp7mLHq",
       "title": "8款最佳变焦镜头紧凑型相机",
@@ -7654,162 +7810,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Voygr 1 Camera Bag review: Luxury meets practicality in an almost perfect marriage"
-    },
-    {
-      "id": "recvlX23XRUYYS",
-      "title": "无需AI：病毒式相机内创作者Jordi Koaltic将于6月10日在免费摄影工作坊分享视觉特效技巧",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-technique/no-ai-necessary-viral-in-camera-creator-jordi-koaltic-will-share-visual-effects-tricks-in-a-free-photography-workshop-on-june-10",
-      "publish_time": "2026-06-08T17:08:04+08:00",
-      "summary": "病毒式创作者Jordi Koaltic将于6月10日在Adorama免费工作坊分享相机内视觉特效技巧，并在YouTube直播。",
-      "recommendation": "Jordi Koaltic分享相机内视觉特效技巧，无需后期AI，提供实拍创作思路与独家工作坊资源，适合追求技术本真的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "No AI necessary: Viral in-camera creator Jordi Koaltic will share visual effects tricks in a free photography workshop on June 10"
-    },
-    {
-      "id": "recvlX26gyiYYu",
-      "title": "Peak Design旅行背包20L评测：这款旅行相机包极简设计出色，唯两点遗憾",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/peak-design-travel-backpack-20l-review-this-travel-camera-bag-is-wonderfully-minimalist-except-for-two-disappointments",
-      "publish_time": "2026-06-08T17:01:50+08:00",
-      "summary": "Peak Design旅行背包20L评测：外观时尚，尺寸适合极简装备，但水瓶口袋和材质设计存在遗憾。",
-      "recommendation": "背包评测聚焦影像装备携带，20L容量与极简设计适配轻量化出行，水瓶口袋与材质短板提供真实选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Peak Design Travel Backpack 20L review: This travel camera bag is wonderfully minimalist, except for two disappointments"
-    },
-    {
-      "id": "recvlX2fobnQIT",
-      "title": "一群狂热粉丝如何毁了富士胶片",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/08/how-a-bunch-of-fanboys-ruined-fujifilm/",
-      "publish_time": "2026-06-08T15:00:00+08:00",
-      "summary": "文章批评富士胶片因狂热粉丝导致APS-C画幅相机技术停滞，而全画幅和中画幅获得更好功能，指出GF系列画质优于X系列。",
-      "recommendation": "文章从粉丝文化角度切入富士胶片产品策略，揭示X系列技术停滞与GF系列画质优势的行业矛盾，对APS-C用户有决策参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How a Bunch of Fanboys Ruined Fujifilm"
-    },
-    {
-      "id": "recvlVwp2NWPdQ",
-      "title": "解读VSCO在2026年6月的操作：它到底在搞什么鬼",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/08/understanding-just-what-the-hell-vsco-is-doing-right-now-for-june-2026/",
-      "publish_time": "2026-06-08T12:00:00+08:00",
-      "summary": "VSCO更新社区准则、隐私政策和使用条款，作为摄影师最道德的选择，文章讨论这些变化的核心内容。",
-      "recommendation": "解读VSCO政策更新对摄影师隐私与创作自由的影响，提供社区准则与条款变化的深度分析，助你理解平台道德选择背后的逻辑。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Understanding Just What the Hell VSCO is Doing Right Now for June 2026"
-    },
-    {
-      "id": "recvlVwdnGp2ez",
-      "title": "Tenba Roadie v2 Spinner 21 International 评测：一款为全程而非仅机场设计的相机拉杆箱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/tenba-roadie-v2-spinner-21-international-review",
-      "publish_time": "2026-06-08T11:20:00+08:00",
-      "summary": "Tenba Roadie v2 Spinner 21 International 相机拉杆箱严格符合航空公司随身行李限制，专为全程旅行设计，兼顾便携与防护。",
-      "recommendation": "评测聚焦旅行全程实用性，提供随身行李合规数据与防护设计细节，对需携带相机长途出行的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tenba Roadie v2 Spinner 21 International review: A camera roller bag that’s designed for the whole journey, not just the airport terminal"
-    },
-    {
-      "id": "recvlVwrv9OUZP",
-      "title": "尼康新闻周刊第889期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/07/weekly-nikon-news-flash-889.aspx/",
-      "publish_time": "2026-06-08T09:29:21+08:00",
-      "summary": "尼康新闻周刊第889期报道：闪迪存储卡促销；确善能停产三款尼康Z卡口镜头；新款Zeniko RF12 M圆形迷你闪光灯发布",
-      "recommendation": "涵盖闪存卡促销、镜头停产及迷你闪光灯新品，提供行业动态与选购参考，信息实用但无深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #889"
-    },
-    {
-      "id": "recvlVwug4qD9A",
-      "title": "2026年5月NikonRumors阅读量最高的10篇文章",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/07/top-10-most-viewed-nikonrumors-posts-for-may-2026.aspx/",
-      "publish_time": "2026-06-08T08:54:31+08:00",
-      "summary": "2026年5月NikonRumors最受欢迎帖子聚焦尼康新款Nikkor Z 120-300mm f/2.8 TC VR S镜头，内置1.4倍增距镜，技术参数突出，为摄影爱好者提供远摄变焦新选择。",
-      "recommendation": "汇总尼康Z 120-300mm f/2.8 TC VR S镜头热度，内置1.4倍增距镜参数突出，为远摄变焦用户提供技术参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Top 10 most viewed NikonRumors posts for May 2026"
-    },
-    {
-      "id": "recvlVwg21o0aM",
-      "title": "佳能EOS R50 V vs R6 V：哪款佳能内容创作相机适合你？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canon-eos-r50-v-vs-r6-v",
-      "publish_time": "2026-06-08T08:10:00+08:00",
-      "summary": "佳能EOS R50 V与R6 V对比，R50 V轻便适合入门，R6 V性能更强适合专业创作者，核心差异在传感器和视频规格。",
-      "recommendation": "对比R50 V与R6 V的传感器和视频规格差异，为入门与专业创作者提供选机参考，含具体参数对比。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon EOS R50 V vs R6 V: Which of Canon's content creator cameras is right for you?"
-    },
-    {
-      "id": "recvlVwmSIMhLv",
-      "title": "富士XF镜头优惠今晚截止",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-xf-lens-deal-end-tonight/",
-      "publish_time": "2026-06-08T05:40:15+08:00",
-      "summary": "富士XF镜头优惠今晚在美国截止，GFX相机和镜头、X相机和套机、X半幅优惠持续至6月28日。",
-      "recommendation": "富士镜头优惠截止提醒，含GFX与X系列具体时间节点，对计划购入的用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm XF Lens Deal End Tonight"
-    },
-    {
-      "id": "recvlVwifRQMdX",
-      "title": "EVF vs LCD：相机上哪个我可以没有？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/evf-vs-lcd-which-one-could-i-live-without-on-my-camera",
-      "publish_time": "2026-06-08T05:20:00+08:00",
-      "summary": "作者对比EVF与LCD取景器，认为EVF在强光下更可靠且省电，而LCD在低角度拍摄更灵活，最终选择保留EVF。",
-      "recommendation": "对比EVF与LCD的功耗、强光表现及拍摄场景差异，提供实用取舍建议，适合纠结取景器选择的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "EVF vs LCD: Which one could I live without on my camera?"
     }
   ]
 }
