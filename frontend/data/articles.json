@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-20T22:47:49.539968+08:00",
+    "updated_at": "2026-06-21T04:12:03.693341+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 117
+      "count": 113
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 36
+      "count": 35
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,102 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 175
+      "count": 178
     }
   ],
   "articles": [
+    {
+      "id": "recvn7iXowslVk",
+      "title": "全球最大的尼康徽章收藏",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/20/the-largest-nikon-pin-collection-on-the-planet.aspx/",
+      "publish_time": "2026-06-21T02:37:29+08:00",
+      "summary": "文章介绍全球最大尼康徽章收藏，涵盖品牌历史，展示对官方周边商品的痴迷，源自Nikon Rumors。",
+      "recommendation": "从尼康徽章收藏切入品牌历史，展示官方周边文化，为影像爱好者提供品牌情怀与收藏视角的独特信息。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The largest Nikon pin collection on the planet"
+    },
+    {
+      "id": "recvn7iQuxTPjD",
+      "title": "伦敦展览展示英国野生动物摄影佳作——免费参观",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/the-best-of-british-wildlife-photography-is-being-shown-in-this-london-exhibition-and-its-free-to-visit",
+      "publish_time": "2026-06-21T02:30:00+08:00",
+      "summary": "2026年英国野生动物摄影奖获奖作品在伦敦霍尼曼博物馆和花园免费展出",
+      "recommendation": "展示英国野生动物摄影获奖作品，提供自然摄影构图与光线运用的参考案例，适合爱好者学习拍摄技巧。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The best of British wildlife photography is being shown in this London exhibition – and it’s free to visit"
+    },
+    {
+      "id": "recvn7iSTE4SHc",
+      "title": "“最差摄影师”大赛得主拍摄：这些旅行照片证明，好摄影不等于技术好",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/shot-by-winner-of-worst-photographer-contest-what-these-travel-pictures-actually-prove-is-that-good-photography-isnt-the-same-as-technical-skill",
+      "publish_time": "2026-06-21T02:12:21+08:00",
+      "summary": "布兰奇·莫特玛德在冰岛拍摄的模糊带光晕照片获“最差摄影师”奖，揭示摄影核心在于表达而非技术",
+      "recommendation": "通过“最差摄影师”获奖作品，揭示摄影核心是表达而非技术，对陷入器材焦虑的爱好者有启发价值，提供反技术至上的深度观点。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Shot by winner of \"worst photographer\" contest, what these travel pictures actually prove is that good photography isn't the same as technical skill"
+    },
+    {
+      "id": "recvn7iOiLe94B",
+      "title": "摄影师Jake Guzman捕捉美国近乎外星般的风景",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/20/photographer-jake-guzman-captures-americas-almost-alien-landscapes/",
+      "publish_time": "2026-06-21T01:00:02+08:00",
+      "summary": "摄影师杰克·古兹曼的《异境美国》收录全美数百张照片，展现美国作为风光摄影师特殊之地的丰富摄影机会。",
+      "recommendation": "通过数百张实拍作品，展示美国地貌的异域感与风光摄影技巧，提供构图与光线运用的具体参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer Jake Guzman Captures America’s Almost-Alien Landscapes"
+    },
+    {
+      "id": "recvn7iV76IToE",
+      "title": "放下Photoshop画笔——刚看到一项关于多少成年人偏爱未修图的统计数据，我震惊了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/put-down-the-photoshop-brushes-i-just-read-a-statistic-on-how-many-adults-prefer-unedited-photos-and-im-stunned",
+      "publish_time": "2026-06-20T23:20:00+08:00",
+      "summary": "盖蒂图片社数据显示近三分之二成年人更偏爱品牌使用未经编辑的真实照片，揭示真实图像在营销中的核心价值。",
+      "recommendation": "盖蒂图片社独家数据揭示近三分之二成年人偏爱未修图照片，挑战传统营销审美。对影像爱好者而言，这是理解真实摄影在商业中价值的硬核洞察。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Put down the Photoshop brushes – I just read a statistic on how many adults prefer unedited photos, and I’m stunned"
+    },
+    {
+      "id": "recvn7iZVpiZu0",
+      "title": "尼康快闪体验店登陆香港",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/20/pop-up-nikon-experience-store-in-hong-kong.aspx/",
+      "publish_time": "2026-06-20T23:04:07+08:00",
+      "summary": "尼康在香港铜锣湾开设快闪体验店，2026年6月5日至8月2日提供免费相机租借、照片打印、咖啡及讲座，押金2美元",
+      "recommendation": "提供尼康快闪店具体时间、地点及免费租借、打印等实用信息，对香港用户有直接参考价值。常规行业动态，可了解品牌线下活动策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Pop-up Nikon Experience Store in Hong Kong"
+    },
     {
       "id": "recvn5ZfdQjRYX",
       "title": "Prime Day早期优惠：Galaxy S26 Ultra、S25 Ultra、Poco F8 Ultra和X8 Pro Max降价",
@@ -7711,100 +7803,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "New Viltrox AF 75mm f/1.8 and 90mm f/2.2 available for preorder"
-    },
-    {
-      "id": "recvm3UaWbv3Vc",
-      "title": "《查理咬了我的手指》视频被英国电影学院正式收藏",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/charlie-bit-my-finger-video-officially-preserved-by-british-film-institute/",
-      "publish_time": "2026-06-09T19:23:51+08:00",
-      "summary": "《查理咬了我的手指》视频被英国电影学院收藏，该视频是YouTube早期全球爆红的私人家庭录像，BFI正式保存了这段网络文化经典。",
-      "recommendation": "从影像文化史视角解析YouTube元祖爆款视频的收藏价值，探讨家庭录像如何定义早期网络视觉语言，对理解数字影像传播史有独特参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "‘Charlie Bit My Finger’ Video Officially Preserved by British Film Institute"
-    },
-    {
-      "id": "recvm3UKbdguYs",
-      "title": "富士X-T6携新伙伴亮相：CNN盛赞富士，国产自动对焦镜头即将登场，富士低调而重要的一年……更多精彩——五月十大热门文章",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/the-fujifilm-x-t6-is-bringing-friends-cnn-praises-fujifilm-upcoming-chinese-af-lenses-fujifilms-quietly-important-year-and-more-top-10-may-articles/",
-      "publish_time": "2026-06-09T19:15:06+08:00",
-      "summary": "5月富士X-T6传闻与国产自动对焦镜头发布成热点，CNN称赞富士，预示富士低调而重要的一年。",
-      "recommendation": "汇总富士X-T6传闻、国产自动对焦镜头动态及CNN评价，提供行业趋势与产品线索，适合关注富士生态的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Fujifilm X-T6 Is Bringing Friends :: CNN Praises Fujifilm :: Upcoming Chinese AF Lenses :: Fujifilm’s Quietly Important Year… and More – Top 10 May Articles"
-    },
-    {
-      "id": "recvm3UyL0nHiY",
-      "title": "Viltrox AF 90mm f/2.2 Evo评测：这款人像定焦镜头迎来次世代升级",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-af-90mm-f-2-2-evo-review-this-portrait-friendly-prime-gets-the-next-gen-treatment",
-      "publish_time": "2026-06-09T18:21:15+08:00",
-      "summary": "Viltrox AF 90mm f/2.2 Evo是Evo系列APS-C画幅人像镜头，支持富士、尼康和索尼卡口，功能丰富且价格亲民，实现次世代升级。",
-      "recommendation": "实测数据与样张分析揭示Viltrox 90mm f/2.2 Evo在APS-C画幅人像镜头的性价比优势，提供卡口兼容性与光学性能的独家对比，适合预算有限的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Viltrox AF 90mm f/2.2 Evo review: this portrait-friendly prime gets the next-gen treatment"
-    },
-    {
-      "id": "recvm2zAJPh0I8",
-      "title": "科学家首次拍到 elusive '科苏梅尔矮狐' 照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/scientists-capture-first-ever-photos-of-the-elusive-cozumel-dwarf-fox/",
-      "publish_time": "2026-06-09T18:02:42+08:00",
-      "summary": "科学家首次拍摄到极其难以捉摸的科苏梅尔矮狐照片，此前其存在性不确定。",
-      "recommendation": "通过罕见野生动物拍摄案例，解析野外摄影中长焦镜头与低光环境应对技巧，提供实际拍摄参数参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Scientists Capture First-Ever Photos of the Elusive ‘Cozumel Dwarf Fox’"
-    },
-    {
-      "id": "recvm2zNM9UbfT",
-      "title": "七工匠135mm f1.8获得新固件，现在是一款出色的运动镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/09/the-7artisans-135mm-f1-8-got-new-firmware-its-a-great-sports-lens-now/",
-      "publish_time": "2026-06-09T18:00:00+08:00",
-      "summary": "七工匠135mm f1.8镜头新固件提升性能，搭配尼康Zf在体育摄影中表现出色，评测更新强调其运动拍摄能力",
-      "recommendation": "固件升级使七工匠135mm f1.8在尼康Zf上实现运动拍摄优化，提供实测数据与性能对比，对关注手动镜头体育摄影的爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 7Artisans 135mm f1.8 Got New Firmware. It’s a Great Sports Lens Now"
-    },
-    {
-      "id": "recvm2zSm7RWZj",
-      "title": "PetaPixel 评测：Thypoch Voyager AF 24-50mm f/2.8 FE 新镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/petapixel-review-of-the-new-thypoch-voyager-af-24-50mm-f-2-8-fe-lens/",
-      "publish_time": "2026-06-09T17:38:18+08:00",
-      "summary": "Thypoch Voyager AF 24-50mm f/2.8 FE是中国首款完全自主设计生产的变焦镜头，具备24-50mm焦距和f/2.8恒定光圈，在多家电商有售，使用代码可享5%折扣。",
-      "recommendation": "国产首款自研变焦镜头深度评测，涵盖24-50mm f/2.8光学性能、实拍样张与自动对焦表现，对关注国产光学突破的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "PetaPixel review of the new Thypoch Voyager AF 24-50mm f/2.8 FE lens"
     }
   ]
 }
