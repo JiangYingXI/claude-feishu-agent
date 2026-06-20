@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-20T12:58:12.982709+08:00",
+    "updated_at": "2026-06-20T17:56:09.362874+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 115
+      "count": 117
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 26
+      "count": 22
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,155 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 397
+      "count": 395
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 171
+      "count": 174
     }
   ],
   "articles": [
+    {
+      "id": "recvn4NJauvDIn",
+      "title": "2026年家庭摄影最佳相机推荐",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/best-cameras-for-family-photography-in-2026/",
+      "publish_time": "2026-06-20T17:35:08+08:00",
+      "summary": "2026年家庭摄影最佳相机推荐，强调捕捉自然瞬间，需平衡图像质量与快速对焦、连拍速度等性能，适合记录家庭生活。",
+      "recommendation": "文章聚焦2026年家庭摄影需求，对比多款相机在画质与对焦性能的平衡，提供具体参数与场景适配建议，适合家庭用户选机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Best Cameras for Family Photography in 2026"
+    },
+    {
+      "id": "recvn4NLDwLuqr",
+      "title": "2026年全品牌最佳风光摄影镜头推荐",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/best-lenses-for-landscape-photography-across-all-brands-in-2026/",
+      "publish_time": "2026-06-20T17:23:59+08:00",
+      "summary": "2026年全品牌最佳风光摄影镜头推荐，涵盖广角到长焦，强调清晰度与边缘细节，帮助摄影师捕捉壮丽景观并讲述地点故事。",
+      "recommendation": "覆盖广角至长焦，强调边缘画质与清晰度，为风光摄影师提供2026年全品牌镜头选购参考，含具体型号与光学特性分析。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Best Lenses for Landscape Photography Across All Brands in 2026"
+    },
+    {
+      "id": "recvn4NC5VuZRb",
+      "title": "摄影的入门毒药：连非摄影爱好者都爱微距摄影",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/photographys-gateway-drug-even-non-photographers-love-macro-photography",
+      "publish_time": "2026-06-20T17:10:00+08:00",
+      "summary": "微距摄影因能展现肉眼难见的细节而吸引非摄影爱好者，其核心价值在于通过放大微小物体揭示独特美感，常用镜头放大倍率1:1至5:1。",
+      "recommendation": "文章揭示微距摄影如何通过1:1至5:1放大倍率展现微观美学，对入门者提供独特视角与实用技术科普。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photography's gateway drug: Even non-photographers love macro photography"
+    },
+    {
+      "id": "recvn4NEAT2cLU",
+      "title": "65%的摄影专业毕业生是女性——但只有20%的专业摄影师是女性。是能力不足，还是另有隐情？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/commercial-photography/65-percent-of-photography-graduates-are-female-but-only-20-percent-of-pros-are-is-it-lack-of-ability-or-something-more-sinister",
+      "publish_time": "2026-06-20T17:10:00+08:00",
+      "summary": "65%摄影专业毕业生为女性，但仅20%专业摄影师为女性，女摄影师探讨能力之外的行业隐情",
+      "recommendation": "揭示摄影行业性别比例失衡的深层原因，提供65%与20%的对比数据，引发对行业生态与职业门槛的思考，适合关注行业动态的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "65% of photography graduates are female – but only 20% of pros are. Is it lack of ability, or something more sinister?"
+    },
+    {
+      "id": "recvn4NOjbbXO1",
+      "title": "福伦达将NOKTON Classic 35mm F1.4带到RF卡口",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/voigtlander-brings-the-nokton-classic-35mm-f-1-4-to-the-rf-mount/",
+      "publish_time": "2026-06-20T16:02:21+08:00",
+      "summary": "福伦达推出NOKTON Classic 35mm F1.4 RF卡口镜头，大光圈紧凑广角，保留球面像差实现平滑虚化，营造纵深感与柔和成像。",
+      "recommendation": "福伦达将经典35mm F1.4带到RF卡口，保留球面像差实现平滑虚化与纵深感，为佳能用户提供紧凑大光圈广角选择，适合追求独特成像风格者。",
+      "categories": [
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Voigtlander Brings the NOKTON Classic 35mm F 1.4 to the RF-Mount"
+    },
+    {
+      "id": "recvn4NTup7TPY",
+      "title": "一加N6充电速度官方确认，Geekbench曝光芯片组",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oneplus_n6_charging_speed_key_specs_geekbench-news-73370.php",
+      "publish_time": "2026-06-20T16:00:02+08:00",
+      "summary": "一加N6将于6月30日发布，确认配备8000mAh电池和45W SuperVOOC充电，充电5分钟可播放1.7小时视频，并暗示支持反向有线充电。",
+      "recommendation": "虽未直接涉及影像，但8000mAh大电池与45W快充数据对影像创作续航有参考价值，反向充电功能可应急为相机补电。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "OnePlus N6's charging speed officially confirmed, chipset revealed by Geekbench"
+    },
+    {
+      "id": "recvn4NQPrAwWq",
+      "title": "2026年每位摄影师都应考虑的最佳预算镜头",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/best-budget-lenses-every-photographer-should-consider-in-2026/",
+      "publish_time": "2026-06-20T15:23:41+08:00",
+      "summary": "摄影虽昂贵，但2026年最佳预算镜头证明，无需高端设备也能拍出好照片，强调性价比与实用技术参数。",
+      "recommendation": "盘点2026年高性价比镜头，涵盖主流卡口与焦段，附具体光圈、防抖等参数对比，为预算有限的爱好者提供实用选购参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Best Budget Lenses Every Photographer Should Consider in 2026"
+    },
+    {
+      "id": "recvn4NWcAVmEj",
+      "title": "我们想打造更好的Phoblographer，请帮助我们",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/20/simple-math-copy-4/",
+      "publish_time": "2026-06-20T15:00:00+08:00",
+      "summary": "Phoblographer计划再次出版印刷杂志，不向相机制造商出售广告，希望读者每年捐1美元以维持和发展网站。",
+      "recommendation": "Phoblographer计划复刊印刷杂志并拒绝相机广告，依赖读者年捐1美元维持运营。对影像爱好者而言，揭示了独立媒体在行业中的生存困境与创新模式。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "We Want to Build a Better Phoblographer. Help Us"
+    },
+    {
+      "id": "recvn4NGMsrZfK",
+      "title": "单反相机并未消亡——原因并不复杂！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/the-dslr-is-not-dead-and-the-reason-is-not-rocket-science",
+      "publish_time": "2026-06-20T14:15:00+08:00",
+      "summary": "单反相机未消亡，NASA宇航员仍在使用，其光学取景器和耐用性在极端环境下不可替代。",
+      "recommendation": "从NASA宇航员使用单反的独特视角切入，揭示光学取景器与耐用性在极端环境下的不可替代性，为影像爱好者提供行业趋势的深度参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The DSLR is not dead – and the reason is not rocket science!"
+    },
     {
       "id": "recvn3ATBjsx1C",
       "title": "4款必备大底便携相机",
@@ -7667,147 +7807,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "No Matter How Careful You Are, You Will Get Dust Inside Your Camera"
-    },
-    {
-      "id": "recvm1fEp5bgbD",
-      "title": "iOS 27 和 iPadOS 27 的新功能一览",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/heres_whats_new_in_ios_27_and_ipados_27-news-73182.php",
-      "publish_time": "2026-06-09T04:45:09+08:00",
-      "summary": "苹果在WWDC上发布iOS 27和iPadOS 27，主打Siri AI聊天机器人，集成系统并有独立应用，还有多项AI新功能，预览版已向开发者开放，公测下月启动，秋季正式发布。",
-      "recommendation": "文章聚焦iOS 27的AI功能，对影像爱好者而言，Siri集成可能影响计算摄影工作流，但未提及具体影像算法或硬件优化，价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Here's what's new in iOS 27 and iPadOS 27"
-    },
-    {
-      "id": "recvlZgT52OMYJ",
-      "title": "苹果新AI照片工具可在拍摄后虚拟移动相机",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/3628309794/apple-ios-27-ai-photo-editing-reframe",
-      "publish_time": "2026-06-09T04:12:00+08:00",
-      "summary": "苹果iOS 27更新照片应用，新增生成式AI功能，可虚拟移动相机视角，并升级清理工具移除不需要元素，提升编辑灵活性。",
-      "recommendation": "苹果iOS 27新增AI虚拟相机视角移动与清理工具，展示计算摄影新方向，对后期编辑灵活性有实际参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Apple's new AI photo tool can virtually move your camera after you shoot"
-    },
-    {
-      "id": "recvlZgVTLn8W0",
-      "title": "英特尔Mac的预期与承诺终结已到来",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/the-expected-and-promised-end-of-the-intel-mac-has-arrived/",
-      "publish_time": "2026-06-09T03:54:02+08:00",
-      "summary": "苹果在WWDC发布macOS 27，标志Intel Mac终结，回顾其发展历程。",
-      "recommendation": "分析Intel Mac终结对影像工作流的影响，提供从X86到ARM过渡期的性能对比数据，适合关注视频剪辑与RAW处理的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Expected and Promised End of the Intel Mac Has Arrived"
-    },
-    {
-      "id": "recvlZhbNOUjKp",
-      "title": "富士胶片在美国和欧洲推出新的XF镜头优惠活动",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-launches-new-xf-lens-deals-in-usa-and-europe/",
-      "publish_time": "2026-06-09T03:51:04+08:00",
-      "summary": "富士胶片在美国和欧洲推出XF镜头新优惠，包括XF18mmF1.4 R LM WR节省150美元，可在多家渠道购买。",
-      "recommendation": "富士XF18mmF1.4镜头优惠150美元，提供具体渠道与价格信息，对计划购入该镜头的用户有直接参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm Launches New XF Lens Deals in USA and Europe"
-    },
-    {
-      "id": "recvlZgYCdl6ag",
-      "title": "冰岛航空找到其‘糟糕摄影师’并奖励5万美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/icelandair-found-its-really-bad-photographer-and-gave-her-50000/",
-      "publish_time": "2026-06-09T03:24:17+08:00",
-      "summary": "冰岛航空三月举办独特摄影比赛，寻找最差摄影师，以证明冰岛美景即使糟糕摄影师也能拍出好照片，获胜者获5万美元奖励。",
-      "recommendation": "冰岛航空反向营销案例揭示摄影门槛真相：美景本身可弥补技术不足，对影像爱好者有启发价值，但无独家数据或深度观点。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Icelandair Found its ‘Really Bad Photographer’ and Gave Her $50,000"
-    },
-    {
-      "id": "recvlZh94I9Y2u",
-      "title": "Siri AI 正式登陆 iOS 27、iPadOS 27、macOS 27、watchOS 27 和 visionOS 27",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/siri_ai_is_official_for_ios_27_ipados_27_macos_27_watchos_27_and_visionos_27-news-73181.php",
-      "publish_time": "2026-06-09T03:13:02+08:00",
-      "summary": "苹果在WWDC发布Siri AI，基于谷歌Gemini模型，支持设备端处理和私有云计算，确保数据隐私，登陆iOS 27等系统。",
-      "recommendation": "Siri AI集成Gemini模型，虽非影像专属，但设备端处理与隐私计算可能影响未来影像AI应用的数据安全策略，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Siri AI is official for iOS 27, iPadOS 27, macOS 27, watchOS 27, and visionOS 27"
-    },
-    {
-      "id": "recvlZh198pLBt",
-      "title": "苹果全新图像游乐场承诺不止于卡通",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/apples-all-new-image-playground-promises-more-than-cartoons/",
-      "publish_time": "2026-06-09T03:00:45+08:00",
-      "summary": "苹果在WWDC 2026发布macOS 27、iOS 27等系统，升级Apple Intelligence系统，改进Image Playground图像生成AI，提升图像生成能力。",
-      "recommendation": "解析苹果AI图像生成升级，揭示计算摄影新方向，对关注手机影像AI化的用户有参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Apple’s All-New Image Playground Promises More Than Cartoons"
-    },
-    {
-      "id": "recvlZh3J3iBma",
-      "title": "苹果照片应用将新增三项AI驱动的编辑工具",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/apples-photos-app-is-getting-three-new-ai-powered-editing-tools/",
-      "publish_time": "2026-06-09T02:26:03+08:00",
-      "summary": "苹果将在iOS新版中为照片应用新增三项AI编辑工具：增强清理、扩展和重新构图，提升图片编辑能力。",
-      "recommendation": "解析苹果AI编辑工具增强清理、扩展与重新构图三项功能，提供计算摄影落地细节，助影像爱好者预判iOS编辑能力升级方向。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple’s Photos App is Getting Three New AI-Powered Editing Tools"
-    },
-    {
-      "id": "recvlZh6i1qMTl",
-      "title": "f8 Develop：专为Apple Silicon打造的HDR胶片负片反转应用",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/f8-develop-is-an-hdr-film-negative-inversion-app-built-for-apple-silicon/",
-      "publish_time": "2026-06-09T00:51:18+08:00",
-      "summary": "f8 Develop是专为macOS设计的新型胶片负片反转应用，支持使用无反或单反相机在家扫描的摄影师，为Apple Silicon优化HDR处理。",
-      "recommendation": "针对Apple Silicon优化的HDR胶片反转应用，提供从扫描到成片的完整工作流，对胶片爱好者有实用参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "f8 Develop is an HDR Film Negative Inversion App Built for Apple Silicon"
     }
   ]
 }
