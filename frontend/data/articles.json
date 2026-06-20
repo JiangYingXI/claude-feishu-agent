@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-20T04:22:20.167779+08:00",
+    "updated_at": "2026-06-20T12:58:12.982709+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 22
+      "count": 23
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 116
+      "count": 115
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,76 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 394
+      "count": 397
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 174
+      "count": 171
     }
   ],
   "articles": [
+    {
+      "id": "recvn3ATBjsx1C",
+      "title": "4款必备大底便携相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/20/4-must-have-compact-cameras-with-big-sensors/",
+      "publish_time": "2026-06-20T12:00:00+08:00",
+      "summary": "近年来紧凑型相机受年轻和职业摄影师欢迎，本文介绍4款大底便携相机，涵盖1英寸及以上传感器，为职业摄影师推荐必选机型",
+      "recommendation": "汇总4款1英寸及以上传感器紧凑相机，提供传感器尺寸、镜头规格等关键参数对比，帮助影像爱好者快速定位职业级便携机型。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "4 Must-Have Compact Cameras with Big Sensors"
+    },
+    {
+      "id": "recvn3AMx4wP7R",
+      "title": "Ultrahuman推出M2 Live代谢健康平台，实现连续血糖监测",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/ultrahuman_launches_m2_livemetabolic_health_platform_for_continuous_glucose_monitoring-news-73360.php",
+      "publish_time": "2026-06-20T07:00:01+08:00",
+      "summary": "Ultrahuman推出M2 Live连续血糖监测平台，基于雅培Lingo传感器，无需处方，通过蓝牙传输数据，NFC激活。",
+      "recommendation": "本文虽聚焦代谢健康，但M2 Live基于雅培传感器实现连续监测的技术路径，对影像领域计算摄影与生物传感融合有启发。常规资讯，可了解行业跨界动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Ultrahuman launches M2 Live metabolic health platform for continuous glucose monitoring"
+    },
+    {
+      "id": "recvn3APcRcbyd",
+      "title": "苹果为何在watchOS 27中放弃对多款手表的支持",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php",
+      "publish_time": "2026-06-20T05:00:02+08:00",
+      "summary": "苹果在watchOS 27中停止支持多款旧手表，包括2022年发布的初代Apple Watch Ultra，用户仅能获得安全更新，原因未明。",
+      "recommendation": "文章揭示苹果停止支持旧款手表，包括初代Ultra，影响影像爱好者使用手表遥控拍摄或查看照片，提供行业决策视角。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Here's why Apple is already dropping support for so many watches in watchOS 27"
+    },
+    {
+      "id": "recvn3ARxne839",
+      "title": "BHphoto 特价区 – Nextorage 存储卡最高省 325 美元",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/bhphoto-deal-zone-save-up-to-325-on-nextorage-cards/",
+      "publish_time": "2026-06-20T04:51:32+08:00",
+      "summary": "BHphoto特价区推出Nextorage CFexpress B型存储卡优惠，最高省325美元，活动至6月26日，同时雷克沙128GB卡闪购省110美元。",
+      "recommendation": "提供Nextorage与雷克沙CFexpress B型卡具体优惠幅度及截止日期，对需要高速存储的影像创作者有直接省钱价值，属常规促销资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "BHphoto Deal Zone – Save up to $325 on Nextorage Cards"
+    },
     {
       "id": "recvn1v3FCJx9P",
       "title": "今日仅在BH：雷克沙SD卡、乐摄宝摄影包和奥本三脚架大幅优惠",
@@ -56,6 +117,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Todya only at BH: Save big on lexar SD cards, Lowepro bag and Oben tripod"
+    },
+    {
+      "id": "recvn3AVUbpdot",
+      "title": "今日仅在BH：Nextorage Type A、雷克沙SD卡、乐摄宝背包和奥本三脚架大幅优惠",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/todya-only-at-bh-save-big-on-lexar-sd-cards-lowepro-bag-and-oben-tripod/",
+      "publish_time": "2026-06-20T03:49:24+08:00",
+      "summary": "BHphoto今日推出Nextorage Type A卡、雷克沙SD卡、乐摄宝背包和奥本三脚架等产品大幅优惠，同时索尼、适马、腾龙镜头也有折扣。",
+      "recommendation": "涵盖Nextorage Type A卡、雷克沙SD卡等存储设备及配件优惠，附索尼、适马、腾龙镜头折扣，适合关注性价比的影像爱好者了解市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Todya only at BH: Save big on Nextorage Type A, Lexar SD cards, Lowepro bag and Oben tripod"
     },
     {
       "id": "recvn1uKdPyEnN",
@@ -7732,82 +7808,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "f8 Develop is an HDR Film Negative Inversion App Built for Apple Silicon"
-    },
-    {
-      "id": "recvlYhfYv7X6l",
-      "title": "联合国世界海洋日摄影大赛13张获奖作品",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/13-award-winning-photos-from-the-un-world-oceans-day-contest/",
-      "publish_time": "2026-06-09T00:28:41+08:00",
-      "summary": "第十三届联合国世界海洋日摄影大赛公布13位获奖者，展示海洋之美与保护紧迫性。",
-      "recommendation": "13张获奖作品展示海洋摄影的构图与光影技巧，从水下生物到海岸线，提供实拍场景参考。无独家数据，但可作为自然摄影的审美与主题表达案例。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "13 Award-Winning Photos From the UN World Oceans Day Contest"
-    },
-    {
-      "id": "recvlYhiBOuUaQ",
-      "title": "新Chrome扩展为Google Photos带来批量编辑功能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/new-chrome-extension-brings-batch-editing-to-google-photos/",
-      "publish_time": "2026-06-09T00:27:15+08:00",
-      "summary": "Google Photos月服务超15亿用户，但缺少批量编辑功能，新Chrome扩展填补此空白。",
-      "recommendation": "15亿用户痛点被解决，Chrome扩展实现Google Photos批量编辑，对高频整理照片的影像爱好者有实用价值，属常规功能补全资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Chrome Extension Brings Batch Editing to Google Photos"
-    },
-    {
-      "id": "recvlYhAKaEjHz",
-      "title": "3款取景器出色的富士相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/08/3-fujifilm-cameras-with-excellent-viewfinders/",
-      "publish_time": "2026-06-09T00:00:00+08:00",
-      "summary": "富士相机以出色取景器闻名，推荐三款机型，适合追求顶级体验的摄影师，保留核心参数与设计优势。",
-      "recommendation": "对比三款富士机型取景器规格与光学设计，提供EVF放大倍率、眼点等关键参数，适合追求取景体验的摄影师选型参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "3 Fujifilm Cameras with Excellent Viewfinders"
-    },
-    {
-      "id": "recvlYhl6kZXDE",
-      "title": "2026年烧杯街科学摄影奖26位入围者揭晓",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/08/the-26-finalists-for-the-2026-beaker-street-science-photography-prize/",
-      "publish_time": "2026-06-08T23:48:25+08:00",
-      "summary": "2026年烧杯街科学摄影奖公布26位入围者，作品兼具美学与科学价值，由全球摄影师和科学家拍摄",
-      "recommendation": "26幅科学摄影作品揭示微观与宏观世界的美学，含独家拍摄参数与成像技术解析，为手机/相机用户提供构图与光控灵感。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 26 Finalists for the 2026 Beaker Street Science Photography Prize"
-    },
-    {
-      "id": "recvlYhIiNcYe9",
-      "title": "尼康NX MobileAir将于7月9日起完全免费",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/08/the-nikon-nx-mobileair-will-be-completely-free-starting-july-9.aspx/",
-      "publish_time": "2026-06-08T21:39:20+08:00",
-      "summary": "尼康NX MobileAir应用1.6版本将于2026年7月9日起完全免费，移除所有功能限制，让更多人无限制使用。",
-      "recommendation": "尼康NX MobileAir免费化降低专业影像传输门槛，对需要无线遥控拍摄的用户有直接价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Nikon NX MobileAir will be completely free starting July 9"
     }
   ]
 }
