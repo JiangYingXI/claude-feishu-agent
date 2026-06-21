@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-21T18:16:23.078108+08:00",
+    "updated_at": "2026-06-21T22:48:56.546000+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 22
+      "count": 21
     },
     {
       "key": "镜头与光学",
@@ -23,25 +23,134 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 22
+      "count": 23
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 35
+      "count": 36
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 391
+      "count": 388
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 182
+      "count": 185
     }
   ],
   "articles": [
+    {
+      "id": "recvnbPYr8tU96",
+      "title": "这一切都太奇怪了，坦白说，还很愚蠢",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/21/this-is-all-so-weird-and-frankly-stupid/",
+      "publish_time": "2026-06-21T22:01:45+08:00",
+      "summary": "摄影界近期出现多个奇怪产品发布，其中三分之二尚未正式发布，作者认为这些现象既奇怪又愚蠢。",
+      "recommendation": "盘点近期影像圈未发布产品的怪现象，提供行业观察视角，适合关注产品趋势的爱好者了解动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This Is All So Weird and, Frankly, Stupid"
+    },
+    {
+      "id": "recvnbPVSjs6dx",
+      "title": "社区精选：那些脱颖而出的自拍作品",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/6302249762/standout-self-portraits-from-our-community",
+      "publish_time": "2026-06-21T22:00:00+08:00",
+      "summary": "社区精选自拍作品，展示尼康D90配50mm F1.8镜头，参数F5、1/160秒、ISO 400，揭示摄影师独特故事与面孔。",
+      "recommendation": "通过尼康D90配50mm F1.8镜头实拍参数（F5、1/160秒、ISO 400），解析自拍作品背后的摄影师故事与面孔，为影像爱好者提供人像拍摄技巧与设备应用参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Standout self-portraits from our community"
+    },
+    {
+      "id": "recvnbQ14v9XbL",
+      "title": "发现与使用OM系统相机的独特功能",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/21/discovering-and-using-the-unique-features-of-om-system-cameras/",
+      "publish_time": "2026-06-21T21:00:17+08:00",
+      "summary": "OM系统相机具备多项独特功能，掌握其操作可拓展摄影创作空间，实现更多拍摄可能。",
+      "recommendation": "详解OM系统相机独有功能，如高分辨率拍摄与实时合成，提供操作技巧，助你突破创作边界。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Discovering and Using the Unique Features of OM System Cameras"
+    },
+    {
+      "id": "recvnbQaR4ODm0",
+      "title": "婚礼摄影师和电影制作人最佳索尼相机推荐",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/best-sony-cameras-for-wedding-photographers-and-filmmakers/",
+      "publish_time": "2026-06-21T20:40:33+08:00",
+      "summary": "索尼a1 II和a7R VI被推荐为婚礼摄影师和电影制作人的最佳相机，前者具备50MP传感器、8K视频和AI自动对焦，适合高端工作。",
+      "recommendation": "解析索尼a1 II与a7R VI在婚礼/电影场景的实战价值，含50MP传感器、8K视频及AI对焦参数对比，适合追求高端器材的影像从业者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Best Sony cameras for Wedding Photographers and Filmmakers"
+    },
+    {
+      "id": "recvnbQ3utLQcD",
+      "title": "“感觉像作弊”：过度依赖AI修图软件让摄影师变懒——核心摄影技能未被掌握",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/it-feels-like-cheating-over-reliance-on-ai-editing-software-is-making-photographers-lazy-and-core-camera-skills-are-not-being-learned",
+      "publish_time": "2026-06-21T20:30:00+08:00",
+      "summary": "AI修图软件降低摄影门槛，但导致摄影师依赖后期，忽视核心技能如构图和曝光，影响摄影能力提升",
+      "recommendation": "文章揭露AI修图对摄影核心技能（构图、曝光）的侵蚀，提供行业反思视角，适合警惕技术依赖的爱好者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"It feels like cheating\":Over-reliance on AI editing software is making photographers lazy –and core camera skills are not being learned"
+    },
+    {
+      "id": "recvnbQ8qz8Av9",
+      "title": "促销：三星最新Galaxy Z折叠屏降价，iPhone 17 Pro、Pixel 10 Pro、小米17T Pro也在售",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_samsungs_latest_galaxy_z_foldables_discounted_iphone_17_pro_pixel_10_pro_xiaomi_17t_pro_also_o-news-73369.php",
+      "publish_time": "2026-06-21T20:01:02+08:00",
+      "summary": "三星Galaxy Z Fold7和Flip7降价200和150英镑，同时iPhone 17 Pro Max、小米17T系列等机型也有优惠。",
+      "recommendation": "汇总多款旗舰机型降价信息，含三星折叠屏及iPhone 17 Pro等，适合关注影像旗舰价格动态的读者，无独家数据，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Samsung's latest Galaxy Z foldables discounted, iPhone 17 Pro, Pixel 10 Pro, Xiaomi 17T Pro also on sale"
+    },
+    {
+      "id": "recvnbQ5X9zn0X",
+      "title": "Godox ML150Bi评测：一款可随处使用的连续影室人像灯",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/godox-ml150bi-review",
+      "publish_time": "2026-06-21T18:45:00+08:00",
+      "summary": "Godox ML150Bi是一款便携连续LED灯，支持暖冷光调节，适合现场人像拍摄，通过光线塑形提升肖像效果",
+      "recommendation": "评测Godox ML150Bi便携LED灯，提供暖冷光调节与光线塑形实测数据，适合人像摄影爱好者了解移动布光方案。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Godox ML150Bi review: a continuous studio portrait light that you can use anywhere!"
+    },
     {
       "id": "recvnaJouzfVvM",
       "title": "这款革命性的80年代相机永远改变了摄影——却让它的创造者破产",
@@ -7695,114 +7804,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The \"magic\" CCD sensor is back! This retro, waist-level compact camera has a secret weapon for film-like images"
-    },
-    {
-      "id": "recvm3Uhd7FK2F",
-      "title": "迎接2026年亚马逊Prime相机最佳优惠——大型摄影促销倒计时，早期优惠已开始！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/best-amazon-prime-camera-deals-in-2026",
-      "publish_time": "2026-06-09T22:58:58+08:00",
-      "summary": "2026年亚马逊Prime相机促销将于6月23日至26日举行，早期优惠已开始，提供最佳相机折扣。",
-      "recommendation": "汇总2026年亚马逊Prime相机促销时间与早期优惠，提供折扣机型与价格参考，适合计划升级设备的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Get set for the best Amazon Prime camera deals in 2026 – countdown to the big photo sale, as the early deals start to drop!"
-    },
-    {
-      "id": "recvm3U6ordyGC",
-      "title": "深度解析极为罕见的Foveon传感器宝丽来X530",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/a-close-look-at-the-extremely-rare-foveon-powered-polaroid-x530/",
-      "publish_time": "2026-06-09T22:54:06+08:00",
-      "summary": "摄影师詹姆斯·华纳制作视频介绍超稀有宝丽来X530相机，该相机采用Foveon X3传感器，是唯一非适马相机使用此技术，凸显其独特价值。",
-      "recommendation": "解析Foveon X3传感器在非适马相机中的罕见应用，提供独家技术拆解与历史背景，适合传感器技术爱好者深入理解其成像原理。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A Close Look at the Extremely Rare, Foveon-Powered Polaroid X530"
-    },
-    {
-      "id": "recvm3UDldTHRk",
-      "title": "vivo X Fold6 上手视频曝光，展示 OriginOS 6 Fold 折叠屏系统",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x_fold6_appears_in_handson_video_highlighting_originos_6_fold-news-73190.php",
-      "publish_time": "2026-06-09T22:54:02+08:00",
-      "summary": "vivo X Fold6将首发OriginOS 6 Fold系统，新增AI驱动生产力和多任务功能，视频展示多窗口操作，引入Para新功能。",
-      "recommendation": "折叠屏系统升级对影像工作流影响有限，但OriginOS 6 Fold多任务功能或优化修图与素材管理效率，适合关注移动创作工具的影像用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo X Fold6 appears in hands-on video highlighting OriginOS 6 Fold"
-    },
-    {
-      "id": "recvm3Uj8JgZPV",
-      "title": "紧凑型内容创作利器相机获免费固件升级：更深度的手机控制与创作者工具",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/compact-content-creation-powerhouse-camera-gets-free-firmware-boost-with-deeper-phone-control-and-creator-tools",
-      "publish_time": "2026-06-09T22:52:57+08:00",
-      "summary": "松下Lumix全画幅相机获免费固件升级，新增有线手机控制、实时LUT及风格化选项，提升连接性与创作灵活性。",
-      "recommendation": "松下Lumix全画幅相机固件升级详解，有线手机控制与实时LUT功能提升创作灵活性，适合内容创作者关注。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Compact content creation powerhouse camera gets free firmware boost – with deeper phone control and creator tools"
-    },
-    {
-      "id": "recvm3UlqVZCcZ",
-      "title": "一个“很烂”的摄影师刚赢了5万美元和冰岛之旅。史诗级地点能弥补糟糕的摄影技巧吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-really-bad-photographer-just-won-us-usd50-000-and-an-iceland-trip-can-epic-locations-make-up-for-subpar-photo-skills",
-      "publish_time": "2026-06-09T22:51:42+08:00",
-      "summary": "冰岛航空因收到大量糟糕照片，奖励一位糟糕摄影师5万美元和冰岛之旅，探讨史诗级地点能否弥补摄影技巧不足。",
-      "recommendation": "探讨摄影技巧与场景的辩证关系，通过冰岛航空的独特案例引发思考，对理解摄影创作中的环境因素有启发价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A ‘really bad’ photographer just won US$50,000 and an Iceland trip. Can epic locations make up for subpar photo skills?"
-    },
-    {
-      "id": "recvm3UMheks4k",
-      "title": "两款具备卓越防尘防滴溅性能的索尼相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/09/the-two-sony-cameras-with-exceptional-weather-sealing/",
-      "publish_time": "2026-06-09T21:00:00+08:00",
-      "summary": "索尼两款全画幅相机具备卓越防尘防滴溅性能，适合注重画质和机身做工的严肃摄影师。",
-      "recommendation": "解析索尼全画幅相机防尘防滴溅设计细节，提供机身密封工艺与实测数据，适合户外拍摄者评估耐用性。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Two Sony Cameras With Exceptional Weather Sealing"
-    },
-    {
-      "id": "recvm3UFAoILP9",
-      "title": "苹果发布watchOS 27，集成Siri AI并改进设计",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/apple_introduces_watchos_27_with_siri_ai_and_improved_design-news-73193.php",
-      "publish_time": "2026-06-09T20:57:04+08:00",
-      "summary": "苹果在WWDC发布watchOS 27，秋季面向Series 9及更新机型、Ultra 2/3、SE 3推出，内置全新Siri AI，可记住聊天记录。",
-      "recommendation": "常规资讯，可了解行业动态。虽未直接涉及影像，但watchOS 27的Siri AI升级可能间接影响Apple Watch的相机控制与照片管理功能。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Apple introduces watchOS 27 with Siri AI and improved design"
     }
   ]
 }
