@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-21T22:48:56.546000+08:00",
+    "updated_at": "2026-06-22T04:20:04.627873+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 21
+      "count": 19
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,124 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 389
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 185
+      "count": 187
     }
   ],
   "articles": [
+    {
+      "id": "recvndbxvptBMB",
+      "title": "亚马逊早期Prime优惠已上线",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/early-prime-deals-available-on-amazon/",
+      "publish_time": "2026-06-22T04:11:47+08:00",
+      "summary": "亚马逊早期Prime优惠已上线，提供特殊页面折扣及转售产品高达20%优惠，BHphoto另有父亲节优惠。",
+      "recommendation": "常规资讯，可了解行业动态。提供亚马逊与BHphoto的影像设备折扣信息，适合关注促销的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Early Prime Deals available on Amazon"
+    },
+    {
+      "id": "recvndbnMpeKw1",
+      "title": "世界海洋日摄影大赛获奖作品：巨大水下洞穴与嬉戏熊崽",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/colossal-underwater-caves-and-playful-bear-cubs-among-winning-scenes-from-world-oceans-day-photography-competition",
+      "publish_time": "2026-06-22T02:30:00+08:00",
+      "summary": "联合国世界海洋日摄影大赛揭晓获奖作品，新增“连接海洋”类别，展示巨大水下洞穴与嬉戏熊崽等震撼画面。",
+      "recommendation": "通过获奖作品解析水下摄影构图与光线运用，新增“连接海洋”类别揭示生态摄影趋势，对海洋题材创作有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Colossal underwater caves and playful bear cubs among winning scenes from World Oceans Day photography competition"
+    },
+    {
+      "id": "recvndbgekqg3w",
+      "title": "不羁的灵魂：为何我反复使用这台14岁的徕卡M9 Monochrom",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/21/the-unapologetic-soul-why-i-keep-returning-to-the-14-year-old-leica-m9-monochrom/",
+      "publish_time": "2026-06-22T01:00:25+08:00",
+      "summary": "在百万像素和AI时代，作者仍频繁使用2012年发布的1800万像素徕卡M9 Monochrom，强调其独特的黑白成像风格和机械手感超越技术参数",
+      "recommendation": "14年前1800万像素CCD黑白机在AI时代仍被推崇，揭示像素与画质非正相关，提供机械手感与黑白成像的深度体验视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Unapologetic Soul: Why I Keep Returning to the 14-Year-Old Leica M9 Monochrom"
+    },
+    {
+      "id": "recvndbv9Pj4yp",
+      "title": "B&H Photo 推出 Nextorage 存储卡特价：最高直降 681 美元",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/21/nextorage-memory-card-special-deals-at-bh-photo-up-to-681-off.aspx/",
+      "publish_time": "2026-06-21T23:42:25+08:00",
+      "summary": "B&H Photo推出Nextorage存储卡特价，CFexpress卡和读卡器最高直降681美元，促销限时进行。",
+      "recommendation": "CFexpress卡大幅降价，最高直降681美元，适合计划升级存储的影像用户关注。常规促销资讯，可了解存储设备价格走势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nextorage memory card special deals at B&H Photo: up to $681 off"
+    },
+    {
+      "id": "recvndbsI9joGU",
+      "title": "Redmi Turbo 5与夏普Aquos R11，大疆Osmo Pocket 4P正式发布，第25周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_turbo_5_and_sharp_aquos_r11_dji_osmo_pocket_4p_official_week_25_in_review-news-73364.php",
+      "publish_time": "2026-06-21T23:33:02+08:00",
+      "summary": "夏普发布旗舰Aquos R11，配备38.5MP长焦和2.8倍光变，骁龙8s Gen 4，6.5英寸240Hz OLED，5000mAh电池，预装Android 16，下月日本上市。小米在印度推出Re",
+      "recommendation": "汇总夏普Aquos R11的38.5MP长焦与2.8倍光变参数、小米印度新机动态，提供本周影像产品发布速览，适合关注旗舰手机长焦配置的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Redmi Turbo 5 and Sharp Aquos R11, DJI Osmo Pocket 4P official, Week 25 in review"
+    },
+    {
+      "id": "recvndbqblPO1c",
+      "title": "这才是理光本该推出的相机，而非宾得17",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-is-the-camera-ricoh-should-have-made-instead-of-the-pentax-17",
+      "publish_time": "2026-06-21T23:20:00+08:00",
+      "summary": "文章批评理光推出宾得17而非经典设计回归，强调用户需要的是经典相机而非古怪的胶片机。",
+      "recommendation": "文章直指理光产品策略痛点，对比宾得17与用户期待的经典回归，提供对品牌路线争议的深度观点，适合关注相机市场动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This is the camera Ricoh should have made instead of the Pentax 17"
+    },
+    {
+      "id": "recvndbiTldNLU",
+      "title": "市场上又出现一款徕卡风格35mm镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/21/theres-another-leica-like-35mm-lens-on-the-market/",
+      "publish_time": "2026-06-21T23:00:15+08:00",
+      "summary": "日本零售商Shoten Kobo销售Wahei Optical 'Peace' 35mm f/1.4镜头，外观经典受徕卡启发，M卡口设计。",
+      "recommendation": "介绍Wahei Optical 35mm f/1.4镜头，提供M卡口徕卡风格新选择，含外观与接口细节，适合关注副厂手动头的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "There’s Yet Another Leica-Inspired 35mm Lens on the Market"
+    },
     {
       "id": "recvnbPYr8tU96",
       "title": "这一切都太奇怪了，坦白说，还很愚蠢",
@@ -72,6 +181,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Standout self-portraits from our community"
+    },
+    {
+      "id": "recvndblkF2XC1",
+      "title": "看看我们社区这些出色的自拍作品",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/6302249762/standout-self-portraits-from-our-community",
+      "publish_time": "2026-06-21T22:00:00+08:00",
+      "summary": "社区成员Abby Ferguson用尼康D90和尼克尔50mm F1.8镜头拍摄自画像，参数F5、1/160秒、ISO 400，展示相机背后的人物故事。",
+      "recommendation": "通过尼康D90与50mm F1.8镜头的具体参数（F5、1/160秒、ISO 400），展示自拍创作的技术细节，为爱好者提供实拍参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Check out these standout self-portraits from our community"
     },
     {
       "id": "recvnbQ14v9XbL",
@@ -7680,130 +7805,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "3 Cameras To Go For If You Want The Best Grip"
-    },
-    {
-      "id": "recvm54JLV2yZb",
-      "title": "你可以买到Luna Ultra相机Insta360，只是部分发布",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/you-can-buy-the-luna-ultra-camera-insta360-only-sorta-unveiled/",
-      "publish_time": "2026-06-10T00:41:13+08:00",
-      "summary": "Insta360 Luna Ultra相机部分发布，与大疆Osmo Pocket 4P竞争，关键细节未公开。",
-      "recommendation": "抢先曝光Insta360 Luna Ultra相机与大疆Osmo Pocket 4P的竞争态势，虽关键参数未公开，但为影像爱好者提供新品布局线索，适合关注行业动态者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "You Can Buy the Luna Ultra Camera Insta360 Only Sorta Unveiled"
-    },
-    {
-      "id": "recvm54QRwMD3N",
-      "title": "女性摄影师做自由职业？这个领域性别薪酬差距最大",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/commercial-photography/freelancing-as-a-female-photographer-this-genre-is-where-youll-suffer-the-largest-gender-pay-gap",
-      "publish_time": "2026-06-10T00:27:02+08:00",
-      "summary": "新研究显示，自由职业房地产摄影师的性别薪酬差距高于平均水平，女性摄影师收入较低。",
-      "recommendation": "揭示房地产摄影领域性别薪酬差距的行业数据，为自由职业摄影师提供薪酬谈判参考，属于常规行业动态资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Freelancing as a female photographer? This genre is where you'll suffer the largest gender pay gap"
-    },
-    {
-      "id": "recvm54MasdgRm",
-      "title": "Moment 长周末包袋推出亮眼夏日新配色",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/moments-long-weekend-bags-are-getting-a-striking-new-summer-color/",
-      "publish_time": "2026-06-10T00:00:08+08:00",
-      "summary": "Moment为Long Weekend相机包和配件推出亮眼夏日新配色，并新增斜挎相机包和编织绳相机背带两款新品。",
-      "recommendation": "Moment长周末包袋新增夏日配色与斜挎包、编织背带，为摄影爱好者提供更多携带相机配件的实用选择。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Moment’s Long Weekend Bags Are Getting a Striking New Summer Color"
-    },
-    {
-      "id": "recvm54Tmxbx2t",
-      "title": "意外榜首更迭：“史上最佳静态相机”超越索尼A7 V，登顶日本畅销榜",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/surprise-no-1-shift-as-finest-stills-camera-ever-made-overtakes-sony-a7-v-in-japans-best-selling-sales-chart",
-      "publish_time": "2026-06-10T00:00:00+08:00",
-      "summary": "哈苏1亿像素旗舰机型超越索尼A7 V，登顶日本畅销榜，树立静态相机新标准。",
-      "recommendation": "解析哈苏1亿像素机型超越索尼A7 V的畅销榜数据，揭示高端静态相机市场新趋势，为追求极致画质的用户提供选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Surprise No.1 shift as \"finest stills camera ever made\" overtakes Sony A7 V in Japan's best-selling sales chart"
-    },
-    {
-      "id": "recvm54VHo1aCO",
-      "title": "尼康Z系列超级变焦镜头几乎能拍一切——现在直降300美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-nikon-z-superzoom-can-photography-almost-anything-and-now-its-usd300-less",
-      "publish_time": "2026-06-09T23:38:18+08:00",
-      "summary": "尼康28-400mm Z镜头降至1146.95美元，降幅300美元，覆盖广角到超长焦，适合多种拍摄场景。",
-      "recommendation": "尼康28-400mm Z镜头降价300美元至1146.95美元，覆盖广角至超长焦，适合旅行与多场景拍摄，提供具体价格与焦段数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Nikon Z superzoom can photography almost anything - and now it’s $300 less"
-    },
-    {
-      "id": "recvm3U3HpWj1S",
-      "title": "大疆仍对Osmo Pocket 4P大部分细节保密",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/dji-is-still-keeping-most-of-the-osmo-pocket-4p-details-under-wraps/",
-      "publish_time": "2026-06-09T23:35:57+08:00",
-      "summary": "大疆Osmo Pocket 4P本周开始频繁出现于评测者手中，但大疆仍对大部分细节保密，旨在保持神秘感。",
-      "recommendation": "文章追踪Osmo Pocket 4P评测机流出动态，提供产品发布前关键线索，适合关注口袋相机迭代的影像爱好者提前洞察行业动向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "DJI Is Still Keeping Most of the Osmo Pocket 4P Details Under Wraps"
-    },
-    {
-      "id": "recvm3Ud2tl50x",
-      "title": "思乐冰、运动鞋……还有复古相机？这款迷你钥匙扣相机专为Y2K穿搭和复古风打造",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/slurpees-sneakers-and-retro-cameras-this-tiny-keychain-camera-is-made-for-y2k-outfits-and-retro-vibes",
-      "publish_time": "2026-06-09T23:33:23+08:00",
-      "summary": "这款Y2K风格迷你钥匙扣相机专为复古穿搭设计，来源独特，核心价值在于融合时尚与便携摄影。",
-      "recommendation": "解析Y2K复古相机与时尚穿搭的融合，提供迷你钥匙扣相机的设计细节与市场定位，适合关注跨界影像产品的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Slurpees, sneakers and…retro cameras? This tiny keychain camera is made for Y2K outfits and retro vibes"
-    },
-    {
-      "id": "recvm3UfbVGgdS",
-      "title": "“魔法”CCD传感器回归！这款复古腰平取景紧凑相机，拥有胶片质感成像的秘密武器",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/the-magic-ccd-sensor-is-back-this-retro-waist-level-compact-camera-has-a-secret-weapon-for-film-like-images",
-      "publish_time": "2026-06-09T23:30:07+08:00",
-      "summary": "新款复古紧凑相机采用CCD传感器，实现胶片质感成像，核心价值在于捕捉复古灵魂与胶片美学。",
-      "recommendation": "解析CCD传感器回归的复古相机，提供胶片质感成像的硬件原理与设计思路，适合追求独特影像风格的爱好者。",
-      "categories": [
-        "传感器硬件",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The \"magic\" CCD sensor is back! This retro, waist-level compact camera has a secret weapon for film-like images"
     }
   ]
 }
