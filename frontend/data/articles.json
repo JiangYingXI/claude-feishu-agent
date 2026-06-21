@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-21T04:12:03.693341+08:00",
+    "updated_at": "2026-06-21T13:32:04.777378+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 113
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 22
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,78 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 392
+      "count": 391
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 178
+      "count": 180
     }
   ],
   "articles": [
+    {
+      "id": "recvn9zWDuH7Mz",
+      "title": "2010年五款紧凑型相机，如今仍值得入手",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/21/5-compact-cameras-from-2010-that-you-must-get-your-hands-on-today/",
+      "publish_time": "2026-06-21T12:00:00+08:00",
+      "summary": "2010年五款紧凑型相机因怀旧价值和技术参数仍值得入手，适合摄影爱好者重温经典",
+      "recommendation": "回顾2010年五款紧凑型相机，提供具体型号与参数分析，适合怀旧玩家重温经典，但缺乏独家数据或深度对比。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "5 Compact Cameras from 2010 That You Must Get Your Hands on Today"
+    },
+    {
+      "id": "recvn9zYXjJMwq",
+      "title": "传闻尼康将发布Z9新固件，解决大雪或大雨中的对焦问题",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/20/nikon-is-rumored-to-release-a-new-z9-firmware-update-addressing-af-problems-in-heavy-snowfall-or-rain.aspx/",
+      "publish_time": "2026-06-21T07:25:39+08:00",
+      "summary": "传闻尼康将发布Z9新固件，解决大雪或大雨中自动对焦无法锁定主体的问题，该消息最初发表于Nikon Rumors。",
+      "recommendation": "针对Z9极端天气对焦问题的固件更新传闻，为尼康用户提供具体优化方向，属于常规产品资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon is rumored to release a new Z9 firmware update addressing AF problems in heavy snowfall or rain"
+    },
+    {
+      "id": "recvn9zUpVWf81",
+      "title": "促销：三星Galaxy S25 FE价格再降，一加15和15R、Nothing手机在售",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_samsung_galaxy_s25_fe_price_drops_again_oneplus_15_and_15r_nothing_phones_are_on_sale-news-73353.php",
+      "publish_time": "2026-06-21T06:11:04+08:00",
+      "summary": "三星Galaxy S25 FE降价至600美元以下，8/256GB版本，无需Prime即可购买，对比A57文章助选。",
+      "recommendation": "提供三星S25 FE降价至600美元以下的影像机型价格动态，含8/256GB版本对比A57的选购参考，适合关注中端手机影像性价比的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: Samsung Galaxy S25 FE price drops again, OnePlus 15 and 15R, Nothing phones are on sale"
+    },
+    {
+      "id": "recvn9zPKn9iLX",
+      "title": "对话Insta360联合创始人Max Richter：他承诺“传统摄影”领域将有更多动作——这是否意味着可换镜头相机？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/i-spoke-to-insta360-co-founder-max-richter-who-promised-there-is-a-lot-more-coming-in-traditional-photography-could-that-mean-an-ilc-camera",
+      "publish_time": "2026-06-21T05:20:00+08:00",
+      "summary": "Insta360联合创始人Max Richter暗示公司可能研发可换镜头相机，未否认该可能性，预示在传统摄影领域将有更多动作。",
+      "recommendation": "Insta360联合创始人暗示进军可换镜头相机，提供独家行业动向与产品规划线索，对关注全景与运动相机品牌转型的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I spoke to Insta360 co-founder Max Richter, who promised there is a lot more coming in \"traditional photography\" – could that mean an ILC camera?"
+    },
     {
       "id": "recvn7iXowslVk",
       "title": "全球最大的尼康徽章收藏",
@@ -87,6 +150,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Shot by winner of \"worst photographer\" contest, what these travel pictures actually prove is that good photography isn't the same as technical skill"
+    },
+    {
+      "id": "recvn9zS9j7hzI",
+      "title": "“最差摄影师”大赛获奖者拍摄的旅行照片证明：好摄影不等于技术技巧",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/shot-by-winner-of-worst-photographer-contest-what-these-travel-pictures-actually-prove-is-that-good-photography-isnt-the-same-as-technical-skill",
+      "publish_time": "2026-06-21T02:12:21+08:00",
+      "summary": "布兰奇·莫特玛德拍摄的冰岛模糊带光晕照片获“最差摄影师”奖，证明好摄影不等于技术技巧。",
+      "recommendation": "通过获奖案例探讨摄影本质，打破技术至上迷思，对追求个人风格的爱好者有启发价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Shot by winner of \"worst photographer\" contest, these travel pictures actually prove is that good photography isn't the same as technical skill"
     },
     {
       "id": "recvn7iOiLe94B",
@@ -7725,84 +7803,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "I NEED to buy this talking Toy Story compact camera for my daughter!"
-    },
-    {
-      "id": "recvm3U8zgivut",
-      "title": "Meta从Ray-Ban智能眼镜应用中移除面部识别代码",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/meta-removes-facial-recognition-code-from-ray-ban-smart-glasses-app/",
-      "publish_time": "2026-06-09T20:13:25+08:00",
-      "summary": "Meta移除Ray-Ban智能眼镜应用中的面部识别代码，该系统名为Name Tag，因隐私争议被删除。",
-      "recommendation": "分析Meta移除Ray-Ban智能眼镜面部识别代码的隐私争议，揭示可穿戴影像设备在功能与法规间的平衡挑战，对关注计算摄影伦理的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Meta Removes Facial Recognition Code from Ray-Ban Smart Glasses App"
-    },
-    {
-      "id": "recvm3UwmUTaDi",
-      "title": "索尼A7R VI最佳镜头：用这些变焦和定焦镜头为索尼最高分辨率相机机身获得更锐利的图像",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/best-lenses-for-the-sony-a7r-vi",
-      "publish_time": "2026-06-09T20:08:56+08:00",
-      "summary": "索尼A7R VI最佳镜头需具备高解析力，匹配6680万像素传感器，以捕捉精细细节和纹理，提升图像锐度。",
-      "recommendation": "针对A7R VI 6680万像素传感器，筛选高解析力镜头，提供具体型号与性能匹配建议，助用户避免画质瓶颈。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Best lenses for the Sony A7R VI: get a sharper image with these zoomw and primes for Sony’s highest-ever-resolution camera body"
-    },
-    {
-      "id": "recvm54Y7YYYHL",
-      "title": "索尼A7R VI最佳镜头：用这些变焦和定焦镜头为索尼最高分辨率机身获得更锐利的图像",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/best-lenses-for-the-sony-a7r-vi",
-      "publish_time": "2026-06-09T20:08:56+08:00",
-      "summary": "索尼A7R VI最佳镜头需具备高解析力以匹配6680万像素传感器，捕捉精细细节和纹理，提升图像锐度。",
-      "recommendation": "针对A7R VI 6680万像素传感器，筛选高解析力镜头，提供变焦与定焦具体型号及锐度对比数据，助力用户精准升级。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Best lenses for the Sony A7R VI: get a sharper image with these zooms and primes for Sony’s highest-ever-resolution camera body"
-    },
-    {
-      "id": "recvm3UHPDUrOJ",
-      "title": "macOS 27 Golden Gate 携 Siri AI 与 Liquid Glass 表盘登场",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/macos_27_golden_gate_arrives_with_siri_ai_and_liquid_glass_dial-news-73191.php",
-      "publish_time": "2026-06-09T19:59:02+08:00",
-      "summary": "macOS 27 Golden Gate仅支持M/A系列芯片，新增独立Siri AI应用，支持个人上下文、系统集成与视觉智能，终止对英特尔Mac支持。",
-      "recommendation": "本文虽非影像专题，但macOS终止英特尔支持意味着Mac端影像处理软件将全面转向M/A芯片优化，对依赖Mac进行照片编辑的用户有长期影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "macOS 27 Golden Gate arrives with Siri AI and Liquid Glass dial"
-    },
-    {
-      "id": "recvm3UOnHpVEA",
-      "title": "唯卓仕AF 75mm f/1.8和90mm f/2.2新镜头开启预售",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-viltrox-af-75mm-f-1-8-and-90mm-f-2-2-available-for-preorder/",
-      "publish_time": "2026-06-09T19:31:42+08:00",
-      "summary": "唯卓仕新款APS-C画幅E卡口镜头AF 75mm f/1.8和90mm f/2.2开启预售，提供BHphoto、亚马逊等购买渠道。",
-      "recommendation": "APS-C画幅用户可关注唯卓仕两款新镜头预售信息，涵盖75mm f/1.8与90mm f/2.2规格及购买渠道，提供具体焦段与光圈数据，适合了解副厂镜头新品动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Viltrox AF 75mm f/1.8 and 90mm f/2.2 available for preorder"
     }
   ]
 }
