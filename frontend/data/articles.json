@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-21T13:32:04.777378+08:00",
+    "updated_at": "2026-06-21T18:16:23.078108+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 109
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,88 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 180
+      "count": 182
     }
   ],
   "articles": [
+    {
+      "id": "recvnaJouzfVvM",
+      "title": "这款革命性的80年代相机永远改变了摄影——却让它的创造者破产",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-revolutionary-1980s-camera-changed-photography-forever-but-helped-bankrupt-its-creator",
+      "publish_time": "2026-06-21T17:10:00+08:00",
+      "summary": "徕卡发明自动对焦技术，但美能达推出革命性80年代相机，为此付出9600万美元代价，最终破产，却永远改变了摄影。",
+      "recommendation": "揭秘美能达自动对焦相机研发内幕，含9600万美元破产代价的独家数据，剖析技术革新与商业失败的矛盾，对影像爱好者理解行业历史有独特价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "This revolutionary 1980s camera changed photography forever –but helped bankrupt its creator"
+    },
+    {
+      "id": "recvnaJr0GUJge",
+      "title": "大师摄影师雅克·亨利·拉蒂格未公开的彩色照片，让历史仿佛昨日重现",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/these-unseen-color-photos-by-master-photographer-jacques-henri-lartigue-make-the-past-look-like-it-happened-yesterday",
+      "publish_time": "2026-06-21T16:42:23+08:00",
+      "summary": "新展览揭示法国大师雅克·亨利·拉蒂格数十年未公开的彩色照片，让历史仿佛昨日重现。",
+      "recommendation": "拉蒂格未公开彩色照片首次集中展出，提供早期彩色摄影技术实践与美学探索的独家史料，对理解摄影史色彩演进有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These unseen color photos by master photographer Jacques Henri Lartigue make the past look like it happened yesterday"
+    },
+    {
+      "id": "recvnaJw8cNGRD",
+      "title": "作为摄影师，你在Reddit上得不到的建议",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/21/by-appointment-only-were-doing-portfolio-reviews-copy-copy-4/",
+      "publish_time": "2026-06-21T15:00:00+08:00",
+      "summary": "摄影师在Reddit上得不到的建议：社交媒体算法偏爱视频，照片需更具影响力；Phoblographer提供实惠的个人摄影作品集评审预约服务。",
+      "recommendation": "揭示社交媒体算法对照片的冲击，提供实用作品集评审服务信息，助影像爱好者应对行业变化。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Advice You Won’t Get on Reddit as a Photographer"
+    },
+    {
+      "id": "recvnaJyyvBAcq",
+      "title": "3款最佳可作紧凑相机使用的ILC（第二部分）",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/21/the-3-best-ilcs-acting-as-compact-cameras-part-2/",
+      "publish_time": "2026-06-21T15:00:00+08:00",
+      "summary": "可换镜头相机中，三款紧凑型ILC兼具便携与性能，适合初学者和严肃摄影师，核心技术参数包括高像素传感器和快速对焦系统。",
+      "recommendation": "三款紧凑ILC横评，含高像素传感器与对焦系统实测数据，为追求便携与画质的用户提供客观选机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 3 Best ILCs Acting as Compact Cameras (Part 2)"
+    },
+    {
+      "id": "recvnaJtxlXSlp",
+      "title": "如果CIPA所言非虚，无反和单反销量确实下滑，可换镜头相机是否已风光不再？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/if-there-really-is-a-decline-in-mirrorless-and-dslr-sales-as-cipa-is-saying-has-the-interchangeable-lens-camera-had-its-day",
+      "publish_time": "2026-06-21T14:15:00+08:00",
+      "summary": "固定镜头紧凑型相机普及导致可换镜头相机销量下滑，无反和单反风光不再。",
+      "recommendation": "基于CIPA数据剖析可换镜头相机销量下滑趋势，为影像爱好者提供行业风向标，助你理性看待市场变迁。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "If there really is a decline in mirrorless and DSLR sales, as CIPA is saying, has the interchangeable lens camera had its day?"
+    },
     {
       "id": "recvn9zWDuH7Mz",
       "title": "2010年五款紧凑型相机，如今仍值得入手",
@@ -7725,84 +7803,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Apple introduces watchOS 27 with Siri AI and improved design"
-    },
-    {
-      "id": "recvm3UB3HHH4P",
-      "title": "佳能新款大白镜头将于第四季度末发布",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/new-big-white-lenses-from-canon-are-coming-in-late-q4/",
-      "publish_time": "2026-06-09T20:54:32+08:00",
-      "summary": "佳能新款RF 400mm f/2.8L IS USM 1.4x和RF 600mm f/4L IS USM 1.4x镜头预计第四季度末发布，内置1.4倍增距镜，提升远摄灵活性。",
-      "recommendation": "内置1.4倍增距镜的远摄定焦设计，为生态与体育摄影提供灵活焦段选择，数据详实，是长焦用户值得关注的行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Big White Lenses from Canon are Coming in Late Q4"
-    },
-    {
-      "id": "recvm3UnSCEgDK",
-      "title": "卡片机很垃圾，为什么大家还在买？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/point-and-shoot-cameras-are-rubbish-so-why-is-everyone-buying-them",
-      "publish_time": "2026-06-09T20:38:18+08:00",
-      "summary": "尽管廉价紧凑型相机性能差，但因其便携性和独特复古风格，仍受消费者青睐，核心价值在于满足特定拍摄需求。",
-      "recommendation": "解析卡片机逆势热销的消费心理与实用逻辑，提供便携性与复古风格对特定拍摄需求的满足案例，非数据堆砌的行业观察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Point-and-shoot cameras are rubbish, so why is everyone buying them?"
-    },
-    {
-      "id": "recvm3Uq6gifqf",
-      "title": "我用这台相机走遍世界——现在索尼A7 III仅售999英镑（还有套装优惠，可省500英镑）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/ive-traveled-the-world-with-this-camera-now-the-sony-a7-iii-is-just-gbp999-and-ther-are-bundle-deals-with-gbp500-savings",
-      "publish_time": "2026-06-09T20:31:22+08:00",
-      "summary": "索尼A7 III全画幅微单现价999英镑，创历史新低，套装可省500英镑，是预算有限时的最佳入门级选择之一。",
-      "recommendation": "索尼A7 III降至999英镑，创历史新低价，套装可省500英镑，为预算有限的全画幅入门者提供明确购买时机与省钱方案。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I've traveled the world with this camera – now the Sony A7 III is just £999 (and there are bundle deals with £500 savings)"
-    },
-    {
-      "id": "recvm3Us8Brlgd",
-      "title": "忘掉相机设置吧——这是我每次都信赖的快门速度",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-technique/forget-camera-settings-this-is-the-shutter-speed-i-trust-every-time",
-      "publish_time": "2026-06-09T20:24:39+08:00",
-      "summary": "文章建议放弃复杂设置，直接使用1/500秒快门速度拍摄，简化操作并保证效果。",
-      "recommendation": "本文提出1/500秒快门速度作为通用解决方案，简化拍摄流程，适合追求效率的爱好者。虽无独家数据，但观点实用，可减少参数调整困扰。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Forget camera settings – this is the shutter speed I trust every time"
-    },
-    {
-      "id": "recvm3Uui8aYa0",
-      "title": "我必须给女儿买这个会说话的《玩具总动员》卡片机！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-need-to-buy-this-toy-story-compact-camera-for-my-daughter",
-      "publish_time": "2026-06-09T20:17:42+08:00",
-      "summary": "《玩具总动员》主题卡片机在日本发售，伍迪和巴斯光年设计，对焦无限远，赶在第五部电影前推出。",
-      "recommendation": "文章介绍《玩具总动员》主题卡片机，对焦无限远设计，适合影像爱好者了解IP联名产品与玩具相机光学特性。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "I NEED to buy this talking Toy Story compact camera for my daughter!"
     }
   ]
 }
