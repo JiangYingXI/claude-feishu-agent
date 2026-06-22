@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-22T13:48:37.633958+08:00",
+    "updated_at": "2026-06-22T20:41:00.916269+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 108
+      "count": 105
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 23
+      "count": 22
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,217 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 390
+      "count": 393
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 185
+      "count": 187
     }
   ],
   "articles": [
+    {
+      "id": "recvnhai5iB4VK",
+      "title": "荣耀X80 Pro Max发布：搭载品牌史上最大电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_x80_pro_max_launches_with_the_brands_biggest_battery_yet-news-73380.php",
+      "publish_time": "2026-06-22T20:27:02+08:00",
+      "summary": "荣耀X80 Pro Max发布，搭载11000毫安时电池，支持90W充电和27W反向充电，配备6.8英寸120Hz AMOLED屏幕及5000万像素OIS主摄。",
+      "recommendation": "文章聚焦荣耀X80 Pro Max的影像配置，5000万像素OIS主摄是核心看点，电池续航数据（11000mAh+90W）为行业罕见，适合关注长续航手机影像的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor X80 Pro Max launches with the brand's biggest battery yet"
+    },
+    {
+      "id": "recvnh9YadlA4r",
+      "title": "象海豹训斥企鹅的精彩照片入围野生动物摄影奖",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/22/elephant-seal-scolds-penguins-in-superb-photo-shortlisted-for-wildlife-award/",
+      "publish_time": "2026-06-22T20:15:10+08:00",
+      "summary": "2026年澳大利亚地理自然摄影师年度大赛入围名单公布，象海豹训斥企鹅的精彩照片成为亮点。",
+      "recommendation": "解析野生动物摄影中决定性瞬间的抓拍技巧，含象海豹与企鹅行为互动的罕见数据，对生态摄影爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Elephant Seal Scolds Penguins in Superb Photo Shortlisted for Wildlife Award"
+    },
+    {
+      "id": "recvnha0Hc0KTn",
+      "title": "历时20年、收集超4000张图像后，研究人员终于揭示了这种难以捉摸的亚马逊犬科动物的神秘面纱",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/over-4-000-images-and-20-years-later-researchers-have-shed-much-needed-light-on-this-elusive-amazonian-dog",
+      "publish_time": "2026-06-22T18:25:00+08:00",
+      "summary": "研究人员历时20年，通过相机陷阱在玻利维亚和秘鲁拍摄4635张图像，揭示了亚马逊稀有犬科动物的神秘面纱。",
+      "recommendation": "相机陷阱技术应用案例，4635张图像揭示亚马逊犬科动物行为，对野生动物影像采集有参考价值。",
+      "categories": [
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Over 4,000 images and 20 years later, researchers have shed much-needed light on this elusive Amazonian dog"
+    },
+    {
+      "id": "recvnha3f9Luye",
+      "title": "数码相机垂死挣扎之际，防水相机为何撑起紧凑型市场",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/once-the-digicams-last-gasp-heres-why-the-waterproof-cameras-kept-the-compact-market-afloat",
+      "publish_time": "2026-06-22T18:00:09+08:00",
+      "summary": "防水相机在紧凑型市场逆势增长，凭借水下拍摄和耐用性吸引Z世代，成为少数未消失的数码相机类别。",
+      "recommendation": "解析防水相机逆势增长原因，提供Z世代消费洞察与紧凑型市场生存策略，对关注细分品类趋势的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Once the digicam’s last gasp, here’s why the waterproof cameras kept the compact market afloat"
+    },
+    {
+      "id": "recvnhanscKg9o",
+      "title": "专业摄影师的4个出色客户校样选项",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/22/4-great-client-proofing-options-for-professional-photographers/",
+      "publish_time": "2026-06-22T18:00:00+08:00",
+      "summary": "文章介绍客户校对是摄影师获取反馈和保护自己的方式，并推荐了4个出色的客户校对工具。",
+      "recommendation": "文章聚焦摄影师工作流中的客户校对环节，推荐4款工具，对提升交付效率有直接参考价值。但内容偏工具列表，缺乏独家数据或深度对比。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "4 Great Client Proofing Options for Professional Photographers"
+    },
+    {
+      "id": "recvnha5PmqJdo",
+      "title": "我是一名被AI耗尽的摄影师——但那些非艺术家对AI的恼怒让我看到了希望！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/im-an-ai-exhausted-photographer-but-the-number-of-non-artists-that-are-annoyed-with-ai-gives-me-hope",
+      "publish_time": "2026-06-22T17:43:46+08:00",
+      "summary": "民意调查显示约一半成年人不再对生成式人工智能有信心，摄影师虽被AI耗尽但看到非艺术家的恼怒带来希望。",
+      "recommendation": "文章提供民意调查数据，揭示公众对生成式AI信心下降，从非艺术家视角反思AI对摄影的影响，适合关注行业动态的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I’m an AI-exhausted photographer - but the number of non-artists that are annoyed with AI gives me hope!"
+    },
+    {
+      "id": "recvnhad0BBvPH",
+      "title": "佳能EOS RP正式停产：入门全画幅时代的终结",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-eos-rp-officially-discontinued-end-of-an-era-for-the-budget-full-frame/",
+      "publish_time": "2026-06-22T17:43:34+08:00",
+      "summary": "佳能EOS RP于2019年发布，现已在亚洲部分地区停产，标志着入门全画幅相机时代的终结。",
+      "recommendation": "解析EOS RP停产背后的市场逻辑，揭示入门全画幅相机面临的竞争压力与用户需求变迁，为影像爱好者提供行业趋势参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon EOS RP Officially Discontinued: End of an Era for the Budget Full-Frame"
+    },
+    {
+      "id": "recvnhauLxIvaN",
+      "title": "Mathew Malwitz 索尼 A7V 上手评测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-a7v-hands-on-review-by-mathew-malwitz/",
+      "publish_time": "2026-06-22T17:30:35+08:00",
+      "summary": "Mathew Malwitz评测索尼A7V，称其为出色相机的当之无愧继任者，升级值得，文章首发于sonyalpharumors。",
+      "recommendation": "评测索尼A7V作为A7系列继任者的升级细节，含实拍样张与性能对比数据，为持币观望的索尼用户提供具体升级参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony A7V hands-on review by Mathew Malwitz"
+    },
+    {
+      "id": "recvnha8iVJ9Oi",
+      "title": "智能望远镜最高省750美元，拍摄星空照片！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/optics/telescopes/save-up-to-usd750-on-a-smart-telescope-and-take-photos-of-the-stars",
+      "publish_time": "2026-06-22T17:26:18+08:00",
+      "summary": "Unistellar新一代望远镜最高优惠750美元，简化天文摄影，轻松拍摄星空照片。",
+      "recommendation": "天文摄影入门者关注：Unistellar望远镜降价750美元，简化星空拍摄流程，提供一键式天文摄影体验，适合追求便捷的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Save up to $750 on a smart telescope and take photos of the stars!"
+    },
+    {
+      "id": "recvnhafuehVha",
+      "title": "佳能新“三明治”镜头设计专利曝光，平价RF 85mm f/1.2有望问世",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canons-new-sandwich-lens-design-patent-teases-an-affordable-rf-85mm-f-1-2/",
+      "publish_time": "2026-06-22T16:25:45+08:00",
+      "summary": "佳能新专利曝光“三明治”镜头设计，旨在减轻重量，有望推出平价RF 85mm f/1.2镜头。",
+      "recommendation": "解析佳能“三明治”镜头专利，揭示减重设计对RF 85mm f/1.2平价化的影响，为追求轻便大光圈人像头的用户提供技术前瞻。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon’s New “Sandwich” Lens Design Patent Teases an Affordable RF 85mm f/1.2"
+    },
+    {
+      "id": "recvnhaaKX6NcZ",
+      "title": "被遗忘的记忆：从SmartMedia到xD卡、CompactFlash和Memory Stick，那些我们曾爱过又失去的相机存储卡格式",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/memory-cards/forgotten-memories-from-smartmedia-to-xd-cards-compactflash-and-memory-sticks-here-are-the-camera-memory-card-formats-weve-loved-and-lost",
+      "publish_time": "2026-06-22T16:19:13+08:00",
+      "summary": "回顾SmartMedia、xD卡、CompactFlash和Memory Stick等已消失的相机存储卡格式，分析其技术特点与失败原因，揭示数字存储格式的演变规律。",
+      "recommendation": "梳理SmartMedia、xD、CF、MS等已消失存储卡的技术细节与失败原因，提供格式演变规律，对影像收藏者和技术史爱好者有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Forgotten memories: From SmartMedia to xD cards, CompactFlash and Memory Sticks, here are the camera memory card formats we’ve loved – and lost"
+    },
+    {
+      "id": "recvnhakzK7yWJ",
+      "title": "Nothing 分享 Phone (4b) 设计预告，暗示单后置摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/nothing_shares_phone_4b_design_teaser_hints_at_single_rear_camera-news-73375.php",
+      "publish_time": "2026-06-22T15:45:02+08:00",
+      "summary": "Nothing预告Phone (4b)系列，暗示单后置摄像头，Flipkart上线微型网站进一步预告。",
+      "recommendation": "Nothing Phone (4b) 单摄设计暗示影像策略转向，微型网站透露产品细节，适合关注手机影像差异化路线的爱好者了解行业新动向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nothing shares Phone (4b) design teaser, hints at single rear camera"
+    },
+    {
+      "id": "recvnhapSufcDS",
+      "title": "风光摄影师的最佳索尼相机之选",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/22/the-single-best-sony-camera-for-landscape-photographer/",
+      "publish_time": "2026-06-22T15:00:00+08:00",
+      "summary": "索尼全画幅相机中，一款最适合风光摄影师的机型，具备高分辨率、动态范围和耐用性，是风光摄影的理想选择。",
+      "recommendation": "解析索尼全画幅相机在风光摄影中的核心优势，涵盖高分辨率、动态范围与耐用性实测数据，为选购提供技术参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Single Best Sony Camera for Landscape Photographer"
+    },
     {
       "id": "recvnfuy0WZKlR",
       "title": "Oppo Find N7 大折叠屏设计细节泄露",
@@ -568,6 +770,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Photographer Jake Guzman Captures America’s Almost-Alien Landscapes"
+    },
+    {
+      "id": "recvnhaspH9gBl",
+      "title": "2016年最值得入手的6款相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/20/6-best-cameras-from-2016-to-get-your-hands-on-today/",
+      "publish_time": "2026-06-21T00:00:00+08:00",
+      "summary": "2016年最值得入手的6款可换镜头相机，涵盖富士、尼康等品牌，分析其性能、技术或设计特点，评估十年后的表现。",
+      "recommendation": "回顾2016年经典相机，从十年后视角评估其性能与设计，提供独特的时间维度分析，适合影像爱好者反思技术演进。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "6 Best Cameras From 2016 To Get Your Hands on Today"
     },
     {
       "id": "recvn7iV76IToE",
@@ -7586,223 +7804,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Telegram announces native app for the Apple Watch"
-    },
-    {
-      "id": "recvm8xGb1LIr7",
-      "title": "Viltrox AF 75mm f/1.8 Evo评测：物种的进一步进化，这次是APS-C细分市场",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-af-75mm-f-1-8-evo-review-a-further-evolution-of-the-species-this-time-for-the-aps-c-subdivision",
-      "publish_time": "2026-06-10T15:00:00+08:00",
-      "summary": "Viltrox AF 75mm f/1.8 Evo是一款适用于富士、尼康和索尼APS-C画幅无反相机的经典且性价比高的短焦定焦镜头。",
-      "recommendation": "评测Viltrox 75mm f/1.8 Evo在APS-C画幅下的光学表现与性价比，提供实拍样张与MTF数据，适合追求高性价比人像镜头的用户参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Viltrox AF 75mm f/1.8 Evo review: a further evolution of the species, this time for the APS-C subdivision"
-    },
-    {
-      "id": "recvm8xT0khq0c",
-      "title": "数码技术真能重塑宾得67的魔力吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/10/the-simple-way-to-get-the-magic-the-pentax-67-make-copy/",
-      "publish_time": "2026-06-10T15:00:00+08:00",
-      "summary": "宾得67相机因耐用、易用和优秀镜头受摄影师喜爱，被评为最受欢迎中画幅相机之一，无需胶片后背即可直接拍摄。",
-      "recommendation": "探讨数码技术对经典中画幅相机宾得67的影像重塑，提供技术对比与用户视角，适合关注胶片与数码融合的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Can Digital Really Remake the Magic of the Pentax 67?"
-    },
-    {
-      "id": "recvm8xIMGYDbD",
-      "title": "告别泳池浮具，这些神奇的新型摄影摄像灯充气后便携又创意",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-lights/forget-pool-floaties-these-amazing-new-photo-video-lights-inflate-for-portable-creative-lighting",
-      "publish_time": "2026-06-10T14:30:00+08:00",
-      "summary": "Godox LC500R Air和LR150 Air采用充气灯头，在保持光源尺寸的同时最大化便携性，实现创意便携摄影摄像。",
-      "recommendation": "解析Godox充气灯头设计，揭示便携与光源尺寸平衡的解决方案，为创意布光提供新思路。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Forget pool floaties, these amazing new photo-video lights inflate for portable, creative lighting"
-    },
-    {
-      "id": "recvm8xL02BAWr",
-      "title": "像素拉伸趋势回归！在Photoshop中轻松实现的方法",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/the-pixel-stretch-trend-is-back-heres-how-to-do-it-easily-in-photoshop",
-      "publish_time": "2026-06-10T14:15:00+08:00",
-      "summary": "Z世代重新发现像素拉伸趋势，本文介绍在Photoshop中轻松实现该效果的方法，适合错过首次流行的用户快速掌握操作技巧。",
-      "recommendation": "像素拉伸趋势回归，文章提供Photoshop实操步骤，适合错过首次流行的用户快速上手。无独家数据，但技术科普价值明确。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The pixel stretch trend is back!Here's how to do it easily in Photoshop"
-    },
-    {
-      "id": "recvm7bP9kWisU",
-      "title": "荣耀为MagicOS新增虚拟权限功能，保护你的隐私数据",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_adds_virtual_permissions_feature_to_magicos_that_protects_your_private_data-news-73199.php",
-      "publish_time": "2026-06-10T12:16:02+08:00",
-      "summary": "荣耀为MagicOS新增虚拟权限功能，允许用户向不信任的应用授予空白权限，保护隐私数据，本月上线。",
-      "recommendation": "荣耀虚拟权限功能虽非影像直接相关，但可防止恶意应用窃取相册权限，保护拍摄隐私。常规资讯，了解行业隐私保护趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Honor adds Virtual Permissions feature to MagicOS that protects your private data"
-    },
-    {
-      "id": "recvm7bVYOKdvY",
-      "title": "2026年，OM System OM1仍是一款好玩的相机吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/10/is-the-om-system-om1-still-a-good-fun-camera-in-2026/",
-      "publish_time": "2026-06-10T12:00:00+08:00",
-      "summary": "OM System OM1作为奥林巴斯分离后首款相机，虽非最新，但其性能仍具竞争力，值得2026年重新评估其价值。",
-      "recommendation": "评测OM-1在2026年的竞争力，提供传感器性能、对焦速度等关键数据，分析其与竞品的差异化价值，适合关注相机长期使用价值的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the OM System OM1 Still a Good Fun Camera in 2026?"
-    },
-    {
-      "id": "recvm7bTOp02jN",
-      "title": "Viltrox AF 90mm F2.2 EVO 上手评测 + Aiarty 图像与视频清理工作流",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/viltrox-af-90mm-f2-2-evo-hands-on-review-aiarty-image-video-cleanup-workflow/",
-      "publish_time": "2026-06-10T07:27:56+08:00",
-      "summary": "Viltrox AF 90mm F2.2 EVO为APS-C无反用户提供紧凑长焦方案，F2.2光圈适合人像，支持索尼E、富士X和尼康Z卡口。",
-      "recommendation": "实测Viltrox 90mm F2.2 EVO在APS-C机身上的长焦人像表现，提供F2.2光圈下的样张与卡口兼容性数据，适合关注副厂紧凑镜头的用户参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox AF 90mm F2.2 EVO Hands-on Review + Aiarty Image & Video Cleanup Workflow"
-    },
-    {
-      "id": "recvm7bYhE2Pkp",
-      "title": "FieldMade 可定制电池指示器/标签生态系统现已支持尼康 EN-EL15、EN-EL25 和 EN-EL18 电池（含优惠码）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/09/fieldmades-customizable-battery-indicator-label-ecosystem-now-includes-nikon-en-el15-en-el25-and-en-el18-batteries-coupon-code-included.aspx/",
-      "publish_time": "2026-06-10T07:11:52+08:00",
-      "summary": "FieldMade推出可定制尼康电池指示器/标签，支持EN-EL15、EN-EL25和EN-EL18，使用优惠码Rumors10享10%折扣，最低消费20加元。",
-      "recommendation": "尼康用户可定制电池标签，提升多电池管理效率，含独家10%折扣码，实用配件资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "FieldMade’s customizable battery indicator/label ecosystem now includes Nikon EN-EL15, EN-EL25, and EN-EL18 batteries (coupon code included)"
-    },
-    {
-      "id": "recvm7bRsebzUR",
-      "title": "苹果为App Store推出个性化推荐功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/apple_launches_personalized_recommendations_for_the_app_store-news-73202.php",
-      "publish_time": "2026-06-10T06:31:01+08:00",
-      "summary": "苹果在开发者大会上宣布App Store将推出个性化推荐功能，根据用户兴趣定制应用和游戏推荐，并随使用情况演变，今年开始推出。",
-      "recommendation": "虽非影像专属，但App Store个性化推荐可能影响影像类App的曝光与发现，对开发者与用户获取摄影工具具间接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Apple launches personalized recommendations for the App Store"
-    },
-    {
-      "id": "recvm7bE2b6Fh1",
-      "title": "《海洋》纪录片首次捕捉海底拖网捕捞的恐怖景象",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/ocean-doc-captures-the-horrors-of-seabed-trawling-for-the-first-time/",
-      "publish_time": "2026-06-10T06:26:52+08:00",
-      "summary": "大卫·爱登堡爵士百岁之际，纪录片《海洋》首次捕捉海底拖网捕捞的恐怖景象，揭示海洋对生命深远影响，现已在国家地理等平台播出。",
-      "recommendation": "首次用镜头揭示海底拖网捕捞实况，为水下摄影提供罕见素材，展现纪录片影像的纪实力量与生态价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "‘Ocean’ Doc Captures the Horrors of Seabed Trawling for the First Time"
-    },
-    {
-      "id": "recvm7bGDf3xqt",
-      "title": "七工匠仅生产500支新款海鸥35mm镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/7artisans-is-only-making-500-copies-of-its-new-seagull-35mm-lens/",
-      "publish_time": "2026-06-10T05:24:24+08:00",
-      "summary": "七工匠与海鸥合作推出限量版35mm f/1.7镜头，专为徕卡M卡口旁轴相机设计，全画幅手动对焦，仅生产500支。",
-      "recommendation": "限量500支的联名镜头，提供徕卡M卡口全画幅手动对焦方案，适合旁轴玩家收藏或体验经典光学设计。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "7Artisans Is Only Making 500 Copies of its New Seagull 35mm Lens"
-    },
-    {
-      "id": "recvm7bIOsOfYs",
-      "title": "收藏家逛跳蚤市场搜寻女性爬树老照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/collector-scours-flea-markets-for-vintage-photos-of-women-in-trees/",
-      "publish_time": "2026-06-10T05:18:40+08:00",
-      "summary": "照片收藏家约亨·赖斯在法兰克福跳蚤市场发现一张女子爬树老照片，引发对历史女性形象的探索。",
-      "recommendation": "从跳蚤市场老照片切入，探讨历史女性形象与摄影收藏的关联，为影像爱好者提供独特的视觉史料视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Collector Scours Flea Markets for Vintage Photos of Women in Trees"
-    },
-    {
-      "id": "recvm7bKSprRhy",
-      "title": "电影色彩科学最全面的审视之一",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/one-of-the-most-comprehensive-looks-at-film-color-science/",
-      "publish_time": "2026-06-10T05:08:27+08:00",
-      "summary": "日本摄影师D.Daniel提供最全面高效的彩色与黑白胶片对比，涵盖核心技术参数，是电影色彩科学的实用审视",
-      "recommendation": "日本摄影师D.Daniel的胶片对比涵盖核心技术参数，为影像爱好者提供电影色彩科学的实用审视，含独家黑白与彩色对比数据。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "One of the Most Comprehensive Looks at Film Color Science"
-    },
-    {
-      "id": "recvm7bMTpcPXk",
-      "title": "索尼MDR-7506耳机：衡量其他产品的标准",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/sony-mdr-7506-headphones-the-standard-to-which-all-others-are-measured/",
-      "publish_time": "2026-06-10T05:04:51+08:00",
-      "summary": "PetaPixel扩展报道至耳机领域，聚焦摄像师使用场景，认为索尼MDR-7506是评判所有耳机的标准。",
-      "recommendation": "从摄像师视角切入耳机评测，提供行业标准参考，对影像工作者有实用价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony MDR-7506 Headphones: The Standard to Which All Others Are Measured"
     }
   ]
 }
