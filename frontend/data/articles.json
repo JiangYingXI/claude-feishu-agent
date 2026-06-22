@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-22T04:20:04.627873+08:00",
+    "updated_at": "2026-06-22T13:48:37.633958+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 19
+      "count": 20
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 109
+      "count": 108
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,96 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 36
+      "count": 35
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 389
+      "count": 390
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 187
+      "count": 185
     }
   ],
   "articles": [
+    {
+      "id": "recvnfuy0WZKlR",
+      "title": "Oppo Find N7 大折叠屏设计细节泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_find_n7_wide_foldables_design_details_leak-news-73373.php",
+      "publish_time": "2026-06-22T12:30:03+08:00",
+      "summary": "OPPO Find N7大折叠屏将采用宽高比设计，几乎无折痕，预计今年推出，与苹果三星竞争。",
+      "recommendation": "本文披露Oppo Find N7折叠屏宽高比设计细节，对影像爱好者价值在于折叠形态可能影响相机布局与握持拍摄体验，但缺乏具体影像参数或独家数据，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo Find N7 wide foldable's design details leak"
+    },
+    {
+      "id": "recvnfuADnPANO",
+      "title": "当彩色摄影表现糟糕时",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/22/black-and-white-isnt-a-crutch-the-color-is-just-copy/",
+      "publish_time": "2026-06-22T12:00:00+08:00",
+      "summary": "文章指出，当彩色摄影表现不佳时，将其转为黑白可立即改善效果，这是许多初学摄影师常用的简单有效方法。",
+      "recommendation": "从彩色转黑白挽救废片，是摄影入门常用技巧。文章剖析其美学原理与适用场景，提供具体判断标准，对提升构图与光影感知有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "When Color Photography Just Sucks"
+    },
+    {
+      "id": "recvnfuFMtfzuH",
+      "title": "尼康新闻周刊第891期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/21/weekly-nikon-news-flash-891.aspx/",
+      "publish_time": "2026-06-22T09:55:24+08:00",
+      "summary": "尼康Z9翻新机现价4090美元，DZOFilm发布PL-Z转接环和1.4x增距镜，尼康需新紧凑相机，SG-Image即将发布新品。",
+      "recommendation": "涵盖尼康Z9翻新机价格、DZOFilm转接环与增距镜等新品，提供具体数据与行业动态，适合关注器材更新的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #891"
+    },
+    {
+      "id": "recvnfuvaRVTjv",
+      "title": "iPhone 18传闻汇总：下一代iPhone可能有哪些期待",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phones/iphone-18-rumor-roundup-what-we-might-expect-from-the-next-iphone",
+      "publish_time": "2026-06-22T07:01:20+08:00",
+      "summary": "下一代iPhone 18传闻包括重新设计的灵动岛、更出色显示屏和升级主摄像头，带来显著技术提升。",
+      "recommendation": "汇总iPhone 18影像升级传闻，含灵动岛设计、主摄传感器尺寸等关键参数，为关注手机摄影的读者提供前瞻性技术参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iPhone 18 rumor roundup: what we might expect from the next iPhone"
+    },
+    {
+      "id": "recvnfuDaU0Xag",
+      "title": "富士X和GFX设备大促最后一周",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/last-week-to-save-big-on-fujifilm-x-and-gfx-gear/",
+      "publish_time": "2026-06-22T04:31:34+08:00",
+      "summary": "富士X和GFX系列产品优惠最后一周，6月28日结束，但4款XF镜头优惠持续至8月2日。",
+      "recommendation": "富士X/GFX促销截止时间明确，XF镜头优惠延长至8月2日，为购机者提供关键决策窗口。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Last Week to Save Big on Fujifilm X and GFX Gear"
+    },
     {
       "id": "recvndbxvptBMB",
       "title": "亚马逊早期Prime优惠已上线",
@@ -7727,84 +7803,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Sony MDR-7506 Headphones: The Standard to Which All Others Are Measured"
-    },
-    {
-      "id": "recvm54Euzz143",
-      "title": "凝视宇宙中独一无二的宇宙水晶球",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/gaze-into-a-cosmic-crystal-ball-unlike-anything-else-in-the-universe/",
-      "publish_time": "2026-06-10T04:15:22+08:00",
-      "summary": "双子座北望远镜捕捉到水晶球星云NGC 1514的迷人照片，与韦伯望远镜照片迥异，展现独特宇宙景观。",
-      "recommendation": "通过双子座北望远镜与韦伯望远镜的对比，揭示天文摄影中不同波段成像的差异，为影像爱好者提供独特的光学原理视角与宇宙视觉美学参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Gaze Into a Cosmic Crystal Ball Unlike Anything Else In the Universe"
-    },
-    {
-      "id": "recvm54H3WDRBV",
-      "title": "Vimeo、WeTransfer 和 Filmic 所有者 Bending Spoons 即将上市",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/09/vimeo-wetransfer-and-filmic-owner-bending-spoons-is-going-public/",
-      "publish_time": "2026-06-10T03:03:03+08:00",
-      "summary": "米兰应用工作室Bending Spoons在美申请IPO，估值达200亿美元，旗下拥有Vimeo、WeTransfer和Filmic等应用。",
-      "recommendation": "解析Bending Spoons上市对影像工具生态的影响，Filmic等应用未来走向值得关注。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Vimeo, WeTransfer, and Filmic Owner Bending Spoons is Going Public"
-    },
-    {
-      "id": "recvm54OA9EkNb",
-      "title": "APS-C无反相机因预算便携性走红，但部分全画幅单反实际价格相同",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/aps-c-mirrorless-cameras-are-trending-for-budget-portability-but-some-full-frame-dslrs-are-actually-the-same-price",
-      "publish_time": "2026-06-10T03:02:50+08:00",
-      "summary": "APS-C无反相机因预算便携性走红，但部分全画幅单反实际价格相同，且性能可超越APS-C画幅。",
-      "recommendation": "对比APS-C无反与全画幅单反的预算与性能，揭示画幅选择误区，为预算有限的爱好者提供实用购机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "APS-C mirrorless cameras are trending for budget portability. But some full-frame DSLRs are actually the same price"
-    },
-    {
-      "id": "recvm550M1Q2oD",
-      "title": "VILTROX 90mm F2.2 EVO：评测 + Aiarty 清理工作流",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/viltrox-90mm-f2-2-evo-review-aiarty-cleanup-workflow/",
-      "publish_time": "2026-06-10T03:00:46+08:00",
-      "summary": "Viltrox AF 90mm F2.2 EVO评测，适用于富士X卡口，含Aiarty清理工作流，核心参数为90mm焦距和F2.2光圈。",
-      "recommendation": "Viltrox 90mm F2.2 EVO的富士X卡口评测，包含Aiarty清理工作流实测，提供90mm F2.2人像镜头的具体画质数据与清理流程对比，适合关注副厂镜头与后期处理的用户。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "VILTROX 90mm F2.2 EVO: Review + Aiarty Cleanup Workflow"
-    },
-    {
-      "id": "recvm553tCoeN7",
-      "title": "追求最佳握持感，这三款相机值得考虑",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/09/3-cameras-to-go-for-if-you-want-the-best-grip/",
-      "publish_time": "2026-06-10T03:00:00+08:00",
-      "summary": "本文推荐三款握持感出色的相机，强调其人体工学设计，适合追求舒适拍摄体验的摄影师。",
-      "recommendation": "从握持感切入相机选购，提供三款机型的人体工学对比，含具体手柄深度、按键布局等细节数据，适合追求舒适拍摄的爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "3 Cameras To Go For If You Want The Best Grip"
     }
   ]
 }
