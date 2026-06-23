@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-23T12:47:47.612372+08:00",
+    "updated_at": "2026-06-23T18:20:37.095331+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,22 +13,22 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 104
+      "count": 100
     },
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 1
+      "count": 0
     },
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 22
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 35
+      "count": 34
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,240 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 186
+      "count": 188
     }
   ],
   "articles": [
+    {
+      "id": "recvnmrDcvC2cV",
+      "title": "2026年松下S5 II还值得买吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/23/is-the-panasonic-s5-ii-still-a-good-camera-in-2026/",
+      "publish_time": "2026-06-23T18:00:00+08:00",
+      "summary": "松下S5 II作为2023年评测的混合相机，性能出色，仍是市场最佳选择之一，除非出现重大硬件问题。",
+      "recommendation": "文章从2026年视角复盘S5 II的长期价值，提供跨代际的购买决策分析，对关注相机保值率与性能冗余的爱好者有实际参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the Panasonic S5 II Still a Good Camera in 2026?"
+    },
+    {
+      "id": "recvnmr76SFVSY",
+      "title": "这款乐高复古相机是我发现的15.99美元中最有趣的摄影产品",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/this-lego-retro-camera-is-the-most-fun-photography-deal-ive-found-for-usd15-99",
+      "publish_time": "2026-06-23T17:39:12+08:00",
+      "summary": "这款15.99美元的乐高复古相机是送给摄影师的完美礼物，兼具趣味性和性价比。",
+      "recommendation": "15.99美元乐高相机拆解，从积木结构看复古摄影美学，为影像爱好者提供低成本创意灵感与跨界趣味视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This LEGO retro camera is the most fun photography deal I’ve found for $15.99"
+    },
+    {
+      "id": "recvnmrw3erAk5",
+      "title": "Realme P4x 4G正式发布：8000mAh电池与焕新设计",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/realme_p4x_4g_goes_official_with_an_8000mah_battery_and_a_refreshed_design-news-73394.php",
+      "publish_time": "2026-06-23T17:30:03+08:00",
+      "summary": "Realme P4x 4G发布，配备8000mAh电池、6.8英寸120Hz水滴屏，搭载Unisoc处理器，相比5G版电池更大、设计更新。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦电池与设计，未涉及影像规格或拍摄性能，对影像爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Realme P4x 4G goes official with an 8,000mAh battery and a refreshed design"
+    },
+    {
+      "id": "recvnmr4Iqd9Pu",
+      "title": "摄影师用无人机警告冲浪者：巨型鲨鱼在其下方危险盘旋",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/photographer-uses-drone-to-warn-surfer-of-huge-shark-menacingly-circling-beneath-him/",
+      "publish_time": "2026-06-23T17:07:15+08:00",
+      "summary": "摄影师用无人机警告冲浪者，一条大鲨鱼在加州海岸水下盘旋，冲浪者毫不知情。",
+      "recommendation": "无人机航拍结合实时预警的实战案例，展示影像设备在紧急场景中的独特价值，提供摄影视角与安全应用的深度思考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer Uses Drone to Warn Surfer of Huge Shark Menacingly Circling Beneath Him"
+    },
+    {
+      "id": "recvnmr9rRQuPt",
+      "title": "科学摄影大赛获奖者希望“意外”奖项能开启职业摄影生涯",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/science-photo-contest-winner-hopes-unexpected-award-will-kickstart-a-professional-photography-career",
+      "publish_time": "2026-06-23T16:23:45+08:00",
+      "summary": "Gunnar Hartmann赢得2026年“工作中的科学家”摄影比赛，希望此意外奖项开启专业野生动物摄影生涯。",
+      "recommendation": "科学摄影大赛获奖案例，展示从科研摄影转型野生动物的职业路径，含赛事背景与作者创作思路，对摄影爱好者有职业规划参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Science photo contest winner hopes “unexpected” award will kickstart a professional photography career"
+    },
+    {
+      "id": "recvnmrbHQLlgB",
+      "title": "富士X-Half紧凑型相机正成为经典之作——Prime Day现历史最低价！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-fujifilm-x-half-compact-camera-is-becoming-a-cult-classic-and-now-its-at-its-lowest-price-ever-on-prime-day",
+      "publish_time": "2026-06-23T15:58:03+08:00",
+      "summary": "富士X-Half紧凑型相机在Prime Day降至历史最低价，作为经典口袋相机，是入门摄影的理想选择。",
+      "recommendation": "Prime Day历史低价信息，适合关注性价比口袋相机的入门用户，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Fujifilm X-Half compact camera is becoming a cult classic – and now it's at its lowest price ever on Prime Day!"
+    },
+    {
+      "id": "recvnmre2DVOqY",
+      "title": "大疆Osmo Pocket 3相机在亚马逊Prime Day降至历史最低价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/cult-dji-osmo-pocket-3-camera-drops-to-its-lowest-ever-price-in-amazon-prime-sale",
+      "publish_time": "2026-06-23T15:37:22+08:00",
+      "summary": "大疆Osmo Pocket 3相机在亚马逊Prime Day降至历史最低价378美元，是目前最划算的vlog设备之一。",
+      "recommendation": "大疆Pocket 3降至历史最低价378美元，提供vlog设备性价比关键数据，适合关注便携影像的用户了解当前最佳入手时机。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Cult DJI Osmo Pocket 3 camera drops to its lowest-ever price in Amazon Prime Sale"
+    },
+    {
+      "id": "recvnmrg72yszO",
+      "title": "直播：我们追踪2026年亚马逊Prime Day最佳相机优惠",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/live/news/track-the-best-camera-deals-across-amazon-prime-day",
+      "publish_time": "2026-06-23T15:25:42+08:00",
+      "summary": "亚马逊Prime Day大促期间，相机及视频产品最高可节省55%，追踪最佳优惠。",
+      "recommendation": "Prime Day相机优惠追踪，最高省55%，含独家价格走势与机型推荐，助影像爱好者精准抄底。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "LIVE: We track the best camera deals across Amazon Prime Day 2026"
+    },
+    {
+      "id": "recvnmrigWkTbS",
+      "title": "两个镜头加一台佳能微单相机仅需699美元？这Prime Day优惠太惊人",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/two-lenses-and-a-canon-mirrorless-camera-for-just-usd699-this-prime-deal-is-incredible",
+      "publish_time": "2026-06-23T15:23:53+08:00",
+      "summary": "佳能Prime Day促销，微单相机加两个镜头仅699美元，性价比极高。",
+      "recommendation": "699美元套机含双镜头，价格数据清晰，适合入门用户了解佳能微单促销力度。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Two lenses and a Canon mirrorless camera for just $699? This Prime deal is incredible"
+    },
+    {
+      "id": "recvnmrALKi8z6",
+      "title": "欧洲亚马逊Prime Day优惠现已上线！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/european-amazon-prime-day-deals-now-life/",
+      "publish_time": "2026-06-23T15:23:18+08:00",
+      "summary": "欧洲亚马逊Prime Day优惠上线，索尼相机和镜头大促，第三方镜头享20%折扣，涉及多国站点。",
+      "recommendation": "汇总欧洲亚马逊Prime Day索尼相机镜头优惠，含第三方镜头20%折扣及多国站点信息，为海淘影像设备提供价格参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "European Amazon Prime Day Deals now live!"
+    },
+    {
+      "id": "recvnmrFpQRiK7",
+      "title": "关于摄影与减肥的一封自省信",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/23/oped-on-photography-and-weight-loss-copy/",
+      "publish_time": "2026-06-23T15:00:00+08:00",
+      "summary": "Gservo 在文章中反思减肥对摄影的影响，探讨身体变化如何改变创作视角与艺术表达。",
+      "recommendation": "从身体变化切入创作视角，探讨摄影与自我关系的独特反思，对关注艺术表达的影像爱好者有启发价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A Letter to the Self About Photography and Weight Loss"
+    },
+    {
+      "id": "recvnmrkIjwKcX",
+      "title": "大疆Osmo Action 7：GoPro的死敌将如何、何时回应Mission 1 Pro？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/dji-osmo-action-7-how-and-when-will-gopros-arch-enemy-respond-to-the-mission-1-pro",
+      "publish_time": "2026-06-23T14:15:00+08:00",
+      "summary": "文章通过计算大疆Osmo Action 7作为旗舰的天数，预测GoPro需在何时回应Mission 1 Pro，揭示两者竞争态势",
+      "recommendation": "通过计算大疆Action 7旗舰天数，预测GoPro回应Mission 1 Pro的时间窗口，揭示运动相机竞争节奏。提供独家时间线分析，适合关注行业动态的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DJI Osmo Action 7: How and when will GoPro’s arch enemy respond to the Mission 1 Pro?"
+    },
+    {
+      "id": "recvnmrynPi81d",
+      "title": "B&H Photo精选内外存储方案，大幅节省开支",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/save-big-on-select-internal-external-storage-solutions-at-bh-photo/",
+      "publish_time": "2026-06-23T14:10:30+08:00",
+      "summary": "B&H Photo在内部和外部存储设备上提供大幅优惠，包括便携式SSD、桌面外置硬盘和M.2硬盘，优惠今晚11:59结束。",
+      "recommendation": "B&H Photo存储设备限时优惠，涵盖便携SSD、桌面硬盘等，为影像创作者提供低成本扩容方案，含具体产品型号与价格信息。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Save Big on Select Internal & External Storage Solutions at B&H Photo"
+    },
+    {
+      "id": "recvnmrmGReudG",
+      "title": "这款出色的OM System旅行相机套装在Prime Day直降230美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-brilliant-om-system-travel-camera-bundle-just-dropped-by-usd230-for-prime-day",
+      "publish_time": "2026-06-23T13:17:40+08:00",
+      "summary": "OM System OM-5 Mark II旅行相机套装在Prime Day降价230美元，并附赠旅行镜头，性价比极高。",
+      "recommendation": "Prime Day直降230美元，附赠旅行镜头，OM-5 II套装性价比突出。适合关注M43系统或旅行摄影的用户，价格数据明确。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This brilliant OM System travel camera bundle just dropped by $230 for Prime Day"
+    },
+    {
+      "id": "recvnmroUimRVn",
+      "title": "摄影师在阿拉斯加与巨型灰熊惊险相遇",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/photographer-has-nervy-encounter-with-enormous-grizzly-bear-in-alaska",
+      "publish_time": "2026-06-23T13:05:00+08:00",
+      "summary": "摄影师在阿拉斯加与巨型灰熊惊险相遇，TikTok视频记录激烈对视瞬间，展现野生动物摄影的惊险与魅力。",
+      "recommendation": "通过TikTok视频分析灰熊遭遇的拍摄参数与安全距离，提供野生动物摄影实战技巧与风险控制经验。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer has nervy encounter with enormous grizzly bear in Alaska"
+    },
     {
       "id": "recvnl5EifvSWe",
       "title": "怎么这么便宜？8K Insta360 Ace Pro 2电池套装现仅售289英镑，太不可思议了！",
@@ -56,6 +286,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "How is it so cheap? The 8K Insta360 Ace Pro 2 battery bundle is now just £289, that's incredible!"
+    },
+    {
+      "id": "recvnmrri6ve8U",
+      "title": "怎么这么便宜？8K Insta360 Ace Pro 2套装现仅售289英镑，太不可思议了！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/how-is-it-so-cheap-the-8k-insta360-ace-pro-2-battery-bundle-is-now-just-gbp289-thats-incredible",
+      "publish_time": "2026-06-23T12:21:28+08:00",
+      "summary": "8K Insta360 Ace Pro 2套装现仅售289英镑，配备两块电池，Prime优惠非常诱人。",
+      "recommendation": "8K运动相机套装降价至289英镑，含双电池，价格信息明确，适合关注性价比的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How is it so cheap? The 8K Insta360 Ace Pro 2 bundle is now just £289, that's incredible!"
     },
     {
       "id": "recvnl5SQV90Vh",
@@ -352,6 +597,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "HOLY CRAP –Canon's best-value full-frame camera is insanely cheap right now"
+    },
+    {
+      "id": "recvnmrtCXyjOm",
+      "title": "天哪！佳能最具性价比全画幅相机在Prime Day促销中价格低到离谱",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/holy-crap-canons-best-value-full-frame-camera-is-insanely-cheap-right-now",
+      "publish_time": "2026-06-23T01:19:21+08:00",
+      "summary": "佳能最小全画幅相机Prime Day促销，美国617美元，英国679英镑，价格低得离谱。",
+      "recommendation": "Prime Day佳能全画幅相机价格低至617美元，提供具体促销价与地区差异，适合预算有限的影像爱好者关注性价比机型。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "HOLY CRAP –Canon's best-value full-frame camera is insanely cheap in this Prime Day deal"
     },
     {
       "id": "recvnjiVeoLzIT",
@@ -7537,272 +7797,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The new Tecno Pova 8 boasts an 8,000mAh battery, Alive Matrix Display on its back"
-    },
-    {
-      "id": "recvmd3EiHzqSu",
-      "title": "唯卓仕将于6月16日发布新款饼干镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/viltrox-will-announce-a-new-pancake-lens-on-june-16/",
-      "publish_time": "2026-06-11T12:23:55+08:00",
-      "summary": "唯卓仕将于6月16日发布新款饼干镜头，可能非此前预告的26mm版本，外观与预告图不同。",
-      "recommendation": "揭示唯卓仕饼干镜头可能非26mm版本，外观与预告图存差异，提供独家细节，助影像爱好者提前把握新品动向。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Viltrox will announce a new pancake lens on June 16"
-    },
-    {
-      "id": "recvmd3BSEZA6V",
-      "title": "PhotoCuller 帮你找回被 Lightroom 偷走的时间",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/11/photoculler-gives-you-back-the-hours-lightroom-robs-from-you/",
-      "publish_time": "2026-06-11T12:00:00+08:00",
-      "summary": "PhotoCuller 解决 Lightroom Classic 卡顿问题，从海量相册中快速筛选文件，每月节省数小时时间。",
-      "recommendation": "针对Lightroom Classic卡顿痛点，提供PhotoCuller筛选方案，实测每月节省数小时，适合海量照片管理需求的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "PhotoCuller Gives You Back the Hours Lightroom Robs From You"
-    },
-    {
-      "id": "recvmd3u9UIVus",
-      "title": "荣耀Win 2规格再泄露，荣耀Win Pad Mini或也在路上",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/some_honor_win_2_specs_leak_again_honor_win_pad_mini_could_be_on_the_way_too-news-73214.php",
-      "publish_time": "2026-06-11T11:01:02+08:00",
-      "summary": "荣耀Win 2规格再曝光，搭载骁龙8 Elite Gen 6处理器，10000毫安时电池支持无线充电，2K平面屏配超高刷新率和指纹识别",
-      "recommendation": "文章聚焦荣耀Win 2的硬件规格，虽未直接涉及影像参数，但处理器与屏幕升级暗示计算摄影潜力，适合关注移动端影像性能的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Some Honor Win 2 specs leak again, Honor Win Pad Mini could be on the way too"
-    },
-    {
-      "id": "recvmd3wMv8Tzt",
-      "title": "三星Galaxy Z Fold8和Galaxy Watch Ultra 2获得新认证",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
-      "publish_time": "2026-06-11T09:01:02+08:00",
-      "summary": "三星Galaxy Z Fold8通过印度BIS认证，型号SM-F971B，传闻配备7.6英寸4:3内屏、50MP主摄和超广角、4800mAh电池。",
-      "recommendation": "文章披露Fold8影像规格：50MP主摄+超广角、7.6英寸内屏，为折叠屏手机摄影爱好者提供硬件参数参考，属常规认证资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The wide Samsung Galaxy Z Fold8 and the Galaxy Watch Ultra 2 receive new certifications"
-    },
-    {
-      "id": "recvmd3zphb0c3",
-      "title": "Godox发布适用于尼康相机的新款迷你iM30 Pro TTL闪光灯",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/10/godox-announced-a-new-mini-it30-pro-ttl-flash.aspx/",
-      "publish_time": "2026-06-11T08:55:24+08:00",
-      "summary": "Godox发布iM30 Pro迷你TTL闪光灯，售价45美元，融合复古美学与直观照明技术，专为街头摄影师和胶片爱好者设计。",
-      "recommendation": "45美元复古迷你闪光灯，融合TTL技术与便携设计，为街头摄影和胶片爱好者提供低成本补光方案。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Godox announced a new mini iM30 Pro TTL flash for Nikon cameras"
-    },
-    {
-      "id": "recvmd3hiKIbPB",
-      "title": "Lomo的Sprocket Rocket全景胶片相机推出丑陋新配色",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/lomos-sprocket-rocket-pano-film-camera-comes-in-an-ugly-new-color/",
-      "publish_time": "2026-06-11T05:46:16+08:00",
-      "summary": "Lomography为Sprocket Rocket 35mm全景胶片相机推出两种新配色，一美一丑，引发争议。",
-      "recommendation": "Lomo新配色引发争议，文章剖析了胶片相机设计美学与用户审美的冲突，对全景摄影爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Lomo’s Sprocket Rocket Pano Film Camera Comes In an Ugly New Color"
-    },
-    {
-      "id": "recvmd3jOL1Grn",
-      "title": "PetaPixel会员现享三项新折扣",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/petapixel-members-now-get-three-new-discounts/",
-      "publish_time": "2026-06-11T05:19:57+08:00",
-      "summary": "PetaPixel会员新增三项特权，价格不变，提升会员价值",
-      "recommendation": "PetaPixel会员新增三项折扣，价格不变，对订阅用户是直接福利。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "PetaPixel Members Now Get Three New Discounts"
-    },
-    {
-      "id": "recvmd3mhSjDO6",
-      "title": "你也能赢得著名摄影师拉尔夫·吉布森的徕卡相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/you-can-win-acclaimed-photographer-ralph-gibsons-personal-leica-camera/",
-      "publish_time": "2026-06-11T05:09:50+08:00",
-      "summary": "Blind Magazine与MPB联合传奇摄影师Ralph Gibson举办赠品活动，赢取他使用15年的徕卡M Typ 246数码旁轴相机。",
-      "recommendation": "文章提供与传奇摄影师Ralph Gibson互动机会，并揭示他使用15年的徕卡M Typ 246相机细节，对徕卡用户和摄影收藏爱好者有独特价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "You Can Win Acclaimed Photographer Ralph Gibson’s Personal Leica Camera"
-    },
-    {
-      "id": "recvmd3oJUBqKG",
-      "title": "被NFL球员撞倒的摄影师重返聚光灯下，这次是因为钓鱼",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/photographer-hit-by-nfl-player-back-in-the-spotlight-this-time-for-fishing/",
-      "publish_time": "2026-06-11T05:09:00+08:00",
-      "summary": "2021年被NFL球员撞倒的摄影师马特·斯塔基，如今因钓鱼再次成为焦点，展现其从意外事件到新爱好的转变。",
-      "recommendation": "从意外事件到钓鱼爱好，展现摄影师马特·斯塔基的跨界故事，提供行业人物动态与摄影生活化视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Hit By NFL Player Back in the Spotlight, This Time for Fishing"
-    },
-    {
-      "id": "recvmb60DGW2mR",
-      "title": "尼康S3旁轴相机令人惊叹：尼康应重拾经典",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/the-nikon-s3-rangefinder-was-incredible-nikon-should-do-it-again/",
-      "publish_time": "2026-06-11T04:33:10+08:00",
-      "summary": "尼康S3旁轴相机令人惊叹，作者呼吁尼康重拾经典，通过福伦达Bessa R2a体验旁轴魅力，强调其独特价值",
-      "recommendation": "从福伦达Bessa R2a体验切入，解析尼康S3旁轴的设计哲学与操作手感，为胶片爱好者提供经典机型对比与选购参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Nikon S3 Rangefinder Was Incredible: Nikon Should Do It Again"
-    },
-    {
-      "id": "recvmb635UM4rU",
-      "title": "Joby新款40美元三脚架夹，可固定在背包或腰带上",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/jobys-new-40-tripod-clips-to-your-bag-or-belt/",
-      "publish_time": "2026-06-11T04:14:20+08:00",
-      "summary": "Joby发布HandyPod Clip Extend紧凑型三脚架，售价40美元，可固定在背包或腰带上，为创作者提供便携拍摄方案。",
-      "recommendation": "40美元三脚架夹解决背包固定痛点，提供便携拍摄新方案，适合户外创作者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Joby’s New $40 Tripod Clips to Your Bag or Belt"
-    },
-    {
-      "id": "recvmb6aJAQ22c",
-      "title": "苹果在开发者会议中埋藏了最有趣的摄影更新",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/6744459009/apple-core-image-raw-9-processing",
-      "publish_time": "2026-06-11T03:00:00+08:00",
-      "summary": "苹果在开发者会议中透露重新设计了Raw图像处理流程，新Raw处理器提供更好降噪效果，能处理非传统传感器模式相机的图像。",
-      "recommendation": "苹果Raw处理流程重新设计，新降噪算法支持非传统传感器，为计算摄影爱好者提供底层技术视角。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "ISP & 影像芯片"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple buried its most interesting photography update in a developer session"
-    },
-    {
-      "id": "recvmb6qbRet2L",
-      "title": "索尼100-400mm f4.5 G Master评测更新：表现不俗",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/10/sony-100-400mm-f4-5-g-master-review-update-not-too-bad/",
-      "publish_time": "2026-06-11T03:00:00+08:00",
-      "summary": "索尼100-400mm f4.5 G Master镜头评测更新，表现不俗。索尼严格控制测试环境，但评测机构在镜头发布后像普通用户一样进行了更真实的测试。",
-      "recommendation": "更新评测补充了真实场景样张与实验室数据差异，提供100-400mm在长焦端解析力与对焦速度的实测对比，适合关注长焦镜头实战表现的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony 100-400mm f4.5 G Master Review Update: Not Too Bad"
-    },
-    {
-      "id": "recvmb65AQ1BHl",
-      "title": "电影制作人用Blackmagic沉浸式相机拍摄火箭发射",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/filmmakers-captured-a-rocket-launch-with-a-blackmagic-immersive-camera/",
-      "publish_time": "2026-06-11T02:57:18+08:00",
-      "summary": "成都琼结映创文化娱乐使用Blackmagic Ursa Cine Immersive相机在戈壁沙漠拍摄火箭发射，该相机通过双镜头捕捉超8K视频，适配Apple Vision Pro头显。",
-      "recommendation": "解析Blackmagic双镜头超8K相机在极端环境下的实战表现，提供火箭发射场景的拍摄参数与Apple Vision Pro适配细节，对空间视频创作者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Filmmakers Captured a Rocket Launch With a Blackmagic Immersive Camera"
-    },
-    {
-      "id": "recvmb6kJcew3i",
-      "title": "Insta360 对标大疆 Osmo Pocket 4P 的新品来了，名为 Luna Ultra",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/insta360s_answer_to_djis_osmo_pocket_4p_is_here_and_its_called_the_luna_ultra-news-73222.php",
-      "publish_time": "2026-06-11T01:53:02+08:00",
-      "summary": "Insta360发布新旗舰Luna Ultra，对标大疆Osmo Pocket 4P，双摄设计含1英寸主摄和长焦，支持3倍光学变焦，主打视频博客。",
-      "recommendation": "文章披露Insta360新旗舰Luna Ultra双摄设计，含1英寸主摄与3倍光变长焦，提供与Osmo Pocket 4P的差异化参数对比，对关注口袋相机市场的用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360's answer to DJI's Osmo Pocket 4P is here and it's called the Luna Ultra"
-    },
-    {
-      "id": "recvmb683o1lLs",
-      "title": "苹果RAW处理十年后终于进化，意义重大",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/apples-raw-processing-is-finally-evolving-after-a-decade-and-its-a-big-deal/",
-      "publish_time": "2026-06-11T01:06:09+08:00",
-      "summary": "苹果在WWDC后发布100多个新视频，其中Core Image RAW处理API重大升级，支持iPhone RAW/ProRAW拍摄及全平台RAW图像处理，十年进化意义重大。",
-      "recommendation": "文章解析苹果RAW处理十年进化，Core Image RAW API升级支持全平台RAW处理，提供独家技术细节，对追求RAW工作流的手机摄影用户有实操价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple’s RAW Processing is Finally Evolving After a Decade and It’s a Big Deal"
-    },
-    {
-      "id": "recvmb6njfqW0t",
-      "title": "富士胶片发布2026年ZERO X与GFX设备…但我们却迎来了22支新自动对焦镜头",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-has-released-zero-x-gfx-gear-in-2026-and-yet-we-got-22-new-autofocus-lenses/",
-      "publish_time": "2026-06-11T00:37:19+08:00",
-      "summary": "富士胶片2026年上半年未发布X和GFX设备，但迎来22支新自动对焦镜头，创历史记录。",
-      "recommendation": "22支新自动对焦镜头创纪录，为X/GFX用户提供丰富选择，行业动态值得关注。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm Has Released ZERO X & GFX Gear in 2026… And Yet We Got 22 New Autofocus Lenses"
     }
   ]
 }
