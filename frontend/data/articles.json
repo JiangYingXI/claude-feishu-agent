@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-23T23:45:04.879775+08:00",
+    "updated_at": "2026-06-24T04:42:58.292387+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 19
+      "count": 18
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 101
+      "count": 99
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,237 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 35
+      "count": 34
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 398
+      "count": 401
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 180
+      "count": 179
     }
   ],
   "articles": [
+    {
+      "id": "recvnoXRQGaRMn",
+      "title": "Westcott 新款更耐用的 V-Flat 摒弃泡沫芯",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/westcotts-new-more-durable-v-flat-is-ditches-the-foam-core/",
+      "publish_time": "2026-06-24T04:28:24+08:00",
+      "summary": "Westcott推出更耐用的便携式V-Flat系统，采用可折叠铝制框架和可清洗织物表面，替代传统泡沫芯，适合工作室与外景移动使用",
+      "recommendation": "Westcott用铝架织物替代传统泡沫芯，提升耐用性与便携性，适合外拍用户。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Westcott’s New More Durable V-Flat Is Ditches the Foam Core"
+    },
+    {
+      "id": "recvnoXU50aMxM",
+      "title": "Prime Day最佳相机优惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/the-best-prime-day-deals-on-cameras/",
+      "publish_time": "2026-06-24T03:43:04+08:00",
+      "summary": "Prime Day期间，相机优惠涵盖拍立得到专业级数码相机，提供多种诱人选择，适合不同摄影需求。",
+      "recommendation": "Prime Day相机优惠汇总，涵盖拍立得至专业级，提供具体机型与折扣数据，适合有购买需求的影像爱好者快速决策。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Prime Day Deals on Cameras"
+    },
+    {
+      "id": "recvnoXWt2S2U2",
+      "title": "GoPro Mission 1 Pro评测：迄今最佳运动相机，但足够了吗？",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/gopro-mission-1-pro-review-the-best-action-camera-yet-but-is-it-enough/",
+      "publish_time": "2026-06-24T03:30:40+08:00",
+      "summary": "GoPro Mission 1 Pro售价699美元，面临大疆和Insta360激烈竞争，利润下滑，近两年未发旗舰，此款相机是其扭转局面的最佳机会。",
+      "recommendation": "深度解析GoPro旗舰运动相机，对比大疆、Insta360竞争格局，提供利润下滑与两年未发旗舰的行业数据，对运动相机爱好者有决策参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "GoPro Mission 1 Pro Review: The Best Action Camera Yet, But Is It Enough?"
+    },
+    {
+      "id": "recvnoYjsgOduu",
+      "title": "佳能备受喜爱的EOS RP在多年辉煌后终获安息",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/23/canons-beloved-eos-rp-earns-its-rip-after-years-of-glory/",
+      "publish_time": "2026-06-24T03:00:00+08:00",
+      "summary": "佳能EOS RP微单相机因市场更新而停产，其全画幅设计、轻便机身及高性价比曾受摄影师青睐，现正式告别",
+      "recommendation": "回顾EOS RP停产，分析其全画幅轻便设计对入门用户的价值，提供市场更新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon’s Beloved EOS RP Earns Its RIP After Years of Glory"
+    },
+    {
+      "id": "recvnoY5hQLPo2",
+      "title": "大疆Osmo Pocket 3彻底改变度假视频拍摄——亚马逊Prime大促期间仅售277英镑！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/the-dji-osmo-pocket-3-changed-vacation-videos-forever-and-its-now-an-incredible-gbp277-during-the-amazon-prime-sale",
+      "publish_time": "2026-06-24T02:52:11+08:00",
+      "summary": "大疆Osmo Pocket 3在亚马逊Prime大促期间仅售277英镑，这款小型相机能彻底改变度假视频拍摄，让手机视频相形见绌。",
+      "recommendation": "文章聚焦大疆Osmo Pocket 3在Prime大促的277英镑价格，对比手机视频拍摄效果，提供具体促销信息与产品升级价值，适合关注便携影像设备的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The DJI Osmo Pocket 3 changed vacation videos forever - and it's now an incredible £277 during the Amazon Prime Sale!"
+    },
+    {
+      "id": "recvnoYh7zNMxU",
+      "title": "B&H Photo反击：推出自家3日限时特惠",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/bh-photo-strikes-back-with-its-one-3-day-only-deals/",
+      "publish_time": "2026-06-24T02:34:59+08:00",
+      "summary": "B&H Photo推出3日限时夏季促销，反击亚马逊Prime Day，涵盖富士、Apple、SanDisk等品牌，首日畅销包括SanDisk 512GB等商品。",
+      "recommendation": "B&H Photo限时促销覆盖富士、Apple等品牌，SanDisk 512GB等热门影像存储产品首日畅销，为影像爱好者提供直接比价与选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "B&H Photo Strikes Back with Its Own 3 Day Only Deals"
+    },
+    {
+      "id": "recvnoY7wskyZC",
+      "title": "佳能PowerShot V10在亚马逊Prime大促中降价至379美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camcorders/canon-powershot-v10-gets-price-cut-to-usd379-in-the-amazon-prime-sale",
+      "publish_time": "2026-06-24T02:31:33+08:00",
+      "summary": "佳能PowerShot V10在亚马逊Prime大促中降价至379美元，适合vlog拍摄的便携相机。",
+      "recommendation": "提供PowerShot V10在Prime大促中的具体降价幅度与适用场景，对关注便携vlog相机的用户有明确参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Canon PowerShot V10 gets price cut to $379 in the Amazon Prime Sale"
+    },
+    {
+      "id": "recvnoY35l2inH",
+      "title": "三星Galaxy Z Fold8、Fold8 Ultra和Flip8颜色及存储选项泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_fold8_fold8_ultra_and_flip8_colors_and_storage_options_leak-news-73408.php",
+      "publish_time": "2026-06-24T02:30:02+08:00",
+      "summary": "三星预计7月22日发布Galaxy Z Fold8、Fold8 Ultra和Flip8，Fold8提供奶油、石墨、薰衣草、开心果四色，存储256GB至1TB。",
+      "recommendation": "常规资讯，可了解三星折叠屏新机颜色与存储配置，但未涉及影像规格，对影像爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8, Fold8 Ultra, and Flip8 colors and storage options leak"
+    },
+    {
+      "id": "recvnoXYwXYcZj",
+      "title": "Prime Day最佳优惠：存储卡、固态硬盘和NAS",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/the-best-prime-day-deals-on-memory-cards-ssds-and-nas/",
+      "publish_time": "2026-06-24T02:06:07+08:00",
+      "summary": "亚马逊Prime Day提供存储卡、固态硬盘和NAS系统优惠，缓解内存价格上涨之痛。",
+      "recommendation": "Prime Day存储设备优惠指南，针对影像创作者内存涨价痛点，提供存储卡、SSD和NAS选购参考，含具体折扣信息。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Prime Day Deals on Memory Cards, SSDs, and NAS"
+    },
+    {
+      "id": "recvnoYexluCYY",
+      "title": "B&H Photo 推出自家版 Prime Day 促销活动",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/23/bh-photo-has-its-own-version-of-prime-day-deals.aspx/",
+      "publish_time": "2026-06-24T01:10:44+08:00",
+      "summary": "B&H Photo推出自家版Prime Day促销活动，涵盖摄影、相机、镜头等众多品类及品牌，详情见原文。",
+      "recommendation": "B&H Photo促销活动覆盖相机、镜头等品类，可快速了解影像设备折扣动态。常规资讯，可了解行业促销节奏。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "B&H Photo has its own version of Prime Day deals"
+    },
+    {
+      "id": "recvnoY9GpUwcc",
+      "title": "没找到合适的尼康Prime Day优惠，但这些尼康卡口镜头很划算！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/i-couldnt-find-any-decent-nikon-prime-day-deals-but-these-nikon-fit-lenses-are-bargains",
+      "publish_time": "2026-06-24T00:16:40+08:00",
+      "summary": "Prime Day期间，唯卓仕Z卡口镜头在低价基础上再享15%折扣，虽无尼康优惠，但这些镜头性价比极高",
+      "recommendation": "Prime Day期间唯卓仕Z卡口镜头叠加15%折扣，为尼康用户提供高性价比副厂选择，含具体型号与价格数据，适合关注镜头预算的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I couldn't find any decent Nikon Prime Day Deals, but these Nikon-fit lenses are bargains!"
+    },
+    {
+      "id": "recvnoYlJWkal0",
+      "title": "VSCO One：专业摄影师未曾察觉的缺失系统",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/23/vsco-one-is-the-system-professional-photographers-didnt-know-they-were-missing/",
+      "publish_time": "2026-06-24T00:00:00+08:00",
+      "summary": "VSCO推出VSCO One平台，为专业摄影师提供从拍摄到编辑的全流程解决方案，弥补现有系统缺失，实现高效创作。",
+      "recommendation": "剖析VSCO One全流程系统对专业摄影师的缺失补位，提供从拍摄到编辑的整合方案，适合关注工作流优化的影像创作者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "VSCO One Is the System Professional Photographers Didn’t Know They Were Missing"
+    },
+    {
+      "id": "recvnoYc17iThm",
+      "title": "Ring摄像头提供30天免费AI解说——但当它看到人们“做新婚夫妇做的事”时，它会说什么？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/security-cameras/ring-cameras-have-30-days-free-ai-commentary-but-what-will-it-say-when-it-sees-people-doing-what-newlyweds-do",
+      "publish_time": "2026-06-23T23:44:41+08:00",
+      "summary": "Ring摄像头在Prime Day提供30天免费AI解说功能，但面对现实生活场景如新婚夫妇行为时，其描述能力存疑。",
+      "recommendation": "探讨AI影像描述在真实场景中的边界，以Ring摄像头为例揭示计算摄影的伦理与实用性矛盾，对关注AI影像落地的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Ring cameras have 30 days free AI commentary – but what will it say when it sees people \"doing what newlyweds do\"?"
+    },
+    {
+      "id": "recvnoY0K1UctS",
+      "title": "VSCO为何认为其新的500美元订阅对专业人士物有所值",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/why-vsco-believes-its-new-500-subscription-is-worth-it-for-pros/",
+      "publish_time": "2026-06-23T23:38:34+08:00",
+      "summary": "VSCO推出500美元年订阅VSCO One及Studio Pro平台，面向职业摄影师，提供高级编辑工具与高产量工作流支持，旨在以专业功能匹配高价定位。",
+      "recommendation": "解析VSCO高价订阅背后的专业编辑工具与工作流逻辑，为职业摄影师评估付费价值提供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Why VSCO Believes Its New $500 Subscription Is Worth it for Pros"
+    },
     {
       "id": "recvnnK7wsQXfP",
       "title": "摄影师携手篮球新星AJ·迪班萨重现经典太阳扣篮瞬间",
@@ -7576,225 +7793,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Neewer Q120 and Z3R: Compact Power Meets Modern TTL Control"
-    },
-    {
-      "id": "recvmiUt9tMvpb",
-      "title": "荣耀Magic V6评测：一款拍照媲美直板机的折叠屏手机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/honor-magic-v6-review-a-foldable-phone-that-takes-photos-like-a-slab/",
-      "publish_time": "2026-06-12T05:30:45+08:00",
-      "summary": "荣耀Magic V6折叠屏手机主打轻薄手感，接近标准智能手机，旨在改进而非重新定义折叠屏品类，拍照媲美直板机。",
-      "recommendation": "文章对比折叠屏与直板机拍照表现，提供实拍样张和轻薄设计对影像模组的影响分析，适合关注折叠屏影像潜力的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Honor Magic V6 Review: A Foldable Phone That Takes Photos Like a Slab"
-    },
-    {
-      "id": "recvmgU8UpktN4",
-      "title": "蔡司仍在生产这六款单反镜头，因为它们太受欢迎了",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/zeiss-is-still-making-these-six-dslr-lenses-because-theyre-so-popular/",
-      "publish_time": "2026-06-12T04:57:38+08:00",
-      "summary": "蔡司调整产品组合后，因六款单反镜头极受欢迎，决定继续生产，包括部分Otus系列镜头。",
-      "recommendation": "蔡司保留六款单反镜头生产，含Otus系列，揭示其市场策略与经典光学设计仍受追捧，为镜头收藏与选购提供参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Zeiss Is Still Making These Six DSLR Lenses Because They’re So Popular"
-    },
-    {
-      "id": "recvmgUbwEjNKa",
-      "title": "摄影师如何手工打造出人人梦寐以求的8×10相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/how-a-photographer-handmade-his-dream-8x10-camera-for-everyone/",
-      "publish_time": "2026-06-12T04:08:23+08:00",
-      "summary": "斯洛文尼亚摄影师Elvis Halilović推出Ondu Eikan 8x10轻量手工大画幅野外相机，满足摄影师对便携与画质的追求。",
-      "recommendation": "手工大画幅相机制作过程详解，含Ondu Eikan 8x10具体重量与便携设计数据，为追求极致画质的摄影师提供非量产器材的实用参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How a Photographer Handmade His Dream 8×10 Camera for Everyone"
-    },
-    {
-      "id": "recvmgUdUENUhy",
-      "title": "Insta360 欲证明 Luna 为原创，并非基于大疆专利",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/insta360-intends-to-prove-the-luna-is-original-not-based-on-djis-patents/",
-      "publish_time": "2026-06-12T03:45:19+08:00",
-      "summary": "大疆在美起诉Insta360侵犯专利，Insta360准备辩护，声称Luna为原创。",
-      "recommendation": "解析Insta360与大疆专利纠纷，揭露Luna原创性争议，提供行业法律博弈视角，助你了解影像厂商技术护城河。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Insta360 Intends to Prove the Luna Is Original, Not Based on DJI’s Patents"
-    },
-    {
-      "id": "recvmgUw0FM8Tm",
-      "title": "iPhone照片噪点将大幅减少，即使你从未听说过Core Image RAW 9。iOS 27和macOS 27隐藏了一项关键编辑更新",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/iphones/iphone-photos-are-about-to-get-a-lot-less-noisy-even-if-youve-never-heard-of-core-image-raw-9-ios-27-and-macos-27-hide-a-key-editing-update",
-      "publish_time": "2026-06-12T03:11:27+08:00",
-      "summary": "苹果更新RAW处理引擎Core Image RAW 9，显著减少iPhone照片噪点并改善色彩还原，该更新隐藏于iOS 27和macOS 27中。",
-      "recommendation": "揭秘苹果Core Image RAW 9引擎，提供iOS 27隐藏更新细节，对追求噪点控制和色彩还原的iPhone摄影用户有直接参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "iPhone photos are about to get a lot less noisy, even if you've never heard of Core Image RAW 9. iOS 27 and macOS 27 hide a key editing update"
-    },
-    {
-      "id": "recvmgUguoMjAo",
-      "title": "这款Hello Kitty相机联名款已准备就绪",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/this-hello-kitty-camera-collab-is-ready-for-action/",
-      "publish_time": "2026-06-12T03:03:06+08:00",
-      "summary": "Insta360推出限量版Hello Kitty主题Go Ultra套装，含粉色相机、主题配件和数字内容，专为粉丝设计。",
-      "recommendation": "Insta360联名Hello Kitty推出限量版Go Ultra套装，粉色相机与主题配件为粉丝提供独特影像体验，但缺乏核心参数与深度技术分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Hello Kitty Camera Collab is Ready for Action"
-    },
-    {
-      "id": "recvmgUBaMoqYm",
-      "title": "摄影师：别等到来不及才做这件事",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/11/mistake-photographers-with-gear-copy-3/",
-      "publish_time": "2026-06-12T03:00:00+08:00",
-      "summary": "摄影师应保护器材，摄影保险计划提供比保修更全面的保障，涵盖灰尘、恶劣天气等损坏，核心价值是确保设备安全。",
-      "recommendation": "文章聚焦器材保险这一常被忽视的实用话题，提供灰尘、恶劣天气等具体损坏场景的保障分析，对注重设备安全的影像爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographers: Don’t Do This Until It’s Too Late"
-    },
-    {
-      "id": "recvmgUiUYFgcT",
-      "title": "摄影师厌倦了大相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/photographers-are-tired-of-big-cameras/",
-      "publish_time": "2026-06-12T02:15:11+08:00",
-      "summary": "摄影师克里斯·尼科尔斯因评测工作频繁换相机，却想自购小巧相机，反映对大型设备的厌倦。",
-      "recommendation": "从摄影师视角揭示行业趋势：大型相机疲劳催生便携设备需求，提供从业者真实心态与设备选择洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographers Are Tired of Big Cameras"
-    },
-    {
-      "id": "recvmgUtolpD4a",
-      "title": "大疆Osmo Pocket 4P上手体验：大疆新款双摄口袋相机首批实拍图",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/4889023910/dji-osmo-pocket-4p-hands-on-photos",
-      "publish_time": "2026-06-12T02:09:00+08:00",
-      "summary": "大疆新款Osmo Pocket 4P双摄口袋相机已上手体验，但传感器、镜头等核心技术参数仍保密。",
-      "recommendation": "大疆新款双摄口袋相机首批实拍图曝光，虽核心参数保密，但外观与双摄设计已可窥见产品方向，适合关注便携影像设备升级的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "DJI Osmo Pocket 4P hands-on: our first images of DJI's new dual-camera pocket cam"
-    },
-    {
-      "id": "recvmgUlm6HbLP",
-      "title": "英国威胁：科技CEO若不添加CSAM保护措施将面临监禁",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/uk-threatens-to-jail-tech-ceos-if-they-dont-add-csam-safeguards/",
-      "publish_time": "2026-06-12T01:52:27+08:00",
-      "summary": "英国威胁对拒绝在设备上添加CSAM检测保护措施的科技CEO实施监禁，旨在强制技术公司保护儿童免受性虐待图像侵害。",
-      "recommendation": "英国拟立法强制科技CEO添加CSAM检测，影像设备隐私与安全平衡面临新挑战，对关注数据加密的摄影爱好者有行业风向价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "UK Threatens to Jail Tech CEOs If They Don’t Add CSAM Safeguards"
-    },
-    {
-      "id": "recvmgUnX2XgFq",
-      "title": "大疆起诉Insta360侵犯多项Osmo Pocket专利",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/",
-      "publish_time": "2026-06-12T01:27:53+08:00",
-      "summary": "大疆起诉Insta360侵犯其Osmo Pocket相关专利，涉及Luna云台相机，包括两项外观设计和四项实用新型专利侵权。",
-      "recommendation": "大疆诉Insta360专利侵权案，揭示Osmo Pocket核心技术壁垒，为云台相机选购提供法律风险参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI Is Suing Insta360 for Violating Multiple Osmo Pocket Patents"
-    },
-    {
-      "id": "recvmgUyF3SjfI",
-      "title": "获奖照片：一只草原鹰在野火旁等待捕猎逃窜的动物——用83倍超级变焦相机拍摄",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-savanna-hawk-waits-beside-a-wildfire-to-hunt-fleeing-animals-in-this-award-winning-photo-shot-on-an-83x-superzoom-camera",
-      "publish_time": "2026-06-12T01:15:00+08:00",
-      "summary": "83倍超级变焦相机拍摄的草原鹰在野火旁等待捕猎的照片，赢得野生动物摄影奖，挑战长焦镜头主导地位。",
-      "recommendation": "83倍变焦相机挑战长焦镜头，获奖照片证实超长焦在野生动物摄影中的实战价值，提供具体拍摄参数与场景分析。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A Savanna Hawk waits beside a wildfire to hunt fleeing animals in this award-winning photo – shot on an 83x superzoom camera"
-    },
-    {
-      "id": "recvmgUqyWhnQg",
-      "title": "这就是老式手机摄像头眼中的辐射",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/this-is-what-radiation-looks-like-to-an-old-phone-camera/",
-      "publish_time": "2026-06-12T00:47:31+08:00",
-      "summary": "短视频展示旧手机CCD相机对准β辐射源时的成像效果，揭示辐射在相机中的视觉表现。",
-      "recommendation": "用旧手机CCD相机捕捉β辐射视觉表现，揭示传感器对不可见光的响应机制，为影像爱好者提供独特的技术科普视角。",
-      "categories": [
-        "传感器硬件",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This is What Radiation Looks Like to an Old Phone Camera"
-    },
-    {
-      "id": "recvmfPi9pPwNC",
-      "title": "富士新款紧凑型拍立得相机有个自拍绝招：无需尴尬伸长手臂，秘密藏在最奇怪的地方",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/fujifilms-new-compact-instant-camera-has-a-weird-trick-for-selfies-without-that-awkward-outstretched-arm-and-its-hiding-in-the-strangest-place",
-      "publish_time": "2026-06-12T00:27:31+08:00",
-      "summary": "富士Instax Mini 13拍立得相机即将发货，其独特自拍功能隐藏在相机背带中，无需伸长手臂即可轻松自拍",
-      "recommendation": "解析Instax Mini 13背带自拍设计，提供拍立得用户实用技巧，揭示产品创新点。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm’s new compact instant camera has a weird trick for selfies without that awkward outstretched arm – and it's hiding in the strangest place"
     }
   ]
 }
