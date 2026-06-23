@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-23T05:30:30.719783+08:00",
+    "updated_at": "2026-06-23T12:47:47.612372+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 21
+      "count": 20
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 103
+      "count": 104
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,124 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 393
+      "count": 394
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 188
+      "count": 186
     }
   ],
   "articles": [
+    {
+      "id": "recvnl5EifvSWe",
+      "title": "怎么这么便宜？8K Insta360 Ace Pro 2电池套装现仅售289英镑，太不可思议了！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/how-is-it-so-cheap-the-8k-insta360-ace-pro-2-battery-bundle-is-now-just-gbp289-thats-incredible",
+      "publish_time": "2026-06-23T12:21:28+08:00",
+      "summary": "8K Insta360 Ace Pro 2电池套装现仅售289英镑，配备两块电池，Prime会员优惠诱人",
+      "recommendation": "289英镑的8K运动相机电池套装，含双电池，Prime会员价诱人。文章提供具体价格与配置，适合关注性价比的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How is it so cheap? The 8K Insta360 Ace Pro 2 battery bundle is now just £289, that's incredible!"
+    },
+    {
+      "id": "recvnl5SQV90Vh",
+      "title": "2026年，徕卡SL2s还是一款好相机吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/23/is-the-leica-sl2s-still-a-good-camera-in-2026/",
+      "publish_time": "2026-06-23T12:00:00+08:00",
+      "summary": "2026年，徕卡SL2s虽已停产并被SL3s取代，但凭借其出色的图像质量和坚固机身，在二手市场仍具价值，作者认为它依然是值得入手的主力相机。",
+      "recommendation": "从二手市场角度评估2026年徕卡SL2s的实用价值，提供停产机型的图像质量与机身耐用性分析，适合关注性价比的徕卡用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is the Leica SL2s Still a Good Camera in 2026?"
+    },
+    {
+      "id": "recvnl5NZa62LA",
+      "title": "一个新兴平价智能手机品牌即将登陆印度",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/a_new_affordable_smartphone_brand_is_coming_to_india-news-73389.php",
+      "publish_time": "2026-06-23T09:00:02+08:00",
+      "summary": "Fire-Boltt将推出Boltt品牌廉价智能手机，其在印度智能手表市场占9.7%份额，计划以低价可靠策略挑战大牌。",
+      "recommendation": "常规资讯，可了解行业动态。文章未涉及手机影像配置或技术细节，但对关注印度市场低价手机影像布局的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A new affordable smartphone brand is coming to India"
+    },
+    {
+      "id": "recvnl5GZjKY1s",
+      "title": "松下Lumix S9套装是摄影师和内容创作者的梦幻交易，亚马逊Prime Day仅售999英镑",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-panasonic-lumix-s9-bundle-is-a-dream-deal-for-photographers-and-content-creators-and-its-only-gbp999-in-the-amazon-prime-sale",
+      "publish_time": "2026-06-23T07:23:37+08:00",
+      "summary": "亚马逊Prime Day松下Lumix S9全画幅相机套装降至999英镑，适合摄影师和内容创作者",
+      "recommendation": "Prime Day松下S9全画幅套装降至999英镑，含20-60mm镜头，适合预算有限的创作者。文章提供价格对比与套件价值分析，但无独家数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This Panasonic Lumix S9 bundle is a dream deal for photographers and content creators, and it's only £999 in the Amazon Prime Sale"
+    },
+    {
+      "id": "recvnl5JjtGY35",
+      "title": "NiSi为理光GR相机推出巧妙新镜头配件",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/nisi-reveals-clever-new-lens-accessories-for-ricoh-gr-cameras",
+      "publish_time": "2026-06-23T07:19:23+08:00",
+      "summary": "NiSi为理光GR相机推出新镜头配件，使其更加多功能，保留核心技术参数，提升拍摄灵活性。",
+      "recommendation": "NiSi为理光GR推出新镜头配件，保留核心参数同时提升灵活性，适合街拍爱好者拓展创作可能。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "NiSi reveals clever new lens accessories for Ricoh GR cameras"
+    },
+    {
+      "id": "recvnl5QwaIBtB",
+      "title": "iPhone 18 Pro相机升级再获传闻'确认'",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_18_pro_camera_upgrade_confirmed_by_another_rumor-news-73388.php",
+      "publish_time": "2026-06-23T06:30:02+08:00",
+      "summary": "据爆料，iPhone 18 Pro主摄像头将获物理尺寸升级，凸起增厚约2毫米，并可能配备可变光圈。",
+      "recommendation": "iPhone 18 Pro主摄传感器尺寸升级及可变光圈传闻，提供具体物理参数（凸起增厚2mm），对关注手机光学硬件迭代的爱好者有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iPhone 18 Pro camera upgrade 'confirmed' by another rumor"
+    },
+    {
+      "id": "recvnl5LMGR106",
+      "title": "最受期待的平价拍照手机之一刚刚被取消",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phones/one-of-the-most-hotly-anticipated-budget-camera-phones-has-just-been-cancelled",
+      "publish_time": "2026-06-23T06:27:34+08:00",
+      "summary": "因AI和全球内存短缺，最受期待的平价拍照手机之一被取消，影响市场期待。",
+      "recommendation": "分析平价拍照手机因AI和内存短缺被取消的行业影响，提供市场供需与产品策略的独特视角，对关注手机影像趋势的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "One of the most hotly-anticipated budget camera phones has just been cancelled"
+    },
     {
       "id": "recvnjiF53a1DH",
       "title": "ObscuraFlex 现允许摄影师在复古大画幅相机上使用理光GR",
@@ -7694,116 +7803,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Fujifilm Has Released ZERO X & GFX Gear in 2026… And Yet We Got 22 New Autofocus Lenses"
-    },
-    {
-      "id": "recvmb6hZ4I8XR",
-      "title": "佳能EOS R6 V最佳镜头推荐：我为佳能新款全画幅视频机R6 V精选高性价比首选镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/best-lenses-for-the-canon-eos-r6-v",
-      "publish_time": "2026-06-11T00:33:06+08:00",
-      "summary": "佳能EOS R6 V最佳镜头推荐，精选高性价比镜头以充分利用其全画幅视频特性与功能。",
-      "recommendation": "针对R6 V视频特性，精选高性价比镜头组合，提供具体焦段与光圈数据，帮助用户快速匹配拍摄需求。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Best lenses for the Canon EOS R6 V: I pick the best-buy, top-choice lenses for Canon’s new full-frame, videocentric R6 V"
-    },
-    {
-      "id": "recvmb6dbeHvYi",
-      "title": "索尼a7R VI高速出片，动态范围惊艳",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/sony-a7r-vi-review",
-      "publish_time": "2026-06-11T00:19:00+08:00",
-      "summary": "索尼a7R VI搭载66.8MP堆叠式CMOS传感器，支持30fps电子快门连拍，动态范围惊艳，高速出片",
-      "recommendation": "66.8MP堆叠CMOS与30fps连拍数据，揭示索尼全画幅高速高画质新标杆，适合关注传感器技术迭代的摄影爱好者。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Sony's a7R VI comes speeding out of the studio with impressive dynamic range"
-    },
-    {
-      "id": "recvm9WQ1Vcpm8",
-      "title": "2026年，什么才是好的街拍相机？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/what-makes-a-good-street-photography-camera-in-2026/",
-      "publish_time": "2026-06-11T00:08:57+08:00",
-      "summary": "2026年，好的街拍相机需快速对焦、高感光度和便携性，核心参数包括全画幅传感器、连拍速度≥10fps、ISO 12800可用，价值在于捕捉不可复制的瞬间。",
-      "recommendation": "从传感器、对焦到便携性，给出2026年街拍相机的硬性参数门槛，对追求抓拍效率的摄影爱好者有明确选购参考。",
-      "categories": [
-        "传感器硬件",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What Makes a Good Street Photography Camera in 2026?"
-    },
-    {
-      "id": "recvm9XbMAPTRP",
-      "title": "2015年最适合年轻摄影师的3款紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/10/the-3-best-compact-cameras-from-2015-for-young-photographers/",
-      "publish_time": "2026-06-11T00:00:00+08:00",
-      "summary": "2015年三款紧凑型相机适合年轻摄影师，作为手机升级方案，价格低于无反或单反，提供核心参数与数据。",
-      "recommendation": "回顾2015年三款紧凑型相机，提供传感器尺寸、光圈等核心参数，为手机升级用户提供历史参考与选购思路。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The 3 Best Compact Cameras from 2015 for Young Photographers"
-    },
-    {
-      "id": "recvm9W9Yb4ebJ",
-      "title": "索尼（很可能）永远不会生产中画幅相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/10/sony-is-probably-never-making-a-medium-format-camera/",
-      "publish_time": "2026-06-10T23:51:49+08:00",
-      "summary": "索尼为Venice 2推出65mm Rialto 65传感器模块，但生产自家中画幅相机的传闻被指为空想，核心价值在于澄清市场猜测。",
-      "recommendation": "澄清索尼中画幅相机传闻，分析Venice 2传感器模块战略，提供独家行业观点，适合关注产品布局的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony Is (Probably) Never Making a Medium Format Camera"
-    },
-    {
-      "id": "recvm9Wvj7ZR9L",
-      "title": "仅售74.99英镑起的时尚紧凑相机——复古设计与柯达经典，日常快照之选",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/trendy-compact-cameras-from-only-gbp74-99-retro-designs-and-kodak-favorites-for-everyday-snapshots",
-      "publish_time": "2026-06-10T23:45:00+08:00",
-      "summary": "柯达复古紧凑相机仅售74.99英镑起，口袋大小，让摄影有趣实惠，适合日常快照。",
-      "recommendation": "74.99英镑柯达复古相机评测，口袋大小与经典设计结合，适合日常快拍入门，提供实惠摄影方案。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Trendy compact cameras from only £74.99 – retro designs and Kodak favorites for everyday snapshots"
-    },
-    {
-      "id": "recvm9WxUwOjlr",
-      "title": "宇航员一分钟内拍摄欧洲两大标志性火山壮丽航拍照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/astronaut-shoots-breathtaking-aerial-photographs-of-two-of-europes-most-iconic-volcanoes-in-just-one-minute",
-      "publish_time": "2026-06-10T23:37:20+08:00",
-      "summary": "法国宇航员索菲·阿德诺在国际空间站距地球250英里处，一分钟内拍摄了维苏威火山和埃特纳火山的航拍照片。",
-      "recommendation": "从宇航员视角捕捉火山航拍，展示极端环境下摄影技巧与构图思路，含250英里高度参数，对航拍爱好者有技术参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Astronaut shoots breathtaking aerial photographs of two of Europe's most iconic volcanoes in just one minute!"
     }
   ]
 }
