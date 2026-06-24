@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-24T12:52:11.574425+08:00",
+    "updated_at": "2026-06-24T18:04:29.640434+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 102
+      "count": 103
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,119 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 179
+      "count": 178
     }
   ],
   "articles": [
+    {
+      "id": "recvnsdZKPcE3J",
+      "title": "摄影师仍在使用20年前的镜头：一款意外变焦镜头登顶日本最潮复古镜头榜单，证明相机技术老化速度不同",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/photographers-are-still-using-20-year-old-lenses-as-an-unexpected-zoom-tops-japans-list-of-the-trendiest-retro-lenses-proving-that-some-camera-tech-ages-differently",
+      "publish_time": "2026-06-24T16:19:09+08:00",
+      "summary": "日本市场统计显示，一款20年前的意外变焦镜头登顶最受欢迎复古镜头榜单，证明相机技术老化速度不同，核心价值在于揭示老镜头仍具竞争力。",
+      "recommendation": "日本市场数据揭示20年前变焦镜头登顶复古榜，提供老镜头竞争力实证，适合关注镜头保值与光学设计的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographers are still using 20-year-old lenses as an unexpected zoom tops Japan’s list of the trendiest retro lenses, proving that some camera tech ages differently"
+    },
+    {
+      "id": "recvnse25l0Mwt",
+      "title": "Meta与依视路陆逊梯卡合作推出Meta眼镜",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/meta_glasses_unveiled_in_partnership_with_essilorluxottica-news-73413.php",
+      "publish_time": "2026-06-24T16:11:02+08:00",
+      "summary": "Meta与依视路陆逊梯卡合作推出Meta Glasses，配备12MP摄像头，支持3K视频和3024x4032像素照片，提供三种镜框款式及Kylie Jenner联名版。",
+      "recommendation": "Meta眼镜搭载12MP摄像头，支持3K视频与3024x4032像素照片，提供三种镜框及联名版，对关注可穿戴影像设备者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Meta Glasses unveiled in partnership with EssilorLuxottica"
+    },
+    {
+      "id": "recvnse6BJidO3",
+      "title": "让你的风光摄影脱颖而出的秘诀",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/24/how-to-make-your-landscape-images-look-like-paintings-in-camera-copy/",
+      "publish_time": "2026-06-24T15:00:00+08:00",
+      "summary": "让风光摄影作品脱颖而出的秘诀是将其变成画作效果，在相机中实现而非后期处理，以避免常见的Photoshop外观。",
+      "recommendation": "文章提出在相机内实现画作效果而非后期处理，避免常见PS痕迹，对追求自然风光美学的爱好者有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Trick to Make Your Landscape Photography Stand Out"
+    },
+    {
+      "id": "recvnsdUIuARTG",
+      "title": "佳能EOS R6 V及RF 20-50 f/4L IS PZ镜头现货发售，可立即发货",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/the-canon-eos-r6-v-rf-20-50-f-4l-is-pz-are-in-stock-and-ready-to-ship/",
+      "publish_time": "2026-06-24T14:57:30+08:00",
+      "summary": "佳能EOS R6 V相机及RF 20-50mm f/4 L IS USM PZ镜头现货发售，已开始发货，早于预期。",
+      "recommendation": "佳能EOS R6 V及RF 20-50mm f/4L镜头现货发售，早于预期，为视频创作者提供即时入手机会，含镜头PZ电动变焦特性解析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Canon EOS R6 V & RF 20-50 f/4L IS PZ are in Stock and Ready to Ship"
+    },
+    {
+      "id": "recvnse4oUgVb2",
+      "title": "Oppo Find X10 Ultra相机首批细节曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/first_details_about_the_oppo_find_x10_ultras_cameras_have_emerged-news-73410.php",
+      "publish_time": "2026-06-24T14:40:03+08:00",
+      "summary": "OPPO Find X10 Ultra相机首批细节曝光，长焦镜头升级，相比Find X9 Ultra的5000万像素潜望式长焦和10倍光变，新机参数待揭晓。",
+      "recommendation": "曝光Find X10 Ultra长焦升级细节，对比X9 Ultra的5000万像素潜望与10倍光变，为关注旗舰手机长焦演进的用户提供参数迭代线索。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "First details about the Oppo Find X10 Ultra's cameras have emerged"
+    },
+    {
+      "id": "recvnsdXp14FbQ",
+      "title": "腾龙为RF卡口增添新成员：APS-C画幅17-70mm f/2.8 Di III-A VC RXD镜头",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/tamron-adds-to-their-rf-lineup-with-the-17-70mm-f-2-8-di-iii-a-vc-rxd-for-aps-c/",
+      "publish_time": "2026-06-24T14:37:30+08:00",
+      "summary": "腾龙发布适用于佳能RF和尼康Z卡口的APS-C画幅17-70mm f/2.8 VC RXD镜头，等效27-112mm，具备防抖和快速对焦功能。",
+      "recommendation": "RF卡口APS-C用户迎来新选择，17-70mm f/2.8 VC RXD提供等效27-112mm实用焦段与防抖，适合日常与旅行拍摄。常规资讯，可了解腾龙镜头生态扩展动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tamron Adds to their RF Lineup With the 17-70mm f/2.8 Di III-A VC RXD for APS-C"
+    },
+    {
+      "id": "recvnse8NijehD",
+      "title": "欧洲亚马逊Prime Day新优惠",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-european-amazon-prime-day-deals/",
+      "publish_time": "2026-06-24T14:13:50+08:00",
+      "summary": "亚马逊多国站点推出Prime Day新优惠，德国站索尼相机镜头大幅降价，唯卓仕、七工匠等第三方镜头享20%折扣。",
+      "recommendation": "Prime Day期间索尼相机镜头及唯卓仕等第三方镜头降价，提供具体折扣数据，适合计划购入影像设备的爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New European Amazon Prime Day Deals"
+    },
     {
       "id": "recvnqXvV355XR",
       "title": "腾龙发布尼康Z卡口新款17-70mm f/2.8 Di III-A VC RXD镜头",
@@ -7686,115 +7795,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Nikon's brilliant FTZ II adaptor drops to a tasty low price – save 25%"
-    },
-    {
-      "id": "recvmltQf6Lskp",
-      "title": "Bokeh Face：机顶闪光灯已死？360相机无人机与微距镜头选购指南，尽在本期播客",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bokeh-face-is-pop-up-flash-dead-plus-360-camera-drones-and-how-to-choose-a-macro-lens-in-our-latest-podcast",
-      "publish_time": "2026-06-12T19:03:29+08:00",
-      "summary": "探讨Godox等品牌口袋闪光灯复兴，相机弃用内置闪光灯原因，以及DJI和Antigravity 360度无人机选购，并指导新款或二手微距镜头选择。",
-      "recommendation": "探讨机顶闪光灯衰退与口袋灯复兴趋势，提供DJI、Antigravity无人机及微距镜头选购对比，含Godox等品牌独家市场观察，适合关注便携补光与多品类器材的影像爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Bokeh Face: Is pop-up flash DEAD? Plus 360 camera drones and how to choose a macro lens, in our latest podcast"
-    },
-    {
-      "id": "recvmkhQyjR67s",
-      "title": "ACLU起诉ICE未能提供关于威胁拍摄联邦特工的摄影师的记录",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/12/aclu-sues-ice-for-failing-to-turn-over-records-on-threats-to-photographers-who-film-federal-agents/",
-      "publish_time": "2026-06-12T18:11:32+08:00",
-      "summary": "ACLU起诉ICE未能提供关于威胁拍摄联邦特工的摄影师的记录，指控其隐瞒相关信息。",
-      "recommendation": "ACLU诉讼揭露执法机构对拍摄者施压的案例，为影像爱好者提供法律维权参考，揭示拍摄公共事务的潜在风险。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "ACLU Sues ICE for Failing to Turn Over Records on Threats to Photographers Who Film Federal Agents"
-    },
-    {
-      "id": "recvmki0VYwXvs",
-      "title": "过去5年发布的4款最佳鱼眼镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/12/the-4-best-fisheye-lenses-released-in-the-past-5-years/",
-      "publish_time": "2026-06-12T18:00:00+08:00",
-      "summary": "鱼眼镜头通过极端畸变增强视觉效果，文章推荐过去5年发布的4款最佳产品，适合追求独特视角的摄影师。",
-      "recommendation": "精选近5年4款鱼眼镜头，涵盖畸变控制与视角差异，提供具体型号与参数对比，适合追求创意视角的摄影爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 4 Best Fisheye Lenses Released in the Past 5 Years"
-    },
-    {
-      "id": "recvmkhVTBaIMx",
-      "title": "泄露的屏幕保护膜揭示三星即将推出的折叠屏手机尺寸差异",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/leaked_screen_protectors_reveal_size_differences_between_samsungs_upcoming_foldables-news-73247.php",
-      "publish_time": "2026-06-12T17:14:04+08:00",
-      "summary": "泄露的屏幕保护膜显示三星Galaxy Z Flip8、Z Fold8宽版和Z Fold8 Ultra的外屏尺寸差异，由Ice Universe分享图片对比",
-      "recommendation": "屏幕保护膜泄露揭示Z Flip8、Z Fold8宽版与Ultra外屏尺寸差异，为影像爱好者提供折叠屏手机握持与取景设计的参考数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leaked screen protectors reveal size differences between Samsung's upcoming foldables"
-    },
-    {
-      "id": "recvmkhYpXyXAK",
-      "title": "三阳60-180mm f/2.8 FE镜头已上架速卖通",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-samyang-60-180mm-f-2-8-fe-lens-already-listed-at-aliexpress/",
-      "publish_time": "2026-06-12T15:35:58+08:00",
-      "summary": "三阳60-180mm f/2.8 FE镜头已在速卖通上架，售价1099美元，将于6月25日发布。",
-      "recommendation": "三阳60-180mm f/2.8 FE镜头速卖通上架，售价1099美元，提供变焦恒定光圈新选择，适合追求性价比的索尼用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Samyang 60-180mm f/2.8 FE lens already listed at Aliexpress"
-    },
-    {
-      "id": "recvmkhThihknc",
-      "title": "潜水员在地中海首次拍摄到大白鲨视频影像，大白鲨现身欧洲水域！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/underwater-photography/divers-capture-first-ever-video-images-of-a-great-white-shark-in-the-mediterranean-as-jaws-takes-a-trip-to-european-waters",
-      "publish_time": "2026-06-12T15:05:00+08:00",
-      "summary": "潜水员在地中海西西里海峡首次拍摄到大白鲨视频，该水域因非法捕捞致鲨鱼濒危",
-      "recommendation": "水下摄影爱好者可参考其拍摄技巧与设备选择，文章含首次影像记录及地中海鲨鱼生态数据，对海洋影像创作有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Divers capture first-ever video images of a great white shark in the Mediterranean as Jaws takes a trip to European waters!"
-    },
-    {
-      "id": "recvmki3t5eIed",
-      "title": "目前最值得购买的5款全画幅相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/12/5-best-full-frame-cameras-to-buy-right-now/",
-      "publish_time": "2026-06-12T15:00:00+08:00",
-      "summary": "全画幅相机近年进步显著，索尼、尼康、徕卡等品牌突破界限，推出至今仍重要的设备，本文回顾曾备受喜爱的相机。",
-      "recommendation": "梳理索尼、尼康、徕卡等品牌全画幅相机近年关键升级，含传感器与对焦系统数据对比，为选购提供技术参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "5 Best Full Frame Cameras to Buy Right Now"
     }
   ]
 }
