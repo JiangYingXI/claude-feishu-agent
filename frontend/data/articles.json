@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-24T04:42:58.292387+08:00",
+    "updated_at": "2026-06-24T12:52:11.574425+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 99
+      "count": 102
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,17 +23,17 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 22
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 401
+      "count": 400
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,116 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvnqXvV355XR",
+      "title": "腾龙发布尼康Z卡口新款17-70mm f/2.8 Di III-A VC RXD镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/23/tamron-announced-a-new-17-70mm-f-2-8-di-iii-a-vc-rxd-lens-or-nikon-z-mount.aspx/",
+      "publish_time": "2026-06-24T11:26:17+08:00",
+      "summary": "腾龙发布尼康Z卡口新款17-70mm f/2.8镜头，APS-C画幅，4.1倍变焦比，内置VC防抖，型号B070。",
+      "recommendation": "APS-C画幅4.1倍变焦比，f/2.8恒定光圈配VC防抖，尼康Z卡口用户关注的标准变焦新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tamron announced a new 17-70mm f/2.8 Di III-A VC RXD lens for Nikon Z-mount"
+    },
+    {
+      "id": "recvnqXmLD2xzL",
+      "title": "尼康和佳能的APS-C画幅相机迎来一款多功能新镜头",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/6760897095/tamron-17-70mm-f2p8-rf-z-mount-canon-nikon",
+      "publish_time": "2026-06-24T11:00:00+08:00",
+      "summary": "腾龙将17-70mm F2.8 APS-C镜头引入佳能RF和尼康Z卡口，提供26-105mm（尼康）或28-112mm（佳能）等效焦距，性能与2020年E卡口版本相同",
+      "recommendation": "腾龙17-70mm F2.8 APS-C镜头扩展至佳能RF和尼康Z卡口，提供等效26-105mm/28-112mm实用焦段。文章含卡口适配性能对比数据，对双系统用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon and Canon's APS-C cameras are getting a versatile new lens"
+    },
+    {
+      "id": "recvnqXp4adwza",
+      "title": "腾龙17-70mm f/2.8终于登陆佳能RF和尼康Z卡口——我预测这款罕见的一镜恒定光圈变焦镜头将极受欢迎",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-tamron-17-70mm-f-2-8-is-finally-coming-to-the-canon-rf-and-nikon-z-camera-mounts-and-im-predicting-this-rare-all-in-one-constant-aperture-zoom-is-going-to-be-incredibly-popular",
+      "publish_time": "2026-06-24T11:00:00+08:00",
+      "summary": "腾龙17-70mm f/2.8镜头登陆佳能RF和尼康Z卡口，为APS-C画幅提供罕见的一镜恒定光圈变焦选择，预计极受欢迎。",
+      "recommendation": "腾龙17-70mm f/2.8登陆RF/Z卡口，为APS-C用户提供罕见恒定光圈变焦方案。文章分析其市场潜力，对关注卡口生态和镜头选择的用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Tamron 17-70mm f/2.8 is finally coming to the Canon RF and Nikon Z camera mounts – and I’m predicting this rare all-in-one constant aperture zoom is going to be incredibly popular"
+    },
+    {
+      "id": "recvnqXtviUbnT",
+      "title": "腾龙为RF和Z用户推出4.1倍变焦镜头，打破技术壁垒",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/23/tamron-breaks-barriers-with-its-4-1x-zoom-lens-for-rf-and-z-users/",
+      "publish_time": "2026-06-24T11:00:00+08:00",
+      "summary": "腾龙为佳能RF和尼康Z用户推出4.1倍广角变焦镜头，打破技术壁垒，提供全画幅兼容的高性能变焦方案。",
+      "recommendation": "解析腾龙4.1倍变焦镜头如何打破RF/Z卡口技术壁垒，提供全画幅兼容方案，含具体焦段与光圈数据，适合关注副厂镜头生态的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tamron Breaks Barriers With Its 4.1x Zoom Lens for RF and Z Users"
+    },
+    {
+      "id": "recvnqXrey0sCH",
+      "title": "EIZO发布两款曲面超宽显示器",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/monitors/eizo-announces-two-new-curved-ultrawide-monitors",
+      "publish_time": "2026-06-24T07:00:43+08:00",
+      "summary": "EIZO发布两款曲面超宽显示器，并加倍致力于质量承诺，提升视觉体验与可靠性。",
+      "recommendation": "EIZO曲面显示器虽非影像核心设备，但超宽屏对后期调色与多窗口工作流有实用价值。文章强调质量承诺，适合关注专业显示器的影像从业者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "EIZO announces two new curved ultrawide monitors"
+    },
+    {
+      "id": "recvnqXfxVLJaW",
+      "title": "Adobe AI助手希望为摄影师腾出更多时间进行实际创意工作",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/adobes-ai-assistant-wants-to-give-photographers-more-time-for-actual-creative-tasks/",
+      "publish_time": "2026-06-24T05:49:00+08:00",
+      "summary": "Adobe将AI助手集成至Creative Cloud，用户可通过Firefly驱动在Premiere、Photoshop等软件中指示AI编辑媒体，旨在节省时间用于创意工作",
+      "recommendation": "解析Adobe Firefly驱动AI助手如何融入Creative Cloud，为摄影师节省后期时间。文中未提供独家数据，但展示了AI在Premiere、Photoshop中的实际编辑指令，适合关注计算摄影效率提升的读者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Adobe’s AI Assistant Wants to Give Photographers More Time for Actual Creative Tasks"
+    },
+    {
+      "id": "recvnqXi1fe2is",
+      "title": "PGYTECH OneGo Roamer：一款出色的混合型相机包",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/the-pgytech-onego-roamer-is-an-excellent-hybrid-camera-bag/",
+      "publish_time": "2026-06-24T04:42:10+08:00",
+      "summary": "PGYTECH OneGo Roamer Tote背包提供18L和25L容量，可在专业相机背包与休闲手提方案间切换，兼具功能与实用性",
+      "recommendation": "详解PGYTECH OneGo Roamer的18L/25L双容量与背包手提切换设计，提供混合型相机包实用方案，适合日常通勤与轻摄影场景。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The PGYTECH OneGo Roamer Is an Excellent Hybrid Camera Bag"
+    },
     {
       "id": "recvnoXRQGaRMn",
       "title": "Westcott 新款更耐用的 V-Flat 摒弃泡沫芯",
@@ -57,6 +167,22 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Westcott’s New More Durable V-Flat Is Ditches the Foam Core"
+    },
+    {
+      "id": "recvnqXkiPTU3a",
+      "title": "Westcott 新款更耐用的 V-Flat 摒弃泡沫芯",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/23/westcotts-new-more-durable-v-flat-is-ditches-the-foam-core/",
+      "publish_time": "2026-06-24T04:28:24+08:00",
+      "summary": "Westcott 推出新款 V-Flat 系统，采用可折叠铝制框架和可清洗织物表面，比传统泡沫芯更耐用，专为影棚与外景移动使用的创作者设计。",
+      "recommendation": "介绍Westcott V-Flat铝框织物替代泡沫芯方案，提供耐用性与便携性数据，适合外拍用户参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Westcott’s New More Durable V-Flat Ditches the Foam Core"
     },
     {
       "id": "recvnoXU50aMxM",
@@ -7669,130 +7795,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "5 Best Full Frame Cameras to Buy Right Now"
-    },
-    {
-      "id": "recvmiUxGJuPOA",
-      "title": "Nothing Ear (3a) 价格与配色信息泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/nothing_ear_3a_price_leaks_alongside_colors-news-73242.php",
-      "publish_time": "2026-06-12T12:31:01+08:00",
-      "summary": "Nothing Ear (3a) 耳机泄露信息：有白、黑、黄、粉四色，法国定价99欧元，作为Ear (3)的平价替代品。",
-      "recommendation": "常规资讯，可了解行业动态。虽未涉及影像技术细节，但四色选项与99欧元定价对关注消费电子设计趋势的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nothing Ear (3a) price leaks alongside colors"
-    },
-    {
-      "id": "recvmiUHDlv01z",
-      "title": "2011年最值得购买的3款紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/12/the-3-best-compact-cameras-to-buy-from-2011/",
-      "publish_time": "2026-06-12T12:00:00+08:00",
-      "summary": "2011年三款紧凑型相机推荐，适合偏爱小巧便携且怀旧机型的年轻摄影师，价格实惠，核心参数包括传感器尺寸和像素等。",
-      "recommendation": "回顾2011年紧凑型相机，提供传感器尺寸与像素等核心参数，适合怀旧爱好者对比当下机型，了解技术演进脉络。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 3 Best Compact Cameras To Buy From 2011"
-    },
-    {
-      "id": "recvmiUA2jqUt5",
-      "title": "Tecno Pova 8 开箱与上手体验",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/tecno_pova_8_unboxing_and_handson-news-73230.php",
-      "publish_time": "2026-06-12T11:01:02+08:00",
-      "summary": "Tecno Pova 8将设计优先理念带入中低端市场，配备45W充电器和Alive Matrix微型LED状态显示屏，由104个独立LED组成，可快速提醒通知。",
-      "recommendation": "本文解析Tecno Pova 8的Alive Matrix微型LED屏（104颗独立LED）在通知提醒中的创新应用，为关注中低端机型差异化设计的影像爱好者提供独特视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tecno Pova 8 unboxing and hands-on"
-    },
-    {
-      "id": "recvmiUCOudRyM",
-      "title": "荣耀X80 Pro Max真机上手图泄露，确认配备超大容量电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_x80_pro_max_leaked_handson_images_confirm_its_gigantic_battery-news-73238.php",
-      "publish_time": "2026-06-12T09:01:02+08:00",
-      "summary": "荣耀X80 Pro Max真机图泄露，确认配备11000mAh电池和90W快充，采用仿皮革双色调后盖与50MP主摄",
-      "recommendation": "真机泄露确认11000mAh电池与50MP主摄，仿皮革双色调后盖设计，为影像续航需求提供新参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor X80 Pro Max leaked hands-on images confirm its gigantic battery"
-    },
-    {
-      "id": "recvmiUFmVDLfl",
-      "title": "尼康最新停产的相机和镜头",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/11/the-latest-discontinued-nikon-cameras-and-lenses.aspx/",
-      "publish_time": "2026-06-12T08:49:35+08:00",
-      "summary": "尼康首批两款Z卡口镜头Nikkor Z 24-70 f/2.8 VR S和70-200mm f/2.8 VR S（V1）正式停产，B&H仍有库存。",
-      "recommendation": "尼康Z卡口首批f/2.8变焦镜头停产，B&H库存信息对关注镜头迭代的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The latest discontinued Nikon cameras and lenses"
-    },
-    {
-      "id": "recvmiUvf0DYxt",
-      "title": "神牛最新小型闪光灯性价比超高",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/flashguns/godoxs-latest-tiny-flashgun-looks-like-a-bargain-buy",
-      "publish_time": "2026-06-12T06:52:23+08:00",
-      "summary": "神牛最新小型闪光灯性价比超高，与大多数相机兼容。",
-      "recommendation": "文章介绍神牛小型闪光灯高性价比与广泛兼容性，适合预算有限的摄影爱好者了解入门级灯光方案。内容为常规产品资讯，缺乏具体参数或对比数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Godox's latest tiny flashgun looks like a bargain buy"
-    },
-    {
-      "id": "recvmiUnWVyzzR",
-      "title": "提醒：更新松下S9时请谨慎",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/5016564681/panasonic-s9-v2-update-lumix-lab-issues",
-      "publish_time": "2026-06-12T05:50:00+08:00",
-      "summary": "松下为S9发布V2固件以配合Lumix Lab V3应用，新增编辑Raw文件、有线下载图像等功能，但更新需谨慎。",
-      "recommendation": "提醒S9固件更新风险，含Raw编辑与有线传输等新功能细节，对Lumix用户有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "PSA: be careful updating your Panasonic S9"
-    },
-    {
-      "id": "recvmiUqIcPZjL",
-      "title": "Neewer Q120与Z3R：紧凑功率与现代TTL控制的结合",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/11/neewer-q120-and-z3r-compact-power-meets-modern-ttl-control/",
-      "publish_time": "2026-06-12T05:33:14+08:00",
-      "summary": "Neewer发布Q120紧凑便携户外闪光灯与Z3R TTL圆头机顶闪光灯，前者侧重电池供电离机拍摄，后者通过触摸屏提升机顶体验，评测探讨设计在实际场景中的表现",
-      "recommendation": "文章对比Q120与Z3R两款闪光灯，聚焦紧凑功率与TTL控制的实际场景表现，提供电池供电离机与触摸屏机顶设计的差异化数据，适合关注便携补光方案的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Neewer Q120 and Z3R: Compact Power Meets Modern TTL Control"
     }
   ]
 }
