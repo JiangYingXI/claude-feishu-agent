@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-25T04:25:37.598745+08:00",
+    "updated_at": "2026-06-25T12:51:45.473555+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 20
+      "count": 21
     },
     {
       "key": "镜头与光学",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 31
+      "count": 30
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,68 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvnwNTlya0tu",
+      "title": "这款索尼微单相机虽小却搭载全画幅性能——现降价400美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-tiny-sony-camera-packs-full-frame-power-and-it-is-now-usd400-cheaper",
+      "publish_time": "2026-06-25T12:34:55+08:00",
+      "summary": "索尼A7C II微单相机降价超400美元，虽小巧但搭载全画幅传感器，性能强劲。",
+      "recommendation": "解析A7C II全画幅小机身降价动态，含传感器性能参数与价格对比，为便携高画质需求者提供选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This tiny Sony camera packs full-frame power – and it is now $400 cheaper"
+    },
+    {
+      "id": "recvnwNVLulCJd",
+      "title": "我用相机降低生活压力",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/25/im-using-my-camera-to-lower-my-stress-in-life/",
+      "publish_time": "2026-06-25T12:00:00+08:00",
+      "summary": "作者年近四十，通过摄影和改变生活态度主动降低压力，战胜肥胖并保持健康，核心在于降低皮质醇水平。",
+      "recommendation": "从皮质醇角度切入，揭示摄影作为主动减压工具的科学机制，为影像爱好者提供独特的健康视角与实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I’m Using My Camera to Lower My Stress in Life"
+    },
+    {
+      "id": "recvnwNQViL6fP",
+      "title": "Redmi Note 17 和 Redmi Note 17 Pro 规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_note_17_and_redmi_note_17_pro_specs_leak-news-73428.php",
+      "publish_time": "2026-06-25T11:00:02+08:00",
+      "summary": "Redmi Note 17系列预计7-8月发布，标准版搭载骁龙6 Gen 5、1.5K直屏、5000万主摄和9000mAh电池，Pro版配置更高",
+      "recommendation": "Redmi Note 17系列影像规格曝光，标准版5000万主摄与Pro版差异值得关注，适合关注中端手机影像升级的用户了解行业趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Redmi Note 17 and Redmi Note 17 Pro specs leak"
+    },
+    {
+      "id": "recvnwNO5aw7DI",
+      "title": "ShiftCam新镜头承诺提升智能手机拍照效果",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/24/shiftcams-new-lenses-promise-to-improve-your-smartphone-photos/",
+      "publish_time": "2026-06-25T04:35:00+08:00",
+      "summary": "ShiftCam Gear新款手机镜头上市，承诺树立移动光学新标准，提升智能手机拍照效果。",
+      "recommendation": "解析ShiftCam新镜头的光学设计亮点与实测提升，提供具体光圈、镜片结构等数据，帮助手机摄影爱好者判断是否值得升级。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "ShiftCam’s New Lenses Promise to Improve Your Smartphone Photos"
+    },
     {
       "id": "recvnuKl9q9JBe",
       "title": "Urth 遮光罩适用于富士 X100VI 和 X100V 相机",
@@ -7733,68 +7795,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Flowerscapes: Photographing Flowers From a Bug’s Eye Perspective"
-    },
-    {
-      "id": "recvmr2REdLros",
-      "title": "2026年旅行与日常摄影最佳相机包推荐",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/best-camera-bags-for-travel-and-everyday-photography-in-2026/",
-      "publish_time": "2026-06-13T19:47:46+08:00",
-      "summary": "文章推荐2026年最佳旅行与日常摄影相机包，强调选择优质包的重要性，避免临时购买错误，提供技术参数和核心价值建议。",
-      "recommendation": "文章聚焦2026年旅行与日常摄影相机包选购，提供技术参数与核心价值建议，避免临时购买错误，对影像爱好者有实用参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Best Camera Bags for Travel and Everyday Photography in 2026"
-    },
-    {
-      "id": "recvmr2X92JCbq",
-      "title": "促销：小米17和17T系列降价，Galaxy Z Fold7也迎来价格下调",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_xiaomi_17_and_17t_series_discounted_galaxy_z_fold7_also_gets_a_price_cut-news-73257.php",
-      "publish_time": "2026-06-13T19:39:03+08:00",
-      "summary": "小米17T系列连续第三周促销，17T降150英镑，17T Pro降200英镑；小米17和17T Ultra同步降价，三星Galaxy Z Fold7等机型也有优惠。",
-      "recommendation": "汇总小米17系列与三星Z Fold7降价信息，含具体降幅数据，适合关注旗舰手机影像配置与价格动态的用户。常规资讯，可了解行业促销节奏。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: Xiaomi 17 and 17T series discounted, Galaxy Z Fold7 also gets a price cut"
-    },
-    {
-      "id": "recvmr30aw0fTs",
-      "title": "Christopher Frost 评测：图丽 35-70mm f/2.8（复古）镜头在索尼 A7rIII 上的表现",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/christopher-frost-tokina-35-70mm-f-2-8-vintage-lens-review-on-the-sony-a7riii/",
-      "publish_time": "2026-06-13T19:29:06+08:00",
-      "summary": "图丽35-70mm f/2.8复古变焦镜头在索尼A7rIII上评测，表现良好，适合复古镜头爱好者。",
-      "recommendation": "提供图丽35-70mm f/2.8在索尼A7rIII上的实拍样张与分辨率数据，对复古镜头爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Christopher Frost Tokina 35-70mm f/2.8 (Vintage) lens review on the Sony A7rIII"
-    },
-    {
-      "id": "recvmr2JPpfPIl",
-      "title": "31种超现实深海新物种被尖端相机技术拍摄",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/13/31-otherworldly-new-deep-sea-species-photographed-with-cutting-edge-camera-technology/",
-      "publish_time": "2026-06-13T19:00:53+08:00",
-      "summary": "科学家利用尖端摄像技术数天内发现并拍摄31种通常过于脆弱难以记录的深海新物种",
-      "recommendation": "展示尖端摄像技术在深海生物记录中的突破，提供31种新物种的独家影像数据，对计算摄影与弱光成像爱好者有技术参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "31 Otherworldly New Deep-Sea Species Photographed with Cutting-Edge Camera Technology"
     }
   ]
 }
