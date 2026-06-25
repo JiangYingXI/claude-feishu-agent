@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-25T23:36:59.148192+08:00",
+    "updated_at": "2026-06-26T04:37:00.553909+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 110
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,166 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 29
+      "count": 30
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 33
+      "count": 32
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 414
+      "count": 415
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 156
+      "count": 154
     }
   ],
   "articles": [
+    {
+      "id": "recvnADumhsijJ",
+      "title": "Kipon发布全球首款内置可变ND的专业PL卡口转接环",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/kipon-launches-worlds-first-pro-pl-mount-adapter-with-an-integrated-variable-nd/",
+      "publish_time": "2026-06-26T03:40:28+08:00",
+      "summary": "Kipon推出全球首款内置可变ND的专业PL卡口转接环，适配索尼和尼康无反相机，设计精巧。",
+      "recommendation": "文章介绍Kipon全球首款内置可变ND的PL卡口转接环，适配索尼/尼康无反，提供独特光学解决方案，对视频创作者有实用价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Kipon Launches World’s First Pro PL Mount Adapter With an Integrated Variable ND"
+    },
+    {
+      "id": "recvnADLH4F6EI",
+      "title": "亚马逊美国Prime Day促销：三星Galaxy S26、S26+和S26 Ultra降价",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/amazon_us_prime_day_deals_the_samsung_galaxy_s26_s26_and_s26_ultra_are_on_sale-news-73441.php",
+      "publish_time": "2026-06-26T03:21:02+08:00",
+      "summary": "亚马逊Prime Day促销中，三星Galaxy S26 Ultra降价30美元，256GB版920美元，512GB版1120美元，并对比了前代、iPhone 17 Pro Max及Pixel 10 ",
+      "recommendation": "Prime Day降价数据及与前代、iPhone 17 Pro Max、Pixel 10的对比，为影像爱好者提供购机参考，但缺乏影像专项深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Amazon US Prime Day deals: the Samsung Galaxy S26, S26+ and S26 Ultra are on sale"
+    },
+    {
+      "id": "recvnADxbF9NUi",
+      "title": "2.23亿像素照片显示1650万颗恒星，拍摄耗时三天",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/223-megapixel-photo-shows-16-5-million-stars-and-took-three-days-to-capture/",
+      "publish_time": "2026-06-26T02:51:27+08:00",
+      "summary": "詹姆斯·韦伯太空望远镜耗时65小时拍摄M82星系，生成2.23亿像素图像，包含1650万颗恒星，揭示全新细节",
+      "recommendation": "2.23亿像素天文图像展示传感器极限潜力，1650万颗恒星数据为计算摄影与高像素噪点控制提供参考。",
+      "categories": [
+        "传感器硬件",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "223-Megapixel Photo Shows 16.5 Million Stars and Took Three Days to Capture"
+    },
+    {
+      "id": "recvnADAciSOwV",
+      "title": "Helium Design Lab 的 HeSL3 接口板：徕卡 SL3-P 的完美搭档",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/helium-design-labs-hesl3-interface-plate-promises-to-be-the-perfect-pairing-for-the-new-leica-sl3-p/",
+      "publish_time": "2026-06-26T02:00:31+08:00",
+      "summary": "Helium Design Lab为徕卡SL3系列相机推出HeSL3接口板，适配SL3、SL3-S及新款SL3-P，提升扩展性能。",
+      "recommendation": "针对徕卡SL3系列用户，详解HeSL3接口板对SL3-P的扩展性能提升，含具体接口规格与安装适配数据，非官方配件深度拆解。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Helium Design Lab’s HeSL3 Interface Plate Promises To Be the Perfect Pairing for the New Leica SL3-P"
+    },
+    {
+      "id": "recvnADU2maCiJ",
+      "title": "福伦达Nokton Classic 35mm f/1.4镜头尼康Z卡口版现已开放预订",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/25/the-new-voigtlander-nokton-classic-35mm-f-1-4-lens-nikon-z-mount-is-now-available-for-pre-order.aspx/",
+      "publish_time": "2026-06-26T00:48:52+08:00",
+      "summary": "福伦达Nokton Classic 35mm f/1.4镜头尼康Z卡口版在B&H Photo开启预订，是第15款Z卡口福伦达镜头。",
+      "recommendation": "福伦达第15款Z卡口镜头，提供35mm f/1.4经典光学设计，适合追求手动操控与复古风格的尼康Z用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The new Voigtlander Nokton Classic 35mm f/1.4 lens Nikon Z mount is now available for pre-order"
+    },
+    {
+      "id": "recvnADCVo0kkA",
+      "title": "Moment Mobile II 镜头系列全面重新设计与升级",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/moments-mobile-ii-lenses-have-been-completely-redesigned-and-upgraded/",
+      "publish_time": "2026-06-26T00:00:27+08:00",
+      "summary": "Moment 推出 T-Series Mobile II 镜头系列，从零重新设计，采用更多玻璃元件，提升清晰度并赋予独特成像风格。",
+      "recommendation": "从零设计升级，采用更多玻璃元件提升清晰度，揭示Moment Mobile II镜头光学架构与成像风格演变，对手机外接镜头用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Moment’s Mobile II Lenses Have Been Completely Redesigned and Upgraded"
+    },
+    {
+      "id": "recvnADOoX0joL",
+      "title": "Oppo Reno16 F和Reno16 FS发布：5000万像素超广角自拍相机和AI快拍键",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_reno16_f_features_price_sale_date-news-73438.php",
+      "publish_time": "2026-06-25T23:52:02+08:00",
+      "summary": "Oppo发布Reno16 F和FS，配备6.57英寸120Hz AMOLED屏、5000万像素超广角自拍相机和AI快拍键，进入国际市场。",
+      "recommendation": "解析Oppo Reno16 F/FS的5000万像素超广角自拍相机与AI快拍键，提供中端机型影像配置数据，适合关注自拍和AI功能的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo Reno16 F and Reno16 FS unveiled: 50MP ultrawide selfie camera and AI Snap Key"
+    },
+    {
+      "id": "recvnADIxlpSBP",
+      "title": "突发新闻：Adobe即将收购AI照片软件Topaz Labs。这对摄影师意味着什么？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/breaking-news-adobe-will-soon-own-ai-photo-software-topaz-labs-but-what-does-that-mean-for-photographers",
+      "publish_time": "2026-06-25T23:42:42+08:00",
+      "summary": "Adobe计划2026年底前收购Topaz Labs，两大照片编辑巨头合并，将整合AI技术提升编辑效率与质量。",
+      "recommendation": "深度分析Adobe收购Topaz Labs对影像工作流的影响，揭示AI整合将如何改变修图效率与画质，适合关注行业趋势的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "BREAKING NEWS: Adobe will soon own AI photo software Topaz Labs. But what does that mean for photographers?"
+    },
+    {
+      "id": "recvnADRdxFsSp",
+      "title": "仅限今日：BHphoto存储设备巨额返现 – 亚马逊Prime Day优惠持续进行",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/today-only-bhphoto-massive-rebates-on-storage-amazon-prime-day-deals-continue/",
+      "publish_time": "2026-06-25T23:33:51+08:00",
+      "summary": "BHphoto今日存储设备特惠，外置内置硬盘立省高达700美元，叠加优惠券再省700美元；亚马逊Prime Day新增优惠，多国可查。",
+      "recommendation": "存储设备促销资讯，可关注外置硬盘优惠，适合影像素材备份需求，但无独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "TODAY ONLY: BHphoto MASSIVE Rebates on Storage – Amazon Prime Day Deals Continue"
+    },
     {
       "id": "recvnzoRngLWo5",
       "title": "Adobe 试图收购一家重要的 AI 初创公司",
@@ -57,6 +198,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Adobe is trying to buy an important AI upstart"
+    },
+    {
+      "id": "recvnADFQAHUjA",
+      "title": "Adobe收购Topaz Labs，提升AI能力",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/4633126427/adobe-is-trying-to-buy-an-important-ai-upstart",
+      "publish_time": "2026-06-25T23:16:00+08:00",
+      "summary": "Adobe收购Topaz Labs，将其放大、降噪和锐化AI模型集成到Photoshop中，用户可通过AI积分访问，无需单独订阅。",
+      "recommendation": "解析Adobe收购Topaz Labs对Photoshop影像处理流程的影响，提供AI放大降噪功能集成细节与积分制模式，适合关注计算摄影工具整合的用户。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Adobe upscales its AI capabilities with Topaz Labs acquisition"
     },
     {
       "id": "recvnzqfdDUnQ7",
@@ -7648,163 +7805,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Adobe Adds More User Control to AI Features Inside Lightroom and Photoshop"
-    },
-    {
-      "id": "recvmEqei4HREP",
-      "title": "Adobe为Lightroom添加小而实用的升级，并为Photoshop带来设备端AI",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/9872416768/adobe-lightroom-photoshop-update-june-2026",
-      "publish_time": "2026-06-15T23:00:00+08:00",
-      "summary": "Adobe更新Lightroom和Photoshop，Lightroom辅助筛选功能普遍可用，可自动挑选对焦准确且曝光适当的图像，节省浏览时间。",
-      "recommendation": "Lightroom新增AI辅助筛选功能，可自动识别对焦准确与曝光适当的图像，节省浏览时间。文章聚焦设备端AI在Photoshop的应用，对追求效率的影像爱好者有实用价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Adobe adds small but useful upgrades to Lightroom, and on-device AI to Photoshop"
-    },
-    {
-      "id": "recvmEqMPZeGXR",
-      "title": "这张环保主义者与一群濒危鸟类翱翔天空的照片刚刚赢得科学摄影大赛",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-shot-of-conservationists-soaring-the-skies-with-a-flock-of-endangered-birds-just-won-a-science-photo-competition",
-      "publish_time": "2026-06-15T22:50:53+08:00",
-      "summary": "Baldur Hartmann拍摄的研究人员引导候鸟迁徙的照片，荣获《自然》杂志2026年“工作中的科学家”摄影大赛总冠军。",
-      "recommendation": "解析获奖作品背后的摄影技巧与生态保护视角，揭示候鸟迁徙引导的独家拍摄数据，对自然摄影爱好者有技术参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This shot of conservationists soaring the skies with a flock of endangered birds just won a science photo competition"
-    },
-    {
-      "id": "recvmEqZdwRwWd",
-      "title": "Oppo Find X10 Pro主要规格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_find_x10_pros_main_specs_leak-news-73273.php",
-      "publish_time": "2026-06-15T21:49:04+08:00",
-      "summary": "Oppo Find X10 Pro预计9月发布，搭载联发科天玑9600 SoC（2nm工艺），配备6.78英寸天马LTPO OLED屏幕（1.5K分辨率），后置2亿像素主摄（三星1/1.3英寸传感器）",
-      "recommendation": "2亿像素三星1/1.3英寸传感器规格曝光，天玑9600 SoC影像处理能力值得关注，为旗舰手机影像硬件提供新参考。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Oppo Find X10 Pro's main specs leak"
-    },
-    {
-      "id": "recvmEreZGXlGs",
-      "title": "致刚刚向我提供新款索尼相机信息的线人……",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/message-to-the-source-who-just-sent-me-information-about-a-new-sony-camera/",
-      "publish_time": "2026-06-15T21:16:28+08:00",
-      "summary": "致线人：已收到信息，正在核实，请提示相机类型。请读者耐心等待。消息源自sonyalpharumors。",
-      "recommendation": "索尼新机传闻线索，来自可靠线人，为关注A7系列或APS-C机型更新的用户提供前瞻信息。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Message to the source who just sent me information about a new Sony camera…"
-    },
-    {
-      "id": "recvmEqPm2zW3L",
-      "title": "BOBLOV KJ23PRO 2K评测：一线工作者耐用持久之选",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/security-cameras/boblov-kj23pro-2k-review",
-      "publish_time": "2026-06-15T21:00:00+08:00",
-      "summary": "BOBLOV KJ23PRO 2K执法记录仪续航15小时，视频质量合理，可装挡风玻璃，适合一线工作者",
-      "recommendation": "评测聚焦执法记录仪续航与耐用性，提供15小时实测数据及车载安装场景，对户外工作者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "BOBLOV KJ23PRO 2K review – A rugged, long-lasting choice for frontline workers"
-    },
-    {
-      "id": "recvmErmtPRRrd",
-      "title": "皮卡丘成为最佳热靴盖，我必须全部收服",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/15/pikachu-hot-shoe-cover-camera-review/",
-      "publish_time": "2026-06-15T21:00:00+08:00",
-      "summary": "作者在寻找热靴盖时发现皮卡丘款式，虽非最爱宝可梦，但仍被吸引并决定购买。",
-      "recommendation": "热靴盖虽小，却折射摄影配件个性化趋势。本文以皮卡丘为例，探讨热靴盖的审美与实用价值，对追求器材个性的爱好者有参考意义。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pikachu Makes For the Very Best Hot Shoe Cover, and I Had to Catch Them All"
-    },
-    {
-      "id": "recvmCioX2VVGd",
-      "title": "福伦达为佳能RF和尼康Z无反相机发布刻意不完美的Nokton定焦镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/voigtlander-releases-deliberately-imperfect-nokton-prime-lens-for-canon-rf-and-nikon-z-mirrorless-cameras",
-      "publish_time": "2026-06-15T20:35:23+08:00",
-      "summary": "福伦达发布Nokton Classic 35mm F1.4镜头，为佳能RF和尼康Z全画幅无反相机带来复古美学与刻意不完美的成像风格",
-      "recommendation": "解析福伦达为无反系统复刻经典35mm F1.4镜头，刻意保留像差与柔焦风格，提供光学设计思路与复古成像数据，适合追求个性影调的玩家。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Voigtlander releases deliberately imperfect Nokton prime lens for Canon RF and Nikon Z mirrorless cameras"
-    },
-    {
-      "id": "recvmCiG66xvVb",
-      "title": "RugOne Xever 8 上手评测",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/rugone_xever_8_handson_review-news-73246.php",
-      "publish_time": "2026-06-15T20:19:02+08:00",
-      "summary": "RugOne是Ulefone旗下新品牌，在IFA 2025推出首款设备Xever 7，半年后发布Xever 8。文章上手评测Xever 8，填补年轻人对坚固耐用智能手机的需求空白。",
-      "recommendation": "文章评测Ulefone新品牌RugOne的Xever 8，填补坚固耐用手机影像空白，提供三防机实拍样张与性能数据，对户外摄影爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "RugOne Xever 8 hands-on review"
-    },
-    {
-      "id": "recvmCiTa16tNf",
-      "title": "这项专利表明，新的蔡司Otus镜头由确善能设计",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/this-patent-suggest-the-new-zeiss-otus-lenses-have-been-designed-by-cosina/",
-      "publish_time": "2026-06-15T20:18:55+08:00",
-      "summary": "新专利显示蔡司Otus 85mm f/1.4镜头由确善能设计，引发对蔡司自主设计能力的质疑。",
-      "recommendation": "专利揭露蔡司Otus 85mm f/1.4由确善能设计，挑战蔡司自主光学研发形象，对关注镜头代工与品牌价值的爱好者具行业洞察价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This patent suggest the new Zeiss Otus lenses have been designed by Cosina"
-    },
-    {
-      "id": "recvmCicCdmTx3",
-      "title": "摄影师从被龙卷风摧毁的房屋废墟中救出被困男子",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/15/photographer-rescues-man-trapped-under-rubble-of-his-tornado-ravaged-home/",
-      "publish_time": "2026-06-15T19:51:12+08:00",
-      "summary": "一名新闻摄影师在记录龙卷风灾害时，从废墟中救出一名被困男子，称这是其20年职业生涯中最惊心动魄的经历。",
-      "recommendation": "从新闻摄影师视角揭示极端环境下相机防护与快速反应技巧，含20年从业者亲历的灾害现场操作经验，对纪实摄影爱好者有实战参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Rescues Man Trapped Under Rubble of His Tornado-Ravaged Home"
     }
   ]
 }
