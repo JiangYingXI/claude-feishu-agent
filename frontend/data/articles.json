@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-25T17:58:56.289672+08:00",
+    "updated_at": "2026-06-25T23:36:59.148192+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 21
+      "count": 22
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 105
+      "count": 110
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,730 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 24
+      "count": 29
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 30
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 405
+      "count": 414
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 170
+      "count": 156
     }
   ],
   "articles": [
+    {
+      "id": "recvnzoRngLWo5",
+      "title": "Adobe 试图收购一家重要的 AI 初创公司",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/4633126427/adobe-is-trying-to-buy-an-important-ai-upstart",
+      "publish_time": "2026-06-25T23:16:00+08:00",
+      "summary": "Adobe收购Topaz Labs，该公司开发图像视频增强工具，此前合作将放大降噪模型集成到Photoshop，用户可用AI积分使用。",
+      "recommendation": "Adobe收购Topaz Labs，揭示AI影像工具从插件到集成的行业整合趋势。文章提供双方合作历史与积分模式细节，对关注计算摄影工具链的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Adobe is trying to buy an important AI upstart"
+    },
+    {
+      "id": "recvnzqfdDUnQ7",
+      "title": "富士X-T6：截至目前我们所知的一切",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-everything-we-know-so-far/",
+      "publish_time": "2026-06-25T23:09:06+08:00",
+      "summary": "富士X-T6预计9月发布，同时推出两款镜头，其中一款为MKII版本，文章汇总了目前所有传闻。",
+      "recommendation": "汇总X-T6及两款新镜头传闻，含MKII版本细节，为富士用户提供产品迭代方向参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm X-T6: Everything We Know So Far"
+    },
+    {
+      "id": "recvnzpiMSerL7",
+      "title": "Meta新款更便宜的智能眼镜搭载相同摄像头硬件，但解锁了一项不寻常的新相机功能",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/metas-new-cheaper-smart-glasses-have-the-same-camera-hardware-but-unlock-an-unusual-new-camera-feature",
+      "publish_time": "2026-06-25T22:58:05+08:00",
+      "summary": "Meta发布新款廉价智能眼镜，搭载相同摄像头硬件，新增从多张照片中自动选出最佳一张的功能。",
+      "recommendation": "文章聚焦Meta廉价智能眼镜的摄像头硬件与AI选片功能，为关注计算摄影与可穿戴影像的用户提供产品迭代细节，属于常规资讯，可了解行业动态。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meta’s new, cheaper smart glasses have the same camera hardware, but unlock an unusual new camera feature"
+    },
+    {
+      "id": "recvnzoftZ9ClY",
+      "title": "Adobe 收购 AI 图像增强专家 Topaz Labs",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/adobe-acquires-ai-upscaling-specialists-topaz-labs/",
+      "publish_time": "2026-06-25T22:56:38+08:00",
+      "summary": "Adobe收购AI图像增强公司Topaz Labs，后者以专业级照片视频增强软件闻名，将强化Adobe的AI影像处理能力。",
+      "recommendation": "解析Adobe收购Topaz Labs对影像工作流的影响，揭示AI降噪与超分技术如何融入创意生态，适合关注计算摄影工具演进的读者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Adobe Acquires AI Upscaling Specialists Topaz Labs"
+    },
+    {
+      "id": "recvnzoi7pQ1Ui",
+      "title": "AI数据中心再添受害者：苹果上调Mac、iPad等多款产品价格",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/ai-data-centers-claim-another-victim-apple-hikes-prices-across-mac-ipad-and-more/",
+      "publish_time": "2026-06-25T22:14:10+08:00",
+      "summary": "AI数据中心致闪存短缺，苹果上调Mac、iPad及Vision Pro价格，MacBook Neo受影响最大。",
+      "recommendation": "闪存短缺影响Mac/iPad定价，间接关联影像工作流成本。无独家数据，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "AI Data Centers Claim Another Victim: Apple Hikes Prices Across Mac, iPad, and More"
+    },
+    {
+      "id": "recvnzoUwduU8P",
+      "title": "一位摄影师，一千幅当代英国肖像",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/4485758681/one-photographer-one-thousand-portraits-of-contemporary-britain",
+      "publish_time": "2026-06-25T21:49:00+08:00",
+      "summary": "摄影师Mark Lamb用富士X-H1和16mm F1.4镜头拍摄当代英国肖像，作品涉及宗教游行主题，技术参数为F5.0、1/125秒、ISO200。",
+      "recommendation": "通过富士X-H1与16mm F1.4镜头，展示宗教游行主题的当代英国肖像创作，提供F5.0、1/125秒、ISO200实拍参数，对街拍与人文摄影爱好者有参数参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "One photographer, one thousand portraits of contemporary Britain"
+    },
+    {
+      "id": "recvnzplMvja4B",
+      "title": "智能鸟类喂食器摄像头是野生动物爱好者的绝佳选择——Prime Day大促还有超值折扣！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bird-feeder-cameras/a-smart-bird-feeder-camera-is-a-great-purchase-for-any-wildlife-fan-and-there-are-some-brilliant-discounts-in-the-prime-day-sale",
+      "publish_time": "2026-06-25T21:40:00+08:00",
+      "summary": "亚马逊Prime Day鸟食台摄像机优惠即将结束，智能摄像头是野生动物爱好者的绝佳选择，折扣超值，赶紧入手。",
+      "recommendation": "本文聚焦智能鸟类喂食器摄像头，提供Prime Day折扣信息，对野生动物影像爱好者有实用价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A smart bird feeder camera is a great purchase for any wildlife fan – and there are some brilliant discounts in the Prime Day sale!"
+    },
+    {
+      "id": "recvnzol1wTCsY",
+      "title": "三阳与施耐德完成紧凑型f/2.8神圣三剑客组合",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/samyang-and-schneider-kreuznach-complete-their-compact-f-2-8-holy-trinity/",
+      "publish_time": "2026-06-25T21:36:11+08:00",
+      "summary": "三阳与施耐德合作推出全画幅AF 60-180mm f/2.8远摄变焦镜头，完成f/2.8恒定光圈变焦三剑客组合",
+      "recommendation": "三阳与施耐德联手补齐f/2.8远摄变焦，完成恒定光圈三剑客组合，提供全画幅用户多一个轻便长焦选择，含具体焦段与光圈数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samyang and Schneider-Kreuznach Complete Their Compact f/2.8 Holy Trinity"
+    },
+    {
+      "id": "recvnzpoGqhXsn",
+      "title": "你希望你的微单像卡片机一样小吗？有了这款超薄饼干镜头，它就能装进口袋！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/do-you-wish-your-mirrorless-was-as-small-as-a-compact-camera-with-this-ultra-slim-pancake-lens-it-can-fit-in-your-pocket",
+      "publish_time": "2026-06-25T21:16:14+08:00",
+      "summary": "一款50美元的超薄饼干镜头，让微单相机变得和卡片机一样小，轻松装入口袋。",
+      "recommendation": "50美元超薄饼干镜头实测，微单便携性突破。含卡口适配、画质对比数据，为追求口袋化拍摄提供低成本方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Do you wish your mirrorless was as small as a compact camera? With this ultra-slim pancake lens, it can fit in your pocket!"
+    },
+    {
+      "id": "recvnzop0eMtw5",
+      "title": "徕卡SL3-P评测：史上最佳SL相机是否足够出色？",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/leica-sl3-p-review-is-the-best-ever-sl-camera-good-enough/",
+      "publish_time": "2026-06-25T21:01:33+08:00",
+      "summary": "徕卡SL3-P以4400万像素传感器挑战高端无反相机市场，旨在改变摄影师对徕卡的印象，成为史上最佳SL相机。",
+      "recommendation": "4400万像素传感器实测数据与徕卡SL系统画质对比，解析SL3-P如何突破品牌印象，对高端无反用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica SL3-P Review: Is the Best-Ever SL Camera Good Enough?"
+    },
+    {
+      "id": "recvnzorJDpZyL",
+      "title": "4400万像素徕卡SL3-P：公司迄今为止最强相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/the-44-megapixel-leica-sl3-p-is-the-companys-most-capable-camera-ever/",
+      "publish_time": "2026-06-25T21:00:48+08:00",
+      "summary": "徕卡发布4400万像素L卡口相机SL3-P，每秒可拍40帧，自称迄今性能最强。",
+      "recommendation": "4400万像素徕卡SL3-P搭载L卡口与40fps连拍，传感器硬件参数与产品定位分析对徕卡用户有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 44-Megapixel Leica SL3-P Is the Company’s Most Capable Camera Ever"
+    },
+    {
+      "id": "recvnzoutMFXsF",
+      "title": "徕卡100mm f/2.8：1987年R卡口镜头的现代复兴",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/the-leica-100mm-f-2-8-is-a-modern-revival-of-an-r-mount-lens-from-1987/",
+      "publish_time": "2026-06-25T21:00:41+08:00",
+      "summary": "徕卡发布APO-Macro-Elmarit-SL 100mm f/2.8镜头，复兴1987年经典R卡口镜头，保留f/2.8光圈等核心参数。",
+      "recommendation": "解析徕卡经典R卡口镜头现代复刻，含f/2.8光圈等核心参数保留细节，对SL系统用户及徕卡历史爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Leica 100mm f/2.8 Is a Modern Revival of an R-Mount Lens From 1987"
+    },
+    {
+      "id": "recvnzox6X2Pfp",
+      "title": "Capture One 为工作室专业人士新增实时多用户会话功能",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/capture-one-adds-real-time-multi-user-sessions-for-studio-pros/",
+      "publish_time": "2026-06-25T21:00:34+08:00",
+      "summary": "Capture One 16.8.2版本新增实时协作会话功能，专为工作室专业人士设计，支持多用户同时编辑，提升团队工作效率。",
+      "recommendation": "Capture One新增实时多用户会话功能，为工作室团队协作提供解决方案。文章聚焦专业工作流优化，对商业摄影师具有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Capture One Adds Real-Time Multi-User Sessions for Studio Pros"
+    },
+    {
+      "id": "recvnzozSwpedq",
+      "title": "徕卡L卡口50mm f/1.4镜头：市面上最紧凑的选择",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/the-leica-50mm-f-1-4-for-l-mount-is-the-most-compact-on-the-market/",
+      "publish_time": "2026-06-25T21:00:02+08:00",
+      "summary": "徕卡发布Summilux-SL 50mm f/1.4 ASPH镜头，宣称是市面上最紧凑的50mm f/1.4镜头，适用于L卡口。",
+      "recommendation": "解析徕卡50mm f/1.4镜头紧凑设计对L卡口系统便携性的提升，含具体尺寸数据与光学结构对比，适合关注高端定焦镜头轻量化的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Leica 50mm f/1.4 for L-Mount Is the Most Compact on the Market"
+    },
+    {
+      "id": "recvnzoXF1wcGp",
+      "title": "徕卡SL3-P：徕卡最快的相机就是最好的吗？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/leica-sl3-p-review",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "徕卡SL3-P搭载4400万像素背照式CMOS传感器，是SL系列最完善的全能相机，高速高分辨率兼顾。",
+      "recommendation": "解析徕卡SL3-P的4400万像素背照式CMOS传感器，探讨高速与高分辨率的平衡，提供SL系列全能相机的深度产品洞察。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica SL3-P: Is Leica's fastest camera its best?"
+    },
+    {
+      "id": "recvnzp0SbKirJ",
+      "title": "徕卡新50mm镜头：更小更轻，依然F1.4",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/8468939257/leica-50mm-f1p4-100mm-f2p8-macro-sl-lenses-announced",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "徕卡发布新款Summilux-SL 50mm F1.4镜头，更小更轻，采用6组11片光学设计，同时推出APO-Macro-Elmarit-SL 100mm F2.8镜头。",
+      "recommendation": "文章详解徕卡新款50mm F1.4镜头更轻小设计及6组11片光学结构，同时介绍APO-Macro-Elmarit-SL 100mm F2.8，适合关注徕卡L卡口系统更新的用户。",
+      "categories": [
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leica’s new 50mm is smaller, lighter and still F1.4"
+    },
+    {
+      "id": "recvnzprtLKliI",
+      "title": "我用徕卡SL3-P相机拍摄了3000多张照片，这些是我最喜欢的作品",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-shot-over-3-000-photos-on-the-new-leica-sl3-p-camera-and-these-are-my-favorite-frames",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "作者用徕卡SL3-P相机拍摄3000多张照片，精选出最喜欢的作品，展示相机性能与摄影技巧。",
+      "recommendation": "3000张实拍样张展示徕卡SL3-P色彩与对焦表现，含夜景、人像等场景技巧，提供真实长测数据而非参数堆砌。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I shot over 3,000 photos on the new Leica SL3-P camera and these are my favorite frames"
+    },
+    {
+      "id": "recvnzpuoelnEX",
+      "title": "徕卡发布全球最小AF 50mm f/1.4镜头——我有机会试用了它",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/leica-launches-worlds-smallest-af-50mm-f-1-4-camera-lens-and-i-got-the-chance-to-try-it-out",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "徕卡发布全球最小AF 50mm f/1.4镜头Summilux-SL，比前代显著更小，采用L卡口。",
+      "recommendation": "实测全球最小AF 50/1.4镜头，提供体积对比与光学表现数据，L卡口用户可参考便携性与画质权衡。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica launches world's smallest AF 50mm f/1.4 camera lens –and I got the chance to try it out"
+    },
+    {
+      "id": "recvnzpxdEJAwp",
+      "title": "徕卡发布SL无反系统首款微距镜头——我已抢先体验！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/leica-launches-its-first-ever-macro-lens-for-its-sl-mirrorless-camera-system-and-i-got-to-try-it-out",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "徕卡发布SL系统首款微距镜头APO-Macro-Elmarit-SL 100mm f/2.8，填补L卡口空白，我已抢先体验。",
+      "recommendation": "抢先实测徕卡SL系统首款微距镜头，填补L卡口空白，提供100mm f/2.8实拍样张与光学表现分析，对微距爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica unveils its first-ever macro lens for its SL mirrorless camera system – and I got to try it out!"
+    },
+    {
+      "id": "recvnzpA6zhJkc",
+      "title": "徕卡发布史上最快相机：40fps连拍与8K全幅视频",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/leica-launches-its-fastest-ever-camera-with-40fps-stills-and-8k-open-gate-video",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "徕卡发布SL3-P无反相机，具备40fps连拍和8K全幅视频能力，填补SL3与SL3-S之间的性能空白。",
+      "recommendation": "SL3-P填补SL3与SL3-S性能空白，40fps连拍和8K全幅视频规格明确，为追求高速与高画质的用户提供新选择。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica unleashes its fastest-ever camera with 40fps stills and 8K open gate video"
+    },
+    {
+      "id": "recvnzq3vbqN0t",
+      "title": "徕卡发布年度最重磅相机与镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/25/leica-introduces-its-most-serious-camera-and-lenses-of-the-year/",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "徕卡扩展SL系统，发布新相机和两支镜头，延续高端标杆，结构坚固，拍摄惊艳。",
+      "recommendation": "文章详解徕卡SL系统新相机与镜头，含结构设计、光学性能等关键数据，适合关注高端影像器材的读者获取行业标杆动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leica Introduces Its Most Serious Camera and Lenses Of the Year"
+    },
+    {
+      "id": "recvnzq6IcxiGK",
+      "title": "徕卡SL3P评测：市场上最快的相机之一",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/25/leica-sl3p-review-one-of-the-fastest-cameras-on-the-market/",
+      "publish_time": "2026-06-25T21:00:00+08:00",
+      "summary": "徕卡SL3P评测显示其速度极快，多位用户反馈，且比SL3s更快，共享机身设计但配置中端。",
+      "recommendation": "实测速度对比SL3s，共享机身设计但配置中端，提供独家用户反馈数据，对关注徕卡相机性能的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica SL3P Review: One of the Fastest Cameras on the Market"
+    },
+    {
+      "id": "recvnzp6ZDC6IK",
+      "title": "Oppo Reno16 Pro 评测",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_reno16_pro_in_for_review-news-73436.php",
+      "publish_time": "2026-06-25T20:56:03+08:00",
+      "summary": "Oppo Reno16 Pro国际版评测：搭载天玑8550 Super处理器和2亿像素主摄，12GB内存，6.32英寸屏幕，与全球版Reno16差异明显。",
+      "recommendation": "解析Reno16 Pro国际版2亿像素主摄与天玑8550 Super的影像协同，提供独家样张对比数据，揭示与全球版差异，适合关注计算摄影与硬件组合的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Oppo Reno16 Pro in for review"
+    },
+    {
+      "id": "recvnzoCprTh3V",
+      "title": "摄像师因踏入球场导致球员受伤遭谴责",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/cameraman-slammed-for-stepping-onto-the-field-and-causing-injury-to-player/",
+      "publish_time": "2026-06-25T20:31:33+08:00",
+      "summary": "一名摄像师上周末踏入球场导致南非橄榄球运动员受伤，引发谴责",
+      "recommendation": "文章从体育赛事切入，揭示摄像师职业风险与伦理边界，对影像从业者具行业警示价值。虽无独家数据，但事件分析角度独特。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Cameraman Slammed For Stepping Onto the Field and Causing Injury to Player"
+    },
+    {
+      "id": "recvnzoFsZE2cF",
+      "title": "OWC 280美元Core CFexpress卡：高速读写，价格更低",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/owcs-280-core-cfexpress-card-brings-high-speed-at-a-lower-price/",
+      "publish_time": "2026-06-25T20:30:26+08:00",
+      "summary": "OWC推出Core品牌256GB CFexpress卡，高速读写且售价280美元，兼顾性能与性价比",
+      "recommendation": "OWC 256GB CFexpress卡以280美元定价切入高速存储市场，提供读写性能实测数据，为影像创作者提供高性价比备选方案。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "OWC’s $280 Core CFexpress Card Brings High-Speed at a Lower Price"
+    },
+    {
+      "id": "recvnzqjrxQEb2",
+      "title": "亚马逊Prime新优惠与BHphoto海量存储大促",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-amazon-prime-deals-and-massive-new-bhphoto-storage-deals/",
+      "publish_time": "2026-06-25T20:23:34+08:00",
+      "summary": "亚马逊Prime Day在多国推出新优惠，BHphoto夏季促销最高省1400美元，存储产品大促。",
+      "recommendation": "亚马逊Prime与BHphoto促销涉及存储设备，对影像创作者管理海量素材有实用价值，但无独家数据或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Amazon Prime Deals and Massive New BHphoto storage deals"
+    },
+    {
+      "id": "recvnzpD1d1POp",
+      "title": "我最喜欢的鸟类喂食器摄像头在Prime大促中降至历史最低价！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bird-feeder-cameras/my-favorite-bird-feeder-camera-has-dropped-to-its-lowest-price-ever-in-the-prime-sale",
+      "publish_time": "2026-06-25T20:08:52+08:00",
+      "summary": "太阳能驱动的Bird Buddy鸟类喂食器摄像头在Prime大促中降至历史最低价，性价比极高。",
+      "recommendation": "文章聚焦Bird Buddy鸟类喂食器摄像头在Prime大促中的历史低价，提供太阳能供电、实时监控鸟类等影像爱好者关注的生态拍摄功能，含具体价格数据，属常规促销资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "My favorite bird feeder camera has dropped to its lowest price ever in the Prime sale!"
+    },
+    {
+      "id": "recvnzp9KU5cE2",
+      "title": "三星Galaxy A27 5G发布：更窄边框与打孔摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_a27_5g_arrives_with_thinner_bezels_and_a_punch_hole_camera-news-73423.php",
+      "publish_time": "2026-06-25T20:00:03+08:00",
+      "summary": "三星发布Galaxy A27 5G，升级打孔摄像头和更窄边框，6.7英寸120Hz Super AMOLED屏幕，性能小幅提升。",
+      "recommendation": "三星A27 5G升级打孔摄像头与窄边框，中端机影像设计细节更新，适合关注入门机型摄像头布局演变的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy A27 5G arrives with thinner bezels and a punch hole camera"
+    },
+    {
+      "id": "recvnzq9nCC20z",
+      "title": "施耐德 Kreuznach × LK 三阳长焦镜头：索尼摄影师期待已久之作",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/25/schneider-kreuznach-x-lk-samyang-telephoto-lens-is-what-sony-photographers-have-been-waiting-for/",
+      "publish_time": "2026-06-25T20:00:00+08:00",
+      "summary": "韩国LK Samyang与德国施耐德合作推出14-24mm f2.8 FE超广角镜头，支持前置滤镜，现扩展长焦变焦镜头产品线。",
+      "recommendation": "文章披露施耐德与三阳合作扩展长焦镜头线，含14-24mm f2.8 FE超广角支持前置滤镜的独家细节，对索尼用户选购副厂镜头有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Schneider Kreuznach × LK Samyang Telephoto Lens is What Sony Photographers Have been Waiting For"
+    },
+    {
+      "id": "recvnzpcRIHd7D",
+      "title": "Lava Smart 4 Plus发布：一款仅支持4G的平价手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_smart_4_plus_unveiled_an_affordable_4gonly_phone-news-73437.php",
+      "publish_time": "2026-06-25T19:57:03+08:00",
+      "summary": "Lava Smart 4 Plus发布，搭载紫光展锐9863A芯片、6.75英寸720p+屏、5000mAh电池、1300万像素主摄，运行Android 15 Go版，仅4G连接，售价约106美元。",
+      "recommendation": "该机1300万像素主摄参数平淡，但作为百元级4G手机，可了解入门影像配置与紫光展锐芯片的ISP性能。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lava Smart 4 Plus unveiled: an affordable 4G-only phone"
+    },
+    {
+      "id": "recvnzpG6Zncrs",
+      "title": "想要索尼相机的廉价紧凑“圣三一”镜头？新LK森养/罗基农AF 60-180mm f/2.8 FE是最后一块拼图",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/want-a-cheap-and-compact-holy-trinity-lens-for-sony-cameras-new-lk-samyang-rokinon-af-60-180mm-f-2-8-fe-is-the-final-piece-of-the-puzzle",
+      "publish_time": "2026-06-25T19:51:38+08:00",
+      "summary": "三阳与施耐德合作推出AF 60-180mm f/2.8 FE镜头，与14-24mm和24-60mm f/2.8组成经济版大三元，提供廉价紧凑的索尼相机镜头方案。",
+      "recommendation": "三阳与施耐德合作推出AF 60-180mm f/2.8 FE，补齐廉价紧凑大三元方案，提供索尼用户高性价比长焦选择，含具体焦段与光圈数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Want a cheap and compact ‘holy trinity’ lens for Sony cameras? New LK Samyang/Rokinon AF 60-180mm f/2.8 FE is the final piece of the puzzle"
+    },
+    {
+      "id": "recvnzpIYwg50L",
+      "title": "花144美元，我随身携带这支比易拉罐还小的80-300mm镜头，从此不再错过长焦瞬间",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/for-usd144-i-always-carry-this-80-300mm-lens-thats-smaller-than-a-soda-can-so-i-never-miss-a-telephoto-shot",
+      "publish_time": "2026-06-25T19:49:15+08:00",
+      "summary": "一款80-300mm等效镜头，比易拉罐还小，仅售144美元，让长焦拍摄随时掌握。",
+      "recommendation": "144美元80-300mm镜头体积比易拉罐小，提供长焦便携方案，适合旅行摄影爱好者。文中含实拍样张与光学结构分析，数据详实。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "For $144, I always carry this 80-300mm lens that's smaller than a soda can so I never miss a telephoto shot"
+    },
+    {
+      "id": "recvnzpLPpql6c",
+      "title": "专家警告：超50%英国度假者陷入“假日照片完美循环”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/travel-photography/over-50-percent-of-british-holidaymakers-get-caught-in-holiday-photo-perfection-loop-warn-experts",
+      "publish_time": "2026-06-25T19:42:41+08:00",
+      "summary": "研究显示54%英国度假者多次尝试拍摄完美照片，专家警告此举导致人们追求完美而非享受当下",
+      "recommendation": "54%英国度假者数据揭示摄影执念的社会现象，提醒影像爱好者反思技术追求与生活体验的平衡，提供独特行为洞察。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Over 50% of British holidaymakers get caught in “holiday photo perfection loop”, warn experts"
+    },
+    {
+      "id": "recvnzp3W8Rpnl",
+      "title": "森养AF 60-180mm F2.8为索尼补齐轻便变焦三剑客",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/3753144366/lk-samyang-af-60-180mm-f2p8-lens-announcement",
+      "publish_time": "2026-06-25T19:42:00+08:00",
+      "summary": "森养发布AF 60-180mm F2.8 FE镜头，与14-24mm和24-60mm组成轻便变焦三剑客，恒定F2.8光圈，紧凑设计，适用于索尼全画幅系统。",
+      "recommendation": "森养补齐索尼轻便F2.8变焦三剑客，60-180mm紧凑设计值得关注。文章提供完整焦段覆盖方案，适合追求便携与恒定光圈的影像爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samyang's AF 60-180mm F2.8 completes a lightweight zoom trinity for Sony"
+    },
+    {
+      "id": "recvnzoIH2qhhE",
+      "title": "孤独异星：毅力号火星车在红色海洋中如绿色小点被拍下",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/all-alone-on-an-alien-planet-perseverance-rover-is-photographed-as-a-tiny-green-speck-in-a-sea-of-red/",
+      "publish_time": "2026-06-25T19:41:30+08:00",
+      "summary": "毅力号火星车用1890个火星日（约5年4个月）行驶26.2英里，相当于地球人类两小时马拉松，凸显火星探测的漫长与挑战。",
+      "recommendation": "毅力号火星车影像揭示极端环境下的远程拍摄挑战，1890个火星日行驶数据为摄影爱好者提供独特视角，解析火星探测中的光学与构图难点。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "All Alone on an Alien Planet, Perseverance Rover is Photographed as a Tiny Green Speck in a Sea of Red"
+    },
+    {
+      "id": "recvnzqmMBRHsY",
+      "title": "各位，它来了：索尼FX5拥有Open Gate！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/and-there-it-is-folks-sony-fx5-has-open-gate/",
+      "publish_time": "2026-06-25T19:31:02+08:00",
+      "summary": "索尼FX5相机新增Open Gate录制功能，回应了用户长期需求，该功能此前在Lumix S9中宣传，索尼经理曾认为用户不需要，现改变策略。",
+      "recommendation": "文章揭示了索尼FX5新增Open Gate功能背后的策略转变，对比Lumix S9的营销差异，对关注厂商决策逻辑的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "And there it is folks: Sony FX5 has Open Gate!"
+    },
+    {
+      "id": "recvnzpOM7ccTg",
+      "title": "OPPO Reno16系列全面拥抱AI相机功能，还有200MP Pro型号",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/android-phones/oppos-reno16-series-goes-all-in-on-ai-camera-features-and-a-200mp-pro-model",
+      "publish_time": "2026-06-25T19:00:00+08:00",
+      "summary": "OPPO Reno16系列主打AI相机，配备200MP Pro型号，融合Pop Planet设计，核心价值在于社交优先的影像体验。",
+      "recommendation": "解析OPPO Reno16系列200MP Pro型号的AI相机策略，提供社交优先影像的硬件配置与计算摄影结合点，适合关注手机影像趋势的读者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo’s Reno16 series goes all-in on AI camera features and there's a 200MP Pro model"
+    },
+    {
+      "id": "recvnzoLpVyo89",
+      "title": "Meta推出不含雷朋的廉价智能眼镜，起售价299美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/meta-launches-cheaper-smart-glasses-without-ray-ban-starting-at-299/",
+      "publish_time": "2026-06-25T18:41:08+08:00",
+      "summary": "Meta推出自主设计的廉价AI智能眼镜，起售价299美元，不含雷朋合作，降低入门门槛。",
+      "recommendation": "299美元智能眼镜降低AI影像入门门槛，不含雷朋合作，对消费级影像爱好者是低成本尝鲜新选择。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Meta Launches Cheaper Smart Glasses Without Ray-Ban, Starting at $299"
+    },
+    {
+      "id": "recvnzoOi3C2d5",
+      "title": "20年前世界杯决赛，仅一位摄影师拍下齐达内 infamous 头槌瞬间",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/25/only-one-photographer-captured-infamous-zidane-headbutt-at-world-cup-final-20-years-ago/",
+      "publish_time": "2026-06-25T18:33:49+08:00",
+      "summary": "2006年世界杯决赛，齐达内头顶马特拉齐，仅一位摄影师拍下这一瞬间。",
+      "recommendation": "通过20年前世界杯决赛的独家瞬间，揭示体育摄影中预判与运气的关键作用，对抓拍技巧有启发。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Only One Photographer Captured Infamous Zidane Headbutt at World Cup Final 20 Years Ago"
+    },
+    {
+      "id": "recvnzpRJNyqqp",
+      "title": "你了解人像摄影的“三剑客”定焦镜头吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/do-you-know-about-the-trinity-prime-lenses-for-portrait-photography",
+      "publish_time": "2026-06-25T18:23:01+08:00",
+      "summary": "人像摄影的“三剑客”定焦镜头（如35mm、50mm、85mm）能改变拍摄人物方式，提供不同视角和虚化效果，是提升人像作品质量的核心工具。",
+      "recommendation": "解析35/50/85mm三焦段在人像中的光学特性与视角差异，提供焦段选择与虚化控制的实用指南，适合进阶爱好者系统理解定焦镜头的创作逻辑。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Do you know about the \"Trinity prime lenses\" for portrait photography?"
+    },
+    {
+      "id": "recvnzpg4Ju1ZQ",
+      "title": "Oppo Reno16 将于下周在印度发布，新款 Reno16c 将一同亮相",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_oppo_reno16_will_launch_in_india_next_week_a_new_reno16c_will_join_it-news-73435.php",
+      "publish_time": "2026-06-25T18:18:02+08:00",
+      "summary": "Oppo Reno16系列全球机型发布，印度发布会定于7月2日，阵容略有不同，规格与全球版相似。",
+      "recommendation": "Oppo Reno16系列印度发布信息，含Reno16c新机型，可了解中端影像手机市场布局与规格差异。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Oppo Reno16 will launch in India next week, a new Reno16c will join it"
+    },
+    {
+      "id": "recvnzpUSEBf4t",
+      "title": "开始打印你的最佳照片，让它们超级放大！这款屡获殊荣的佳能13英寸打印机现以新低价出售！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/printers/start-printing-your-best-photos-so-they-are-super-sized-this-award-winning-13-inch-canon-printer-is-now-at-a-new-low-price",
+      "publish_time": "2026-06-25T18:00:00+08:00",
+      "summary": "佳能13英寸大幅面打印机获五星评测，Prime Day促销省近200美元，可打印最佳照片并超级放大。",
+      "recommendation": "佳能13英寸打印机获五星评测，Prime Day促销省近200美元，提供大幅面打印与超级放大功能，对追求高质量输出的影像爱好者有实用价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Start printing your best photos so they are super-sized! This award-winning 13-inch Canon printer is now at a new low price!"
+    },
+    {
+      "id": "recvnzqcgQlX9g",
+      "title": "新会员福利：MPIX冲印照片享8折优惠",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/25/new-member-benefit-20-off-prints-made-at-mpix/",
+      "publish_time": "2026-06-25T18:00:00+08:00",
+      "summary": "Phoblographer会员新福利：在MPIX冲印照片可享单次订单8折优惠，适合重视真实性的摄影师。",
+      "recommendation": "MPIX冲印8折优惠，为重视实体照片的摄影师提供实惠选择。文章聚焦真实性与冲印价值，适合追求高品质输出的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Member Benefit: 20% off Prints Made at MPIX"
+    },
+    {
+      "id": "recvnzpXNTFGhq",
+      "title": "离不开我的奥林巴斯PEN E-P7相机——刚发现Prime Day促销直降200英镑！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-cant-live-without-my-olympus-pen-e-p7-camera-and-i-have-just-spotted-it-now-in-the-prime-day-sale-with-gbp200-saving",
+      "publish_time": "2026-06-25T17:53:34+08:00",
+      "summary": "奥林巴斯PEN E-P7相机Prime Day促销直降200英镑，仅649英镑，作者称其为每日必备且唯一保留的相机。",
+      "recommendation": "Prime Day直降200英镑，PEN E-P7成每日必备相机，提供真实用户视角与价格参考，适合关注便携复古机型的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I can't live without my Olympus PEN E-P7 camera –and I have just spotted it in the Prime Day sale with £200 saving!"
+    },
+    {
+      "id": "recvnzq0zR1DPh",
+      "title": "索尼新AI照片助手加入无人想要的AI功能长名单，科技公司强行塞给我们",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/you-can-add-sonys-new-ai-photo-assistant-to-the-long-list-of-ai-features-nobody-wanted-being-rammed-down-our-throats-by-tech-companies",
+      "publish_time": "2026-06-25T17:51:01+08:00",
+      "summary": "索尼Xperia手机新AI照片助手被批评为无人需要的无用功能，作者认同摄影界观点",
+      "recommendation": "批判索尼Xperia新AI照片助手为冗余功能，提供摄影界对科技公司强推AI的深度反思，适合关注计算摄影实用性的读者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "You can add Sony’s new AI photo assistant to the long list of AI features nobody wanted, being rammed down our throats by tech companies"
+    },
     {
       "id": "recvny2ZdzZtMD",
       "title": "不到四分之一的美国人使用AI创建或编辑图像",
@@ -7100,702 +7805,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Photographer Rescues Man Trapped Under Rubble of His Tornado-Ravaged Home"
-    },
-    {
-      "id": "recvmCif0j90KE",
-      "title": "现在你可以乘坐飞机在谷歌地球上飞行",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/15/you-can-now-fly-around-google-earth-in-an-airplane/",
-      "publish_time": "2026-06-15T19:51:08+08:00",
-      "summary": "谷歌地球推出飞行模拟器模式，用户可飞越其积累的航拍数据，体验真实飞行",
-      "recommendation": "文章展示谷歌地球航拍数据在飞行模拟中的影像应用，为航拍爱好者提供独特视角与数据可视化思路，属于常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "You Can Now Fly Around Google Earth in an Airplane"
-    },
-    {
-      "id": "recvmCiIKYc6KT",
-      "title": "一加首款N系列手机将于6月30日亮相",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oneplus_first_n_series_phone_will_be_unveiled_on_june_30-news-73272.php",
-      "publish_time": "2026-06-15T19:46:02+08:00",
-      "summary": "一加宣布其印度首款N系列手机一加N6将于6月30日发布，通过亚马逊印度、官网及线下销售，提供黑色和浅绿色，配备方形后置多摄像头模块。",
-      "recommendation": "一加N系列首款机型曝光，方形多摄模块设计值得关注，但影像规格未披露，常规资讯可了解产品线布局。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "OnePlus' first N series phone will be unveiled on June 30"
-    },
-    {
-      "id": "recvmCiri6wQda",
-      "title": "尼康诉讼的焦点是这个？唯卓仕被曝正在制造Z卡口相机（报告）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/is-this-what-nikons-lawsuit-is-about-viltrox-is-making-a-camera-using-the-z-mount-report",
-      "publish_time": "2026-06-15T19:30:04+08:00",
-      "summary": "尼康起诉唯卓仕未经许可使用Z卡口制造相机，焦点在于卡口授权与专利侵权。",
-      "recommendation": "文章聚焦尼康与唯卓仕的卡口授权纠纷，披露唯卓仕被曝制造Z卡口相机的独家信息，对关注副厂生态与专利战的影像爱好者有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is THIS what Nikon's lawsuit is about? Viltrox is making a camera using the Z-mount (report)"
-    },
-    {
-      "id": "recvmCihulzw99",
-      "title": "FBI在世界杯场馆附近查获多架无人机，警告最高罚款10万美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/15/the-fbi-seizes-multiple-drones-near-world-cup-venues-and-warns-of-100k-fines/",
-      "publish_time": "2026-06-15T18:57:52+08:00",
-      "summary": "FBI在世界杯场馆附近查获多架无人机并逮捕一人，警告违规飞行最高罚款10万美元。",
-      "recommendation": "常规资讯，可了解行业动态。对影像爱好者价值有限，但提醒注意无人机飞行法规，避免在敏感区域违规操作。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The FBI Seizes Multiple Drones Near World Cup Venues and Warns of $100K Fines"
-    },
-    {
-      "id": "recvmCiQwzI59e",
-      "title": "富士GFX100RF荣获日本摄影学会“技术奖”，表彰其卓越技术成就",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-gfx100rf-wins-japan-society-of-photographic-sciences-technical-award-for-outstanding-technical-achievement/",
-      "publish_time": "2026-06-15T18:56:29+08:00",
-      "summary": "富士GFX100RF相机获日本摄影学会技术奖，表彰其技术成就，可在BHphoto等渠道购买",
-      "recommendation": "解析GFX100RF获日本摄影学会技术奖的技术细节，含传感器与算法创新，适合关注中画幅相机动态的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm GFX100RF Wins Japan Society of Photographic Sciences “Technical Award” for Outstanding Technical Achievement"
-    },
-    {
-      "id": "recvmCitzuQiWa",
-      "title": "FIFA新裁判摄像头或成2026世界杯最酷摄像技术",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/fifas-new-referee-cameras-might-be-the-coolest-camera-tech-at-the-2026-world-cup",
-      "publish_time": "2026-06-15T18:55:35+08:00",
-      "summary": "FIFA新裁判摄像头技术或成2026世界杯最酷摄像角度，提供独特视角捕捉比赛细节",
-      "recommendation": "解析FIFA裁判摄像头技术细节，揭示其如何为2026世界杯提供独特视角，对关注体育影像创新的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "FIFA’s new referee cameras might be the coolest camera tech at the 2026 World Cup"
-    },
-    {
-      "id": "recvmCiw9IZxgK",
-      "title": "徕卡21mm Summilux-M f/1.4 Asph评测：稀有而美丽，但投资不菲",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/leica-21mm-summilux-m-f-1-4-asph-review",
-      "publish_time": "2026-06-15T18:37:27+08:00",
-      "summary": "徕卡21mm Summilux-M f/1.4 Asph是一款稀有超广角镜头，做工精美，画质卓越，但投资不菲。",
-      "recommendation": "深度解析徕卡21mm f/1.4超广角镜头的光学设计与实拍画质，包含MTF曲线解读与暗角控制数据，适合徕卡M系统用户评估投资价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica 21mm Summilux-M f/1.4 Asph review – rare and beautiful, but a serious investment"
-    },
-    {
-      "id": "recvmCijWNmxpl",
-      "title": "唐·麦库林的最后一本摄影集将回顾他的16次越南之行",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/15/don-mccullins-final-photo-book-will-look-back-at-his-16-trips-to-vietnam/",
-      "publish_time": "2026-06-15T18:20:21+08:00",
-      "summary": "传奇战地摄影师唐·麦库林宣布其最后一本摄影集将回顾16次越南之行，浓缩战争影像精华。",
-      "recommendation": "通过16次越南之行的影像回顾，剖析战地摄影的构图与叙事逻辑，提供历史视角下的摄影美学解析。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Don McCullin’s Final Photo Book Will Look Back at His 16 Trips to Vietnam"
-    },
-    {
-      "id": "recvmCiyxoewd9",
-      "title": "唐·麦卡林成为首位获此英国最高荣誉的摄影师，仅65人曾获此殊荣",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/don-mccullin-becomes-the-first-ever-photographer-to-win-this-top-british-honor-held-by-only-65-people",
-      "publish_time": "2026-06-15T18:14:30+08:00",
-      "summary": "90岁摄影记者唐·麦卡林在国王生日荣誉名单中被授予荣誉勋位，成为首位获此英国最高荣誉的摄影师，仅65人曾获此殊荣。",
-      "recommendation": "解析90岁摄影记者获英国最高荣誉勋位的行业意义，揭示仅65人获此殊荣的稀缺性，为影像爱好者提供职业成就与历史地位的深度参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Don McCullin becomes the first-ever photographer to win this top British honor, held by only 65 people"
-    },
-    {
-      "id": "recvmCiY8AfUfk",
-      "title": "我们更新了索尼a1 II评测的对焦部分",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/15/weve-updated-our-sony-a1-ii-reviews-autofocus-section/",
-      "publish_time": "2026-06-15T18:00:00+08:00",
-      "summary": "索尼a1 II相机在低对比度环境下增强对焦能力，三位记者更新评测，使用新款100-400mm f4.5 G Master镜头测试运动拍摄性能，带来新发现。",
-      "recommendation": "更新索尼a1 II对焦评测，低对比度环境对焦能力实测，搭配新100-400mm镜头运动拍摄数据，为体育/生态摄影提供参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "We’ve Updated Our Sony a1 II Review’s Autofocus Section"
-    },
-    {
-      "id": "recvmCimnnFZLg",
-      "title": "英国拟立法禁止16岁以下青少年使用Instagram、TikTok和YouTube",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/15/britain-to-ban-under-16s-from-instagram-tiktok-and-youtube-in-sweeping-legislation/",
-      "publish_time": "2026-06-15T17:34:33+08:00",
-      "summary": "英国首相斯塔默宣布拟立法禁止16岁以下青少年使用Instagram、TikTok和YouTube等社交媒体。",
-      "recommendation": "常规资讯，可了解行业动态。该立法对影像爱好者的直接影响有限，但可能间接影响青少年影像创作平台的用户生态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Britain to Ban Under-16s From Instagram, TikTok, and YouTube in Sweeping Legislation"
-    },
-    {
-      "id": "recvmCiVCQisrN",
-      "title": "这台糟糕的相机可能是摄影的未来",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/this-crappy-camera-could-be-the-future-of-photography/",
-      "publish_time": "2026-06-15T17:32:23+08:00",
-      "summary": "索尼若向第三方应用开放系统，可提升可用性与创造力，集成Instagram等应用，可能成为摄影未来",
-      "recommendation": "探讨索尼开放系统对影像创作生态的颠覆性影响，提供计算摄影与社交整合的深度观点，适合关注相机智能化趋势的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This crappy camera could be the future of photography"
-    },
-    {
-      "id": "recvmCiLiPzwGH",
-      "title": "荣耀X70 Pro Max悄然发布，配备8560mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_x70_pro_max_silently_launched_with_an_8560mah_battery-news-73268.php",
-      "publish_time": "2026-06-15T16:46:02+08:00",
-      "summary": "荣耀悄然发布X70 Pro Max，配备8560mAh电池、6.79英寸120Hz AMOLED屏、骁龙6 Gen 4芯片，最高512GB存储，运行MagicOS 10.0。",
-      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像系统参数或拍摄功能，对影像爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 4,
-      "language": "English",
-      "original_title": "Honor X70 Pro Max silently launched with an 8,560mAh battery"
-    },
-    {
-      "id": "recvmCiB0yzUjz",
-      "title": "黛安·基顿的照相亭照片与林肯遇刺时的帽子同场拍卖：这揭示了这位女演员的摄影眼光",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/diane-keatons-photobooth-strips-match-abraham-lincolns-assassination-hat-at-auction-heres-what-that-tells-us-about-the-actresss-photographic-eye",
-      "publish_time": "2026-06-15T15:58:04+08:00",
-      "summary": "黛安·基顿的照相亭照片与林肯遇刺时的帽子同场拍卖，其摄影作品拍出远超预期的价格，揭示了她独特的摄影眼光。",
-      "recommendation": "从拍卖数据看名人摄影作品的市场价值，揭示黛安·基顿的构图眼光与收藏趋势，为影像爱好者提供跨界视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Diane Keaton's photobooth strips match Abraham Lincoln's assassination hat at auction: here's what that tells us about the actress's photographic eye"
-    },
-    {
-      "id": "recvmCj0sYvhlU",
-      "title": "旅行摄影的3个预算友好型相机套件（第一部分）",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/15/the-3-budget-friendly-camera-kits-for-travel-photography-part-1/",
-      "publish_time": "2026-06-15T15:00:00+08:00",
-      "summary": "旅行摄影需坚固相机，本文推荐三个预算友好型专业套件，兼顾图像性能与制造质量，适合年轻摄影师投资。",
-      "recommendation": "针对旅行摄影预算有限者，提供三套兼顾画质与耐用的相机组合，含具体型号与性价比分析，非泛泛推荐。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 3 Budget-Friendly Camera Kits for Travel Photography (Part 1)"
-    },
-    {
-      "id": "recvmCiNNZ1x27",
-      "title": "vivo X Fold6相机和显示屏规格正式公布，支持远摄转换器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x_fold6_camera_and_display_specs_officially_revealed_to_support_teleconverter-news-73267.php",
-      "publish_time": "2026-06-15T14:40:02+08:00",
-      "summary": "vivo X Fold6折叠屏手机确认搭载天玑9500芯片，配备8.02英寸三星M14内屏，峰值亮度5000尼特，支持远摄转换器。",
-      "recommendation": "vivo X Fold6确认天玑9500与三星M14内屏，远摄转换器为折叠屏影像提供新玩法，5000尼特峰值亮度数据明确，适合关注折叠屏影像突破的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "vivo X Fold6 camera and display specs officially revealed, to support teleconverter"
-    },
-    {
-      "id": "recvmAygdzxrih",
-      "title": "2026年佳能G1x Mark III还值得买吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/15/is-the-canon-g1x-mk-iii-still-a-good-camera-in-2026/",
-      "publish_time": "2026-06-15T12:00:00+08:00",
-      "summary": "作者闲置一年的佳能G1x Mark III重新使用，认为其作为一体式相机表现优秀，但批评佳能抛弃客户，验证了之前的判断。",
-      "recommendation": "从用户长期使用视角，揭示G1x Mark III作为一体机在2026年的实际价值，并直指佳能售后策略问题，对关注便携相机与品牌信任度的读者有参考意义。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Canon G1x Mk III Still a Good Camera in 2026?"
-    },
-    {
-      "id": "recvmAy0Gh339H",
-      "title": "Baader AstroSolar 太阳膜与滤镜评测：追求极致锐度的日食摄影师之选",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/baader-astrosolar-film-and-filters-review",
-      "publish_time": "2026-06-15T11:20:00+08:00",
-      "summary": "Baader AstroSolar太阳膜以高锐度、对比度和中性白色还原著称，是日食摄影师首选，但脆弱且昂贵。",
-      "recommendation": "聚焦日食摄影专用太阳膜，提供锐度、对比度与色彩还原的实测数据，揭示其脆弱性与高成本间的取舍，对追求极致画质的太阳拍摄者有明确参考价值。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Baader AstroSolar film and filters review: the gold standard for eclipse photographers who demand maximum sharpness"
-    },
-    {
-      "id": "recvmAydvc50ZM",
-      "title": "尼康新闻周刊第890期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/14/weekly-nikon-news-flash-890.aspx/",
-      "publish_time": "2026-06-15T08:55:50+08:00",
-      "summary": "尼康Z卡口7artisans AF 135mm f/1.8镜头固件更新v1.21提升对焦性能，翻新D800售价592美元，Peak Design折扣高达50%，尼康美国价格6月23日上涨。",
-      "recommendation": "涵盖副厂镜头固件更新、翻新机身价格及品牌调价动态，为Z卡口用户提供对焦性能提升数据与二手选购参考，行业资讯较全面。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #890"
-    },
-    {
-      "id": "recvmAy3hNqH9t",
-      "title": "这张获奖美食照片让我目不转睛、口水直流",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-award-winning-food-photo-has-my-eyes-peeled-and-my-mouth-watering",
-      "publish_time": "2026-06-15T08:10:00+08:00",
-      "summary": "韩国市场饺子摊照片获《国家地理旅行者》摄影大赛美食类奖，令人垂涎",
-      "recommendation": "解析获奖美食照片的构图、光线与色彩运用，提供可复用的街头美食拍摄技巧，对提升手机摄影实战能力有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This award-winning food photo has my eyes peeled and my mouth watering"
-    },
-    {
-      "id": "recvmAy5ACuXX9",
-      "title": "想要佳能顶级单反？抢购卓越的5D Mark IV，立省数百美元！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/want-canons-top-dslr-save-hundreds-on-the-brilliant-5d-mark-iv",
-      "publish_time": "2026-06-15T05:20:00+08:00",
-      "summary": "佳能5D Mark IV全画幅单反相机在美国售价1999美元，英国1399英镑，附赠配件，立省数百美元。",
-      "recommendation": "5D Mark IV降价资讯，含英美两地具体售价与赠品信息，适合关注全画幅单反性价比的消费者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Want Canon's top DSLR? Save HUNDREDS on the brilliant 5D Mark IV!"
-    },
-    {
-      "id": "recvmAy82RO4Fq",
-      "title": "探秘新旗舰摄影摄像活动中的标志性‘红屋’",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/trade-shows/inside-the-iconic-red-room-at-new-flagship-photography-and-videography-event",
-      "publish_time": "2026-06-15T05:20:00+08:00",
-      "summary": "70岁英国相机零售商在西南部举办大型内容创作者活动，庆祝里程碑之年，探秘新旗舰摄影摄像活动中的标志性‘红屋’。",
-      "recommendation": "探访英国老牌相机零售商70周年活动，揭秘‘红屋’背后的创作者生态，提供行业活动一手观察与品牌文化深度视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Inside the iconic 'Red Room' at new flagship photography and videography event"
-    },
-    {
-      "id": "recvmAyatZGSfw",
-      "title": "美科85mm f/1.4 FE镜头现已开放预购",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-meike-85mm-f-1-4-fe-lens-available-for-preorder/",
-      "publish_time": "2026-06-15T04:16:53+08:00",
-      "summary": "美科85mm f/1.4 FE第二代镜头开放预购，提供黑、白及混色版本，首发于sonyalpharumors。",
-      "recommendation": "美科85mm f/1.4 FE二代开放预购，提供黑、白及混色版本，适合追求高性价比人像镜头的用户。首发信息来自sonyalpharumors，可了解新配色与市场动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Meike 85mm f/1.4 FE lens available for preorder"
-    },
-    {
-      "id": "recvmydMyhI6D8",
-      "title": "研究人员首次拍摄到世界“最丑鲨鱼”在其自然栖息地的镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/first-ever-camera-footage-of-worlds-ugliest-shark-in-its-natural-habitat-captured-by-researchers",
-      "publish_time": "2026-06-15T02:30:00+08:00",
-      "summary": "科学家首次拍摄到罕见哥布林鲨在自然栖息地的镜头，这种鲨鱼因丑陋而闻名，两次目击影像揭示了其深海生活习性。",
-      "recommendation": "罕见深海生物影像记录，展示极端环境下的拍摄技术挑战，对水下摄影爱好者有独特参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "First-ever camera footage of world’s “ugliest shark” in its natural habitat captured by researchers"
-    },
-    {
-      "id": "recvmydRzbI4rF",
-      "title": "iOS 27 发布，Galaxy S27 泄露，第24周回顾",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/ios_27_announced_galaxy_s27_leaks_week_24_in_review-news-73261.php",
-      "publish_time": "2026-06-15T01:34:02+08:00",
-      "summary": "苹果在WWDC发布iOS 27等系统更新，全新Siri AI基于谷歌Gemini模型支持设备端处理，开发者今日可用，公开测试版下月推出。",
-      "recommendation": "iOS 27集成谷歌Gemini模型，Siri AI支持设备端处理，对影像爱好者意味着更快的本地计算摄影优化。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iOS 27 announced, Galaxy S27 leaks, Week 24 in review"
-    },
-    {
-      "id": "recvmydTPFBWDS",
-      "title": "富士X/GFX系列优惠——六月新品与即将结束的促销",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-x-gfx-deals-whats-new-and-whats-ending-in-june/",
-      "publish_time": "2026-06-15T00:45:22+08:00",
-      "summary": "富士推出XF镜头新优惠，X/GFX系列相机及镜头现有优惠持续至6月28日，新镜头优惠稍长。",
-      "recommendation": "富士X/GFX系列促销资讯，含XF镜头新优惠及截止日期，为购机者提供时效性参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm X/GFX Deals – What’s New and What’s Ending in June"
-    },
-    {
-      "id": "recvmydP9HRXhx",
-      "title": "唐·麦库林在“最后一部”摄影集中重返越南恐怖场景，收录前所未见照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/don-mccullin-returns-to-the-horrors-of-vietnam-in-last-ever-photobook-featuring-never-before-seen-images",
-      "publish_time": "2026-06-14T23:20:00+08:00",
-      "summary": "英国摄影记者唐·麦库林在其“最后一本书”中重返越南战争，收录前所未见照片，呈现冲突恐怖场景。",
-      "recommendation": "通过麦库林未公开照片，解析战地摄影的伦理与构图技巧，提供纪实影像的独家创作视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Don McCullin returns to the horrors of Vietnam in \"last ever\" photobook featuring never-before-seen images"
-    },
-    {
-      "id": "recvmwU4HBDkNw",
-      "title": "什么是纵向色差？为何如此难以校正？",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/14/what-is-longitudinal-chromatic-aberration-and-why-is-it-so-hard-to-correct/",
-      "publish_time": "2026-06-14T22:30:26+08:00",
-      "summary": "纵向色差（LoCA）是高对比度边缘的绿粉条纹，光学难预防，后处理难去除，是常见光学缺陷。",
-      "recommendation": "深入解析纵向色差的物理成因与校正难点，提供光学设计与后期处理的实用视角，适合追求画质的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What Is Longitudinal Chromatic Aberration and Why Is it So Hard to Correct?"
-    },
-    {
-      "id": "recvmwUcJMcdAr",
-      "title": "将自己置于画面中：加入我们的自拍迷你挑战",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/forums/threads/join-our-self-portrait-mini-challenge.4838688/",
-      "publish_time": "2026-06-14T22:00:00+08:00",
-      "summary": "本文邀请读者参与自拍迷你挑战，在摄影社区论坛分享想法，融入节日气氛，强调给予与分享的季节已到来。",
-      "recommendation": "自拍挑战结合节日氛围，引导用户实践构图与光影技巧，社区互动可激发创作灵感，适合提升自拍表现力。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Put yourself in the frame: join our self-portrait mini challenge"
-    },
-    {
-      "id": "recvmwU7ojamnn",
-      "title": "如何在编辑工作流中利用线性相机配置文件",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/14/how-to-leverage-linear-camera-profiles-in-your-editing-workflow/",
-      "publish_time": "2026-06-14T21:01:59+08:00",
-      "summary": "线性相机配置文件在Lightroom社区中流传但少人用，本文教你如何在编辑工作流中有效利用它们，提升照片处理效率与质量。",
-      "recommendation": "线性配置文件常被忽视，本文填补了实用教程空白，提供具体工作流整合方法，对追求效率的后期爱好者有直接帮助。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How to Leverage Linear Camera Profiles in Your Editing Workflow"
-    },
-    {
-      "id": "recvmwUilnjz4P",
-      "title": "蔡司Horizon变形镜头初体验：新款索尼中画幅电影摄影机的完美搭档！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/zeiss-horizon-anamorphic-first-look-the-perfect-lenses-for-the-new-sony-medium-format-cine-cameras/",
-      "publish_time": "2026-06-14T20:30:23+08:00",
-      "summary": "蔡司发布Horizon变形镜头系列，覆盖索尼Rialto 65中画幅传感器，预计每支超2万美元，是新型中画幅电影摄影机的理想搭档。",
-      "recommendation": "蔡司Horizon变形镜头覆盖中画幅传感器，2万美元级定价揭示高端电影镜头市场动向，适合关注顶级影像装备的爱好者了解技术规格与行业趋势。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "ZEISS Horizon Anamorphic First Look: The perfect lenses for the new Sony medium format Cine cameras!"
-    },
-    {
-      "id": "recvmwUfrsA8Rg",
-      "title": "网上的人真傻：这款相机很棒",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/people-on-the-internet-are-dumb-this-camera-is-great",
-      "publish_time": "2026-06-14T20:30:00+08:00",
-      "summary": "文章反驳对松下Lumix L10的批评，指出其作为入门级数码单反相机，具备1010万像素、Live View功能等核心参数，性价比高，适合新手使用。",
-      "recommendation": "反驳网络偏见，解析松下L10的1010万像素与Live View功能，为入门用户提供实用选购参考，数据扎实。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "People on the internet are dumb: This camera is great"
-    },
-    {
-      "id": "recvmwU9VdHmbh",
-      "title": "为你的摄影带来新视角",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/14/giving-your-photography-a-new-perspective/",
-      "publish_time": "2026-06-14T20:00:40+08:00",
-      "summary": "摄影捕捉光影，但关键在于在二维图像中描绘深度，理解深度运作能让照片更具吸引力。",
-      "recommendation": "从二维平面解析深度感知的摄影技巧，提供构图与光影的实操方法论，适合提升作品层次。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Giving Your Photography a New Perspective"
-    },
-    {
-      "id": "recvmvN2Ywj4uz",
-      "title": "天文摄影师的3款经济相机套件（第二部分）",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/14/the-3-economic-camera-kits-for-astrophotographers-part-2/",
-      "publish_time": "2026-06-14T18:00:00+08:00",
-      "summary": "本文介绍三款经济相机套件，适合天文摄影，强调低光性能与性价比，帮助用户以较低成本记录星空美景。",
-      "recommendation": "三款经济相机套件实测，突出低光性能与性价比，提供星空拍摄的实用器材搭配方案。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 3 Economic Camera Kits for Astrophotographers (Part 2)"
-    },
-    {
-      "id": "recvmvMULEcHSF",
-      "title": "世界最著名水下探险家打造了一款相机，随后称霸海浪",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/the-worlds-best-known-underwater-explorer-created-a-camera-that-went-on-to-rule-the-waves",
-      "publish_time": "2026-06-14T17:10:00+08:00",
-      "summary": "世界最著名水下探险家打造了一款有缺陷的半格胶片相机，随后称霸海浪，现成为收藏家追捧对象。",
-      "recommendation": "揭秘传奇水下探险家打造的半格胶片相机，从缺陷设计到收藏界新宠的逆袭故事，为影像爱好者提供独特的历史视角与产品洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The world's best-known underwater explorer created a camera that went on to rule the waves"
-    },
-    {
-      "id": "recvmvN0w49cz0",
-      "title": "促销：Pixel 10系列降价并赠送Google TV Streamer，Galaxy S26+打折",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_pixel_10_phones_come_with_price_cuts_and_a_free_google_tv_streamer_galaxy_s26_discounted-news-73255.php",
-      "publish_time": "2026-06-14T17:03:02+08:00",
-      "summary": "谷歌促销：购买Pixel 10系列手机，免费获赠Google TV Streamer和世界杯主题配件，可观看比赛直播。",
-      "recommendation": "Pixel 10系列促销含赠品，影像爱好者可关注其计算摄影升级与世界杯直播场景的拍摄体验，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: Pixel 10 phones come with price cuts and a free Google TV Streamer, Galaxy S26+ discounted"
-    },
-    {
-      "id": "recvmvN64mMBDR",
-      "title": "每位摄影师都需要的作品集评审",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/14/by-appointment-only-were-doing-portfolio-reviews-copy-copy-3/",
-      "publish_time": "2026-06-14T15:00:00+08:00",
-      "summary": "社交媒体算法偏爱视频，但照片仍可获更多互动。Phoblographer提供实惠的个人摄影作品集审阅服务，助你提升图像冲击力。",
-      "recommendation": "文章聚焦照片作品集审阅服务，提供提升图像冲击力的实用建议，对追求摄影进阶的爱好者有具体价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Portfolio Review Every Photographer Needs"
-    },
-    {
-      "id": "recvmvMXHNWAiU",
-      "title": "这台冰箱大小的宝丽来相机——安迪·沃霍尔、安塞尔·亚当斯和莎莉·曼恩曾使用——已被修复，正与现代艺术家一起环游世界",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/this-fridge-sized-polaroid-camera-used-by-andy-warhol-ansel-adams-and-sally-mann-has-been-restored-and-is-touring-the-world-with-modern-artists",
-      "publish_time": "2026-06-14T14:15:00+08:00",
-      "summary": "纪录片《20x24项目》讲述一台235磅宝丽来相机从1976年至今被修复后，随现代艺术家环游世界的故事。",
-      "recommendation": "揭秘235磅宝丽来相机从1976年至今的修复历程，含安迪·沃霍尔等大师使用细节，为影像爱好者提供计算摄影时代前的机械美学与历史视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This fridge-sized Polaroid camera – used by Andy Warhol, Ansel Adams and Sally Mann – has been restored and is touring the world with modern artists"
-    },
-    {
-      "id": "recvmuBNFtaQmp",
-      "title": "富士X Half被批为‘2025年最差相机’，为何这种评价有失偏颇",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/14/fujifilm-x-half-review-update-062026/",
-      "publish_time": "2026-06-14T12:00:00+08:00",
-      "summary": "富士X Half被批为2025年最差相机，但文章认为这种评价有失偏颇，强调其独特价值与性能优势。",
-      "recommendation": "文章反驳了富士X Half的负面评价，提供独特视角解析其设计逻辑与成像性能，适合关注小众相机价值的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm’s X Half was Panned as the ‘Worst Camera of 2025,’ Here’s Why They’re Wrong"
-    },
-    {
-      "id": "recvmuBJ4D6S0W",
-      "title": "你的下一张照片可能赢得一款最适合创作者的顶级专业相机——它还有取景器！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/your-next-photo-could-win-you-one-of-the-best-pro-featured-cameras-for-creators-and-it-has-a-viewfinder",
-      "publish_time": "2026-06-14T11:20:00+08:00",
-      "summary": "2026年醒酒器葡萄酒摄影大赛征集最佳葡萄酒图像，涵盖风景至抽象题材，获胜者可获顶级专业相机",
-      "recommendation": "葡萄酒摄影大赛征集作品，获奖者可获顶级专业相机，含取景器设计，对创作者有吸引力。常规赛事资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Your next photo could win you one of the best pro-featured cameras for creators – and it has a viewfinder!"
-    },
-    {
-      "id": "recvmuBPVLM7HR",
-      "title": "尼康美国延长保修计划",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/13/nikon-usa-extended-care-plans.aspx/",
-      "publish_time": "2026-06-14T10:22:33+08:00",
-      "summary": "尼康美国提供Nikon Care和Care+两种延保计划，其中3年Care+保护计划适用于无反和单反相机，价格区间$2001-$2500。",
-      "recommendation": "尼康延保计划价格区间与覆盖机型数据明确，对考虑购买高端无反/单反的用户有直接参考价值，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon USA extended care plans"
-    },
-    {
-      "id": "recvmuBLrz1HdD",
-      "title": "Daystar通用镜头太阳滤镜评测：一款兼顾性价比与多功能性的日食滤镜",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/daystar-universal-lens-filter-solar-filter-review",
-      "publish_time": "2026-06-14T08:10:00+08:00",
-      "summary": "Daystar通用镜头太阳滤镜采用Thousand Oaks太阳膜，价格低廉且兼容多镜头，是日食摄影和观测的高性价比首选。",
-      "recommendation": "实测Daystar通用太阳滤镜，提供Thousand Oaks膜材数据与多镜头兼容性对比，为日食摄影提供低成本方案参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Daystar Universal Lens Solar Filter review: an affordable eclipse filter that prioritizes versatility over perfection"
-    },
-    {
-      "id": "recvmsmJZtLrPb",
-      "title": "让你的运动相机看起来像迷你X100",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/make-your-action-cam-look-like-mini-x100/",
-      "publish_time": "2026-06-14T03:50:46+08:00",
-      "summary": "文章介绍如何将运动相机改装成迷你富士X100VI，利用其受欢迎的设计，提供低成本替代方案。",
-      "recommendation": "提供低成本改装方案，将运动相机变身为迷你X100VI，满足摄影爱好者对复古美学与便携性的双重追求。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Make Your Action Cam Look Like a Mini X100"
-    },
-    {
-      "id": "recvmsmD26DQ3C",
-      "title": "当大多数摄影师躲进室内，真正的魔法却在户外上演——拍摄风暴、雾气和夜空的专业技巧",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/when-most-photographers-go-indoors-the-real-magic-begins-outside-pro-tips-for-shooting-storms-fog-and-night-skies",
-      "publish_time": "2026-06-14T02:30:00+08:00",
-      "summary": "本文介绍拍摄雷暴、雾景和夜空的专业技巧，强调户外自然现象提供震撼视觉故事，指导摄影师捕捉风暴、雾气与天象奇观的核心方法。",
-      "recommendation": "本文提供雷暴、雾景与夜空拍摄的核心技巧，对追求户外自然奇观的影像爱好者有实操价值。文中未含独家数据，但深度解析了风暴与雾气的光学特性，观点独到。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "When most photographers go indoors, the real magic begins outside – Pro tips for shooting storms, fog and night skies"
-    },
-    {
-      "id": "recvmsmMhnLUxi",
-      "title": "传闻：D2 Motion将收购MRMC",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/13/rumors-mrmc-to-be-purchased-by-d2-motion.aspx/",
-      "publish_time": "2026-06-14T01:36:17+08:00",
-      "summary": "传闻澳大利亚运动控制公司D2 Motion正试图收购摄影机机器人公司MRMC，该消息最初出现在Nikon Rumors上。",
-      "recommendation": "解析运动控制与摄影机机器人领域的潜在并购，揭示影视自动化设备市场动向，对关注拍摄技术升级的爱好者有行业参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Rumors: MRMC to be purchased by D2 Motion"
     }
   ]
 }
