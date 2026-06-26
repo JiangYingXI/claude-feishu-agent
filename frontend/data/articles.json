@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-26T12:55:25.730774+08:00",
+    "updated_at": "2026-06-26T18:06:56.241445+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 22
+      "count": 23
     },
     {
       "key": "镜头与光学",
@@ -28,20 +28,114 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 32
+      "count": 34
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 415
+      "count": 416
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 153
     }
   ],
   "articles": [
+    {
+      "id": "recvnDVCZJOvc0",
+      "title": "大疆透露更多关于新款Osmo Pocket 4P相机的信息，但仍未解答关键问题——而Insta360的Luna在这方面并不避讳！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/dji-reveals-more-about-new-osmo-pocket-4p-camera-but-is-still-leaving-key-questions-unanswered-things-insta360s-luna-isnt-so-shy-about",
+      "publish_time": "2026-06-26T17:44:03+08:00",
+      "summary": "大疆发布Osmo Pocket 4P白色版，未公布价格，但可推算；Insta360 Luna则明确相关参数。",
+      "recommendation": "对比大疆Osmo Pocket 4P与Insta360 Luna的参数差异，揭示行业定价策略与产品透明度问题，为选购提供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DJI reveals more about new Osmo Pocket 4P camera but is still leaving key questions unanswered –things Insta360's Luna isn't so shy about!"
+    },
+    {
+      "id": "recvnDVAaxNKA7",
+      "title": "Oppo Reno16 评测",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_reno16_in_for_review-news-73447.php",
+      "publish_time": "2026-06-26T17:13:02+08:00",
+      "summary": "Oppo Reno16全球版与Pro版外观一致，采用6.32英寸显示屏和3D Pop Planet星云设计，延续系列性感设计风格。",
+      "recommendation": "文章对比Reno16全球版与Pro版外观设计，提供6.32英寸屏及3D Pop Planet星云设计细节，适合关注中端机型外观趋势的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo Reno16 in for review"
+    },
+    {
+      "id": "recvnDVL4JMWmJ",
+      "title": "欧洲最后Prime Day优惠",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/last-european-prime-day-deals/",
+      "publish_time": "2026-06-26T15:25:30+08:00",
+      "summary": "亚马逊欧洲多国Prime Day最后24小时促销，索尼相机镜头大幅优惠，第三方产品折扣多。",
+      "recommendation": "欧洲Prime Day最后24小时，索尼相机镜头及第三方配件折扣汇总，适合近期有购入计划的影像爱好者快速锁定优惠。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Last European Prime Day Deals"
+    },
+    {
+      "id": "recvnDVFME4SWN",
+      "title": "第三方相机镜头曾因一个关键原因流行，但日本最新热门镜头暗示购买非原厂光学元件的完全不同理由",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/third-party-camera-lenses-used-to-be-popular-for-one-key-reason-but-the-latest-trending-lenses-in-japan-hint-at-an-entirely-different-reason-for-buying-non-native-optics",
+      "publish_time": "2026-06-26T15:00:00+08:00",
+      "summary": "第三方镜头因价格实惠和独特焦距流行，日本最新热门镜头显示购买非原厂光学元件的新理由",
+      "recommendation": "解析第三方镜头从性价比到光学创新的转变，日本最新热门镜头案例揭示非原厂元件的新价值，提供行业趋势与选购参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Third-party camera lenses used to be popular for one key reason, but the latest trending lenses in Japan hint at an entirely different reason for buying non-native optics"
+    },
+    {
+      "id": "recvnDVNIKSlOO",
+      "title": "Thypoch Voyager 24-50mm F2.8评测：比索尼镜头更好？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/26/thypoch-voyager-24-50mm-f2-8-review/",
+      "publish_time": "2026-06-26T15:00:00+08:00",
+      "summary": "Thypoch Voyager 24-50mm F2.8 FE是首款第三方自动对焦变焦镜头，性能可能超越原厂，值得考虑替代索尼镜头。",
+      "recommendation": "对比索尼原厂镜头的第三方自动对焦变焦镜头评测，提供MTF曲线与实拍样张数据，分析其光学性能与性价比优势。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Thypoch Voyager 24-50mm F2.8 Review: Better Than a Sony Lens?"
+    },
+    {
+      "id": "recvnDVwXwE2Cr",
+      "title": "佳能发布Cinema EOS C80固件更新",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-releases-firmware-update-for-the-cinema-eos-c80/",
+      "publish_time": "2026-06-26T14:27:19+08:00",
+      "summary": "佳能发布Cinema EOS C80固件v1.0.6.1，为中级更新，包含新功能和错误修复，支持全画幅19.05MP传感器。",
+      "recommendation": "佳能Cinema EOS C80固件更新，支持全画幅19.05MP传感器，对视频创作者有实用价值，但属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Canon Releases Firmware Update for the Cinema EOS C80"
+    },
     {
       "id": "recvnCFnCgBJlZ",
       "title": "过去10年最佳旅行相机TOP 6",
@@ -1273,6 +1367,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Sony FX5 has been \"confirmed\" for July –with a global shutter sensor and \"mini Venice\" cinema features"
+    },
+    {
+      "id": "recvnDVIqVceQs",
+      "title": "索尼FX5“确认”7月发布：搭载全局快门传感器和5K开放门视频",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+      "publish_time": "2026-06-25T00:41:13+08:00",
+      "summary": "索尼FX5预计7月发布，搭载全局快门传感器和5K开放门视频，规格强劲。",
+      "recommendation": "全局快门传感器与5K开放门视频规格曝光，对视频创作者有明确参考价值，但缺乏实测数据与竞品对比。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Sony FX5 has been \"confirmed\" for July –with a global shutter sensor and 5K open gate video"
     },
     {
       "id": "recvnuKaOpAVYx",
@@ -7695,114 +7805,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "DxO Father’s Day Promotion: 20% Off Everything using Our Coupon Code"
-    },
-    {
-      "id": "recvmEqvq3WOKQ",
-      "title": "科学家首次在自然栖息地拍摄到‘恐怖电影’级欧氏尖吻鲨",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/15/scientists-capture-first-ever-footage-of-horror-movie-goblin-shark-in-its-natural-habitat/",
-      "publish_time": "2026-06-16T00:49:59+08:00",
-      "summary": "科学家首次在自然栖息地拍摄到深海哥布林鲨，继大白鲨水下影像后又一突破",
-      "recommendation": "深海哥布林鲨自然栖息地影像首度公开，提供极端弱光环境下的拍摄参数与生物行为数据，对水下摄影爱好者有技术参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Scientists Capture First-Ever Footage of ‘Horror Movie’ Goblin Shark in its Natural Habitat"
-    },
-    {
-      "id": "recvmEr705HEa7",
-      "title": "尼康Z卡口新福伦达Nokton Classic 35mm f/1.4镜头更多信息",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/15/additional-information-on-the-new-voigtlander-nokton-classic-35mm-f-1-4-lens-for-nikon-z-mount.aspx/",
-      "publish_time": "2026-06-16T00:42:03+08:00",
-      "summary": "确善能宣布福伦达Nokton Classic 35mm f/1.4镜头将于2026年7月发布，成为第15款尼康Z卡口福伦达镜头。",
-      "recommendation": "确善能确认福伦达Nokton Classic 35mm f/1.4 Z卡口版2026年7月发布，成为第15款Z口福伦达镜头。提供具体发布时间和产品序列信息，适合关注尼康Z卡口副厂镜头生态的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Additional information on the new Voigtlander Nokton Classic 35mm f/1.4 lens for Nikon Z mount"
-    },
-    {
-      "id": "recvmErk04EI9z",
-      "title": "尼康过去10年最好的镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/15/the-best-lens-nikon-made-in-the-past-10-years/",
-      "publish_time": "2026-06-16T00:00:00+08:00",
-      "summary": "尼康2016年推出的一款镜头，成像极佳，从未拍出糟糕照片，虽缺乏个性但令人着迷，是过去10年最佳镜头之一。",
-      "recommendation": "解析尼康2016年一款成像极佳但个性不足的镜头，提供对光学素质与使用体验的深度观点，适合镜头收藏与评测爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Best Lens Nikon Made in the Past 10 Years"
-    },
-    {
-      "id": "recvmHSwBg6dux",
-      "title": "新版Adobe Premiere隐藏新胶片颗粒效果、更简单的字幕、更快的遮罩等最新更新",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/video-editing/the-new-premiere-hides-a-new-film-grain-effect-simpler-captions-faster-masking-and-more-inside-the-latest-update",
-      "publish_time": "2026-06-15T23:59:23+08:00",
-      "summary": "Adobe Premiere 2026年6月更新新增胶片颗粒效果、简化字幕制作、加速遮罩等工具，提升视频编辑效率与创意。",
-      "recommendation": "Premiere更新新增胶片颗粒与遮罩加速，对视频创作者是实用工具升级。文章无独家数据，属常规资讯，可了解行业动态。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The new Adobe Premiere hides a new film grain effect, simpler captions, faster masking and more inside the latest update"
-    },
-    {
-      "id": "recvmEqWQz3Nds",
-      "title": "荣耀机器人手机在上海国际电影节上被使用",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_honor_robot_phone_was_used_at_theshanghai_international_film_festival-news-73274.php",
-      "publish_time": "2026-06-15T23:57:02+08:00",
-      "summary": "荣耀机器人手机在上海国际电影节被《Elle Men》用于拍摄评委电影级视频肖像，因其独特云台系统被选中，计划第三季度发布。",
-      "recommendation": "揭秘荣耀机器人手机云台系统在电影级拍摄中的实战表现，含Elle Men使用场景与第三季度发布节点，对关注手机影像创新的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Honor Robot Phone was used at the Shanghai International Film Festival"
-    },
-    {
-      "id": "recvmEr9Ghh6hv",
-      "title": "照片编辑软件最新折扣（DxO、Aftershoot、Luminar、ON1）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/15/the-latest-discounts-on-photo-editing-software-dxo-aftershoot-luminar-on1.aspx/",
-      "publish_time": "2026-06-15T23:47:04+08:00",
-      "summary": "DxO夏季促销八折优惠码SummerRumors2026（新用户，6月15日至7月10日），Aftershoot优惠码RUMORS享15%折扣",
-      "recommendation": "汇总DxO、Aftershoot等四款软件折扣码，含具体优惠幅度与有效期，适合计划升级照片编辑工具的影像爱好者快速比价。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The latest discounts on photo editing software (DxO, Aftershoot, Luminar, ON1)"
-    },
-    {
-      "id": "recvmEqFxkRVQP",
-      "title": "Insta360与DJI新法庭之争对Luna Ultra和Osmo Pocket 4P相机意味着什么",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/what-insta360-and-djis-new-court-battle-means-for-the-luna-ultra-and-the-osmo-pocket-4p-cameras",
-      "publish_time": "2026-06-15T23:11:57+08:00",
-      "summary": "大疆与Insta360再次对簿公堂，但这场专利战不影响消费者选择Luna Ultra或Osmo Pocket 4P相机，两者均保持现有功能与参数。",
-      "recommendation": "解析Insta360与DJI专利战对Luna Ultra和Osmo Pocket 4P的影响，提供行业竞争视角，助你理性看待产品选择。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What Insta360 and DJI's new court battle means for the Luna Ultra and the Osmo Pocket 4P cameras"
     }
   ]
 }
