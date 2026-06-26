@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-26T23:19:34.446630+08:00",
+    "updated_at": "2026-06-27T04:24:22.621259+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 27
+      "count": 28
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 35
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,166 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 153
     }
   ],
   "articles": [
+    {
+      "id": "recvnGr9Soh3DB",
+      "title": "更新版唯卓仕2026年镜头路线图（全系镜头八折优惠今日截止）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/26/updated-viltrox-2026-lens-roadmap-20-off-all-viltrox-lenses-ends-today.aspx/",
+      "publish_time": "2026-06-27T03:38:29+08:00",
+      "summary": "唯卓仕2026年将发布多款尼康Z卡口镜头，包括18mm f/1.2、26mm f/2.8饼干头等，目前全系镜头八折优惠今日截止。",
+      "recommendation": "唯卓仕2026年镜头路线图曝光18mm f/1.2等新品，含Z卡口饼干头规格，附全系八折截止提醒，适合关注副厂镜头动态的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Updated Viltrox 2026 lens roadmap (20% off all Viltrox lenses ends today)"
+    },
+    {
+      "id": "recvnGrcGq15Sd",
+      "title": "你最爱电影的画面就在这里",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/26/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy/",
+      "publish_time": "2026-06-27T03:00:00+08:00",
+      "summary": "Vista预设适用于Lightroom和Capture One，价格实惠，专为影棚和自然光线设计，提升街头、风景、人像等图像效果。",
+      "recommendation": "文章详解Vista预设的影棚与自然光适配特性，提供街头、人像等场景的调色思路，对追求高效色彩风格的摄影师有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Look of Your Favorite Films are Right Here"
+    },
+    {
+      "id": "recvnGqNNkZRyF",
+      "title": "足球胶片星期五：一次性相机中的柯达Tri-X",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/26/football-film-friday-kodak-tri-x-in-a-disposable/",
+      "publish_time": "2026-06-27T01:25:58+08:00",
+      "summary": "文章介绍足球胶片星期五活动，使用一次性相机中的柯达Tri-X胶片拍摄足球比赛，强调胶片摄影的独特质感和怀旧价值。",
+      "recommendation": "用一次性相机中的柯达Tri-X拍摄足球赛，探索胶片高感光度在动态场景下的表现，提供独特的颗粒质感与怀旧视角，适合追求胶片摄影美学的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Football Film Friday: Kodak Tri-X in a Disposable"
+    },
+    {
+      "id": "recvnGqQRbBQmY",
+      "title": "Oberwerth皮革D-Lux 8相机包：安全防护，随时待命",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/26/oberwerths-leather-d-lux-8-case-keeps-it-safe-but-always-ready/",
+      "publish_time": "2026-06-27T01:04:11+08:00",
+      "summary": "Oberwerth为徕卡D-Lux 8推出保护套，完美贴合相机，提供缓冲保护，保留接口访问，支持快速开合，避免错过重要时刻。",
+      "recommendation": "针对徕卡D-Lux 8用户，详述Oberwerth皮革保护套的贴合度、缓冲防护及接口保留设计，提供实用配件选择参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oberwerth’s Leather D-Lux 8 Case Keeps It Safe, But Always Ready"
+    },
+    {
+      "id": "recvnGqZ0mcL0R",
+      "title": "尼康史上最轻70-200mm F2.8更新版实测",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/9432314392/nikon-z-70-200mm-f2p8-vr-s-ii-sample-gallery-impressions",
+      "publish_time": "2026-06-27T01:00:00+08:00",
+      "summary": "尼康推出尼克尔Z 70-200 F2.8 VR S II镜头，实测拍摄人像与消防飞机，评估使用感受与成像效果。",
+      "recommendation": "实测尼康最轻70-200mm F2.8镜头，含人像与消防飞机样张，提供重量、对焦速度等关键数据，适合关注长焦便携性与画质的用户。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "We put Nikon's updated and lighter-than-ever 70-200mm F2.8 to the test"
+    },
+    {
+      "id": "recvnGqTF70uaC",
+      "title": "哈勃拍摄到发光宇宙吊灯的美丽照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/26/hubble-delivers-beautiful-photo-of-a-glowing-cosmic-chandelier/",
+      "publish_time": "2026-06-27T00:26:51+08:00",
+      "summary": "哈勃望远镜拍摄球状星团NGC 6723，其密集恒星如宇宙吊灯灯光，展现深空之美。",
+      "recommendation": "哈勃深空影像解析球状星团NGC 6723的密集恒星结构，提供天文摄影构图参考与光学解析力数据，适合影像爱好者拓展拍摄视野。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Hubble Delivers Beautiful Photo of a Glowing Cosmic Chandelier"
+    },
+    {
+      "id": "recvnGqWfo5i3a",
+      "title": "索尼相机十大优惠推荐：从入门到旗舰一网打尽",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/26/top-10-sony-camera-deals-right-now-from-entry-level-to-flagship/",
+      "publish_time": "2026-06-27T00:19:39+08:00",
+      "summary": "B&H促销索尼全线相机，从入门APS-C到旗舰全画幅均有优惠，部分促销6月28日截止。",
+      "recommendation": "覆盖索尼APS-C至全画幅全线促销，含具体机型与截止日期，适合近期购机者比价参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Top 10 Sony Camera Deals Right Now, From Entry Level to Flagship"
+    },
+    {
+      "id": "recvnGrflrbxq1",
+      "title": "2016年最佳4款变焦镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/26/the-4-best-zoom-lenses-from-2016/",
+      "publish_time": "2026-06-27T00:00:00+08:00",
+      "summary": "变焦镜头是绝佳之选，可近距离观察远处景物，免去携带多个镜头的负担。2016年最佳四款变焦镜头推荐，涵盖核心参数与数据。",
+      "recommendation": "回顾2016年四款变焦镜头核心参数，为影像爱好者提供历史产品对比参考，含具体光圈与焦段数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The 4 Best Zoom Lenses From 2016"
+    },
+    {
+      "id": "recvnGr1D28rVQ",
+      "title": "Prime Day今晚午夜（美东时间）结束——这14个最佳相机优惠你应在促销结束前看看！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/prime-day-ends-at-midnight-et-tonight-these-are-the-14-best-camera-deals-that-you-should-check-out-before-the-sale-ends",
+      "publish_time": "2026-06-26T23:54:45+08:00",
+      "summary": "Prime Day今晚午夜结束，精选14个最佳相机优惠，包括核心技术参数和数据，促销结束前值得一看。",
+      "recommendation": "Prime Day相机优惠汇总，含14款机型核心参数与价格对比，适合近期有购机计划的影像爱好者快速筛选。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Prime Day ends at Midnight (ET) tonight - these are the 14 best camera deals that you should check out before the sale ends!"
+    },
+    {
+      "id": "recvnGr72iGp2n",
+      "title": "vivo X Fold6发布：200MP主摄+7000mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x_fold6_arrives_with_200mp_main_cam_and_7000mah_battery-news-73471.php",
+      "publish_time": "2026-06-26T23:29:03+08:00",
+      "summary": "vivo X Fold6发布，搭载200MP蔡司主摄和7000mAh电池，配备50MP超广角和50MP长焦，支持3倍光学变焦，是X Fold5的升级版。",
+      "recommendation": "200MP蔡司主摄与7000mAh电池组合是折叠屏影像的突破，50MP双长焦配置提供焦段覆盖，适合关注折叠屏手机影像性能的读者。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "vivo X Fold6 arrives with 200MP main cam and 7,000mAh battery"
+    },
     {
       "id": "recvnFbSZW9l6e",
       "title": "柯达超热门便携式傻瓜相机在Prime Day降至100美元以下",
@@ -789,6 +945,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "A smart bird feeder camera is a great purchase for any wildlife fan – and there are some brilliant discounts in the Prime Day sale!"
+    },
+    {
+      "id": "recvnGr4j0juOd",
+      "title": "智能鸟类喂食器摄像头是野生动物爱好者的绝佳选择——Prime Day促销最后几小时仍有超值优惠！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bird-feeder-cameras/a-smart-bird-feeder-camera-is-a-great-purchase-for-any-wildlife-fan-and-there-are-some-brilliant-discounts-in-the-prime-day-sale",
+      "publish_time": "2026-06-25T21:40:00+08:00",
+      "summary": "亚马逊Prime Day促销最后几小时，智能鸟类喂食器摄像头超值优惠，适合野生动物爱好者抢购。",
+      "recommendation": "Prime Day智能鸟类喂食器摄像头促销，提供野生动物观察新视角，适合影像爱好者拓展拍摄场景。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A smart bird feeder camera is a great purchase for any wildlife fan – and there are some brilliant deals left in the final hours of the Prime Day sale!"
     },
     {
       "id": "recvnzol1wTCsY",
@@ -7637,173 +7808,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The new Sharp Aquos R11 gains a 38.5MP tele camera, Snapdragon 8s Gen 4 chipset"
-    },
-    {
-      "id": "recvmHSBBogXn0",
-      "title": "年轻旅行摄影师必备的3款相机套件（下）",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/16/3-must-have-camera-kits-for-young-travel-photographers-part-2/",
-      "publish_time": "2026-06-16T18:00:00+08:00",
-      "summary": "本文推荐3款适合年轻旅行摄影师的相机套件，强调便携性与画质平衡，包括索尼A7C、富士X-T30 II和奥林巴斯OM-D E-M10 Mark IV，均配备变焦镜头，适合记录旅途文化。",
-      "recommendation": "三款旅行相机套件横向对比，聚焦索尼A7C、富士X-T30 II与奥林巴斯E-M10 IV的便携性与画质平衡，提供变焦镜头配置建议，适合旅行摄影爱好者选机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "3 Must-Have Camera Kits for Young Travel Photographers (Part 2)"
-    },
-    {
-      "id": "recvmHSGuG3cC9",
-      "title": "日本最新销量排行榜",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-japanese-sales-rankings/",
-      "publish_time": "2026-06-16T17:52:06+08:00",
-      "summary": "日本5月相机销售排名显示富士多款机型领先，索尼α7V等紧随其后，哈苏X2D II 100C在Yodobashi排名第一。",
-      "recommendation": "榜单揭示富士与哈苏在高端市场的强势地位，索尼α7V紧随其后，提供日本市场最新消费偏好数据，助你把握行业趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New Japanese sales rankings:"
-    },
-    {
-      "id": "recvmHSgtBMB4y",
-      "title": "如何将照片传输到电脑：三种简单方法从相机中取出照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/how-to-transfer-photos-to-a-computer",
-      "publish_time": "2026-06-16T17:45:53+08:00",
-      "summary": "本文介绍了三种简单方法将相机照片传输到电脑，包括使用USB线、读卡器或无线传输，帮助用户快速备份和编辑照片。",
-      "recommendation": "文章提供三种传输方法，适合新手快速掌握备份技巧，但缺乏独家数据或深度观点，属常规技术科普。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "How to transfer photos to a computer: Three easy ways to get your pictures off your camera"
-    },
-    {
-      "id": "recvmHSiQpjXiy",
-      "title": "柯达最畅销的紧凑型相机降至仅99美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/kodaks-best-selling-compact-camera-drops-to-just-usd99",
-      "publish_time": "2026-06-16T17:27:28+08:00",
-      "summary": "柯达Pixpro FZ45紧凑型相机降至99美元，是抢购这款畅销相机的绝佳时机。",
-      "recommendation": "99美元价格点揭示入门级相机市场现状，适合预算有限的新手或收藏者了解低价位产品动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Kodak's best-selling compact camera drops to just $99"
-    },
-    {
-      "id": "recvmHSkZ3RAaJ",
-      "title": "全球最大摄影大赛迎来20周年，巨额奖金等你来拿",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/the-worlds-biggest-photo-competition-opens-for-entries-with-huge-cash-prizes-up-for-grabs-in-its-20th-year",
-      "publish_time": "2026-06-16T16:20:00+08:00",
-      "summary": "全球最大摄影大赛索尼世界摄影奖20周年，最高奖金25000美元，每年吸引数十万摄影师参赛，获奖者获广泛认可。",
-      "recommendation": "索尼世界摄影奖20周年奖金达25000美元，提供参赛门槛与行业认可度数据，适合关注赛事动态的摄影爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The world's biggest photo competition opens for entries with huge cash prizes up for grabs in its 20th year"
-    },
-    {
-      "id": "recvmHSnfEcBuc",
-      "title": "佳能EOS RP全画幅相机现仅售799美元，超值优惠",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-canon-eos-rp-is-now-only-usd799-in-this-brilliant-full-frame-camera-deal",
-      "publish_time": "2026-06-16T15:38:00+08:00",
-      "summary": "佳能EOS RP全画幅相机现仅售799美元，作为入门级全画幅相机性价比极高。",
-      "recommendation": "佳能EOS RP降至799美元，为入门全画幅用户提供低价选择，含具体售价与定位分析，适合预算有限者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Canon EOS RP is now only $799 in this brilliant full-frame camera deal"
-    },
-    {
-      "id": "recvmHSpxYbiUN",
-      "title": "25岁摄影师说服玛丽莲·梦露在泳池裸泳的那一天：劳伦斯·席勒关于电影偶像的非凡回忆录",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/the-day-a-25-year-old-photographer-convinced-marilyn-monroe-to-go-nude-in-a-swimming-pool-lawrence-schillers-remarkable-memoir-of-movie-icon",
-      "publish_time": "2026-06-16T15:15:00+08:00",
-      "summary": "为纪念梦露诞辰百年重版《玛丽莲与我》，讲述摄影师席勒如何说服她在泳池裸泳，堪称最引人入胜的杂志摄影书籍之一。",
-      "recommendation": "揭秘席勒如何以摄影技巧说服梦露裸泳，含独家拍摄幕后与人物互动细节，对理解人像摄影中的沟通与信任构建有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The day a 25-year-old photographer convinced Marilyn Monroe to go nude in a swimming pool: Lawrence Schiller's remarkable memoir of a movie icon"
-    },
-    {
-      "id": "recvmHSE43qo6f",
-      "title": "会员新福利：免费预设盲盒",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/16/new-perk-for-members-a-free-mystery-box-of-presets/",
-      "publish_time": "2026-06-16T15:00:00+08:00",
-      "summary": "Phobographer会员新增免费预设盲盒福利，含无广告、Capture One折扣等，邮件申请即可。",
-      "recommendation": "Phobographer会员新增免费预设盲盒福利，含无广告及Capture One折扣，邮件即可申请。常规资讯，可了解行业动态。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Perk for Members: A Free Mystery Box of Presets"
-    },
-    {
-      "id": "recvmHSrSMXDxA",
-      "title": "打破神话：卡罗尔·艾伦-斯托里长达十年的纪录片项目是年度最具影响力的摄影书籍之一",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/defying-the-myth-carol-allen-storeys-decade-long-documentary-project-is-one-of-the-most-powerful-photography-books-of-the-year",
-      "publish_time": "2026-06-16T14:30:00+08:00",
-      "summary": "与三位单亲母亲共同生活超10年，抚养严重残疾孩子，成就技术精湛的摄影书籍，年度最具影响力之一",
-      "recommendation": "十年跟拍三位单亲母亲与残疾子女，揭示纪实摄影中情感与技术平衡的深度案例，提供罕见长期项目方法论。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Defying the Myth: Carol Allen-Storey's decade-long documentary project is one of the most powerful photography books of the year"
-    },
-    {
-      "id": "recvmHSugkivKA",
-      "title": "日本最畅销相机前五中四款来自同一品牌（非佳能或索尼），潮流紧凑型相机重返榜首",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/4-of-the-top-5-cameras-in-japan-come-from-a-single-brand-and-its-not-canon-or-sony-as-a-trendy-compact-camera-returns-to-1",
-      "publish_time": "2026-06-16T14:15:00+08:00",
-      "summary": "日本最新销售数据显示，X100VI重返榜首，将长期占据首位的索尼A7 V挤至次席，前五中四款来自同一品牌",
-      "recommendation": "日本市场最新销售数据揭示X100VI逆袭登顶，前五中四款同品牌，为关注紧凑相机趋势与品牌格局的读者提供独家榜单分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "4 of the top 5 cameras in Japan come from a single brand (and it’s not Canon or Sony) as a trendy compact camera returns to #1"
-    },
-    {
-      "id": "recvmUD1tY4Mtq",
-      "title": "一款爆款紧凑型相机将索尼A7 V挤出日本销量榜首，前五名中有四款来自同一品牌",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/4-of-the-top-5-cameras-in-japan-come-from-a-single-brand-and-its-not-canon-or-sony-as-a-trendy-compact-camera-returns-to-1",
-      "publish_time": "2026-06-16T14:15:00+08:00",
-      "summary": "日本最新销售数据显示，X100VI重回榜首，取代长期占据首位的索尼A7 V，前五名中四款来自同一品牌。",
-      "recommendation": "日本销量榜单揭示紧凑型相机逆袭趋势，X100VI击败索尼A7 V，前五名四款同品牌数据值得关注。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A  viral compact camera has pushed the Sony A7 V out of the top sales spot in Japan, as 4 of the top 5 cameras come from a single brand"
     }
   ]
 }
