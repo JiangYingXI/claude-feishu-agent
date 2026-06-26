@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-26T04:37:00.553909+08:00",
+    "updated_at": "2026-06-26T12:55:25.730774+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 110
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 30
+      "count": 28
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,56 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 154
+      "count": 155
     }
   ],
   "articles": [
+    {
+      "id": "recvnCFnCgBJlZ",
+      "title": "过去10年最佳旅行相机TOP 6",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/26/the-6-best-travel-cameras-of-the-past-10-years/",
+      "publish_time": "2026-06-26T12:00:00+08:00",
+      "summary": "本文评选过去10年最佳旅行相机TOP6，涵盖索尼A7RIII、富士X-T4等机型，强调便携性与画质平衡，为旅行摄影爱好者提供选购参考。",
+      "recommendation": "盘点近10年6款旅行相机，聚焦索尼A7RIII、富士X-T4等机型，提供便携与画质平衡的选购参考，适合旅行摄影爱好者快速锁定目标。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 6 Best Travel Cameras of the Past 10 Years"
+    },
+    {
+      "id": "recvnCFi4a8HmM",
+      "title": "Nothing Phone (4b) 关键规格曝光，或搭载5400mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/nothing_phone_4b_key_specs_tipped_may_pack_a_5400mah_battery-news-73446.php",
+      "publish_time": "2026-06-26T11:03:01+08:00",
+      "summary": "Nothing Phone (4b) 将于7月7日发布，配备6.7英寸120Hz AMOLED屏、5000万像素主摄和5400mAh电池。",
+      "recommendation": "曝光Nothing Phone (4b) 5000万像素主摄与5400mAh电池规格，影像配置未超预期，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nothing Phone (4b) key specs tipped, may pack a 5,400mAh battery"
+    },
+    {
+      "id": "recvnCFl8WdifP",
+      "title": "亚马逊美国Prime Day促销：Google Pixel 10 Pro和10 Pro XL降价",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/amazon_us_prime_day_deals_the_google_pixel_10_pro_and_10_pro_xl_are_on_sale-news-73444.php",
+      "publish_time": "2026-06-26T05:49:02+08:00",
+      "summary": "亚马逊Prime Day促销中，Google Pixel 10 Pro和10 Pro XL降价，两者均搭载相同处理器，主要区别在于屏幕尺寸和电池容量。",
+      "recommendation": "Prime Day降价信息，Pixel 10 Pro系列影像规格一致，屏幕与电池差异对摄影体验影响有限，适合关注性价比的影像用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Amazon US Prime Day deals: the Google Pixel 10 Pro and 10 Pro XL are on sale"
+    },
     {
       "id": "recvnADumhsijJ",
       "title": "Kipon发布全球首款内置可变ND的专业PL卡口转接环",
@@ -7757,54 +7803,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "What Insta360 and DJI's new court battle means for the Luna Ultra and the Osmo Pocket 4P cameras"
-    },
-    {
-      "id": "recvmEqHXCEb7h",
-      "title": "Lightroom 新增照片转视频功能，但这是 Adobe 首款在 Lightroom 内使用生成式积分的工具",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/lightroom-has-just-gained-the-ability-to-turn-photos-into-videos-but-its-the-first-adobe-made-tool-to-use-generative-credits-inside-lightroom",
-      "publish_time": "2026-06-15T23:07:59+08:00",
-      "summary": "Lightroom桌面版新增AI功能，可将照片转换为视频，但需消耗生成积分，这是Adobe首款在Lightroom内使用生成式积分的工具。",
-      "recommendation": "揭示Adobe首次将生成式积分引入Lightroom，对依赖AI修图的用户有直接成本影响，值得关注积分消耗规则。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Lightroom has just gained the ability to turn photos into videos – but it’s the first Adobe-made tool to use generative credits inside Lightroom"
-    },
-    {
-      "id": "recvmEqKtGV0nu",
-      "title": "七工匠即将推出尼康Z卡口首款自动对焦镜头，超轻量设计",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/7artisans-is-about-to-introduce-its-first-ever-autofocus-lenses-for-nikon-z-mirrorless-cameras-and-they-are-super-lightweight",
-      "publish_time": "2026-06-15T23:04:27+08:00",
-      "summary": "七工匠将于明天发布尼康Z卡口首款自动对焦镜头，包括25mm、35mm和50mm f/1.8 Lite定焦，超轻量设计，适用于APS-C用户。",
-      "recommendation": "七工匠首款尼康Z卡口自动对焦镜头发布，25/35/50mm f/1.8 Lite超轻量设计，为APS-C用户提供高性价比定焦选择，填补副厂自动头空白。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "7artisans is about to introduce its first-ever autofocus lenses for Nikon Z mirrorless cameras and they are super-lightweight"
-    },
-    {
-      "id": "recvmEqxKqIzLx",
-      "title": "Adobe为Lightroom和Photoshop中的AI功能增加更多用户控制",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/15/adobe-adds-more-user-control-to-ai-features-inside-lightroom-and-photoshop/",
-      "publish_time": "2026-06-15T23:00:52+08:00",
-      "summary": "Adobe为Lightroom和Photoshop的AI功能增加用户控制，帮助摄影师快速筛选照片，节省时间。",
-      "recommendation": "Adobe为Lightroom和Photoshop的AI功能增加用户控制，帮助摄影师更高效筛选照片，节省后期时间。常规资讯，可了解行业动态。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Adobe Adds More User Control to AI Features Inside Lightroom and Photoshop"
     }
   ]
 }
