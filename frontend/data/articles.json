@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-27T04:24:22.621259+08:00",
+    "updated_at": "2026-06-27T12:40:09.422341+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 112
     },
     {
       "key": "ISP & 影像芯片",
@@ -42,6 +42,53 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvnIs3yBnNbf",
+      "title": "2014年最适合年轻摄影爱好者的5款相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/27/the-5-best-cameras-from-2014-for-young-enthusiasts/",
+      "publish_time": "2026-06-27T12:00:00+08:00",
+      "summary": "2014年推荐5款适合年轻摄影爱好者的相机，强调老式相机回归，无需高价即可获得良好性能。",
+      "recommendation": "回顾2014年老式相机回归趋势，提供5款平价机型推荐，对入门爱好者有选机参考价值，但数据与观点较常规。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The 5 Best Cameras from 2014 For Young Enthusiasts"
+    },
+    {
+      "id": "recvnIrY2b3vpn",
+      "title": "研究人员开发全新像素类型，可同时记录和显示光线",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
+      "publish_time": "2026-06-27T05:44:19+08:00",
+      "summary": "苏黎世联邦理工学院开发新型像素，可同时捕捉和显示图像，未来用于混合相机/显示设备。",
+      "recommendation": "苏黎世联邦理工新型像素实现光捕捉与显示同步，为混合相机/显示设备提供硬件基础，传感器领域前沿突破。",
+      "categories": [
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Researchers Develop All-New Pixel Type That Can Both Record and Display Light"
+    },
+    {
+      "id": "recvnIs0ZhvY4y",
+      "title": "智能手机相机拍摄野生动物效果糟糕。这款紧凑镜头在Moment迄今最长、最锐利的手机镜头中实现240mm焦距",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phone-accessories/smartphone-cameras-are-terrible-for-wildlife-photography-this-compact-lens-creates-240mm-reach-in-moments-longest-sharpest-mobile-lenses-yet",
+      "publish_time": "2026-06-27T04:18:52+08:00",
+      "summary": "Moment推出专为iPhone潜望式摄像头设计的长焦镜头，实现240mm焦距，为迄今最长最锐利的手机镜头，提升野生动物拍摄效果。",
+      "recommendation": "解析Moment最新240mm手机长焦镜头，提供焦距、锐度等关键参数，揭示潜望式外接镜头对野生动物拍摄的实用价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Smartphone cameras are terrible for wildlife photography. This compact lens creates 240mm reach in Moment’s longest, sharpest mobile lenses yet"
+    },
     {
       "id": "recvnGr9Soh3DB",
       "title": "更新版唯卓仕2026年镜头路线图（全系镜头八折优惠今日截止）",
@@ -7762,52 +7809,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Kodak's viral keychain camera has just gone Y2K. The new Charmera Millennium Edition is a compact camera with low-fi vibes inside and out"
-    },
-    {
-      "id": "recvmHS9rcPnl2",
-      "title": "乌拉圭足球教练世界杯拍照时拒绝看镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/uruguay-soccer-coach-refuses-to-look-at-camera-during-world-cup-photo-shoot/",
-      "publish_time": "2026-06-16T18:54:12+08:00",
-      "summary": "乌拉圭主教练贝尔萨在世界杯拍照时拒绝看镜头，展现其不合作态度，引发关注。",
-      "recommendation": "从摄影美学角度解析体育赛事中人物姿态的叙事性，探讨非合作性构图如何传递情绪与态度，为街拍及纪实摄影提供独特视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Uruguay Soccer Coach Refuses to Look at Camera During World Cup Photo Shoot"
-    },
-    {
-      "id": "recvmHSbz7wg6S",
-      "title": "大学世界大赛首秀前数小时，棒球队大巴上价值3.5万美元摄影器材被盗",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/troy-35k-camera-gear-stolen-from-baseball-teams-bus-hours-before-college-world-series-debut/",
-      "publish_time": "2026-06-16T18:41:59+08:00",
-      "summary": "特洛伊棒球队在男子大学世界系列赛首秀前，大巴上价值3.5万美元摄影器材被盗",
-      "recommendation": "事件暴露运动队器材安保漏洞，提醒影像爱好者大型活动需加强设备看管。无独家数据，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "$35K Camera Gear Stolen From Baseball Team’s Bus Hours Before College World Series Debut"
-    },
-    {
-      "id": "recvmHSz87VbWM",
-      "title": "新款夏普Aquos R11配备3850万像素长焦相机，搭载骁龙8s Gen 4芯片",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_new_sharp_aquos_r11_gains_a_385mp_tele_camera_snapdragon_8s_gen_4_chipset-news-73291.php",
-      "publish_time": "2026-06-16T18:03:02+08:00",
-      "summary": "夏普Aquos R11配备3850万像素长焦相机和骁龙8s Gen 4芯片，采用6.5英寸Pro IGZO OLED屏，支持1-240Hz刷新率，但取消了microSD卡槽。",
-      "recommendation": "夏普Aquos R11搭载3850万像素长焦相机与骁龙8s Gen 4芯片，提供手机影像长焦硬件新数据，适合关注日系机型与传感器规格的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The new Sharp Aquos R11 gains a 38.5MP tele camera, Snapdragon 8s Gen 4 chipset"
     }
   ]
 }
