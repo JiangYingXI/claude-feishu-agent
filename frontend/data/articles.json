@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-27T17:16:55.272724+08:00",
+    "updated_at": "2026-06-27T22:19:13.145357+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 112
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,146 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 35
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 413
+      "count": 410
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 151
+      "count": 155
     }
   ],
   "articles": [
+    {
+      "id": "recvnKNvvVLZaF",
+      "title": "Viltrox EVO 75mm f/1.8与90mm f/2.2评测：基本是双胞胎",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/27/viltrox-evo-75mm-f-1-8-and-90mm-f-2-2-review-basically-twins/",
+      "publish_time": "2026-06-27T22:01:23+08:00",
+      "summary": "评测对比Viltrox EVO 75mm f/1.8与90mm f/2.2两款镜头，指出它们设计相似但参数不同，为摄影爱好者提供选择参考。",
+      "recommendation": "对比两款参数相近的国产自动对焦镜头，提供实拍样张与光学数据，帮助用户区分75mm f/1.8与90mm f/2.2的实际差异。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox EVO 75mm f/1.8 and 90mm f/2.2 Review: Basically Twins"
+    },
+    {
+      "id": "recvnKNEqsDfBF",
+      "title": "徕卡SL3-P样张画廊：徕卡最新款有多接近赛事水准？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/samples/6580751906/leica-sl3-p-sample-gallery",
+      "publish_time": "2026-06-27T22:00:00+08:00",
+      "summary": "徕卡SL3-P样张展示，使用Summilux-SL 50mm F1.4镜头，F5.6光圈，通过车内模特转头场景测试闪光灯效果，接近赛事水准。",
+      "recommendation": "通过车内模特转头场景实测SL3-P闪光灯效果，结合Summilux-SL 50mm F1.4镜头F5.6光圈样张，提供接近赛事水准的成像数据，适合关注徕卡动态的用户。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leica SL3-P sample gallery: how race-ready is Leica's latest?"
+    },
+    {
+      "id": "recvnKNyK5fOqk",
+      "title": "摄影师Michael Shainblum展现新西兰非凡之美",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/27/photographer-michael-shainblum-reveals-new-zealands-remarkable-beauty/",
+      "publish_time": "2026-06-27T21:00:58+08:00",
+      "summary": "摄影师Michael Shainblum重返新西兰，通过响应多变天气的沉浸式风光摄影，展现其非凡之美，分享创意与技术方法。",
+      "recommendation": "通过摄影师应对多变天气的实战案例，分享风光摄影创意与技术方法，提供沉浸式拍摄思路，对提升户外影像创作有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Michael Shainblum Reveals New Zealand’s Remarkable Beauty"
+    },
+    {
+      "id": "recvnKNHrBbZmX",
+      "title": "年度最大音乐视频背后的创意摄影机选择",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/9142904989/olivia-rodrigo-drop-dead-music-video-behind-the-scenes",
+      "publish_time": "2026-06-27T21:00:00+08:00",
+      "summary": "奥利维亚·罗德里戈《drop dead》音乐视频发布两月获4200万次观看，在凡尔赛宫拍摄，采用90年代VHS复古美学风格，成为年度最大音乐视频之一。",
+      "recommendation": "解析年度热门MV如何用VHS复古美学与凡尔赛宫场景结合，提供90年代影像风格创作参考，含4200万次播放数据与拍摄技术细节。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The creative camera choices behind one of the year's biggest music videos"
+    },
+    {
+      "id": "recvnKNKvC7htE",
+      "title": "仅售75美元？TTArtisan下一代Neo定焦镜头细节曝光：85mm f/1.8自动对焦",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/an-85mm-f-1-8-autofocus-lens-for-just-us-usd75-details-surface-regarding-ttartisans-next-neo-prime",
+      "publish_time": "2026-06-27T20:30:00+08:00",
+      "summary": "TTArtisan即将推出85mm f/1.8自动对焦Neo镜头，售价仅75美元，继50mm f/1.8后又一超值选择。",
+      "recommendation": "曝光TTArtisan 85mm f/1.8自动对焦镜头仅75美元定价，提供超低价人像方案，含具体光圈与焦段数据，适合预算有限的影像爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "An 85mm f/1.8 autofocus lens for just US$75? Details surface regarding TTArtisan's next Neo prime"
+    },
+    {
+      "id": "recvnKNBwtVdmh",
+      "title": "摄影师耗时十年记录血腥毒品战争",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/27/photographer-spends-10-years-documenting-the-bloody-war-on-drugs/",
+      "publish_time": "2026-06-27T19:00:51+08:00",
+      "summary": "摄影师耗时十年追踪可卡因来源与去向，记录毒品战争的血腥真相。",
+      "recommendation": "十年追踪毒品战争的纪实影像，揭示摄影在极端社会议题中的叙事力量，对理解长期项目策划与伦理边界有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Spends 10 Years Documenting the Bloody War on Drugs"
+    },
+    {
+      "id": "recvnKNNsxntLu",
+      "title": "索尼a7R VI – 33个必备技巧与窍门",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-a7r-vi-essential-33-tips-tricks/",
+      "publish_time": "2026-06-27T18:02:48+08:00",
+      "summary": "索尼A7rVI的33个必备技巧与窍门，涵盖核心功能与使用建议，帮助用户充分发挥相机性能。",
+      "recommendation": "33个实用技巧覆盖A7rVI核心功能与操作细节，含独家参数调校建议，助用户快速掌握高像素机型潜力。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony a7R VI – Essential 33 Tips & Tricks"
+    },
+    {
+      "id": "recvnKNQiFQba8",
+      "title": "超过10年的最佳紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/27/the-best-compact-cameras-older-than-10-years/",
+      "publish_time": "2026-06-27T18:00:00+08:00",
+      "summary": "紧凑型相机仍是摄影师首选，本文推荐几款最佳机型，保留核心技术参数，助你重温旧时光并拍摄出色图像。",
+      "recommendation": "盘点十年来紧凑型相机标杆机型，含传感器尺寸、光圈值等核心参数对比，适合怀旧用户或二手选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Compact Cameras Older Than 10 years"
+    },
     {
       "id": "recvnJzB0R6EL2",
       "title": "闺房摄影：13个专业秘诀，以艺术风格捕捉优雅肖像",
@@ -7684,130 +7810,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "This is how the Sony Alpha camera would look if it would use the new Sony 65mm sensor"
-    },
-    {
-      "id": "recvmPSF8Za2JD",
-      "title": "微软Surface Pro 13英寸笔记本评测",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/microsoft-surface-pro-13-inch-laptop-test/",
-      "publish_time": "2026-06-16T21:00:15+08:00",
-      "summary": "微软Surface Pro 13英寸笔记本在DXOMARK测试中，声音、摄像头和显示屏表现优异，目标曝光准确，动态范围宽广，适合多种使用场景。",
-      "recommendation": "DXOMARK测试数据揭示Surface Pro摄像头与屏幕表现，目标曝光和动态范围参数对移动办公影像有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Microsoft Surface Pro 13-inch Laptop test"
-    },
-    {
-      "id": "recvmPSHN2IyU2",
-      "title": "微软Surface Laptop 13.8英寸笔记本评测",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/microsoft-surface-laptop-13-8-inch-laptop-test/",
-      "publish_time": "2026-06-16T21:00:07+08:00",
-      "summary": "微软Surface Laptop 13.8英寸笔记本在DXOMARK测试中，声音、摄像头和显示屏表现优异，目标曝光准确稳定，白色中性，适合日常使用。",
-      "recommendation": "DXOMARK测试数据揭示Surface Laptop摄像头与屏幕的影像性能，目标曝光与色彩表现数据对笔记本影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Microsoft Surface Laptop 13.8-inch Laptop test"
-    },
-    {
-      "id": "recvmJi61ib2HH",
-      "title": "L卡口终于迎来真正小巧的镜头",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/8583849352/viltrox-l-mount-28mm-f4p5-chip",
-      "publish_time": "2026-06-16T21:00:00+08:00",
-      "summary": "唯卓仕发布L卡口AF 28mm F4.5 Chip镜头，为全画幅自动对焦镜头，体积小巧，是该卡口用户期待已久的选择。",
-      "recommendation": "L卡口用户苦小体积全幅镜头久矣，唯卓仕28mm F4.5填补空白，提供28mm广角与饼干头便携性，是轻量化街拍新选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "L-mount finally gets a truly tiny lens"
-    },
-    {
-      "id": "recvmJi8raon8t",
-      "title": "NEEWER Z3R系列闪光灯：以超高性价比提供专业级性能",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/2974743406/neewer-z3r-series-flashes-offer-pro-level-capability-at-a-great-value",
-      "publish_time": "2026-06-16T21:00:00+08:00",
-      "summary": "NEEWER Z3R系列闪光灯以100Ws功率、1/8000s高速同步、圆形灯头及双LED造型灯提供专业级性能，性价比超高。",
-      "recommendation": "本文解析NEEWER Z3R系列100Ws功率、1/8000s同步及双LED造型灯配置，提供高性价比专业闪光方案，适合预算有限的摄影爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "NEEWER Z3R Series flashes offer pro-level capability at a great value"
-    },
-    {
-      "id": "recvmJizcCS1Rp",
-      "title": "最适合街头摄影的唯卓仕镜头现已推出L卡口版本",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/16/the-best-viltrox-lens-for-street-photography-now-comes-for-l-mount/",
-      "publish_time": "2026-06-16T21:00:00+08:00",
-      "summary": "唯卓仕28mm f4.5饼干镜头推出L卡口版本，内置镜头盖、自动对焦、固定光圈，体积小巧，适用于徕卡L卡口相机。",
-      "recommendation": "唯卓仕28mm f4.5饼干镜头L卡口版发布，为徕卡用户提供轻便自动对焦方案。文章详述其内置镜头盖设计与固定光圈特性，适合街头摄影爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Viltrox Lens for Street Photography Now Comes for L-Mount"
-    },
-    {
-      "id": "recvmJhYK8n3JX",
-      "title": "房产中介雇了绿幕小哥却不知如何移除他",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/real-estate-agent-hires-green-screen-guy-but-doesnt-know-how-to-remove-him/",
-      "publish_time": "2026-06-16T20:57:05+08:00",
-      "summary": "东京一高端房产中介制作宣传视频时，雇了穿绿幕服的人，但后期未移除，导致绿幕人清晰可见，暴露了后期制作失误。",
-      "recommendation": "从绿幕失误案例切入，揭示视频后期制作中色彩键控技术的常见误区，对影像爱好者理解绿幕拍摄与后期流程有实际警示价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Real Estate Agent Hires Green Screen Guy But Doesn’t Know How to Remove Him"
-    },
-    {
-      "id": "recvmJis4QmyHs",
-      "title": "“GFX挑战资助计划2026”公告",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/announcement-of-gfx-challenge-grant-program-2026/",
-      "publish_time": "2026-06-16T20:26:38+08:00",
-      "summary": "富士胶片启动GFX挑战资助计划2026，支持创意人士实现影像项目，培养摄影人才。",
-      "recommendation": "富士GFX挑战资助计划2026为影像创作者提供资金与资源支持，适合寻求项目落地的中画幅用户。文中未披露资助金额或评审细节，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Announcement of “GFX Challenge Grant Program 2026”"
-    },
-    {
-      "id": "recvmJi15jxuv5",
-      "title": "法案将允许摄像师起诉阻碍其记录警察权利的联邦官员",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/right-to-record-act-bill-would-allow-filmmakers-to-sue-federal-officials-who-block-their-right-to-record-police/",
-      "publish_time": "2026-06-16T20:21:54+08:00",
-      "summary": "国会提出法案，赋予摄像师起诉阻止拍摄警察活动的联邦执法人员的权利。",
-      "recommendation": "聚焦影像记录者法律权益，解析法案对街头摄影与新闻拍摄的实际影响，提供行业政策动态参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Bill Would Allow Videographers to Sue Federal Officials Who Block Their Right to Record Police"
     }
   ]
 }
