@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-27T12:40:09.422341+08:00",
+    "updated_at": "2026-06-27T17:16:55.272724+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,15 +33,61 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 412
+      "count": 413
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 153
+      "count": 151
     }
   ],
   "articles": [
+    {
+      "id": "recvnJzB0R6EL2",
+      "title": "闺房摄影：13个专业秘诀，以艺术风格捕捉优雅肖像",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/boudoir-photography-13-pro-secrets-for-capturing-tasteful-portraits-with-fine-art-flair",
+      "publish_time": "2026-06-27T17:10:00+08:00",
+      "summary": "闺房摄影需沟通对象、选器材，用自然光与柔光箱，低角度拍曲线，道具增情调，后期调色温，捕捉优雅瞬间。",
+      "recommendation": "从沟通到布光、构图，13个要点覆盖闺房摄影全流程，对想提升人像艺术感的爱好者有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Boudoir photography: 13 pro secrets for capturing tasteful portraits with fine-art flair"
+    },
+    {
+      "id": "recvnJzJFYEisa",
+      "title": "帮助我们远离亚马逊及其对摄影师的影响",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/27/simple-math-copy/",
+      "publish_time": "2026-06-27T15:00:00+08:00",
+      "summary": "《Phoblographer》杂志出版商计划出版纸质杂志，不依赖大型相机制造商广告，希望读者每年花1美元支持，以维持网站长期发展。",
+      "recommendation": "揭示摄影媒体摆脱大厂广告依赖的生存策略，对关注行业独立性与内容生态的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Help Us Move Away From Amazon and What He Did to Photographers"
+    },
+    {
+      "id": "recvnJzE9kNTN7",
+      "title": "专业人士更爱佳能？世界杯前夕MPB平台EOS R1销量暴涨超300%",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/do-pros-prefer-canon-eos-r1-sales-rose-more-than-300-percent-on-mpb-during-the-world-cup-buildup",
+      "publish_time": "2026-06-27T14:15:00+08:00",
+      "summary": "世界杯前夕，佳能EOS R1销量暴涨超300%，索尼A9 III增长63%，专业人士更青睐佳能旗舰相机。",
+      "recommendation": "MPB平台销量数据揭示世界杯前夕专业相机市场动向，EOS R1暴涨300%与A9 III增长63%的对比，为器材选购提供真实参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Do pros prefer Canon? EOS R1 sales rose more than 300% on MPB during the World Cup buildup"
+    },
     {
       "id": "recvnIs3yBnNbf",
       "title": "2014年最适合年轻摄影爱好者的5款相机",
@@ -228,6 +274,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Prime Day ends at Midnight (ET) tonight - these are the 14 best camera deals that you should check out before the sale ends!"
+    },
+    {
+      "id": "recvnJzGNsOUcp",
+      "title": "Prime Day今晚午夜结束 - 这14个最佳相机优惠你应在促销结束前查看",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/prime-day-ends-at-midnight-et-tonight-these-are-the-14-best-camera-deals-that-you-should-check-out-before-the-sale-ends",
+      "publish_time": "2026-06-26T23:54:45+08:00",
+      "summary": "Prime Day今晚结束，精选14个最佳相机优惠，包括核心技术参数，促销结束前值得查看。",
+      "recommendation": "Prime Day相机优惠汇总，含14款机型核心参数与价格对比，适合近期有购机计划的用户快速筛选，常规促销资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Prime Day ends at Midnight tonight - these are the 14 best camera deals that you should check out before the sale ends!"
     },
     {
       "id": "recvnGr72iGp2n",
@@ -7747,68 +7808,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Bill Would Allow Videographers to Sue Federal Officials Who Block Their Right to Record Police"
-    },
-    {
-      "id": "recvmHS2qLl6OK",
-      "title": "“近乎神话”的亚马逊幽灵犬被红外相机捕捉到",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/almost-mythical-amazonian-ghost-dog-captured-on-trail-camera/",
-      "publish_time": "2026-06-16T19:41:45+08:00",
-      "summary": "研究人员在亚马逊雨林深处用红外相机捕捉到被称为“幽灵狗”的稀有犬科动物影像，证实其存在。",
-      "recommendation": "红外相机捕捉幽灵犬影像，展示野外监测技术应用。对动物摄影爱好者有参考价值，含亚马逊雨林实地拍摄数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "‘Almost Mythical’ Amazonian Ghost Dog Captured on Trail Camera"
-    },
-    {
-      "id": "recvmHS55tOm5o",
-      "title": "格雷戈里·克鲁德森为歌手菲比·布里杰斯的‘无手机’巡演拍摄诡异艺术作品",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/gregory-crewdson-shot-the-eerie-artwork-for-singer-phoebe-bridgers-smartphone-free-tour/",
-      "publish_time": "2026-06-16T19:22:53+08:00",
-      "summary": "摄影师克鲁德森为歌手布里杰斯无手机巡演拍摄诡异艺术作品，巡演禁止使用智能手机。",
-      "recommendation": "解析克鲁德森如何用大画幅相机与电影布光，在无手机巡演中创作诡异影像，提供摄影美学与现场创作技巧的深度案例。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Gregory Crewdson Shot the Eerie Artwork for Singer Phoebe Bridgers’ ‘Smartphone-Free’ Tour"
-    },
-    {
-      "id": "recvmHS7hnGtXa",
-      "title": "柯达Charmera千年纪念版充满Y2K风情",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/the-kodak-charmera-millennium-edition-is-dripping-with-y2k-vibes/",
-      "publish_time": "2026-06-16T19:00:53+08:00",
-      "summary": "Reto公司推出柯达Charmera千禧版，延续盲盒钥匙扣设计，融合Y2K风格，主打怀旧与收藏价值。",
-      "recommendation": "解析柯达Charmera千禧版盲盒设计，融合Y2K美学与怀旧收藏价值，为影像爱好者提供复古相机新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Kodak Charmera Millennium Edition Is Dripping with Y2K Vibes"
-    },
-    {
-      "id": "recvmHSdXbm8So",
-      "title": "柯达爆款钥匙扣相机迎来千禧版：Charmera Millennium Edition 内外兼修的低保真紧凑相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/kodaks-viral-keychain-camera-has-just-gone-y2k-the-new-charmera-millennium-edition-is-a-compact-camera-with-low-fi-vibes-inside-and-out",
-      "publish_time": "2026-06-16T19:00:00+08:00",
-      "summary": "柯达Charmera钥匙扣相机推出千禧版，采用Y2K风格设计，内外兼修的低保真紧凑相机，保留核心技术参数。",
-      "recommendation": "解析柯达千禧版钥匙扣相机的Y2K设计语言与核心技术参数，为低保真摄影爱好者提供复古设备选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Kodak's viral keychain camera has just gone Y2K. The new Charmera Millennium Edition is a compact camera with low-fi vibes inside and out"
     }
   ]
 }
