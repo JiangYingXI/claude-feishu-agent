@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-27T22:19:13.145357+08:00",
+    "updated_at": "2026-06-28T03:57:58.087387+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 28
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 110
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,72 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvnMaXtmjdZi",
+      "title": "Gary Briechle 在即将出版的湿版摄影专著中延续与缅因州的诡异恋情",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/gary-briechle-continues-his-eerie-love-affair-with-maine-in-this-forthcoming-collodion-monograph",
+      "publish_time": "2026-06-28T02:15:00+08:00",
+      "summary": "Gary Briechle在湿版摄影专著《我想看灯塔》中延续30年对缅因州中海岸阴暗面的探索，展现其诡异恋情",
+      "recommendation": "湿版摄影专著《我想看灯塔》展示30年对缅因州中海岸的独特视角，提供罕见技术细节与创作心法，适合追求传统工艺与美学深度的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Gary Briechle continues his eerie love affair with Maine in this forthcoming collodion monograph"
+    },
+    {
+      "id": "recvnMb5akVvPp",
+      "title": "促销：Prime Day购物结束，Galaxy S26和Pixel 10系列最佳优惠汇总",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_prime_day_shopping_is_over_here_are_the_best_galaxy_s26_and_pixel_10_series_deals-news-73465.php",
+      "publish_time": "2026-06-28T02:11:02+08:00",
+      "summary": "Prime Day结束后，三星Galaxy S26 Ultra 256GB版起售价低于1000美元，512GB升级费200美元，同时汇总了Galaxy中端机和Pixel 10系列优惠。",
+      "recommendation": "汇总Prime Day后Galaxy S26与Pixel 10系列优惠，含S26 Ultra 256GB版定价及中端机、Pixel系列价格信息，为影像爱好者提供购机时机参考。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Prime Day shopping is over, here are the best Galaxy S26 and Pixel 10 series deals"
+    },
+    {
+      "id": "recvnMb0ap1MTS",
+      "title": "取消取景器，佳能EOS R6 V相机让我失望",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/in-omitting-a-viewfinder-the-canon-eos-r6-v-camera-misses-the-mark-for-me",
+      "publish_time": "2026-06-27T23:20:00+08:00",
+      "summary": "佳能EOS R6 V相机取消取景器，定位视频优先，但作者认为许多创作者仍需要取景器功能。",
+      "recommendation": "从创作者实际需求出发，质疑佳能EOS R6 V取消取景器的设计决策，提供对视频机定位的深度反思。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "In omitting a viewfinder, the Canon EOS R6 V camera misses the mark for me"
+    },
+    {
+      "id": "recvnMb7Ebq0vU",
+      "title": "恐怖画廊：富士胶片继续毁坏野生动物摄影",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/the-gallery-of-horrors-fujifilm-continues-to-ruin-wildlife-photography/",
+      "publish_time": "2026-06-27T22:30:29+08:00",
+      "summary": "文章警告摄影师，富士X-T5在野生动物摄影中表现糟糕，导致灾难性结果，已通过真实世界证明。",
+      "recommendation": "通过真实世界测试揭露富士X-T5在野生动物摄影中的短板，提供具体场景下的性能数据与对比分析，对关注高速连拍与对焦的摄影爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Gallery of Horrors: Fujifilm Continues to Ruin Wildlife Photography"
+    },
     {
       "id": "recvnKNvvVLZaF",
       "title": "Viltrox EVO 75mm f/1.8与90mm f/2.2评测：基本是双胞胎",
@@ -478,6 +540,22 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "OnePlus reveals new details about the N6 ahead of its launch"
+    },
+    {
+      "id": "recvnMb2AG80hf",
+      "title": "理解智能手机摄像头中的可变光圈",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/understanding-variable-aperture-in-smartphone-cameras/",
+      "publish_time": "2026-06-26T22:13:19+08:00",
+      "summary": "可变光圈是智能手机摄像头根据拍摄条件物理调整光圈大小的功能，虽已存在多年，但近期创新使其能更灵活控制进光量和景深，提升低光表现和背景虚化效果。",
+      "recommendation": "解析可变光圈从机械结构到计算摄影的协同进化，含多代旗舰机型光圈范围对比，帮助理解进光量与景深控制的物理极限。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Understanding Variable Aperture in Smartphone Cameras"
     },
     {
       "id": "recvnFbGYVR0TU",
@@ -7732,84 +7810,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "This vibrant underwater lily field was shot on a 10-year-old DSLR with a fisheye lens –and it snagged an ocean photography award"
-    },
-    {
-      "id": "recvmJife7LAXi",
-      "title": "罕见法庭重审或动摇关键版权判例：摄影师与明星纹身师再对簿公堂",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/a-rare-court-re-hearing-could-call-key-copyright-test-into-question-as-a-photographer-and-celebrity-tattoo-artist-return-to-court",
-      "publish_time": "2026-06-16T22:58:20+08:00",
-      "summary": "全席听证会审理摄影师与纹身师关于照片被纹成纹身的版权争议，或动摇关键判例。",
-      "recommendation": "从法律角度探讨摄影作品版权边界，对影像创作者理解作品使用场景的版权风险有参考价值，但缺乏独家数据与深度观点。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A rare court re-hearing could call key copyright test into question as a photographer and celebrity tattoo artist return to court"
-    },
-    {
-      "id": "recvmJihOn92MY",
-      "title": "K&F Concept ND1,000,000 ND滤镜评测：一款实用的日食旅行滤镜，最适合搭配无反相机使用",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lens-filters/k-and-f-concept-nd1-000-000-nd-filter-review",
-      "publish_time": "2026-06-16T22:55:17+08:00",
-      "summary": "K&F Concept ND1,000,000 ND滤镜是手动相机拍摄太阳的简便工具，但需注意安全，适合无反相机使用。",
-      "recommendation": "实测ND1,000,000滤镜在无反相机上的日食拍摄表现，提供安全使用建议与实拍样张，对天文摄影爱好者有实用参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "K&F Concept ND1,000,000 ND filter review: a practical eclipse travel filter best used with mirrorless cameras"
-    },
-    {
-      "id": "recvmJinAjC7SO",
-      "title": "一加16屏幕泄露更多细节",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/more_details_about_the_oneplus_16s_screen_leak-news-73292.php",
-      "publish_time": "2026-06-16T22:06:02+08:00",
-      "summary": "一加16屏幕泄露显示将采用185Hz刷新率，放弃240Hz计划，面板来自京东方",
-      "recommendation": "一加16屏幕刷新率从240Hz降至185Hz，京东方面板细节曝光，对关注高刷屏与功耗平衡的影像用户有参考价值，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "More details about the OnePlus 16's screen leak"
-    },
-    {
-      "id": "recvmJhWra1ygt",
-      "title": "唯卓仕99美元AF 28mm f/4.5 L卡口镜头，专为S9和BF打造",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/16/viltroxs-99-af-28mm-f-4-5-l-mount-lens-looks-made-for-the-s9-and-bf/",
-      "publish_time": "2026-06-16T21:25:23+08:00",
-      "summary": "唯卓仕推出L卡口AF 28mm f/4.5超薄超轻镜头，专为S9和BF全画幅无反相机设计，售价99美元",
-      "recommendation": "文章解析唯卓仕99美元AF 28mm f/4.5镜头专为S9/BF设计，提供超薄轻量化方案与L卡口适配数据，适合追求便携的影像爱好者了解行业细分动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox’s $99 AF 28mm f/4.5 L-Mount Lens Looks Made for the S9 and BF"
-    },
-    {
-      "id": "recvmJiupHPcUq",
-      "title": "如果索尼Alpha相机采用新款65mm传感器，外观会是这样",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/this-is-how-the-sony-alpha-camera-would-look-if-it-would-use-the-new-sony-65mm-sensor/",
-      "publish_time": "2026-06-16T21:03:30+08:00",
-      "summary": "文章通过PS将新65mm传感器置于索尼A7R VI上，展示其尺寸，并指出使用该传感器的Alpha相机需更大机身",
-      "recommendation": "通过PS直观展示65mm传感器在A7R VI上的尺寸比例，分析机身设计变化，为关注全画幅升级的摄影爱好者提供前瞻性参考。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This is how the Sony Alpha camera would look if it would use the new Sony 65mm sensor"
     }
   ]
 }
