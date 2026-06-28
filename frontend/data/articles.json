@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-28T22:28:54.370050+08:00",
+    "updated_at": "2026-06-29T03:59:46.549381+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 28
+      "count": 27
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,103 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 160
+      "count": 162
     }
   ],
   "articles": [
+    {
+      "id": "recvnS243WTkL6",
+      "title": "《THE Tether》：摄影师打造的全新尼康无线联机拍摄应用",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/28/the-tether-is-a-new-wireless-nikon-tethering-app-built-by-a-photographer.aspx/",
+      "publish_time": "2026-06-29T02:45:33+08:00",
+      "summary": "韩国时尚摄影师开发THE Tether应用，实现尼康相机无线联机拍摄，解决有线不便，支持iPad/iPhone现场查看照片。",
+      "recommendation": "韩国摄影师自研尼康无线联机应用，解决有线拍摄痛点，提供iPad/iPhone现场看图方案。对商业摄影和联机工作流用户有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "“THE Tether” is a new wireless Nikon tethering app built by a Photographer"
+    },
+    {
+      "id": "recvnS1W6KP7bv",
+      "title": "美国复古电影院正在消失。一位摄影师历时44年、走遍50州、拍摄1200多家影院，试图拯救它们",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/americas-retro-movie-theaters-are-disappearing-a-photographer-is-on-a-44-year-50-state-1-200-theater-mission-to-save-them",
+      "publish_time": "2026-06-29T02:15:00+08:00",
+      "summary": "摄影师贝尼塔·范温克尔历时44年走遍50州拍摄1200多家影院，用纪实摄影记录美国复古电影院，呼吁它们继续存在。",
+      "recommendation": "44年跨50州拍摄1200家影院，用纪实摄影记录美国复古电影院消亡史，为影像爱好者提供独特的人文纪实拍摄案例与历史档案价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "America's retro movie theaters are disappearing. A photographer is on a 44-year, 50-state, 1,200+ theater mission to save them"
+    },
+    {
+      "id": "recvnS26BX4OFt",
+      "title": "MultiDyne收购MRMC资产",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/28/mrmc-assets-acquired-by-multidyne.aspx/",
+      "publish_time": "2026-06-29T01:39:42+08:00",
+      "summary": "MultiDyne视频与光纤系统公司收购原尼康旗下MRMC资产，该公司专注于光纤传输广播和音频信号，生产摄像机链路和信号转换器。",
+      "recommendation": "常规资讯，可了解行业动态。文章报道了MultiDyne收购原尼康旗下MRMC资产，对关注广播级光纤传输和摄像机链路技术的影像从业者有一定参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "MRMC assets acquired by MultiDyne"
+    },
+    {
+      "id": "recvnS1TlpE0Nl",
+      "title": "这款20美元的新35mm胶片相机致敬经典东德品牌",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/28/this-new-20-35mm-film-camera-embraces-a-classic-east-german-brand/",
+      "publish_time": "2026-06-29T00:00:30+08:00",
+      "summary": "英国零售商推出Praktica VF212，一款20美元的35mm胶片相机，致敬东德经典品牌，延续可重复使用胶片相机潮流。",
+      "recommendation": "20美元胶片相机致敬东德Praktica品牌，分析其定位与可重复使用胶片相机市场趋势，适合关注复古摄影与低成本入门需求的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This New $20 35mm Film Camera Embraces a Classic East German Brand"
+    },
+    {
+      "id": "recvnS1YMMnS9D",
+      "title": "王牌飞行员顶级技巧：在航空博物馆别像独行侠那样乱拍！教你像高手一样使用相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/top-tips-for-top-guns-dont-shoot-like-a-maverick-in-air-museums-heres-how-to-use-your-camera-like-an-ace",
+      "publish_time": "2026-06-28T23:20:00+08:00",
+      "summary": "航空博物馆拍摄技巧：使用大光圈镜头、高ISO和慢速快门，避免闪光灯，利用自然光突出飞机细节，像高手一样拍出专业照片",
+      "recommendation": "航空博物馆拍摄技巧详解，涵盖大光圈、高ISO与慢速快门参数设置，避免闪光灯的自然光运用方法，提供实战级拍摄思路。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Top tips for Top Guns: Don't shoot like a maverick in air museums! Here's how to use your camera like an ace"
+    },
+    {
+      "id": "recvnS21kpES32",
+      "title": "今日仅限：节省20%",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/today-only-save-20-on/",
+      "publish_time": "2026-06-28T22:50:51+08:00",
+      "summary": "亚马逊Brightin Star镜头最高可享20%折扣，限今日",
+      "recommendation": "Brightin Star镜头限时折扣，为预算有限的影像爱好者提供实惠升级机会，但无独家数据或深度分析。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Today only: Save 20% on"
+    },
     {
       "id": "recvnQGBgAgGtL",
       "title": "富士X100全景版时机已到：必将大受欢迎",
@@ -7718,98 +7811,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Brightin Star’s New 14mm f/2.8 Lens Promises High-End Astro Photos"
-    },
-    {
-      "id": "recvmNDVMSwj0I",
-      "title": "这款新的Brightin Star 14mm f/2.8镜头覆盖116度广视角——但它的前置滤镜使用方式有点特别",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-new-brightin-star-14mm-f-2-8-covers-a-116-degree-wide-view-but-this-camera-lens-has-an-unusual-trick-for-using-front-filters",
-      "publish_time": "2026-06-17T15:00:00+08:00",
-      "summary": "Brightin Star 14mm f/2.8全画幅超广角镜头，116度视角，独特滤镜支架兼遮光罩。",
-      "recommendation": "解析Brightin Star 14mm f/2.8超广角的116度视角与独特滤镜支架设计，为风光摄影爱好者提供非传统光学方案参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This new Brightin Star 14mm f/2.8 covers a 116-degree wide view – but this camera lens has an unusual trick for using front filters"
-    },
-    {
-      "id": "recvmNE5E70FYM",
-      "title": "你需要的人类撰写风光摄影教程",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/17/phoblographers-introduction-shooting-better-landscapes-copy/",
-      "publish_time": "2026-06-17T15:00:00+08:00",
-      "summary": "本文提供风光摄影入门指南，涵盖核心技术参数与数据，帮助读者提升拍摄水平。",
-      "recommendation": "本文提供风光摄影核心技术参数与数据，对爱好者提升曝光、对焦等实操技能有直接价值，虽无独家数据，但参数解析清晰，属常规技术科普。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Human-Written Landscape Photography Tutorial You Need"
-    },
-    {
-      "id": "recvmNDFo3exVG",
-      "title": "高通发布骁龙Reality Elite，作为其下一代XR平台",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/qualcomm_snapdragon_reality_elite_official-news-73307.php",
-      "publish_time": "2026-06-17T14:45:02+08:00",
-      "summary": "高通发布骁龙Reality Elite XR平台，旨在重新定义空间计算，支持高性能VST头显和轻量级OST设备，AI性能达48 TOPS，带来强大生成式AI能力。",
-      "recommendation": "文章聚焦骁龙Reality Elite的48 TOPS AI算力，对XR影像处理有参考价值，但未涉及具体影像参数或独家数据，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Qualcomm announces Snapdragon Reality Elite as its next-gen XR platform"
-    },
-    {
-      "id": "recvmNDHJIKE3I",
-      "title": "微软发布搭载骁龙X2的Surface Pro和Surface Laptop",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/microsoft_launches_snapdragon_x2_powered_surface_pro_and_surface_laptop-news-73305.php",
-      "publish_time": "2026-06-17T13:45:02+08:00",
-      "summary": "微软发布搭载高通骁龙X2芯片的Surface Pro和Laptop，13英寸起售价1499美元，可选10核或12核CPU，最高64GB内存和1TB存储，支持Wi-Fi。",
-      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像相关参数，对影像爱好者价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Microsoft launches Snapdragon X2-powered Surface Pro and Surface Laptop"
-    },
-    {
-      "id": "recvmMbSmprX0L",
-      "title": "为什么现代相机无法拍摄全景人像？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/17/why-cant-modern-cameras-make-panoramic-portraits/",
-      "publish_time": "2026-06-17T12:00:00+08:00",
-      "summary": "文章探讨Brenizer全景人像方法，即通过多张照片拼接模拟大画幅效果，分析为何相机未内置此功能，引用2014年APS-C画幅时代背景，强调技术价值与实现挑战。",
-      "recommendation": "解析Brenizer全景人像的技术原理与相机未内置此功能的原因，结合2014年APS-C画幅背景，提供拼接模拟大画幅的实操价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why Can’t Modern Cameras Make Panoramic Portraits?"
-    },
-    {
-      "id": "recvmMbPS2Jlgm",
-      "title": "iPhone 18 RAM升级再确认，价格也有好消息",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_18_ram_upgrade_confirmed_again_along_with_good_news_about_its_price-news-73302.php",
-      "publish_time": "2026-06-17T11:06:02+08:00",
-      "summary": "iPhone 18确认配备12GB内存，较iPhone 17的8GB提升，用于支持全新Siri AI功能，需至少12GB内存，iPhone 17无法获得该功能。",
-      "recommendation": "12GB内存升级直接关联计算摄影性能，AI功能门槛揭示影像处理新需求，对关注手机摄影算力的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "iPhone 18 RAM upgrade confirmed again along with good news about its price"
     }
   ]
 }
