@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-30T00:32:34.831433+08:00",
+    "updated_at": "2026-06-30T04:30:05.904474+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,15 +33,91 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 413
+      "count": 412
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 166
+      "count": 165
     }
   ],
   "articles": [
+    {
+      "id": "recvnY0gnbdrrA",
+      "title": "近五年最佳尼康旅行相机推荐",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/29/the-best-nikon-travel-cameras-of-the-last-5-years/",
+      "publish_time": "2026-06-30T03:00:00+08:00",
+      "summary": "尼康近五年最佳旅行相机推荐，涵盖三款型号，强调其出色性能与便携性，适合各类摄影师旅行使用。",
+      "recommendation": "三款尼康旅行相机横评，涵盖Z8/Zf等机型，对比画质、便携与续航数据，为旅行摄影提供具体选机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Nikon Travel Cameras of the Last 5 Years"
+    },
+    {
+      "id": "recvnY0dNFbtnM",
+      "title": "松下正在以更优惠的价格出售其最好的相机之一（暂时？）",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/5201878914/panasonic-s1ii-price-cut-2026",
+      "publish_time": "2026-06-30T02:12:00+08:00",
+      "summary": "松下S1II相机在美国降价约9%，从3200美元降至2900美元，解决此前价格过高的问题。",
+      "recommendation": "松下S1II降价9%至2900美元，解决此前定价过高问题，提供具体价格数据和市场动态，对关注全画幅相机性价比的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Panasonic's selling one of its best cameras at a much better price (for now?)"
+    },
+    {
+      "id": "recvnY05OZE99t",
+      "title": "洪都拉斯红外相机为被指责偷吃作物的濒危物种正名",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/29/camera-traps-in-honduras-exonerate-an-endangered-species-blamed-for-eating-crops/",
+      "publish_time": "2026-06-30T01:50:28+08:00",
+      "summary": "洪都拉斯研究使用红外相机为被指责偷吃作物的濒危物种正名，证明相机陷阱在野生动物保护中可洗脱动物罪名。",
+      "recommendation": "红外相机在生态保护中的应用案例，展示相机陷阱技术如何为濒危物种正名，提供野生动物监测的独特视角与数据。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Camera Traps in Honduras Exonerate an Endangered Species Blamed for Eating Crops"
+    },
+    {
+      "id": "recvnY08G476IR",
+      "title": "Instagram 欲扩展“你的算法”，个性化定制信息流",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/29/instagram-wants-to-expand-your-algorithm-that-curates-your-feed/",
+      "publish_time": "2026-06-30T01:18:10+08:00",
+      "summary": "Instagram计划扩展“你的算法”功能，进一步个性化定制信息流，以应对竞争并提升用户体验。",
+      "recommendation": "算法调整影响影像内容的曝光逻辑，对摄影创作者了解平台分发趋势有参考价值。文章未涉及独家数据，属常规行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Instagram Wants to Expand ‘Your Algorithm’ That Curates Your Feed"
+    },
+    {
+      "id": "recvnY0b69sELi",
+      "title": "摄影：弗雷德里克·道格拉斯废除奴隶制的最有力工具",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/29/photography-was-frederick-douglass-most-powerful-tool-for-abolition/",
+      "publish_time": "2026-06-30T00:38:40+08:00",
+      "summary": "弗雷德里克·道格拉斯在19世纪废奴运动中开创性地使用摄影，将其作为争取美国黑人权利和自由的有力武器。",
+      "recommendation": "从摄影史角度揭示影像作为社会变革工具的独特案例，提供19世纪废奴运动中摄影应用的深度史料，对理解摄影社会价值有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photography Was Frederick Douglass’ Most Powerful Tool for Abolition"
+    },
     {
       "id": "recvnX1V0itELD",
       "title": "复古相机品牌正流行，但柯达到雅西卡等品牌并非你所想的制造商",
@@ -7737,84 +7813,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Panasonic L10 studio scene: where do modern compacts stand?"
-    },
-    {
-      "id": "recvmPSuzu2Oac",
-      "title": "富士胶片将于今年十月在纽约举办Fujikina活动",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/17/fujifilm-is-hosting-a-fujikina-in-new-york-city-this-october/",
-      "publish_time": "2026-06-18T00:22:31+08:00",
-      "summary": "富士胶片宣布将于10月16日至18日在纽约举办Fujikina活动，完整日程将在未来几个月公布。",
-      "recommendation": "富士Fujikina活动日程公布，为影像爱好者提供了解新品与行业趋势的窗口，但暂无独家数据或深度观点，常规资讯可关注后续动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm Is Hosting a Fujikina In New York City This October"
-    },
-    {
-      "id": "recvmPSxfVIAPr",
-      "title": "Profoto扩展对索尼a9 III全局快门支持，这对摄影师意味着什么",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/17/what-profotos-expanded-sony-a9-iii-global-shutter-support-means-for-photographers/",
-      "publish_time": "2026-06-18T00:21:18+08:00",
-      "summary": "Profoto通过固件更新，使八款灯具支持索尼a9 III的2400万像素全局快门，实现任意快门速度下的闪光同步，提升专业摄影实用性。",
-      "recommendation": "解析Profoto固件更新如何解锁索尼a9 III全局快门潜力，提供闪光同步技术细节与专业摄影场景价值，适合关注高速同步的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What Profoto’s Expanded Sony a9 III Global Shutter Support Means for Photographers"
-    },
-    {
-      "id": "recvmOOzCc031R",
-      "title": "摄影师深入喜马拉雅“隐秘”地带，拍摄绝美山景",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/17/photographer-travels-to-hidden-area-of-the-himalayas-for-stunning-mountain-images/",
-      "publish_time": "2026-06-18T00:12:46+08:00",
-      "summary": "摄影师深入喜马拉雅隐秘地带，拍摄绝美山景，展现人迹罕至的自然奇观。",
-      "recommendation": "解析高海拔极端环境下的拍摄策略，含光圈、ISO等参数设置，对风光摄影爱好者有实战参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Travels to ‘Hidden’ Area of the Himalayas for Stunning Mountain Images"
-    },
-    {
-      "id": "recvmOPkp91x7t",
-      "title": "2026年富士X-Pro：为街头摄影而生的相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/17/fujifilm-x-pro-2026-review-update/",
-      "publish_time": "2026-06-18T00:00:00+08:00",
-      "summary": "2026年富士X-Pro是否值得买取决于需求，但使用一周后，作者重新爱上街头摄影，强调其核心价值在于激发拍摄热情。",
-      "recommendation": "从街头摄影本质出发，通过一周实测验证X-Pro激发创作热情的核心价值，提供非参数化的深度体验视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Camera That Feels Built for Street Photography – The Fujifilm X-Pro in 2026"
-    },
-    {
-      "id": "recvmPSCBAJMsZ",
-      "title": "后悔没买尼康Z6 III……但我依然爱我的尼康Z8",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-regret-not-buying-the-nikon-z6-iii-but-i-still-love-my-nikon-z8",
-      "publish_time": "2026-06-17T23:57:06+08:00",
-      "summary": "尼康Z6 III性价比和体积优于Z8，虽不如Z8出色，但对合适摄影师是更好选择。",
-      "recommendation": "对比Z6 III与Z8的性价比与体积差异，提供真实用户视角的取舍分析，含具体参数对比和适用场景建议。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I regret not buying the Nikon Z6 III… but I still love my Nikon Z8"
     }
   ]
 }
