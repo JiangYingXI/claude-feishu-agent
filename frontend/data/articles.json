@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-29T13:18:49.425968+08:00",
+    "updated_at": "2026-06-29T19:40:53.414492+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 25
     },
     {
       "key": "镜头与光学",
@@ -38,10 +38,119 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 162
+      "count": 165
     }
   ],
   "articles": [
+    {
+      "id": "recvnVQKSGJtAW",
+      "title": "摄影师记录罕见黑豹在茶园哺育幼崽",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/29/photographer-documents-rare-black-panther-raising-her-cubs-on-tea-plantation/",
+      "publish_time": "2026-06-29T19:27:11+08:00",
+      "summary": "印度马纳斯国家公园，摄影师记录罕见黑豹家庭在茶园哺育幼崽，展现独特生态价值",
+      "recommendation": "罕见黑豹哺育幼崽的野外影像，展示低光环境拍摄技巧与生态摄影构图思路，对野生动物摄影师有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Documents Rare Black Panther Raising Her Cubs on Tea Plantation"
+    },
+    {
+      "id": "recvnVQNJOkrfn",
+      "title": "那些无屏幕的紧凑型相机到底好不好用？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/are-those-screen-free-compact-cameras-actually-any-good",
+      "publish_time": "2026-06-29T18:57:07+08:00",
+      "summary": "无屏幕紧凑型相机如Camp Snap和Flashback虽流行，但缺乏屏幕可能影响取景和回放，实用性存疑，需权衡便携与功能",
+      "recommendation": "文章剖析无屏幕紧凑相机在取景与回放上的实际痛点，提供便携性与功能取舍的深度观点，适合关注极简摄影趋势的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Are those screen-free compact cameras actually any good?"
+    },
+    {
+      "id": "recvnVQWa55zlO",
+      "title": "黑色版折叠iPhone Ultra模型机现身",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/foldable_iphone_ultra_dummy_appears_in_black_finish-news-73487.php",
+      "publish_time": "2026-06-29T18:46:02+08:00",
+      "summary": "苹果预计9月随iPhone 18 Pro发布首款折叠屏iPhone Ultra，黑色模型机曝光，宽屏形态类似华为Pura X Max，厚度或接近三星Galaxy Z Fold。",
+      "recommendation": "折叠屏iPhone Ultra模型机曝光，揭示苹果折叠形态设计方向，对影像爱好者而言，可提前预判其镜头布局与厚度对拍摄手感的影响。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Foldable iPhone Ultra dummy appears in black finish"
+    },
+    {
+      "id": "recvnVQQwf0EU3",
+      "title": "无人机禁飞怎么办？5个天才航拍替代方案，突破禁飞区并火爆全网",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/drones/what-do-you-do-if-flying-your-drone-is-banned-5-genius-aerial-photography-alternatives-to-beat-no-fly-zones-and-go-viral",
+      "publish_time": "2026-06-29T18:40:56+08:00",
+      "summary": "面对无人机禁飞，本文提出5个替代方案，包括使用长杆、气球、风筝、无人机模拟器和卫星图像，突破限制并创作航拍内容。",
+      "recommendation": "提供5种禁飞区替代方案，含长杆、气球等实操技巧，适合航拍受限的影像爱好者获取创意灵感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "What do you do if flying your drone is banned? 5 genius aerial photography alternatives to beat no-fly zones and go viral"
+    },
+    {
+      "id": "recvnVQTmGJSVz",
+      "title": "如果大卫·贝利都不在乎他用什么相机，你真的不需要中画幅或全画幅相机！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/if-david-bailey-doesnt-even-care-what-camera-he-is-using-you-really-dont-need-that-medium-format-or-full-frame-camera",
+      "publish_time": "2026-06-29T15:47:17+08:00",
+      "summary": "文章指出，不必追求中画幅或全画幅相机，因为优秀摄影不依赖昂贵设备，大卫·贝利等大师也不在乎相机规格。",
+      "recommendation": "以大卫·贝利等大师案例，破除器材迷信，强调摄影本质在于视角而非设备，对追求性价比的爱好者有启发价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "If David Bailey doesn't even care what camera he is using, you really don’t need that medium format or full frame camera!"
+    },
+    {
+      "id": "recvnVQZ8qv4cX",
+      "title": "思锐预告7月2日发布新款紧凑型长焦镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sirui-teases-a-new-compact-telephoto-lens-coming-on-july-2/",
+      "publish_time": "2026-06-29T15:01:25+08:00",
+      "summary": "思锐预告7月2日发布新款紧凑型长焦镜头，可放手掌中，适配APS-C或全画幅相机，具体参数待公布。",
+      "recommendation": "预告紧凑型长焦镜头，适配APS-C/全画幅，手掌大小便携性突出。虽参数未公布，但为关注轻量化镜头的用户提供前瞻信息。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sirui teases a new compact telephoto lens coming on July 2"
+    },
+    {
+      "id": "recvnVR1WYQbzJ",
+      "title": "最适合摄影爱好者的3款徕卡相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/29/the-best-3-leica-cameras-that-are-perfect-for-aspiring-photographers/",
+      "publish_time": "2026-06-29T15:00:00+08:00",
+      "summary": "徕卡相机深受摄影师喜爱，兼具拍摄质量与传承价值。推荐三款适合长期投资的相机，保留核心技术参数。",
+      "recommendation": "三款徕卡相机参数与投资价值解析，含传感器尺寸、镜头卡口等核心数据，适合摄影爱好者评估长期收藏与拍摄需求。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best 3 Leica Cameras That Are Perfect for Aspiring Photographers"
+    },
     {
       "id": "recvnUiQn9B0km",
       "title": "真假？这支腾龙镜头竟然超越了佳能、尼康和索尼？",
@@ -7703,113 +7812,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Drones Capture First Recorded Case of Tiger Caring for Another Mother’s Cubs in the Wild"
-    },
-    {
-      "id": "recvmNDJPstTcg",
-      "title": "iPhone 18 Pro 或迎来“相机硬件最大飞跃”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/iphones/the-iphone-18-pro-could-have-the-biggest-leap-in-camera-hardware-in-some-time",
-      "publish_time": "2026-06-17T19:08:03+08:00",
-      "summary": "据传iPhone 18 Pro将迎来相机硬件的最大飞跃，可能包含重大升级，具体参数待官方确认。",
-      "recommendation": "传闻指向iPhone 18 Pro相机硬件重大升级，可能涉及传感器尺寸或像素数突破，对关注手机影像迭代的爱好者有前瞻价值，但缺乏具体参数与独家数据。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The iPhone 18 Pro could have “the biggest leap in camera hardware” in some time"
-    },
-    {
-      "id": "recvmNDYeP4yRN",
-      "title": "日本最新销量排名：富士X100VI、X-E5、X-M5和X-T30III跻身前十",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/new-japanese-sales-rankings-with-fujifilm-x100vi-x-e5-x-m5-and-x-t30iii-in-top-10/",
-      "publish_time": "2026-06-17T18:44:50+08:00",
-      "summary": "日本5月相机销售排名显示，富士X100VI、X-E5、X-M5和X-T30III四款机型进入Mapcamera前十，索尼α7V等也上榜，反映市场对富士相机的强劲需求。",
-      "recommendation": "日本Mapcamera月度销量排名，揭示富士X100VI等四款机型跻身前十，提供真实市场趋势数据，助你把握消费热点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New Japanese Sales Rankings with Fujifilm X100VI, X-E5, X-M5 and X-T30III in Top 10"
-    },
-    {
-      "id": "recvmNDvjLRWeC",
-      "title": "俄亥俄州赛车中冲刺赛车冲出赛道致三名摄影师受伤",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/17/three-photographers-injured-after-sprint-car-goes-off-track-at-ohio-race/",
-      "publish_time": "2026-06-17T18:13:12+08:00",
-      "summary": "俄亥俄州赛车比赛中，一辆冲刺赛车失控冲出赛道，导致三名摄影师受伤。",
-      "recommendation": "常规资讯，可了解赛车摄影中摄影师站位安全风险，对户外运动拍摄者具警示价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Three Photographers Injured After Sprint Car Goes Off Track at Ohio Race"
-    },
-    {
-      "id": "recvmNE3ipBOnZ",
-      "title": "为什么你的F1.2镜头表现不佳",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/17/why-your-f1-2-lenses-suck/",
-      "publish_time": "2026-06-17T18:00:00+08:00",
-      "summary": "文章回顾f1.2镜头从少数品牌专属到如今普及的历程，指出其虽难驾驭但能拍出美丽照片，核心价值在于揭示大光圈镜头的技术演进与使用挑战。",
-      "recommendation": "解析F1.2镜头从稀缺到普及的技术演进，揭示大光圈在光学设计与实际拍摄中的挑战，为追求极致虚化的爱好者提供避坑指南。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why Your F1.2 Lenses Suck"
-    },
-    {
-      "id": "recvmNE0BZe8Gf",
-      "title": "私募公司Effissimo超越索尼，成为腾龙最大股东",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/private-company-effissimo-overtakes-sony-and-becomes-largest-tamron-shareholder/",
-      "publish_time": "2026-06-17T17:53:29+08:00",
-      "summary": "新加坡基金Effissimo增持腾龙股份至17.38%，超越索尼15.35%成为最大股东，腾龙摄影业务表现良好。",
-      "recommendation": "腾龙股权变动影响镜头研发方向，Effissimo增持至17.38%超越索尼，揭示资本对摄影业务信心。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Private company Effissimo overtakes Sony and becomes largest Tamron shareholder"
-    },
-    {
-      "id": "recvmNDAd7jtbL",
-      "title": "谷歌在Android 17中扩展家长控制和Family Link功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_expands_parental_controls_and_family_link_features_with_android_17-news-73309.php",
-      "publish_time": "2026-06-17T17:41:02+08:00",
-      "summary": "谷歌在Android 17中扩展家长控制功能，让家长管理孩子屏幕使用时间、创建休息时间表、过滤应用并限制使用时长。",
-      "recommendation": "虽不直接涉及影像技术，但家长控制功能可限制孩子使用相机应用时长，对家庭影像设备管理有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google expands Parental Controls and Family Link features with Android 17"
-    },
-    {
-      "id": "recvmNDMx9Ivj5",
-      "title": "“他们总是仰拍，所以相机就在你面前……他们的拍摄方式会让你看起来像个猛男。”阿诺德·施瓦辛格教给摄影师的低角度力量",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/they-always-shoot-up-so-the-camera-is-right-there-in-front-of-you-making-you-taller",
-      "publish_time": "2026-06-17T16:55:12+08:00",
-      "summary": "阿诺德·施瓦辛格七十年摄影作品集收录，低角度拍摄技巧展现力量感，由著名摄影师拍摄",
-      "recommendation": "从施瓦辛格摄影集提炼低角度拍摄技巧，解析仰拍如何增强人物力量感，提供实战构图思路，适合人像与街拍爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"They always shoot up, so the camera is right there in front of you… The way they shoot, you will always look like a stud.\" What Arnie Schwarzenegger teaches photographers about the power of the low angle"
     }
   ]
 }
