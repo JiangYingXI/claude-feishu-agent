@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-30T12:51:47.551354+08:00",
+    "updated_at": "2026-06-30T18:18:06.618335+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 102
+      "count": 101
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,145 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 39
+      "count": 38
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 410
+      "count": 409
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 166
+      "count": 170
     }
   ],
   "articles": [
+    {
+      "id": "recvo1mFNGJN7G",
+      "title": "索尼a7r III在2026年仍是一款好相机吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/30/is-the-sony-a7r-iii-still-a-good-camera-in-2026/",
+      "publish_time": "2026-06-30T18:00:00+08:00",
+      "summary": "索尼a7r III于2017年发布，至今近十年，作者认为通过调整仍是一款优秀相机，体现索尼早期产品的卓越品质。",
+      "recommendation": "回顾索尼a7r III十年后的实战表现，提供调整技巧与画质对比数据，助老用户判断升级价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the Sony a7r III Still a Good Camera in 2026?"
+    },
+    {
+      "id": "recvo1mrI93G3I",
+      "title": "索尼相机现可拍摄超短视频，3秒“动态照片”登陆Creator's App",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/now-you-can-create-ultra-short-form-videos-on-your-sony-camera-as-3-second-motion-photos-come-to-creators-app",
+      "publish_time": "2026-06-30T17:30:06+08:00",
+      "summary": "索尼Creator's App新增3秒超短视频拍摄功能，专为内容创作者设计，提升创作效率。",
+      "recommendation": "索尼Creator's App新增3秒超短视频功能，为内容创作者提供高效抓拍方案。文章解析了动态照片与短视频的融合趋势，对提升创作效率有实操参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Now you can create ultra-short-form videos on your Sony camera, as3-second \"Motion Photos\" come to Creator’s App"
+    },
+    {
+      "id": "recvo1mCM3AbhM",
+      "title": "新泄露信息详细介绍了三星即将推出的Galaxy Z折叠屏手机的摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_leak_details_the_cameras_on_samsungs_upcoming_galaxy_z_foldables-news-73501.php",
+      "publish_time": "2026-06-30T17:19:02+08:00",
+      "summary": "三星即将发布Galaxy Z Fold8系列，泄露信息显示Fold8 Ultra将后置三摄中的1200万像素超广角升级为5000万像素传感器。",
+      "recommendation": "三星Fold8 Ultra超广角升级至5000万像素，传感器规格明确，对关注折叠屏影像进化的用户有直接参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New leak details the cameras on Samsung's upcoming Galaxy Z foldables"
+    },
+    {
+      "id": "recvo1muvjHe0t",
+      "title": "腾龙或计划推出另一款焦距奇特的镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-might-be-planning-another-lens-with-a-weird-focal-range",
+      "publish_time": "2026-06-30T16:31:26+08:00",
+      "summary": "腾龙计划推出焦距奇特的镜头，因24-70mm和70-200mm已过时，新镜头将提供独特焦段和性能",
+      "recommendation": "分析腾龙焦段创新思路，对追求独特视角的摄影爱好者有参考价值，但缺乏具体规格或发布时间等独家信息。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tamron might be planning another lens with a weird focal range"
+    },
+    {
+      "id": "recvo1mxhCmkf6",
+      "title": "助行架、环形闪光灯与牙套：马丁·帕尔工作中的最后照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/walking-frame-ring-flash-and-braces-the-last-photos-of-martin-parr-at-work",
+      "publish_time": "2026-06-30T15:20:00+08:00",
+      "summary": "新幕后照片展示街头摄影师马丁·帕尔坚持拍摄至生命最后一刻，使用助行架、环形闪光灯与牙套等设备。",
+      "recommendation": "揭秘马丁·帕尔使用助行架、环形闪光灯与牙套的拍摄细节，展示街头摄影师的设备选择与坚持，对理解纪实摄影的实用技巧有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Walking frame, ring flash & braces: the last photos of Martin Parr at work"
+    },
+    {
+      "id": "recvo1mzXlgrRx",
+      "title": "2026年7月天文摄影指南：准备好相机，本月可拍摄流星、银河和曼哈顿悬日",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/astrophotography-in-july-2026-get-your-camera-ready-to-photograph-meteors-the-milky-way-and-manhattanhenge-this-month",
+      "publish_time": "2026-06-30T15:00:00+08:00",
+      "summary": "2026年7月天文摄影指南：本月可拍摄流星、银河和曼哈顿悬日，需准备相机，掌握最佳拍摄时间与参数。",
+      "recommendation": "针对2026年7月天文摄影，提供流星、银河及曼哈顿悬日拍摄时间与参数，含独家数据如最佳曝光设置，适合爱好者实战参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Astrophotography in July 2026: get your camera ready to photograph meteors, the Milky Way and Manhattanhenge this month"
+    },
+    {
+      "id": "recvo1mIs0Sj4s",
+      "title": "给某人摆姿势时最难做到的事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/30/tips-on-posing-a-subject-without-touching-them-with-explanations-copy/",
+      "publish_time": "2026-06-30T15:00:00+08:00",
+      "summary": "本文探讨在不触碰拍摄对象的情况下为其摆姿势的技巧，核心价值在于提供非接触式指导方法。",
+      "recommendation": "解析非接触式摆姿技巧，提供实用指导方法，避免触碰尴尬，适合人像摄影爱好者提升沟通与引导能力。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Hardest Thing to Do When Posing Someone"
+    },
+    {
+      "id": "recvo1moLMuMWt",
+      "title": "佳能注册第二款未发布的EOS R相机",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-registers-a-second-unreleased-eos-r-camera/",
+      "publish_time": "2026-06-30T14:51:21+08:00",
+      "summary": "佳能计划第三季度末发布两款未注册EOS R相机，包括EOS R8 Mark II（DS126947），预计2026年4月推出。",
+      "recommendation": "提前曝光佳能EOS R8 Mark II型号及2026年发布时间表，为等待R8升级的用户提供关键产品规划参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon Registers a Second Unreleased EOS R Camera"
+    },
     {
       "id": "recvo02wkI8iv0",
       "title": "使用柯达Tri-X进行街头摄影需知的5件事",
@@ -7687,130 +7812,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Wear OS 7 is now available for eligible Pixel Watch"
-    },
-    {
-      "id": "recvmS1hSU4FdE",
-      "title": "传闻M4/3系统即将迎来新的廉价定焦镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/a-new-bargain-prime-for-micro-four-thirds-cameras-is-rumored-to-be-imminent",
-      "publish_time": "2026-06-18T05:03:32+08:00",
-      "summary": "传闻M4/3系统将推出廉价定焦镜头，非精简手动版，保留核心参数，提供高性价比选择。",
-      "recommendation": "M4/3用户关注廉价定焦镜头传闻，非精简版保留核心参数，提供高性价比选择。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A new bargain prime for Micro Four Thirds cameras is rumored to be imminent"
-    },
-    {
-      "id": "recvmS1qfDNtUi",
-      "title": "WhatsApp 继续在 iOS 上测试“一次性查看”文本消息",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/whatsapp_is_now_testing_view_once_text_messages_on_ios-news-73317.php",
-      "publish_time": "2026-06-18T05:03:02+08:00",
-      "summary": "WhatsApp在iOS上测试“一次性查看”文本消息，接收者查看后消息消失，长按发送按钮选择该功能。",
-      "recommendation": "常规资讯，可了解行业动态。对影像爱好者无直接价值，但可关注隐私功能对分享照片的影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "WhatsApp continues testing \"view once\" text messages on iOS"
-    },
-    {
-      "id": "recvmPSYad18U0",
-      "title": "SmallRig夏季促销",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/17/smallrig-summer-sale.aspx/",
-      "publish_time": "2026-06-18T04:14:04+08:00",
-      "summary": "SmallRig于6月16日至30日举办夏季促销，提供4.99美元盲盒内含14种产品，包括三脚架、自拍杆等，需与正价商品一同购买。",
-      "recommendation": "常规资讯，可了解行业动态。盲盒含三脚架、自拍杆等配件，对影像爱好者有一定实用参考价值，但无独家数据或深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "SmallRig Summer Sale"
-    },
-    {
-      "id": "recvmPSKACtgdT",
-      "title": "索尼发布首款LOFIC传感器Lytia 910，动态范围达100dB",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/sony_unveils_the_lytia_910_its_first_lofic_sensor_and_it_boasts_100db_dynamic_range-news-73318.php",
-      "publish_time": "2026-06-18T03:48:02+08:00",
-      "summary": "索尼发布首款LOFIC传感器Lytia 910，通过横向溢出集成电容解决像素饱和，动态范围达100dB，单次曝光即可实现。",
-      "recommendation": "解析索尼首款LOFIC传感器Lytia 910的100dB动态范围技术，横向溢出集成电容突破像素饱和瓶颈，单次曝光实现高动态，对手机影像硬件爱好者有明确参考价值。",
-      "categories": [
-        "传感器硬件"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Sony unveils the Lytia 910, its first LOFIC sensor, and it boasts 100dB dynamic range"
-    },
-    {
-      "id": "recvmPSmycQuR1",
-      "title": "超稀有徕卡MP黑漆版以近70万美元成交",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/17/ultra-rare-leica-mp-black-paint-sells-for-nearly-700000/",
-      "publish_time": "2026-06-18T03:01:54+08:00",
-      "summary": "第48届徕兹拍卖会上，一台超稀有徕卡MP黑漆版相机以近70万美元成交，创下高价纪录，吸引收藏家竞拍稀有相机、镜头及摄影历史珍品。",
-      "recommendation": "揭秘徕卡MP黑漆版近70万美元成交价，提供拍卖数据与收藏市场深度分析，适合关注相机投资与历史价值的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Ultra-Rare Leica MP Black Paint Sells for Nearly $700,000"
-    },
-    {
-      "id": "recvmPSSYj7F53",
-      "title": "4款最佳APS-C画幅便携相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/17/the-4-best-compact-cameras-with-an-aps-c-sensor/",
-      "publish_time": "2026-06-18T03:00:00+08:00",
-      "summary": "紧凑型相机技术进步显著，APS-C画幅型号突破1英寸传感器界限，介绍四大竞争者，突出便携与画质平衡的核心价值。",
-      "recommendation": "横向对比四款APS-C便携相机，提供传感器尺寸与画质平衡的实测数据，适合选购参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 4 Best Compact Cameras with an APS-C Sensor"
-    },
-    {
-      "id": "recvmPSNFskNq2",
-      "title": "摩托罗拉Razr 70 Ultra/Razr Ultra 2026评测机到站",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/motorola_razr_70_ultra_razr_ultra_2026_in_for_review-news-73282.php",
-      "publish_time": "2026-06-18T02:31:02+08:00",
-      "summary": "摩托罗拉Razr 70 Ultra评测机到站，与前代几乎无区别：7.0英寸165Hz内屏、4.0英寸外屏、骁龙8 Elite芯片、相机未变，仅后盖不同。",
-      "recommendation": "常规资讯，可了解行业动态。文章确认Razr 70 Ultra相机规格与前代一致，骁龙8 Elite芯片对计算摄影的潜在影响值得关注，但缺乏样张对比和深度影像分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Motorola Razr 70 Ultra/Razr Ultra 2026 in for review"
-    },
-    {
-      "id": "recvmPSA07kbU1",
-      "title": "潮流移动编辑应用VSCO正在打造专业级照片编辑器：胶片风格外观、批量编辑功能，以及即将推出的桌面版应用",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/trendy-mobile-editing-app-vsco-is-building-a-pro-photo-editor-with-film-inspired-looks-batch-editing-and-an-upcoming-desktop-app",
-      "publish_time": "2026-06-18T01:45:02+08:00",
-      "summary": "VSCO推出专业级照片编辑器VSCO Studio Pro，具备胶片风格预设和批量编辑功能，并计划推出桌面版，专为专业人士设计。",
-      "recommendation": "VSCO推出专业级编辑器，含胶片预设与批量编辑，并计划桌面版，为移动影像后期提供新选择。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Trendy mobile editing app VSCO is building a pro photo editor with film-inspired looks, batch editing – and an upcoming desktop app"
     }
   ]
 }
