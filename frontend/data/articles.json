@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-30T23:19:51.410559+08:00",
+    "updated_at": "2026-07-01T04:36:21.044057+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 25
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 99
+      "count": 100
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,241 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 38
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 411
+      "count": 410
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 173
+      "count": 177
     }
   ],
   "articles": [
+    {
+      "id": "recvo3Sgw00mXl",
+      "title": "新款Megadap ETZ 21电影转接环即将上市",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/30/new-megadap-etz-21-cine-adapter-coming-soon.aspx/",
+      "publish_time": "2026-07-01T04:26:37+08:00",
+      "summary": "Megadap即将发布ETZ21电影版转接环，用于尼康Z卡口相机使用索尼E卡口镜头，增强对较重镜头支持并增加锁定机制。",
+      "recommendation": "尼康Z用户关注：ETZ21电影转接环增强对重镜头支撑并加入锁定机制，解决E卡口镜头转接的稳定性痛点，提供实用改装细节。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Megadap ETZ 21 Cine adapter coming soon"
+    },
+    {
+      "id": "recvo3RLOy7mI1",
+      "title": "获奖野生动物摄影师查尔斯·‘查斯’·格拉策不幸去世",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/award-winning-wildlife-photographer-charles-chas-glatzer-tragically-passes-away/",
+      "publish_time": "2026-07-01T04:12:10+08:00",
+      "summary": "获奖野生动物摄影师查尔斯·格拉策在南卡罗来纳州多车事故中不幸去世，他是环保主义者和教育家。",
+      "recommendation": "从野生动物摄影师的生平与创作理念中，可汲取生态摄影的伦理思考与技法启发，非纯技术教程，适合拓展影像创作视野。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Award-Winning Wildlife Photographer Charles ‘Chas’ Glatzer Tragically Passes Away"
+    },
+    {
+      "id": "recvo3RZXHnFbF",
+      "title": "热门视频编辑器Final Cut Pro新增“最受欢迎功能之一”——将同时登陆Mac和iPad",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/video-editing/the-popular-video-editor-final-cut-pro-just-gained-one-of-the-most-requested-features-and-its-coming-to-both-mac-and-ipad",
+      "publish_time": "2026-07-01T03:43:18+08:00",
+      "summary": "Final Cut Pro新增AI功能，可从视频音频自动生成字幕并添加至时间线，同时登陆Mac和iPad。",
+      "recommendation": "AI自动生成字幕功能落地视频剪辑，对Vlogger和短视频创作者提升效率有直接价值。文章未提供具体准确率数据或对比测试，属常规功能更新资讯。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The popular video editor Final Cut Pro just gained “one of the most requested features” – and it's coming to both Mac and iPad"
+    },
+    {
+      "id": "recvo3Sau8sUGB",
+      "title": "三星确认推出Galaxy Ring 2",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_confirms_the_galaxy_ring_2-news-73508.php",
+      "publish_time": "2026-07-01T03:11:02+08:00",
+      "summary": "三星确认开发Galaxy Ring 2，预计2027年初上市，将提升电池续航、舒适度和传感器精度，并暗示支持与iPhone配对。",
+      "recommendation": "三星Galaxy Ring 2确认开发，虽非影像设备，但传感器精度提升可能间接影响手机影像算法。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung confirms the Galaxy Ring 2"
+    },
+    {
+      "id": "recvo3SjwwBkD3",
+      "title": "近五年最适合旅行摄影师的富士相机推荐",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/30/the-best-fujifilm-cameras-for-travel-photographers-of-the-last-5-years/",
+      "publish_time": "2026-07-01T03:00:00+08:00",
+      "summary": "富士相机以人体工程学、高性能和胶片感著称，近五年推荐机型适合旅行摄影师，核心价值在于兼顾便携与画质。",
+      "recommendation": "梳理近五年富士旅行相机机型，对比X-T5、X-S20等核心参数与便携性，提供传感器尺寸、胶片模拟等关键数据，助旅行者精准选机。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Fujifilm Cameras for Travel Photographers of the Last 5 Years"
+    },
+    {
+      "id": "recvo3S2CPu1sj",
+      "title": "“今天，我们开始拍摄有史以来最伟大的宇宙电影。” 3200万像素，全球最大相机正式开启前所未有的使命",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/today-we-begin-filming-the-greatest-cosmic-movie-ever-made-at-3-200mp-the-worlds-largest-camera-has-officially-started-its-unprecedented-mission",
+      "publish_time": "2026-07-01T02:53:16+08:00",
+      "summary": "维拉·C·鲁宾天文台启动十年夜空延时拍摄，使用3200万像素全球最大相机，开启前所未有的宇宙电影使命。",
+      "recommendation": "3200万像素全球最大相机启动十年宇宙延时拍摄，揭秘天文级影像技术，为手机与相机传感器发展提供前瞻参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“Today, we begin filming the greatest cosmic movie ever made.” At 3,200MP, the world’s largest camera has officially started its unprecedented mission"
+    },
+    {
+      "id": "recvo3RP1uGPE4",
+      "title": "电影制作人使用沉浸式摄像机为居家球迷呈现栩栩如生的篮球赛",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/filmmakers-use-immersive-cameras-to-bring-basketball-to-life-for-fans-at-home/",
+      "publish_time": "2026-07-01T01:45:32+08:00",
+      "summary": "日本电影制作人使用Blackmagic Ursa Cine Immersive相机录制职业篮球赛，为居家球迷提供沉浸式观赛体验",
+      "recommendation": "解析Blackmagic Ursa Cine Immersive在职业篮球赛中的实拍应用，展示沉浸式摄像机的动态捕捉与8K立体成像能力，为影像爱好者提供前沿设备实战参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Filmmakers Use Immersive Cameras to Bring Basketball to Life for Fans at Home"
+    },
+    {
+      "id": "recvo3RUuUxg1o",
+      "title": "DPReview社区六月动态回顾：你错过了什么",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/3642869005/what-you-missed-in-the-dpreview-community-june-2026",
+      "publish_time": "2026-07-01T01:31:00+08:00",
+      "summary": "DPReview社区六月动态回顾，重点介绍论坛活动，包括精彩讨论、器材分享和摄影作品，以及Blufftonian的相机收藏展示。",
+      "recommendation": "汇总DPReview社区六月精华，包含论坛热门讨论、器材分享及Blufftonian相机收藏展示，为影像爱好者提供社区动态与器材参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "What you missed in the DPReview community: June 2026"
+    },
+    {
+      "id": "recvo3S57N0ZIM",
+      "title": "胶片摄影在日本蓬勃发展——但这场怀旧复兴有一个异常现代的成功原因",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/film-photography-is-booming-in-japan-but-the-nostalgic-comeback-has-an-unusually-modern-reason-for-thriving",
+      "publish_time": "2026-07-01T01:14:24+08:00",
+      "summary": "胶片摄影在日本复兴，近半数人表示社交媒体激发尝试，反映模拟技术趋势与现代数字平台结合的成功。",
+      "recommendation": "揭示胶片复兴背后社交媒体驱动的数据，近半数用户受数字平台激发，为影像爱好者提供模拟与数字融合的独特行业洞察。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Film photography is booming in Japan – but the nostalgic comeback has an unusually modern reason for thriving"
+    },
+    {
+      "id": "recvo3S7Jzu4tL",
+      "title": "相机陷阱视频帮助洪都拉斯愤怒农民拯救濒危野生动物物种",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/trail-cameras/camera-trap-footage-helps-save-endangered-wildlife-species-from-angry-farmers-in-honduras",
+      "publish_time": "2026-07-01T01:08:36+08:00",
+      "summary": "洪都拉斯相机陷阱研究向农民证明，濒危贝尔德貘并非唯一破坏作物者，避免报复行为，保护该物种。",
+      "recommendation": "相机陷阱技术用于生态保护，展示影像设备在非传统场景的实用价值，提供野生动物监测的独家案例与数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Camera trap footage helps save endangered wildlife species from angry farmers in Honduras"
+    },
+    {
+      "id": "recvo3RRNNJ2tV",
+      "title": "富士胶片致敬日本摄影辉煌史",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/fujifilm-celebrates-japans-rich-photographic-history/",
+      "publish_time": "2026-07-01T00:51:30+08:00",
+      "summary": "文章指出日本与摄影的关系可追溯至19世纪中期，早于佳能、富士等现代相机公司，致敬日本摄影辉煌史。",
+      "recommendation": "梳理日本摄影史脉络，从19世纪中期到现代相机品牌，提供历史视角，帮助理解影像文化根源。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm Celebrates Japan’s Rich Photographic History"
+    },
+    {
+      "id": "recvo3Sdoj1qLH",
+      "title": "三星Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8保护壳网上泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_cases_leaks_online-news-73506.php",
+      "publish_time": "2026-07-01T00:31:03+08:00",
+      "summary": "三星Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8保护壳网上泄露，展示多种配件选项，暗示可能随手机一同上市。",
+      "recommendation": "保护壳泄露可推测折叠屏手机摄像头模组设计，为影像爱好者提前了解三星旗舰影像硬件布局提供线索，但无具体参数或独家数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8, Z Fold8 Ultra, and Z Flip8 cases leaks online"
+    },
+    {
+      "id": "recvo3SmrSHDCw",
+      "title": "松下新镜头专利是2026年最智能的镜头设计吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/30/is-panasonics-new-lens-patent-the-smartest-lens-design-of-2026/",
+      "publish_time": "2026-07-01T00:00:00+08:00",
+      "summary": "松下计划推出新镜头，旨在简化微距摄影，作为镜头产品组合扩展的一部分，该设计或成2026年最智能镜头。",
+      "recommendation": "解析松下2026年微距镜头专利设计，提供镜头产品线扩展的独家技术细节，对关注计算摄影与光学创新的用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is Panasonic’s New Lens Patent the Smartest Lens Design of 2026?"
+    },
+    {
+      "id": "recvo3RXvTYbec",
+      "title": "从珊瑚礁到废弃剧院：2026年哈苏大师赛入围者揭晓",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/2400837990/hasselblad-masters-2026-photography-competition-winners",
+      "publish_time": "2026-06-30T23:31:00+08:00",
+      "summary": "哈苏公布2026年大师赛获奖者，从160国10.8万作品中选70名入围者，7位摄影师分获风光、建筑等七类别奖项。",
+      "recommendation": "文章从10.8万作品中筛选70名入围者，提供7位获奖摄影师的具体类别与作品背景，适合关注摄影美学与行业趋势的读者获取创作灵感。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "From coral reefs to abandoned theaters: meet the 2026 Hasselblad Masters"
+    },
     {
       "id": "recvo2zZK4xD6g",
       "title": "3200万像素巨型相机将每晚拍摄700张照片，持续10年",
@@ -7597,223 +7818,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Insta360 Luna Ultra Review: An Excellent Vlogging Camera with a Few Caveats"
-    },
-    {
-      "id": "recvmUCq3PKgQj",
-      "title": "FCC新规对外国制造玩具无人机的豁免窄得可笑",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/18/the-fccs-new-foreign-made-toy-drone-exemption-is-comically-narrow/",
-      "publish_time": "2026-06-18T21:59:53+08:00",
-      "summary": "FCC放宽对中国制造玩具无人机的限制，但定义极其狭隘，仅限符合严格标准的玩具无人机。",
-      "recommendation": "解析FCC新规对玩具无人机制造限制，揭示政策细节与行业影响，为关注无人机影像的爱好者提供政策解读与市场趋势参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The FCC’s New Foreign-Made Toy Drone Exemption Is Comically Narrow"
-    },
-    {
-      "id": "recvmUDjW2z6OB",
-      "title": "时隔10余年，富士胶片终于推出新一代相机（X-T6）及全新胶片模拟",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/after-10-years-fujifilm-finally-launches-a-new-film-simulation-along-with-next-generation-camera-x-t6/",
-      "publish_time": "2026-06-18T21:52:36+08:00",
-      "summary": "富士胶片时隔10余年推出新一代相机X-T6及全新胶片模拟，打破常规传闻，新平台发布时带来新模拟功能。",
-      "recommendation": "时隔10余年富士X-T6发布，全新胶片模拟打破传闻，解析新平台技术细节，对追求复古色彩的用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "After 10+ Years, Fujifilm Finally Launches a New Film Simulation Along with Next Generation Camera (X-T6)"
-    },
-    {
-      "id": "recvmUCfxCFVO7",
-      "title": "从王子到纽约街头：一位摄影师的双重世界生活",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/9600277209/from-prince-to-nyc-streets-a-photographer-s-life-in-two-worlds",
-      "publish_time": "2026-06-18T21:46:00+08:00",
-      "summary": "摄影师Brian Ach（Achman）从拍摄奥巴马音乐会等重大文化活动，到为Ge等客户拍摄体育场演出，展现了双重世界生活，使用佳能EOS-1D X及EF 70-200mm F2.8L IS II U",
-      "recommendation": "通过摄影师Brian Ach的实战案例，解析佳能EOS-1D X与EF 70-200mm F2.8L IS II U在重大活动与街头摄影中的差异化应用，提供职业摄影师的双重场景拍摄技巧与设备选择思路。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "From Prince to NYC streets: A photographer's life in two worlds"
-    },
-    {
-      "id": "recvmUCHGuG6tP",
-      "title": "尼康Z6 II性价比高，但我更推荐这款平价全画幅相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-nikon-z6-ii-is-a-bargain-but-id-buy-this-budget-full-frame-camera-instead",
-      "publish_time": "2026-06-18T21:44:24+08:00",
-      "summary": "尼康Z6 II性能扎实，但某款入门级全画幅相机性价比更高，更值得推荐。",
-      "recommendation": "对比尼康Z6 II与竞品，提供平价全画幅相机的选购视角，含传感器与对焦性能数据，适合预算有限的摄影爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Nikon Z6 II is a bargain, but I’d buy this budget full-frame camera instead"
-    },
-    {
-      "id": "recvmUCsyLbCVb",
-      "title": "双镜头Xtra Muse 2 Pro以低于700美元的价格挑战Insta360",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/18/dual-lens-xtra-muse-2-pro-undercuts-insta360-with-sub-700-price/",
-      "publish_time": "2026-06-18T21:23:51+08:00",
-      "summary": "Xtra发布Muse 2 Pro，定价低于700美元，对标DJI Osmo Pocket 4P，成为美国市场唯一挑战Insta360 Luna Ultra的产品。",
-      "recommendation": "解析Muse 2 Pro定价策略与竞品对比，揭示700美元以下双镜头方案如何挑战Insta360，提供市场格局与产品差异的深度洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Dual Lens Xtra Muse 2 Pro Undercuts Insta360 with Sub-$700 Price"
-    },
-    {
-      "id": "recvmUCKbz1V0a",
-      "title": "Adobe AI助手正式入驻Photoshop和Premiere，现在可以帮你处理照片和视频编辑中枯燥的部分",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/ai-can-now-handle-the-boring-parts-of-photo-and-video-editing-for-you-as-adobes-ai-assistant-officially-arrives-inside-photoshop-and-premiere",
-      "publish_time": "2026-06-18T21:00:00+08:00",
-      "summary": "Adobe AI助手正式公测，入驻Photoshop和Premiere，可自动处理照片和视频编辑中的枯燥任务，提升效率。",
-      "recommendation": "Adobe AI助手入驻Photoshop和Premiere，可自动化处理照片视频编辑中的重复任务，对影像爱好者提升后期效率有直接帮助。文章提供公测信息与功能概述，属于常规资讯，可了解行业动态。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "AI can now handle the boring parts of photo and video editing for you as Adobe’s AI Assistant officially arrives inside Photoshop and Premiere"
-    },
-    {
-      "id": "recvmUDmpivI0v",
-      "title": "Brightin Star 推出平价超广角镜头新品",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/18/brightin-star-introduces-a-new-ultra-wide-lens-on-a-budget/",
-      "publish_time": "2026-06-18T21:00:00+08:00",
-      "summary": "Brightin Star推出平价超广角镜头，性价比高，适合天文摄影师，扩展产品线。",
-      "recommendation": "平价超广角新品，为天文摄影爱好者提供高性价比选择，扩展产品线但缺乏独家数据与深度评测。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Brightin Star Introduces a New Ultra-Wide Lens on a Budget"
-    },
-    {
-      "id": "recvmUDtZzY2Q5",
-      "title": "疯狂传闻汇总：FX格式新相机将搭载新传感器？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/wild-rumors-roundup-soem-kind-of-new-fx-camera-coming-with-enw-sensor/",
-      "publish_time": "2026-06-18T20:55:57+08:00",
-      "summary": "索尼Alpha传闻汇总，FX格式新相机可能搭载新传感器，多数谣言错误但少数正确，需追踪验证。",
-      "recommendation": "汇总索尼FX新机传感器传闻，梳理谣言真伪，提供行业动态追踪参考，适合关注全画幅视频机发展的用户。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Wild rumors roundup: Some kind of new FX camera coming with new sensor?"
-    },
-    {
-      "id": "recvmUCMJGltaR",
-      "title": "作为摄影师，连我都觉得无人机烦人——但看在老天的份上，别像这家伙一样朝它们开枪",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/drones/as-a-photographer-even-i-find-drones-annoying-but-for-heavens-sake-dont-shoot-at-them-like-this-man-did",
-      "publish_time": "2026-06-18T20:15:39+08:00",
-      "summary": "摄影师虽嫌无人机烦人，但反对像佛罗里达男子那样向警方无人机开枪",
-      "recommendation": "从摄影师视角剖析无人机干扰与法律边界，提供行业伦理思考。独特信息：佛罗里达男子开枪事件细节，深度观点：技术便利与公共安全的冲突。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "As a photographer, even I find drones annoying – but for heaven's sake, don’t SHOOT at them like this man did"
-    },
-    {
-      "id": "recvmUCv55gOaF",
-      "title": "员工士气暴跌后，Meta增加零食预算",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/18/meta-is-increasing-the-snack-budget-after-staff-morale-plummets/",
-      "publish_time": "2026-06-18T20:11:21+08:00",
-      "summary": "Meta在裁员和引入AI监控后员工士气暴跌，公司通过增加零食预算来提振士气。",
-      "recommendation": "Meta员工士气与零食预算的关联，揭示科技公司内部管理对影像团队创新的潜在影响，提供行业生态的独特视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meta is Increasing the Snack Budget After Staff Morale Plummets"
-    },
-    {
-      "id": "recvmUD6EpTuWI",
-      "title": "Gurman：iPhone Air 2 将于2027年春季推出，配备双后置摄像头",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/gurman_iphone_air_2_with_dual_rear_cameras_to_debut_in_spring_2027-news-73329.php",
-      "publish_time": "2026-06-18T20:08:02+08:00",
-      "summary": "苹果第二代iPhone Air将于2027年春季发布，配备双后置摄像头系统，包括主传感器和超广角摄像头。",
-      "recommendation": "提前两年曝光iPhone Air 2双摄方案，含主摄与超广角规格，对关注苹果影像路线图的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Gurman: iPhone Air 2 with dual rear cameras to debut in Spring 2027"
-    },
-    {
-      "id": "recvmUCxDWlcTX",
-      "title": "你可以一边看《奥德赛》，一边从IMAX摄影机桶里吃爆米花",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/18/you-can-eat-your-popcorn-from-an-imax-camera-bucket-while-watching-the-odyssey/",
-      "publish_time": "2026-06-18T19:08:55+08:00",
-      "summary": "文章介绍了一款以《奥德赛》为主题、形似IMAX摄影机桶的新奇爆米花桶，强调其独特设计，类似星球大战中的古古桶，为观影增添趣味。",
-      "recommendation": "从IMAX摄影机造型爆米花桶切入，揭示电影IP与影像文化跨界营销趋势，对关注消费电子影像周边生态的读者有启发。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "You Can Eat Your Popcorn From an IMAX Camera Bucket While Watching ‘The Odyssey’"
-    },
-    {
-      "id": "recvmUD9dS3xYB",
-      "title": "荣耀600 Smart悄然发布：6.87英寸LCD大屏与7700mAh超大电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_600_smart_launches_quietly_with_a_sizeable_687_lcd_and_large_7700mah_battery-news-73332.php",
-      "publish_time": "2026-06-18T19:04:03+08:00",
-      "summary": "荣耀600 Smart发布，配备6.87英寸LCD大屏和7700mAh超大电池，支持45W快充，续航长达93小时，视频播放28小时。",
-      "recommendation": "本文聚焦荣耀600 Smart的续航与屏幕，虽未涉及影像核心参数，但7700mAh电池对视频拍摄场景有参考价值，适合关注长续航影像设备的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Honor 600 Smart launches quietly with a sizeable 6.87\" LCD and large 7,700mAh battery"
-    },
-    {
-      "id": "recvmUDbNHwQ5a",
-      "title": "小米Poco X8 Pro vs. Poco X8 Pro Max",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_poco_x8_pro_vs_poco_x8_pro_max_review_battery_camera_price_compared-news-73216.php",
-      "publish_time": "2026-06-18T18:00:04+08:00",
-      "summary": "Poco X8 Pro与Pro Max价差约100-120欧元，Pro Max拥有更强SoC、更大显示屏，需评估是否值得多花钱",
-      "recommendation": "对比Poco X8 Pro与Pro Max的影像配置差异，分析100-120欧元价差是否值得，为预算有限的手机摄影爱好者提供购机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Xiaomi Poco X8 Pro vs. Poco X8 Pro Max"
     }
   ]
 }
