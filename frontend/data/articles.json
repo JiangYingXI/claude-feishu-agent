@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-06-30T18:18:06.618335+08:00",
+    "updated_at": "2026-06-30T23:19:51.410559+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,35 +13,286 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 101
+      "count": 99
     },
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 0
+      "count": 1
     },
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 27
+      "count": 26
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 409
+      "count": 411
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 170
+      "count": 173
     }
   ],
   "articles": [
+    {
+      "id": "recvo2zZK4xD6g",
+      "title": "3200万像素巨型相机将每晚拍摄700张照片，持续10年",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/the-worlds-largest-digital-camera-just-started-its-10-year-mission-to-map-the-universe/",
+      "publish_time": "2026-06-30T23:00:50+08:00",
+      "summary": "美国启动十年天文任务，使用3200万像素相机每晚拍摄700张照片，开启天文学新时代",
+      "recommendation": "天文级3200万像素相机十年任务，提供超长曝光与高像素数据，对影像爱好者理解极端成像场景有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Massive 3,200 Megapixel Camera Will Take 700 Photos Every Night for 10 Years"
+    },
+    {
+      "id": "recvo2AbnOtD9w",
+      "title": "三星Galaxy Z Fold8关键特性曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_key_features_revealed-news-73505.php",
+      "publish_time": "2026-06-30T22:06:03+08:00",
+      "summary": "三星Galaxy Z Fold8关键规格曝光，实为此前传闻的Galaxy Fold Wide，将取代标准版，而非Z Fold7直接继任者。",
+      "recommendation": "文章揭示Z Fold8实为Fold Wide，非标准迭代，对关注折叠屏影像布局的用户有参考价值，但缺乏具体影像规格数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8 key features revealed"
+    },
+    {
+      "id": "recvo2AkvKvbhA",
+      "title": "尼康Z30如何在vlog市场折戟，却又浴火重生成为高端便携相机的意外之选",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/how-the-nikon-z30-failed-the-vlogging-market-but-rose-from-the-ashes-as-an-unlikely-alternative-to-the-premium-compact-camera",
+      "publish_time": "2026-06-30T21:05:30+08:00",
+      "summary": "尼康Z30虽无取景器，却因轻便和出色画质成为高端便携相机意外之选，核心在于其平衡了性能与便携性。",
+      "recommendation": "解析尼康Z30从vlog失利到高端便携相机意外翻红的路径，提供市场定位与产品取舍的深度观点，对权衡性能与便携的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How the Nikon Z30 failed the vlogging market, but rose from the ashes as an unlikely alternative to the premium compact camera"
+    },
+    {
+      "id": "recvo2AGiOLo2E",
+      "title": "腾龙正在研发新镜头以取代备受喜爱的35-100mm？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/30/is-tamron-building-a-new-lens-to-replace-its-beloved-35-100mm/",
+      "publish_time": "2026-06-30T21:00:00+08:00",
+      "summary": "腾龙研发新专利，旨在推出取代35-100mm的全能型变焦镜头，覆盖旅行、活动及婚礼摄影常用焦段，提供更实用选择。",
+      "recommendation": "专利信息揭示腾龙35-100mm替代镜头的焦段与光学设计方向，对关注旅行/婚礼摄影的用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Tamron Building a New Lens to Replace Its Beloved 35-100mm?"
+    },
+    {
+      "id": "recvo2AexLutAM",
+      "title": "Redmi K90 Ultra 携骁龙8 Elite与内置主动散热风扇登场",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_k90_ultra_is_here_with_the_snapdragon_8_elite_and_a_massive_builtin_active_cooling_fan-news-73509.php",
+      "publish_time": "2026-06-30T20:59:02+08:00",
+      "summary": "Redmi发布K90 Ultra，搭载骁龙8 Elite芯片、内置主动散热风扇（降温10°C）、D2插帧芯片，配备6.83英寸165Hz AMOLED屏幕，主打游戏性能。",
+      "recommendation": "本文聚焦Redmi K90 Ultra的散热与插帧芯片设计，虽非影像专属，但D2芯片对游戏场景的帧率优化可间接提升视频拍摄稳定性，适合关注性能与影像协同的玩家。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "ISP & 影像芯片"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Redmi K90 Ultra is here with the Snapdragon 8 Elite and a massive built-in active cooling fan"
+    },
+    {
+      "id": "recvo2AnwjSdgX",
+      "title": "14岁水下摄影师在知名专业比赛中夺得大奖——用慢速快门照亮罕见世界",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/14-year-old-underwater-photographer-scoops-top-prize-in-prestigious-professional-competition-illuminating-a-world-rarely-seen-with-slow-shutter-speeds",
+      "publish_time": "2026-06-30T20:48:56+08:00",
+      "summary": "14岁泰国水下摄影师用慢速快门技术，在知名专业比赛中夺得大奖，展现罕见水下世界的技术技能与艺术价值。",
+      "recommendation": "14岁摄影师用慢速快门挑战水下摄影极限，揭示罕见生物与光影结合的技术细节，对水下摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "14-year-old underwater photographer scoops top prize in prestigious professional competition – illuminating a world rarely seen with slow shutter speeds"
+    },
+    {
+      "id": "recvo2AAWJbgUi",
+      "title": "索尼RX10V将于7月9日发布",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-rx10v-announcement-on-july-9/",
+      "publish_time": "2026-06-30T20:45:55+08:00",
+      "summary": "索尼将于7月9日发布RX10V相机，搭载新芯片提升处理速度和自动对焦，支持NPFZ1000电池，沿用RX10IV的传感器和24-600mm镜头，为小幅更新。",
+      "recommendation": "本文提供RX10V发布具体日期、芯片升级细节及电池型号，对关注长焦便携机的用户有明确参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony RX10V announcement on July 9"
+    },
+    {
+      "id": "recvo2AqpR7w2a",
+      "title": "这些热门全画幅相机突然大幅降价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/these-popular-full-frame-cameras-are-suddenly-much-cheaper",
+      "publish_time": "2026-06-30T20:25:59+08:00",
+      "summary": "佳能、尼康和索尼三款全画幅无反相机旗舰机型大幅降价，最高节省600美元，让升级变得轻松。",
+      "recommendation": "提供佳能、尼康、索尼三款全画幅旗舰降价幅度与节省金额，适合观望升级的用户参考，属常规行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These popular full-frame cameras are suddenly much cheaper"
+    },
+    {
+      "id": "recvo2A2DRjhlz",
+      "title": "这张照片如何开启了‘后室’文化",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/how-backrooms-all-started-with-this-photograph/",
+      "publish_time": "2026-06-30T20:18:25+08:00",
+      "summary": "恐怖片《后室》全球票房超3.3亿美元，源于2002年索尼Cyber-shot相机拍摄的一张照片，开启网络怪谈文化",
+      "recommendation": "从一张2002年索尼Cyber-shot照片切入，解析‘后室’文化起源，揭示消费级相机如何意外催生全球网络怪谈现象，对影像文化爱好者有独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How ‘Backrooms’ All Started With This Photograph"
+    },
+    {
+      "id": "recvo2ADFJBCzJ",
+      "title": "终于开放预购：7Artisan 135mm f/1.8 FE新镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/finally-available-for-preorder-new-7artisan-135mm-f-1-8-fe-lens/",
+      "publish_time": "2026-06-30T20:08:00+08:00",
+      "summary": "7Artisan 135mm f/1.8 FE镜头现已开放预购，可在BHphoto、亚马逊及官方商店购买，该消息源自sonyalpharumors。",
+      "recommendation": "135mm f/1.8大光圈人像镜头开放预购，提供预购渠道与价格信息，适合关注国产手动长焦镜头的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Finally available for preorder: new 7Artisan 135mm f/1.8 FE lens"
+    },
+    {
+      "id": "recvo2A5yOsvHK",
+      "title": "2026年哈苏大师摄影大赛的7位杰出获奖者",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/the-7-spectacular-winners-of-the-hasselblad-masters-2026-photo-contest/",
+      "publish_time": "2026-06-30T20:00:02+08:00",
+      "summary": "哈苏公布2026年哈苏大师摄影大赛7位获奖者，该赛事为全球最负盛名的摄影比赛之一。",
+      "recommendation": "通过7位获奖者作品，解析哈苏大师赛的审美趋势与创作技法，为影像爱好者提供高水准构图与色彩参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 7 Spectacular Winners of the Hasselblad Masters 2026 Photo Contest"
+    },
+    {
+      "id": "recvo2AsUJi79N",
+      "title": "「最引人入胜的摄影不仅仅是记录，更是构建」——世界知名专业摄影大赛获奖作品揭晓",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/the-most-compelling-photography-does-not-simply-record-it-constructs-award-winning-images-revealed-from-world-renowned-professional-photo-competition",
+      "publish_time": "2026-06-30T20:00:00+08:00",
+      "summary": "哈苏大师赛2025获奖作品揭晓，涵盖野生动物、建筑、人像等领域，展示当代摄影顶尖水准，强调摄影不仅是记录更是构建。",
+      "recommendation": "解析哈苏大师赛2025获奖作品，从野生动物到人像，揭示摄影从记录到构建的创作理念，适合追求美学与技术的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"The most compelling photography does not simply record, it constructs\" – award-winning images revealed from world-renowned professional photo competition"
+    },
+    {
+      "id": "recvo2AvwLr3we",
+      "title": "2026年最佳预算入门相机：含镜头仅需499美元起",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-best-budget-beginner-cameras-of-2026-are-available-from-usd499-with-lens",
+      "publish_time": "2026-06-30T19:52:07+08:00",
+      "summary": "2026年最佳预算入门相机推荐，含镜头仅需499美元起，最高可节省420美元，适合初学者。",
+      "recommendation": "推荐理由：为预算有限的入门用户提供499美元起的相机镜头套装，含具体型号与节省金额数据，适合初学者快速锁定高性价比机型。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The best budget beginner cameras of 2026 are available from $499 WITH lens"
+    },
+    {
+      "id": "recvo2AhFzI35Q",
+      "title": "iPhone 18 Pro 现身泄露跌落测试",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_18_pro_emerges_in_leaked_drop_test-news-73504.php",
+      "publish_time": "2026-06-30T19:47:02+08:00",
+      "summary": "iPhone 18 Pro真机在发布前意外曝光，跌落测试显示其设计与iPhone 17 Pro几乎相同，视频由@evleaks分享但账号已被暂停。",
+      "recommendation": "iPhone 18 Pro真机泄露，跌落测试揭示其与17 Pro设计一致，对关注苹果影像迭代的用户提供外观确认，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iPhone 18 Pro emerges in leaked drop test"
+    },
+    {
+      "id": "recvo2AybC7Ji3",
+      "title": "“经过数小时的紧张等待，奇迹发生了”——这位摄影师拍到了一家黑化印度豹",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/after-hours-of-intense-waiting-the-magic-happened-this-photographer-captured-a-family-of-melanistic-indian-leopards-on-camera",
+      "publish_time": "2026-06-30T18:23:25+08:00",
+      "summary": "野生动物摄影师历经数小时等待，成功拍摄到罕见的黑化印度豹家族，记录了这一千载难逢的奇迹瞬间。",
+      "recommendation": "解析黑化印度豹拍摄的曝光参数与等待策略，提供长焦镜头在低光环境下的实战技巧，对野生动物摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"After hours of intense waiting, the magic happened\" – this photographer captured a family of melanistic Indian leopards on camera"
+    },
+    {
+      "id": "recvo2A8vatsmu",
+      "title": "你识别AI生成人脸的方法错了",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/youre-trying-to-spot-ai-generated-faces-wrong/",
+      "publish_time": "2026-06-30T18:15:57+08:00",
+      "summary": "过去识别AI人脸靠找畸形，但到2026年机器已大幅改进，旧方法失效，需新识别技术",
+      "recommendation": "本文揭示2026年AI生成人脸识别旧方法失效，提供新识别技术，对影像爱好者鉴别虚假内容有实用价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "You’re Trying to Spot AI-Generated Faces Wrong"
+    },
     {
       "id": "recvo1mFNGJN7G",
       "title": "索尼a7r III在2026年仍是一款好相机吗？",
@@ -7563,255 +7814,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Xiaomi Poco X8 Pro vs. Poco X8 Pro Max"
-    },
-    {
-      "id": "recvmUDoW1ISN1",
-      "title": "别让相机替你拍照",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/18/dont-let-your-camera-make-photos-for-you/",
-      "publish_time": "2026-06-18T18:00:00+08:00",
-      "summary": "数码相机复兴使摄影师更注重自然趣味而非技术精度，强调摄影师应主动控制拍摄而非依赖相机自动功能。",
-      "recommendation": "文章直击数码相机复兴中摄影师过度依赖自动功能的痛点，提出主动控制拍摄的深度观点，对追求自然趣味的影像爱好者有实操启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Don’t Let Your Camera Make Photos For You"
-    },
-    {
-      "id": "recvmUCPbphpEu",
-      "title": "盐水、金箔与19世纪化学：全球历史最悠久的摄影展回归，技术探索前所未有",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/saltwater-gold-leaf-and-19th-century-chemistry-the-worlds-longest-running-photography-exhibition-is-back-and-its-more-technically-adventurous-than-ever",
-      "publish_time": "2026-06-18T16:42:50+08:00",
-      "summary": "IPE 167摄影展回归，展示从盐水、金箔到19世纪化学技术的探索，证明摄影仍是直面世界的有力工具。",
-      "recommendation": "从盐水、金箔到19世纪化学工艺，IPE 167展揭示摄影技术史中鲜为人知的实验性探索，为影像爱好者提供技术溯源与美学启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Saltwater, gold leaf and 19th-century chemistry: the world's longest-running photography exhibition is back, and it's more technically adventurous than ever"
-    },
-    {
-      "id": "recvmUCRDPq7iy",
-      "title": "我从未见过南极光，但怀疑太空首台无反相机在国际空间站拍摄的景色无与伦比",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/ive-never-seen-the-southern-lights-but-i-doubt-anything-beats-this-view-photographed-aboard-the-iss-by-the-first-mirrorless-camera-in-space",
-      "publish_time": "2026-06-18T15:41:32+08:00",
-      "summary": "国际空间站首台无反相机拍摄的南极光照片，展现太空视角的异常景象，凸显其独特价值。",
-      "recommendation": "太空首台无反相机实拍南极光，提供国际空间站独特视角与影像数据，对天文摄影爱好者有稀缺参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I’ve never seen the Southern Lights, but I doubt anything beats this view photographed aboard the ISS by the first mirrorless camera in space"
-    },
-    {
-      "id": "recvmUCUaWPISK",
-      "title": "Flashback One35 V2评测：这款复古一次性相机替代品如此出色，让我不再怀念iPhone快照",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/flashback-one35-v2-review-this-retro-disposable-camera-dupe-is-so-good-i-didnt-miss-my-iphone-snapshots",
-      "publish_time": "2026-06-18T15:33:49+08:00",
-      "summary": "Flashback One35 V2评测：复古外观，数字化联网，替代一次性相机，保留胶片质感，支持WiFi传输，售价约800元，核心价值在于复古体验与现代便利的结合。",
-      "recommendation": "深度评测Flashback One35 V2，解析其800元价位如何平衡胶片质感与WiFi传输便利，提供复古体验与现代功能的独特结合视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Flashback One35 V2 review: This retro disposable camera dupe is so good, I didn’t miss my iPhone snapshots"
-    },
-    {
-      "id": "recvmUCWuXFmv9",
-      "title": "索尼专业24-70mm f/2.8 G Master镜头现仅售1,598美元，亚马逊Prime早期促销",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/sonys-pro-24-70mm-f-2-8-g-master-is-now-just-usd1-598-in-this-early-amazon-prime-deal",
-      "publish_time": "2026-06-18T15:31:45+08:00",
-      "summary": "索尼24-70mm f/2.8 GM镜头在亚马逊Prime早期促销中仅售1,598美元，适合人像、婚礼、旅行等场景。",
-      "recommendation": "提供索尼GM镜头Prime促销价格，适合人像/婚礼用户参考，但无独家数据或深度分析，属常规资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sony’s pro 24-70mm f/2.8 G Master is now just $1,598 in this early Amazon Prime deal"
-    },
-    {
-      "id": "recvmUDwvvKyJd",
-      "title": "刚刚发布：Brightin Star 14mm f/2.8手动FE镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/just-announced-new-brightin-star-14mm-f-2-8-manual-fe-lens/",
-      "publish_time": "2026-06-18T15:21:55+08:00",
-      "summary": "Brightin Star发布14mm f/2.8手动FE镜头，已在BHphoto、亚马逊和BrightinStar预售，仅支持手动对焦，暂无评测。",
-      "recommendation": "提供Brightin Star 14mm f/2.8手动FE镜头预售信息，含BHphoto、亚马逊等渠道，但无评测数据，属常规资讯，可了解行业新品动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Just announced: New Brightin Star 14mm f/2.8 manual FE Lens"
-    },
-    {
-      "id": "recvmUDrqI4scn",
-      "title": "旅行摄影师最佳5款紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/18/5-best-compact-cameras-for-travel-photographers/",
-      "publish_time": "2026-06-18T15:00:00+08:00",
-      "summary": "旅行摄影需小巧便携相机，紧凑型相机无需换镜头，适合一机走天下。本文推荐5款，强调便携性与画质平衡。",
-      "recommendation": "聚焦旅行场景，对比5款紧凑型相机便携性与画质平衡，含传感器尺寸、光圈等关键参数，适合一机走天下需求的用户参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "5 Best Compact Cameras for Travel Photographers"
-    },
-    {
-      "id": "recvmUCZ1sswcL",
-      "title": "大脑仅如罂粟籽大小的跳蛛，藏着革命性3D相机的秘密",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/a-tiny-jumping-spider-with-a-brain-the-size-of-a-poppy-seed-holds-the-secret-to-a-revolutionary-new-3d-camera",
-      "publish_time": "2026-06-18T14:53:12+08:00",
-      "summary": "受跳蛛启发的新型超高效3D相机，可能重塑无人机、机器人和可穿戴设备的视觉方式，其大脑仅如罂粟籽大小。",
-      "recommendation": "跳蛛大脑仅罂粟籽大小，却启发超高效3D相机设计，揭示仿生光学与计算摄影融合新路径，对无人机、机器人视觉创新有独特参考价值。",
-      "categories": [
-        "镜头与光学",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A tiny jumping spider with a brain the size of a poppy seed holds the secret to a revolutionary new 3D camera"
-    },
-    {
-      "id": "recvmUDeqpPYpX",
-      "title": "vivo开始预热全球版Y500，透露电池容量和屏幕分辨率",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_starts_teasing_the_global_y500_reveals_its_battery_capacity_and_screen_resolution-news-73325.php",
-      "publish_time": "2026-06-18T14:25:02+08:00",
-      "summary": "vivo在尼泊尔预告全球版Y500，配备1.5K AMOLED屏幕和8100mAh电池，采用时尚相机设计，处理器型号未公布。",
-      "recommendation": "文章透露Y500配备1.5K AMOLED屏与8100mAh电池，但未公布处理器，影像配置细节缺失，对关注中端手机拍照的用户价值有限，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo starts teasing the global Y500, reveals its battery capacity and screen resolution"
-    },
-    {
-      "id": "recvmUDhfKiHPc",
-      "title": "搭载Gemini的Google Home音箱终于有官方发布日期，预购开启",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_home_speaker_with_gemini_finally_has_an_official_release_date_preorders_start-news-73324.php",
-      "publish_time": "2026-06-18T13:25:02+08:00",
-      "summary": "谷歌Home Speaker智能音箱将于6月25日发售，售价99.99美元，提供四色，其中翡翠绿和浆果红为美国限定，现已开启预购。",
-      "recommendation": "常规资讯，可了解行业动态。虽非影像核心内容，但智能音箱与手机影像生态联动趋势值得关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google Home Speaker with Gemini finally has an official release date, pre-orders start"
-    },
-    {
-      "id": "recvmS1x20WNOA",
-      "title": "你应该信任新相机固件吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/18/should-you-trust-new-camera-firmware/",
-      "publish_time": "2026-06-18T12:00:00+08:00",
-      "summary": "文章质疑新相机固件是否值得信任，指出手机领域新软件常使体验变差，相机领域也出现类似问题，品牌可能通过固件更新迫使消费者购买新产品。",
-      "recommendation": "从手机到相机，固件更新可能暗藏消费陷阱。本文提供独特行业视角，帮助影像爱好者警惕品牌策略，避免因固件被迫升级设备。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Should You Trust New Camera firmware?"
-    },
-    {
-      "id": "recvmS1sjObRAR",
-      "title": "DZOFILM发布Octopus II多卡口镜头转接环与Marlin 1.4x增倍镜",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/dzofilm-announces-octopus-ii-multi-mount-lens-adapter-marlin-1-4x-extender/",
-      "publish_time": "2026-06-18T10:51:25+08:00",
-      "summary": "DZOFILM发布Octopus II多卡口转接环和Marlin 1.4x增倍镜，提升镜头兼容性与效率，适用于短视频、直播、电影等制作场景。",
-      "recommendation": "常规资讯，可了解DZOFILM转接环与增倍镜对多卡口兼容性的提升，适合短视频与电影制作场景的实用配件。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "DZOFILM Announces Octopus II Multi-Mount Lens Adapter & Marlin 1.4x Extender"
-    },
-    {
-      "id": "recvmS1k5SzggT",
-      "title": "古尔曼：内置摄像头的苹果AirPods或于2027年底推出",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/gurman_apple_airpods_with_builtin_camera_may_arrive_in_late_2027-news-73323.php",
-      "publish_time": "2026-06-18T09:31:02+08:00",
-      "summary": "苹果内置摄像头的AirPods预计2027年底发布，与第二代可折叠iPhone及20周年纪念iPhone一同亮相。",
-      "recommendation": "苹果AirPods内置摄像头传闻，揭示计算摄影与空间音频融合趋势。2027年时间点及与折叠iPhone同台信息，为影像生态布局提供前瞻视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Gurman: Apple AirPods with built-in camera may arrive in late 2027"
-    },
-    {
-      "id": "recvmS1uGco8vm",
-      "title": "在高分辨率RAW文件和ISO 12800下测试Aiarty图像增强器",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/testing-aiarty-image-enhancer-on-high-resolution-raw-files-and-iso-12800/",
-      "publish_time": "2026-06-18T09:09:18+08:00",
-      "summary": "摄影师用ISO 12800 RAW和失焦照片测试Aiarty图像增强器，禁用默认处理，评估其在高噪点下的性能，作为Topaz替代方案。",
-      "recommendation": "实测AI降噪工具在高ISO和失焦RAW下的极限表现，提供与Topaz的对比数据，对追求极致画质的摄影爱好者有参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Testing Aiarty Image Enhancer on High-Resolution RAW Files and ISO 12,800"
-    },
-    {
-      "id": "recvmS1meihAOc",
-      "title": "Nothing CEO Carl Pei 欲从苹果手中抢夺用户",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/nothing_ceo_carl_pei_wants_to_steal_apples_customers-news-73320.php",
-      "publish_time": "2026-06-18T08:02:02+08:00",
-      "summary": "Nothing CEO Carl Pei 在Instagram上向苹果喊话，宣称将抢走其用户，以此作为宣传噱头。",
-      "recommendation": "Carl Pei的公开喊话虽为营销噱头，但可从中窥见Nothing手机影像策略的竞争定位，对关注新兴品牌动向的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nothing CEO Carl Pei wants to steal Apple's customers"
-    },
-    {
-      "id": "recvmS1ofvmev5",
-      "title": "Wear OS 7 现已面向符合条件的 Pixel Watch 推送",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/wear_os_7_is_now_available_for_eligible_pixel_watch-news-73319.php",
-      "publish_time": "2026-06-18T06:31:02+08:00",
-      "summary": "谷歌向Pixel Watch 2/3/4推送Wear OS 7更新，引入新功能和改进，声称可延长电池续航。",
-      "recommendation": "Wear OS 7更新虽非影像专属，但续航提升间接利好手表远程控制相机场景，常规资讯可了解生态动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Wear OS 7 is now available for eligible Pixel Watch"
     }
   ]
 }
