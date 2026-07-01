@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-01T04:36:21.044057+08:00",
+    "updated_at": "2026-07-01T13:12:28.887551+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 100
+      "count": 101
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,133 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 26
+      "count": 25
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 410
+      "count": 409
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 177
+      "count": 180
     }
   ],
   "articles": [
+    {
+      "id": "recvo5Y5RaSSg4",
+      "title": "三星正式预热宽屏Galaxy Z Fold8",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_officially_starts_teasing_its_widescreen_galaxy_z_fold8-news-73519.php",
+      "publish_time": "2026-07-01T13:00:02+08:00",
+      "summary": "三星正式预热宽屏折叠手机Galaxy Z Fold8，预计7月22日发布，预告片强调宽屏设计，未展示设备本身。",
+      "recommendation": "关注折叠屏形态演进，宽屏设计或影响影像交互逻辑，但未涉及具体相机规格，适合了解行业趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung officially starts teasing its wide-screen Galaxy Z Fold8"
+    },
+    {
+      "id": "recvo5YiC8c67H",
+      "title": "尼康发布Nikkor Z 35mm和50mm f/1.4镜头新固件更新",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/06/30/nikon-released-new-firmware-updates-for-the-nikkor-z-35mm-50mm-f-1-4-lenses.aspx/",
+      "publish_time": "2026-07-01T11:44:57+08:00",
+      "summary": "尼康发布Nikkor Z 35mm和50mm f/1.4镜头固件更新，版本1.01，修复相机关闭时对焦镜片位置，提升启动可靠性。",
+      "recommendation": "尼康Z 35mm和50mm f/1.4固件更新修复关机镜片位置问题，提升启动可靠性，对追求稳定性的用户有实用价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon released new firmware updates for the Nikkor Z 35mm & 50mm f/1.4 lenses"
+    },
+    {
+      "id": "recvo5Y0dqyP0R",
+      "title": "富士QuickSnap胶片相机系列新增两款型号",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/fujifilms-quicksnap-film-camera-series-gets-a-pair-of-new-models/",
+      "publish_time": "2026-07-01T10:00:57+08:00",
+      "summary": "富士胶片为庆祝QuickSnap系列40周年，推出两款新型号一次性模拟相机，延续经典设计。",
+      "recommendation": "QuickSnap系列40周年新品发布，提供胶片爱好者了解经典一次性相机设计延续与型号差异的参考信息。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm’s QuickSnap Film Camera Series Gets a Pair of New Models"
+    },
+    {
+      "id": "recvo5YfXcxL83",
+      "title": "富士QuickSnap黑白版与QuickSnap Active：为胶片摄影带来怀旧与简约",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/06/30/fujifilm-quicksnap-black-white-quicksnap-active-announcement/",
+      "publish_time": "2026-07-01T10:00:00+08:00",
+      "summary": "富士发布两款一次性胶片相机QuickSnap黑白版和Active版，带来怀旧与简约的胶片摄影体验。",
+      "recommendation": "解析富士一次性胶片相机新品，提供黑白版与Active版的具体参数对比，适合关注胶片复兴趋势的爱好者了解产品差异化定位。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm’s QuickSnap Black and White, and the QuickSnap Active Bring Back Nostalgia and Simplicity to Analog Photography"
+    },
+    {
+      "id": "recvo5Y8yAB7XR",
+      "title": "Nothing 公布 Ear (3a) 正式发布日期",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/nothing_unveils_ear_3a_official_launch_date-news-73517.php",
+      "publish_time": "2026-07-01T09:21:02+08:00",
+      "summary": "Nothing确认Ear (3a) TWS耳机将于7月7日与Phone (4b)同时发布，预告视频已公布。",
+      "recommendation": "常规资讯，可了解Nothing生态布局。虽未涉及影像核心参数，但Ear (3a)与Phone (4b)同期发布或暗示音频与影像协同优化，关注计算摄影的爱好者可留意后续评测。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nothing unveils Ear (3a) official launch date"
+    },
+    {
+      "id": "recvo5Y3dbTUGD",
+      "title": "年度天文摄影师大赛29位入围者",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/06/30/the-29-finalists-for-astronomy-photographer-of-the-year/",
+      "publish_time": "2026-07-01T08:01:49+08:00",
+      "summary": "格林威治皇家天文台公布年度天文摄影师大赛29位入围者，比赛收到66国近4000份作品，涵盖业余与专业摄影师。",
+      "recommendation": "29幅入围作品展示天文摄影从构图到技术的多样性，含66国近4000份投稿的竞争数据，对长曝光、星野拍摄爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 29 Finalists for Astronomy Photographer of the Year"
+    },
+    {
+      "id": "recvo5Yb4v4WEC",
+      "title": "我爱这款古怪的小佳能，价格跌至历史最低398澳元——非常适合初学者的vlog相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-love-this-quirky-little-canon-thats-dropped-to-an-all-time-low-price-of-aud398-and-its-a-fabulous-vlogging-camera-for-beginners",
+      "publish_time": "2026-07-01T07:55:45+08:00",
+      "summary": "佳能PowerShot V10小巧便携，价格降至398澳元历史最低，适合初学者录制vlog",
+      "recommendation": "佳能PowerShot V10降至398澳元历史低价，文章提供具体价格数据与vlog入门适用性分析，适合关注便携相机性价比的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I love this quirky little Canon that's dropped to an all-time low price of AU$398 – and it's a fabulous vlogging camera for beginners"
+    },
     {
       "id": "recvo3Sgw00mXl",
       "title": "新款Megadap ETZ 21电影转接环即将上市",
@@ -135,6 +243,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "“Today, we begin filming the greatest cosmic movie ever made.” At 3,200MP, the world’s largest camera has officially started its unprecedented mission"
+    },
+    {
+      "id": "recvo5YdxOFaAb",
+      "title": "3200万像素！世界最大相机正式开启史无前例的任务：“今天，我们开始拍摄有史以来最伟大的宇宙电影。”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/today-we-begin-filming-the-greatest-cosmic-movie-ever-made-at-3-200mp-the-worlds-largest-camera-has-officially-started-its-unprecedented-mission",
+      "publish_time": "2026-07-01T02:53:16+08:00",
+      "summary": "维拉·C·鲁宾天文台启动十年夜空延时摄影，使用3200万像素世界最大相机，拍摄最伟大的宇宙电影。",
+      "recommendation": "3200万像素世界最大相机启动十年宇宙延时摄影，含独家传感器尺寸与芯片数据，为影像爱好者揭示天文级成像技术边界。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "At 3,200 megapixels, the world’s largest camera has officially started its unprecedented mission. “Today, we begin filming the greatest cosmic movie ever made.”"
     },
     {
       "id": "recvo3RP1uGPE4",
@@ -7695,129 +7819,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Are Counterfeit, Scam SD Memory Cards Really a Problem?"
-    },
-    {
-      "id": "recvmUCAkuPaNB",
-      "title": "日本暂停订单，因“预购远超预期”，一款新型便携变焦相机加入备受追捧的紧凑型相机行列",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/a-new-pocketable-zoom-camera-is-joining-the-ranks-of-highly-coveted-compact-cameras-as-japan-suspends-orders-after-far-more-preorders-than-anticipated",
-      "publish_time": "2026-06-18T23:57:12+08:00",
-      "summary": "松下因新款Lumix L10便携变焦相机预购远超预期，暂停接受订单，该相机加入热门紧凑型相机行列",
-      "recommendation": "松下L10预购超预期暂停订单，揭示紧凑变焦相机市场需求旺盛，提供行业供需动态与产品热度数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A new pocketable zoom camera is joining the ranks of highly coveted compact cameras, as Japan suspends orders after “far more preorders than anticipated\""
-    },
-    {
-      "id": "recvmVQewiAHHb",
-      "title": "变焦相机加入热门紧凑相机行列，日本因“预购远超预期”暂停订单",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/a-new-pocketable-zoom-camera-is-joining-the-ranks-of-highly-coveted-compact-cameras-as-japan-suspends-orders-after-far-more-preorders-than-anticipated",
-      "publish_time": "2026-06-18T23:57:12+08:00",
-      "summary": "松下因新款Lumix L10变焦相机预购远超预期，暂停日本订单接收",
-      "recommendation": "日本市场预购数据揭示变焦相机需求回升，L10供不应求反映消费趋势，对关注紧凑相机动态的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A new zoom camera is joining the ranks of highly coveted compact cameras, as Japan suspends orders after “far more preorders than anticipated\""
-    },
-    {
-      "id": "recvmUCCMSQ4Pk",
-      "title": "三星Galaxy XR让你在2D图像中实现3D移动：这对摄影长期意味着什么？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/extended-reality/the-samsung-galaxy-xr-lets-you-move-in-3d-inside-your-2d-images-what-could-this-mean-for-photography-long-term",
-      "publish_time": "2026-06-18T23:51:03+08:00",
-      "summary": "三星Galaxy XR混合现实头显可将2D照片转化为3D空间，实现沉浸式移动，对摄影行业具有变革意义。",
-      "recommendation": "解析三星Galaxy XR将2D照片转3D空间的技术原理，探讨对摄影创作与展示的潜在影响，提供行业变革视角。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Samsung Galaxy XR lets you move in 3D inside your 2D images: what could this mean for photography, long term?"
-    },
-    {
-      "id": "recvmUCimYVlre",
-      "title": "英格兰主帅恳求国际足联移走摄影师，称其“毁掉”世界杯首秀",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/18/england-coach-begs-fifa-to-move-photographers-after-they-ruined-his-world-cup-debut/",
-      "publish_time": "2026-06-18T23:30:43+08:00",
-      "summary": "英格兰主帅图赫尔请求国际足联移走摄影师，因其在世界杯首秀奏国歌时挡住视线，影响观察球队。",
-      "recommendation": "从摄影视角解析体育赛事中摄影师站位对教练观察的影响，揭示赛场摄影伦理与空间博弈，适合关注纪实摄影与体育影像互动的读者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "England Coach Begs FIFA to Move Photographers After They ‘Ruined’ His World Cup Debut"
-    },
-    {
-      "id": "recvmUD46UKXXe",
-      "title": "Oppo携手BABYMONSTER开始预热全球Reno16系列",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_starts_teasing_the_global_reno16_series_in_partnership_with_babymonster-news-73335.php",
-      "publish_time": "2026-06-18T23:11:02+08:00",
-      "summary": "Oppo通过X账号预告全球发布Reno16系列，与韩国女团BABYMONSTER合作，确认配备5000万像素超广角自拍相机。",
-      "recommendation": "文章披露Reno16系列与BABYMONSTER合作，并确认5000万像素超广角自拍相机，为关注自拍和联名营销的影像爱好者提供具体产品信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Oppo starts teasing the global Reno16 series in partnership with BABYMONSTER"
-    },
-    {
-      "id": "recvmUCFhEjTUM",
-      "title": "紧凑型相机“并非一时潮流”。日本最流行、最难买的相机都是紧凑型——除了一款",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras-are-not-merely-a-passing-trend-the-trendiest-hard-to-find-cameras-in-japan-are-all-compact-cameras-except-for-one",
-      "publish_time": "2026-06-18T23:07:16+08:00",
-      "summary": "市场应用Minna Camera统计七个月数据，发现日本最热门的十款相机几乎全是紧凑型，其中一款最难买，表明紧凑型相机并非一时潮流。",
-      "recommendation": "基于Minna Camera七个月销售数据，揭示日本紧凑型相机真实热度与稀缺性，为影像爱好者提供市场趋势的独家量化参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Compact cameras are “not merely a passing trend.” The trendiest, hard-to-find cameras in Japan are all compact cameras – except for one"
-    },
-    {
-      "id": "recvmUCkYodtV5",
-      "title": "与Netflix《母性本能》中杀手同名，婚礼摄影师遭网络骚扰",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/18/wedding-photographer-with-same-name-as-killer-from-netflixs-maternal-instinct-is-being-harassed-online/",
-      "publish_time": "2026-06-18T22:54:23+08:00",
-      "summary": "一位婚礼摄影师因与Netflix纪录片《母性本能》中杀手同名，遭网络骚扰并被误认为凶手，业务受一星差评影响。",
-      "recommendation": "揭示网络暴力对摄影师的现实冲击，同名误认事件折射行业声誉管理痛点，为影像从业者提供风险警示与舆情应对参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Wedding Photographer With Same Name as Killer from Netflix’s ‘Maternal Instinct’ is Being Harassed Online"
-    },
-    {
-      "id": "recvmUCnySr2it",
-      "title": "Insta360 Luna Ultra 评测：一款出色的Vlog相机，但存在一些注意事项",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/18/insta360-luna-ultra-review-an-excellent-vlogging-camera-with-a-few-caveats/",
-      "publish_time": "2026-06-18T22:01:12+08:00",
-      "summary": "Insta360 Luna Ultra是一款出色的Vlog相机，但存在一些注意事项，旨在与DJI Osmo Pocket 3竞争，提供紧凑且实惠的云台相机选择。",
-      "recommendation": "对比DJI Osmo Pocket 3，实测云台防抖与画质表现，指出Vlog场景下的续航与收音短板，提供真实购买参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360 Luna Ultra Review: An Excellent Vlogging Camera with a Few Caveats"
     }
   ]
 }
