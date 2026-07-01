@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-01T23:27:37.193922+08:00",
+    "updated_at": "2026-07-02T04:31:16.962545+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 20
+      "count": 21
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 100
+      "count": 99
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,163 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 23
+      "count": 22
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 42
+      "count": 43
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 403
+      "count": 405
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 187
+      "count": 184
     }
   ],
   "articles": [
+    {
+      "id": "recvo9HjxL7CKd",
+      "title": "“史上最像手枪握把” – 这款Luna相机配件是酷炫还是会被抓？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-most-pistol-grip-ever-is-this-luna-camera-accessory-cool-or-will-it-get-you-arrested",
+      "publish_time": "2026-07-02T04:17:52+08:00",
+      "summary": "Insta360 Luna相机配件因形似手枪握把引发争议，可能被误认为武器导致被捕，设计酷炫但存在安全隐患。",
+      "recommendation": "剖析Insta360 Luna配件因手枪握把设计引发的安全隐患与法律争议，提供产品设计边界与用户风险的独特视角，影像爱好者可了解行业创新与合规博弈。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"The MOST pistol grip ever\" – Is this Luna camera accessory cool, or will it get you arrested?"
+    },
+    {
+      "id": "recvo9Ht7XGbuH",
+      "title": "BHphoto 推出 Viltrox 镜头和 Lexar 存储卡国庆促销活动",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/4th-of-july-deals-on-viltrox-lenses-and-lexar-cards-at-bhphoto/",
+      "publish_time": "2026-07-02T03:34:49+08:00",
+      "summary": "BHphoto推出国庆促销，优惠包括唯卓仕镜头和雷克沙存储卡，索尼、适马、腾龙镜头也参与活动。",
+      "recommendation": "促销清单涵盖唯卓仕、雷克沙及索尼/适马/腾龙镜头，提供具体优惠信息，适合近期有采购需求的影像爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "4th of July deals on Viltrox lenses and Lexar Cards at BHphoto"
+    },
+    {
+      "id": "recvo9HyZnyYYL",
+      "title": "过去5年最适合旅行摄影的索尼相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/01/the-best-sony-cameras-for-travel-photography-of-the-past-5-years/",
+      "publish_time": "2026-07-02T03:00:00+08:00",
+      "summary": "索尼率先转向无反相机，为旅行摄影师提供多种机型选择，涵盖不同需求与预算。",
+      "recommendation": "梳理索尼近5年旅行相机产品线，含机型定位与预算匹配建议，对选购有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Sony Cameras For Travel Photography of the Past 5 Years"
+    },
+    {
+      "id": "recvo9HqcZPLL3",
+      "title": "尼康美国本周结束优惠活动",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/01/nikon-usa-rebates-ending-this-week.aspx/",
+      "publish_time": "2026-07-02T02:30:22+08:00",
+      "summary": "尼康美国本周结束回扣活动，涵盖无反相机、镜头等，同时启动以旧换新计划",
+      "recommendation": "尼康美国优惠活动结束时间及以旧换新计划细节，为计划升级器材的用户提供购买时机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon USA rebates ending this week"
+    },
+    {
+      "id": "recvo9HdpfD9Td",
+      "title": "苹果在创作者工作室更新中为Final Cut Pro带来新的遮罩工具",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/apple-brings-new-masking-tools-to-final-cut-pro-amid-creator-studio-update/",
+      "publish_time": "2026-07-02T02:21:52+08:00",
+      "summary": "苹果更新Creator Studio，为Final Cut Pro新增遮罩工具，提升视频编辑效率与创意能力。",
+      "recommendation": "Final Cut Pro新增遮罩工具，提升视频后期效率。文章解析该功能对手机与相机视频创作者的实用价值，提供苹果生态影像工作流优化细节。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Apple Brings New Masking Tools to Final Cut Pro Amid Creator Studio Update"
+    },
+    {
+      "id": "recvo9HgKGffa0",
+      "title": "神牛推出奇葩相机，Adobe收购Topaz | PetaPixel播客",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/godox-made-a-weird-camera-and-adobe-buys-topaz-the-petapixel-podcast/",
+      "publish_time": "2026-07-02T01:01:15+08:00",
+      "summary": "神牛推出无屏幕傻瓜相机C100，Adobe收购Topaz，Samyang完成三剑客镜头，尼康创新举措。",
+      "recommendation": "神牛无屏相机C100设计反常规，Adobe收购Topaz预示AI修图工具整合，Samyang三剑客完成。提供行业趋势与产品洞察，适合关注影像设备动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Godox Made a WEIRD Camera and Adobe Buys Topaz | The PetaPixel Podcast"
+    },
+    {
+      "id": "recvo9Hmyc11cY",
+      "title": "宝丽来Go Gen 3评测：这是微型拍立得相机中的“徕卡Q3 43”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/polaroid-go-gen-3-review",
+      "publish_time": "2026-07-02T00:57:23+08:00",
+      "summary": "宝丽来Go Gen 3尺寸增大，但性能显著提升，被比作微型拍立得中的徕卡Q3 43，核心价值在于比前代更好。",
+      "recommendation": "文章将宝丽来Go Gen 3比作微型拍立得中的徕卡Q3 43，提供尺寸增大与性能提升的实测对比，对关注便携拍立得升级的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Polaroid Go Gen 3 review: This is the \"Leica Q3 43\" of tiny instant cameras"
+    },
+    {
+      "id": "recvo9Hw64EhqP",
+      "title": "索尼FX5拥有三档基础ISO和X-OCN内录RAW",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-has-three-base-iso-and-x-ocn-internal-raw/",
+      "publish_time": "2026-07-02T00:54:11+08:00",
+      "summary": "索尼FX5确认拥有三原生ISO和内部X-OCN RAW录制，支持Open Gate 5k 3:2，预计7月下旬发布。",
+      "recommendation": "文章确认FX5三原生ISO和X-OCN内录RAW，对视频创作者是硬核参数。Open Gate 5k 3:2规格罕见，提供深度拍摄选择。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Sony FX5 has three base ISO and X-OCN internal RAW"
+    },
+    {
+      "id": "recvo9HC5pHQrq",
+      "title": "你的尼康器材很坚固，但它需要这个",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/01/mistake-photographers-with-gear-copy/",
+      "publish_time": "2026-07-02T00:00:00+08:00",
+      "summary": "尼康器材坚固但保修不涵盖灰尘、恶劣天气损坏，摄影关怀计划提供更全面保障，与Ful合作推出。",
+      "recommendation": "解析尼康保修盲区，介绍与Ful合作的摄影关怀计划，提供器材防护新方案，对户外拍摄爱好者有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Your Nikon Gear is Tough. But it Needs This"
+    },
     {
       "id": "recvo8skN6Cucq",
       "title": "婴儿希特勒照片竟出现在中学年鉴中",
@@ -7678,145 +7816,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Photographing a World Cup Match With My Phone Worked Surprisingly Well"
-    },
-    {
-      "id": "recvn1uU3Pm1RK",
-      "title": "Photoshop的AI助手即将登陆桌面端",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/1952544048/adobe-photoshop-ai-assistant-desktop-beta",
-      "publish_time": "2026-06-20T00:30:00+08:00",
-      "summary": "Adobe将AI创意代理引入桌面版Photoshop，提供聊天界面执行任务，此前已在网页版测试，标志其照片编辑软件AI功能扩展计划推进。",
-      "recommendation": "Adobe将AI创意代理引入桌面版Photoshop，提供聊天界面执行任务，标志其照片编辑软件AI功能扩展计划推进。对影像爱好者而言，可提前了解AI辅助修图新范式，但缺乏具体功能细节或独家数据。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photoshop's AI assistant is making its way to the desktop"
-    },
-    {
-      "id": "recvn1uPeBSECv",
-      "title": "父亲节摄影好价：相机、镜头与三脚架优惠精选",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/19/top-fathers-day-photography-deals-on-cameras-lenses-and-tripods/",
-      "publish_time": "2026-06-20T00:00:18+08:00",
-      "summary": "父亲节促销精选佳能、尼康、索尼等品牌相机、镜头和三脚架，折扣数百至数千美元，为摄影师父亲或自己选购礼物。",
-      "recommendation": "汇总父亲节期间佳能、尼康、索尼等品牌相机、镜头及三脚架折扣，含具体降价幅度，适合有购机需求的影像爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Top Father’s Day Photography Deals on Cameras, Lenses, and Tripods"
-    },
-    {
-      "id": "recvn1v12T3Xm8",
-      "title": "Meyer Optik新镜头：可能是你需要的完美焦距",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/19/meyer-optiks-new-lens-might-be-the-perfect-focal-length-that-you-need/",
-      "publish_time": "2026-06-20T00:00:00+08:00",
-      "summary": "Meyer Optik推出新镜头，德国制造，提供完美焦距，适合年轻和职业摄影师，核心技术参数未详述。",
-      "recommendation": "德国Meyer Optik新镜头主打完美焦距概念，但未披露核心参数，适合关注小众镜头品牌的爱好者了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meyer Optik’s New Lens Might Be the Perfect Focal Length That You Need"
-    },
-    {
-      "id": "recvn1uRsRBVj9",
-      "title": "TourBox Dynamic Panel V2 实现 Lightroom 中强大的全屏照片编辑",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/19/tourbox-dynamic-panel-v2-enables-robust-full-screen-photo-editing-in-lightroom/",
-      "publish_time": "2026-06-19T23:55:25+08:00",
-      "summary": "TourBox发布Lightroom动态面板V2插件，配合TourBox Elite控制台实现全屏无干扰编辑，新增摄影师要求的面板。",
-      "recommendation": "介绍TourBox动态面板V2插件，实现Lightroom全屏无干扰编辑，新增摄影师定制面板，提升后期效率。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "TourBox Dynamic Panel V2 Enables Robust Full-Screen Photo Editing in Lightroom"
-    },
-    {
-      "id": "recvn0pBw54AXU",
-      "title": "日本女性摄影师从未缺席——这场展览为她们的作品带来亟需的关注",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/japanese-women-photographers-have-always-been-there-and-this-exhibition-sheds-much-needed-light-on-their-work",
-      "publish_time": "2026-06-19T22:25:22+08:00",
-      "summary": "新展览聚焦20世纪50年代至今的日本女性摄影，涵盖身份、自然、母性及日常生活等主题，为她们的作品带来亟需关注。",
-      "recommendation": "展览梳理20世纪50年代至今日本女性摄影脉络，涵盖身份、自然等主题，为影像爱好者提供创作视角与历史背景的深度参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Japanese women photographers have always been there – and this exhibition sheds much-needed light on their work"
-    },
-    {
-      "id": "recvn0puxm91RJ",
-      "title": "Fender Mix 耳机：连接多样但性能平平",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/19/fender-mix-headphones-versatile-connectivity-but-middling-performance/",
-      "publish_time": "2026-06-19T22:01:14+08:00",
-      "summary": "Fender Mix耳机设计独特，可适应多种场景且操作简单，但性能表现一般，适合摄像师和视频编辑使用。",
-      "recommendation": "文章聚焦Fender Mix耳机在摄像场景的适配性，提供多场景连接方案，对视频创作者有参考价值，但性能数据不足。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fender Mix Headphones: Versatile Connectivity but Middling Performance"
-    },
-    {
-      "id": "recvn0pKqNMkyU",
-      "title": "独家重磅：索尼FX3II不会来了……有更好的新品，众多新功能加持！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/exclusive-breaking-news-nonew-sony-fx3ii-coming-there-is-something-better-with-many-new-features/",
-      "publish_time": "2026-06-19T21:48:09+08:00",
-      "summary": "索尼将不推出FX3II，而是发布一款功能更丰富的新FX相机，具体细节待公布。",
-      "recommendation": "独家披露索尼FX3II取消计划，转向功能更丰富的新FX机型，为等待升级的影像用户提供关键决策参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "EXCLUSIVE breaking news: No new Sony FX3II coming…there is something better with many NEW features!!!"
-    },
-    {
-      "id": "recvn0pwDP5KwY",
-      "title": "Excire Foto 2027 承诺提供功能丰富且强大的照片管理体验",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/19/excire-foto-2027-promises-a-feature-rich-and-powerful-photo-management-experience/",
-      "publish_time": "2026-06-19T21:00:20+08:00",
-      "summary": "模式识别公司发布Excire Foto 2027，为摄影师提供改进的搜索、组织和工作流程工具，提升照片管理体验。",
-      "recommendation": "详解Excire Foto 2027的AI搜索与组织工具，提供照片管理效率提升的具体功能数据，适合需要优化工作流的摄影师参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Excire Foto 2027 Promises a Feature-Rich and Powerful Photo Management Experience"
-    },
-    {
-      "id": "recvn0pI9FrlKt",
-      "title": "三星确认Galaxy M47即将发布，设计图曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_confirms_the_galaxy_m47_is_coming_soon_design_teased-news-73355.php",
-      "publish_time": "2026-06-19T21:00:02+08:00",
-      "summary": "三星确认Galaxy M47 5G即将在印度发布，预告视频展示哑光红后盖、药丸形三摄模组，延续M36设计。",
-      "recommendation": "三星M47设计图曝光，药丸三摄模组延续M36，常规资讯可了解中端影像布局。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung confirms the Galaxy M47 is coming soon, design teased"
     }
   ]
 }
