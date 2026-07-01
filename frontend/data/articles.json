@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-01T18:39:32.387383+08:00",
+    "updated_at": "2026-07-01T23:27:37.193922+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 20
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 98
+      "count": 100
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,323 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 25
+      "count": 23
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 42
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 406
+      "count": 403
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 182
+      "count": 187
     }
   ],
   "articles": [
+    {
+      "id": "recvo8skN6Cucq",
+      "title": "婴儿希特勒照片竟出现在中学年鉴中",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/baby-hitler-photo-makes-it-into-middle-school-yearbook/",
+      "publish_time": "2026-07-01T23:16:00+08:00",
+      "summary": "新泽西一所中学因年鉴中误将希特勒婴儿照放入学生栏目而召回年鉴。",
+      "recommendation": "常规资讯，可了解行业动态。文章揭示了年鉴编辑流程中影像审核的疏漏，对影像工作者有警示意义。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Baby Hitler Photo Makes It Into Middle School Yearbook"
+    },
+    {
+      "id": "recvo8somA5jMC",
+      "title": "Reflx Lab 新实验电影将世界变成红橙地狱景象",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/reflx-labs-new-experimental-film-turns-the-world-into-a-red-and-orange-hellscape/",
+      "publish_time": "2026-07-01T23:09:14+08:00",
+      "summary": "Reflx Lab 推出 Diablo 100 红移实验胶片，将世界呈现为红橙地狱景象，核心参数为 ISO 100 彩色负片。",
+      "recommendation": "文章介绍Reflx Lab Diablo 100红移实验胶片，提供ISO 100彩色负片参数，对追求独特色调的胶片爱好者有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Reflx Lab’s New Experimental Film Turns the World Into a Red and Orange Hellscape"
+    },
+    {
+      "id": "recvo8t26ERhrE",
+      "title": "BHphoto等庆祝美国250周年，推出独立日专属优惠",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/bhphoto-co-celebrate-250-years-of-usa-with-dedicated-4th-of-july-deals/",
+      "publish_time": "2026-07-01T22:59:27+08:00",
+      "summary": "美国250周年之际，BHphoto推出7月4日促销，涵盖富士胶片、苹果、唯卓仕、UHS-II存储卡及CFexpress Type等产品优惠。",
+      "recommendation": "美国独立日促销涉及富士、苹果、唯卓仕及存储卡优惠，为影像爱好者提供具体产品折扣信息，属于常规行业资讯，可了解近期市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "BHphoto & Co Celebrate 250 Years of USA with Dedicated 4th of July Deals"
+    },
+    {
+      "id": "recvo8sr8owAoo",
+      "title": "Delkin Valor Pro CFe存储卡美国组装，外观亦如其产地",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/delkin-valor-pro-cfe-memory-card-is-assembled-in-the-us-and-looks-like-it/",
+      "publish_time": "2026-07-01T22:59:05+08:00",
+      "summary": "Delkin发布Valor Pro CFexpress Type B存储卡，1TB容量，美国设计组装测试，印有美国国旗。",
+      "recommendation": "关注CFexpress存储卡产地的影像用户可了解Delkin Valor Pro的美产背景，含1TB容量与组装测试细节，属常规产品资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Delkin Valor Pro CFe Memory Card Is Assembled in the US and Looks Like It"
+    },
+    {
+      "id": "recvo8stRGL2EC",
+      "title": "安妮·莱博维茨因使用墨西哥滤镜遭批评",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/annie-leibovitz-criticized-for-using-the-mexico-filter/",
+      "publish_time": "2026-07-01T22:41:34+08:00",
+      "summary": "安妮·莱博维茨因在Instagram发布展览照片时使用墨西哥滤镜而遭批评，其作品常受争议。",
+      "recommendation": "探讨滤镜使用与艺术表达边界，对摄影爱好者理解创作伦理有启发。虽非独家，但提供了行业争议视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Annie Leibovitz Criticized for Using the Mexico Filter"
+    },
+    {
+      "id": "recvo8sI9BXFnM",
+      "title": "这些是当前最佳的7月4日相机优惠——无需Prime会员！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/these-are-the-best-4th-of-july-camera-deals-available-right-now-with-no-prime-membership-needed",
+      "publish_time": "2026-07-01T22:33:59+08:00",
+      "summary": "当前最佳7月4日相机优惠无需Prime会员即可享受省钱促销",
+      "recommendation": "汇总非Prime会员可享的相机促销，涵盖具体机型与折扣幅度，适合近期有购机计划的影像爱好者快速比价。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These are the best 4th of July camera deals available right now - with no Prime membership needed!"
+    },
+    {
+      "id": "recvo8sKYtWJ9h",
+      "title": "这些紧凑型相机能处理时尚卡片机做不到的事——原因如下",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/these-compact-cameras-can-handle-what-trendy-point-and-shoots-cant-heres-why",
+      "publish_time": "2026-07-01T22:29:10+08:00",
+      "summary": "尽管复古紧凑型相机流行，但这些坚固耐用的型号专为冒险设计，具备防水防尘等特性，能处理时尚卡片机无法应对的恶劣环境。",
+      "recommendation": "对比时尚卡片机，详解三防紧凑型相机的防水防尘参数与实战场景，为户外影像爱好者提供差异化选机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These compact cameras can handle what trendy point-and-shoots can't – here's why"
+    },
+    {
+      "id": "recvo8sNTHNNff",
+      "title": "潮流复兴一次性胶片相机——但40年后，富士胶片首次在一次性相机中提供这种复古胶片类型",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/trends-revived-the-disposable-film-camera-but-after-40-years-fujifilm-is-finally-offering-this-retro-film-type-inside-a-disposable-for-the-first-time",
+      "publish_time": "2026-07-01T22:26:10+08:00",
+      "summary": "富士胶片今年秋季将推出两款新一次性胶片相机，其中一款首次使用黑白胶片，实现40年后复古胶片类型复兴。",
+      "recommendation": "解析富士40年后重启黑白胶片一次性相机，提供复古胶片复兴的独家行业动态，适合关注胶片复兴与产品迭代的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Trends revived the disposable film camera – but after 40 years, Fujifilm is finally offering this retro film type inside a disposable for the first time"
+    },
+    {
+      "id": "recvo8swxHKLc1",
+      "title": "Getty因英国监管规定计划终止与Shutterstock的合并",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/getty-plans-to-terminate-shutterstock-merger-because-of-uk-regulations/",
+      "publish_time": "2026-07-01T22:25:49+08:00",
+      "summary": "Getty Images因英国监管机构担忧，计划终止与Shutterstock的37亿美元合并协议。",
+      "recommendation": "分析Getty终止合并对图库市场格局的影响，涉及监管与竞争，影像创作者可了解版权与定价趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Getty Plans to Terminate Shutterstock Merger Because of UK Regulations"
+    },
+    {
+      "id": "recvo8sFkMCJr0",
+      "title": "我们重新测试了松下L10，只为确认无误",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/6015671507/panasonic-lumix-dc-l10-studio-scene-reshoot",
+      "publish_time": "2026-07-01T22:00:00+08:00",
+      "summary": "DPReview重新测试松下L10，使用优质定焦镜头并缩小光圈以确保性能可靠，强调对比测试的严谨性。",
+      "recommendation": "DPReview严谨复测松下L10，通过定焦镜头与光圈控制验证画质，提供独家对比数据，对老机评测方法论有参考价值。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "We retested the Panasonic L10, just to be sure"
+    },
+    {
+      "id": "recvo8sZkey8UV",
+      "title": "三星Galaxy A27评测",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_a27_in_for_review-news-73527.php",
+      "publish_time": "2026-07-01T21:47:02+08:00",
+      "summary": "三星Galaxy A27评测：打孔屏取代水滴屏，处理器升级为4nm骁龙6 Gen 3，内存6/8GB，但超广角降为5MP，防水降为IP64，电池5000mAh支持25W快充。",
+      "recommendation": "文章聚焦三星中端机影像配置变化，超广角降级至5MP与防水缩水为IP64属关键数据，适合关注性价比机型取舍的消费者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy A27 in for review"
+    },
+    {
+      "id": "recvo8sztZhq7Q",
+      "title": "16位获奖摄影师展示iPhone的强大摄影能力",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/16-award-winning-photographers-showcase-the-power-of-iphone/",
+      "publish_time": "2026-07-01T21:17:17+08:00",
+      "summary": "2026年iPhone摄影奖公布第20届获奖者，来自140多国的摄影师证明iPhone能拍出媲美专业相机的照片",
+      "recommendation": "第20届iPhone摄影奖获奖作品展示，140多国摄影师实例证明手机影像潜力，含16位获奖者具体拍摄技巧与场景数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "16 Award-Winning Photographers Showcase the Power of iPhone"
+    },
+    {
+      "id": "recvo8sCoz20Pj",
+      "title": "迷人照片展示159年前加拿大刚成立时的模样",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/fascinating-photos-show-how-canada-looked-when-it-was-created-159-years-ago/",
+      "publish_time": "2026-07-01T21:14:32+08:00",
+      "summary": "加拿大国庆日展示159年前安大略、魁北克、新斯科舍和新不伦瑞克四省组成加拿大自治领的迷人照片。",
+      "recommendation": "通过159年前加拿大建国初期的历史照片，解析早期摄影技术（如湿版火棉胶工艺）的成像特征与构图美学，为影像爱好者提供纪实摄影的历史参照与技法溯源。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fascinating Photos Show How Canada Looked When It Was Created 159 Years Ago"
+    },
+    {
+      "id": "recvo8t7rby8fp",
+      "title": "索尼为鸟类摄影师推出RX10 V？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/01/is-sony-introducing-the-rx10-v-for-bird-photographers/",
+      "publish_time": "2026-07-01T20:17:33+08:00",
+      "summary": "索尼可能推出RX10 V，针对鸟类和野生动物摄影，延续小传感器策略，继R1XR Mk III后为爱好者准备新机。",
+      "recommendation": "分析索尼RX10 V针对鸟类摄影的定位，延续小传感器策略，为爱好者提供长焦备选方案。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Sony Introducing the RX10 V for Bird Photographers?"
+    },
+    {
+      "id": "recvo8sQH7xcQe",
+      "title": "别再追f/1.4镜头了，f/2.8可能才是你真正需要的",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/stop-chasing-f-1-4-lenses-when-f-2-8-is-probably-all-you-really-need",
+      "publish_time": "2026-07-01T20:00:37+08:00",
+      "summary": "文章指出f/2.8光圈已足够满足多数摄影需求，建议摄影师不必盲目追求f/1.4，强调f/2.8在画质、成本和便携性上的综合优势。",
+      "recommendation": "本文从画质、成本和便携性角度，用数据对比f/1.4与f/2.8的实用差异，纠正盲目追大光圈的误区，对理性选购镜头有直接参考价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Stop chasing f/1.4 lenses when f/2.8 is probably all you really need"
+    },
+    {
+      "id": "recvo8t4St0XZa",
+      "title": "逃离智能手机：富士新款QuickSnap黑白与运动相机登场",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/escape-your-smartphone-with-fujifilms-new-quicksnap-black-white-and-active-cameras/",
+      "publish_time": "2026-07-01T19:59:48+08:00",
+      "summary": "富士QuickSnap相机在BHphoto销量第一，新款黑白与运动相机助用户逃离智能手机，核心价值在于提供简单纯粹的摄影体验。",
+      "recommendation": "文章揭示富士QuickSnap在BHphoto销量第一的独家数据，分析其黑白与运动相机如何以简单摄影体验对抗智能手机，适合关注胶片复兴与摄影本质的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Escape Your Smartphone With Fujifilm’s New QuickSnap Black & White and Active Cameras"
+    },
+    {
+      "id": "recvo8sTwYsycs",
+      "title": "Adobe Premiere Elements 2026评测：最新版Adobe入门级视频编辑器功能丰富，但可能迅速变得复杂",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/adobe-premiere-elements-2026-review-the-latest-edition-of-adobes-beginner-friendly-video-editor-is-feature-rich-but-can-get-complicated-fast",
+      "publish_time": "2026-07-01T19:24:51+08:00",
+      "summary": "Adobe Premiere Elements 2026作为入门级视频编辑器功能丰富，但易用性牺牲，操作可能迅速复杂化。",
+      "recommendation": "评测Premiere Elements 2026功能丰富但易用性不足，提供入门级视频剪辑的深度体验与操作复杂性分析，适合影像爱好者权衡工具选择。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Adobe Premiere Elements 2026 review: The latest edition of Adobe’s beginner-friendly video editor is feature-rich, but can get complicated fast"
+    },
+    {
+      "id": "recvo8taaW182q",
+      "title": "Explora：婚礼摄影最佳索尼镜头推荐",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/explora-best-sony-lenses-for-wedding-photography/",
+      "publish_time": "2026-07-01T18:58:02+08:00",
+      "summary": "Explora推荐索尼FE 28-70mm f/2 GM和FE 50-150mm f/2 GM镜头，前者提供接近定焦速度与额外进光量，后者减轻装备重量，适合婚礼摄影。",
+      "recommendation": "针对婚礼摄影师，解析FE 28-70mm f/2 GM与50-150mm f/2 GM的实战价值，含光圈与变焦速度的独家数据对比，助你优化装备选择。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Explora:  Best Sony Lenses for Wedding Photography"
+    },
+    {
+      "id": "recvo8sWkNNEuH",
+      "title": "这款优惠750英镑的尼康Z6 II套装，是你入手全画幅拍摄的入场券",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-gbp750-off-nikon-z6-ii-bundle-is-your-ticket-to-full-frame-shooting",
+      "publish_time": "2026-07-01T18:57:26+08:00",
+      "summary": "尼康Z6 II套装优惠750英镑，含机身和24-70mm镜头，总价不到1600英镑，是入门全画幅拍摄的绝佳选择。",
+      "recommendation": "尼康Z6 II套装降价750英镑，含24-70mm镜头总价低于1600英镑，为全画幅入门提供具体价格参考，适合预算有限的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This £750-off Nikon Z6 II bundle is your ticket to full-frame shooting"
+    },
     {
       "id": "recvo7iADg6zXe",
       "title": "低视力摄影指南",
@@ -7519,303 +7817,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Samsung confirms the Galaxy M47 is coming soon, design teased"
-    },
-    {
-      "id": "recvn0pz20Fb95",
-      "title": "专属应用：一位摄影师为何为胶片摄影爱好者建立社区",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/interviews/1380806593/phaos-app-danielle-honan-developer-interview",
-      "publish_time": "2026-06-19T21:00:00+08:00",
-      "summary": "摄影师因对Instagram不满，建立名为Phaos的社区，名称源自希腊语“光”，标志象征光子与卤化银晶体作用，专为胶片摄影爱好者提供分享平台。",
-      "recommendation": "剖析胶片社区Phaos的创立动机与设计理念，提供摄影师逃离算法社交的替代方案，对胶片爱好者有社群参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "An app of their own: Why one photographer built a community for film photographers"
-    },
-    {
-      "id": "recvn0pMrRIaTb",
-      "title": "6款最佳1英寸传感器紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/19/6-best-compact-cameras-with-1-inch-sensors/",
-      "publish_time": "2026-06-19T21:00:00+08:00",
-      "summary": "本文推荐6款1英寸传感器紧凑型相机，强调其小巧体积与出色性能，适合年轻摄影师选购。",
-      "recommendation": "汇总6款主流1英寸卡片机，含索尼ZV-1、佳能G7 X III等，提供传感器尺寸、光圈范围等关键参数对比，适合选购参考。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "6 Best Compact Cameras with 1-inch Sensors"
-    },
-    {
-      "id": "recvn0pDKRLoIj",
-      "title": "订阅《数码相机》杂志2026年7月刊，获赠15份额外好礼",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/magazines/get-15-bonus-gifts-with-the-july-2026-issue-of-digital-camera-magazine",
-      "publish_time": "2026-06-19T20:30:00+08:00",
-      "summary": "订阅《数码相机》2026年7月刊，获赠9张摄影技巧卡片、32分钟视频课程、33款软件附加组件和一本电子书，来自全球最受欢迎摄影杂志的精选好礼。",
-      "recommendation": "订阅赠品含摄影技巧卡片、视频课程与软件组件，适合入门用户获取实用资源，但内容为常规促销资讯，无独家数据或深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Get 15 bonus gifts with the July 2026 issue of Digital Camera magazine"
-    },
-    {
-      "id": "recvn0pG1fFO3l",
-      "title": "富士X-T6：更强性能，更大续航——NP-W235电池注册信息曝光",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-more-power-more-juice-np-w255-registered/",
-      "publish_time": "2026-06-19T19:56:13+08:00",
-      "summary": "富士X-T6将搭载X Processor 6处理器，性能提升，并采用新注册的NP-W255电池，续航增强。",
-      "recommendation": "曝光X-T6搭载X Processor 6与NP-W255电池，性能续航双升级，为富士用户提供新机关键参数参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm X-T6 – More Power, More Juice – NP-W255 Battery Registered"
-    },
-    {
-      "id": "recvmZgai8XU8K",
-      "title": "相机陷阱首次捕捉到狼群捕猎欧洲野牛",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/19/camera-traps-capture-wolves-hunting-european-bison-for-the-first-time/",
-      "publish_time": "2026-06-19T19:00:00+08:00",
-      "summary": "相机陷阱首次在波兰古老森林中捕捉到狼群捕猎欧洲野牛群的画面",
-      "recommendation": "相机陷阱技术应用案例，展示野外摄影中触发式拍摄的实战价值，对生态影像爱好者有参考意义。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Camera Traps Capture Wolves Hunting European Bison for the First Time"
-    },
-    {
-      "id": "recvmZgmz7G3N5",
-      "title": "新iPhone Ultra概念视频近距离展示苹果折叠屏设计",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_iphone_ultra_renders_and_video_offer_closer_look_at_apples_foldable-news-73349.php",
-      "publish_time": "2026-06-19T18:53:02+08:00",
-      "summary": "苹果可折叠iPhone Ultra概念视频曝光，展示黑白双色设计，基于此前泄露的CAD渲染图和模型机细节。",
-      "recommendation": "基于CAD渲染图与模型机细节，解析折叠屏设计对影像模组布局的潜在影响，提供概念机影像硬件配置的独家推测。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New iPhone Ultra concept video offers closer look at Apple's foldable"
-    },
-    {
-      "id": "recvmZgcVww1C1",
-      "title": "单反击败无反！！！我推荐尼康D7500单反而非尼康Z fc",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-beats-mirrorless-i-just-recommended-a-nikon-d7500-dslr-camera-over-a-nikon-z-fc",
-      "publish_time": "2026-06-19T18:35:53+08:00",
-      "summary": "朋友问买尼康Z fc还是D7500，我推荐D7500单反，因性能更强且性价比高，令人惊讶。",
-      "recommendation": "从性价比角度重新审视单反与无反选择，提供D7500性能对比Z fc的实测数据，对预算有限的摄影爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DSLR beats mirrorless!!! I just recommended a Nikon D7500 DSLR camera over a Nikon Z fc"
-    },
-    {
-      "id": "recvmZgfmtjfUe",
-      "title": "UGREEN NASync DH2300评测：摄影师的首选NAS",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cloud-storage/ugreen-nasync-dh2300-review-the-perfect-first-nas-for-photographers",
-      "publish_time": "2026-06-19T18:00:00+08:00",
-      "summary": "UGREEN NASync DH2300评测：摄影师首款NAS，提供高速数据传输与稳定存储，支持多盘位RAID配置，满足专业摄影需求。",
-      "recommendation": "评测UGREEN NASync DH2300，详解多盘位RAID配置与高速传输对摄影师工作流的实际提升，提供存储方案选择参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "UGREEN NASync DH2300 review: the perfect first NAS for photographers"
-    },
-    {
-      "id": "recvmZgudqTjzT",
-      "title": "观点：将AI加入移轴摄影可能真正改变局面",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/19/opinion-adding-ai-to-tilt-shift-could-really-change-things/",
-      "publish_time": "2026-06-19T18:00:00+08:00",
-      "summary": "AI技术可辅助移轴镜头决策，富士胶片为GFX系列推出新移轴镜头，但其他品牌未跟进，AI或改变局面。",
-      "recommendation": "AI辅助移轴镜头决策的独特观点，结合富士GFX新镜头现状，为影像爱好者提供计算摄影新思路。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Opinion: Adding AI to Tilt Shift Could Really Change Things"
-    },
-    {
-      "id": "recvmZgrBKYoWi",
-      "title": "索尼发布新款手机传感器，动态范围达100 dB",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-announced-a-new-mobile-sensor-with-100-db-dynamic-range/",
-      "publish_time": "2026-06-19T17:41:01+08:00",
-      "summary": "索尼发布LYTIA L910传感器，采用LOFIC技术，动态范围达100 dB，支持低功耗4K拍摄，提升夜景和户外成像性能。",
-      "recommendation": "解析索尼LYTIA L910的LOFIC技术实现100dB动态范围，提供低功耗4K拍摄数据，对关注手机夜景与户外成像提升的爱好者有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony announced a new mobile sensor with 100 dB Dynamic Range"
-    },
-    {
-      "id": "recvmZghBmFSqX",
-      "title": "索尼最新图像传感器或将革新手机相机HDR",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/sonys-latest-image-sensor-could-revolutionize-camera-phone-hdr",
-      "publish_time": "2026-06-19T17:17:13+08:00",
-      "summary": "索尼新图像传感器单次曝光实现16.6档动态范围，可能革新手机HDR性能。",
-      "recommendation": "索尼16.6档动态范围单次曝光技术，直击手机HDR痛点，提供关键传感器数据与行业影响分析，适合关注硬件突破的影像爱好者。",
-      "categories": [
-        "传感器硬件",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony's latest image sensor could revolutionize camera phone HDR"
-    },
-    {
-      "id": "recvmZgwph2iqB",
-      "title": "2026年佳能R7还值得买吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/19/is-the-canon-r7-a-good-camera-in-2026/",
-      "publish_time": "2026-06-19T15:00:00+08:00",
-      "summary": "佳能R7搭载3200万像素APS-C传感器，经固件1.8.0更新后功能全面，对年轻摄影师性价比高。",
-      "recommendation": "固件1.8.0更新后R7功能全面，3200万像素APS-C传感器数据详实，为年轻摄影师提供性价比分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Canon R7 a Good Camera in 2026?"
-    },
-    {
-      "id": "recvmZgjXWuPld",
-      "title": "这台罕见的徕卡MP-33以近70万美元成交——但一台1938年的相机才是拍卖会最大惊喜",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/rangefinder-cameras/this-rare-leica-mp-33-just-sold-for-nearly-usd700-000-but-a-1938-camera-delivered-the-biggest-auction-surprise",
-      "publish_time": "2026-06-19T14:47:21+08:00",
-      "summary": "徕卡MP-33以69.6万美元成交，但1938年原型机才是拍卖会最大惊喜，成交价更高。",
-      "recommendation": "文章披露徕卡MP-33与1938年原型机的成交价差，提供拍卖市场对稀有相机价值判断的独家数据，适合关注收藏级相机行情的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This rare Leica MP-33 just sold for nearly $700,000 – but a 1938 camera delivered the biggest auction surprise"
-    },
-    {
-      "id": "recvmZgoZ5szCz",
-      "title": "《GTA VI》本月开启预购，官方封面艺术图公布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/gta_vi_preorders_start_this_month_the_official_cover_art_has_been_revealed-news-73345.php",
-      "publish_time": "2026-06-19T13:30:02+08:00",
-      "summary": "《GTA VI》将于6月25日开启预购，官方封面艺术图公布，游戏最晚11月19日发售，届时公布价格。",
-      "recommendation": "常规资讯，可了解行业动态。游戏封面艺术图可作视觉参考，但无影像技术或设备相关数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 3,
-      "language": "English",
-      "original_title": "GTA VI pre-orders start this month, the official cover art has been revealed"
-    },
-    {
-      "id": "recvmXUYp7mLHq",
-      "title": "8款最佳变焦镜头紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/19/8-best-compact-cameras-with-good-zoom-lenses/",
-      "publish_time": "2026-06-19T12:00:00+08:00",
-      "summary": "紧凑型相机重获青睐，本文推荐8款配备优质变焦镜头的机型，适合旅行摄影，保留核心参数与数据。",
-      "recommendation": "汇总8款主流变焦卡片机核心参数，含传感器尺寸与焦段数据，为旅行摄影选购提供横向对比参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "8 Best Compact Cameras with Good Zoom Lenses"
-    },
-    {
-      "id": "recvmXV0Gr9oS0",
-      "title": "7Artisans发布尼康Z卡口“梦想”系列入门级电影镜头：35mm、50mm、75mm T1.5",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/18/7artisans-launched-new-dream-35mm-50mm-75mm-t1-5-entry-level-cinema-lenses-for-nikon-z-mount.aspx/",
-      "publish_time": "2026-06-19T08:16:01+08:00",
-      "summary": "7Artisans发布尼康Z卡口入门级电影镜头系列，35mm、50mm、75mm T1.5，售价279-299美元，套装850美元，预购开启。",
-      "recommendation": "尼康Z卡口入门电影镜头新选择，35/50/75mm T1.5三支套装850美元，价格与规格透明，适合视频创作者低成本入坑。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "7Artisans launched new “Dream” 35mm, 50mm, and 75mm T1.5 entry-level cinema lenses for Nikon Z-mount"
-    },
-    {
-      "id": "recvmXUTDXWp7l",
-      "title": "Spotify Reserved 为最忠实的粉丝提供预售演唱会门票",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/spotify_reserved_offers_advance_concert_tickets_to_the_most_dedicated_fans-news-73344.php",
-      "publish_time": "2026-06-19T06:31:02+08:00",
-      "summary": "Spotify在美国推出Reserved功能，为最忠实粉丝预留两张演唱会门票，在公开售票前提供购买机会，资格基于流媒体播放、收藏和分享等信号判定。",
-      "recommendation": "虽非影像直接相关，但展示了流媒体平台基于用户数据创新服务模式，对理解消费电子生态中用户忠诚度运营有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Spotify Reserved offers advance concert tickets to the most dedicated fans"
-    },
-    {
-      "id": "recvmXUR6ArVUX",
-      "title": "Galaxy S27：新传闻暗示相机硬件无升级",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/galaxy-s27-new-rumor-suggests-no-new-camera-hardware",
-      "publish_time": "2026-06-19T05:15:34+08:00",
-      "summary": "三星Galaxy S27新传闻暗示相机硬件无升级，可能延续S系列令人失望的相机表现。",
-      "recommendation": "本文揭示三星S27相机硬件零升级传闻，对关注旗舰影像迭代的用户具参考价值，但缺乏独家数据支撑，观点偏保守。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Galaxy S27: new rumor suggests no new camera hardware"
-    },
-    {
-      "id": "recvmXUW0KZnFT",
-      "title": "SK海力士交付HBM4E内存样品：每引脚16Gbps，12层堆叠容量48GB",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/sk_hynix_ships_samples_of_its_hbm4e_memory_16gbps_per_pin_48gb_capacity_per_12layer_stack-news-73336.php",
-      "publish_time": "2026-06-19T05:03:02+08:00",
-      "summary": "SK海力士交付HBM4E内存样品，每引脚16Gbps，12层堆叠容量48GB，速度超越前代和三星竞品。",
-      "recommendation": "HBM4E内存带宽提升至每引脚16Gbps，12层堆叠48GB容量，直接关联手机影像芯片的缓存与处理速度，为计算摄影提供硬件基础。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "SK hynix ships samples of its HBM4E memory: 16Gbps per pin, 48GB capacity per 12-layer stack"
     }
   ]
 }
