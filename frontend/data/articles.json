@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-02T04:31:16.962545+08:00",
+    "updated_at": "2026-07-02T12:47:09.535800+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 99
+      "count": 98
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,12 +23,12 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 22
+      "count": 21
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 43
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,56 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 184
+      "count": 183
     }
   ],
   "articles": [
+    {
+      "id": "recvobIrV02saZ",
+      "title": "公告：五区摄影节——艺术爱好者与真实摄影师相遇之地",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/02/announcing-the-5-boro-foto-fest-a-place-where-art-lovers-meet-real-photographers/",
+      "publish_time": "2026-07-02T12:00:00+08:00",
+      "summary": "Phoblographer宣布举办5 Boro Foto Fest，旨在为真实摄影师提供销售印刷艺术的空间，对抗算法和AI泛滥，让艺术爱好者直面真人创作者。",
+      "recommendation": "聚焦真实摄影对抗算法与AI泛滥，为影像爱好者提供线下直面创作者、收藏实体作品的具体路径，独特行业视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Announcing: The 5 Boro Foto Fest. A Place Where Art Lovers Meet Real Photographers"
+    },
+    {
+      "id": "recvobIoDInlJy",
+      "title": "ProGrade Digital最新CFexpress Type A存储卡可轻松录制8K视频",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/memory-cards/prograde-digitals-latest-cfexpress-type-a-card-can-record-8k-video-without-breaking-a-sweat",
+      "publish_time": "2026-07-02T07:54:22+08:00",
+      "summary": "ProGrade Digital最新CFexpress Type A存储卡凭借双VPG写入速度认证，可轻松录制8K视频。",
+      "recommendation": "CFexpress Type A卡双VPG认证保障8K视频录制稳定性，为索尼微单用户提供高性价比存储方案，实测数据可作选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "ProGrade Digital's latest CFexpress Type A card can record 8K video without breaking a sweat"
+    },
+    {
+      "id": "recvobIlF869Ee",
+      "title": "曼富图'Uncover'系列背包：毫不掩饰地瞄准Z世代",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/01/manfrottos-uncover-bag-series-is-unabashedly-gen-z-focused/",
+      "publish_time": "2026-07-02T05:11:29+08:00",
+      "summary": "曼富图发布Uncover系列背包，专为Z世代创作者和城市旅行者设计，适应工作、创作与旅行的日常切换。",
+      "recommendation": "曼富图新背包设计定位Z世代创作者，分析其工作与生活场景切换需求，对影像爱好者选购摄影包有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Manfrotto’s ‘Uncover’ Bag Series Is Unabashedly Gen Z Focused"
+    },
     {
       "id": "recvo9HjxL7CKd",
       "title": "“史上最像手枪握把” – 这款Luna相机配件是酷炫还是会被抓？",
@@ -7768,54 +7814,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "26 Award-Winning Photos Show the Good and Bad of How We Interact With Nature"
-    },
-    {
-      "id": "recvn1uYrZ8JSZ",
-      "title": "我们的预设让每张图像都如梦似幻",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/19/ai-cant-do-presets-copy/",
-      "publish_time": "2026-06-20T03:00:00+08:00",
-      "summary": "Phoblographer使用自研预设评测，强调预设基于真实性，复现AI难模仿的风格，让摄影师无需AI即可创作。",
-      "recommendation": "评测自研预设的真实性优势，揭示AI难以复制的风格化效果，提供摄影师无需AI的创作新思路。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Our Presets Make Every Image Look Like a Dream"
-    },
-    {
-      "id": "recvn1uWfMNEco",
-      "title": "尼康Z fc虽需更新，但仍是我最爱的相机之一！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-nikon-z-fc-could-do-with-an-update-but-its-still-one-of-my-favorite-cameras",
-      "publish_time": "2026-06-20T02:25:30+08:00",
-      "summary": "尼康Z fc虽非尖端技术，但复古设计与持久魅力使其成为最爱的相机之一。",
-      "recommendation": "从复古设计切入，剖析Z fc在技术迭代中的持久魅力，提供对APS-C相机市场趋势的独到观察，适合关注相机美学与实用平衡的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Nikon Z fc could do with an update, but it’s still one of my favorite cameras!"
-    },
-    {
-      "id": "recvn1uMFQQ8lQ",
-      "title": "用手机拍摄世界杯比赛，效果出奇地好",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/19/photographing-a-world-cup-match-with-my-phone-worked-surprisingly-well/",
-      "publish_time": "2026-06-20T01:30:08+08:00",
-      "summary": "世界杯期间，使用外接增距镜头的智能手机可近距离感受比赛，效果出奇地好，前提是拥有合适的设备组合。",
-      "recommendation": "文章实测手机外接增距镜拍摄世界杯，提供具体设备组合与效果数据，对想用手机拍体育赛事的爱好者有实操参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographing a World Cup Match With My Phone Worked Surprisingly Well"
     }
   ]
 }
