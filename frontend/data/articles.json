@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-02T22:47:48.233402+08:00",
+    "updated_at": "2026-07-03T04:08:36.436079+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 95
+      "count": 96
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,185 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 406
+      "count": 408
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 189
+      "count": 187
     }
   ],
   "articles": [
+    {
+      "id": "recvofrXF9icas",
+      "title": "阿尔忒弥斯II号的尼康Z9对科学的重要性远超预期",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/02/artemis-iis-nikon-z9-was-way-more-important-for-science-than-expected/",
+      "publish_time": "2026-07-03T03:21:07+08:00",
+      "summary": "东京城市大学研究显示，阿尔忒弥斯II号宇航员用尼康Z9拍摄的太阳日冕图像揭示了新结构，证明太空相机科学价值超预期。",
+      "recommendation": "尼康Z9在太空任务中意外揭示日冕新结构，证明高端相机科学价值远超民用场景，为影像爱好者提供跨界应用视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Artemis II’s Nikon Z9 Was Way More Important for Science Than Expected"
+    },
+    {
+      "id": "recvofsl75U8s5",
+      "title": "索尼新机FX5首张泄露图：1600万像素、威尼斯菜单风格、伪色、开门模式及超大LCD屏幕！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/first-leaked-image-of-the-new-sony-fx5-16mp-venice-menu-style-false-color-open-gate-and-massive-lcd-screen/",
+      "publish_time": "2026-07-03T03:18:57+08:00",
+      "summary": "索尼FX5首张泄露图曝光，显示1600万像素、威尼斯菜单风格、伪色、开门模式及超大LCD屏幕，预购链接即将发布。",
+      "recommendation": "首张泄露图曝光FX5关键规格：1600万像素、威尼斯菜单及开门模式，为索尼视频机用户提供前瞻性产品洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "First leaked image of the new Sony FX5: 16MP, Venice Menu style, False Color, Open Gate and massive LCD screen!"
+    },
+    {
+      "id": "recvofsqI6beIc",
+      "title": "Meike 85mm f/1.8 富士GFX镜头预告",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/meike-85mm-f-1-8-for-fujifilm-gfx-teaser/",
+      "publish_time": "2026-07-03T02:53:32+08:00",
+      "summary": "美科预告AF 85mm f/1.8富士GFX镜头，七月上市，为GFX系统首款自动对焦镜头。",
+      "recommendation": "美科预告GFX首款自动对焦镜头，填补系统空白，提供85mm f/1.8规格与七月上市时间，对中画幅用户有明确参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Meike 85mm f/1.8 for Fujifilm GFX Teaser"
+    },
+    {
+      "id": "recvofsfaHtj1P",
+      "title": "三星Galaxy眼镜现身最新泄露视频",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_glasses_emerge_in_new_leaked_video-news-73545.php",
+      "publish_time": "2026-07-03T02:21:02+08:00",
+      "summary": "三星Galaxy眼镜最新泄露视频展示方形镜片、右侧触控区、LED指示灯和摄像头，电源按钮位于右侧。",
+      "recommendation": "视频泄露展示三星Galaxy眼镜方形镜片与触控区设计，为影像爱好者提供可穿戴拍摄设备形态参考，但缺乏成像参数与传感器规格等关键数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Glasses emerge in new leaked video"
+    },
+    {
+      "id": "recvofs0UV0qNG",
+      "title": "宇航员捕捉到地球上空舞动的绚丽极光",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/02/astronaut-captures-dazzling-aurora-dancing-above-earth/",
+      "publish_time": "2026-07-03T02:12:08+08:00",
+      "summary": "欧空局宇航员索菲·阿德诺在国际空间站拍摄到地球上空绚丽极光视频，展现太空视角的极光表演。",
+      "recommendation": "从太空视角拍摄极光，提供独特拍摄参数与ISS轨道数据，对极光摄影爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Astronaut Captures Dazzling Aurora Dancing Above Earth"
+    },
+    {
+      "id": "recvofs3GXFlNd",
+      "title": "Insta360 CEO的梦想相机：让你完全无感的设备",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/02/insta360-ceos-dream-camera-is-one-you-wont-even-think-about-at-all/",
+      "publish_time": "2026-07-03T00:59:00+08:00",
+      "summary": "Insta360 CEO JK Liu在发布Luna和Luna Ultra后，阐述其长期愿景是让用户完全忘记相机存在的无感设备",
+      "recommendation": "Insta360 CEO首度公开无感相机愿景，揭示产品演进路线与行业痛点，对理解消费影像未来方向有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Insta360 CEO’s Dream Camera Is One You Won’t Even Think About At All"
+    },
+    {
+      "id": "recvofsnRsZKhV",
+      "title": "过去5年最佳松下旅行相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/02/the-best-panasonic-travel-cameras-of-the-past-5-years/",
+      "publish_time": "2026-07-03T00:00:00+08:00",
+      "summary": "松下推出三款适合旅行的相机，凭借先进技术和镜头，为旅行摄影提供出色选择。",
+      "recommendation": "文章梳理松下三款旅行相机技术亮点，含传感器与镜头数据，适合旅行摄影爱好者横向对比选机。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Best Panasonic Travel Cameras of the Past 5 Years"
+    },
+    {
+      "id": "recvofs9uPAoxC",
+      "title": "她在拿起相机前曾是柯达的“翻身”女孩。如今朱迪·格利克曼·劳德的收藏——包括多萝西娅·兰格、戈登·帕克斯、黛安·阿勃丝和南·戈尔丁的作品——即将巡展，摄影师们能从中获益良多",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/she-was-kodaks-turn-around-girl-before-she-ever-picked-up-a-camera-now-judy-glickman-lauders-collection-of-dorothea-lange-gordon-parks-diane-arbus-and-nan-goldin-photos-is-going-on-tour-and-theres-a-lot-photographers-can-learn-from-it",
+      "publish_time": "2026-07-02T23:53:36+08:00",
+      "summary": "朱迪·格利克曼·劳德曾是柯达广告女孩，如今其收藏包括兰格、帕克斯、阿勃丝和戈尔丁作品，即将巡展，对摄影师有重要启示。",
+      "recommendation": "从柯达广告女孩到收藏家，揭秘兰格、帕克斯等大师作品巡展，提供摄影史视角与创作启示，非空洞美学讨论。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "She was Kodak's \"Turn Around\" girl before she ever picked up a camera. Now Judy Glickman Lauder's collection of Dorothea Lange, Gordon Parks, Diane Arbus & Nan Goldin photos is going on tour, and there's a lot photographers can learn from it"
+    },
+    {
+      "id": "recvofsi8K6clZ",
+      "title": "Nothing Phone (4b) RCB 版设计正式公布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/nothing_phone_4b_rcb_edition_design_officially_revealed-news-73551.php",
+      "publish_time": "2026-07-02T23:49:03+08:00",
+      "summary": "Nothing Phone 4b RCB版采用哑光红色饰面与皇家挑战者班加罗尔队标志，除涂装外与标准版相同",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦联名设计而非影像规格，未提供相机参数或拍摄性能数据，对影像爱好者参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nothing Phone (4b) RCB edition design officially revealed"
+    },
+    {
+      "id": "recvofscctkt8c",
+      "title": "我放弃iPhone相机，改用无屏幕紧凑型相机。结果出乎意料",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-gave-up-my-iphone-camera-for-screen-free-compact-cameras-i-didnt-miss-what-i-expected",
+      "publish_time": "2026-07-02T23:12:32+08:00",
+      "summary": "作者连续13天放弃iPhone相机，改用无屏幕紧凑型相机拍摄，结果出乎意料，体验远超预期。",
+      "recommendation": "13天实测对比，揭示无屏相机如何重塑拍摄专注力与成片率，提供不同于手机摄影的创作视角与数据支撑。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I gave up my iPhone camera for screen-free compact cameras. I didn’t miss what I expected"
+    },
+    {
+      "id": "recvofs6AAPRwa",
+      "title": "Mira Dial 是一款旨在提升工作效率和专注力的实体设备",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/02/the-mira-dial-is-a-physical-device-built-to-keep-you-productive-and-on-task/",
+      "publish_time": "2026-07-02T22:47:01+08:00",
+      "summary": "Mira Dial是一款物理旋钮设备，通过锁定屏幕提升专注力，加速照片视频编辑和业务管理，帮助用户更快完成任务",
+      "recommendation": "文章介绍Mira Dial物理旋钮设备，通过锁定屏幕提升专注力，加速照片视频编辑流程，对影像爱好者有实用价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Mira Dial Is a Physical Device Built to Keep You Productive and On-Task"
+    },
     {
       "id": "recvoe94gJS77O",
       "title": "认识这位以尼康P950为主力相机的鸟类摄影师",
@@ -7649,176 +7819,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "5 Compact Cameras from 2010 That You Must Get Your Hands on Today"
-    },
-    {
-      "id": "recvn9zYXjJMwq",
-      "title": "传闻尼康将发布Z9新固件，解决大雪或大雨中的对焦问题",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/20/nikon-is-rumored-to-release-a-new-z9-firmware-update-addressing-af-problems-in-heavy-snowfall-or-rain.aspx/",
-      "publish_time": "2026-06-21T07:25:39+08:00",
-      "summary": "传闻尼康将发布Z9新固件，解决大雪或大雨中自动对焦无法锁定主体的问题，该消息最初发表于Nikon Rumors。",
-      "recommendation": "针对Z9极端天气对焦问题的固件更新传闻，为尼康用户提供具体优化方向，属于常规产品资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon is rumored to release a new Z9 firmware update addressing AF problems in heavy snowfall or rain"
-    },
-    {
-      "id": "recvn9zUpVWf81",
-      "title": "促销：三星Galaxy S25 FE价格再降，一加15和15R、Nothing手机在售",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_samsung_galaxy_s25_fe_price_drops_again_oneplus_15_and_15r_nothing_phones_are_on_sale-news-73353.php",
-      "publish_time": "2026-06-21T06:11:04+08:00",
-      "summary": "三星Galaxy S25 FE降价至600美元以下，8/256GB版本，无需Prime即可购买，对比A57文章助选。",
-      "recommendation": "提供三星S25 FE降价至600美元以下的影像机型价格动态，含8/256GB版本对比A57的选购参考，适合关注中端手机影像性价比的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Deals: Samsung Galaxy S25 FE price drops again, OnePlus 15 and 15R, Nothing phones are on sale"
-    },
-    {
-      "id": "recvn9zPKn9iLX",
-      "title": "对话Insta360联合创始人Max Richter：他承诺“传统摄影”领域将有更多动作——这是否意味着可换镜头相机？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/i-spoke-to-insta360-co-founder-max-richter-who-promised-there-is-a-lot-more-coming-in-traditional-photography-could-that-mean-an-ilc-camera",
-      "publish_time": "2026-06-21T05:20:00+08:00",
-      "summary": "Insta360联合创始人Max Richter暗示公司可能研发可换镜头相机，未否认该可能性，预示在传统摄影领域将有更多动作。",
-      "recommendation": "Insta360联合创始人暗示进军可换镜头相机，提供独家行业动向与产品规划线索，对关注全景与运动相机品牌转型的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I spoke to Insta360 co-founder Max Richter, who promised there is a lot more coming in \"traditional photography\" – could that mean an ILC camera?"
-    },
-    {
-      "id": "recvn7iXowslVk",
-      "title": "全球最大的尼康徽章收藏",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/20/the-largest-nikon-pin-collection-on-the-planet.aspx/",
-      "publish_time": "2026-06-21T02:37:29+08:00",
-      "summary": "文章介绍全球最大尼康徽章收藏，涵盖品牌历史，展示对官方周边商品的痴迷，源自Nikon Rumors。",
-      "recommendation": "从尼康徽章收藏切入品牌历史，展示官方周边文化，为影像爱好者提供品牌情怀与收藏视角的独特信息。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The largest Nikon pin collection on the planet"
-    },
-    {
-      "id": "recvn7iQuxTPjD",
-      "title": "伦敦展览展示英国野生动物摄影佳作——免费参观",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/the-best-of-british-wildlife-photography-is-being-shown-in-this-london-exhibition-and-its-free-to-visit",
-      "publish_time": "2026-06-21T02:30:00+08:00",
-      "summary": "2026年英国野生动物摄影奖获奖作品在伦敦霍尼曼博物馆和花园免费展出",
-      "recommendation": "展示英国野生动物摄影获奖作品，提供自然摄影构图与光线运用的参考案例，适合爱好者学习拍摄技巧。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The best of British wildlife photography is being shown in this London exhibition – and it’s free to visit"
-    },
-    {
-      "id": "recvn7iSTE4SHc",
-      "title": "“最差摄影师”大赛得主拍摄：这些旅行照片证明，好摄影不等于技术好",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/shot-by-winner-of-worst-photographer-contest-what-these-travel-pictures-actually-prove-is-that-good-photography-isnt-the-same-as-technical-skill",
-      "publish_time": "2026-06-21T02:12:21+08:00",
-      "summary": "布兰奇·莫特玛德在冰岛拍摄的模糊带光晕照片获“最差摄影师”奖，揭示摄影核心在于表达而非技术",
-      "recommendation": "通过“最差摄影师”获奖作品，揭示摄影核心是表达而非技术，对陷入器材焦虑的爱好者有启发价值，提供反技术至上的深度观点。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Shot by winner of \"worst photographer\" contest, what these travel pictures actually prove is that good photography isn't the same as technical skill"
-    },
-    {
-      "id": "recvn9zS9j7hzI",
-      "title": "“最差摄影师”大赛获奖者拍摄的旅行照片证明：好摄影不等于技术技巧",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/shot-by-winner-of-worst-photographer-contest-what-these-travel-pictures-actually-prove-is-that-good-photography-isnt-the-same-as-technical-skill",
-      "publish_time": "2026-06-21T02:12:21+08:00",
-      "summary": "布兰奇·莫特玛德拍摄的冰岛模糊带光晕照片获“最差摄影师”奖，证明好摄影不等于技术技巧。",
-      "recommendation": "通过获奖案例探讨摄影本质，打破技术至上迷思，对追求个人风格的爱好者有启发价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Shot by winner of \"worst photographer\" contest, these travel pictures actually prove is that good photography isn't the same as technical skill"
-    },
-    {
-      "id": "recvn7iOiLe94B",
-      "title": "摄影师Jake Guzman捕捉美国近乎外星般的风景",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/20/photographer-jake-guzman-captures-americas-almost-alien-landscapes/",
-      "publish_time": "2026-06-21T01:00:02+08:00",
-      "summary": "摄影师杰克·古兹曼的《异境美国》收录全美数百张照片，展现美国作为风光摄影师特殊之地的丰富摄影机会。",
-      "recommendation": "通过数百张实拍作品，展示美国地貌的异域感与风光摄影技巧，提供构图与光线运用的具体参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Jake Guzman Captures America’s Almost-Alien Landscapes"
-    },
-    {
-      "id": "recvnhaspH9gBl",
-      "title": "2016年最值得入手的6款相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/20/6-best-cameras-from-2016-to-get-your-hands-on-today/",
-      "publish_time": "2026-06-21T00:00:00+08:00",
-      "summary": "2016年最值得入手的6款可换镜头相机，涵盖富士、尼康等品牌，分析其性能、技术或设计特点，评估十年后的表现。",
-      "recommendation": "回顾2016年经典相机，从十年后视角评估其性能与设计，提供独特的时间维度分析，适合影像爱好者反思技术演进。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "6 Best Cameras From 2016 To Get Your Hands on Today"
-    },
-    {
-      "id": "recvn7iV76IToE",
-      "title": "放下Photoshop画笔——刚看到一项关于多少成年人偏爱未修图的统计数据，我震惊了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/put-down-the-photoshop-brushes-i-just-read-a-statistic-on-how-many-adults-prefer-unedited-photos-and-im-stunned",
-      "publish_time": "2026-06-20T23:20:00+08:00",
-      "summary": "盖蒂图片社数据显示近三分之二成年人更偏爱品牌使用未经编辑的真实照片，揭示真实图像在营销中的核心价值。",
-      "recommendation": "盖蒂图片社独家数据揭示近三分之二成年人偏爱未修图照片，挑战传统营销审美。对影像爱好者而言，这是理解真实摄影在商业中价值的硬核洞察。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Put down the Photoshop brushes – I just read a statistic on how many adults prefer unedited photos, and I’m stunned"
-    },
-    {
-      "id": "recvn7iZVpiZu0",
-      "title": "尼康快闪体验店登陆香港",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/20/pop-up-nikon-experience-store-in-hong-kong.aspx/",
-      "publish_time": "2026-06-20T23:04:07+08:00",
-      "summary": "尼康在香港铜锣湾开设快闪体验店，2026年6月5日至8月2日提供免费相机租借、照片打印、咖啡及讲座，押金2美元",
-      "recommendation": "提供尼康快闪店具体时间、地点及免费租借、打印等实用信息，对香港用户有直接参考价值。常规行业动态，可了解品牌线下活动策略。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pop-up Nikon Experience Store in Hong Kong"
     }
   ]
 }
