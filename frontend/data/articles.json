@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-03T22:49:37.688706+08:00",
+    "updated_at": "2026-07-04T04:03:51.833533+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 26
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 104
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,239 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 43
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 407
+      "count": 408
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 181
+      "count": 178
     }
   ],
   "articles": [
+    {
+      "id": "recvolhysNfiiI",
+      "title": "三星Galaxy Z Fold8、Fold8 Ultra、Flip8、Watch9、Watch Ultra 2价格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php",
+      "publish_time": "2026-07-04T03:41:02+08:00",
+      "summary": "三星Galaxy Z Fold8系列及Watch9等产品欧洲价格泄露，Fold8 Ultra起售价2199欧元，较前代贵100欧元，整体价格高于去年。",
+      "recommendation": "三星折叠屏及手表价格泄露，影像爱好者可关注Fold8 Ultra定价趋势，但缺乏具体影像规格或独家数据，属常规行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak"
+    },
+    {
+      "id": "recvolhB3X4JpY",
+      "title": "内部人士称OxygenOS和Realme UI将并入ColorOS",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/insider_claims_that_oxygenos_and_realme_ui_will_be_merged_into_coloros-news-73568.php",
+      "publish_time": "2026-07-04T02:07:03+08:00",
+      "summary": "一加OxygenOS和Realme UI将并入OPPO的ColorOS，三个品牌共享同一系统以降低研发成本，这是更广泛整合的一部分。",
+      "recommendation": "系统整合影响影像算法调校，一加与真我用户需关注未来相机风格统一化趋势。本文揭示OPPO生态下影像资源分配策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Insider claims that OxygenOS and Realme UI will be merged into ColorOS"
+    },
+    {
+      "id": "recvolhL8S1Flb",
+      "title": "TTArtisan发布新款50mm f/1.8 Neo FE镜头，仅售89美元！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/ttartisan-announced-the-new-50mm-f-1-8-neo-fe-lens-for-89-only/",
+      "publish_time": "2026-07-04T01:46:41+08:00",
+      "summary": "TTArtisan发布新款50mm f/1.8 Neo FE自动对焦镜头，仅售89美元，提供快速光圈和低价选择。",
+      "recommendation": "89美元自动对焦50mm f/1.8镜头，提供快速光圈与低价选择，适合预算有限的街拍爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "TTArtisan announced the new 50mm f/1.8 Neo FE lens for $89 only!"
+    },
+    {
+      "id": "recvolhdUAO1Fa",
+      "title": "独立日摄影大促：相机、镜头、灯光等超值优惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/03/save-big-on-cameras-lenses-lights-and-more-with-the-best-fourth-of-july-photography-deals/",
+      "publish_time": "2026-07-04T01:10:19+08:00",
+      "summary": "美国独立日摄影大促，相机、镜头、无人机、照明设备等知名品牌大幅折扣，省钱购新器材。",
+      "recommendation": "独立日促销汇总，涵盖相机、镜头、无人机等品类折扣信息，适合近期有购机计划的用户快速比价。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Save Big on Cameras, Lenses, Lights, and More With the Best Fourth of July Photography Deals"
+    },
+    {
+      "id": "recvolhgTHRgbR",
+      "title": "新款自拍友好双屏相机，Y2K风格满满",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/03/new-selfie-friendly-dual-display-camera-has-big-y2k-energy/",
+      "publish_time": "2026-07-04T01:09:48+08:00",
+      "summary": "日本推出DIGI+双屏数码相机DGP-DCM01，半透明机身配副前置屏幕，廉价紧凑，Y2K风格，自拍友好。",
+      "recommendation": "介绍日本双屏自拍相机DGP-DCM01，半透明Y2K设计廉价紧凑，提供副屏自拍新思路，常规产品资讯可了解细分市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Selfie-Friendly Dual Display Camera Has Y2K Energy"
+    },
+    {
+      "id": "recvolhqRS7Isl",
+      "title": "世界杯摄影认证被拒，体育摄影师转拍电视画面——但并非人人买账",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/denied-world-cup-accreditation-sports-photographer-captures-games-on-television-but-not-everyone-is-a-fan",
+      "publish_time": "2026-07-04T00:59:55+08:00",
+      "summary": "体育摄影师因未获世界杯官方认证，转而拍摄电视画面，此举引发伦理争议，核心在于变通与职业操守的冲突。",
+      "recommendation": "从体育摄影伦理争议切入，揭示职业操守与变通的现实冲突，对影像创作者有行业规则思考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Denied World Cup accreditation, sports photographer captures games on television – but not everyone is a fan"
+    },
+    {
+      "id": "recvolhtlV2NHT",
+      "title": "重磅：索尼复活RX10桥式相机——新一代怪兽变焦黑卡紧凑型相机下周发布！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/breaking-sony-is-resurrecting-its-rx10-bridge-camera-new-monster-zoom-cyber-shot-compact-camera-launches-next-week",
+      "publish_time": "2026-07-04T00:33:50+08:00",
+      "summary": "索尼将于7月9日发布新一代RX10桥式相机，采用1英寸传感器，复活怪兽变焦黑卡紧凑型相机系列。",
+      "recommendation": "独家爆料索尼RX10系列复活，含1英寸传感器规格与7月9日发布日期的关键数据，为桥式相机爱好者提供前瞻性行业洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 9,
+      "language": "English",
+      "original_title": "BREAKING: Sony is resurrecting its RX10 bridge camera – new monster zoom Cyber-shot compact camera launches next week!"
+    },
+    {
+      "id": "recvolhILtNGk9",
+      "title": "曼富图重新设计现代摄影师相机包",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/03/manfrotto-just-redesigned-the-camera-bag-for-the-modern-photographers/",
+      "publish_time": "2026-07-04T00:00:00+08:00",
+      "summary": "曼富图推出全新相机包系列，以别致设计脱离标准，为摄影师提供存放工具的时尚选择。",
+      "recommendation": "解析曼富图相机包设计革新，提供别致外观与实用性的平衡，适合追求风格与功能的影像爱好者了解行业趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Manfrotto Just Redesigned the Camera Bag for the Modern Photographers"
+    },
+    {
+      "id": "recvolhGgLa4Wr",
+      "title": "智能眼镜摄像头基准测试：成像性能初步洞察",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/smartglasses-camera-benchmark-evaluating-imaging-performance/",
+      "publish_time": "2026-07-03T23:38:18+08:00",
+      "summary": "智能眼镜摄像头从简单配套演变为强大成像工具，本文通过基准测试初步评估其现实场景成像性能，揭示关键参数与数据。",
+      "recommendation": "提供智能眼镜摄像头成像性能的基准测试数据，揭示关键参数与真实场景表现，对关注新兴影像形态的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Smart Glasses Camera Benchmark: First Insights into Imaging Performance"
+    },
+    {
+      "id": "recvolhDB77L7l",
+      "title": "报告：小米18系列将首发搭载新一代骁龙8 Elite Gen 6",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/report_the_xiaomi_18_series_will_be_the_first_to_launch_with_the_new_snapdragon_8_elite_gen_6-news-73566.php",
+      "publish_time": "2026-07-03T23:19:04+08:00",
+      "summary": "高通骁龙8 Elite芯片将于9月发布，小米18系列将首发搭载，其中Pro Max版配备两颗200MP摄像头及1/1.28英寸LOFIC传感器。",
+      "recommendation": "文章透露小米18 Pro Max双200MP摄像头及1/1.28英寸LOFIC传感器，对关注旗舰手机影像硬件迭代的读者有明确参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Report: the Xiaomi 18 series will be the first to launch with the new Snapdragon 8 Elite Gen 6"
+    },
+    {
+      "id": "recvolhlQ9BdpD",
+      "title": "索尼RX10新机即将到来",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/1313483304/sony-rx10-july-2026-announcement-teaser",
+      "publish_time": "2026-07-03T23:09:00+08:00",
+      "summary": "索尼预告2026年7月9日发布RX10新机，上一代RX10 IV配备20MP 1英寸传感器和24-600mm镜头，已停产。",
+      "recommendation": "索尼RX10 IV停产后续机型预告，提供24-600mm超长焦与1英寸传感器组合的更新信息，适合关注长焦便携机的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "A new Sony RX10 is coming"
+    },
+    {
+      "id": "recvolhol9FpfD",
+      "title": "拍摄烟花？你需要知道的四件事",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/4766979407/photographing-fireworks-four-things-social-video-july-fourth-november",
+      "publish_time": "2026-07-03T23:00:00+08:00",
+      "summary": "拍摄烟花需牢记四要点，佳能EOS 5D参数F8、3秒、ISO 250示例，视频详解专业技巧助你拍出闪耀照片。",
+      "recommendation": "文章以佳能EOS 5D实拍参数（F8、3秒、ISO 250）为例，详解烟花拍摄四要点，对新手有直接操作指导价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographing fireworks? Here's the four things you need to know"
+    },
+    {
+      "id": "recvolhjrCNXgf",
+      "title": "胶片星期五：伊尔福Delta 100完美融合对比度与色调",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/03/film-friday-ilford-delta-100-perfectly-blends-contrast-and-tonality/",
+      "publish_time": "2026-07-03T22:55:16+08:00",
+      "summary": "伊尔福Delta 100黑白胶片在对比度与色调上表现完美，比柯达Tri-X更受顾客欢迎，是《电影星期五》系列中备受推崇的选择。",
+      "recommendation": "对比伊尔福Delta 100与柯达Tri-X的实战体验，提供胶片对比度与色调的实测数据，适合黑白摄影爱好者选片参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Film Friday: Ilford Delta 100 Perfectly Blends Contrast and Tonality"
+    },
+    {
+      "id": "recvolhw22YzXg",
+      "title": "佳能RF 105mm f/1.4L VCM即将到来？",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/is-a-canon-rf-105mm-f-1-4l-vcm-on-the-way/",
+      "publish_time": "2026-07-03T22:44:14+08:00",
+      "summary": "佳能或于2024年推出RF 105mm f/1.4L VCM镜头，继RF 35mm f/1.4L VCM后扩展VCM混合镜头系列，焦距超85mm。",
+      "recommendation": "剖析佳能RF 105mm f/1.4L VCM传闻，聚焦VCM镜头系列扩展至85mm以上焦段，为长焦人像用户提供新选择，含焦距与发布时间独家预测。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is a Canon RF 105mm f/1.4L VCM on the Way?"
+    },
     {
       "id": "recvok01sMkiwc",
       "title": "铭匠新全画幅电影镜头拥有惊人的T1光圈",
@@ -7604,223 +7823,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Elephant Seal Scolds Penguins in Superb Photo Shortlisted for Wildlife Award"
-    },
-    {
-      "id": "recvnha0Hc0KTn",
-      "title": "历时20年、收集超4000张图像后，研究人员终于揭示了这种难以捉摸的亚马逊犬科动物的神秘面纱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/over-4-000-images-and-20-years-later-researchers-have-shed-much-needed-light-on-this-elusive-amazonian-dog",
-      "publish_time": "2026-06-22T18:25:00+08:00",
-      "summary": "研究人员历时20年，通过相机陷阱在玻利维亚和秘鲁拍摄4635张图像，揭示了亚马逊稀有犬科动物的神秘面纱。",
-      "recommendation": "相机陷阱技术应用案例，4635张图像揭示亚马逊犬科动物行为，对野生动物影像采集有参考价值。",
-      "categories": [
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Over 4,000 images and 20 years later, researchers have shed much-needed light on this elusive Amazonian dog"
-    },
-    {
-      "id": "recvnha3f9Luye",
-      "title": "数码相机垂死挣扎之际，防水相机为何撑起紧凑型市场",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/once-the-digicams-last-gasp-heres-why-the-waterproof-cameras-kept-the-compact-market-afloat",
-      "publish_time": "2026-06-22T18:00:09+08:00",
-      "summary": "防水相机在紧凑型市场逆势增长，凭借水下拍摄和耐用性吸引Z世代，成为少数未消失的数码相机类别。",
-      "recommendation": "解析防水相机逆势增长原因，提供Z世代消费洞察与紧凑型市场生存策略，对关注细分品类趋势的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Once the digicam’s last gasp, here’s why the waterproof cameras kept the compact market afloat"
-    },
-    {
-      "id": "recvnhanscKg9o",
-      "title": "专业摄影师的4个出色客户校样选项",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/22/4-great-client-proofing-options-for-professional-photographers/",
-      "publish_time": "2026-06-22T18:00:00+08:00",
-      "summary": "文章介绍客户校对是摄影师获取反馈和保护自己的方式，并推荐了4个出色的客户校对工具。",
-      "recommendation": "文章聚焦摄影师工作流中的客户校对环节，推荐4款工具，对提升交付效率有直接参考价值。但内容偏工具列表，缺乏独家数据或深度对比。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "4 Great Client Proofing Options for Professional Photographers"
-    },
-    {
-      "id": "recvnha5PmqJdo",
-      "title": "我是一名被AI耗尽的摄影师——但那些非艺术家对AI的恼怒让我看到了希望！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/im-an-ai-exhausted-photographer-but-the-number-of-non-artists-that-are-annoyed-with-ai-gives-me-hope",
-      "publish_time": "2026-06-22T17:43:46+08:00",
-      "summary": "民意调查显示约一半成年人不再对生成式人工智能有信心，摄影师虽被AI耗尽但看到非艺术家的恼怒带来希望。",
-      "recommendation": "文章提供民意调查数据，揭示公众对生成式AI信心下降，从非艺术家视角反思AI对摄影的影响，适合关注行业动态的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I’m an AI-exhausted photographer - but the number of non-artists that are annoyed with AI gives me hope!"
-    },
-    {
-      "id": "recvnhad0BBvPH",
-      "title": "佳能EOS RP正式停产：入门全画幅时代的终结",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canon-eos-rp-officially-discontinued-end-of-an-era-for-the-budget-full-frame/",
-      "publish_time": "2026-06-22T17:43:34+08:00",
-      "summary": "佳能EOS RP于2019年发布，现已在亚洲部分地区停产，标志着入门全画幅相机时代的终结。",
-      "recommendation": "解析EOS RP停产背后的市场逻辑，揭示入门全画幅相机面临的竞争压力与用户需求变迁，为影像爱好者提供行业趋势参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon EOS RP Officially Discontinued: End of an Era for the Budget Full-Frame"
-    },
-    {
-      "id": "recvnhauLxIvaN",
-      "title": "Mathew Malwitz 索尼 A7V 上手评测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-a7v-hands-on-review-by-mathew-malwitz/",
-      "publish_time": "2026-06-22T17:30:35+08:00",
-      "summary": "Mathew Malwitz评测索尼A7V，称其为出色相机的当之无愧继任者，升级值得，文章首发于sonyalpharumors。",
-      "recommendation": "评测索尼A7V作为A7系列继任者的升级细节，含实拍样张与性能对比数据，为持币观望的索尼用户提供具体升级参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony A7V hands-on review by Mathew Malwitz"
-    },
-    {
-      "id": "recvnha8iVJ9Oi",
-      "title": "智能望远镜最高省750美元，拍摄星空照片！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/optics/telescopes/save-up-to-usd750-on-a-smart-telescope-and-take-photos-of-the-stars",
-      "publish_time": "2026-06-22T17:26:18+08:00",
-      "summary": "Unistellar新一代望远镜最高优惠750美元，简化天文摄影，轻松拍摄星空照片。",
-      "recommendation": "天文摄影入门者关注：Unistellar望远镜降价750美元，简化星空拍摄流程，提供一键式天文摄影体验，适合追求便捷的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Save up to $750 on a smart telescope and take photos of the stars!"
-    },
-    {
-      "id": "recvnhafuehVha",
-      "title": "佳能新“三明治”镜头设计专利曝光，平价RF 85mm f/1.2有望问世",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canons-new-sandwich-lens-design-patent-teases-an-affordable-rf-85mm-f-1-2/",
-      "publish_time": "2026-06-22T16:25:45+08:00",
-      "summary": "佳能新专利曝光“三明治”镜头设计，旨在减轻重量，有望推出平价RF 85mm f/1.2镜头。",
-      "recommendation": "解析佳能“三明治”镜头专利，揭示减重设计对RF 85mm f/1.2平价化的影响，为追求轻便大光圈人像头的用户提供技术前瞻。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon’s New “Sandwich” Lens Design Patent Teases an Affordable RF 85mm f/1.2"
-    },
-    {
-      "id": "recvnhaaKX6NcZ",
-      "title": "被遗忘的记忆：从SmartMedia到xD卡、CompactFlash和Memory Stick，那些我们曾爱过又失去的相机存储卡格式",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/memory-cards/forgotten-memories-from-smartmedia-to-xd-cards-compactflash-and-memory-sticks-here-are-the-camera-memory-card-formats-weve-loved-and-lost",
-      "publish_time": "2026-06-22T16:19:13+08:00",
-      "summary": "回顾SmartMedia、xD卡、CompactFlash和Memory Stick等已消失的相机存储卡格式，分析其技术特点与失败原因，揭示数字存储格式的演变规律。",
-      "recommendation": "梳理SmartMedia、xD、CF、MS等已消失存储卡的技术细节与失败原因，提供格式演变规律，对影像收藏者和技术史爱好者有独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Forgotten memories: From SmartMedia to xD cards, CompactFlash and Memory Sticks, here are the camera memory card formats we’ve loved – and lost"
-    },
-    {
-      "id": "recvnhakzK7yWJ",
-      "title": "Nothing 分享 Phone (4b) 设计预告，暗示单后置摄像头",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/nothing_shares_phone_4b_design_teaser_hints_at_single_rear_camera-news-73375.php",
-      "publish_time": "2026-06-22T15:45:02+08:00",
-      "summary": "Nothing预告Phone (4b)系列，暗示单后置摄像头，Flipkart上线微型网站进一步预告。",
-      "recommendation": "Nothing Phone (4b) 单摄设计暗示影像策略转向，微型网站透露产品细节，适合关注手机影像差异化路线的爱好者了解行业新动向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nothing shares Phone (4b) design teaser, hints at single rear camera"
-    },
-    {
-      "id": "recvnhapSufcDS",
-      "title": "风光摄影师的最佳索尼相机之选",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/22/the-single-best-sony-camera-for-landscape-photographer/",
-      "publish_time": "2026-06-22T15:00:00+08:00",
-      "summary": "索尼全画幅相机中，一款最适合风光摄影师的机型，具备高分辨率、动态范围和耐用性，是风光摄影的理想选择。",
-      "recommendation": "解析索尼全画幅相机在风光摄影中的核心优势，涵盖高分辨率、动态范围与耐用性实测数据，为选购提供技术参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Single Best Sony Camera for Landscape Photographer"
-    },
-    {
-      "id": "recvnfuy0WZKlR",
-      "title": "Oppo Find N7 大折叠屏设计细节泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_find_n7_wide_foldables_design_details_leak-news-73373.php",
-      "publish_time": "2026-06-22T12:30:03+08:00",
-      "summary": "OPPO Find N7大折叠屏将采用宽高比设计，几乎无折痕，预计今年推出，与苹果三星竞争。",
-      "recommendation": "本文披露Oppo Find N7折叠屏宽高比设计细节，对影像爱好者价值在于折叠形态可能影响相机布局与握持拍摄体验，但缺乏具体影像参数或独家数据，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Oppo Find N7 wide foldable's design details leak"
-    },
-    {
-      "id": "recvnfuADnPANO",
-      "title": "当彩色摄影表现糟糕时",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/22/black-and-white-isnt-a-crutch-the-color-is-just-copy/",
-      "publish_time": "2026-06-22T12:00:00+08:00",
-      "summary": "文章指出，当彩色摄影表现不佳时，将其转为黑白可立即改善效果，这是许多初学摄影师常用的简单有效方法。",
-      "recommendation": "从彩色转黑白挽救废片，是摄影入门常用技巧。文章剖析其美学原理与适用场景，提供具体判断标准，对提升构图与光影感知有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "When Color Photography Just Sucks"
-    },
-    {
-      "id": "recvnfuFMtfzuH",
-      "title": "尼康新闻周刊第891期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/21/weekly-nikon-news-flash-891.aspx/",
-      "publish_time": "2026-06-22T09:55:24+08:00",
-      "summary": "尼康Z9翻新机现价4090美元，DZOFilm发布PL-Z转接环和1.4x增距镜，尼康需新紧凑相机，SG-Image即将发布新品。",
-      "recommendation": "涵盖尼康Z9翻新机价格、DZOFilm转接环与增距镜等新品，提供具体数据与行业动态，适合关注器材更新的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #891"
     }
   ]
 }
