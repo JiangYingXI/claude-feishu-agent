@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-03T12:31:35.403270+08:00",
+    "updated_at": "2026-07-03T17:49:08.089086+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 22
+      "count": 24
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 97
+      "count": 98
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 20
+      "count": 19
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,118 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 186
+      "count": 182
     }
   ],
   "articles": [
+    {
+      "id": "recvoiMIlLfVar",
+      "title": "vivo X500 爆料将配备 5000 万像素主摄",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x500_tipped_to_feature_a_50mp_main_rear_camera-news-73558.php",
+      "publish_time": "2026-07-03T17:31:02+08:00",
+      "summary": "vivo X500预计9月发布，将采用50MP索尼主摄，替代前代200MP摄像头。",
+      "recommendation": "文章爆料vivo X500主摄从200MP降至50MP索尼传感器，揭示厂商对高像素策略的调整，为关注手机影像方向者提供行业动态参考。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "vivo X500 tipped to feature a 50MP main rear camera"
+    },
+    {
+      "id": "recvoiMXafbZsn",
+      "title": "TTartisan发布尼康Z卡口AF 50mm f/1.8 NEO镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/03/new-ttartisan-af-50mm-f-1-8-neo-lens-for-nikon-z-mount-announced.aspx/",
+      "publish_time": "2026-07-03T17:00:09+08:00",
+      "summary": "TTartisan发布尼康Z卡口AF 50mm f/1.8 NEO镜头，售价89美元，轻便自动对焦，无对焦环和光圈环，已开放预购。",
+      "recommendation": "89美元自动对焦50mm镜头，轻便设计但无对焦环和光圈环，适合预算有限的尼康Z用户了解入门级自动对焦方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New TTartisan AF 50mm f/1.8 NEO lens for Nikon Z-mount announced"
+    },
+    {
+      "id": "recvoiMLOAkuzg",
+      "title": "三星Galaxy S27 Pro和Galaxy S27 Ultra将配备全新自拍相机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_galaxy_s27_ultra_to_get_a_new_selfie_camera-news-73556.php",
+      "publish_time": "2026-07-03T16:26:03+08:00",
+      "summary": "三星Galaxy S27 Pro和Ultra将配备全新1600万像素自拍相机，可能采用方形传感器，模仿苹果设计。",
+      "recommendation": "三星自拍相机升级至1600万像素，方形传感器设计值得关注，为自拍爱好者提供新选择。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 Pro and Galaxy S27 Ultra to get a new selfie camera"
+    },
+    {
+      "id": "recvoiMR9HNID6",
+      "title": "尼康悄然发布新款无反相机——尽管我深爱Z6 III，但劝你别买这款新品",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/nikon-has-sneak-launched-a-new-mirrorless-camera-but-as-much-as-i-love-the-z6-iii-id-warn-you-not-to-buy-the-new-one",
+      "publish_time": "2026-07-03T16:00:00+08:00",
+      "summary": "尼康发布Z6 III新变体，功能相同但缺少无线技术，建议不购买",
+      "recommendation": "文章揭示尼康Z6 III新变体阉割无线功能，提供购机避坑指南，对关注性价比的影像玩家有实际参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon has sneak-launched a new mirrorless camera – but as much as I love the Z6 III, I’d warn you not to buy the new one"
+    },
+    {
+      "id": "recvoiN03OWLD0",
+      "title": "别忘了：会员可免费获得预设神秘礼盒",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/03/modern-journalism-phoblographer-copy-3-copy-4-copy-2/",
+      "publish_time": "2026-07-03T15:00:00+08:00",
+      "summary": "会员可免费获得Lightroom或Capture One预设神秘礼盒，该福利旨在帮助用户创作AI无法生成的图像，2025年可能再次出版印刷版杂志。",
+      "recommendation": "常规资讯，可了解行业动态。提供Lightroom/Capture One预设福利，强调AI无法替代的创作价值，并提及2025年印刷版杂志计划，对预设爱好者有实用参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Don’t Forget: Members Get a Free Mystery Box of Presets"
+    },
+    {
+      "id": "recvoiMU01CUq2",
+      "title": "在一个饱受毒品、暴力、流放和酷热困扰的地方，避难所是一个特殊的存在。摄影师记录下为困境社区提供“归属感”的拳击俱乐部",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/for-a-place-that-struggles-with-drugs-violence-exile-and-the-heat-a-haven-is-a-special-place-photographer-documents-boxing-club-that-gives-struggling-community-a-sense-of-place",
+      "publish_time": "2026-07-03T14:15:00+08:00",
+      "summary": "洛杉矶摄影师记录非营利拳击俱乐部，为移民社区提供避风港和归属感，对抗毒品暴力等困境。",
+      "recommendation": "通过纪实摄影记录拳击俱乐部在困境社区的社会价值，展示人文摄影如何捕捉归属感与抗争精神，提供非虚构影像叙事案例。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“For a place that struggles with drugs, violence, exile and the heat. A haven is a special place.”Photographer documents boxing club that gives struggling community  “a sense of place”"
+    },
+    {
+      "id": "recvoiMOBBH2Pj",
+      "title": "联想开始预热新款Legion游戏平板，支持5G，发布时间揭晓",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lenovo_starts_teasing_a_new_legion_tablet_heres_when_its_coming-news-73555.php",
+      "publish_time": "2026-07-03T12:31:02+08:00",
+      "summary": "联想预热新款Legion游戏平板，支持5G，8月发布，配备8.8英寸1904x3040 LCD屏幕，摄像头模组新增RGB LED环。",
+      "recommendation": "文章提及游戏平板摄像头模组新增RGB LED环，对影像爱好者而言是设计细节参考，但未涉及传感器或算法等核心影像参数，属于常规产品资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lenovo starts teasing a new Legion gaming tablet with 5G, here's when it's coming"
+    },
     {
       "id": "recvohv3G1SXRC",
       "title": "2026年旅行最佳三款廉价紧凑相机",
@@ -7709,116 +7817,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Best Sony cameras for Wedding Photographers and Filmmakers"
-    },
-    {
-      "id": "recvnbQ3utLQcD",
-      "title": "“感觉像作弊”：过度依赖AI修图软件让摄影师变懒——核心摄影技能未被掌握",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/it-feels-like-cheating-over-reliance-on-ai-editing-software-is-making-photographers-lazy-and-core-camera-skills-are-not-being-learned",
-      "publish_time": "2026-06-21T20:30:00+08:00",
-      "summary": "AI修图软件降低摄影门槛，但导致摄影师依赖后期，忽视核心技能如构图和曝光，影响摄影能力提升",
-      "recommendation": "文章揭露AI修图对摄影核心技能（构图、曝光）的侵蚀，提供行业反思视角，适合警惕技术依赖的爱好者。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"It feels like cheating\":Over-reliance on AI editing software is making photographers lazy –and core camera skills are not being learned"
-    },
-    {
-      "id": "recvnbQ8qz8Av9",
-      "title": "促销：三星最新Galaxy Z折叠屏降价，iPhone 17 Pro、Pixel 10 Pro、小米17T Pro也在售",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_samsungs_latest_galaxy_z_foldables_discounted_iphone_17_pro_pixel_10_pro_xiaomi_17t_pro_also_o-news-73369.php",
-      "publish_time": "2026-06-21T20:01:02+08:00",
-      "summary": "三星Galaxy Z Fold7和Flip7降价200和150英镑，同时iPhone 17 Pro Max、小米17T系列等机型也有优惠。",
-      "recommendation": "汇总多款旗舰机型降价信息，含三星折叠屏及iPhone 17 Pro等，适合关注影像旗舰价格动态的读者，无独家数据，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: Samsung's latest Galaxy Z foldables discounted, iPhone 17 Pro, Pixel 10 Pro, Xiaomi 17T Pro also on sale"
-    },
-    {
-      "id": "recvnbQ5X9zn0X",
-      "title": "Godox ML150Bi评测：一款可随处使用的连续影室人像灯",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/godox-ml150bi-review",
-      "publish_time": "2026-06-21T18:45:00+08:00",
-      "summary": "Godox ML150Bi是一款便携连续LED灯，支持暖冷光调节，适合现场人像拍摄，通过光线塑形提升肖像效果",
-      "recommendation": "评测Godox ML150Bi便携LED灯，提供暖冷光调节与光线塑形实测数据，适合人像摄影爱好者了解移动布光方案。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Godox ML150Bi review: a continuous studio portrait light that you can use anywhere!"
-    },
-    {
-      "id": "recvnaJouzfVvM",
-      "title": "这款革命性的80年代相机永远改变了摄影——却让它的创造者破产",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-revolutionary-1980s-camera-changed-photography-forever-but-helped-bankrupt-its-creator",
-      "publish_time": "2026-06-21T17:10:00+08:00",
-      "summary": "徕卡发明自动对焦技术，但美能达推出革命性80年代相机，为此付出9600万美元代价，最终破产，却永远改变了摄影。",
-      "recommendation": "揭秘美能达自动对焦相机研发内幕，含9600万美元破产代价的独家数据，剖析技术革新与商业失败的矛盾，对影像爱好者理解行业历史有独特价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "This revolutionary 1980s camera changed photography forever –but helped bankrupt its creator"
-    },
-    {
-      "id": "recvnaJr0GUJge",
-      "title": "大师摄影师雅克·亨利·拉蒂格未公开的彩色照片，让历史仿佛昨日重现",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/these-unseen-color-photos-by-master-photographer-jacques-henri-lartigue-make-the-past-look-like-it-happened-yesterday",
-      "publish_time": "2026-06-21T16:42:23+08:00",
-      "summary": "新展览揭示法国大师雅克·亨利·拉蒂格数十年未公开的彩色照片，让历史仿佛昨日重现。",
-      "recommendation": "拉蒂格未公开彩色照片首次集中展出，提供早期彩色摄影技术实践与美学探索的独家史料，对理解摄影史色彩演进有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These unseen color photos by master photographer Jacques Henri Lartigue make the past look like it happened yesterday"
-    },
-    {
-      "id": "recvnaJw8cNGRD",
-      "title": "作为摄影师，你在Reddit上得不到的建议",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/21/by-appointment-only-were-doing-portfolio-reviews-copy-copy-4/",
-      "publish_time": "2026-06-21T15:00:00+08:00",
-      "summary": "摄影师在Reddit上得不到的建议：社交媒体算法偏爱视频，照片需更具影响力；Phoblographer提供实惠的个人摄影作品集评审预约服务。",
-      "recommendation": "揭示社交媒体算法对照片的冲击，提供实用作品集评审服务信息，助影像爱好者应对行业变化。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Advice You Won’t Get on Reddit as a Photographer"
-    },
-    {
-      "id": "recvnaJyyvBAcq",
-      "title": "3款最佳可作紧凑相机使用的ILC（第二部分）",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/21/the-3-best-ilcs-acting-as-compact-cameras-part-2/",
-      "publish_time": "2026-06-21T15:00:00+08:00",
-      "summary": "可换镜头相机中，三款紧凑型ILC兼具便携与性能，适合初学者和严肃摄影师，核心技术参数包括高像素传感器和快速对焦系统。",
-      "recommendation": "三款紧凑ILC横评，含高像素传感器与对焦系统实测数据，为追求便携与画质的用户提供客观选机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 3 Best ILCs Acting as Compact Cameras (Part 2)"
     }
   ]
 }
