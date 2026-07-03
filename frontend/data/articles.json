@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-03T04:08:36.436079+08:00",
+    "updated_at": "2026-07-03T12:31:35.403270+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 96
+      "count": 97
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,41 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 187
+      "count": 186
     }
   ],
   "articles": [
+    {
+      "id": "recvohv3G1SXRC",
+      "title": "2026年旅行最佳三款廉价紧凑相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/03/the-3-best-cheap-compact-cameras-for-travel-in-2026/",
+      "publish_time": "2026-07-03T12:00:00+08:00",
+      "summary": "2026年旅行最佳三款廉价紧凑相机，体积小巧且性能强大，适合年轻摄影师获取优质图像，值得关注。",
+      "recommendation": "盘点三款2026年廉价紧凑相机，提供具体型号与性能参数，适合预算有限的旅行摄影爱好者选机参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 3 Best Cheap Compact Cameras for Travel in 2026"
+    },
+    {
+      "id": "recvohv0wOB9qw",
+      "title": "倒计时开始：DPReview新网站下周上线",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/site-news/7480142560/the-countdown-begins-dpreview-s-new-website-goes-live-next-week",
+      "publish_time": "2026-07-03T04:55:00+08:00",
+      "summary": "DPReview网站将于下周上线，这是自1998年成立以来首次从头重建，包括代码库和迁移25年内容至现代平台。",
+      "recommendation": "DPReview首次重建网站，迁移25年内容，对影像爱好者是获取历史评测与行业动态的独特窗口。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The countdown begins: DPReview's new website goes live next week"
+    },
     {
       "id": "recvofrXF9icas",
       "title": "阿尔忒弥斯II号的尼康Z9对科学的重要性远超预期",
@@ -7788,37 +7819,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The 3 Best ILCs Acting as Compact Cameras (Part 2)"
-    },
-    {
-      "id": "recvnaJtxlXSlp",
-      "title": "如果CIPA所言非虚，无反和单反销量确实下滑，可换镜头相机是否已风光不再？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/if-there-really-is-a-decline-in-mirrorless-and-dslr-sales-as-cipa-is-saying-has-the-interchangeable-lens-camera-had-its-day",
-      "publish_time": "2026-06-21T14:15:00+08:00",
-      "summary": "固定镜头紧凑型相机普及导致可换镜头相机销量下滑，无反和单反风光不再。",
-      "recommendation": "基于CIPA数据剖析可换镜头相机销量下滑趋势，为影像爱好者提供行业风向标，助你理性看待市场变迁。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "If there really is a decline in mirrorless and DSLR sales, as CIPA is saying, has the interchangeable lens camera had its day?"
-    },
-    {
-      "id": "recvn9zWDuH7Mz",
-      "title": "2010年五款紧凑型相机，如今仍值得入手",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/21/5-compact-cameras-from-2010-that-you-must-get-your-hands-on-today/",
-      "publish_time": "2026-06-21T12:00:00+08:00",
-      "summary": "2010年五款紧凑型相机因怀旧价值和技术参数仍值得入手，适合摄影爱好者重温经典",
-      "recommendation": "回顾2010年五款紧凑型相机，提供具体型号与参数分析，适合怀旧玩家重温经典，但缺乏独家数据或深度对比。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "5 Compact Cameras from 2010 That You Must Get Your Hands on Today"
     }
   ]
 }
