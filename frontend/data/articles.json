@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-04T22:15:34.125122+08:00",
+    "updated_at": "2026-07-05T03:49:35.590932+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 106
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,87 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 19
+      "count": 18
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 45
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 407
+      "count": 406
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 179
+      "count": 181
     }
   ],
   "articles": [
+    {
+      "id": "recvor4GZFXgWc",
+      "title": "富士X-H2S摄影师在国际鸟类摄影大赛中斩获亚军和季军",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-x-h2s-photographer-snaps-2nd-and-3rd-place-at-international-bird-photography-contest/",
+      "publish_time": "2026-07-05T03:19:15+08:00",
+      "summary": "富士X-H2S摄影师海蒂·安·贝克在国际鸟类摄影比赛中，使用XF 55-200mm和XF100-400mm镜头，分别获特写类亚军和行为类季军。",
+      "recommendation": "通过获奖案例展示富士X-H2S与XF长焦镜头在鸟类摄影中的实战表现，提供具体镜头选择与拍摄场景的参考数据。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm X-H2S Photographer Snaps 2nd and 3rd Place at International Bird Photography Contest"
+    },
+    {
+      "id": "recvor4yOGOxl5",
+      "title": "这款相机配件本非为全景而生——但用它仍能拍出微距全景，方法如下",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/this-camera-gear-was-never-intended-for-panoramas-yet-you-can-still-shoot-a-macro-panorama-with-it-and-heres-how",
+      "publish_time": "2026-07-05T02:10:00+08:00",
+      "summary": "专业摄影师分享用非全景配件通过拼接技术拍摄微距全景的方法，实现广角微距效果。",
+      "recommendation": "突破配件限制的微距全景拼接技巧，含专业摄影师实测参数与操作步骤，为影像创作提供低成本高画质新思路。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This camera gear was never intended for panoramas – yet you can still shoot a macro panorama with it, and here's how"
+    },
+    {
+      "id": "recvor4BG7bQA0",
+      "title": "拍摄于1839年，这是现存最古老的美国照片——但它并非用相机拍摄",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/taken-in-1839-this-is-the-oldest-surviving-american-photo-but-it-wasnt-taken-with-a-camera",
+      "publish_time": "2026-07-04T23:20:00+08:00",
+      "summary": "现存最古老的美国照片拍摄于1839年费城，但并非用相机拍摄，而是通过其他成像技术完成。",
+      "recommendation": "追溯摄影术起源，揭示1839年非相机成像技术，为影像爱好者提供早期摄影史独特视角与珍贵史料。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Taken in 1839, this is the oldest surviving American photo – but it wasn’t taken with a camera"
+    },
+    {
+      "id": "recvor4EgJ7tg5",
+      "title": "vivo X300e关键规格曝光，预计搭载骁龙8 Gen 5处理器和超大电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x300e_key_specs_surface_expected_with_sd8_gen_5_soc_and_a_huge_battery-news-73577.php",
+      "publish_time": "2026-07-04T22:15:03+08:00",
+      "summary": "vivo X300e曝光，配备6.59英寸OLED直屏，搭载骁龙8 Gen 5芯片，预计为X300系列第六款机型。",
+      "recommendation": "曝光vivo X300e关键规格，骁龙8 Gen 5芯片与OLED直屏组合，为影像爱好者提供中端机型性能参考，但缺乏影像系统独有数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo X300e key specs surface, expected with SD8 Gen 5 SoC and a huge battery"
+    },
     {
       "id": "recvopIqMsmU9V",
       "title": "佳能EOS 300D发布23周年：它如今表现如何？",
@@ -7763,68 +7825,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Tecno introduces pretty Camon Slim with 6.39mm profile"
-    },
-    {
-      "id": "recvnjjAKVsZAt",
-      "title": "Luminar Neo 新增人像工具，实现极致精准、跨设备编辑等更多功能",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/luminar-neo-now-with-new-portrait-tools-for-maximum-precision-cross-device-editing-and-more/",
-      "publish_time": "2026-06-23T00:17:30+08:00",
-      "summary": "Luminar Neo春季更新优化人像编辑精准度，并实现移动端与桌面端无缝切换，提升摄影师常用工作流程效率。",
-      "recommendation": "解析Luminar Neo春季更新的人像工具精度提升与跨设备编辑能力，提供移动端与桌面端工作流优化细节，适合追求后期效率的摄影师。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Luminar Neo Now With New Portrait Tools for Maximum Precision, Cross Device Editing and More"
-    },
-    {
-      "id": "recvnjjsZj84ha",
-      "title": "EOS R(I)P：佳能刚刚停产了其最受欢迎的相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/eos-r-i-p-canon-just-discontinued-its-most-popular-camera",
-      "publish_time": "2026-06-23T00:13:59+08:00",
-      "summary": "佳能停产了其最受欢迎的无反相机EOS R，这款相机曾是其首款全画幅无反机型，标志着佳能进入无反时代。",
-      "recommendation": "佳能停产EOS R标志其首款全画幅无反谢幕，文章梳理了该机型对品牌无反战略的里程碑意义，适合关注佳能产品线变迁的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "EOS R(I)P: Canon just discontinued its most popular camera"
-    },
-    {
-      "id": "recvnjjKZXpkeu",
-      "title": "佳能镜头质量下降可能性大增",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/22/could-canons-new-patent-make-primes-lighter-and-more-affordable-than-ever/",
-      "publish_time": "2026-06-23T00:00:00+08:00",
-      "summary": "佳能研发新专利，旨在降低RF镜头重量和成本，解决部分光学元件价格和重量偏高问题。",
-      "recommendation": "解读佳能RF镜头轻量化专利，揭示成本与画质平衡趋势，对关注镜头选购与行业技术走向的爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon’s Lens Quality Has a Big Chance of Dropping"
-    },
-    {
-      "id": "recvnjj0stRfn6",
-      "title": "富士胶片将向摄影师和电影制作人提供10万美元资助",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/fujifilm-will-award-100000-in-grants-to-photographers-and-filmmakers/",
-      "publish_time": "2026-06-22T23:34:07+08:00",
-      "summary": "富士胶片开放2026年GFX挑战资助计划，提供10万美元资金、指导及中画幅相机系统，助力全球摄影师和电影制作人实现创意项目。",
-      "recommendation": "富士GFX资助计划提供10万美元及中画幅系统，对中画幅创作感兴趣的摄影师可了解申请门槛与支持细节。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm Will Award $100,000 in Grants to Photographers and Filmmakers"
     }
   ]
 }
