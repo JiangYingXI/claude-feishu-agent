@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-04T04:03:51.833533+08:00",
+    "updated_at": "2026-07-04T12:17:58.355102+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,15 +33,30 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 408
+      "count": 409
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 178
+      "count": 177
     }
   ],
   "articles": [
+    {
+      "id": "recvoni9hehxCb",
+      "title": "据报道，苹果已暂停AirPods Ultra的开发",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_has_reportedly_suspended_the_development_of_the_airpods_ultra-news-73567.php",
+      "publish_time": "2026-07-04T05:18:02+08:00",
+      "summary": "据爆料，苹果已暂停配备摄像头、支持Siri的AirPods Ultra开发，原计划2027年底发布，但暂停后仍可能赶上该时间点。",
+      "recommendation": "常规资讯，可了解行业动态。虽未直接涉及影像，但AirPods Ultra若配备摄像头将拓展苹果生态的影像交互场景，对关注计算摄影与AI融合的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple has reportedly suspended the development of the AirPods Ultra"
+    },
     {
       "id": "recvolhysNfiiI",
       "title": "三星Galaxy Z Fold8、Fold8 Ultra、Flip8、Watch9、Watch Ultra 2价格泄露",
@@ -7808,21 +7823,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Honor X80 Pro Max launches with the brand's biggest battery yet"
-    },
-    {
-      "id": "recvnh9YadlA4r",
-      "title": "象海豹训斥企鹅的精彩照片入围野生动物摄影奖",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/elephant-seal-scolds-penguins-in-superb-photo-shortlisted-for-wildlife-award/",
-      "publish_time": "2026-06-22T20:15:10+08:00",
-      "summary": "2026年澳大利亚地理自然摄影师年度大赛入围名单公布，象海豹训斥企鹅的精彩照片成为亮点。",
-      "recommendation": "解析野生动物摄影中决定性瞬间的抓拍技巧，含象海豹与企鹅行为互动的罕见数据，对生态摄影爱好者有技术参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Elephant Seal Scolds Penguins in Superb Photo Shortlisted for Wildlife Award"
     }
   ]
 }
