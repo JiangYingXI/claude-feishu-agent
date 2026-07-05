@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-05T17:32:39.680948+08:00",
+    "updated_at": "2026-07-05T22:22:56.457169+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 108
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,140 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 404
+      "count": 401
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 184
+      "count": 188
     }
   ],
   "articles": [
+    {
+      "id": "recvovANUDABzJ",
+      "title": "Terra Flamma：探访以野火为光源的摄影师",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/interviews/8859069053/terra-flamma-meet-the-photographer-using-wildfire-as-light",
+      "publish_time": "2026-07-05T21:00:00+08:00",
+      "summary": "摄影师Stuart Palley自2013年起拍摄加州野火，13年间记录近200场火灾，使用富士GFX100 II等设备，见证火灾季节延长、火势加剧的预测成真。",
+      "recommendation": "通过13年200场野火拍摄，揭示GFX100 II在极端环境下的实战表现，提供计算摄影无法替代的自然光源创作视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Terra Flamma: meet the photographer using wildfire as light"
+    },
+    {
+      "id": "recvovAFfvBetY",
+      "title": "数码双反相机早已姗姗来迟",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/05/a-digital-twin-lens-reflex-camera-is-long-past-due/",
+      "publish_time": "2026-07-05T20:30:35+08:00",
+      "summary": "文章探讨腰平式双镜头反光相机被忽视的原因，强调拍摄体验与结果同等重要，呼吁数码双反相机回归",
+      "recommendation": "从拍摄体验角度剖析双反相机被忽视的深层原因，提出数码双反回归的独特观点，对追求摄影仪式感的爱好者有启发价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A Digital Twin-Lens Reflex Camera is Long Past Due"
+    },
+    {
+      "id": "recvovATTPTDJs",
+      "title": "你用过佳能相机的数码长焦模式吗？别费劲了！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/have-you-ever-used-the-digital-telephoto-modes-on-your-canon-camera-well-dont-bother",
+      "publish_time": "2026-07-05T20:30:00+08:00",
+      "summary": "佳能高端EOS相机配备数码增距镜功能，但数码变焦通常仅用于智能手机和紧凑型相机，该功能实际价值有限。",
+      "recommendation": "拆解佳能数码长焦模式的实际效用，对比手机与相机变焦逻辑差异，适合想优化镜头使用效率的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Have you ever used the digital telephoto modes on your Canon camera? Well, DON'T BOTHER!"
+    },
+    {
+      "id": "recvovAZ1EiWAr",
+      "title": "索尼RX10V焦距略有不同",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-rx10v-has-a-slightly-different-focal-length/",
+      "publish_time": "2026-07-05T20:23:46+08:00",
+      "summary": "索尼RX10V配备9.1-210mm镜头，等效25-575mm，与RX10IV的8.8-220mm（等效24-600mm）略有不同",
+      "recommendation": "对比RX10IV焦距变化，提供具体焦段数据，适合关注长焦卡片机迭代的爱好者了解细节差异。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony RX10V has a slightly different focal length"
+    },
+    {
+      "id": "recvovAI8a1Rac",
+      "title": "《奥德赛》主演揭秘拍摄所用的疯狂IMAX摄像机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/05/stars-of-the-odyssey-describe-the-insane-imax-camera-used-to-film-it/",
+      "publish_time": "2026-07-05T20:00:28+08:00",
+      "summary": "克里斯托弗·诺兰的IMAX新片《奥德赛》完全采用IMAX格式拍摄，即将上映，标志电影技术新里程碑。",
+      "recommendation": "解析诺兰全IMAX拍摄《奥德赛》的技术细节，揭示IMAX摄像机在电影制作中的极限应用，对影像爱好者理解顶级电影画质标准有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Stars of ‘The Odyssey’ Describe the Insane IMAX Camera Used to Film It"
+    },
+    {
+      "id": "recvovAQWVL8n3",
+      "title": "每周投票结果：Oppo Reno16和Reno16 Pro定价过高",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_results_the_oppo_reno16_and_reno16_pro_are_overpriced-news-73553.php",
+      "publish_time": "2026-07-05T19:13:03+08:00",
+      "summary": "Oppo Reno16系列定价过高，中端性能配旗舰价格，骁龙7 Gen 4和基础主摄难以支撑900欧元售价，销量堪忧。",
+      "recommendation": "分析Reno16系列定价与影像配置失衡，骁龙7 Gen 4配基础主摄难撑高价，提供市场反馈数据，助消费者理性决策。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly poll results: the Oppo Reno16 and Reno16 Pro are overpriced"
+    },
+    {
+      "id": "recvovAKYFNIsS",
+      "title": "渔夫神秘照片捕捉塞尔基民间传说精髓",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/05/fishermans-mysterious-photographs-capture-essence-of-selkie-folklore/",
+      "publish_time": "2026-07-05T19:00:25+08:00",
+      "summary": "杰夫·德沃斯基14岁辍学，15岁购徕卡相机，16岁移居缅因州小岛当渔民，其摄影作品捕捉塞尔基民间传说精髓。",
+      "recommendation": "渔民摄影师用徕卡记录塞尔基传说，展示非科班出身者如何以独特视角融合纪实与神话，提供摄影叙事新思路。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fisherman’s Mysterious Photographs Capture Essence of Selkie Folklore"
+    },
+    {
+      "id": "recvovAWslrX2L",
+      "title": "为什么富士X Pro 2如此适合黑白摄影",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/05/why-the-fujifilm-x-pro-2-is-so-great-for-black-and-white-photography/",
+      "publish_time": "2026-07-05T18:00:00+08:00",
+      "summary": "富士X Pro 2凭借其独特的X-Trans CMOS III传感器和胶片模拟模式，成为黑白摄影的理想选择，能帮助摄影师以不同视角思考并创作。",
+      "recommendation": "解析X-Trans CMOS III传感器对黑白影调的独特优化，结合胶片模拟模式提供实操思路，适合追求黑白影像质感的爱好者。",
+      "categories": [
+        "传感器硬件",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why the Fujifilm X Pro 2 is So Great for Black and White Photography"
+    },
     {
       "id": "recvoupOYkjIqa",
       "title": "售价995美元，但若这款1990年数码相机的电池耗尽，所有照片将永久消失！",
@@ -7705,130 +7830,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "One of the most hotly-anticipated budget camera phones has just been cancelled"
-    },
-    {
-      "id": "recvnjiF53a1DH",
-      "title": "ObscuraFlex 现允许摄影师在复古大画幅相机上使用理光GR",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/the-obscuraflex-now-lets-photographers-use-a-ricoh-gr-on-vintage-large-format-cameras/",
-      "publish_time": "2026-06-23T05:07:58+08:00",
-      "summary": "ObscuraFlex系统扩展至大画幅相机，支持理光GR作为数字取景器和数码后背，改进智能手机工作流程。",
-      "recommendation": "大画幅相机兼容理光GR作为数字后背，为胶片与数码混合创作提供新方案，含ObscuraFlex系统扩展细节。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The ObscuraFlex Now Lets Photographers Use a Ricoh GR On Vintage Large Format Cameras"
-    },
-    {
-      "id": "recvnjjgeeyil1",
-      "title": "柯达Charmera热潮失控，连这个镜头品牌也加入钥匙扣相机潮流",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-kodak-charmera-craze-is-out-of-control-even-this-lens-brand-appears-to-be-jumping-on-the-keychain-camera-trend",
-      "publish_time": "2026-06-23T04:22:35+08:00",
-      "summary": "中国社交媒体泄露照片显示，唯卓仕在节日期间发放钥匙扣相机，加入柯达Charmera引发的钥匙扣相机潮流。",
-      "recommendation": "揭示唯卓仕加入钥匙扣相机潮流的行业动态，含泄露照片佐证，为影像爱好者提供品牌跨界趋势的独特视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Kodak Charmera craze is out of control. Even this lens brand appears to be jumping on the keychain camera trend"
-    },
-    {
-      "id": "recvnjiHT6JOdh",
-      "title": "Pelican 使其标志性硬质保护箱更加耐用",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/pelican-just-made-its-signature-hard-cases-even-more-durable/",
-      "publish_time": "2026-06-23T04:06:17+08:00",
-      "summary": "Pelican 推出下一代 Protector 系列硬质保护箱，升级后更耐用，专为摄影师设计。",
-      "recommendation": "解析Pelican Protector系列升级细节，为摄影师提供硬质防护箱耐用性改进的实用参考，常规产品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pelican Just Made Its Signature Hard Cases Even More Durable"
-    },
-    {
-      "id": "recvnjiKCpFkyZ",
-      "title": "这款App完美模拟模拟测距仪体验，甚至按‘卷’收费",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/app-mimics-the-analog-rangefinder-experience-so-well-it-charges-you-per-roll/",
-      "publish_time": "2026-06-23T03:59:27+08:00",
-      "summary": "M-Kamera应用在iPhone上模拟旁轴相机，提供旁轴对焦和虚拟胶片过片器，按卷收费，还原经典测距仪体验。",
-      "recommendation": "解析M-Kamera如何通过旁轴对焦与虚拟过片器，在iPhone上复刻胶片测距仪体验，按卷收费模式独特，为手机摄影爱好者提供复古拍摄新思路。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "App Mimics the Analog Rangefinder Experience So Well, It Charges You ‘Per Roll’"
-    },
-    {
-      "id": "recvnjjIjEHNPM",
-      "title": "尼康用户钟爱的镜头或将迎来甜蜜升级",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/22/a-lens-beloved-by-nikon-users-could-get-a-sweet-makeover/",
-      "publish_time": "2026-06-23T03:00:00+08:00",
-      "summary": "中国第三方镜头制造商SG-Image将推出尼康用户喜爱的新镜头，以低价提供出色成像质量，引发市场关注。",
-      "recommendation": "SG-Image将推尼康卡口新镜，以低价实现出色成像，为预算有限的用户提供高性价比选择。文章披露第三方厂商动态，对关注副厂镜头市场的爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A Lens Beloved by Nikon Users Could Get a Sweet Makeover"
-    },
-    {
-      "id": "recvnjiNlk9JaR",
-      "title": "SmallRig会员日大促：40多款摄影配件最高享30%折扣",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/smallrigs-prime-day-deals-offer-up-to-30-off-over-40-photo-accessories/",
-      "publish_time": "2026-06-23T02:22:39+08:00",
-      "summary": "SmallRig会员日大促，40多款摄影配件最高享30%折扣，涵盖三脚架、灯光、电池等热门产品，助你低价升级创作装备。",
-      "recommendation": "SmallRig会员日促销信息汇总，40余款配件折扣明确，适合计划升级装备的影像创作者快速了解优惠范围与力度。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "SmallRig’s Prime Day Deals Offer Up to 30% Off Over 40 Photo Accessories"
-    },
-    {
-      "id": "recvnjiQ8zTbGi",
-      "title": "NiSi 16mm f/2.8：中画幅相机最快的超广角定焦镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/nisis-16mm-f-2-8-is-the-fastest-ultra-wide-prime-lens-for-medium-format-cameras/",
-      "publish_time": "2026-06-23T02:07:08+08:00",
-      "summary": "NiSi发布16mm f/2.8超广角定焦镜头，适配富士GFX和哈苏XCD卡口，等效12.6mm，为中画幅最快此类镜头。",
-      "recommendation": "解析NiSi 16mm f/2.8作为中画幅最快超广角定焦的参数与适配性，提供等效12.6mm视角及f/2.8光圈在GFX/XCD卡口下的实拍价值，适合风光建筑摄影师参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "NiSi’s 16mm f/2.8 Is the Fastest Ultra-Wide Prime Lens for Medium Format Cameras"
-    },
-    {
-      "id": "recvnjjvGLDiiK",
-      "title": "谷歌悄然为Pixel手机添加LHDC v5支持，伴随Android 17更新",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_quietly_adds_lhdc_v5_support_to_pixel_phones_with_android_17_update-news-73383.php",
-      "publish_time": "2026-06-23T02:00:02+08:00",
-      "summary": "谷歌Android 17更新悄然为Pixel手机添加LHDC v5支持，用户需进入开发者设置启用，提升蓝牙音频质量。",
-      "recommendation": "LHDC v5支持提升蓝牙音频质量，对视频回放和拍摄监听有间接价值。文章揭示Pixel系统更新细节，但未涉及影像核心功能。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google quietly adds LHDC v5 support to Pixel phones with Android 17 update"
     }
   ]
 }
