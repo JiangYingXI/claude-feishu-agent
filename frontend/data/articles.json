@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-05T22:22:56.457169+08:00",
+    "updated_at": "2026-07-06T03:55:55.814254+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 27
+      "count": 26
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,47 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 401
+      "count": 402
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 188
+      "count": 189
     }
   ],
   "articles": [
+    {
+      "id": "recvowWOvtwBge",
+      "title": "富士龙XF四款出色镜头仍在促销中",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fabulous-four-fujinon-xf-lenses-are-still-in-offer/",
+      "publish_time": "2026-07-06T02:02:43+08:00",
+      "summary": "富士龙XF四款镜头促销至8月2日，XF18mmF1.4省150美元，XF23mmF1.4省100美元，XF35mmF2省50美元，多平台可购。",
+      "recommendation": "富士龙XF四款镜头限时促销，涵盖18mm至35mm焦段，最高省150美元，适合计划补充定焦镜头的富士用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fabulous Four Fujinon XF Lenses Are Still in Offer"
+    },
+    {
+      "id": "recvowWL3kWQOs",
+      "title": "无屏幕数码相机能否成为对抗末日刷屏和智能手机成瘾的解药？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/are-screen-free-digital-cameras-the-antidote-to-doomscrolling-and-smartphone-addiction",
+      "publish_time": "2026-07-05T23:20:00+08:00",
+      "summary": "文章探讨无屏幕数码相机如Camp Snap、Leica M-11D等能否成为对抗智能手机成瘾的解药，代表追求无屏幕摄影体验的趋势。",
+      "recommendation": "从Camp Snap到Leica M-11D，解析无屏幕相机对抗手机成瘾的独特视角，提供摄影本质思考与行业趋势洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Are screen-free digital cameras the antidote to doomscrolling and smartphone addiction?"
+    },
     {
       "id": "recvovANUDABzJ",
       "title": "Terra Flamma：探访以野火为光源的摄影师",
@@ -7799,37 +7831,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "NiSi reveals clever new lens accessories for Ricoh GR cameras"
-    },
-    {
-      "id": "recvnl5QwaIBtB",
-      "title": "iPhone 18 Pro相机升级再获传闻'确认'",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_18_pro_camera_upgrade_confirmed_by_another_rumor-news-73388.php",
-      "publish_time": "2026-06-23T06:30:02+08:00",
-      "summary": "据爆料，iPhone 18 Pro主摄像头将获物理尺寸升级，凸起增厚约2毫米，并可能配备可变光圈。",
-      "recommendation": "iPhone 18 Pro主摄传感器尺寸升级及可变光圈传闻，提供具体物理参数（凸起增厚2mm），对关注手机光学硬件迭代的爱好者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "iPhone 18 Pro camera upgrade 'confirmed' by another rumor"
-    },
-    {
-      "id": "recvnl5LMGR106",
-      "title": "最受期待的平价拍照手机之一刚刚被取消",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/one-of-the-most-hotly-anticipated-budget-camera-phones-has-just-been-cancelled",
-      "publish_time": "2026-06-23T06:27:34+08:00",
-      "summary": "因AI和全球内存短缺，最受期待的平价拍照手机之一被取消，影响市场期待。",
-      "recommendation": "分析平价拍照手机因AI和内存短缺被取消的行业影响，提供市场供需与产品策略的独特视角，对关注手机影像趋势的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "One of the most hotly-anticipated budget camera phones has just been cancelled"
     }
   ]
 }
