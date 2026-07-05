@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-05T12:46:17.172241+08:00",
+    "updated_at": "2026-07-05T17:32:39.680948+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 27
+      "count": 26
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 108
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,78 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 406
+      "count": 404
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 182
+      "count": 184
     }
   ],
   "articles": [
+    {
+      "id": "recvoupOYkjIqa",
+      "title": "售价995美元，但若这款1990年数码相机的电池耗尽，所有照片将永久消失！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/it-cost-us-usd995-but-if-the-battery-of-this-1990-digital-compact-camera-died-all-your-photos-vanished-forever",
+      "publish_time": "2026-07-05T17:10:00+08:00",
+      "summary": "1990年售价995美元的数码相机需连接扩展坞和电脑启动，电池耗尽后照片永久消失，揭示早期数码技术的脆弱性",
+      "recommendation": "揭示1990年995美元数码相机的致命缺陷：电池耗尽即永久丢失照片，早期数码技术的脆弱性案例，对理解影像存储演进有独特价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "It cost US$995 but, if the battery of this 1990 digital compact camera died, ALL your photos vanished forever!"
+    },
+    {
+      "id": "recvoupMcSSABA",
+      "title": "促销：Galaxy S26和S26 Ultra价格再降，小米17T和17T Pro首次降价",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_galaxy_s26_and_s26_ultra_prices_drop_further_xiaomi_17t_and_17t_pro_get_first_price_cuts-news-73564.php",
+      "publish_time": "2026-07-05T15:51:04+08:00",
+      "summary": "Prime Day后促销持续，三星Galaxy S26 Ultra 12/512GB降价60欧元至1120欧元，小米17T系列首次降价。",
+      "recommendation": "Galaxy S26 Ultra降价60欧元至1120欧元，小米17T系列首次降价，含12/512GB配置数据，适合关注高端旗舰影像机型价格波动的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: Galaxy S26 and S26 Ultra prices drop further, Xiaomi 17T and 17T Pro get first price cuts"
+    },
+    {
+      "id": "recvoupU5bq47q",
+      "title": "关于散景，你应该知道的几件事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/05/how-to-get-the-most-pleasing-bokeh-in-your-images-copy/",
+      "publish_time": "2026-07-05T15:00:00+08:00",
+      "summary": "散景是视觉叙事的有效工具，本文分享充分利用镜头获得最佳散景的关键秘诀，属于镜头测试的一部分。",
+      "recommendation": "从光学原理到实战技巧，解析散景控制的核心参数（光圈叶片数、球差校正），附多组镜头对比样张，助你精准预判焦外成像效果。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A Few Things You Should Know About Bokeh"
+    },
+    {
+      "id": "recvoupRsZhcPJ",
+      "title": "“我永远无法复刻这一张”——这张微距照片是用2009年的单反相机拍摄的",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-technique/i-cannot-replicate-this-one-ever-this-macro-photo-was-shot-with-a-dslr-from-2009",
+      "publish_time": "2026-07-05T14:15:00+08:00",
+      "summary": "文章指出，2009年单反相机拍摄的微距照片无法复刻，强调简单设备也能拍出优秀特写，核心在于技巧而非复杂器材。",
+      "recommendation": "用2009年单反微距样张证明设备非关键，技巧与光线才是核心。对器材党有祛魅价值，提供可复用的低配拍摄思路。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"I cannot replicate this one. Ever\" –This macro photo was shot with a DSLR from 2009"
+    },
     {
       "id": "recvotfD1ZV0iW",
       "title": "WhatsApp开始在iOS上测试绿色圆点在线联系人指示器",
@@ -7766,69 +7829,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Google quietly adds LHDC v5 support to Pixel phones with Android 17 update"
-    },
-    {
-      "id": "recvnjjiTobC85",
-      "title": "索尼A7 IV：从APS-C升级的理想首款全画幅相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/sony-a7-iv-the-perfect-first-full-frame-rig-to-step-up-from-aps-c",
-      "publish_time": "2026-06-23T01:50:53+08:00",
-      "summary": "索尼A7 IV作为从APS-C升级的理想首款全画幅相机，几乎达到专业级水准，随A7 V推出价格更亲民。",
-      "recommendation": "从APS-C升级全画幅的实用指南，解析A7 IV在画质、对焦与视频性能的平衡点，提供A7 V降价后的性价比数据与选购建议。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony A7 IV: the perfect first full-frame rig to step up from APS-C"
-    },
-    {
-      "id": "recvnjjlnIJKej",
-      "title": "这款紧凑型无反相机是我最喜欢的索尼平价相机之一——现在降至历史最低价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-compact-mirrorless-is-one-of-my-favorite-sony-budget-cameras-and-it-just-dropped-to-its-lowest-ever-price",
-      "publish_time": "2026-06-23T01:33:31+08:00",
-      "summary": "索尼A6700紧凑型无反相机降至历史最低价1398美元，具备自动对焦智能技术，是性价比极高的平价相机。",
-      "recommendation": "A6700降至1398美元历史低价，解析其自动对焦智能技术对视频与街拍用户的实用价值，提供价格走势与性能权衡的客观参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This compact mirrorless is one of my favorite Sony budget cameras – and it just dropped to its lowest-ever price"
-    },
-    {
-      "id": "recvnjjnTcMGpf",
-      "title": "尼康“基础款”全画幅无反暗光对焦性能超越两倍价格竞品，且价格创新低",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/nikons-basic-full-frame-mirrorless-focuses-in-the-dark-better-than-competitors-that-cost-twice-as-much-and-its-never-been-cheaper",
-      "publish_time": "2026-06-23T01:29:32+08:00",
-      "summary": "尼康Z5 II入门全画幅无反暗光对焦性能超越两倍价格竞品，套机优惠450美元，单机身优惠250美元",
-      "recommendation": "文章对比Z5 II与两倍价位竞品的暗光对焦数据，提供具体价格优惠信息，对入门全画幅用户选购有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon’s “basic” full-frame mirrorless focuses in the dark better than competitors that cost twice as much – and it’s never been cheaper"
-    },
-    {
-      "id": "recvnjiSIUf92E",
-      "title": "索尼首款LOFIC图像传感器宣称动态范围接近17档",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/sonys-first-lofic-image-sensor-promises-nearly-17-stops-of-dynamic-range/",
-      "publish_time": "2026-06-23T01:24:24+08:00",
-      "summary": "索尼首款LOFIC图像传感器Lytia L910将于今年晚些时候登陆旗舰手机，5000万像素，动态范围接近17档，显著提升图像质量。",
-      "recommendation": "解析索尼首款LOFIC传感器Lytia L910的17档动态范围突破，提供5000万像素与旗舰手机落地时间等独家数据，助你预判手机影像画质升级方向。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Sony’s First LOFIC Image Sensor Promises Nearly 17 Stops of Dynamic Range"
     }
   ]
 }
