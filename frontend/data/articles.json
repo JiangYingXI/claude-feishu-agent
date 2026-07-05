@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-05T03:49:35.590932+08:00",
+    "updated_at": "2026-07-05T12:46:17.172241+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 106
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,12 +23,12 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 18
+      "count": 19
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 45
+      "count": 46
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,89 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 181
+      "count": 182
     }
   ],
   "articles": [
+    {
+      "id": "recvotfD1ZV0iW",
+      "title": "WhatsApp开始在iOS上测试绿色圆点在线联系人指示器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/whatsapp_green_dot_online_contact_indicator_ios_beta-news-73576.php",
+      "publish_time": "2026-07-05T12:20:02+08:00",
+      "summary": "WhatsApp在iOS测试版26.26.10.72中开始测试绿色圆点指示联系人是否在线，Android此前已测试该功能。",
+      "recommendation": "常规资讯，可了解行业动态。该功能与影像无直接关联，但提示社交平台UI迭代趋势，对影像爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "WhatsApp starts testing green dot online contact indicator on iOS"
+    },
+    {
+      "id": "recvotfOaMMgRR",
+      "title": "尼康是否在复活已取消的DL系列便携相机？",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/04/is-nikon-resurrecting-the-cancelled-dl-compact-cameras.aspx/",
+      "publish_time": "2026-07-05T08:38:14+08:00",
+      "summary": "尼康可能复活已取消的DL紧凑型相机，机身和镜头设计类似原DL 18-50和DL 24-85，或合并为24-70变焦版本",
+      "recommendation": "尼康DL系列复活传闻解析，含原机型规格对比与变焦方案推测，对关注便携相机市场的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Nikon resurrecting the canceled DL compact cameras?"
+    },
+    {
+      "id": "recvotfIJkoZWg",
+      "title": "我爱柯达钥匙扣相机，但其他品牌拍得更好吗？这些是我试过的最佳钥匙扣相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/best-kodak-keychain-cameras",
+      "publish_time": "2026-07-05T08:10:00+08:00",
+      "summary": "文章评测多款钥匙扣相机，指出柯达型号虽酷但非最佳，推荐其他品牌在画质和功能上更优，核心参数包括像素、视频分辨率和便携性。",
+      "recommendation": "实测多款钥匙扣相机，对比柯达与其他品牌在像素、视频分辨率及便携性上的差异，提供非营销视角的选购参考，适合关注超便携影像设备的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I love the Kodak keychain camera, but do the other brands take better photos? These are the best keychain cameras I've tried"
+    },
+    {
+      "id": "recvotfLeT7hkX",
+      "title": "成为“杰出”摄影记者的机会来了：2026年汤姆·斯托达特奖回归",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-is-your-chance-to-be-published-as-an-excellent-photojournalist-the-tom-stoddart-awards-returns-for-2026",
+      "publish_time": "2026-07-05T05:20:00+08:00",
+      "summary": "2026年汤姆·斯托达特奖回归，表彰资深摄影记者，获奖者获定制书籍出版及5000英镑奖金。",
+      "recommendation": "摄影记者职业进阶指南，详解奖项规则与奖金细节，对纪实摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This is your chance to be published as an \"excellent\" photojournalist: The Tom Stoddart Awards returns for 2026"
+    },
+    {
+      "id": "recvotfG89D7hi",
+      "title": "iOS 27源代码揭示苹果新款支持视觉智能的可穿戴设备",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/ios_27_source_code_reveals_a_new_apple_wearable_supporting_visual_intelligence-news-73578.php",
+      "publish_time": "2026-07-05T05:08:02+08:00",
+      "summary": "iOS 27源代码显示新型号B790苹果可穿戴设备支持视觉智能功能，该功能允许用户通过Siri询问物体信息，适用于iPhone 15 Pro及以上机型。",
+      "recommendation": "iOS 27源代码曝光苹果B790设备支持视觉智能，揭示可穿戴影像交互新方向，对关注AI影像功能的用户有参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iOS 27 source code reveals a new Apple wearable supporting Visual Intelligence"
+    },
     {
       "id": "recvor4GZFXgWc",
       "title": "富士X-H2S摄影师在国际鸟类摄影大赛中斩获亚军和季军",
@@ -7750,81 +7829,6 @@
       "quality_score": 8,
       "language": "English",
       "original_title": "Sony’s First LOFIC Image Sensor Promises Nearly 17 Stops of Dynamic Range"
-    },
-    {
-      "id": "recvnjjqaYa9ZG",
-      "title": "天哪！佳能最具性价比的全画幅相机现在价格低得离谱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/holy-crap-canons-best-value-full-frame-camera-is-insanely-cheap-right-now",
-      "publish_time": "2026-06-23T01:19:21+08:00",
-      "summary": "佳能最小全画幅相机价格暴跌，美国仅售617美元，英国799英镑，性价比极高。",
-      "recommendation": "提供佳能全画幅相机价格暴跌的独家数据，美国617美元、英国799英镑，对预算有限的影像爱好者有明确参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "HOLY CRAP –Canon's best-value full-frame camera is insanely cheap right now"
-    },
-    {
-      "id": "recvnmrtCXyjOm",
-      "title": "天哪！佳能最具性价比全画幅相机在Prime Day促销中价格低到离谱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/holy-crap-canons-best-value-full-frame-camera-is-insanely-cheap-right-now",
-      "publish_time": "2026-06-23T01:19:21+08:00",
-      "summary": "佳能最小全画幅相机Prime Day促销，美国617美元，英国679英镑，价格低得离谱。",
-      "recommendation": "Prime Day佳能全画幅相机价格低至617美元，提供具体促销价与地区差异，适合预算有限的影像爱好者关注性价比机型。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "HOLY CRAP –Canon's best-value full-frame camera is insanely cheap in this Prime Day deal"
-    },
-    {
-      "id": "recvnjiVeoLzIT",
-      "title": "这款愚蠢的手持相机风扇真的会吹",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/this-moronic-handheld-camera-fan-quite-literally-blows/",
-      "publish_time": "2026-06-23T00:51:55+08:00",
-      "summary": "Goojodoq GFS025是一款手持相机风扇，兼具相机与风扇功能，设计独特，核心价值在于创新融合拍摄与降温功能。",
-      "recommendation": "解析Goojodoq GFS025的独特设计，展示相机风扇融合的实用场景，为影像爱好者提供散热与拍摄的创新思路。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Moronic Handheld Camera Fan Quite Literally Blows"
-    },
-    {
-      "id": "recvnjiXU7KAP9",
-      "title": "日本偷拍裙底犯罪正成为青少年问题",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/22/upskirting-crimes-in-japan-are-becoming-a-youth-problem/",
-      "publish_time": "2026-06-23T00:37:00+08:00",
-      "summary": "日本2023年立法将偷拍裙底定为犯罪，但该行为仍为最常见性犯罪之一，凸显青少年问题严重性。",
-      "recommendation": "从影像设备滥用角度切入社会问题，揭示偷拍器材小型化趋势与青少年犯罪关联，提供立法后执法数据，对关注设备伦理的影像爱好者有警示价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Upskirting Crimes in Japan Are Becoming a Youth Problem"
-    },
-    {
-      "id": "recvnjjybXwz5x",
-      "title": "Tecno推出超薄Camon Slim，厚度仅6.39mm",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/tecno_introduces_pretty_camon_slim_with_639mm_profile_-news-73384.php",
-      "publish_time": "2026-06-23T00:30:03+08:00",
-      "summary": "Tecno推出超薄Camon Slim，厚度仅6.39mm，采用曲面一体机身，提供五种配色，其中New Mondrian版本具光致变色效果。",
-      "recommendation": "6.39mm超薄机身与光致变色设计是亮点，但未提及影像规格，对追求画质的用户价值有限。常规资讯，可了解行业设计趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tecno introduces pretty Camon Slim with 6.39mm profile"
     }
   ]
 }
