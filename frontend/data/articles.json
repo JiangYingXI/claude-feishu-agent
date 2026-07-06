@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-06T03:55:55.814254+08:00",
+    "updated_at": "2026-07-06T13:00:20.584742+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 402
+      "count": 401
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,83 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvoz9RYk123v",
+      "title": "Phoblographer 订阅者现可享 Viltrox 产品 9 折优惠",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/06/phoblographer-subscribers-now-get-10-off-viltrox-products/",
+      "publish_time": "2026-07-06T12:00:00+08:00",
+      "summary": "Phoblographer年度订阅用户现可享Viltrox镜头及配件9折优惠，叠加去广告、Capture One折扣等权益，性价比极高。",
+      "recommendation": "订阅Phoblographer可获Viltrox镜头9折及Capture One折扣，对追求性价比的影像爱好者是实用省钱信息。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Phoblographer Subscribers Now Get 10% off Viltrox Products"
+    },
+    {
+      "id": "recvoz9GaB3J7w",
+      "title": "Neewer Basics FL20 20W RGB便携摄影灯评测：小巧实惠，融合RGB色彩与创意投影效果",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/neewer-basics-fl20-20w-rgb-portable-photography-flashlight-review",
+      "publish_time": "2026-07-06T11:20:00+08:00",
+      "summary": "Neewer Basics FL20 20W RGB便携摄影灯小巧实惠，融合RGB色彩与创意投影效果，为肖像增添色彩、形状和戏剧效果，不增加装备重量。",
+      "recommendation": "评测Neewer FL20便携灯，20W功率与RGB色彩、投影效果结合，为肖像摄影提供轻量化创意补光方案，数据详实。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Neewer Basics FL20 20W RGB Portable Photography Flashlight review: combines RGB color and creative projection effects in a compact, affordable package"
+    },
+    {
+      "id": "recvoz9OS9Gii5",
+      "title": "尼康新闻周刊第893期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/05/weekly-nikon-news-flash-893.aspx/",
+      "publish_time": "2026-07-06T09:18:16+08:00",
+      "summary": "尼康新闻周刊第893期报道Mutiny TC-A时间码音频适配器、Aquatech Edge Pro水下外壳及Think Tank Turnstyle Sling V3相机包等新品。",
+      "recommendation": "常规资讯，可了解行业动态。报道了三款影像配件新品，提供音频适配、水下拍摄及便携收纳方案，对特定需求用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #893"
+    },
+    {
+      "id": "recvoz9IQaRoRK",
+      "title": "这款稀有相机是优雅还是俗气？镀金覆盖蜥蜴皮——售价或高达6500美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/is-this-rare-camera-classy-or-trashy-its-gold-plated-and-covered-in-lizard-skin-and-could-fetch-as-much-as-us-usd6-500",
+      "publish_time": "2026-07-06T08:10:00+08:00",
+      "summary": "一台镀金覆盖蜥蜴皮的禄来福来相机正在拍卖，售价或高达6500美元，是禄来最稀有且花哨的型号。",
+      "recommendation": "解析禄来福来镀金蜥蜴皮限量版拍卖细节，揭示其稀有性与市场价值，提供具体售价预估与工艺背景，适合收藏爱好者了解相机奢侈品行情。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is this rare camera classy or trashy? It's gold-plated and covered in lizard skin –and could fetch as much as US$6,500"
+    },
+    {
+      "id": "recvoz9LvIZ7od",
+      "title": "“摄影和电影将帮助我们教育人们”——迷人的水下镜头捕捉红海“珊瑚医生”工作，赢得科学摄影奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/photography-and-film-will-help-us-to-educate-people-fascinating-underwater-shot-captures-red-sea-coral-doctors-at-work-winning-a-science-photo-award",
+      "publish_time": "2026-07-06T05:20:00+08:00",
+      "summary": "海洋生物学家拍摄沙特海岸潜水员研究珊瑚的镜头，获科学摄影奖，展示水下“珊瑚医生”工作",
+      "recommendation": "水下摄影与科学纪实结合，展示珊瑚医生工作细节，提供独特生态影像视角与拍摄技巧参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"Photography and film will help us to educate people” –Fascinating underwater shot captures Red Sea 'coral doctors' at work, winning a science photo award"
+    },
     {
       "id": "recvowWOvtwBge",
       "title": "富士龙XF四款出色镜头仍在促销中",
@@ -73,6 +150,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Are screen-free digital cameras the antidote to doomscrolling and smartphone addiction?"
+    },
+    {
+      "id": "recvoz9DeCSFXK",
+      "title": "促销：谷歌Pixel 10系列降价，小米17 Ultra与Nothing Phone (4a)同台",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_googles_pixel_10_lineup_on_discount_alongside_xiaomi_17_ultra_nothing_phone_4a-news-73573.php",
+      "publish_time": "2026-07-05T22:41:03+08:00",
+      "summary": "亚马逊继续促销谷歌Pixel 10系列，Pixel 10 Pro XL降价300英镑，Pixel 10降价150英镑，256GB版售价649英镑。",
+      "recommendation": "Pixel 10系列降价信息结合小米17 Ultra与Nothing Phone (4a)同台报道，提供多品牌旗舰影像机型价格动态与竞品对比参考，适合关注性价比的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: Google’s Pixel 10 lineup on discount alongside Xiaomi 17 Ultra, Nothing Phone (4a)"
     },
     {
       "id": "recvovANUDABzJ",
@@ -7738,99 +7830,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Photographer has nervy encounter with enormous grizzly bear in Alaska"
-    },
-    {
-      "id": "recvnl5EifvSWe",
-      "title": "怎么这么便宜？8K Insta360 Ace Pro 2电池套装现仅售289英镑，太不可思议了！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/how-is-it-so-cheap-the-8k-insta360-ace-pro-2-battery-bundle-is-now-just-gbp289-thats-incredible",
-      "publish_time": "2026-06-23T12:21:28+08:00",
-      "summary": "8K Insta360 Ace Pro 2电池套装现仅售289英镑，配备两块电池，Prime会员优惠诱人",
-      "recommendation": "289英镑的8K运动相机电池套装，含双电池，Prime会员价诱人。文章提供具体价格与配置，适合关注性价比的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "How is it so cheap? The 8K Insta360 Ace Pro 2 battery bundle is now just £289, that's incredible!"
-    },
-    {
-      "id": "recvnmrri6ve8U",
-      "title": "怎么这么便宜？8K Insta360 Ace Pro 2套装现仅售289英镑，太不可思议了！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/how-is-it-so-cheap-the-8k-insta360-ace-pro-2-battery-bundle-is-now-just-gbp289-thats-incredible",
-      "publish_time": "2026-06-23T12:21:28+08:00",
-      "summary": "8K Insta360 Ace Pro 2套装现仅售289英镑，配备两块电池，Prime优惠非常诱人。",
-      "recommendation": "8K运动相机套装降价至289英镑，含双电池，价格信息明确，适合关注性价比的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "How is it so cheap? The 8K Insta360 Ace Pro 2 bundle is now just £289, that's incredible!"
-    },
-    {
-      "id": "recvnl5SQV90Vh",
-      "title": "2026年，徕卡SL2s还是一款好相机吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/23/is-the-leica-sl2s-still-a-good-camera-in-2026/",
-      "publish_time": "2026-06-23T12:00:00+08:00",
-      "summary": "2026年，徕卡SL2s虽已停产并被SL3s取代，但凭借其出色的图像质量和坚固机身，在二手市场仍具价值，作者认为它依然是值得入手的主力相机。",
-      "recommendation": "从二手市场角度评估2026年徕卡SL2s的实用价值，提供停产机型的图像质量与机身耐用性分析，适合关注性价比的徕卡用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is the Leica SL2s Still a Good Camera in 2026?"
-    },
-    {
-      "id": "recvnl5NZa62LA",
-      "title": "一个新兴平价智能手机品牌即将登陆印度",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/a_new_affordable_smartphone_brand_is_coming_to_india-news-73389.php",
-      "publish_time": "2026-06-23T09:00:02+08:00",
-      "summary": "Fire-Boltt将推出Boltt品牌廉价智能手机，其在印度智能手表市场占9.7%份额，计划以低价可靠策略挑战大牌。",
-      "recommendation": "常规资讯，可了解行业动态。文章未涉及手机影像配置或技术细节，但对关注印度市场低价手机影像布局的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A new affordable smartphone brand is coming to India"
-    },
-    {
-      "id": "recvnl5GZjKY1s",
-      "title": "松下Lumix S9套装是摄影师和内容创作者的梦幻交易，亚马逊Prime Day仅售999英镑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-panasonic-lumix-s9-bundle-is-a-dream-deal-for-photographers-and-content-creators-and-its-only-gbp999-in-the-amazon-prime-sale",
-      "publish_time": "2026-06-23T07:23:37+08:00",
-      "summary": "亚马逊Prime Day松下Lumix S9全画幅相机套装降至999英镑，适合摄影师和内容创作者",
-      "recommendation": "Prime Day松下S9全画幅套装降至999英镑，含20-60mm镜头，适合预算有限的创作者。文章提供价格对比与套件价值分析，但无独家数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Panasonic Lumix S9 bundle is a dream deal for photographers and content creators, and it's only £999 in the Amazon Prime Sale"
-    },
-    {
-      "id": "recvnl5JjtGY35",
-      "title": "NiSi为理光GR相机推出巧妙新镜头配件",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/nisi-reveals-clever-new-lens-accessories-for-ricoh-gr-cameras",
-      "publish_time": "2026-06-23T07:19:23+08:00",
-      "summary": "NiSi为理光GR相机推出新镜头配件，使其更加多功能，保留核心技术参数，提升拍摄灵活性。",
-      "recommendation": "NiSi为理光GR推出新镜头配件，保留核心参数同时提升灵活性，适合街拍爱好者拓展创作可能。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "NiSi reveals clever new lens accessories for Ricoh GR cameras"
     }
   ]
 }
