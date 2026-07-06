@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-06T19:20:27.932854+08:00",
+    "updated_at": "2026-07-07T00:08:37.355591+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,22 +8,22 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 27
+      "count": 28
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 109
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 1
+      "count": 3
     },
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 19
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,233 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 400
+      "count": 396
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 190
+      "count": 192
     }
   ],
   "articles": [
+    {
+      "id": "recvoBS4vT916w",
+      "title": "尼康会再次复活其紧凑型相机吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/06/will-nikon-resurrect-its-compact-cameras-again/",
+      "publish_time": "2026-07-07T00:00:00+08:00",
+      "summary": "尼康正在研发一款紧凑型相机，旨在吸引千禧一代和Z世代用户，同时惠及鸟类摄影师和复古设计爱好者。",
+      "recommendation": "分析尼康紧凑型相机复活传闻，聚焦千禧一代与Z世代用户需求，兼顾鸟类摄影与复古设计，提供行业趋势与产品定位的深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Will Nikon Resurrect Its Compact Cameras Again?"
+    },
+    {
+      "id": "recvoBRtaHAhz8",
+      "title": "Midjourney试图迫使好莱坞披露其如何使用AI",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/midjourney-is-trying-to-force-hollywood-to-reveal-how-it-uses-ai/",
+      "publish_time": "2026-07-06T23:51:27+08:00",
+      "summary": "Midjourney要求好莱坞公开AI使用方式，指责电影公司虚伪，旨在推动行业透明度。",
+      "recommendation": "AI影像工具透明度争议，揭示好莱坞与AI公司的博弈，对关注生成式影像伦理的爱好者有行业参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Midjourney is Trying to Force Hollywood to Reveal How it Uses AI"
+    },
+    {
+      "id": "recvoBRHprIEU7",
+      "title": "如果这个传闻是真的，我会极度嫉妒索尼备受期待的全画幅相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/if-this-rumor-is-true-im-insanely-jealous-of-sonys-highly-anticipated-full-frame-camera",
+      "publish_time": "2026-07-06T23:20:09+08:00",
+      "summary": "索尼FX5全画幅相机传闻包括可选倾斜取景器，若属实将令人极度嫉妒。",
+      "recommendation": "聚焦索尼FX5传闻中的可选倾斜取景器设计，为全画幅视频机用户提供差异化功能前瞻，含独家规格推测与行业趋势分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "If this rumor is true, I’m insanely jealous of Sony’s highly anticipated full-frame camera"
+    },
+    {
+      "id": "recvoBRW3mlEvA",
+      "title": "确认：索尼FX5搭载1660万像素堆叠式传感器",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/exact-sony-fx5-specs-166mp-sensor-and-all-open-gate-formats/",
+      "publish_time": "2026-07-06T22:42:45+08:00",
+      "summary": "索尼FX5搭载1660万像素全画幅背照堆叠式CMOS传感器，集成Bionz XR2处理器，兼具宽动态范围和高速度读出。",
+      "recommendation": "确认索尼FX5搭载1660万像素全画幅堆叠式传感器与Bionz XR2处理器，提供宽动态范围与高速读出数据，适合关注传感器硬件与影像芯片的爱好者了解技术细节。",
+      "categories": [
+        "传感器硬件",
+        "ISP & 影像芯片"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Confirmed: Sony FX5 has 16,6MP stacked sensor"
+    },
+    {
+      "id": "recvoBRYLvOoHR",
+      "title": "索尼RX10V预预售（笑死）在Fotoerhardt开启",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-rx10v-pre-preorders-lol-open-at-fotoerhardt/",
+      "publish_time": "2026-07-06T22:18:46+08:00",
+      "summary": "索尼RX10V在Fotoerhardt开启预预售，存入50欧元可优先排队，官方预告页已在BHphoto上线。",
+      "recommendation": "RX10V预预售信息曝光，50欧元排队机制与BHphoto预告页上线，为长焦机迭代提供早期动态参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony RX10V pre-preorders (LOL) open at Fotoerhardt"
+    },
+    {
+      "id": "recvoBRKlOxqn0",
+      "title": "仅99美元起的时尚紧凑相机——复古设计与柯达经典，日常快照之选",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/trendy-compact-cameras-from-only-usd99-retro-designs-and-kodak-favorites-for-everyday-snapshots",
+      "publish_time": "2026-07-06T22:07:27+08:00",
+      "summary": "99美元起的复古紧凑相机，口袋大小，让摄影有趣实惠，适合日常快照。",
+      "recommendation": "柯达经典复古设计下放至99美元价位，解析口袋相机的日常快照定位与市场差异化策略，适合关注入门级影像产品动态的读者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Trendy compact cameras from only $99 – retro designs and Kodak favorites for everyday snapshots"
+    },
+    {
+      "id": "recvoBRwkklJfE",
+      "title": "水下电影制作如何在为时已晚前帮助拯救锤头鲨",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/how-underwater-filmmaking-can-help-save-hammerhead-sharks-before-its-too-late/",
+      "publish_time": "2026-07-06T22:01:58+08:00",
+      "summary": "国家地理频道推出《与伯蒂·格雷戈里近距离观察锤头鲨》特别节目，旨在纠正误解、减少恐惧，并呼吁保护海洋生物。",
+      "recommendation": "水下拍摄技巧与海洋保护结合，展示特殊环境下的摄影挑战与解决方案，对水下影像爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How Underwater Filmmaking Can Help Save Hammerhead Sharks Before It’s Too Late"
+    },
+    {
+      "id": "recvoBRz20HVzK",
+      "title": "如何在度假时精简相机装备（你也可以）",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/how-i-pack-less-camera-gear-on-vacation-and-how-you-can-too/",
+      "publish_time": "2026-07-06T22:01:16+08:00",
+      "summary": "文章讲述作者度假时精简相机装备的挣扎，最终找到平衡，只带必要设备，享受旅行而非器材负担。",
+      "recommendation": "本文提供旅行摄影装备精简的实用思路，分享作者从负重挣扎到平衡取舍的亲身经验，对追求轻便出行的爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How I Pack Less Camera Gear on Vacation (And How You Can, Too)"
+    },
+    {
+      "id": "recvoBRBQQsiCy",
+      "title": "这组令人着迷的4K极光延时摄影由数千张宇航员照片合成",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/this-spellbinding-4k-timelapse-of-aurora-lights-is-made-from-thousands-of-astronaut-photos/",
+      "publish_time": "2026-07-06T21:59:26+08:00",
+      "summary": "电影制作人利用国际空间站宇航员拍摄的数千张照片，合成了一段4K极光延时摄影视频，展现了令人着迷的太空景象。",
+      "recommendation": "揭秘宇航员拍摄到4K极光延时摄影的合成技术，提供数千张太空影像的创作流程与数据细节，对延时摄影与太空影像爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Spellbinding 4K Timelapse of Aurora Lights is Made From Thousands of Astronaut Photos"
+    },
+    {
+      "id": "recvoBRNiKggWC",
+      "title": "这款全能变焦镜头在英国热销断货——但这里仍有售且更省钱",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-all-rounder-zoom-lens-is-selling-out-across-the-uk-but-you-can-still-get-it-here-and-save-money",
+      "publish_time": "2026-07-06T21:11:31+08:00",
+      "summary": "索尼FE 24-240mm f/3.5-6.3 OSS 10倍变焦镜头在英国热销断货，但仍有更省钱的购买渠道，适合作为主力工作镜头",
+      "recommendation": "提供索尼FE 24-240mm镜头在英国热销断货的行情，并给出更省钱购买渠道，适合追求一镜走天涯的实用型用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This all-rounder zoom lens is selling out across the UK – but you can still get it here and save money"
+    },
+    {
+      "id": "recvoBS78acLfE",
+      "title": "街头摄影师必备的7款最佳35mm镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/06/the-7-best-35mm-lenses-for-street-photographers/",
+      "publish_time": "2026-07-06T21:00:00+08:00",
+      "summary": "文章介绍7款最佳35mm镜头，强调其小巧锐利适合街头摄影，并基于评测结果列出推荐名单。",
+      "recommendation": "基于评测数据筛选7款35mm镜头，涵盖锐度、体积与对焦性能对比，为街头摄影提供具体选购参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 7 Best 35mm Lenses for Street Photographers"
+    },
+    {
+      "id": "recvoBS1PmX3OG",
+      "title": "索尼RX10V新消息：4K120p、双Bionz处理器和AI芯片",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-sony-rx10v-info-4k120p-double-bionz-processor-and-ai-chip/",
+      "publish_time": "2026-07-06T20:29:58+08:00",
+      "summary": "索尼RX10V将于7月9日发布，确认采用相同镜头和传感器，支持4K120p、双Bionz处理器和AI芯片，具备新自动对焦功能。",
+      "recommendation": "文章披露RX10V升级4K120p与AI芯片，对长焦机用户有参考价值，双Bionz处理器是亮点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "ISP & 影像芯片"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "New Sony RX10V info: 4k120p, double Bionz processor and AI chip"
+    },
+    {
+      "id": "recvoBRELqYgLo",
+      "title": "攀登帝国大厦的情侣在顶楼因拍照争执",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/the-couple-who-climbed-the-empire-state-building-argued-over-photos-at-the-top/",
+      "publish_time": "2026-07-06T20:24:14+08:00",
+      "summary": "一对网红情侣在帝国大厦顶端1400英尺高空因拍照争执，凸显完美照片对网红的重要性。",
+      "recommendation": "通过高空争执案例，探讨网红对完美照片的执念与手机摄影极限，揭示极端环境下的拍摄痛点，适合关注社交影像行为的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Couple Who Climbed the Empire State Building Argued Over Photos at the Top"
+    },
+    {
+      "id": "recvoBRT4pGtxQ",
+      "title": "vivo V80系列被曝下月发布，规格参数泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_v80_series_said_to_launch_next_month_specs_tipped-news-73584.php",
+      "publish_time": "2026-07-06T19:09:03+08:00",
+      "summary": "vivo V80系列预计8月中旬发布，标准版配备6.59英寸144Hz 1.5K屏，骁龙7 Gen 4芯片，7200mAh电池。",
+      "recommendation": "文章曝光vivo V80系列规格，含144Hz屏与7200mAh电池等参数，但未提及影像配置，对关注手机摄影的用户价值有限，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo V80 series said to launch next month, specs tipped"
+    },
     {
       "id": "recvoAHby1ZGQi",
       "title": "原住民助产摄影系列荣获著名女性摄影新闻奖",
@@ -135,6 +353,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "This compact camera has been popular for 7 years – now its updated version tops Japan's charts with just one minor change from the original"
+    },
+    {
+      "id": "recvoBRPVJNx1A",
+      "title": "这款紧凑型相机火了8年——如今其升级版仅凭一处小改动登顶日本销量榜",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-compact-camera-has-been-popular-for-7-years-now-its-updated-version-tops-japans-charts-with-just-one-minor-change-from-the-original",
+      "publish_time": "2026-07-06T17:54:50+08:00",
+      "summary": "佳能PowerShot系列2018年发布的紧凑型相机，配备40倍光学变焦镜头，升级版因小改动登顶日本销量榜。",
+      "recommendation": "解析佳能PowerShot系列8年长青的秘诀，聚焦40倍变焦镜头与一处小改动如何撬动日本销量榜，提供紧凑相机市场趋势的独特视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This compact camera has been popular for 8 years – now its updated version tops Japan's charts with just one minor change from the original"
     },
     {
       "id": "recvoAHjqeZg4b",
@@ -7605,236 +7839,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Is Viltrox Making a New Camera To Beat Kodak?"
-    },
-    {
-      "id": "recvnnL2q03v4Q",
-      "title": "这款完美卡片机是摄影入门首选——Prime Day期间价格更低",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-is-the-perfect-point-and-shoot-to-get-started-in-photography-and-now-its-even-cheaper-for-prime-day",
-      "publish_time": "2026-06-23T20:45:00+08:00",
-      "summary": "柯达Pixpro FZ55相机操作简单，虽性能不及高端机型，但价格在Prime Day更低，是摄影新手入门首选。",
-      "recommendation": "解析柯达FZ55卡片机在Prime Day的性价比优势，提供入门级摄影器材选购参考，适合预算有限的新手了解行业入门产品动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This is the perfect point-and-shoot to get started in photography – and now it's even cheaper for Prime Day"
-    },
-    {
-      "id": "recvnnKcZSXbKl",
-      "title": "俄罗斯境内袭击增加，莫斯科市民被禁止分享无人机袭击照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/moscow-citizens-banned-from-sharing-photos-of-drone-strikes-as-attacks-increase-inside-russia/",
-      "publish_time": "2026-06-23T20:29:51+08:00",
-      "summary": "莫斯科禁止市民分享无人机袭击照片，但上周乌克兰无人机炸毁该市炼油厂部分设施，禁令面临考验。",
-      "recommendation": "从无人机袭击禁令看影像分享的社会管控，揭示摄影行为在特殊场景下的法律边界，对航拍爱好者有现实参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Moscow Citizens Banned From Sharing Photos of Drone Strikes as Attacks Increase Inside Russia"
-    },
-    {
-      "id": "recvnnLeUbcMDu",
-      "title": "亚马逊美国Prime会员日优惠已上线：第三方E卡口镜头及翻新索尼设备大促",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/amazon-usa-prime-deals-now-live/",
-      "publish_time": "2026-06-23T20:20:42+08:00",
-      "summary": "亚马逊美国Prime会员日优惠上线，第三方E卡口镜头八折，翻新索尼设备大促，BHphoto同步促销。",
-      "recommendation": "Prime会员日第三方E卡口镜头八折及翻新索尼设备促销信息，提供具体折扣幅度，适合预算有限的E卡口用户关注。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Amazon USA Prime deals now live: Save big on third party E-mount lenses and on reconditioned Sony gear!"
-    },
-    {
-      "id": "recvnnLhj7XtSv",
-      "title": "独家：索尼FX5“迷你威尼斯”相机将于7月发布！还有一款惊喜紧凑机型？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/exclusive-sony-fx5-mini-venice-camera-is-coming-in-july-one-more-suprise-compact/",
-      "publish_time": "2026-06-23T19:54:35+08:00",
-      "summary": "索尼将于7月发布全新FX5“迷你威尼斯”相机，另有紧凑型惊喜机型，标志电影产品线重大转变。",
-      "recommendation": "独家爆料索尼FX5“迷你威尼斯”相机7月发布，含紧凑型惊喜机型，揭示电影产品线重大转向，对关注专业级便携影像的爱好者有独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Exclusive: Sony FX5 “mini Venice” camera is coming in July! + one more surprise compact?"
-    },
-    {
-      "id": "recvnnKyf3pWtr",
-      "title": "Nothing Phone (4b) 将于7月7日发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/nothing_phone_4b_will_be_unveiled_on_july_7-news-73398.php",
-      "publish_time": "2026-06-23T19:30:03+08:00",
-      "summary": "Nothing确认Phone (4b)将于7月7日在印度及全球发布，采用半透明后盖和Glyph灯带设计。",
-      "recommendation": "常规资讯，可了解行业动态。文章确认Nothing Phone (4b)发布时间，但未披露影像规格，对关注手机摄影的用户价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nothing Phone (4b) will be unveiled on July 7"
-    },
-    {
-      "id": "recvnnL531Q5ba",
-      "title": "OM System OM-5 Mark II 无反相机降至历史最低价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/om-system-om-5-mark-ii-mirrorless-camera-just-dropped-to-its-lowest-ever-price",
-      "publish_time": "2026-06-23T19:26:15+08:00",
-      "summary": "OM System OM-5 Mark II无反相机套装降至历史最低价，节省150美元，配备14-150mm变焦镜头。",
-      "recommendation": "OM-5 Mark II套装降至历史低价，节省150美元，对计划入手轻便无反的爱好者是明确入手时机。常规降价资讯，可关注价格走势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "OM System OM-5 Mark II mirrorless camera just dropped to its lowest-ever price"
-    },
-    {
-      "id": "recvnnKfXgUGnR",
-      "title": "自行车品牌因AI生成图片中车把从座垫伸出遭嘲讽",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/cycling-brand-is-mocked-over-ai-image-of-handlebars-protruding-from-bike-seat/",
-      "publish_time": "2026-06-23T19:22:39+08:00",
-      "summary": "REI因使用AI生成图片展示车把从座垫伸出的荒谬设计，遭网友嘲讽，凸显品牌脱离现实骑行体验。",
-      "recommendation": "AI生成图片的荒谬错误暴露品牌脱离现实，警示影像创作者重视真实性与细节把控。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Cycling Brand is Mocked Over AI Image of Handlebars Protruding From Bike Seat"
-    },
-    {
-      "id": "recvnnKinqpa03",
-      "title": "科学家捕捉到蜘蛛利用巧妙陷阱将猎物弹射入网的画面",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/scientists-capture-footage-of-spider-catapulting-prey-into-web-using-ingenious-snare-trap/",
-      "publish_time": "2026-06-23T18:46:51+08:00",
-      "summary": "科学家捕捉到蜘蛛建造巧妙陷阱，将猎物弹射入网的画面，展示了其独特的捕食策略。",
-      "recommendation": "常规资讯，可了解自然摄影中的高速捕捉技巧，但缺乏消费电子影像领域的直接关联数据或观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 4,
-      "language": "English",
-      "original_title": "Scientists Capture Footage of Spider Catapulting Prey Into Web Using Ingenious Snare Trap"
-    },
-    {
-      "id": "recvnnL7shyLY8",
-      "title": "佳能PowerShot V10 Vlog相机降至仅229英镑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/canon-powershot-v10-vlogging-camera-drops-to-just-gbp229",
-      "publish_time": "2026-06-23T18:33:36+08:00",
-      "summary": "佳能PowerShot V10 Vlog相机在亚马逊降至229英镑，适合Vlog拍摄的紧凑型设备。",
-      "recommendation": "V10降至229英镑，提供Vlog入门级紧凑方案，含传感器与镜头参数对比，适合关注便携与性价比的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon PowerShot V10 vlogging camera drops to just £229"
-    },
-    {
-      "id": "recvnnKvhw06sG",
-      "title": "佳能美国站热门EOS R相机与镜头大促",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/save-big-on-popular-eos-r-cameras-and-lenses-at-canon-usa/",
-      "publish_time": "2026-06-23T18:23:31+08:00",
-      "summary": "佳能美国翻新库存补充热门相机镜头，提供大幅折扣，享1年保修和免费配送，售完即止。",
-      "recommendation": "佳能翻新机镜头折扣含具体型号与价格，适合预算有限的EOS R用户，但无独家数据或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Save Big on Popular EOS R Cameras and Lenses at Canon USA"
-    },
-    {
-      "id": "recvnnKkOixpBc",
-      "title": "《超级少女》演员David Corenswet怒斥首映礼上触碰女搭档背部的摄影师",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/supergirl-actor-lashes-out-after-photographer-touches-co-stars-back-while-requesting-a-picture-at-films-premiere-milly-alcock-superman/",
-      "publish_time": "2026-06-23T18:18:05+08:00",
-      "summary": "《女超人》演员大卫·科伦斯韦特在首映礼上，因摄影师触碰女搭档背部而上前对峙，维护搭档尊严。",
-      "recommendation": "常规资讯，揭示首映礼拍摄中摄影师与明星的边界问题，对活动摄影礼仪有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "‘Supergirl’ Actor David Corenswet Lashes Out at Photographer Who Touched Co-Star’s Back at Premiere"
-    },
-    {
-      "id": "recvnmrDcvC2cV",
-      "title": "2026年松下S5 II还值得买吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/23/is-the-panasonic-s5-ii-still-a-good-camera-in-2026/",
-      "publish_time": "2026-06-23T18:00:00+08:00",
-      "summary": "松下S5 II作为2023年评测的混合相机，性能出色，仍是市场最佳选择之一，除非出现重大硬件问题。",
-      "recommendation": "文章从2026年视角复盘S5 II的长期价值，提供跨代际的购买决策分析，对关注相机保值率与性能冗余的爱好者有实际参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Panasonic S5 II Still a Good Camera in 2026?"
-    },
-    {
-      "id": "recvnmr76SFVSY",
-      "title": "这款乐高复古相机是我发现的15.99美元中最有趣的摄影产品",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/this-lego-retro-camera-is-the-most-fun-photography-deal-ive-found-for-usd15-99",
-      "publish_time": "2026-06-23T17:39:12+08:00",
-      "summary": "这款15.99美元的乐高复古相机是送给摄影师的完美礼物，兼具趣味性和性价比。",
-      "recommendation": "15.99美元乐高相机拆解，从积木结构看复古摄影美学，为影像爱好者提供低成本创意灵感与跨界趣味视角。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This LEGO retro camera is the most fun photography deal I’ve found for $15.99"
-    },
-    {
-      "id": "recvnmrw3erAk5",
-      "title": "Realme P4x 4G正式发布：8000mAh电池与焕新设计",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/realme_p4x_4g_goes_official_with_an_8000mah_battery_and_a_refreshed_design-news-73394.php",
-      "publish_time": "2026-06-23T17:30:03+08:00",
-      "summary": "Realme P4x 4G发布，配备8000mAh电池、6.8英寸120Hz水滴屏，搭载Unisoc处理器，相比5G版电池更大、设计更新。",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦电池与设计，未涉及影像规格或拍摄性能，对影像爱好者价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Realme P4x 4G goes official with an 8,000mAh battery and a refreshed design"
-    },
-    {
-      "id": "recvnmr4Iqd9Pu",
-      "title": "摄影师用无人机警告冲浪者：巨型鲨鱼在其下方危险盘旋",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/photographer-uses-drone-to-warn-surfer-of-huge-shark-menacingly-circling-beneath-him/",
-      "publish_time": "2026-06-23T17:07:15+08:00",
-      "summary": "摄影师用无人机警告冲浪者，一条大鲨鱼在加州海岸水下盘旋，冲浪者毫不知情。",
-      "recommendation": "无人机航拍结合实时预警的实战案例，展示影像设备在紧急场景中的独特价值，提供摄影视角与安全应用的深度思考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Uses Drone to Warn Surfer of Huge Shark Menacingly Circling Beneath Him"
     }
   ]
 }
