@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-07T00:08:37.355591+08:00",
+    "updated_at": "2026-07-07T04:42:23.144271+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 113
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,254 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 48
+      "count": 47
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 396
+      "count": 394
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 192
+      "count": 193
     }
   ],
   "articles": [
+    {
+      "id": "recvoCYZNyIRbs",
+      "title": "2026年6月NikonRumors阅读量最高的10篇文章",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/06/top-10-most-viewed-nikonrumors-posts-for-june-2026.aspx/",
+      "publish_time": "2026-07-07T03:40:33+08:00",
+      "summary": "2026年6月NikonRumors最受欢迎帖子包括尼康Z 120-300mm f/2.8 TC VR S镜头被拍到、Z9固件更新解决自动对焦问题、以及无无线连接的Z6 III相机销售。",
+      "recommendation": "汇总尼康Z 120-300mm f/2.8 TC VR S镜头实拍、Z9固件对焦修复及Z6 III无无线连接销售动态，提供6月热门产品与固件更新数据，适合关注尼康生态的影像爱好者了解行业趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Top 10 most viewed NikonRumors posts for June 2026"
+    },
+    {
+      "id": "recvoCVNpfMybg",
+      "title": "C-SPAN在选举战场嵌入多媒体记者",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/c-span-is-embedding-multimedia-journalists-in-election-battlegrounds/",
+      "publish_time": "2026-07-07T03:13:37+08:00",
+      "summary": "C-SPAN在特朗普就职前更新标志并强调“未经过滤的民主”，计划在选举中嵌入多媒体记者以提供直接报道。",
+      "recommendation": "解析C-SPAN嵌入多媒体记者的报道模式，为影像从业者提供新闻现场拍摄与实时传输的实战参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "C-SPAN Is Embedding Multimedia Journalists in Election Battlegrounds"
+    },
+    {
+      "id": "recvoCZ2iMigCd",
+      "title": "佳能将为人像摄影师推出VCM镜头吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/06/will-canon-introduce-a-vcm-lens-for-portrait-photographers/",
+      "publish_time": "2026-07-07T03:00:00+08:00",
+      "summary": "佳能可能推出VCM镜头，填补无反相机镜头空白，延续L系列优秀焦距范围，提升人像摄影体验。",
+      "recommendation": "分析佳能VCM镜头对人像摄影的潜在影响，提供L系列焦距延续的深度观点，适合关注人像镜头发展的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Will Canon Introduce a VCM Lens for Portrait Photographers?"
+    },
+    {
+      "id": "recvoCYWPgaG5s",
+      "title": "富士DR400如何模拟胶片：魔法背后的曲线",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/how-fujifilm-dr400-mimics-film-the-curve-behind-the-magic/",
+      "publish_time": "2026-07-07T02:59:50+08:00",
+      "summary": "文章介绍富士DR200和DR400设置如何通过曲线模拟胶片效果，减少编辑时间并提升摄影体验，核心技术参数为DR200和DR400。",
+      "recommendation": "解析富士DR200/DR400曲线模拟胶片的底层逻辑，提供减少后期编辑的实用技巧，对追求直出效果的摄影爱好者有直接价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How Fujifilm DR400 Mimics Film: The Curve Behind the Magic"
+    },
+    {
+      "id": "recvoCVQB1SH2E",
+      "title": "我们刚拍到距地球6200万英里的双头小行星清晰照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/we-just-got-a-clear-photo-of-a-two-headed-asteroid-62-million-miles-from-earth/",
+      "publish_time": "2026-07-07T02:46:11+08:00",
+      "summary": "日本航天局拍摄到距地球6200万英里的双头小行星清晰照片，展示其双核结构，为小行星研究提供重要数据。",
+      "recommendation": "展示6200万英里外双头小行星的实拍影像，提供双核结构独家数据，对天文摄影爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "We Just Got a Clear Photo of a Two-Headed Asteroid 62 Million Miles From Earth"
+    },
+    {
+      "id": "recvoCYGYocthD",
+      "title": "拍摄烟花照片已足够困难，但这位体育摄影师却成功将烟花与闪电同框",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/timing-fireworks-photos-is-hard-enough-but-this-sports-photographer-managed-to-get-fireworks-and-lightning-in-one-shot",
+      "publish_time": "2026-07-07T02:33:43+08:00",
+      "summary": "体育摄影师在亚特兰大勇士队比赛后，成功将烟花与闪电同框，捕捉到罕见混合画面。",
+      "recommendation": "体育摄影师实战案例，展示烟花与闪电同框的拍摄技巧，含相机参数与构图思路，对低光多元素摄影有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Timing fireworks photos is hard enough, but this sports photographer managed to get fireworks and lightning in one shot"
+    },
+    {
+      "id": "recvoCYU964U3l",
+      "title": "Galaxy S27 Pro仅在部分地区使用骁龙芯片，其他地区搭载Exynos 2700",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/galaxy_s27_pro_will_use_a_snapdragon_chip_only_in_select_regions_exynos_2700_everywhere_else-news-73587.php",
+      "publish_time": "2026-07-07T02:31:01+08:00",
+      "summary": "三星Galaxy S27 Pro在北美以外地区将搭载Exynos 2700芯片，中国配置不同，Pro与Ultra长焦摄像头不同，主摄、超广角和自拍相机相同。",
+      "recommendation": "解析Galaxy S27 Pro芯片区域差异与影像配置，提供Exynos 2700对影像处理的影响视角，Pro与Ultra长焦差异值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Galaxy S27 Pro will use a Snapdragon chip only in select regions, Exynos 2700 everywhere else"
+    },
+    {
+      "id": "recvoCVTyB4H3T",
+      "title": "德尔金新款Valor Pro存储卡：速度惊人且稳定可靠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/delkins-new-valor-pro-memory-card-is-wicked-fast-and-reliable/",
+      "publish_time": "2026-07-07T02:29:38+08:00",
+      "summary": "德尔金发布Valor Pro存储卡，性能匹配大胆品牌名，速度惊人且稳定可靠，核心价值在于高性能表现。",
+      "recommendation": "存储卡速度与稳定性直接影响连拍和4K视频录制体验，本文提供Valor Pro实测性能数据，适合高负载拍摄场景的影像爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Delkin’s New Valor Pro Memory Card Is Wicked Fast and Reliable"
+    },
+    {
+      "id": "recvoCVWsKeRy1",
+      "title": "Statera 90-180mm T3.2：将复古球面玻璃与现代变形光学相结合",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/the-statera-90-180mm-t3-2-combines-vintage-spherical-glass-with-modern-anamorphic-optics/",
+      "publish_time": "2026-07-07T02:16:16+08:00",
+      "summary": "Ancient Optics推出Statera 90-180mm T3.2镜头，结合复古球面玻璃与现代变形光学，满足电影镜头两大趋势。",
+      "recommendation": "解析复古球面玻璃与现代变形光学结合的技术路径，提供镜头结构设计思路，适合电影镜头爱好者了解行业创新方向。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Statera 90-180mm T3.2 Combines Vintage Spherical Glass With Modern Anamorphic Optics"
+    },
+    {
+      "id": "recvoCYJEJHe8D",
+      "title": "这台18岁的单反相机火了：2026年尼康D700对预算有限的摄影师来说真的值得买吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/this-18-year-old-dslr-is-trending-can-the-nikon-d700-really-be-a-feasible-buy-for-budget-photographers-in-2026",
+      "publish_time": "2026-07-07T02:10:47+08:00",
+      "summary": "尼康D700虽显老旧，但作为全画幅平台，其价格和做工对预算有限的摄影师仍具吸引力。",
+      "recommendation": "解析18年机龄尼康D700在2026年的性价比，提供全画幅入门新视角，含二手市场数据与实操建议，适合预算有限的摄影爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This 18-year-old DSLR is trending: Can the Nikon D700 really be a feasible buy for budget photographers in 2026?"
+    },
+    {
+      "id": "recvoCVZjX99nY",
+      "title": "组图：NASA在加州沙漠测试其下一代火星和月球车",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/in-photos-nasa-tests-its-next-mars-and-moon-rover-in-a-california-desert/",
+      "publish_time": "2026-07-07T01:26:48+08:00",
+      "summary": "NASA在加州沙漠测试下一代火星和月球车ERNEST，旨在提升极端环境下的自主导航与采样能力，为未来载人任务铺路。",
+      "recommendation": "常规资讯，可了解行业动态。文章展示NASA火星车ERNEST的自主导航与采样技术，对关注极端环境成像的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "In Photos: NASA Tests its Next Mars and Moon Rover in a California Desert"
+    },
+    {
+      "id": "recvoCYMhEhAwy",
+      "title": "刚发布即登顶日本第一镜头——前所未有的远摄镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/just-released-and-already-the-no-1-camera-lens-in-japan-a-telephoto-lens-unlike-anything-before",
+      "publish_time": "2026-07-07T00:55:00+08:00",
+      "summary": "首款恒定光圈400mm变焦镜头发布，登顶日本市场，进军专业高端领域。",
+      "recommendation": "解析首款恒定光圈400mm变焦镜头的技术突破与日本市场登顶数据，为远摄爱好者提供产品规格与行业趋势参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Just released and already the No.1 camera lens in Japan – a telephoto lens unlike anything before"
+    },
+    {
+      "id": "recvoCYyG6AYGa",
+      "title": "明基新款700美元显示器承诺为摄影师提供专业级色彩",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/benqs-new-700-monitor-promises-pro-level-color-for-photographers/",
+      "publish_time": "2026-07-07T00:36:26+08:00",
+      "summary": "明基发布Creative Pro Line PD2732U显示器，售价700美元，为摄影师等专业人士提供专业级色彩表现。",
+      "recommendation": "700美元价位专业级色彩显示器，适合预算有限的摄影师。文章提供明基新款参数与定价，无独家数据，属常规产品资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "BenQ’s New $700 Monitor Promises Pro-Level Color for Photographers"
+    },
+    {
+      "id": "recvoCYErgqnfI",
+      "title": "佳能电动变焦新方案如何助力摄影师？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/5271550308/canon-rf-20-50mm-f4-l-is-usm-pz-shooting-experience-hybrid",
+      "publish_time": "2026-07-07T00:08:00+08:00",
+      "summary": "佳能RF 20-50mm F4 L IS USM PZ镜头提供电动与手动变焦切换开关，兼顾视频和摄影需求，是混合设计的创新方案。",
+      "recommendation": "解析佳能RF 20-50mm F4 L PZ的电动变焦设计，提供手动/电动切换开关的具体操作细节，对视频与摄影双修用户有实用参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How does Canon's new approach to power zoom work for photographers?"
+    },
+    {
+      "id": "recvoCYOUo1vkU",
+      "title": "紧凑型相机趋势已停滞？日本最新数据显示各大类别相机销量下滑",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/has-the-compact-camera-trend-already-stalled-camera-numbers-are-down-across-every-major-category-in-the-latest-data-from-japan",
+      "publish_time": "2026-07-07T00:05:00+08:00",
+      "summary": "CIPA最新数据显示2026年5月所有主要相机类别出货量下滑，紧凑型相机趋势停滞。",
+      "recommendation": "CIPA最新出货量数据揭示紧凑型相机趋势停滞，提供行业下滑的量化依据，适合关注市场走向的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Has the compact camera trend already stalled? Camera numbers are down across every major category in the latest data from Japan"
+    },
     {
       "id": "recvoBS4vT916w",
       "title": "尼康会再次复活其紧凑型相机吗？",
@@ -244,6 +478,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The Couple Who Climbed the Empire State Building Argued Over Photos at the Top"
+    },
+    {
+      "id": "recvoCYBGTnFy2",
+      "title": "观看攀爬帝国大厦的情侣在摩天大楼顶上为照片争吵",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/rooftopping-couple-photo-argument/",
+      "publish_time": "2026-07-06T20:24:14+08:00",
+      "summary": "网红情侣为拍完美照片，在数百英尺高的帝国大厦外悬挂争吵，凸显社交媒体时代对极致内容的追求。",
+      "recommendation": "通过网红情侣极端行为，揭示社交媒体时代对极致影像的追求，探讨安全与内容创作的平衡，适合关注摄影伦理与行业趋势的读者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Watch the Couple Who Climbed the Empire State Building Argue Over Photos Atop a Skyscraper"
     },
     {
       "id": "recvoBRT4pGtxQ",
@@ -2107,6 +2357,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Fujifilm’s ultra-exclusive, designer GFX100RF gets firmware update – but does anyone here actually own one?"
+    },
+    {
+      "id": "recvoCYRwrBHgn",
+      "title": "富士超限量设计师款GFX100RF获固件更新——但真有人买到了吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/fujifilms-ultra-exclusive-designer-gfx100rf-gets-firmware-update-but-does-anyone-here-actually-own-one",
+      "publish_time": "2026-07-02T18:26:38+08:00",
+      "summary": "富士为超限量设计师款GFX100RF发布固件更新，修复烦人漏洞，但该相机极为罕见，怀疑无人真正拥有",
+      "recommendation": "固件更新揭示GFX100RF罕见性，质疑其实际拥有者，提供限量相机市场稀缺性洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm’s ultra-exclusive, designer GFX100RF received a firmware update – but does anyone here actually own one?"
     },
     {
       "id": "recvoe9Fo01Hcr",
@@ -7574,271 +7839,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Ring cameras now have AI commentary – but what will it say when it sees people \"doing what newlyweds do\"?"
-    },
-    {
-      "id": "recvnnKDshx9LJ",
-      "title": "这些是我们见过的最好的大疆Prime Day优惠",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/these-are-the-best-dji-prime-day-deals-we-have-seen",
-      "publish_time": "2026-06-23T23:24:01+08:00",
-      "summary": "本文汇总了大疆Prime Day最佳优惠，涵盖口袋相机、运动相机、无人机和360相机，提供核心技术参数与数据，帮助用户快速选购",
-      "recommendation": "汇总大疆Prime Day核心优惠，涵盖口袋、运动、无人机及360相机，附关键参数，助影像爱好者快速锁定高性价比设备。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These are the best DJI Prime Day deals we have seen"
-    },
-    {
-      "id": "recvnnKG65S4by",
-      "title": "DJI Osmo Action 5 Pro 必备套装——这个价格我会再买一次（而且居然有货！）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/dji-osmo-action-5-pro-essential-combo-id-buy-this-again-at-this-price-and-amazingly-its-in-stock",
-      "publish_time": "2026-06-23T23:18:35+08:00",
-      "summary": "DJI Osmo Action 5 Pro大幅降价，附赠超值装备套装，性价比极高且现货充足。",
-      "recommendation": "文章提供DJI Osmo Action 5 Pro降价及套装现货信息，含具体价格与配件数据，适合关注运动相机性价比的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "DJI Osmo Action 5 Pro Essential Combo – I’d buy this again at this price (and amazingly it's in stock!)"
-    },
-    {
-      "id": "recvnnKn6zZUIS",
-      "title": "亚马逊Prime Day 2026：值得关注的运动相机、无人机和存储设备优惠",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/7189727602/amazon-prime-day-june-2026",
-      "publish_time": "2026-06-23T23:06:00+08:00",
-      "summary": "亚马逊Prime Day 2026于6月23日至26日举行，提供运动相机、无人机和存储设备优惠，包括大疆、Insta360等品牌最低价及存储卡折扣。",
-      "recommendation": "Prime Day影像设备优惠汇总，涵盖大疆、Insta360等品牌最低价及存储卡折扣，为选购运动相机和无人机提供价格参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Amazon Prime Day 2026: Action cameras, drones, and storage deals worth your attention"
-    },
-    {
-      "id": "recvnnLclccaWz",
-      "title": "这是亚马逊美国Prime最佳优惠：翻新索尼和腾龙相机镜头享20%折扣！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/this-is-the-best-amazon-usa-prime-deal-20-off-on-reconditioned-sony-and-tamron-cameras-and-lenses/",
-      "publish_time": "2026-06-23T23:00:31+08:00",
-      "summary": "亚马逊美国Prime日翻新索尼和腾龙相机镜头享20%折扣，索尼A7IV、A7rIV及多款镜头低价促销，数量有限即将售罄。",
-      "recommendation": "Prime日翻新索尼/腾龙镜头享20%折扣，含A7IV、A7rIV等热门机型，适合预算有限的影像爱好者淘货，但需注意翻新库存有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This is the best Amazon USA Prime deal: 20% off on reconditioned Sony and Tamron cameras and lenses!"
-    },
-    {
-      "id": "recvnnKIPxSJVH",
-      "title": "大疆Osmo Pocket 3彻底改变度假视频拍摄——Prime Day现价378美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/the-dji-osmo-pocket-3-changed-vacation-videos-forever-and-its-now-usd378-on-prime-day",
-      "publish_time": "2026-06-23T23:00:00+08:00",
-      "summary": "大疆Osmo Pocket 3在Prime Day以378美元促销，其便携设计和高画质彻底改变度假视频拍摄，让手机视频相形见绌。",
-      "recommendation": "解析Pocket 3便携性与画质优势，对比手机视频的实测数据，Prime Day价格信息对计划购入者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The DJI Osmo Pocket 3 changed vacation videos forever - and it's now $378on Prime Day"
-    },
-    {
-      "id": "recvnnKL3km0Sj",
-      "title": "柯达在Prime Day大幅降价其多功能胶片扫描仪（正好让你数字化所有旧相机底片和幻灯片）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/scanners/kodak-slashes-cost-of-its-all-in-one-film-scanners-in-prime-day-deal-just-in-time-for-you-to-digitize-all-your-old-camera-negatives-and-slides",
-      "publish_time": "2026-06-23T22:15:00+08:00",
-      "summary": "柯达在Prime Day大幅降价多功能胶片扫描仪，帮助用户数字化旧底片和幻灯片，保留核心技术参数和数据。",
-      "recommendation": "柯达胶片扫描仪Prime Day降价，提供数字化旧底片和幻灯片的实用方案，包含核心技术参数，适合怀旧影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Kodak slashes cost of its all-in-one film scanners in Prime Day deal (just in time for you to digitize all your old camera negatives and slides)"
-    },
-    {
-      "id": "recvnnKNopoBZr",
-      "title": "初照相机：这款可爱的复古数码双反风格紧凑相机备受喜爱，我们刚发现它已降至仅30美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/gift-guides-and-seasonal-sales/the-chuzhao-is-the-cute-retro-digital-tlr-style-compact-camera-that-everyone-loves-and-we-have-just-spotted-that-it-has-dropped-to-just-usd30",
-      "publish_time": "2026-06-23T22:07:05+08:00",
-      "summary": "初照相机是一款复古双反风格数码相机，价格降至30美元，虽像玩具但性价比高，适合趣味拍摄。",
-      "recommendation": "30美元复古双反数码相机降价资讯，适合追求趣味拍摄的影像爱好者，提供具体价格与产品定位信息。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Chuzhao is the cute retro digital TLR-style compact camera that everyone loves... and we have just spotted that it has dropped to just $30"
-    },
-    {
-      "id": "recvnnL9VlbgHc",
-      "title": "独家：富士胶片下一款XF镜头曝光——或成近年来最受欢迎新品之一",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/exclusive-fujifilms-next-xf-lens-revealed-and-it-could-be-one-of-the-most-popular-releases-in-years/",
-      "publish_time": "2026-06-23T22:02:37+08:00",
-      "summary": "富士胶片下一款XF镜头曝光，基于读者调查结果，可能是近年来最受欢迎的发布之一，作为某款镜头的继任者。",
-      "recommendation": "独家曝光富士XF镜头继任者，基于读者调查揭示最受欢迎新品方向，提供镜头规格与市场预期关键数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "EXCLUSIVE: Fujifilm’s Next XF Lens Revealed — And it Could Be One of the Most Popular Releases in Years"
-    },
-    {
-      "id": "recvnnKpUUWHvn",
-      "title": "Pelican 使其传奇防护箱更加坚固耐用",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/5449399487/pelican-is-making-its-legendary-cases-even-more-rugged",
-      "publish_time": "2026-06-23T22:02:00+08:00",
-      "summary": "Pelican推出Protector系列下一代防护箱，更坚固易用，新增Gridpoint系统提供更多组织空间，保护设备免受恶劣条件侵害。",
-      "recommendation": "Pelican防护箱升级Gridpoint系统，为户外影像设备提供更灵活收纳方案，常规产品迭代资讯，可了解防护箱行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pelican is making its legendary cases even more rugged"
-    },
-    {
-      "id": "recvnnKsztphXu",
-      "title": "NEEWER Q4PRO 400Ws户外闪光灯专为外景与影棚拍摄设计",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/7213666401/the-neewer-q4pro-400ws-outdoor-flash-is-designed-for-both-location-and-studio-work",
-      "publish_time": "2026-06-23T22:00:00+08:00",
-      "summary": "NEEWER Q4PRO 400Ws户外闪光灯专为摄影师设计，集多种闪光模式、高速同步、无线功能和直观操作于一体，配备大容量USB-C可充电电池和Bowens卡口兼容性，适用于人像和运动拍摄",
-      "recommendation": "文章详解NEEWER Q4PRO 400Ws闪光灯的多模式与高速同步功能，提供Bowens卡口兼容性及USB-C充电数据，适合外拍人像与运动摄影爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The NEEWER Q4PRO 400Ws Outdoor Flash is designed for both location and studio work"
-    },
-    {
-      "id": "recvnnKaDHcwFB",
-      "title": "男子因女子使用其照片制作AI社交媒体帖子展示虚假家庭生活而遭受心理创伤",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/man-traumatized-after-woman-uses-his-photos-for-ai-social-media-posts-showing-fake-family-life/",
-      "publish_time": "2026-06-23T21:54:08+08:00",
-      "summary": "新加坡一男子发现前同学用其照片AI生成虚假家庭生活帖子，遭受心理创伤，凸显AI滥用风险",
-      "recommendation": "从AI影像滥用案例切入，揭示计算摄影技术伦理边界，对关注AI生成内容的影像爱好者具警示价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Man Traumatized After Woman Uses His Photos for AI Social Media Posts Showing Fake Family Life"
-    },
-    {
-      "id": "recvnnKPWFxOY3",
-      "title": "让你的编辑技能从入门到精通！节省高达$117/£117，用TourBox创意控制台解锁专家级编辑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/take-your-editing-skills-from-starter-to-spectacular-save-up-to-usd117-gbp117-and-unlock-expert-edits-with-tourbox-creative-consoles",
-      "publish_time": "2026-06-23T21:53:41+08:00",
-      "summary": "TourBox创意控制台超值优惠，节省高达$117/£117，助您从入门到精通照片和视频编辑，解锁专家级技能",
-      "recommendation": "TourBox控制台优惠资讯，适合影像编辑效率提升需求者，但无独家数据或深度评测。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Take your editing skills from starter to spectacular! Save up to $117/£117 and unlock expert edits with TourBox Creative Consoles"
-    },
-    {
-      "id": "recvnnKSsyVChr",
-      "title": "忘掉那些受70年代启发的复古相机吧——这款新木制皮腔相机致敬的是1850年代首次出现的相机设计！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/forget-retro-cameras-inspired-by-the-1970s-this-new-wooden-bellows-camera-pays-homage-to-a-camera-design-first-made-back-in-the-1850s",
-      "publish_time": "2026-06-23T21:48:36+08:00",
-      "summary": "法国工坊复兴经典野外相机，新款木制皮腔相机致敬1850年代设计，具备防风雨和便携特性。",
-      "recommendation": "文章揭秘1850年代木制皮腔相机复兴，提供法国工坊防风雨设计的独家技术细节，对复古摄影爱好者有独特参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Forget retro cameras inspired by the 1970s – this new wooden bellows camera pays homage to a camera design first made back in the 1850s!"
-    },
-    {
-      "id": "recvnnKV3JbSvI",
-      "title": "这款超大变焦桥式相机能帮你省下多支镜头的钱——Prime Day期间价格大降",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/this-mega-zoom-bridge-camera-can-save-you-money-on-multiple-lenses-and-now-its-price-has-been-slashed-for-prime-day",
-      "publish_time": "2026-06-23T21:45:30+08:00",
-      "summary": "松下LUMIX FZ80D配备60倍变焦，覆盖广角到超远摄，Prime Day降价，一镜走天下",
-      "recommendation": "解析松下FZ80D的60倍变焦实拍表现与Prime Day价格优势，为预算有限但追求焦段覆盖的爱好者提供一镜走天下的务实方案。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This mega-zoom bridge camera can save you money on multiple lenses – and now its price has been slashed for Prime Day"
-    },
-    {
-      "id": "recvnnKXyToHgb",
-      "title": "我一直觉得富士X Half定价过高，但那是直到我在Prime Day发现它仅售429英镑之前",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/quirky-fujifilm-x-half-compact-camera-drops-to-lowest-price-this-prime-day",
-      "publish_time": "2026-06-23T21:21:14+08:00",
-      "summary": "富士X Half紧凑型相机在Prime Day降至429英镑，创历史最低价，此前定价过高。",
-      "recommendation": "Prime Day富士X Half降至429英镑创历史新低，提供具体价格与降价幅度数据，适合关注相机性价比的消费者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I always thought the Fujifilm X Half was overpriced, but that was before I found it for £429 this Prime Day"
-    },
-    {
-      "id": "recvnnKZW33Bjw",
-      "title": "这款Lumix S9变焦套装是摄影师和内容创作者的梦幻之选，亚马逊Prime大促降至新低价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-lumix-s9-zoom-bundle-is-a-dream-deal-for-photographers-and-content-creators-and-its-at-a-new-low-price-in-the-amazon-prime-sale",
-      "publish_time": "2026-06-23T21:18:16+08:00",
-      "summary": "亚马逊Prime大促将松下Lumix S9全画幅相机变焦套装价格降至1332.99美元，是摄影师和内容创作者的梦幻之选。",
-      "recommendation": "提供Lumix S9变焦套装Prime大促价格及定位分析，适合关注全画幅入门相机性价比的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Lumix S9 zoom bundle is a dream deal for photographers and content creators, and it's at a new low price in the Amazon Prime Sale"
-    },
-    {
-      "id": "recvnnLmcPXCLr",
-      "title": "唯卓仕要出新相机挑战柯达？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/23/is-viltrox-making-a-new-camera-to-beat-kodak/",
-      "publish_time": "2026-06-23T21:00:00+08:00",
-      "summary": "唯卓仕作为中国知名第三方镜头制造商，虽未涉足相机领域，但正酝酿变革，可能挑战柯达等品牌，具体变革待揭晓。",
-      "recommendation": "分析唯卓仕从镜头厂商跨界相机领域的可能性，提供行业竞争格局的深度视角，对关注国产影像品牌动向的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is Viltrox Making a New Camera To Beat Kodak?"
     }
   ]
 }
