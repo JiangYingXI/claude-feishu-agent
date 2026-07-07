@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-07T23:33:53.721556+08:00",
+    "updated_at": "2026-07-08T04:31:48.722148+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 106
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,159 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 47
+      "count": 48
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 392
+      "count": 390
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 196
+      "count": 198
     }
   ],
   "articles": [
+    {
+      "id": "recvoIMz5cUEGa",
+      "title": "Discord封禁约8200名用户，因其发布无害网格图片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
+      "publish_time": "2026-07-08T03:13:16+08:00",
+      "summary": "Discord安全系统误封约8200名用户，因将无害网格图片标记为有害，暴露了自动检测图像系统的缺陷。",
+      "recommendation": "揭示AI图像审核系统缺陷，对关注计算摄影与自动图像识别的影像爱好者有参考价值，提供误封数据与行业反思。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Discord Banned Around 8,200 Users for Posting Inoffensive Images of Grids"
+    },
+    {
+      "id": "recvoIMBNqvodL",
+      "title": "iPhone 16坠入大海，拍摄鱼类及自身救援过程",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/iphone-16-falls-into-the-sea-films-fish-and-its-own-rescue/",
+      "publish_time": "2026-07-08T03:10:00+08:00",
+      "summary": "希腊度假者iPhone 16 Pro坠海11分钟，持续录制直至被潜水员捞出，展示防水性能。",
+      "recommendation": "iPhone 16 Pro坠海11分钟持续录制，实测防水极限并记录水下救援过程，为影像爱好者提供真实极端环境下的防水与录像稳定性数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "iPhone 16 Falls Into the Sea, Films Fish and Its Own Rescue"
+    },
+    {
+      "id": "recvoIMTS3FWwU",
+      "title": "奥林巴斯XZ-1为何是OM系统亟需的回归之作",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/07/why-the-olympus-xz-1-is-the-comeback-om-system-desperately-nees/",
+      "publish_time": "2026-07-08T03:00:00+08:00",
+      "summary": "奥林巴斯XZ-1是十年前发布的优秀相机，其回归将填补OM系统产品线空白，满足用户对经典便携相机的需求。",
+      "recommendation": "解析XZ-1回归对OM系统产品线的战略意义，提供经典便携相机市场空缺的独家数据，适合关注复古相机趋势的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why the Olympus XZ-1 Is the Comeback OM System Desperately Nees"
+    },
+    {
+      "id": "recvoIMRoo8Epa",
+      "title": "新优惠：适马E卡口镜头最高直降300美元！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-deal-up-to-300-off-on-sigma-e-mount-lenses-2/",
+      "publish_time": "2026-07-08T02:39:20+08:00",
+      "summary": "适马E卡口镜头最高直降300美元，涵盖200mm f/2、500mm f/5.6等多款镜头，优惠在BHphoto、Amazon、Adorama有效。",
+      "recommendation": "适马E卡口镜头最高直降300美元，涵盖200mm f/2等热门焦段，对索尼用户是实惠的入手时机。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New deal: Up to $300 off on Sigma E-mount lenses!"
+    },
+    {
+      "id": "recvoIMJhZGIvQ",
+      "title": "三星确认Galaxy Z Fold8和Z Fold8 Ultra将搭载骁龙8 Elite Gen 5处理器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_confirms_that_the_galaxy_z_fold8_and_z_fold8_ultra_will_use_a_snapdragon_8_elite_gen_5-news-73611.php",
+      "publish_time": "2026-07-08T02:01:02+08:00",
+      "summary": "三星确认Galaxy Z Fold8和Z Fold8 Ultra将搭载定制骁龙8 Elite Gen 5处理器，其中Fold8展开后采用4:3比例显示屏，Ultra版本则更高更窄。",
+      "recommendation": "文章透露Fold8系列处理器与屏幕比例信息，对关注折叠屏影像布局的用户有参考价值，但影像细节未涉及。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung confirms that the Galaxy Z Fold8 and Z Fold8 Ultra will use a Snapdragon 8 Elite Gen 5"
+    },
+    {
+      "id": "recvoIME595piE",
+      "title": "国际大赛表彰全球最佳航拍照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/international-aerial-photographer-of-the-year-2026/",
+      "publish_time": "2026-07-08T01:27:09+08:00",
+      "summary": "第二届国际航拍摄影师大赛揭晓，孟加拉国阿齐姆·汗·罗尼夺冠，表彰全球最佳航拍照片。",
+      "recommendation": "展示全球航拍新锐视角，含获奖作品技术解析与构图思路，为航拍爱好者提供创作灵感与设备应用参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The World’s Best Aerial Photos Honored in International Competition"
+    },
+    {
+      "id": "recvoIMOUTBwu1",
+      "title": "富士龙XF 13-80mm F3.5与XF 16-200mm F2.8-5.6及变体专利曝光",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujinon-xf-13-80mm-f3-5-and-xf-16-200mm-f2-8-5-6-plus-variations-patents-spotted/",
+      "publish_time": "2026-07-08T01:11:40+08:00",
+      "summary": "富士龙多款变焦镜头专利曝光，包括XF 13-80mm F3.5、XF 16-200mm F2.8-5.6等，涵盖广角至长焦范围，为富士用户提供更多选择。",
+      "recommendation": "曝光富士龙多款变焦镜头专利，含13-80mm F3.5与16-200mm F2.8-5.6等具体规格，为富士用户提供广角至长焦新选择，可提前了解未来产品动向。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujinon XF 13-80mm F3.5 and XF 16-200mm F2.8-5.6 – plus Variations – Patents Spotted"
+    },
+    {
+      "id": "recvoIMLW1vOpw",
+      "title": "开发者将索尼耳机改造成PC模拟器实时头部追踪器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/developer_turns_sonys_headphones_into_realtime_head_tracker_for_pc_simulators-news-73610.php",
+      "publish_time": "2026-07-08T00:57:02+08:00",
+      "summary": "开发者利用索尼WF/WH-1000系列耳机内置加速度计和陀螺仪，创建Sony Head Tracker项目，实现PC游戏实时头部追踪，已兼容数百款游戏。",
+      "recommendation": "耳机传感器跨界实现PC头部追踪，为影像创作者提供低成本VR视角控制方案，含开源项目技术细节与游戏兼容性数据。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Developer turns Sony's headphones into real-time head tracker for PC simulators"
+    },
+    {
+      "id": "recvoIMGzeFIYe",
+      "title": "田纳西旅游局驱逐AI图像，致敬真实摄影师",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/tennessee-tourism-celebrates-real-photographers-by-banishing-ai-images/",
+      "publish_time": "2026-07-08T00:10:41+08:00",
+      "summary": "田纳西旅游局强调其景点照片100%真实，拒绝AI图像，致敬真实摄影师，以维护旅游宣传的真实性。",
+      "recommendation": "田纳西旅游局拒用AI图像，强调100%真实照片，对影像爱好者是真实性与技术伦理的案例。文章提供旅游局声明细节，无独家数据，但观点清晰。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tennessee Tourism Celebrates Real Photographers by Banishing AI Images"
+    },
     {
       "id": "recvoHzuhLqK67",
       "title": "我们称这款100-500mm长焦镜头为测试过的最佳佳能变焦镜头之一——如今它价格诱人地下降了",
@@ -7696,145 +7835,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "New Fujifilm X-T6 Rumors: AI Autofocus, 40MP Sensor, 8K Video — But the 40MP Detail Raises Questions"
-    },
-    {
-      "id": "recvntwWquK576",
-      "title": "寻找你的第一台“正经”相机？我认为这套超值的机身和镜头绝对是不二之选",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/looking-for-your-first-proper-camera-i-think-this-bargain-body-and-lens-is-an-absolute-no-brainer",
-      "publish_time": "2026-06-24T21:31:16+08:00",
-      "summary": "推荐入门级相机和镜头套装，售价499美元，性价比极高，是新手首选。",
-      "recommendation": "499美元入门相机套装，包含机身与镜头，数据详实，适合预算有限的新手快速入门。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Looking for your first \"proper\" camera? I think this bargain body and lens is an absolute no-brainer"
-    },
-    {
-      "id": "recvntx9Vy2gpb",
-      "title": "Infinix Note 60 Pro Pininfarina限量版登陆印度",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/infinix_note_60_pro_pininfarina_limited_edition_drives_into_india-news-73418.php",
-      "publish_time": "2026-06-24T21:30:02+08:00",
-      "summary": "Infinix在印度推出Note 60 Pro Pininfarina限量版，与意大利设计工作室合作，采用航空级铝制框架和碳纤维后盖，红色摄像头装饰，提供实惠的豪华设计选择。",
-      "recommendation": "文章聚焦Infinix与Pininfarina联名设计，提供航空级铝框、碳纤维后盖等材质细节，对关注手机外观工艺的影像爱好者有参考价值，但缺乏影像硬件参数或拍摄样张等核心数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Infinix Note 60 Pro Pininfarina Limited Edition drives into India"
-    },
-    {
-      "id": "recvntwGejAXtr",
-      "title": "腾龙17-70mm f/2.8变焦镜头让佳能和尼康APS-C相机更出色",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/24/tamrons-17-70mm-f-2-8-zoom-makes-canon-and-nikons-aps-c-cameras-even-better/",
-      "publish_time": "2026-06-24T21:15:12+08:00",
-      "summary": "腾龙将推出17-70mm f/2.8变焦镜头的佳能RF和尼康Z卡口版本，提升APS-C相机性能。",
-      "recommendation": "文章聚焦腾龙17-70mm f/2.8镜头新增RF/Z卡口，为APS-C用户提供高性价比大光圈变焦方案，含具体焦段与光圈数据，属常规产品资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tamron’s 17-70mm f/2.8 Zoom Makes Canon and Nikon’s APS-C Cameras Even Better"
-    },
-    {
-      "id": "recvntwZ8jqhMh",
-      "title": "我用这台相机走遍世界——如今索尼A7 III降至新低价！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/ive-traveled-the-world-with-this-camera-now-the-sony-a7-iii-has-dropped-to-a-new-low-price",
-      "publish_time": "2026-06-24T21:07:06+08:00",
-      "summary": "索尼A7 III全画幅无反相机降至新低价，仍是预算有限时最佳入门级选择，凭借出色性能走遍世界。",
-      "recommendation": "A7 III降至新低价，为预算有限的入门用户提供高性价比全画幅选择，文中含价格走势与性能对比，适合关注入门机型的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I've traveled the world with this camera – now the Sony A7 III has dropped to a new low price!"
-    },
-    {
-      "id": "recvntxfAtTsTn",
-      "title": "徕卡即将推出多年来最亲民的M系列相机？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/24/is-leica-about-to-drop-its-most-wallet-friendly-m-camera-in-years/",
-      "publish_time": "2026-06-24T21:00:00+08:00",
-      "summary": "徕卡即将推出M11系列新机型，可能成为多年来最亲民的M系列相机，保留核心技术参数，主打性价比。",
-      "recommendation": "分析徕卡M11亲民机型可能性，保留核心参数降低门槛，对预算有限但追求徕卡色彩的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is Leica About to Drop Its Most Wallet-Friendly M Camera in Years?"
-    },
-    {
-      "id": "recvntxlnMmOZQ",
-      "title": "亚马逊Prime新优惠及BHphoto苹果新返现活动",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-amazon-prime-deals-and-new-bhphoto-apple-rebates/",
-      "publish_time": "2026-06-24T20:57:46+08:00",
-      "summary": "亚马逊Prime Day在多国推出新优惠，包括翻新苹果设备15%折扣；BHphoto夏季促销也提供苹果产品新返现。",
-      "recommendation": "常规资讯，可了解行业动态。文章汇总了Prime Day与BHphoto的苹果产品优惠，对计划购买苹果设备用于影像处理的用户有价格参考价值，但无独家数据或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Amazon Prime Deals and new BHphoto Apple rebates"
-    },
-    {
-      "id": "recvntwIQWCFNX",
-      "title": "模特指控时尚品牌使用AI复制她们",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/24/models-claim-fashion-brand-used-ai-to-create-their-doppelgangers/",
-      "publish_time": "2026-06-24T20:40:45+08:00",
-      "summary": "模特指控时尚零售商Rainbow Shops在合作中断后使用AI生成其仿冒图像，涉及未经授权复制肖像的技术滥用。",
-      "recommendation": "揭示AI生成图像在时尚领域的侵权风险，提醒影像创作者关注肖像权与技术滥用的行业边界。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Models Accuse Fashion Brand of Using AI to Recreate Them"
-    },
-    {
-      "id": "recvntx1NFFHh7",
-      "title": "富士胶片通过固件更新解决X-E3和X-H1相机的蓝牙连接问题",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/fujifilm-solves-bluetooth-connection-woes-with-firmware-updates-for-x-e3-and-x-h1-cameras",
-      "publish_time": "2026-06-24T20:19:22+08:00",
-      "summary": "富士发布X-E3固件1.32和X-H1固件2.15，修复与Android 16设备的蓝牙配对失败问题。",
-      "recommendation": "针对Android 16兼容性问题的固件更新，为X-E3和X-H1用户提供蓝牙连接修复方案，属于实用型技术资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm solves Bluetooth connection woes with firmware updates for X-E3 and X-H1 cameras"
-    },
-    {
-      "id": "recvntx4oT58y5",
-      "title": "大疆Flip无人机降至历史最低价，可拍摄4K航拍视频和4800万像素照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/drones/popular-dji-flip-drone-falls-to-its-lowest-price-ever-and-can-shoot-4k-aerial-video-and-48-megapixel-photos",
-      "publish_time": "2026-06-24T20:05:00+08:00",
-      "summary": "大疆Flip无人机首次降价，套装省126英镑，可拍摄4K视频和4800万像素照片，降至历史最低价。",
-      "recommendation": "大疆Flip无人机首次降价至历史最低，套装省126英镑，提供4K视频与4800万像素航拍能力，对入门航拍爱好者是性价比之选。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Popular DJI Flip drone falls to its lowest price ever - and can shoot 4K aerial video and 48-megapixel photos"
     }
   ]
 }
