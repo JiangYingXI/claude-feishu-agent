@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-07T04:42:23.144271+08:00",
+    "updated_at": "2026-07-07T12:39:48.624880+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 113
+      "count": 114
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 20
+      "count": 18
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,106 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 394
+      "count": 393
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 193
+      "count": 191
     }
   ],
   "articles": [
+    {
+      "id": "recvoEVefSxdyU",
+      "title": "适马经典85mm镜头的魅力",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/07/the-beauty-of-the-sigma-classic-85mm-lenses/",
+      "publish_time": "2026-07-07T12:00:00+08:00",
+      "summary": "适马85mm f1.4 DG Art镜头十周年，提醒摄影师不必追求最新，经典镜头仍具价值。",
+      "recommendation": "回顾适马85mm f1.4 DG Art十年经典，提供镜头光学素质与设计理念的深度分析，对追求性价比与经典成像的摄影爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Beauty of the Sigma Classic 85mm Lenses"
+    },
+    {
+      "id": "recvoEV9duzDmG",
+      "title": "尼康Z50II固件更新1.10版本发布",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/06/nikon-z50ii-firmware-update-version-1-10-released.aspx/",
+      "publish_time": "2026-07-07T10:30:00+08:00",
+      "summary": "尼康发布Z50II固件1.10版，将Cloud Picture Control更名为Imaging Recipe，并调整相关菜单项名称。",
+      "recommendation": "尼康Z50II固件更新将Cloud Picture Control更名为Imaging Recipe，调整菜单逻辑，对影像爱好者而言是操作习惯的微调，属常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Z50II firmware update version 1.10 released"
+    },
+    {
+      "id": "recvoEV4azFb1i",
+      "title": "vivo Y500 4G正式发布：配备8100mAh超大电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_y500_4g_is_official_with_an_8100_mah_battery-news-73597.php",
+      "publish_time": "2026-07-07T09:03:03+08:00",
+      "summary": "vivo Y500 4G在巴基斯坦和尼泊尔发布，配备6.83英寸AMOLED屏、紫光展锐T7300处理器、50MP主摄及8100mAh电池，支持44W快充。",
+      "recommendation": "文章提供vivo Y500 4G的影像配置信息，50MP主摄参数明确，适合关注入门级手机摄影的用户了解行业新机动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo Y500 4G is official with an 8,100 mAh battery"
+    },
+    {
+      "id": "recvoEV6Pkb1pa",
+      "title": "DCS：华为今年将发布双折叠和三折叠手机，明年推出新款宽折叠手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/dcs_huawei_will_release_a_dual_and_a_trifoldable_this_year_new_widefoldable_next_year-news-73594.php",
+      "publish_time": "2026-07-07T07:01:31+08:00",
+      "summary": "华为今年将发布双折叠和三折叠手机，明年推出新款宽折叠手机。三折叠手机搭载麒麟9050 Pro芯片，性能媲美3nm芯片，预计下半年推出。",
+      "recommendation": "折叠手机形态演进影响影像模组设计，三折叠麒麟9050 Pro芯片性能提升或为计算摄影提供新可能，但未提及具体影像规格。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "DCS: Huawei will release a dual and a tri-foldable this year, new wide-foldable next year"
+    },
+    {
+      "id": "recvoEVbAnhx6H",
+      "title": "2026年5月CIPA数据",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/06/may-2026-cipa-numbers.aspx/",
+      "publish_time": "2026-07-07T06:37:34+08:00",
+      "summary": "2026年5月CIPA数据显示相机出货量普遍下降，紧凑型相机2025年全年出货量增长30%，金额增长49%。",
+      "recommendation": "CIPA数据揭示紧凑相机逆势增长30%，金额增幅49%，为影像爱好者提供市场趋势与品类选择参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "May 2026 CIPA numbers"
+    },
+    {
+      "id": "recvoEV1gpQC1C",
+      "title": "韦伯展示尖端相机，庆祝科学运行四周年",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
+      "publish_time": "2026-07-07T05:21:52+08:00",
+      "summary": "为庆祝韦伯望远镜科学运行四周年，NASA发布新照片，展示其穿透宇宙尘埃的卓越成像能力，揭示星系奥秘。",
+      "recommendation": "韦伯望远镜穿透宇宙尘埃的成像技术，对计算摄影爱好者有启发。文章含NASA独家照片与四周年运行数据，揭示深空成像的极限能力。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Webb Celebrates Fourth Year of Science By Showing Off its Cutting-Edge Cameras"
+    },
     {
       "id": "recvoCYZNyIRbs",
       "title": "2026年6月NikonRumors阅读量最高的10篇文章",
@@ -7744,101 +7835,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "I couldn't find any decent Nikon Prime Day Deals, but these Nikon-fit lenses are bargains!"
-    },
-    {
-      "id": "recvnoYlJWkal0",
-      "title": "VSCO One：专业摄影师未曾察觉的缺失系统",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/23/vsco-one-is-the-system-professional-photographers-didnt-know-they-were-missing/",
-      "publish_time": "2026-06-24T00:00:00+08:00",
-      "summary": "VSCO推出VSCO One平台，为专业摄影师提供从拍摄到编辑的全流程解决方案，弥补现有系统缺失，实现高效创作。",
-      "recommendation": "剖析VSCO One全流程系统对专业摄影师的缺失补位，提供从拍摄到编辑的整合方案，适合关注工作流优化的影像创作者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "VSCO One Is the System Professional Photographers Didn’t Know They Were Missing"
-    },
-    {
-      "id": "recvnoYc17iThm",
-      "title": "Ring摄像头提供30天免费AI解说——但当它看到人们“做新婚夫妇做的事”时，它会说什么？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/security-cameras/ring-cameras-have-30-days-free-ai-commentary-but-what-will-it-say-when-it-sees-people-doing-what-newlyweds-do",
-      "publish_time": "2026-06-23T23:44:41+08:00",
-      "summary": "Ring摄像头在Prime Day提供30天免费AI解说功能，但面对现实生活场景如新婚夫妇行为时，其描述能力存疑。",
-      "recommendation": "探讨AI影像描述在真实场景中的边界，以Ring摄像头为例揭示计算摄影的伦理与实用性矛盾，对关注AI影像落地的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Ring cameras have 30 days free AI commentary – but what will it say when it sees people \"doing what newlyweds do\"?"
-    },
-    {
-      "id": "recvnoY0K1UctS",
-      "title": "VSCO为何认为其新的500美元订阅对专业人士物有所值",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/why-vsco-believes-its-new-500-subscription-is-worth-it-for-pros/",
-      "publish_time": "2026-06-23T23:38:34+08:00",
-      "summary": "VSCO推出500美元年订阅VSCO One及Studio Pro平台，面向职业摄影师，提供高级编辑工具与高产量工作流支持，旨在以专业功能匹配高价定位。",
-      "recommendation": "解析VSCO高价订阅背后的专业编辑工具与工作流逻辑，为职业摄影师评估付费价值提供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Why VSCO Believes Its New $500 Subscription Is Worth it for Pros"
-    },
-    {
-      "id": "recvnnK7wsQXfP",
-      "title": "摄影师携手篮球新星AJ·迪班萨重现经典太阳扣篮瞬间",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/photographer-recreates-iconic-sun-dunking-shot-with-rising-basketball-star-aj-dybantsa/",
-      "publish_time": "2026-06-23T23:32:39+08:00",
-      "summary": "摄影师达斯汀·斯奈普斯11年后再次受红牛委托，为篮球新星AJ·迪班萨重现NBA球星安东尼·戴维斯扣碎太阳的经典镜头。",
-      "recommendation": "11年后复刻经典扣篮瞬间，展示运动摄影中光线控制与瞬间捕捉技巧，含摄影师独家拍摄参数与布光思路。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Recreates Iconic Sun Dunking Shot With Rising Basketball Star AJ Dybantsa"
-    },
-    {
-      "id": "recvnnLjGABPvM",
-      "title": "SmallRig促销：最高30%折扣",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/23/smallrig-sale-up-to-30-off.aspx/",
-      "publish_time": "2026-06-23T23:31:59+08:00",
-      "summary": "SmallRig将于6月23日至26日提供高达30%折扣，促销产品列表见SmallRig促销页面。",
-      "recommendation": "SmallRig促销资讯，最高30%折扣覆盖影像配件，适合近期有补件需求的用户快速浏览优惠清单。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "SmallRig sale: up to 30% off"
-    },
-    {
-      "id": "recvnnKAVRZnwr",
-      "title": "Ring摄像头新增AI评论功能——但看到人们“做新婚夫妇做的事”时会说什么？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/security-cameras/ring-cameras-now-have-ai-commentary-but-what-will-it-say-when-it-sees-people-doing-what-newlyweds-do",
-      "publish_time": "2026-06-23T23:29:52+08:00",
-      "summary": "Ring摄像头新增AI评论功能，可描述现实场景，但面对新婚夫妇等私密行为时可能引发争议，核心在于AI能否准确应对生活细节。",
-      "recommendation": "探讨AI摄像头对私密场景的识别边界，揭示计算摄影在伦理与实用间的矛盾，适合关注AI影像落地的从业者。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Ring cameras now have AI commentary – but what will it say when it sees people \"doing what newlyweds do\"?"
     }
   ]
 }
