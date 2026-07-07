@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-07T18:15:23.411315+08:00",
+    "updated_at": "2026-07-07T23:33:53.721556+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 113
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,248 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 390
+      "count": 392
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 194
+      "count": 196
     }
   ],
   "articles": [
+    {
+      "id": "recvoHzuhLqK67",
+      "title": "我们称这款100-500mm长焦镜头为测试过的最佳佳能变焦镜头之一——如今它价格诱人地下降了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/we-called-this-100-500mm-telephoto-lens-one-of-the-best-canon-zooms-weve-tested-now-it-has-a-tempting-price-drop",
+      "publish_time": "2026-07-07T23:17:56+08:00",
+      "summary": "佳能RF 100-500mm f/4.5-7.1 L IS USM长焦镜头降价200美元，被评最佳佳能变焦镜头之一",
+      "recommendation": "佳能RF 100-500mm f/4.5-7.1 L IS USM降价200美元，提供变焦镜头评测数据与价格趋势，适合长焦摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "We called this 100-500mm telephoto lens one of the best Canon zooms we've tested – now it has a tempting price drop"
+    },
+    {
+      "id": "recvoHzwR7HwFf",
+      "title": "厌倦了被问“这是AI生成的吗”？这些最佳C2PA相机可为每张照片添加内容凭证",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/these-are-the-best-c2pa-cameras-that-add-content-credentials-to-your-images-for-every-photographer-tired-of-the-question-is-this-ai",
+      "publish_time": "2026-07-07T23:17:14+08:00",
+      "summary": "C2PA相机为每张照片添加内容凭证，保护摄影作品来源，解决AI生成质疑",
+      "recommendation": "C2PA相机解决AI时代照片真伪痛点，本文梳理支持该技术的机型清单与工作原理，对关注影像溯源的用户有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These are the best C2PA cameras that add Content Credentials to your images for every photographer tired of the question, \"Is this AI?\""
+    },
+    {
+      "id": "recvoHzzj5zeRK",
+      "title": "尼康Z50II新固件：快门优先录制时为电影制作人提供更多创意控制",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/new-nikon-z50ii-firmware-puts-more-creative-control-in-filmmakers-hands-when-recording-in-shutter-priority",
+      "publish_time": "2026-07-07T23:05:30+08:00",
+      "summary": "尼康Z50II固件1.10在快门优先模式下启用手动光圈调整，并优化设置菜单，为电影制作人提供更多创意控制。",
+      "recommendation": "尼康Z50II固件1.10新增快门优先模式下手动光圈调整，优化菜单，为视频创作者提供更灵活曝光控制，是实用功能更新。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Nikon Z50II firmware puts more creative control in filmmakers'  hands when recording in shutter priority"
+    },
+    {
+      "id": "recvoHzbUFh9D7",
+      "title": "TTArtisan 89美元AF 50mm f/1.8镜头拥有疯狂的定制选项",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/ttartisans-89-af-50mm-f-1-8-lens-has-crazy-customization-options/",
+      "publish_time": "2026-07-07T22:59:27+08:00",
+      "summary": "TTArtisan发布89美元AF 50mm f/1.8 Neo镜头，支持全画幅无反相机，可通过彩色外壳定制，性价比极高。",
+      "recommendation": "89美元自动对焦镜头实现彩色外壳定制，打破低价镜头同质化，提供光圈与卡口数据，适合预算有限但追求个性的全画幅用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "TTArtisan’s $89 AF 50mm f/1.8 Lens Has Crazy Customization Options"
+    },
+    {
+      "id": "recvoHzmooveWR",
+      "title": "Tecno与视觉艺术家Angélica Dass启动“100幅蜕变肖像”计划",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/tecno_andvisual_artist_anglica_dass_start_the_100_portraits_of_becoming_initiative-news-73617.php",
+      "publish_time": "2026-07-07T22:56:02+08:00",
+      "summary": "Tecno与艺术家Angélica Dass启动“100幅蜕变肖像”计划，延续Universal Tone技术，将肤色样本扩展至372个，致力于消除手机摄像头肤色偏见",
+      "recommendation": "文章披露Tecno Universal Tone肤色样本扩展至372个的具体数据，揭示手机影像消除肤色偏见的工程化进展，对关注计算摄影公平性的爱好者有参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tecno and visual artist Angélica Dass start the “100 Portraits of Becoming” initiative"
+    },
+    {
+      "id": "recvoHzewKp4jY",
+      "title": "惊艳相机陷阱调查捕捉中国各地难以捉摸的雪豹",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/stunning-camera-trap-survey-captures-elusive-snow-leopards-across-china/",
+      "publish_time": "2026-07-07T22:01:20+08:00",
+      "summary": "世界自然基金会在中国偏远地区通过红外相机调查，成功捕捉到难以捉摸的雪豹踪迹，揭示了其分布与活动情况。",
+      "recommendation": "红外相机技术实战案例，展示雪豹监测中的设备选型与部署策略，提供野生动物摄影的独家数据与场景洞察。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Stunning Camera Trap Survey Captures Elusive Snow Leopards Across China"
+    },
+    {
+      "id": "recvoHzrvyqmMR",
+      "title": "松下L10装不进你的口袋，但这是有充分理由的？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/opinion/9845377376/the-panasonic-l10-won-t-fit-in-your-pocket-but-with-good-reason",
+      "publish_time": "2026-07-07T22:00:00+08:00",
+      "summary": "松下L10因电池体积增大导致机身比LX100系列更大，与最小可换镜头相机尺寸相当，引发对其存在意义的质疑。",
+      "recommendation": "深度剖析松下L10体积增大的设计取舍，提供电池尺寸与机身对比的独家数据，对关注便携相机与性能平衡的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Panasonic L10 won't fit in your pocket, but with good reason?"
+    },
+    {
+      "id": "recvoHzh5U23Hu",
+      "title": "阿莱新款Alexa 35 Live Xtreme旨在变革体育转播",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/arris-new-alexa-35-live-xtreme-aims-to-transform-sports-broadcasts/",
+      "publish_time": "2026-07-07T21:42:59+08:00",
+      "summary": "Arri推出Alexa 35 Live Xtreme相机，旨在变革体育转播，这是其新所有权时代首款产品。",
+      "recommendation": "解析Arri体育转播新机，揭示广播级影像技术下放趋势，含传感器与帧率参数，适合关注专业影像动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Arri’s New Alexa 35 Live Xtreme Aims to Transform Sports Broadcasts"
+    },
+    {
+      "id": "recvoHzBJe4Te0",
+      "title": "After winning 800+ international awards, this drone photographer claims another major photography prize – \"I am committed to ethical practices that preserve the integrity of the photograph,\" he says",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/after-winning-800-international-awards-this-drone-photographer-claims-another-major-photography-prize-i-am-committed-to-ethical-practices-that-preserve-the-integrity-of-the-photograph-he-says",
+      "publish_time": "2026-07-07T21:23:22+08:00",
+      "summary": "大疆无人机摄影师获2026国际航拍奖，强调道德实践保护摄影完整性，已获800+国际奖项。",
+      "recommendation": "800+国际奖项的航拍师分享获奖心得，强调道德实践保护影像完整性，对无人机摄影爱好者有技术伦理参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "After winning 800+ international awards, this drone photographer claims another major photography prize – \"I am committed to ethical practices that preserve the integrity of the photograph,\" he says"
+    },
+    {
+      "id": "recvoHzOhEu4Dv",
+      "title": "确认：索尼FX5将于7月22日发布！！！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-will-be-announced-in-july-22/",
+      "publish_time": "2026-07-07T21:22:21+08:00",
+      "summary": "索尼FX5相机将于7月22日伦敦时间下午3点发布，作者将进行实时博客和视频直播，早期测试者评价积极。",
+      "recommendation": "索尼FX5发布确认，提供实时直播与早期测试者评价，对关注新机动态的影像爱好者有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Confirmed: Sony FX5 will be announced in July 22 !!!"
+    },
+    {
+      "id": "recvoHzQS84b3N",
+      "title": "WANDRD 在 Kickstarter 上发布了未来相机背带",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/07/wandrd-just-announced-the-camera-strap-of-the-future-on-kickstarter/",
+      "publish_time": "2026-07-07T21:00:00+08:00",
+      "summary": "WANDRD在Kickstarter发布新型相机背带系统，兼顾时尚与实用，满足摄影师需求。",
+      "recommendation": "WANDRD在Kickstarter推出新型相机背带，解析其时尚设计与实用功能结合点，提供摄影师配件选购新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "WANDRD Just Announced the Camera Strap of the Future on Kickstarter"
+    },
+    {
+      "id": "recvoHzjK3DpYq",
+      "title": "英国国王和王后正在招聘一名摄像师",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/the-king-and-queen-of-england-are-hiring-a-videographer/",
+      "publish_time": "2026-07-07T20:38:26+08:00",
+      "summary": "英国国王查尔斯三世招聘摄像师拍摄宣传内容，此前王室曾雇佣擦屁股侍从和风笛手等奇特职位。",
+      "recommendation": "王室招聘摄像师，揭示高端影像岗位需求与技能要求，为从业者提供职业参考。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The King and Queen of England Are Hiring a Videographer"
+    },
+    {
+      "id": "recvoHzEgL6ofk",
+      "title": "英国数字时代前标志性流行文化摄影师Trevor Key遗作由Sigma出版",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/iconic-pre-digital-british-pop-culture-photographer-trevor-key-gets-posthumous-book-published-by-sigma",
+      "publish_time": "2026-07-07T20:19:19+08:00",
+      "summary": "特雷弗·基的前数字视觉艺术技术及与彼得·萨维尔的合作，由西格玛基金会八月出版",
+      "recommendation": "回顾Trevor Key前数字时代的视觉技术，解析与Peter Saville的合作细节，为影像爱好者提供胶片与数字过渡期的创作灵感。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Iconic pre-digital British pop culture photographer Trevor Key gets posthumous book published by Sigma"
+    },
+    {
+      "id": "recvoHzoZLaI1e",
+      "title": "Nothing Phone (4b) 配备长续航电池、骁龙6 Gen 4芯片和Glyph Bar灯带",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_nothing_phone_4b_has_a_longlasting_battery_snapdragon_6_gen_4_chip_and_a_glyph_bar-news-73609.php",
+      "publish_time": "2026-07-07T19:54:03+08:00",
+      "summary": "Nothing Phone (4b) 发布，定位介于4a和3a Lite之间，配备骁龙6 Gen 4芯片、Glyph Bar灯带，全球版5200mAh电池，印度版6000mAh，支持33W有线充电和7",
+      "recommendation": "文章披露Nothing Phone (4b)的电池容量差异（印度版6000mAh）及骁龙6 Gen 4芯片性能，对关注中端机型续航与影像处理能力的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Nothing Phone (4b) has a long-lasting battery, Snapdragon 6 Gen 4 chip and a Glyph Bar"
+    },
+    {
+      "id": "recvoHzTz5cTaT",
+      "title": "CIPA：单反相机略有回暖",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/07/cipa-are-dslr-beat-their-own-trend-in-may/",
+      "publish_time": "2026-07-07T18:59:12+08:00",
+      "summary": "CIPA数据显示相机市场降温，但单反相机销售出现回暖趋势。",
+      "recommendation": "CIPA最新数据揭示单反市场逆势回暖，为影像爱好者提供购买决策参考。文章包含独家行业销售统计，分析单反复苏背后的用户需求变化。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "CIPA: The DSLR Made a Bit of a Comeback"
+    },
     {
       "id": "recvoGhmDgeOlE",
       "title": "索尼A7 V不再是王者：6680万像素怪兽跃居美国相机销量榜首，势不可挡的爆款柯达Charmera紧随其后",
@@ -88,6 +321,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "This TIPA World Award-winning compact camera is finally on sale – and it rarely gets discounted"
+    },
+    {
+      "id": "recvoHzGCJmFqW",
+      "title": "这款TIPA世界大奖获奖的紧凑型相机终于开售——还罕见降价！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-tipa-world-award-winning-compact-camera-is-finally-on-sale-and-it-rarely-gets-discounted",
+      "publish_time": "2026-07-07T17:34:12+08:00",
+      "summary": "TIPA获奖紧凑型相机开售并降价300英镑，保留核心技术参数，性价比极高。",
+      "recommendation": "TIPA获奖紧凑型相机罕见降价300英镑，保留核心参数，为追求便携与画质的用户提供高性价比选择。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This TIPA World Award-winning compact camera is finally on sale – and it gets a rare price cut!"
     },
     {
       "id": "recvoGhb9igJMx",
@@ -570,6 +819,21 @@
       "original_title": "Has the compact camera trend already stalled? Camera numbers are down across every major category in the latest data from Japan"
     },
     {
+      "id": "recvoHzJ8laEOe",
+      "title": "相机销量在2026年第二次下滑，但日本最新数据显示这一热门品类也出现下降",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/has-the-compact-camera-trend-already-stalled-camera-numbers-are-down-across-every-major-category-in-the-latest-data-from-japan",
+      "publish_time": "2026-07-07T00:05:00+08:00",
+      "summary": "2026年5月CIPA数据显示，所有主要相机类别出货量均下滑，包括此前热门品类也出现下降。",
+      "recommendation": "CIPA最新数据揭示2026年相机市场全品类下滑，包括此前热门品类，为影像爱好者提供行业趋势的量化参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Camera sales have dropped for the second time in 2026, but the latest numbers from Japan even show a decline in this trending category"
+    },
+    {
       "id": "recvoBS4vT916w",
       "title": "尼康会再次复活其紧凑型相机吗？",
       "source": "ThePhoBlographer",
@@ -912,6 +1176,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "This compact camera has been popular for 8 years – now its updated version tops Japan's charts with just one minor change from the original"
+    },
+    {
+      "id": "recvoHzLF8GLiV",
+      "title": "这款紧凑型相机火了8年——更新版几乎没变，却登顶日本销量榜",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-compact-camera-has-been-popular-for-7-years-now-its-updated-version-tops-japans-charts-with-just-one-minor-change-from-the-original",
+      "publish_time": "2026-07-06T17:54:50+08:00",
+      "summary": "佳能2018年推出的口袋型超级变焦相机升级版，几乎未变却登顶日本紧凑型相机销量榜",
+      "recommendation": "解析佳能8年未变机型登顶日本销量榜的行业现象，提供市场数据与用户偏好分析，适合关注紧凑相机趋势的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This compact camera has stayed popular for 8 years – and its updated version tops Japan's sales charts despite changing very little"
     },
     {
       "id": "recvoAHjqeZg4b",
@@ -7555,288 +7835,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Popular DJI Flip drone falls to its lowest price ever - and can shoot 4K aerial video and 48-megapixel photos"
-    },
-    {
-      "id": "recvntxo7367V7",
-      "title": "这款（腾龙？）广角变焦镜头将于7月3日左右发布",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/this-tamron-wide-angle-zoom-will-be-announced-around-july-3/",
-      "publish_time": "2026-06-24T20:00:48+08:00",
-      "summary": "腾龙新款广角变焦镜头预计7月3日发布，此前误判为适马产品，现确认为腾龙新镜头。",
-      "recommendation": "确认腾龙广角变焦镜头7月3日发布，修正此前适马误判，提供确切发布时间和品牌归属，对关注新品动态的摄影爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This (Tamron?) wide angle zoom will be announced around July 3"
-    },
-    {
-      "id": "recvntwLAx4WVV",
-      "title": "野外相机捕捉到北美最难以捉摸的哺乳动物之一：环尾猫",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/24/trail-camera-captures-one-of-north-americas-most-elusive-mammals-the-ringtail/",
-      "publish_time": "2026-06-24T19:16:52+08:00",
-      "summary": "美国太平洋西北地区野外监控摄像头捕捉到环尾猫，这是该区域最难以捉摸的哺乳动物之一。",
-      "recommendation": "野外监控摄像头捕捉环尾猫，展示设备在低光环境下的成像能力，提供罕见野生动物行为数据，对生态摄影爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Trail Camera Captures One of North America’s Most Elusive Mammals: The Ringtail"
-    },
-    {
-      "id": "recvntwOcAGMIe",
-      "title": "美国世界杯场馆查获超300架无人机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/24/authorities-seize-over-300-drones-at-us-world-cup-venues/",
-      "publish_time": "2026-06-24T18:24:30+08:00",
-      "summary": "世界杯开赛不到两周，美国机构在FIFA场馆附近扣押超300架无人机。",
-      "recommendation": "常规资讯，可了解行业动态。文章提供世界杯场馆无人机管控数据，对航拍爱好者了解大型活动禁飞政策有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Authorities Seize Over 300 Drones at US World Cup Venues"
-    },
-    {
-      "id": "recvntx76Lafks",
-      "title": "唯卓仕一直生产高性价比镜头，但这次Prime Day的惊人优惠让它们成为绝对超值之选！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-has-always-made-top-value-lenses-but-with-these-stunning-prime-day-deals-they-are-absolute-bargains",
-      "publish_time": "2026-06-24T18:15:03+08:00",
-      "summary": "唯卓仕高性价比镜头在Prime Day享额外20%折扣，本就低廉的价格使其成为绝对超值之选。",
-      "recommendation": "Prime Day唯卓仕镜头额外20%折扣数据，为预算有限的影像爱好者提供高性价比镜头选购参考，含具体优惠幅度。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox has always made top-value lenses, but with these stunning Prime Day Deals, they are absolute bargains!"
-    },
-    {
-      "id": "recvntxixM9HGN",
-      "title": "Neewer Q120闪光灯评测：摄影爱好者的出色选择",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/24/neewer-q120-flash-review-a-great-flash-for-aspiring-photographers/",
-      "publish_time": "2026-06-24T18:00:00+08:00",
-      "summary": "Neewer Q120闪光灯评测：摄影爱好者的出色选择，保留核心技术参数，一句话概括核心价值。",
-      "recommendation": "实测Neewer Q120闪光灯，保留核心参数，提供实拍样张与拆机细节，对摄影爱好者选购副厂灯有具体参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Neewer Q120 Flash Review: A Great Flash for Aspiring Photographers"
-    },
-    {
-      "id": "recvnsdZKPcE3J",
-      "title": "摄影师仍在使用20年前的镜头：一款意外变焦镜头登顶日本最潮复古镜头榜单，证明相机技术老化速度不同",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/photographers-are-still-using-20-year-old-lenses-as-an-unexpected-zoom-tops-japans-list-of-the-trendiest-retro-lenses-proving-that-some-camera-tech-ages-differently",
-      "publish_time": "2026-06-24T16:19:09+08:00",
-      "summary": "日本市场统计显示，一款20年前的意外变焦镜头登顶最受欢迎复古镜头榜单，证明相机技术老化速度不同，核心价值在于揭示老镜头仍具竞争力。",
-      "recommendation": "日本市场数据揭示20年前变焦镜头登顶复古榜，提供老镜头竞争力实证，适合关注镜头保值与光学设计的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographers are still using 20-year-old lenses as an unexpected zoom tops Japan’s list of the trendiest retro lenses, proving that some camera tech ages differently"
-    },
-    {
-      "id": "recvnse25l0Mwt",
-      "title": "Meta与依视路陆逊梯卡合作推出Meta眼镜",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/meta_glasses_unveiled_in_partnership_with_essilorluxottica-news-73413.php",
-      "publish_time": "2026-06-24T16:11:02+08:00",
-      "summary": "Meta与依视路陆逊梯卡合作推出Meta Glasses，配备12MP摄像头，支持3K视频和3024x4032像素照片，提供三种镜框款式及Kylie Jenner联名版。",
-      "recommendation": "Meta眼镜搭载12MP摄像头，支持3K视频与3024x4032像素照片，提供三种镜框及联名版，对关注可穿戴影像设备者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Meta Glasses unveiled in partnership with EssilorLuxottica"
-    },
-    {
-      "id": "recvnse6BJidO3",
-      "title": "让你的风光摄影脱颖而出的秘诀",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/24/how-to-make-your-landscape-images-look-like-paintings-in-camera-copy/",
-      "publish_time": "2026-06-24T15:00:00+08:00",
-      "summary": "让风光摄影作品脱颖而出的秘诀是将其变成画作效果，在相机中实现而非后期处理，以避免常见的Photoshop外观。",
-      "recommendation": "文章提出在相机内实现画作效果而非后期处理，避免常见PS痕迹，对追求自然风光美学的爱好者有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Trick to Make Your Landscape Photography Stand Out"
-    },
-    {
-      "id": "recvnsdUIuARTG",
-      "title": "佳能EOS R6 V及RF 20-50 f/4L IS PZ镜头现货发售，可立即发货",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/the-canon-eos-r6-v-rf-20-50-f-4l-is-pz-are-in-stock-and-ready-to-ship/",
-      "publish_time": "2026-06-24T14:57:30+08:00",
-      "summary": "佳能EOS R6 V相机及RF 20-50mm f/4 L IS USM PZ镜头现货发售，已开始发货，早于预期。",
-      "recommendation": "佳能EOS R6 V及RF 20-50mm f/4L镜头现货发售，早于预期，为视频创作者提供即时入手机会，含镜头PZ电动变焦特性解析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Canon EOS R6 V & RF 20-50 f/4L IS PZ are in Stock and Ready to Ship"
-    },
-    {
-      "id": "recvnse4oUgVb2",
-      "title": "Oppo Find X10 Ultra相机首批细节曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/first_details_about_the_oppo_find_x10_ultras_cameras_have_emerged-news-73410.php",
-      "publish_time": "2026-06-24T14:40:03+08:00",
-      "summary": "OPPO Find X10 Ultra相机首批细节曝光，长焦镜头升级，相比Find X9 Ultra的5000万像素潜望式长焦和10倍光变，新机参数待揭晓。",
-      "recommendation": "曝光Find X10 Ultra长焦升级细节，对比X9 Ultra的5000万像素潜望与10倍光变，为关注旗舰手机长焦演进的用户提供参数迭代线索。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "First details about the Oppo Find X10 Ultra's cameras have emerged"
-    },
-    {
-      "id": "recvnsdXp14FbQ",
-      "title": "腾龙为RF卡口增添新成员：APS-C画幅17-70mm f/2.8 Di III-A VC RXD镜头",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/tamron-adds-to-their-rf-lineup-with-the-17-70mm-f-2-8-di-iii-a-vc-rxd-for-aps-c/",
-      "publish_time": "2026-06-24T14:37:30+08:00",
-      "summary": "腾龙发布适用于佳能RF和尼康Z卡口的APS-C画幅17-70mm f/2.8 VC RXD镜头，等效27-112mm，具备防抖和快速对焦功能。",
-      "recommendation": "RF卡口APS-C用户迎来新选择，17-70mm f/2.8 VC RXD提供等效27-112mm实用焦段与防抖，适合日常与旅行拍摄。常规资讯，可了解腾龙镜头生态扩展动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tamron Adds to their RF Lineup With the 17-70mm f/2.8 Di III-A VC RXD for APS-C"
-    },
-    {
-      "id": "recvnse8NijehD",
-      "title": "欧洲亚马逊Prime Day新优惠",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-european-amazon-prime-day-deals/",
-      "publish_time": "2026-06-24T14:13:50+08:00",
-      "summary": "亚马逊多国站点推出Prime Day新优惠，德国站索尼相机镜头大幅降价，唯卓仕、七工匠等第三方镜头享20%折扣。",
-      "recommendation": "Prime Day期间索尼相机镜头及唯卓仕等第三方镜头降价，提供具体折扣数据，适合计划购入影像设备的爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New European Amazon Prime Day Deals"
-    },
-    {
-      "id": "recvnqXvV355XR",
-      "title": "腾龙发布尼康Z卡口新款17-70mm f/2.8 Di III-A VC RXD镜头",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/23/tamron-announced-a-new-17-70mm-f-2-8-di-iii-a-vc-rxd-lens-or-nikon-z-mount.aspx/",
-      "publish_time": "2026-06-24T11:26:17+08:00",
-      "summary": "腾龙发布尼康Z卡口新款17-70mm f/2.8镜头，APS-C画幅，4.1倍变焦比，内置VC防抖，型号B070。",
-      "recommendation": "APS-C画幅4.1倍变焦比，f/2.8恒定光圈配VC防抖，尼康Z卡口用户关注的标准变焦新选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tamron announced a new 17-70mm f/2.8 Di III-A VC RXD lens for Nikon Z-mount"
-    },
-    {
-      "id": "recvnqXmLD2xzL",
-      "title": "尼康和佳能的APS-C画幅相机迎来一款多功能新镜头",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/6760897095/tamron-17-70mm-f2p8-rf-z-mount-canon-nikon",
-      "publish_time": "2026-06-24T11:00:00+08:00",
-      "summary": "腾龙将17-70mm F2.8 APS-C镜头引入佳能RF和尼康Z卡口，提供26-105mm（尼康）或28-112mm（佳能）等效焦距，性能与2020年E卡口版本相同",
-      "recommendation": "腾龙17-70mm F2.8 APS-C镜头扩展至佳能RF和尼康Z卡口，提供等效26-105mm/28-112mm实用焦段。文章含卡口适配性能对比数据，对双系统用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon and Canon's APS-C cameras are getting a versatile new lens"
-    },
-    {
-      "id": "recvnqXp4adwza",
-      "title": "腾龙17-70mm f/2.8终于登陆佳能RF和尼康Z卡口——我预测这款罕见的一镜恒定光圈变焦镜头将极受欢迎",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-tamron-17-70mm-f-2-8-is-finally-coming-to-the-canon-rf-and-nikon-z-camera-mounts-and-im-predicting-this-rare-all-in-one-constant-aperture-zoom-is-going-to-be-incredibly-popular",
-      "publish_time": "2026-06-24T11:00:00+08:00",
-      "summary": "腾龙17-70mm f/2.8镜头登陆佳能RF和尼康Z卡口，为APS-C画幅提供罕见的一镜恒定光圈变焦选择，预计极受欢迎。",
-      "recommendation": "腾龙17-70mm f/2.8登陆RF/Z卡口，为APS-C用户提供罕见恒定光圈变焦方案。文章分析其市场潜力，对关注卡口生态和镜头选择的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Tamron 17-70mm f/2.8 is finally coming to the Canon RF and Nikon Z camera mounts – and I’m predicting this rare all-in-one constant aperture zoom is going to be incredibly popular"
-    },
-    {
-      "id": "recvnqXtviUbnT",
-      "title": "腾龙为RF和Z用户推出4.1倍变焦镜头，打破技术壁垒",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/23/tamron-breaks-barriers-with-its-4-1x-zoom-lens-for-rf-and-z-users/",
-      "publish_time": "2026-06-24T11:00:00+08:00",
-      "summary": "腾龙为佳能RF和尼康Z用户推出4.1倍广角变焦镜头，打破技术壁垒，提供全画幅兼容的高性能变焦方案。",
-      "recommendation": "解析腾龙4.1倍变焦镜头如何打破RF/Z卡口技术壁垒，提供全画幅兼容方案，含具体焦段与光圈数据，适合关注副厂镜头生态的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tamron Breaks Barriers With Its 4.1x Zoom Lens for RF and Z Users"
-    },
-    {
-      "id": "recvnqXrey0sCH",
-      "title": "EIZO发布两款曲面超宽显示器",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/monitors/eizo-announces-two-new-curved-ultrawide-monitors",
-      "publish_time": "2026-06-24T07:00:43+08:00",
-      "summary": "EIZO发布两款曲面超宽显示器，并加倍致力于质量承诺，提升视觉体验与可靠性。",
-      "recommendation": "EIZO曲面显示器虽非影像核心设备，但超宽屏对后期调色与多窗口工作流有实用价值。文章强调质量承诺，适合关注专业显示器的影像从业者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "EIZO announces two new curved ultrawide monitors"
-    },
-    {
-      "id": "recvnqXfxVLJaW",
-      "title": "Adobe AI助手希望为摄影师腾出更多时间进行实际创意工作",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/adobes-ai-assistant-wants-to-give-photographers-more-time-for-actual-creative-tasks/",
-      "publish_time": "2026-06-24T05:49:00+08:00",
-      "summary": "Adobe将AI助手集成至Creative Cloud，用户可通过Firefly驱动在Premiere、Photoshop等软件中指示AI编辑媒体，旨在节省时间用于创意工作",
-      "recommendation": "解析Adobe Firefly驱动AI助手如何融入Creative Cloud，为摄影师节省后期时间。文中未提供独家数据，但展示了AI在Premiere、Photoshop中的实际编辑指令，适合关注计算摄影效率提升的读者。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Adobe’s AI Assistant Wants to Give Photographers More Time for Actual Creative Tasks"
     }
   ]
 }
