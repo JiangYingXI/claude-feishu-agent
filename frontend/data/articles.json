@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-07T12:39:48.624880+08:00",
+    "updated_at": "2026-07-07T18:15:23.411315+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 28
+      "count": 31
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 114
+      "count": 113
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,217 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 393
+      "count": 390
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 191
+      "count": 194
     }
   ],
   "articles": [
+    {
+      "id": "recvoGhmDgeOlE",
+      "title": "索尼A7 V不再是王者：6680万像素怪兽跃居美国相机销量榜首，势不可挡的爆款柯达Charmera紧随其后",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/the-sony-a7-v-is-no-longer-king-as-66-8mp-monster-jumps-to-the-top-of-camera-sales-charts-in-the-us-followed-by-the-unstoppable-viral-kodak-charmera",
+      "publish_time": "2026-07-07T18:00:00+08:00",
+      "summary": "索尼A7 V不再领先，6680万像素新机登顶美国相机销量榜，柯达Charmera紧随其后",
+      "recommendation": "文章披露索尼A7 V被6680万像素新机反超的销量数据，并提及柯达Charmera黑马表现，对关注相机市场格局变化的用户有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Sony A7 V is no longer king as 66.8MP monster jumps to the top of camera sales charts in the US, followed by the unstoppable viral Kodak Charmera"
+    },
+    {
+      "id": "recvoGhFzOm3zp",
+      "title": "模拟胶片摄影师的专属折扣",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/07/a-special-discount-for-analog-film-photographers/",
+      "publish_time": "2026-07-07T18:00:00+08:00",
+      "summary": "Phoblographer为会员推出Blue Moon Camera胶片冲印扫描10%折扣优惠，该品牌值得信赖。",
+      "recommendation": "胶片爱好者可获Blue Moon Camera冲印扫描10%折扣，品牌信誉可靠，提供实用省钱信息。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A Special Discount for Analog Film Photographers"
+    },
+    {
+      "id": "recvoGhpcZJVFK",
+      "title": "这款获TIPA世界大奖的紧凑型相机终于开售——而且它很少打折",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-tipa-world-award-winning-compact-camera-is-finally-on-sale-and-it-rarely-gets-discounted",
+      "publish_time": "2026-07-07T17:34:12+08:00",
+      "summary": "获TIPA大奖的紧凑型相机降价300英镑开售，性能卓越且罕见打折，是摄影爱好者的高性价比选择",
+      "recommendation": "TIPA获奖紧凑相机罕见降价300英镑，解析其性能优势与性价比，为追求便携高画质的用户提供选购参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This TIPA World Award-winning compact camera is finally on sale – and it rarely gets discounted"
+    },
+    {
+      "id": "recvoGhb9igJMx",
+      "title": "在此观看 Nothing Phone (4b) 和 Ear (3a) 发布直播",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/watch_the_nothing_phone_4b_and_ear_3a_announcement_livestream_here-news-73602.php",
+      "publish_time": "2026-07-07T17:28:02+08:00",
+      "summary": "Nothing今日发布首款(b)手机Phone (4b)及Ear (3a)耳机。Phone (4b)搭载骁龙6 Gen 4芯片，双摄与LED灯条，有蓝色和哑光红色版本。",
+      "recommendation": "常规资讯，可了解Nothing Phone (4b)影像配置：骁龙6 Gen 4芯片与双摄组合，未透露传感器型号与光圈数据，适合关注品牌动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Watch the Nothing Phone (4b) and Ear (3a) announcement livestream here"
+    },
+    {
+      "id": "recvoGhCTLanZ6",
+      "title": "索尼新RIALTO 65传感器看起来“疯狂”",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-sony-rialto-65-sensor-looks-insane/",
+      "publish_time": "2026-07-07T17:24:38+08:00",
+      "summary": "CVP深入探讨索尼新RIALTO 65传感器功能，该传感器性能强大，被视为“疯狂”创新，核心价值在于提升影像质量。",
+      "recommendation": "CVP深度解析索尼RIALTO 65传感器性能，提供独家技术细节与影像质量提升数据，对关注传感器创新的爱好者有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "New Sony RIALTO 65 sensor looks “insane”"
+    },
+    {
+      "id": "recvoGhrEgIoOE",
+      "title": "热门便携相机标价上涨，但理光GR IV新定价并非全因趋势所致",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/a-popular-compact-camera-has-jumped-in-list-price-but-trends-arent-entirely-to-blame-for-the-new-ricoh-gr-iv-prices",
+      "publish_time": "2026-07-07T16:50:00+08:00",
+      "summary": "理光GR系列紧凑型相机因制造成本上升在多地提价，但GR IV新定价并非全因趋势所致",
+      "recommendation": "解析理光GR IV定价策略，揭示成本上涨外的深层行业逻辑，为便携相机爱好者提供市场趋势参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A popular compact camera has jumped in list price. But trends aren’t entirely to blame for the new Ricoh GR IV prices"
+    },
+    {
+      "id": "recvoGhuqapYr5",
+      "title": "228克复古紧凑相机登顶日本二手相机市场——750克单反仍具竞争力",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/a-228g-cult-compact-camera-tops-major-japanese-used-camera-market-while-750g-dslrs-still-hold-strong",
+      "publish_time": "2026-07-07T16:18:37+08:00",
+      "summary": "228克复古紧凑相机登顶日本二手市场，750克单反仍具竞争力，无反相机虽轻便但市场格局碎片化。",
+      "recommendation": "日本二手相机市场最新榜单揭示228克复古机与750克单反的竞争格局，提供重量级产品市场表现数据，适合关注轻量化趋势与二手行情的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A 228g cult compact camera tops major Japanese used camera market – while 750g DSLRs still hold strong"
+    },
+    {
+      "id": "recvoGhei8XaNn",
+      "title": "荣耀大折叠屏关键规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_wide_foldables_key_specifications_leak-news-73600.php",
+      "publish_time": "2026-07-07T15:30:01+08:00",
+      "summary": "荣耀宽屏折叠手机Magic V6工程原型机将搭载2nm骁龙8 Elite Gen 6处理器，开发加速，对标苹果和三星折叠屏。",
+      "recommendation": "曝光荣耀Magic V6工程机搭载2nm处理器，虽未直接涉及影像，但折叠屏形态对计算摄影布局有参考价值，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor wide foldable's key specifications leak"
+    },
+    {
+      "id": "recvoGhxerH2Ju",
+      "title": "WWF利用红外相机揭示最神秘大型猫科动物——‘雪山幽灵’的新面貌",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/wwf-uses-trail-cameras-to-shed-new-light-on-the-worlds-most-elusive-big-cat-the-ghost-of-the-mountain",
+      "publish_time": "2026-07-07T15:05:00+08:00",
+      "summary": "世界自然基金会利用红外相机揭示雪豹新面貌，这种最神秘大型猫科动物仅22%栖息地被记录，被称为“雪山幽灵”",
+      "recommendation": "红外相机技术揭秘雪豹生存实况，提供仅22%栖息地记录数据，对野生动物摄影爱好者有独特参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "WWF uses trail cameras to shed new light on the world’s most elusive big cat - the ‘Ghost of the Mountain’"
+    },
+    {
+      "id": "recvoGhIb3buMM",
+      "title": "人像摄影镜头对比：35mm vs 50mm vs 85mm",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/07/a-visual-guide-to-how-35mm-50mm-and-85mm-lenses-differ-for-portrait-photography-copy/",
+      "publish_time": "2026-07-07T15:00:00+08:00",
+      "summary": "文章对比35mm、50mm和85mm人像镜头，指出50mm和35mm畸变更小、观感更佳，强调现代镜头质量提升，核心在于选择适合的焦距。",
+      "recommendation": "对比35/50/85mm人像镜头畸变与观感差异，强调现代镜头质量提升，核心是焦距选择，适合人像爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "35 vs 50 vs 85mm for Portrait Photography"
+    },
+    {
+      "id": "recvoGhh5jUP1m",
+      "title": "iQOO Z11 Lite 发布前设计曝光，iQOO 16 传闻将跳过印度市场",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_z11_lite_design_revealed-news-73599.php",
+      "publish_time": "2026-07-07T14:34:03+08:00",
+      "summary": "iQOO Z11 Lite设计曝光，采用垂直摄像头模组，面向学生和Z世代，由AI驱动，旨在脱颖而出。",
+      "recommendation": "曝光iQOO Z11 Lite垂直摄像头设计，面向学生与Z世代，AI驱动影像策略值得关注，但缺乏具体传感器参数。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iQOO Z11 Lite's design revealed ahead of launch, iQOO 16 rumored to skip India"
+    },
+    {
+      "id": "recvoGhAaYzmqH",
+      "title": "尼康DL系列死而复生？1英寸高端便携相机传闻再起",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/doomed-nikon-dl-to-make-stunning-comeback-following-1-inch-premium-compact-camera-rumor",
+      "publish_time": "2026-07-07T14:10:00+08:00",
+      "summary": "传闻尼康开发1英寸传感器固定镜头相机，引发对高端便携相机市场前景的讨论",
+      "recommendation": "追踪尼康DL系列传闻，分析1英寸高端便携相机市场前景，提供行业动态与产品洞察，适合关注小众相机发展的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Doomed Nikon DL to make stunning comeback following 1-inch premium compact camera rumor?"
+    },
+    {
+      "id": "recvoGhjUtg8d2",
+      "title": "全球版vivo X500 Pro Max发布前获认证",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/global_vivo_x500_pro_max_gets_certified_before_launch-news-73596.php",
+      "publish_time": "2026-07-07T12:30:03+08:00",
+      "summary": "vivo X500 Pro Max全球版获印尼TKDN认证，型号V2610，预计9月中国发布，配备6.85英寸2K 144Hz LIPO OLED屏和50MP主摄",
+      "recommendation": "全球版vivo X500 Pro Max获印尼认证，确认50MP主摄与6.85英寸2K 144Hz LIPO OLED屏，为影像爱好者提供旗舰配置的早期确认，属常规行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Global vivo X500 Pro Max gets certified before launch"
+    },
     {
       "id": "recvoEVefSxdyU",
       "title": "适马经典85mm镜头的魅力",
@@ -7635,206 +7837,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Adobe’s AI Assistant Wants to Give Photographers More Time for Actual Creative Tasks"
-    },
-    {
-      "id": "recvnqXi1fe2is",
-      "title": "PGYTECH OneGo Roamer：一款出色的混合型相机包",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/the-pgytech-onego-roamer-is-an-excellent-hybrid-camera-bag/",
-      "publish_time": "2026-06-24T04:42:10+08:00",
-      "summary": "PGYTECH OneGo Roamer Tote背包提供18L和25L容量，可在专业相机背包与休闲手提方案间切换，兼具功能与实用性",
-      "recommendation": "详解PGYTECH OneGo Roamer的18L/25L双容量与背包手提切换设计，提供混合型相机包实用方案，适合日常通勤与轻摄影场景。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The PGYTECH OneGo Roamer Is an Excellent Hybrid Camera Bag"
-    },
-    {
-      "id": "recvnoXRQGaRMn",
-      "title": "Westcott 新款更耐用的 V-Flat 摒弃泡沫芯",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/westcotts-new-more-durable-v-flat-is-ditches-the-foam-core/",
-      "publish_time": "2026-06-24T04:28:24+08:00",
-      "summary": "Westcott推出更耐用的便携式V-Flat系统，采用可折叠铝制框架和可清洗织物表面，替代传统泡沫芯，适合工作室与外景移动使用",
-      "recommendation": "Westcott用铝架织物替代传统泡沫芯，提升耐用性与便携性，适合外拍用户。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Westcott’s New More Durable V-Flat Is Ditches the Foam Core"
-    },
-    {
-      "id": "recvnqXkiPTU3a",
-      "title": "Westcott 新款更耐用的 V-Flat 摒弃泡沫芯",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/westcotts-new-more-durable-v-flat-is-ditches-the-foam-core/",
-      "publish_time": "2026-06-24T04:28:24+08:00",
-      "summary": "Westcott 推出新款 V-Flat 系统，采用可折叠铝制框架和可清洗织物表面，比传统泡沫芯更耐用，专为影棚与外景移动使用的创作者设计。",
-      "recommendation": "介绍Westcott V-Flat铝框织物替代泡沫芯方案，提供耐用性与便携性数据，适合外拍用户参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Westcott’s New More Durable V-Flat Ditches the Foam Core"
-    },
-    {
-      "id": "recvnoXU50aMxM",
-      "title": "Prime Day最佳相机优惠",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/the-best-prime-day-deals-on-cameras/",
-      "publish_time": "2026-06-24T03:43:04+08:00",
-      "summary": "Prime Day期间，相机优惠涵盖拍立得到专业级数码相机，提供多种诱人选择，适合不同摄影需求。",
-      "recommendation": "Prime Day相机优惠汇总，涵盖拍立得至专业级，提供具体机型与折扣数据，适合有购买需求的影像爱好者快速决策。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Prime Day Deals on Cameras"
-    },
-    {
-      "id": "recvnoXWt2S2U2",
-      "title": "GoPro Mission 1 Pro评测：迄今最佳运动相机，但足够了吗？",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/gopro-mission-1-pro-review-the-best-action-camera-yet-but-is-it-enough/",
-      "publish_time": "2026-06-24T03:30:40+08:00",
-      "summary": "GoPro Mission 1 Pro售价699美元，面临大疆和Insta360激烈竞争，利润下滑，近两年未发旗舰，此款相机是其扭转局面的最佳机会。",
-      "recommendation": "深度解析GoPro旗舰运动相机，对比大疆、Insta360竞争格局，提供利润下滑与两年未发旗舰的行业数据，对运动相机爱好者有决策参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "GoPro Mission 1 Pro Review: The Best Action Camera Yet, But Is It Enough?"
-    },
-    {
-      "id": "recvnoYjsgOduu",
-      "title": "佳能备受喜爱的EOS RP在多年辉煌后终获安息",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/23/canons-beloved-eos-rp-earns-its-rip-after-years-of-glory/",
-      "publish_time": "2026-06-24T03:00:00+08:00",
-      "summary": "佳能EOS RP微单相机因市场更新而停产，其全画幅设计、轻便机身及高性价比曾受摄影师青睐，现正式告别",
-      "recommendation": "回顾EOS RP停产，分析其全画幅轻便设计对入门用户的价值，提供市场更新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon’s Beloved EOS RP Earns Its RIP After Years of Glory"
-    },
-    {
-      "id": "recvnoY5hQLPo2",
-      "title": "大疆Osmo Pocket 3彻底改变度假视频拍摄——亚马逊Prime大促期间仅售277英镑！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/the-dji-osmo-pocket-3-changed-vacation-videos-forever-and-its-now-an-incredible-gbp277-during-the-amazon-prime-sale",
-      "publish_time": "2026-06-24T02:52:11+08:00",
-      "summary": "大疆Osmo Pocket 3在亚马逊Prime大促期间仅售277英镑，这款小型相机能彻底改变度假视频拍摄，让手机视频相形见绌。",
-      "recommendation": "文章聚焦大疆Osmo Pocket 3在Prime大促的277英镑价格，对比手机视频拍摄效果，提供具体促销信息与产品升级价值，适合关注便携影像设备的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The DJI Osmo Pocket 3 changed vacation videos forever - and it's now an incredible £277 during the Amazon Prime Sale!"
-    },
-    {
-      "id": "recvnoYh7zNMxU",
-      "title": "B&H Photo反击：推出自家3日限时特惠",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/bh-photo-strikes-back-with-its-one-3-day-only-deals/",
-      "publish_time": "2026-06-24T02:34:59+08:00",
-      "summary": "B&H Photo推出3日限时夏季促销，反击亚马逊Prime Day，涵盖富士、Apple、SanDisk等品牌，首日畅销包括SanDisk 512GB等商品。",
-      "recommendation": "B&H Photo限时促销覆盖富士、Apple等品牌，SanDisk 512GB等热门影像存储产品首日畅销，为影像爱好者提供直接比价与选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "B&H Photo Strikes Back with Its Own 3 Day Only Deals"
-    },
-    {
-      "id": "recvnoY7wskyZC",
-      "title": "佳能PowerShot V10在亚马逊Prime大促中降价至379美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camcorders/canon-powershot-v10-gets-price-cut-to-usd379-in-the-amazon-prime-sale",
-      "publish_time": "2026-06-24T02:31:33+08:00",
-      "summary": "佳能PowerShot V10在亚马逊Prime大促中降价至379美元，适合vlog拍摄的便携相机。",
-      "recommendation": "提供PowerShot V10在Prime大促中的具体降价幅度与适用场景，对关注便携vlog相机的用户有明确参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon PowerShot V10 gets price cut to $379 in the Amazon Prime Sale"
-    },
-    {
-      "id": "recvnoY35l2inH",
-      "title": "三星Galaxy Z Fold8、Fold8 Ultra和Flip8颜色及存储选项泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_fold8_fold8_ultra_and_flip8_colors_and_storage_options_leak-news-73408.php",
-      "publish_time": "2026-06-24T02:30:02+08:00",
-      "summary": "三星预计7月22日发布Galaxy Z Fold8、Fold8 Ultra和Flip8，Fold8提供奶油、石墨、薰衣草、开心果四色，存储256GB至1TB。",
-      "recommendation": "常规资讯，可了解三星折叠屏新机颜色与存储配置，但未涉及影像规格，对影像爱好者价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8, Fold8 Ultra, and Flip8 colors and storage options leak"
-    },
-    {
-      "id": "recvnoXYwXYcZj",
-      "title": "Prime Day最佳优惠：存储卡、固态硬盘和NAS",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/23/the-best-prime-day-deals-on-memory-cards-ssds-and-nas/",
-      "publish_time": "2026-06-24T02:06:07+08:00",
-      "summary": "亚马逊Prime Day提供存储卡、固态硬盘和NAS系统优惠，缓解内存价格上涨之痛。",
-      "recommendation": "Prime Day存储设备优惠指南，针对影像创作者内存涨价痛点，提供存储卡、SSD和NAS选购参考，含具体折扣信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Prime Day Deals on Memory Cards, SSDs, and NAS"
-    },
-    {
-      "id": "recvnoYexluCYY",
-      "title": "B&H Photo 推出自家版 Prime Day 促销活动",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/23/bh-photo-has-its-own-version-of-prime-day-deals.aspx/",
-      "publish_time": "2026-06-24T01:10:44+08:00",
-      "summary": "B&H Photo推出自家版Prime Day促销活动，涵盖摄影、相机、镜头等众多品类及品牌，详情见原文。",
-      "recommendation": "B&H Photo促销活动覆盖相机、镜头等品类，可快速了解影像设备折扣动态。常规资讯，可了解行业促销节奏。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "B&H Photo has its own version of Prime Day deals"
-    },
-    {
-      "id": "recvnoY9GpUwcc",
-      "title": "没找到合适的尼康Prime Day优惠，但这些尼康卡口镜头很划算！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/i-couldnt-find-any-decent-nikon-prime-day-deals-but-these-nikon-fit-lenses-are-bargains",
-      "publish_time": "2026-06-24T00:16:40+08:00",
-      "summary": "Prime Day期间，唯卓仕Z卡口镜头在低价基础上再享15%折扣，虽无尼康优惠，但这些镜头性价比极高",
-      "recommendation": "Prime Day期间唯卓仕Z卡口镜头叠加15%折扣，为尼康用户提供高性价比副厂选择，含具体型号与价格数据，适合关注镜头预算的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I couldn't find any decent Nikon Prime Day Deals, but these Nikon-fit lenses are bargains!"
     }
   ]
 }
