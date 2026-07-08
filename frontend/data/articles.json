@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-08T04:31:48.722148+08:00",
+    "updated_at": "2026-07-08T12:01:24.826858+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 31
+      "count": 30
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 106
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,86 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 198
+      "count": 195
     }
   ],
   "articles": [
+    {
+      "id": "recvoKBWostxvL",
+      "title": "谷歌Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL及Pixel 11 Pro Fold价格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_pixel_11_pro_pixel_11_pro_xl_and_pixel_11_pro_fold_prices_leak-news-73616.php",
+      "publish_time": "2026-07-08T11:39:02+08:00",
+      "summary": "谷歌Pixel 11系列四款机型将于8月11日发布，20日上市，首次标配256GB存储，欧元区起售价999欧元。",
+      "recommendation": "Pixel 11系列价格泄露，首次标配256GB存储，起售价999欧元。对影像爱好者而言，可预判谷歌计算摄影旗舰的定价策略与存储升级趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold prices leak"
+    },
+    {
+      "id": "recvoKBZhgtb2Q",
+      "title": "iPhone Air 2 传闻将配备稍大容量电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_air_2_rumored_to_pack_a_slightly_larger_battery-news-73608.php",
+      "publish_time": "2026-07-08T10:24:01+08:00",
+      "summary": "苹果预计2027年初发布iPhone Air 2，配备双后置摄像头和3500mAh或更大电池，较初代3149mAh升级。",
+      "recommendation": "电池容量数据具体，可推测iPhone Air 2续航对影像创作的影响，但缺乏影像系统细节，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iPhone Air 2 rumored to pack a slightly larger battery"
+    },
+    {
+      "id": "recvoKC2kMtzaI",
+      "title": "谷歌正式公布Pixel 11系列发布时间",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_officially_reveals_when_its_launching_the_pixel_11_series-news-73620.php",
+      "publish_time": "2026-07-08T08:12:02+08:00",
+      "summary": "谷歌正式宣布将于8月12日下午6点在纽约市举行Pixel 11发布会，此前传言8月11日发布有误，活动时间对应洛杉矶下午3点、伦敦晚上11点。",
+      "recommendation": "确认Pixel 11系列准确发布时间，影像爱好者可据此规划关注后续影像规格泄露。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google officially reveals when it's launching the Pixel 11 series"
+    },
+    {
+      "id": "recvoKBSMQIMXs",
+      "title": "15年摄影系列：展示全美各地的美国国旗",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/07/15-year-photo-series-showcases-american-flags-from-around-the-country/",
+      "publish_time": "2026-07-08T04:42:34+08:00",
+      "summary": "获奖摄影师杰森·林赛为纪念美国250周年制作短片《未完成》，展示全美各地包含美国国旗的照片，四分钟内呈现数十张作品。",
+      "recommendation": "通过15年摄影项目解析国旗主题创作，展示跨地域拍摄的构图与色彩技巧，提供摄影师对长周期项目的策划思路与后期处理经验。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "15-Year Photo Series Showcases American Flags From Around the Country"
+    },
+    {
+      "id": "recvoKC5sJXKGh",
+      "title": "索尼RX10V首张泄露图曝光",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/first-leaked-image-of-the-new-sony-rx10v/",
+      "publish_time": "2026-07-08T04:31:33+08:00",
+      "summary": "索尼RX10V首张泄露图曝光，与九年前RX10 IV对比，新款采用现代Alpha相机手柄和控件，取消顶部LCD屏幕，镜头重新设计。",
+      "recommendation": "对比九年前RX10 IV，揭示新款Alpha手柄、取消顶部LCD及镜头重新设计，为长焦机用户提供关键升级参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "First leaked image of the new Sony RX10V"
+    },
     {
       "id": "recvoIMz5cUEGa",
       "title": "Discord封禁约8200名用户，因其发布无害网格图片",
@@ -7756,85 +7832,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Three of Nikon’s best cameras have dropped to the lowest-ever price – and no, they’re not aging DSLRs either"
-    },
-    {
-      "id": "recvntwA4ozPtD",
-      "title": "GoPro新款无线麦克风系统：随身携带的专业音频性能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/24/gopros-new-wireless-mic-system-promises-pro-audio-performance-on-the-go/",
-      "publish_time": "2026-06-24T22:47:50+08:00",
-      "summary": "GoPro发布紧凑型无线麦克风套装，专为运动相机、无反相机、智能手机等设备设计，提供专业音频性能。",
-      "recommendation": "解析GoPro无线麦克风系统如何解决运动相机与手机收音痛点，提供紧凑设计、专业音频性能的实测数据与兼容性分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "GoPro’s New Wireless Mic System Promises Pro Audio Performance on the Go"
-    },
-    {
-      "id": "recvntwDAljMo2",
-      "title": "这是有史以来最详细的银河系中心照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/24/this-is-the-most-detailed-photo-of-the-milky-ways-center-ever-taken/",
-      "publish_time": "2026-06-24T22:09:41+08:00",
-      "summary": "欧洲航天局欧几里得空间望远镜用一天多时间拍摄了有史以来最大、最详细的银河系中心照片，聚焦银河系核球区域。",
-      "recommendation": "欧几里得望远镜一天拍摄的银河系核球区域照片，提供1.6亿像素级天体细节，对天文摄影爱好者有极高参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "This Is the Most Detailed Photo of the Milky Way’s Center Ever Taken"
-    },
-    {
-      "id": "recvntwTJPM1eQ",
-      "title": "V型挡光板通常是摄影器材中无聊的部分，但Westcott刚刚重新发明了这款经典工作室必备品",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/lighting/v-flats-are-usually-boring-bits-of-photography-kit-but-westcott-just-re-invented-this-classic-studio-staple",
-      "publish_time": "2026-06-24T22:02:18+08:00",
-      "summary": "Westcott推出可折叠、可机洗面料的V型挡光板，革新传统大型泡沫芯板设计。",
-      "recommendation": "解析Westcott可折叠机洗V型挡光板，颠覆传统泡沫芯板设计，为棚拍用户提供便携耐用新方案。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "V-flats are usually boring bits of photography kit. But Westcott just re-invented this classic studio staple"
-    },
-    {
-      "id": "recvntwR1HXIcU",
-      "title": "回忆之旅：哪台相机让你最难忘？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/forums/threads/what-camera-is-your-most-memorable.4839452/",
-      "publish_time": "2026-06-24T22:00:00+08:00",
-      "summary": "本文邀请摄影社区分享最难忘的相机回忆，探讨设备、店铺等话题，融入节日氛围，强调分享与交流的价值。",
-      "recommendation": "通过社区真实回忆，揭示不同相机型号的长期使用体验与情感联结，为选购二手器材提供独特参考视角。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A trip down memory lane: What camera is your most memorable?"
-    },
-    {
-      "id": "recvntxcRlWeUN",
-      "title": "富士X-T6新传闻：AI自动对焦、4000万像素传感器、8K视频——但4000万像素细节引发疑问",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/new-fujifilm-x-t6-rumors-ai-autofocus-40mp-sensor-8k-video-but-the-40mp-detail-raises-questions/",
-      "publish_time": "2026-06-24T21:37:31+08:00",
-      "summary": "富士X-T6传闻：4000万像素传感器、AI自动对焦、8K视频、新电池，提供银黑两色，但像素细节存疑。",
-      "recommendation": "汇总富士X-T6核心传闻，含4000万像素传感器、AI对焦及8K视频等关键参数，并指出像素细节存疑的独特视角，适合关注APS-C旗舰机型的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Fujifilm X-T6 Rumors: AI Autofocus, 40MP Sensor, 8K Video — But the 40MP Detail Raises Questions"
     }
   ]
 }
