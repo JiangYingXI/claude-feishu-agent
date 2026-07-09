@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-09T04:14:28.920515+08:00",
+    "updated_at": "2026-07-09T12:42:24.594365+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 110
+      "count": 109
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 51
+      "count": 48
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,70 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 200
+      "count": 201
     }
   ],
   "articles": [
+    {
+      "id": "recvoQCU1GcwU1",
+      "title": "富士胶片被遗忘的相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/09/fujifilms-forgotten-camera/",
+      "publish_time": "2026-07-09T12:00:00+08:00",
+      "summary": "作者因富士X Pro 3处理方式及关注内容创作者而离开，认为其抛弃摄影师，并创办5 Boro Foto Fest，对GFX100RF持同样看法。",
+      "recommendation": "从摄影师视角批评富士产品策略，揭示品牌转向内容创作者背后的行业矛盾，对关注相机品牌定位的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm’s Forgotten Camera"
+    },
+    {
+      "id": "recvoQCMiFvjdb",
+      "title": "理光将发布GR IV特别版庆祝GR1三十周年",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/08/ricoh-to-release-special-gr-iv-celebrating-30th-anniversary-of-gr1/",
+      "publish_time": "2026-07-09T09:16:14+08:00",
+      "summary": "理光为纪念GR1上市30周年，将发布GR IV特别版，延续高端紧凑型相机系列传统。",
+      "recommendation": "GR IV特别版致敬经典，回顾GR1三十周年设计传承，提供高端紧凑相机历史脉络与新品细节，适合街拍爱好者与理光粉丝。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Ricoh to Release Special GR IV Celebrating 30th Anniversary of GR1"
+    },
+    {
+      "id": "recvoQCRscoKzo",
+      "title": "Pixel Watch 5颜色和定价在发布前泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/pixel_watch_5_colors_and_pricing_leak_ahead_of_launch-news-73635.php",
+      "publish_time": "2026-07-09T06:42:02+08:00",
+      "summary": "谷歌Pixel Watch 5将于8月12日发布，提供41mm和45mm两种尺寸，暗灰、自然银、黄铁矿和暖金四种配色，以及Wi-Fi和LTE版本，定价信息泄露。",
+      "recommendation": "文章聚焦Pixel Watch 5的尺寸、配色与定价泄露，虽非影像设备，但可从中窥见消费电子行业动态，对关注智能穿戴与手机生态联动的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Pixel Watch 5 colors and pricing leak ahead of launch"
+    },
+    {
+      "id": "recvoQCWeWyvsL",
+      "title": "绿联充电器和充电宝大促，省大钱",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/save-big-on-ugreen-chargers-and-power-banks/",
+      "publish_time": "2026-07-09T04:14:53+08:00",
+      "summary": "绿联在亚马逊、官网和BHphoto推出优惠，包括Nexode 100W充电器降价10美元，提供高性价比充电解决方案。",
+      "recommendation": "绿联充电器降价10美元，虽非影像核心设备，但高功率充电方案可提升外拍设备续航效率，属实用资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Save big on Ugreen chargers and power banks"
+    },
     {
       "id": "recvoOyMFLIYBF",
       "title": "苹果与博通合作，正式启动美国最大制造业投资",
@@ -133,6 +193,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "IMAX Reveals New Large-Format Film Camera That Filmed ‘The Odyssey’ and Boasts LCD Screen"
+    },
+    {
+      "id": "recvoQCP1OP6Vs",
+      "title": "哪张照片让你觉得新设备物有所值？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/what-image-made-you-realize-your-new-gear-was-worth-it/",
+      "publish_time": "2026-07-09T01:45:04+08:00",
+      "summary": "DPReview网站发起社区问题：哪张照片让你觉得新设备物有所值？结合第一台相机和第一张照片，探讨设备价值。",
+      "recommendation": "DPReview社区真实案例，探讨设备价值与摄影初心，对影像爱好者有共鸣与启发。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "What image made you realize your new gear was worth it?"
     },
     {
       "id": "recvoOyRwXeMPF",
@@ -7763,85 +7839,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Leica unleashes its fastest-ever camera with 40fps stills and 8K open gate video"
-    },
-    {
-      "id": "recvnzq3vbqN0t",
-      "title": "徕卡发布年度最重磅相机与镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/25/leica-introduces-its-most-serious-camera-and-lenses-of-the-year/",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "徕卡扩展SL系统，发布新相机和两支镜头，延续高端标杆，结构坚固，拍摄惊艳。",
-      "recommendation": "文章详解徕卡SL系统新相机与镜头，含结构设计、光学性能等关键数据，适合关注高端影像器材的读者获取行业标杆动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leica Introduces Its Most Serious Camera and Lenses Of the Year"
-    },
-    {
-      "id": "recvnzq6IcxiGK",
-      "title": "徕卡SL3P评测：市场上最快的相机之一",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/25/leica-sl3p-review-one-of-the-fastest-cameras-on-the-market/",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "徕卡SL3P评测显示其速度极快，多位用户反馈，且比SL3s更快，共享机身设计但配置中端。",
-      "recommendation": "实测速度对比SL3s，共享机身设计但配置中端，提供独家用户反馈数据，对关注徕卡相机性能的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica SL3P Review: One of the Fastest Cameras on the Market"
-    },
-    {
-      "id": "recvnzp6ZDC6IK",
-      "title": "Oppo Reno16 Pro 评测",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_reno16_pro_in_for_review-news-73436.php",
-      "publish_time": "2026-06-25T20:56:03+08:00",
-      "summary": "Oppo Reno16 Pro国际版评测：搭载天玑8550 Super处理器和2亿像素主摄，12GB内存，6.32英寸屏幕，与全球版Reno16差异明显。",
-      "recommendation": "解析Reno16 Pro国际版2亿像素主摄与天玑8550 Super的影像协同，提供独家样张对比数据，揭示与全球版差异，适合关注计算摄影与硬件组合的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Oppo Reno16 Pro in for review"
-    },
-    {
-      "id": "recvnzoCprTh3V",
-      "title": "摄像师因踏入球场导致球员受伤遭谴责",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/25/cameraman-slammed-for-stepping-onto-the-field-and-causing-injury-to-player/",
-      "publish_time": "2026-06-25T20:31:33+08:00",
-      "summary": "一名摄像师上周末踏入球场导致南非橄榄球运动员受伤，引发谴责",
-      "recommendation": "文章从体育赛事切入，揭示摄像师职业风险与伦理边界，对影像从业者具行业警示价值。虽无独家数据，但事件分析角度独特。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Cameraman Slammed For Stepping Onto the Field and Causing Injury to Player"
-    },
-    {
-      "id": "recvnzoFsZE2cF",
-      "title": "OWC 280美元Core CFexpress卡：高速读写，价格更低",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/25/owcs-280-core-cfexpress-card-brings-high-speed-at-a-lower-price/",
-      "publish_time": "2026-06-25T20:30:26+08:00",
-      "summary": "OWC推出Core品牌256GB CFexpress卡，高速读写且售价280美元，兼顾性能与性价比",
-      "recommendation": "OWC 256GB CFexpress卡以280美元定价切入高速存储市场，提供读写性能实测数据，为影像创作者提供高性价比备选方案。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "OWC’s $280 Core CFexpress Card Brings High-Speed at a Lower Price"
     }
   ]
 }
