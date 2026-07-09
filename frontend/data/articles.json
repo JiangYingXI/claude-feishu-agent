@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-09T12:42:24.594365+08:00",
+    "updated_at": "2026-07-09T18:10:39.045130+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 27
+      "count": 26
     },
     {
       "key": "镜头与光学",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 48
+      "count": 47
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,136 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 201
+      "count": 203
     }
   ],
   "articles": [
+    {
+      "id": "recvoRXusXR0cA",
+      "title": "TTArtisan 17mm f4 移轴镜头评测：我用过最坚固的镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/09/ttartisan-17mm-f4-tilt-shift-review-the-toughest-lens-ive-used/",
+      "publish_time": "2026-07-09T18:00:00+08:00",
+      "summary": "TTArtisan 17mm f4移轴镜头评测，作者称其为用过最坚固但最复杂恼火的镜头，因节日和自身原因延迟完成评测。",
+      "recommendation": "TTArtisan 17mm f4移轴镜头评测，以“最坚固但最复杂恼火”为独特视角，提供拆机实测与样张分析，揭示其光学素质与操作痛点，对移轴爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "TTArtisan 17mm f4 Tilt Shift Review: The Toughest Lens I’ve Used"
+    },
+    {
+      "id": "recvoRXfCfv2zs",
+      "title": "科学家前往大西洋未探索区域，拍摄怪异深海生物",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/09/scientists-travel-to-unexplored-area-of-atlantic-ocean-and-photograph-bizarre-deep-sea-creatures/",
+      "publish_time": "2026-07-09T17:46:48+08:00",
+      "summary": "科学家35天探索大西洋偏远山区海域，构造裂缝重塑海底，拍摄奇异深海生物，揭示未探索区域生态价值。",
+      "recommendation": "深海摄影实战案例，展示极端弱光环境拍摄技巧与生物行为捕捉，含35天独家科考数据与海底构造影像。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Scientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures"
+    },
+    {
+      "id": "recvoRXrD7acH0",
+      "title": "富士胶片发布GFX系统史上最广变焦镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/fujifilm-reveals-its-widest-ever-zoom-for-its-gfx-camera-system",
+      "publish_time": "2026-07-09T17:38:06+08:00",
+      "summary": "富士发布GFX系统最广变焦镜头GF19-35mmT3.5 PZ OIS WR，专为Eterna 55中画幅电影摄影机设计",
+      "recommendation": "中画幅最广变焦镜头发布，提供19mm超广角视野，对视频创作者有实用价值，含具体焦距与光圈数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm reveals its widest-ever zoom for its GFX camera system"
+    },
+    {
+      "id": "recvoRXx0FMW6o",
+      "title": "我们的新闻摄影预设同样适用于体育摄影！",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/09/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-3/",
+      "publish_time": "2026-07-09T15:00:00+08:00",
+      "summary": "测试发现新闻摄影预设也适用于体育摄影，价格实惠，能提升影棚和自然光下图像效果，适用于街头、风景、人像等多种场景。",
+      "recommendation": "文章通过实测验证新闻预设跨场景适用性，提供具体价格与效果对比数据，对预算有限的摄影爱好者有实用参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Our Photojournalism Presets Work Great for Sports!"
+    },
+    {
+      "id": "recvoRXzz2ooxb",
+      "title": "富士龙GF19-35mmT3.5 PZ OIS WR发布——GFX系统最广变焦镜头",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujinon-gf19-35mmt3-5-pz-ois-wr-launched-widest-zoom-lens-for-gfx/",
+      "publish_time": "2026-07-09T14:22:19+08:00",
+      "summary": "富士发布GF19-35mm T3.5 PZ OIS WR，为GFX系统最广变焦镜头，支持电动变焦和防抖。",
+      "recommendation": "中画幅最广变焦镜头，电动变焦与防抖加持，为GFX用户提供建筑与风光拍摄新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujinon GF19-35mmT3.5 PZ OIS WR Launched – Widest Zoom Lens for GFX"
+    },
+    {
+      "id": "recvoRXkELt3bN",
+      "title": "理光为其最著名机型庆生",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/ricoh-wishes-happy-birthday-to-its-most-famous-model/",
+      "publish_time": "2026-07-09T14:02:10+08:00",
+      "summary": "理光为纪念GR系列30周年，将推出600台限量版GR IV特别版相机，首款GR1胶片相机于1996年10月发布。",
+      "recommendation": "GR系列30周年限量版相机发布，含首款GR1胶片机历史回顾，适合街拍爱好者了解经典机型迭代脉络。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Ricoh wishes Happy Birthday to its most famous model"
+    },
+    {
+      "id": "recvoRXihJPyWd",
+      "title": "富士GF19-35mm T3.5：一款宽广快速的大画幅电动变焦镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/08/fujifilm-gf19-35mm-t3-5-is-a-wide-and-fast-large-format-power-zoom/",
+      "publish_time": "2026-07-09T13:00:13+08:00",
+      "summary": "富士发布GF19-35mm T3.5 PZ OIS WR镜头，为GFX系统大画幅电影制作提供宽广快速电动变焦方案",
+      "recommendation": "解析富士GF19-35mm T3.5电动变焦镜头，为GFX系统电影制作提供大画幅宽广视角与稳定变焦方案，含OIS防抖与WR防护数据，适合视频创作者评估设备升级。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm GF19-35mm T3.5 Is a Wide and Fast Large Format Power Zoom"
+    },
+    {
+      "id": "recvoRXmYhOCRR",
+      "title": "富士胶片新GF镜头，广角视野前所未有",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/fujifilms-going-wider-than-ever-with-its-new-gf-lens/",
+      "publish_time": "2026-07-09T13:00:00+08:00",
+      "summary": "富士胶片发布GF19-35mmT3.5 PZ OIS WR电动变焦镜头，等效15-28mm超广角，为GFX系统最广镜头之一。",
+      "recommendation": "解析富士GF19-35mm电动变焦镜头，等效15-28mm超广角，填补GFX系统广角空白，含光学结构及PZ马达细节，适合风光与视频创作。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm’s going wider than ever with its new GF lens"
+    },
     {
       "id": "recvoQCU1GcwU1",
       "title": "富士胶片被遗忘的相机",
@@ -2763,6 +2889,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "This award-winning drone photo juxtaposes the small scale of humans against our “massive impact” on the environment"
+    },
+    {
+      "id": "recvoRXphdHhaw",
+      "title": "观点：机械奇迹的时代是否已经结束？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/opinion/age-of-mechanical-wonders-dslrs-slrs-mirrorless/",
+      "publish_time": "2026-07-04T17:00:00+08:00",
+      "summary": "现代相机作为软件工程奇迹，物理结构却比前代更简单，引发对机械奇迹时代是否终结的思考。",
+      "recommendation": "从机械到计算摄影的范式转换，揭示相机物理结构简化背后的技术逻辑，适合思考影像本质的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Opinion: is the age of mechanical wonders over?"
     },
     {
       "id": "recvootNSNvrep",
@@ -7697,148 +7839,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The 44-Megapixel Leica SL3-P Is the Company’s Most Capable Camera Ever"
-    },
-    {
-      "id": "recvnzoutMFXsF",
-      "title": "徕卡100mm f/2.8：1987年R卡口镜头的现代复兴",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/25/the-leica-100mm-f-2-8-is-a-modern-revival-of-an-r-mount-lens-from-1987/",
-      "publish_time": "2026-06-25T21:00:41+08:00",
-      "summary": "徕卡发布APO-Macro-Elmarit-SL 100mm f/2.8镜头，复兴1987年经典R卡口镜头，保留f/2.8光圈等核心参数。",
-      "recommendation": "解析徕卡经典R卡口镜头现代复刻，含f/2.8光圈等核心参数保留细节，对SL系统用户及徕卡历史爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Leica 100mm f/2.8 Is a Modern Revival of an R-Mount Lens From 1987"
-    },
-    {
-      "id": "recvnzox6X2Pfp",
-      "title": "Capture One 为工作室专业人士新增实时多用户会话功能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/25/capture-one-adds-real-time-multi-user-sessions-for-studio-pros/",
-      "publish_time": "2026-06-25T21:00:34+08:00",
-      "summary": "Capture One 16.8.2版本新增实时协作会话功能，专为工作室专业人士设计，支持多用户同时编辑，提升团队工作效率。",
-      "recommendation": "Capture One新增实时多用户会话功能，为工作室团队协作提供解决方案。文章聚焦专业工作流优化，对商业摄影师具有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Capture One Adds Real-Time Multi-User Sessions for Studio Pros"
-    },
-    {
-      "id": "recvnzozSwpedq",
-      "title": "徕卡L卡口50mm f/1.4镜头：市面上最紧凑的选择",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/25/the-leica-50mm-f-1-4-for-l-mount-is-the-most-compact-on-the-market/",
-      "publish_time": "2026-06-25T21:00:02+08:00",
-      "summary": "徕卡发布Summilux-SL 50mm f/1.4 ASPH镜头，宣称是市面上最紧凑的50mm f/1.4镜头，适用于L卡口。",
-      "recommendation": "解析徕卡50mm f/1.4镜头紧凑设计对L卡口系统便携性的提升，含具体尺寸数据与光学结构对比，适合关注高端定焦镜头轻量化的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Leica 50mm f/1.4 for L-Mount Is the Most Compact on the Market"
-    },
-    {
-      "id": "recvnzoXF1wcGp",
-      "title": "徕卡SL3-P：徕卡最快的相机就是最好的吗？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/leica-sl3-p-review",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "徕卡SL3-P搭载4400万像素背照式CMOS传感器，是SL系列最完善的全能相机，高速高分辨率兼顾。",
-      "recommendation": "解析徕卡SL3-P的4400万像素背照式CMOS传感器，探讨高速与高分辨率的平衡，提供SL系列全能相机的深度产品洞察。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica SL3-P: Is Leica's fastest camera its best?"
-    },
-    {
-      "id": "recvnzp0SbKirJ",
-      "title": "徕卡新50mm镜头：更小更轻，依然F1.4",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/8468939257/leica-50mm-f1p4-100mm-f2p8-macro-sl-lenses-announced",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "徕卡发布新款Summilux-SL 50mm F1.4镜头，更小更轻，采用6组11片光学设计，同时推出APO-Macro-Elmarit-SL 100mm F2.8镜头。",
-      "recommendation": "文章详解徕卡新款50mm F1.4镜头更轻小设计及6组11片光学结构，同时介绍APO-Macro-Elmarit-SL 100mm F2.8，适合关注徕卡L卡口系统更新的用户。",
-      "categories": [
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leica’s new 50mm is smaller, lighter and still F1.4"
-    },
-    {
-      "id": "recvnzprtLKliI",
-      "title": "我用徕卡SL3-P相机拍摄了3000多张照片，这些是我最喜欢的作品",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-shot-over-3-000-photos-on-the-new-leica-sl3-p-camera-and-these-are-my-favorite-frames",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "作者用徕卡SL3-P相机拍摄3000多张照片，精选出最喜欢的作品，展示相机性能与摄影技巧。",
-      "recommendation": "3000张实拍样张展示徕卡SL3-P色彩与对焦表现，含夜景、人像等场景技巧，提供真实长测数据而非参数堆砌。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I shot over 3,000 photos on the new Leica SL3-P camera and these are my favorite frames"
-    },
-    {
-      "id": "recvnzpuoelnEX",
-      "title": "徕卡发布全球最小AF 50mm f/1.4镜头——我有机会试用了它",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/leica-launches-worlds-smallest-af-50mm-f-1-4-camera-lens-and-i-got-the-chance-to-try-it-out",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "徕卡发布全球最小AF 50mm f/1.4镜头Summilux-SL，比前代显著更小，采用L卡口。",
-      "recommendation": "实测全球最小AF 50/1.4镜头，提供体积对比与光学表现数据，L卡口用户可参考便携性与画质权衡。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica launches world's smallest AF 50mm f/1.4 camera lens –and I got the chance to try it out"
-    },
-    {
-      "id": "recvnzpxdEJAwp",
-      "title": "徕卡发布SL无反系统首款微距镜头——我已抢先体验！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/leica-launches-its-first-ever-macro-lens-for-its-sl-mirrorless-camera-system-and-i-got-to-try-it-out",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "徕卡发布SL系统首款微距镜头APO-Macro-Elmarit-SL 100mm f/2.8，填补L卡口空白，我已抢先体验。",
-      "recommendation": "抢先实测徕卡SL系统首款微距镜头，填补L卡口空白，提供100mm f/2.8实拍样张与光学表现分析，对微距爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica unveils its first-ever macro lens for its SL mirrorless camera system – and I got to try it out!"
-    },
-    {
-      "id": "recvnzpA6zhJkc",
-      "title": "徕卡发布史上最快相机：40fps连拍与8K全幅视频",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/leica-launches-its-fastest-ever-camera-with-40fps-stills-and-8k-open-gate-video",
-      "publish_time": "2026-06-25T21:00:00+08:00",
-      "summary": "徕卡发布SL3-P无反相机，具备40fps连拍和8K全幅视频能力，填补SL3与SL3-S之间的性能空白。",
-      "recommendation": "SL3-P填补SL3与SL3-S性能空白，40fps连拍和8K全幅视频规格明确，为追求高速与高画质的用户提供新选择。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica unleashes its fastest-ever camera with 40fps stills and 8K open gate video"
     }
   ]
 }
