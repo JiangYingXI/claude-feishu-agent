@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-09T23:49:48.438614+08:00",
+    "updated_at": "2026-07-10T04:27:31.384074+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,25 +23,259 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 14
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 49
+      "count": 46
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 389
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 204
+      "count": 205
     }
   ],
   "articles": [
+    {
+      "id": "recvoUshJ37mny",
+      "title": "报告显示：尽管有所波动，电影价格仍保持稳定",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/09/report-shows-that-despite-some-shifts-film-prices-remain-stable/",
+      "publish_time": "2026-07-10T04:20:20+08:00",
+      "summary": "Analog Cafe报告显示，尽管波动，全球胶片价格保持稳定，比较了不同库存成本与历史价格。",
+      "recommendation": "提供全球胶片价格对比与历史数据，对胶片爱好者有参考价值，但无独家观点或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Report Shows That Despite Some Shifts, Film Prices Remain Stable"
+    },
+    {
+      "id": "recvoUsPEyXR5G",
+      "title": "三星Galaxy Z Fold8 Ultra被曝将借鉴Galaxy S26 Ultra的相机功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_ultra_said_to_borrow_galaxy_s26_ultras_camera_features-news-73650.php",
+      "publish_time": "2026-07-10T04:07:02+08:00",
+      "summary": "三星Galaxy Z Fold8 Ultra被曝将继承Galaxy S26 Ultra关键相机功能，支持视频LUTs，有望带来旗舰级相机体验。",
+      "recommendation": "解析三星折叠屏继承S26 Ultra视频LUTs功能，揭示旗舰影像下放趋势，对关注计算摄影与折叠屏画质的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung’s Galaxy Z Fold8 Ultra said to borrow Galaxy S26 Ultra's camera features"
+    },
+    {
+      "id": "recvoUskK1E2Mp",
+      "title": "相机公司有大量优质周边，但就是不卖给你",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/09/photo-companies-have-tons-of-great-merch-but-they-wont-sell-it-to-you/",
+      "publish_time": "2026-07-10T03:59:43+08:00",
+      "summary": "日本相机公司推出限量版摄影周边，如理光用退役列车座椅改造的相机带，但仅限本土销售，引发其他地区摄影师羡慕。",
+      "recommendation": "揭示相机品牌限量周边策略，分析区域销售差异对用户的影响，提供行业动态与消费洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photo Companies Have Tons of Great Merch, But They Won’t Sell It To You"
+    },
+    {
+      "id": "recvoUsI6PwX55",
+      "title": "即将推出：新款快速、顶级、高端、专业尼康APS-C（DX）相机",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/09/coming-soon-new-fast-top-of-the-line-high-end-professional-nikon-aps-c-dx-camera.aspx/",
+      "publish_time": "2026-07-10T03:56:28+08:00",
+      "summary": "尼康即将推出新款快速、顶级、高端专业APS-C相机，传闻可能搭载RED技术，类似迷你ZR机型，采用Super 35mm传感器。",
+      "recommendation": "尼康APS-C新机传闻搭载RED技术，Super 35mm传感器参数值得关注，对关注尼康DX系统升级的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Coming soon: new fast, top-of-the-line, high-end, professional Nikon APS-C (DX) camera"
+    },
+    {
+      "id": "recvoUsSiGEcQW",
+      "title": "iPhone 18 Pro Max重量和厚度曝光，机身厚重",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_18_pro_maxs_weight_and_thickness_leak_and_its_chunky-news-73656.php",
+      "publish_time": "2026-07-10T02:41:02+08:00",
+      "summary": "iPhone 18 Pro Max曝光重240克厚9毫米，较前代更厚重，核心参数明确。",
+      "recommendation": "曝光iPhone 18 Pro Max重量240克、厚度9毫米等关键参数，为影像爱好者提供机身尺寸对握持与拍摄手感影响的参考数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iPhone 18 Pro Max's weight and thickness leak and it's chunky"
+    },
+    {
+      "id": "recvoUsmRXXEKi",
+      "title": "AI驱动CRM平台HoneyBook为摄影师推出新工具",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/09/ai-powered-crm-platform-honeybook-launches-new-tools-for-photographers/",
+      "publish_time": "2026-07-10T02:32:41+08:00",
+      "summary": "AI驱动CRM平台HoneyBook为摄影师推出新功能套件，包括图库和发票工具，提升客户管理效率。",
+      "recommendation": "AI CRM工具为摄影师优化客户管理，图库与发票功能提升效率，适合关注影像行业数字化趋势的从业者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "AI-Powered CRM Platform HoneyBook Launches New Tools for Photographers"
+    },
+    {
+      "id": "recvoUsz6b8GaI",
+      "title": "Instagram争议AI不仅复制你的脸——Meta Muse Image还能模仿摄影风格",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/social-media/instagrams-controversial-ai-wont-just-copy-your-face-meta-muse-image-imitates-photography-styles-too",
+      "publish_time": "2026-07-10T02:30:36+08:00",
+      "summary": "Meta Muse图像生成器因隐私设置不当，不仅复制用户面部，还能模仿摄影风格，引发争议，艺术家需警惕风格被AI复制。",
+      "recommendation": "揭示Meta Muse AI复制摄影风格的技术细节与隐私风险，对关注AI影像伦理的创作者有警示价值，含风格模仿机制分析。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Instagram’s controversial AI won’t just copy your face – Meta Muse Image imitates photography styles too"
+    },
+    {
+      "id": "recvoUsBxuG4b9",
+      "title": "索尼用户：最新固件支持远程控制腾龙35-150mm f/2-2.8 Di III VXD镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/sony-users-now-you-can-control-your-tamron-35-150mm-f-2-2-8-di-iii-vxd-lens-remotely-thanks-to-latest-firmware",
+      "publish_time": "2026-07-10T01:25:00+08:00",
+      "summary": "腾龙发布索尼E卡口35-150mm f/2-2.8 Di III VXD镜头固件版本6，新增远程控制应用支持。",
+      "recommendation": "固件更新使腾龙35-150mm镜头支持远程控制，对视频创作者提升操作效率有直接价值。文章提供具体固件版本号与功能细节，属实用资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony users: now you can control your Tamron 35-150mm f/2-2.8 Di III VXD lens remotely thanks to latest firmware"
+    },
+    {
+      "id": "recvoUspgkiX4a",
+      "title": "乐高哈勃太空望远镜套装致敬三张标志性哈勃照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/09/lego-hubble-space-telescope-set-celebrates-three-iconic-hubble-photos/",
+      "publish_time": "2026-07-10T01:19:12+08:00",
+      "summary": "乐高推出哈勃太空望远镜套装，致敬三张标志性哈勃照片，满足太空爱好者与乐高迷的期待。",
+      "recommendation": "从乐高哈勃套装切入，解析三张标志性太空影像的拍摄背景与科学意义，为摄影爱好者提供天文摄影的灵感与科普视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "LEGO Hubble Space Telescope Set Celebrates Three Iconic Hubble Photos"
+    },
+    {
+      "id": "recvoUsrYxWgjP",
+      "title": "Kono发布三款独特色彩与个性的彩色胶片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/09/kono-launches-three-color-films-with-unique-color-and-character/",
+      "publish_time": "2026-07-10T00:49:45+08:00",
+      "summary": "Kono发布三款C-41 35mm彩色胶片Mojo、Offbeat和Bebop，各具独特色彩倾向与个性氛围。",
+      "recommendation": "三款C-41彩色胶片提供Mojo、Offbeat、Bebop独特色彩倾向，适合追求个性氛围的胶片爱好者，常规资讯可了解产品动态。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Kono Launches Three Color Films With Unique Color and Character"
+    },
+    {
+      "id": "recvoUsulkTbQ1",
+      "title": "2026年海洋保护协会摄影大赛获奖作品致敬非凡海洋生物",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/09/2026-ocean-conservancy-photo-contest-winners-celebrate-incredible-marine-animals/",
+      "publish_time": "2026-07-10T00:22:02+08:00",
+      "summary": "2026年海洋保护协会摄影大赛获奖作品通过墨鱼、海象等多彩照片，致敬世界海洋及其居民的非凡美丽与多样性。",
+      "recommendation": "海洋生物摄影获奖作品解析，展示水下拍摄技巧与自然光运用，对生态摄影爱好者有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "2026 Ocean Conservancy Photo Contest Winners Celebrate Incredible Marine Animals"
+    },
+    {
+      "id": "recvoUswIfCh7O",
+      "title": "索尼正式发布RX10 V：1英寸传感器、600mm等效焦距固定镜头相机，售价2300美元",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/sony-officially-announces-the-rx10-v-a-1-sensor-600mm-equiv-fixed-lens-camera-for-2300/",
+      "publish_time": "2026-07-10T00:20:57+08:00",
+      "summary": "索尼发布RX10 V相机，配备1英寸传感器和24-600mm等效蔡司变焦镜头，售价2300美元。",
+      "recommendation": "解析RX10 V的1英寸传感器与600mm等效镜头组合，提供2300美元定价及蔡司变焦数据，适合关注长焦固定镜头相机的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Officially Announces the RX10 V, a 1″ sensor 600mm equiv fixed lens camera for $2300"
+    },
+    {
+      "id": "recvoUsDMir9EO",
+      "title": "尼康D810：这款单反相机被忽视了。它不如D800重要，但客观性能更优",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/nikon-d810-this-dslr-camera-gets-overlooked-it-was-less-important-than-the-d800-but-objectively-better",
+      "publish_time": "2026-07-10T00:19:01+08:00",
+      "summary": "尼康D810修正了D800的缺点，作为二手相机性能更优，值得购买。",
+      "recommendation": "从D800到D810的升级细节切入，对比两代机型性能差异，为二手单反选购提供具体数据参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Nikon D810: This DSLR camera gets overlooked. It was less important than the D800, but objectively better"
+    },
+    {
+      "id": "recvoUsN3BVSbr",
+      "title": "这款廉价徕卡相机即使在今天也适合街头摄影",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/09/this-cheap-leica-camera-is-great-for-street-photography-even-today/",
+      "publish_time": "2026-07-10T00:00:00+08:00",
+      "summary": "徕卡以豪华耐用相机闻名，其产品适合街头摄影。本文介绍一款廉价徕卡相机，专为年轻摄影师设计，保留徕卡核心品质。",
+      "recommendation": "解析徕卡廉价机型在街头摄影中的实际表现，保留核心光学素质与操控体验，适合预算有限但追求画质的爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Cheap Leica Camera is Great for Street Photography Even Today"
+    },
+    {
+      "id": "recvoUsFKgT2LX",
+      "title": "Arri最新Xtreme摄像机为直播带来好莱坞式慢动作效果",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/arri-just-gave-live-broadcasts-the-hollywood-slow-motion-treatment-with-its-latest-xtreme-camera",
+      "publish_time": "2026-07-09T23:45:28+08:00",
+      "summary": "Arri发布Alexa 35 Live Xtreme摄像机，支持SDI工作流程下的电影级慢动作，实现直播中的好莱坞式效果。",
+      "recommendation": "解析Arri如何将电影级慢动作引入直播，SDI工作流细节对专业影像用户有实操参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Arri just gave live broadcasts the Hollywood slow-motion treatment with its latest Xtreme camera"
+    },
     {
       "id": "recvoTkaTrWaFD",
       "title": "AI生成的泰勒·斯威夫特婚礼照片被迅速辟谣",
@@ -461,6 +695,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Ricoh wishes Happy Birthday to its most famous model"
+    },
+    {
+      "id": "recvoUsKBIoZtY",
+      "title": "本周末伦敦尼康Z8/Z9大师班，Steve Simon主讲",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/09/nikon-z8-z9-masterclass-in-london-this-weekend-with-steve-simon.aspx/",
+      "publish_time": "2026-07-09T13:21:14+08:00",
+      "summary": "本周末伦敦举办尼康Z8/Z9大师班，由Steve Simon主讲，一天内助您全面掌控相机释放潜力。",
+      "recommendation": "Steve Simon主讲尼康Z8/Z9大师班，提供从基础到进阶的实战技巧，助用户快速释放旗舰相机潜力。适合寻求系统掌握Z8/Z9操作与创作的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon Z8/Z9 masterclass in London this weekend with Steve Simon"
     },
     {
       "id": "recvoRXihJPyWd",
@@ -7586,255 +7836,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "CA Plans to Stop People From Taking Iconic Photo of Big Sur’s Bixby Bridge"
-    },
-    {
-      "id": "recvnFc2W3t9l6",
-      "title": "为何有时应放弃相机屏幕 | 佳能EOS R6 V | 白平衡误区",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/why-you-should-ditch-your-camera-screen-sometimes-canon-eos-r6-v-white-balance-busted",
-      "publish_time": "2026-06-26T19:39:09+08:00",
-      "summary": "文章探讨无屏相机EOS R6 V在佳能混合产品线中的定位，质疑手动白平衡的必要性，核心价值在于重新思考摄影本质与技术依赖的关系。",
-      "recommendation": "本文从无屏相机EOS R6 V切入，挑战手动白平衡的惯性思维，提供对摄影本质与技术依赖的深度反思，适合寻求突破的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why you should DITCH your camera screen (sometimes) | Canon EOS R6 V | White balance busted"
-    },
-    {
-      "id": "recvnFcg1yiVj2",
-      "title": "新传闻称苹果已开始研发智能戒指",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/apple_has_started_working_on_a_smart_ring_new_rumor_claims-news-73452.php",
-      "publish_time": "2026-06-26T19:18:01+08:00",
-      "summary": "据传闻，苹果已开始研发智能戒指，可能命名为iRing或Apple Ring，目前处于开发阶段，旨在扩展智能穿戴设备产品线。",
-      "recommendation": "常规资讯，可了解行业动态。虽未涉及具体影像功能，但智能戒指作为新形态穿戴设备，可能为未来影像交互提供新思路。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Apple has started working on a smart ring, new rumor claims"
-    },
-    {
-      "id": "recvnFc5rNoleA",
-      "title": "全球首个网络摄像头由咖啡因不足的计算机科学家为监控咖啡壶而设！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/webcams/the-worlds-first-webcam-was-set-up-by-caffeine-starved-computer-scientists-to-watch-a-coffee-pot",
-      "publish_time": "2026-06-26T18:16:32+08:00",
-      "summary": "全球首个网络摄像头由急需咖啡因的计算机科学家为监控咖啡壶而发明，旨在远程查看咖啡存量。",
-      "recommendation": "追溯影像设备起源，揭秘网络摄像头因咖啡监控需求诞生。提供影像史冷知识，适合爱好者理解技术演进脉络。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The world's first webcam was set up by caffeine-starved computer scientists to watch a coffee pot!"
-    },
-    {
-      "id": "recvnFciAMR95L",
-      "title": "红魔游戏平板5 Pro将提供PC模拟器，关键规格曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmagics_gaming_tablet_5_pro_to_offer_a_pc_emulator_key_specs_revealed-news-73456.php",
-      "publish_time": "2026-06-26T18:16:03+08:00",
-      "summary": "红魔游戏平板5 Pro将于6月30日发布，配备液冷散热，预装PC模拟器，可运行AAA级PC游戏，采用专有翻译层技术。",
-      "recommendation": "虽未直接涉及影像，但PC模拟器技术可能影响未来平板影像处理能力，对关注移动端计算摄影的读者有间接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "RedMagic's Gaming Tablet 5 Pro to offer a PC emulator, key specs revealed"
-    },
-    {
-      "id": "recvnFbQNqIo2l",
-      "title": "女子勇敢拍摄灰熊冲锋的惊险遭遇",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/26/woman-bravely-films-terrifying-encounter-with-charging-grizzly-bear/",
-      "publish_time": "2026-06-26T18:07:11+08:00",
-      "summary": "女子拍摄灰熊冲向其狗的视频走红，展现勇敢面对野生动物的惊险瞬间。",
-      "recommendation": "野外拍摄中长焦镜头与快速对焦是关键，本文通过灰熊冲锋实例，展示野生动物摄影的实战技巧与风险控制，对户外影像爱好者有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Woman Bravely Films Terrifying Encounter With Charging Grizzly Bear"
-    },
-    {
-      "id": "recvnFcnF0CSoy",
-      "title": "M9中传奇的柯达传感器有一个没人提及的问题",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/26/the-legendary-kodak-sensor-in-the-m9-had-a-problem-no-one-talks-about/",
-      "publish_time": "2026-06-26T18:00:00+08:00",
-      "summary": "文章探讨徕卡M9的柯达传感器色彩与质感，指出其未被提及的问题，并提及徕卡S2作为中画幅版本，作者在2026年整理2012年拍摄的档案。",
-      "recommendation": "揭秘M9柯达传感器未被提及的缺陷，结合2012年原始档案与2026年重审视角，提供传感器硬件与摄影美学的深度交叉分析。",
-      "categories": [
-        "传感器硬件",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Legendary Kodak Sensor in the M9 Had a Problem No One Talks About"
-    },
-    {
-      "id": "recvnDVCZJOvc0",
-      "title": "大疆透露更多关于新款Osmo Pocket 4P相机的信息，但仍未解答关键问题——而Insta360的Luna在这方面并不避讳！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/dji-reveals-more-about-new-osmo-pocket-4p-camera-but-is-still-leaving-key-questions-unanswered-things-insta360s-luna-isnt-so-shy-about",
-      "publish_time": "2026-06-26T17:44:03+08:00",
-      "summary": "大疆发布Osmo Pocket 4P白色版，未公布价格，但可推算；Insta360 Luna则明确相关参数。",
-      "recommendation": "对比大疆Osmo Pocket 4P与Insta360 Luna的参数差异，揭示行业定价策略与产品透明度问题，为选购提供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI reveals more about new Osmo Pocket 4P camera but is still leaving key questions unanswered –things Insta360's Luna isn't so shy about!"
-    },
-    {
-      "id": "recvnDVAaxNKA7",
-      "title": "Oppo Reno16 评测",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_reno16_in_for_review-news-73447.php",
-      "publish_time": "2026-06-26T17:13:02+08:00",
-      "summary": "Oppo Reno16全球版与Pro版外观一致，采用6.32英寸显示屏和3D Pop Planet星云设计，延续系列性感设计风格。",
-      "recommendation": "文章对比Reno16全球版与Pro版外观设计，提供6.32英寸屏及3D Pop Planet星云设计细节，适合关注中端机型外观趋势的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Oppo Reno16 in for review"
-    },
-    {
-      "id": "recvnDVL4JMWmJ",
-      "title": "欧洲最后Prime Day优惠",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/last-european-prime-day-deals/",
-      "publish_time": "2026-06-26T15:25:30+08:00",
-      "summary": "亚马逊欧洲多国Prime Day最后24小时促销，索尼相机镜头大幅优惠，第三方产品折扣多。",
-      "recommendation": "欧洲Prime Day最后24小时，索尼相机镜头及第三方配件折扣汇总，适合近期有购入计划的影像爱好者快速锁定优惠。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Last European Prime Day Deals"
-    },
-    {
-      "id": "recvnDVFME4SWN",
-      "title": "第三方相机镜头曾因一个关键原因流行，但日本最新热门镜头暗示购买非原厂光学元件的完全不同理由",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/third-party-camera-lenses-used-to-be-popular-for-one-key-reason-but-the-latest-trending-lenses-in-japan-hint-at-an-entirely-different-reason-for-buying-non-native-optics",
-      "publish_time": "2026-06-26T15:00:00+08:00",
-      "summary": "第三方镜头因价格实惠和独特焦距流行，日本最新热门镜头显示购买非原厂光学元件的新理由",
-      "recommendation": "解析第三方镜头从性价比到光学创新的转变，日本最新热门镜头案例揭示非原厂元件的新价值，提供行业趋势与选购参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Third-party camera lenses used to be popular for one key reason, but the latest trending lenses in Japan hint at an entirely different reason for buying non-native optics"
-    },
-    {
-      "id": "recvnDVNIKSlOO",
-      "title": "Thypoch Voyager 24-50mm F2.8评测：比索尼镜头更好？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/26/thypoch-voyager-24-50mm-f2-8-review/",
-      "publish_time": "2026-06-26T15:00:00+08:00",
-      "summary": "Thypoch Voyager 24-50mm F2.8 FE是首款第三方自动对焦变焦镜头，性能可能超越原厂，值得考虑替代索尼镜头。",
-      "recommendation": "对比索尼原厂镜头的第三方自动对焦变焦镜头评测，提供MTF曲线与实拍样张数据，分析其光学性能与性价比优势。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Thypoch Voyager 24-50mm F2.8 Review: Better Than a Sony Lens?"
-    },
-    {
-      "id": "recvnDVwXwE2Cr",
-      "title": "佳能发布Cinema EOS C80固件更新",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canon-releases-firmware-update-for-the-cinema-eos-c80/",
-      "publish_time": "2026-06-26T14:27:19+08:00",
-      "summary": "佳能发布Cinema EOS C80固件v1.0.6.1，为中级更新，包含新功能和错误修复，支持全画幅19.05MP传感器。",
-      "recommendation": "佳能Cinema EOS C80固件更新，支持全画幅19.05MP传感器，对视频创作者有实用价值，但属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon Releases Firmware Update for the Cinema EOS C80"
-    },
-    {
-      "id": "recvnCFnCgBJlZ",
-      "title": "过去10年最佳旅行相机TOP 6",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/26/the-6-best-travel-cameras-of-the-past-10-years/",
-      "publish_time": "2026-06-26T12:00:00+08:00",
-      "summary": "本文评选过去10年最佳旅行相机TOP6，涵盖索尼A7RIII、富士X-T4等机型，强调便携性与画质平衡，为旅行摄影爱好者提供选购参考。",
-      "recommendation": "盘点近10年6款旅行相机，聚焦索尼A7RIII、富士X-T4等机型，提供便携与画质平衡的选购参考，适合旅行摄影爱好者快速锁定目标。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 6 Best Travel Cameras of the Past 10 Years"
-    },
-    {
-      "id": "recvnCFi4a8HmM",
-      "title": "Nothing Phone (4b) 关键规格曝光，或搭载5400mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/nothing_phone_4b_key_specs_tipped_may_pack_a_5400mah_battery-news-73446.php",
-      "publish_time": "2026-06-26T11:03:01+08:00",
-      "summary": "Nothing Phone (4b) 将于7月7日发布，配备6.7英寸120Hz AMOLED屏、5000万像素主摄和5400mAh电池。",
-      "recommendation": "曝光Nothing Phone (4b) 5000万像素主摄与5400mAh电池规格，影像配置未超预期，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nothing Phone (4b) key specs tipped, may pack a 5,400mAh battery"
-    },
-    {
-      "id": "recvnCFl8WdifP",
-      "title": "亚马逊美国Prime Day促销：Google Pixel 10 Pro和10 Pro XL降价",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/amazon_us_prime_day_deals_the_google_pixel_10_pro_and_10_pro_xl_are_on_sale-news-73444.php",
-      "publish_time": "2026-06-26T05:49:02+08:00",
-      "summary": "亚马逊Prime Day促销中，Google Pixel 10 Pro和10 Pro XL降价，两者均搭载相同处理器，主要区别在于屏幕尺寸和电池容量。",
-      "recommendation": "Prime Day降价信息，Pixel 10 Pro系列影像规格一致，屏幕与电池差异对摄影体验影响有限，适合关注性价比的影像用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Amazon US Prime Day deals: the Google Pixel 10 Pro and 10 Pro XL are on sale"
-    },
-    {
-      "id": "recvnADumhsijJ",
-      "title": "Kipon发布全球首款内置可变ND的专业PL卡口转接环",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/25/kipon-launches-worlds-first-pro-pl-mount-adapter-with-an-integrated-variable-nd/",
-      "publish_time": "2026-06-26T03:40:28+08:00",
-      "summary": "Kipon推出全球首款内置可变ND的专业PL卡口转接环，适配索尼和尼康无反相机，设计精巧。",
-      "recommendation": "文章介绍Kipon全球首款内置可变ND的PL卡口转接环，适配索尼/尼康无反，提供独特光学解决方案，对视频创作者有实用价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Kipon Launches World’s First Pro PL Mount Adapter With an Integrated Variable ND"
     }
   ]
 }
