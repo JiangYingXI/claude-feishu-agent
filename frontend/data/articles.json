@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-10T04:27:31.384074+08:00",
+    "updated_at": "2026-07-10T12:39:57.098409+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 24
     },
     {
       "key": "镜头与光学",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 46
+      "count": 45
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 389
+      "count": 391
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvoWsQ7KZnR7",
+      "title": "宝丽来的反AI广告掩盖了一个黑暗的秘密",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/10/polaroids-anti-ai-ads-cover-up-a-dark-secret/",
+      "publish_time": "2026-07-10T12:00:00+08:00",
+      "summary": "宝丽来通过手写字体和真实快照的广告牌，反对过度数字化，强调人文温暖，但掩盖了其涉足AI领域的黑暗秘密。",
+      "recommendation": "揭露宝丽来反AI广告背后的商业矛盾，为影像爱好者提供品牌策略与道德边界的深度思考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Polaroid’s Anti-AI Ads Cover Up a Dark Secret"
+    },
+    {
+      "id": "recvoWsLdwE1rS",
+      "title": "Oppo Find N7电池容量泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_find_n7_battery_capacity_leaks-news-73660.php",
+      "publish_time": "2026-07-10T11:10:02+08:00",
+      "summary": "Oppo Find N7预计2027年Q1发布，采用更宽设计，搭载非Pro版骁龙8 Elite Gen 6 SoC。",
+      "recommendation": "电池容量泄露间接影响影像续航，但未提及影像规格，对追求拍摄性能的用户参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo Find N7's battery capacity leaks"
+    },
+    {
+      "id": "recvoWsNGAOsWL",
+      "title": "小米18 Pro相比前代将带来大量升级",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_18_pro_will_bring_a_ton_of_upgrades_compared_to_its_predecessor-news-73655.php",
+      "publish_time": "2026-07-10T09:01:02+08:00",
+      "summary": "小米18 Pro预计9月发布，搭载骁龙8 Elite Gen 6 Pro芯片，配备超清晰小尺寸平面屏幕，四边超窄对称边框。",
+      "recommendation": "文章透露小米18 Pro搭载骁龙8 Elite Gen 6 Pro芯片与超清小尺寸平面屏，对关注旗舰影像性能与屏幕素质的爱好者有参考价值，但缺乏具体影像数据，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi 18 Pro will bring a ton of upgrades compared to its predecessor"
+    },
     {
       "id": "recvoUshJ37mny",
       "title": "报告显示：尽管有所波动，电影价格仍保持稳定",
@@ -4082,6 +4128,22 @@
       "original_title": "Fujifilm’s trying something new after 40 years of disposable QuickSnap cameras"
     },
     {
+      "id": "recvoWsII2yWxo",
+      "title": "富士胶片在一次性QuickSnap相机问世40年后尝试新事物",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/fujifilm-is-trying-something-new-after-40-years-of-disposable-quicksnap-cameras/",
+      "publish_time": "2026-07-03T17:00:00+08:00",
+      "summary": "富士胶片为庆祝QuickSnap系列40周年，推出两款新一次性相机，延续经典设计并可能改进性能。",
+      "recommendation": "QuickSnap40周年新机，分析经典设计延续与性能改进，对胶片爱好者有怀旧与实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm’s trying something new after 40 years of disposable QuickSnap cameras"
+    },
+    {
       "id": "recvoiMLOAkuzg",
       "title": "三星Galaxy S27 Pro和Galaxy S27 Ultra将配备全新自拍相机",
       "source": "GSMArena",
@@ -7774,68 +7836,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "OMG! I wish the Canon EOS R5 had been this cheap when I bought it - it's now dropped to just $2,599"
-    },
-    {
-      "id": "recvnFbLSkScWU",
-      "title": "官员“拒绝”公布可能显示警察偷窃摄影师背包的执法记录仪视频",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/26/officials-are-refusing-to-release-bodycam-footage-that-may-show-cop-stealing-photographers-bag/",
-      "publish_time": "2026-06-26T19:52:43+08:00",
-      "summary": "官员拒绝公布可能显示警察偷窃摄影师背包的执法记录仪视频，新诉讼指控其隐瞒证据。",
-      "recommendation": "从执法记录仪视角揭示警察与摄影师冲突中的证据争议，对关注影像伦理与法律边界的爱好者有独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Officials are ‘Refusing’ to Release Bodycam Footage That May Show Cop Stealing Photographer’s Bag"
-    },
-    {
-      "id": "recvnFc0bbQgCo",
-      "title": "佳能RF 50mm f/1.8对比EF 50mm f/1.8——你应该为相机购买更便宜的DSLR版本还是更新的无反版本？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/canon-rf-50mm-f-1-8-vs-ef-50mm-f-1-8",
-      "publish_time": "2026-06-26T19:48:25+08:00",
-      "summary": "佳能RF 50mm f/1.8与EF 50mm f/1.8对比，RF版更贵但光学性能提升，EF版性价比高，需根据相机系统选择。",
-      "recommendation": "对比RF与EF两代50mm f/1.8镜头，提供光学性能、价格及系统兼容性数据，帮助用户根据相机选择升级或省钱。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon RF 50mm f/1.8 vs EF 50mm f/1.8 –Should you buy the cheaper DSLR version or the newer mirrorless one for your camera?"
-    },
-    {
-      "id": "recvnFctbCy4jH",
-      "title": "确认：索尼将于7月发布FX5和RX10 V",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/confirmed-two-sony-cameras-coming-in-july-the-sony-fx5-and-rx10v/",
-      "publish_time": "2026-06-26T19:44:35+08:00",
-      "summary": "索尼将于7月分两次发布RX10 V紧凑型超级变焦相机和FX5相机，后者配备全新全局快门传感器。",
-      "recommendation": "索尼7月双机发布，FX5全局快门传感器与RX10 V长焦升级，提供具体发布时间与传感器规格，适合关注新机动态的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Confirmed: Sony to Announce the FX5 and RX10 V in July"
-    },
-    {
-      "id": "recvnFbOnMVNh4",
-      "title": "加州计划阻止人们拍摄大苏尔比克斯比大桥的标志性照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/26/plans-to-stop-people-pulling-over-on-big-sur-to-take-photos-of-bixby-bridge/",
-      "publish_time": "2026-06-26T19:41:05+08:00",
-      "summary": "加州当局在比克斯比桥附近设置禁停标志，阻止人们拍摄该桥照片，以缓解交通拥堵。",
-      "recommendation": "揭示热门摄影地点的管理困境，对风光摄影师有现实参考价值。提供交通法规与拍摄权的冲突案例，非独家但具行业启示。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "CA Plans to Stop People From Taking Iconic Photo of Big Sur’s Bixby Bridge"
     }
   ]
 }
