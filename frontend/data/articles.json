@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-10T23:19:49.078283+08:00",
+    "updated_at": "2026-07-11T04:04:41.434970+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 22
+      "count": 21
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 110
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,229 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 16
+      "count": 17
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 43
+      "count": 45
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 393
+      "count": 394
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 207
+      "count": 208
     }
   ],
   "articles": [
+    {
+      "id": "recvp0dcj1UsoE",
+      "title": "为什么其他评测者喜爱索尼RX10 V，尽管我们并不感冒",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/why-other-reviewers-love-the-sony-rx10-v-even-though-we-didnt/",
+      "publish_time": "2026-07-11T03:35:02+08:00",
+      "summary": "索尼发布RX10 V桥式相机，售价2299美元，自2017年RX10 IV后首次更新，本文提供多样化评测观点以助购机决策。",
+      "recommendation": "汇总多角度评测观点，对比RX10 IV的升级细节，提供2299美元定价下的购机决策参考，含传感器与对焦系统数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Other Reviewers Love the Sony RX10 V Even Though We Didn’t"
+    },
+    {
+      "id": "recvp0dC826JW2",
+      "title": "告诉所有想支持摄影师的人",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/10/announcing-the-5-boro-foto-fest-a-place-where-art-lovers-meet-real-photographers-copy-2/",
+      "publish_time": "2026-07-11T03:00:00+08:00",
+      "summary": "宣布举办5 Boro Foto Fest，为摄影师提供销售印刷艺术的空间，强调无算法、无AI、只有人类，以行业可持续性为宗旨。",
+      "recommendation": "聚焦摄影师生存困境，提出无算法、无AI的线下销售空间方案，为影像行业可持续性提供独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tell Everyone You Know Who Wants to Support Photographers"
+    },
+    {
+      "id": "recvp0deSMmaib",
+      "title": "Falcam 哈苏 X2D 兔笼：提供保护与隐藏式 AirTag 隔层",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/falcams-hasselblad-x2d-cage-offers-protection-and-a-secret-airtag-compartment/",
+      "publish_time": "2026-07-11T02:36:17+08:00",
+      "summary": "Falcam为哈苏X2D和X2D II发布相机兔笼，重点保护相机、保留极简设计并改善操作，同时提供隐藏式AirTag隔层。",
+      "recommendation": "哈苏X2D用户可了解这款兔笼如何兼顾保护与极简设计，隐藏式AirTag隔层是独特功能，改善操作细节值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Falcam’s Hasselblad X2D Cage Offers Protection and a Secret AirTag Compartment"
+    },
+    {
+      "id": "recvp0dqrQl8jT",
+      "title": "Insta360与Bambu Lab发起挑战：3D打印你自己的Luna Ultra相机配件",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/insta360-and-bambu-lab-challenge-you-to-3d-print-your-own-luna-ultra-camera-accessories/",
+      "publish_time": "2026-07-11T02:24:15+08:00",
+      "summary": "Insta360与Bambu Lab在MakerWorld发起竞赛，邀请创作者基于官方Luna Ultra设计文件提交3D打印配件，旨在推动相机配件创新。",
+      "recommendation": "Insta360与Bambu Lab合作竞赛，提供Luna Ultra官方设计文件，鼓励3D打印配件创新，为影像爱好者展示定制化相机配件的实操路径与行业跨界合作趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Insta360 and Bambu Lab challenge you to 3D-print your own Luna Ultra camera accessories"
+    },
+    {
+      "id": "recvp0dhcV4hcL",
+      "title": "自由摄影师抵制《华尔街日报》新合同",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/freelance-photographers-balk-at-new-wall-street-journal-contract/",
+      "publish_time": "2026-07-11T01:01:06+08:00",
+      "summary": "《华尔街日报》新合同引发数百名自由摄影师抵制，因担忧知识产权所有权，他们拒绝提供服务，而报社称此举为跟上技术发展并保护摄影档案。",
+      "recommendation": "自由摄影师抵制《华尔街日报》合同，揭示知识产权所有权争议，对影像创作者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Freelance Photographers Balk at New Wall Street Journal Contract"
+    },
+    {
+      "id": "recvp0dsRgYlfq",
+      "title": "年度航拍照片看起来几乎不真实——获奖摄影师说：“我优先在相机内捕捉‘关键镜头’”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/the-aerial-image-of-the-year-looks-almost-unreal-i-prioritize-capturing-the-money-shot-in-camera-says-award-winning-photographer",
+      "publish_time": "2026-07-11T00:29:38+08:00",
+      "summary": "无人机拍摄的麋鹿公园图像获航拍大奖，摄影师强调在相机内直接捕捉理想效果，避免后期处理。",
+      "recommendation": "通过获奖摄影师实战案例，揭示无人机航拍中“相机内直出”的技术要点，对追求真实影像的爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The aerial image of the year looks almost unreal – \"I prioritize capturing the 'money shot' in-camera,\" says award-winning photographer"
+    },
+    {
+      "id": "recvp0djyfkhoM",
+      "title": "一位摄影师，两辆被盗自行车，十座城市，十万张照片：横跨欧洲的延时摄影之旅",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/one-photographer-two-stolen-bicycles-10-cities-100000-photos-a-timelapse-tour-across-europe/",
+      "publish_time": "2026-07-11T00:29:36+08:00",
+      "summary": "一位摄影师从欧洲最南端出发，途经10座城市，创作10段延时摄影作品，最终抵达德国北部，完成史诗旅程。",
+      "recommendation": "通过10城延时摄影案例，展示跨地域光线、天气与城市节奏的实战技巧，含相机参数与后期流程数据，适合追求创作突破的摄影师。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "One Photographer, Two Stolen Bicycles, 10 Cities, 100,000 Photos: A Timelapse Tour Across Europe"
+    },
+    {
+      "id": "recvp0dlQrOkSz",
+      "title": "摄影师现在可以获得的10个最佳无反相机优惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/the-10-best-mirrorless-camera-deals-photographers-can-get-right-now/",
+      "publish_time": "2026-07-11T00:23:36+08:00",
+      "summary": "夏季相机优惠多，10款高品质无反相机大幅折扣，包括索尼RX10 V和徕卡SL3-P，适合摄影爱好者购买。",
+      "recommendation": "夏季无反相机折扣汇总，含索尼RX10 V、徕卡SL3-P等10款机型价格与参数，适合近期购机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 10 Best Mirrorless Camera Deals Photographers Can Get Right Now"
+    },
+    {
+      "id": "recvp0duXmwcWT",
+      "title": "30年过去了，这款时尚紧凑相机的设计几乎没变。你能看出最新版理光GR IV的区别吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/30-years-later-the-design-of-this-trendy-compact-camera-has-hardly-changed-can-you-spot-the-difference-on-the-latest-version-of-the-ricoh-gr-iv",
+      "publish_time": "2026-07-11T00:00:00+08:00",
+      "summary": "理光GR IV秋季推特别版，极简设计致敬原版，30年传承几乎未变",
+      "recommendation": "通过30年设计对比，揭示理光GR系列极简美学的传承与演变，对GR爱好者及紧凑相机收藏者具有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "30 years later, the design of this trendy compact camera has hardly changed. Can you spot the difference on the latest version of the Ricoh GR IV?"
+    },
+    {
+      "id": "recvp0dEvctqW7",
+      "title": "即使在2026年，X-Pro 3依然带给我巨大快乐",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/10/fujifilm-x-pro-3-in-2026/",
+      "publish_time": "2026-07-11T00:00:00+08:00",
+      "summary": "富士X-Pro 3在2026年仍带来巨大快乐，其设计让摄影师专注于拍摄过程，避免分心，是追求纯粹摄影体验的理想选择。",
+      "recommendation": "深度解析X-Pro 3在2026年的独特价值，聚焦设计哲学如何重塑拍摄专注力，为追求纯粹体验的摄影师提供稀缺的长期使用视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Even in 2026, the X-Pro 3 Still Brings Me Great Joy"
+    },
+    {
+      "id": "recvp0dodhFyGs",
+      "title": "富士Acros II：细腻颗粒黑白胶片之王",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/fujifilm-acros-ii-is-the-king-of-fine-grain-black-and-white-film/",
+      "publish_time": "2026-07-10T23:56:18+08:00",
+      "summary": "富士Acros II胶片以其细腻颗粒成为黑白胶片之王，Neopan系列仅Acros幸存，核心价值在于保留经典画质。",
+      "recommendation": "解析Acros II为何成为黑白胶片标杆，揭秘Neopan系列仅此型号存续的工艺取舍，提供颗粒度与反差控制数据，适合追求经典银盐质感的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm Acros II Is the King of Fine Grain Black and White Film"
+    },
+    {
+      "id": "recvp0dx9xKaFp",
+      "title": "这张火山喷发照片看起来像专业相机拍摄——但它不是，而且刚刚赢得了iPhone摄影大赛最高奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-volcanic-eruption-image-looks-like-it-was-shot-on-a-pro-camera-but-it-wasnt-and-it-just-won-the-top-prize-at-the-iphone-photography-awards",
+      "publish_time": "2026-07-10T23:35:18+08:00",
+      "summary": "一部使用三年的iPhone拍摄的危地马拉火山喷发照片，熔岩与星空交汇，赢得iPhone摄影大赛最高奖。",
+      "recommendation": "解析iPhone摄影大赛获奖作品的技术细节，展示计算摄影如何突破硬件限制，提供星空与熔岩同框的拍摄参数与后期思路。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This volcanic eruption image looks like it was shot on a pro camera – but it wasn't, and it just won the top prize at the iPhone Photography Awards"
+    },
+    {
+      "id": "recvp0dzCN0obZ",
+      "title": "趋势让胶片摄影显得昂贵，但这款受欢迎的柯达胶片实际价格比1990年代更合理",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/trends-make-film-photography-feel-expensive-but-this-popular-kodak-film-stock-is-actually-priced-better-than-it-was-in-the-1990s",
+      "publish_time": "2026-07-10T23:12:27+08:00",
+      "summary": "分析显示，尽管胶片摄影趋势昂贵，但柯达胶片价格涨幅未超年通胀率，实际价格比1990年代更合理。",
+      "recommendation": "通过通胀调整对比，揭示柯达胶片实际价格低于1990年代，为胶片爱好者提供理性消费参考，数据支撑观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Trends make film photography feel expensive, but this popular Kodak film stock is actually priced better than it was in the 1990s"
+    },
     {
       "id": "recvoZ3Oc4xwx2",
       "title": "索尼FX5价格初露端倪…",
@@ -7632,209 +7836,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Photographer Spends 10 Years Documenting the Bloody War on Drugs"
-    },
-    {
-      "id": "recvnKNNsxntLu",
-      "title": "索尼a7R VI – 33个必备技巧与窍门",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-a7r-vi-essential-33-tips-tricks/",
-      "publish_time": "2026-06-27T18:02:48+08:00",
-      "summary": "索尼A7rVI的33个必备技巧与窍门，涵盖核心功能与使用建议，帮助用户充分发挥相机性能。",
-      "recommendation": "33个实用技巧覆盖A7rVI核心功能与操作细节，含独家参数调校建议，助用户快速掌握高像素机型潜力。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony a7R VI – Essential 33 Tips & Tricks"
-    },
-    {
-      "id": "recvnKNQiFQba8",
-      "title": "超过10年的最佳紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/27/the-best-compact-cameras-older-than-10-years/",
-      "publish_time": "2026-06-27T18:00:00+08:00",
-      "summary": "紧凑型相机仍是摄影师首选，本文推荐几款最佳机型，保留核心技术参数，助你重温旧时光并拍摄出色图像。",
-      "recommendation": "盘点十年来紧凑型相机标杆机型，含传感器尺寸、光圈值等核心参数对比，适合怀旧用户或二手选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Compact Cameras Older Than 10 years"
-    },
-    {
-      "id": "recvnJzB0R6EL2",
-      "title": "闺房摄影：13个专业秘诀，以艺术风格捕捉优雅肖像",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/boudoir-photography-13-pro-secrets-for-capturing-tasteful-portraits-with-fine-art-flair",
-      "publish_time": "2026-06-27T17:10:00+08:00",
-      "summary": "闺房摄影需沟通对象、选器材，用自然光与柔光箱，低角度拍曲线，道具增情调，后期调色温，捕捉优雅瞬间。",
-      "recommendation": "从沟通到布光、构图，13个要点覆盖闺房摄影全流程，对想提升人像艺术感的爱好者有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Boudoir photography: 13 pro secrets for capturing tasteful portraits with fine-art flair"
-    },
-    {
-      "id": "recvoOyu2SdBKY",
-      "title": "年度最热音乐视频背后的创意摄影机选择",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/9142904989/olivia-rodrigo-drop-dead-music-video-behind-the-scenes/",
-      "publish_time": "2026-06-27T17:00:00+08:00",
-      "summary": "奥利维亚·罗德里戈《Drop Dead》MV摄影师揭秘创作过程，强调使用ARRI ALEXA Mini LF摄影机与Panavision镜头，以自然光效和手持拍摄增强情感表达",
-      "recommendation": "揭秘ARRI ALEXA Mini LF与Panavision镜头在MV中的实战应用，提供自然光效与手持拍摄的创作思路，对追求电影感影像的爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The creative camera choices behind one of the year’s biggest music videos"
-    },
-    {
-      "id": "recvnJzJFYEisa",
-      "title": "帮助我们远离亚马逊及其对摄影师的影响",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/27/simple-math-copy/",
-      "publish_time": "2026-06-27T15:00:00+08:00",
-      "summary": "《Phoblographer》杂志出版商计划出版纸质杂志，不依赖大型相机制造商广告，希望读者每年花1美元支持，以维持网站长期发展。",
-      "recommendation": "揭示摄影媒体摆脱大厂广告依赖的生存策略，对关注行业独立性与内容生态的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Help Us Move Away From Amazon and What He Did to Photographers"
-    },
-    {
-      "id": "recvnJzE9kNTN7",
-      "title": "专业人士更爱佳能？世界杯前夕MPB平台EOS R1销量暴涨超300%",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/do-pros-prefer-canon-eos-r1-sales-rose-more-than-300-percent-on-mpb-during-the-world-cup-buildup",
-      "publish_time": "2026-06-27T14:15:00+08:00",
-      "summary": "世界杯前夕，佳能EOS R1销量暴涨超300%，索尼A9 III增长63%，专业人士更青睐佳能旗舰相机。",
-      "recommendation": "MPB平台销量数据揭示世界杯前夕专业相机市场动向，EOS R1暴涨300%与A9 III增长63%的对比，为器材选购提供真实参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Do pros prefer Canon? EOS R1 sales rose more than 300% on MPB during the World Cup buildup"
-    },
-    {
-      "id": "recvnIs3yBnNbf",
-      "title": "2014年最适合年轻摄影爱好者的5款相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/27/the-5-best-cameras-from-2014-for-young-enthusiasts/",
-      "publish_time": "2026-06-27T12:00:00+08:00",
-      "summary": "2014年推荐5款适合年轻摄影爱好者的相机，强调老式相机回归，无需高价即可获得良好性能。",
-      "recommendation": "回顾2014年老式相机回归趋势，提供5款平价机型推荐，对入门爱好者有选机参考价值，但数据与观点较常规。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The 5 Best Cameras from 2014 For Young Enthusiasts"
-    },
-    {
-      "id": "recvnIrY2b3vpn",
-      "title": "研究人员开发全新像素类型，可同时记录和显示光线",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
-      "publish_time": "2026-06-27T05:44:19+08:00",
-      "summary": "苏黎世联邦理工学院开发新型像素，可同时捕捉和显示图像，未来用于混合相机/显示设备。",
-      "recommendation": "苏黎世联邦理工新型像素实现光捕捉与显示同步，为混合相机/显示设备提供硬件基础，传感器领域前沿突破。",
-      "categories": [
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Researchers Develop All-New Pixel Type That Can Both Record and Display Light"
-    },
-    {
-      "id": "recvnIs0ZhvY4y",
-      "title": "智能手机相机拍摄野生动物效果糟糕。这款紧凑镜头在Moment迄今最长、最锐利的手机镜头中实现240mm焦距",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phone-accessories/smartphone-cameras-are-terrible-for-wildlife-photography-this-compact-lens-creates-240mm-reach-in-moments-longest-sharpest-mobile-lenses-yet",
-      "publish_time": "2026-06-27T04:18:52+08:00",
-      "summary": "Moment推出专为iPhone潜望式摄像头设计的长焦镜头，实现240mm焦距，为迄今最长最锐利的手机镜头，提升野生动物拍摄效果。",
-      "recommendation": "解析Moment最新240mm手机长焦镜头，提供焦距、锐度等关键参数，揭示潜望式外接镜头对野生动物拍摄的实用价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Smartphone cameras are terrible for wildlife photography. This compact lens creates 240mm reach in Moment’s longest, sharpest mobile lenses yet"
-    },
-    {
-      "id": "recvnGr9Soh3DB",
-      "title": "更新版唯卓仕2026年镜头路线图（全系镜头八折优惠今日截止）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/26/updated-viltrox-2026-lens-roadmap-20-off-all-viltrox-lenses-ends-today.aspx/",
-      "publish_time": "2026-06-27T03:38:29+08:00",
-      "summary": "唯卓仕2026年将发布多款尼康Z卡口镜头，包括18mm f/1.2、26mm f/2.8饼干头等，目前全系镜头八折优惠今日截止。",
-      "recommendation": "唯卓仕2026年镜头路线图曝光18mm f/1.2等新品，含Z卡口饼干头规格，附全系八折截止提醒，适合关注副厂镜头动态的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Updated Viltrox 2026 lens roadmap (20% off all Viltrox lenses ends today)"
-    },
-    {
-      "id": "recvnGrcGq15Sd",
-      "title": "你最爱电影的画面就在这里",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/26/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy/",
-      "publish_time": "2026-06-27T03:00:00+08:00",
-      "summary": "Vista预设适用于Lightroom和Capture One，价格实惠，专为影棚和自然光线设计，提升街头、风景、人像等图像效果。",
-      "recommendation": "文章详解Vista预设的影棚与自然光适配特性，提供街头、人像等场景的调色思路，对追求高效色彩风格的摄影师有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Look of Your Favorite Films are Right Here"
-    },
-    {
-      "id": "recvnGqNNkZRyF",
-      "title": "足球胶片星期五：一次性相机中的柯达Tri-X",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/26/football-film-friday-kodak-tri-x-in-a-disposable/",
-      "publish_time": "2026-06-27T01:25:58+08:00",
-      "summary": "文章介绍足球胶片星期五活动，使用一次性相机中的柯达Tri-X胶片拍摄足球比赛，强调胶片摄影的独特质感和怀旧价值。",
-      "recommendation": "用一次性相机中的柯达Tri-X拍摄足球赛，探索胶片高感光度在动态场景下的表现，提供独特的颗粒质感与怀旧视角，适合追求胶片摄影美学的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Football Film Friday: Kodak Tri-X in a Disposable"
-    },
-    {
-      "id": "recvnGqQRbBQmY",
-      "title": "Oberwerth皮革D-Lux 8相机包：安全防护，随时待命",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/26/oberwerths-leather-d-lux-8-case-keeps-it-safe-but-always-ready/",
-      "publish_time": "2026-06-27T01:04:11+08:00",
-      "summary": "Oberwerth为徕卡D-Lux 8推出保护套，完美贴合相机，提供缓冲保护，保留接口访问，支持快速开合，避免错过重要时刻。",
-      "recommendation": "针对徕卡D-Lux 8用户，详述Oberwerth皮革保护套的贴合度、缓冲防护及接口保留设计，提供实用配件选择参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Oberwerth’s Leather D-Lux 8 Case Keeps It Safe, But Always Ready"
     }
   ]
 }
