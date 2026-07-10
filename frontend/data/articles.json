@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-10T12:39:57.098409+08:00",
+    "updated_at": "2026-07-10T18:08:41.732910+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 23
     },
     {
       "key": "镜头与光学",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 45
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,101 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 205
+      "count": 206
     }
   ],
   "articles": [
+    {
+      "id": "recvoXNw6gBJRW",
+      "title": "搭载6500mAh电池的vivo T5 Lite将于下周亮相",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_vivo_t5_lite_with_a_6500mah_battery_will_debut_next_week-news-73663.php",
+      "publish_time": "2026-07-10T17:44:02+08:00",
+      "summary": "vivo T5 Lite将于7月16日在印度发布，搭载6500mAh电池和44W快充，提供蓝银双色。",
+      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像核心参数，但6500mAh大电池与44W快充组合对长续航拍摄场景有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The vivo T5 Lite with a 6,500mAh battery will debut next week"
+    },
+    {
+      "id": "recvoXNoSIqjcv",
+      "title": "母亲去世后，市田小百合花了数年时间拍摄她的妹妹。然后她拒绝让电脑接触这些照片，而是使用一种150年前的蚀刻工艺手工印制每一张图像",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/sayuri-ichida-spent-years-photographing-her-sister-after-their-mother-died-then-she-refused-to-let-a-computer-anywhere-near-the-results-hand-printing-every-image-using-a-150-year-old-etching-process-instead",
+      "publish_time": "2026-07-10T17:00:00+08:00",
+      "summary": "日本艺术家市田小百合在母亲去世后，用数年拍摄妹妹，并拒绝数字技术，采用150年前的蚀刻工艺手工印制每张照片，新展证明缓慢固执的摄影过程比相机更能传达信息",
+      "recommendation": "本文揭示150年前蚀刻工艺在当代摄影中的独特价值，提供手工印相与数字技术的深度对比，对追求摄影本质的爱好者有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sayuri Ichida spent years photographing her sister after their mother died. Then she refused to let a computer anywhere near the results, hand-printing every image using a 150-year-old etching process instead"
+    },
+    {
+      "id": "recvoXNrmMrFVC",
+      "title": "这三个相机品牌在2026年尚未发布重磅新品——但我认为背后有充分理由",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/these-three-camera-brands-have-yet-to-announce-a-major-camera-in-2026-but-i-suspect-theres-a-good-reason-why",
+      "publish_time": "2026-07-10T15:05:00+08:00",
+      "summary": "2026年相机行业开局缓慢，三大品牌尚未发布新机型，但背后有充分理由。",
+      "recommendation": "分析2026年三大相机品牌新品延迟的行业逻辑，提供供应链与市场策略的深度观点，适合关注行业趋势的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These three camera brands have yet to announce a major camera in 2026 – but I suspect there’s a good reason why"
+    },
+    {
+      "id": "recvoXNBHuHgcK",
+      "title": "想要Capture One折扣？我们这里有！",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/10/modern-journalism-phoblographer-copy-3-copy-4-copy-3/",
+      "publish_time": "2026-07-10T15:00:00+08:00",
+      "summary": "2025年，《Phoblographer》计划出版纸质杂志，不向相机制造商出售广告，希望读者每人捐1美元以维持网站发展。",
+      "recommendation": "文章揭示Capture One折扣与《Phoblographer》纸质杂志众筹计划，提供影像行业商业模式转型的独特视角，适合关注软件优惠与媒体动态的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Want a Discount to Capture One? We’ve Got It!"
+    },
+    {
+      "id": "recvoXNyZYGe3h",
+      "title": "感谢所有向我提供索尼FX5及第三方镜头新信息的来源！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/thanks-to-all-sources-sending-me-new-info-about-the-sony-fx5-and-third-party-lenses/",
+      "publish_time": "2026-07-10T14:50:46+08:00",
+      "summary": "感谢过去24小时提供索尼FX5及第三方镜头新信息的来源，将评估并尊重界限。",
+      "recommendation": "汇总索尼FX5及第三方镜头新信息源，提供行业动态追踪价值。虽无独家数据，但可帮助影像爱好者了解新品生态进展。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Thanks to all sources sending me new info about the Sony FX5 and third party lenses!"
+    },
+    {
+      "id": "recvoXNtJl7Ixv",
+      "title": "思锐新款电影镜头同一包装盒内附四种不同卡口，简化自由摄影师工作",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/siruis-new-cine-lenses-ship-with-four-different-lens-mounts-in-the-same-box-to-simplify-the-life-of-freelance-camera-operators",
+      "publish_time": "2026-07-10T14:20:00+08:00",
+      "summary": "思锐Vision Prime 1电影镜头系列升级，同一包装盒内附四种不同卡口，简化自由摄影师工作，提升灵活性。",
+      "recommendation": "思锐电影镜头四卡口同盒设计，解决多系统用户转接痛点，提升现场切换效率，适合自由摄影师参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sirui’s new cine lenses ship with FOUR different lens mounts in the same box to simplify the life of freelance camera operators"
+    },
     {
       "id": "recvoWsQ7KZnR7",
       "title": "宝丽来的反AI广告掩盖了一个黑暗的秘密",
@@ -7744,98 +7835,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "nubia Air Pro listed online with a 108MP camera and a 5.99mm slim body"
-    },
-    {
-      "id": "recvnFcqnSrUJl",
-      "title": "亚马逊Prime Day最后一天与B&H夏季促销",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/last-day-of-amazon-prime-day-and-bhphoto-summer-deals/",
-      "publish_time": "2026-06-26T21:12:20+08:00",
-      "summary": "亚马逊Prime Day最后一天，多国站点大促即将结束，B&H夏季促销推出新优惠，翻新苹果设备享85折。",
-      "recommendation": "汇总Prime Day与B&H促销中相机、镜头等影像设备优惠，提供折扣幅度与翻新设备价格参考，适合计划升级装备的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Last Day of Amazon Prime Day and BHphoto Summer Deals"
-    },
-    {
-      "id": "recvnFckYLvf9R",
-      "title": "富士GFX100 II改进：打造终极工作机相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/26/fujifilm-gfx100-ii-review-update/",
-      "publish_time": "2026-06-26T21:00:00+08:00",
-      "summary": "富士GFX100 II改进自动对焦性能，成为终极工作机相机",
-      "recommendation": "解析GFX100 II对焦升级细节，提供中画幅工作机实战价值，含传感器与算法改进数据，适合关注高像素动态拍摄的影像创作者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Improvements to Fujifilm’s GFX100 II Make This the Ultimate Workhorse Camera"
-    },
-    {
-      "id": "recvoOywjvoebJ",
-      "title": "我们测试了尼康更新后比以往更轻的70-200mm F2.8镜头",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/9432314392/nikon-z-70-200mm-f2p8-vr-s-ii-sample-gallery-impressions/",
-      "publish_time": "2026-06-26T21:00:00+08:00",
-      "summary": "尼康新款70-200mm F2.8镜头更轻便，保留F2.8恒定光圈，提升便携性，适合专业长焦拍摄。",
-      "recommendation": "实测尼康新款70-200mm F2.8镜头，重点验证减重后的便携性与F2.8恒定光圈画质表现，含实拍样张与数据对比，为长焦选购提供参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "We put Nikon’s updated and lighter-than-ever 70-200mm F2.8 to the test"
-    },
-    {
-      "id": "recvnFbVloIkb2",
-      "title": "佳能通过以连接性为重点的固件更新增强EOS C80的生产能力",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/canon-bolsters-eos-c80s-production-credentials-with-connectivity-focused-firmware-update",
-      "publish_time": "2026-06-26T20:47:44+08:00",
-      "summary": "佳能EOS C80固件更新强化实时远程制作能力，提升片场工作效率",
-      "recommendation": "固件更新聚焦连接性提升，为视频创作者提供实时远程制作优化，含具体工作流改进细节，非泛泛升级说明。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon bolsters EOS C80's production credentials with connectivity-focused firmware update"
-    },
-    {
-      "id": "recvnFcdhPdXrl",
-      "title": "YouTube Shorts 获得全屏模式及多项新功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/youtube_shorts_gets_a_fullscreen_mode_and_a_host_of_new_features-news-73458.php",
-      "publish_time": "2026-06-26T20:21:03+08:00",
-      "summary": "YouTube Shorts推出全屏无干扰观看模式及2倍速播放选项，提升观看体验",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦YouTube Shorts界面与播放功能更新，对影像爱好者而言，全屏模式与倍速播放优化了短视频观看体验，但缺乏独家数据或深度技术分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "YouTube Shorts gets a full-screen mode and a host of new features"
-    },
-    {
-      "id": "recvnFbXIh6dy9",
-      "title": "天哪！我买佳能EOS R5时要是这么便宜就好了——现在降至仅2,599美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/omg-i-wish-the-canon-eos-r5-had-been-this-cheap-when-i-bought-it-its-now-dropped-to-just-usd2-599",
-      "publish_time": "2026-06-26T20:15:15+08:00",
-      "summary": "佳能EOS R5全画幅微单相机降至2599美元，价格大幅优惠，核心价值在于以更低成本获得高性能拍摄体验。",
-      "recommendation": "佳能EOS R5降至2599美元，提供全画幅高性能拍摄的性价比选择。文章含价格对比数据，助影像爱好者评估入手时机。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "OMG! I wish the Canon EOS R5 had been this cheap when I bought it - it's now dropped to just $2,599"
     }
   ]
 }
