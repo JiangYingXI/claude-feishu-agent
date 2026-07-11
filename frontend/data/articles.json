@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-11T22:07:53.794754+08:00",
+    "updated_at": "2026-07-12T03:47:36.640870+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 22
+      "count": 23
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 106
+      "count": 105
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 43
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,82 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvp5ZM9IoIO6",
+      "title": "达伦·阿尔蒙德25年夜间拍摄全球最著名景观，但凭借简单曝光技巧，照片宛如白天拍摄",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/darren-almond-photographed-the-worlds-most-famous-landscapes-at-night-for-25-years-but-they-look-like-they-were-shot-in-broad-daylight-thanks-to-this-simple-exposure-trick",
+      "publish_time": "2026-07-12T02:10:00+08:00",
+      "summary": "达伦·阿尔蒙德25年夜间拍摄全球景观，通过简单曝光技巧使照片宛如白天，TASCHEN新书《满月》展示该技术。",
+      "recommendation": "25年夜间拍摄经验提炼的简单曝光技巧，可让夜景照片如白天般清晰，对追求低光摄影的爱好者有直接技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Darren Almond photographed the world's most famous landscapes at night for 25 years – but they look like they were shot in broad daylight, thanks to this simple exposure trick"
+    },
+    {
+      "id": "recvp5ZSHoUoHa",
+      "title": "完美日子——如果你热爱摄影，这部电影不容错过",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/perfect-days-if-you-love-photography-you-must-see-this-movie/",
+      "publish_time": "2026-07-12T00:25:38+08:00",
+      "summary": "FR读者推荐摄影爱好者观看维姆·文德斯的《完美时光》和Netflix剧《瑞普利》，前者提名奥斯卡最佳国际影片。",
+      "recommendation": "从摄影美学角度解析《完美时光》与《瑞普利》，探讨构图、光线与叙事关系，提供电影级影像创作灵感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Perfect Days – If You Love Photography, You Must See This Movie"
+    },
+    {
+      "id": "recvp5ZObUGlEb",
+      "title": "“奇迹发生了……只需正确点击”——安第斯神鹫在巴塔哥尼亚摄影大赛中称霸",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/the-magic-happened-all-it-took-was-the-right-click-andean-condors-reign-supreme-in-patagonia-photo-contest",
+      "publish_time": "2026-07-11T23:20:00+08:00",
+      "summary": "巴塔哥尼亚摄影大赛获奖作品包括两张安第斯神鹫照片，这种猛禽被视为安第斯山脉地区的国家象征。",
+      "recommendation": "通过获奖作品解析安第斯神鹫拍摄技巧，提供鸟类摄影构图与时机选择的实战经验，对野生动物摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "\"The magic happened… all it took was the right click\" –Andean condors reign supreme in Patagonia Photo Contest"
+    },
+    {
+      "id": "recvp5ZQnYusE7",
+      "title": "Lava Virat V1 设计、配色及发布日期揭晓",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_virat_v1_launch_date-news-73682.php",
+      "publish_time": "2026-07-11T23:15:02+08:00",
+      "summary": "Lava与Flipkart合作推出Virat系列首款手机Virat V1，设计配色公布，7月21日印度亮相，强调17年信任与印度梦想。",
+      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像规格或技术细节，对影像爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "Lava Virat V1's design, colors, and launch date revealed"
+    },
+    {
+      "id": "recvp5ZJKTN9ob",
+      "title": "哪款高分辨率全画幅相机的传感器最好？",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/11/which-high-resolution-full-frame-camera-has-the-best-sensor/",
+      "publish_time": "2026-07-11T22:01:34+08:00",
+      "summary": "高端全画幅相机传感器对决，解析各品牌技术巅峰，助你选择最佳高分辨率产品。",
+      "recommendation": "对比索尼A7R5、佳能R5、尼康Z8等旗舰传感器，含IMX455等芯片实测数据，解析动态范围与噪点控制差异，为高像素机身选购提供硬核参考。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Which High-Resolution Full-Frame Camera Has the Best Sensor?"
+    },
     {
       "id": "recvp4ClRAZEwj",
       "title": "索尼RX10 V旧金山体验：当桥式相机遇上雾锁金门",
@@ -7755,83 +7831,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Leica SL3-P: Is Leica’s fastest camera its best?"
-    },
-    {
-      "id": "recvnQGGLTwIkF",
-      "title": "腾龙17-70mm F2.8样张图库：即将登陆佳能RF和尼康Z卡口",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/samples/7221272473/tamron-17-70mm-f2-8-sample-gallery",
-      "publish_time": "2026-06-28T21:00:00+08:00",
-      "summary": "腾龙发布17-70mm F2.8镜头新版本，支持佳能RF和尼康Z卡口APS-C相机，具备F2.8大光圈和VC防抖，适合家庭度假等场景。",
-      "recommendation": "提供腾龙17-70mm F2.8在RF/Z卡口上的实拍样张，展示F2.8光圈与VC防抖在APS-C画幅下的表现，适合关注副厂镜头适配性的用户参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tamron 17-70mm F2.8 sample gallery: coming soon to Canon RF and Nikon Z"
-    },
-    {
-      "id": "recvnQGJgGrZad",
-      "title": "我喜欢用照片记录家人——但作为“指定摄影师”，我几乎从不入镜",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/i-love-documenting-my-family-in-photographs-but-i-hate-that-as-designated-photographer-i-appear-in-almost-none",
-      "publish_time": "2026-06-28T20:30:00+08:00",
-      "summary": "文章探讨家庭指定摄影师常缺席照片记录的现象，揭示其宿命与价值",
-      "recommendation": "家庭摄影师缺席照片的痛点剖析，揭示记录者视角缺失的宿命与价值，为影像爱好者提供情感共鸣与创作反思。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I love documenting my family in photographs – but I hate that, as 'designated photographer', I appear in almost none"
-    },
-    {
-      "id": "recvnQGE5eBRo9",
-      "title": "摄影师与智利牧民共度六年，记录与世隔绝的生活",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/28/photographer-spends-six-years-with-chilean-ranchers-who-live-in-isolation/",
-      "publish_time": "2026-06-28T19:00:22+08:00",
-      "summary": "摄影师耗时六年，记录智利牧场主“普埃斯特罗斯”在广阔私人土地上长达数月的与世隔绝生活，展现其独特生存状态。",
-      "recommendation": "六年跟拍智利牧民，呈现极端环境下的生存影像，对纪实摄影爱好者有构图与叙事启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Spends Six Years with Chilean Ranchers Who Live in Isolation"
-    },
-    {
-      "id": "recvnQGLB1D2qP",
-      "title": "堪称最棒的360度相机在Prime Day惊人地便宜——而且我不会停下来问为什么！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/360-cameras/arguably-the-greatest-360-degree-camera-is-amazingly-cheap-this-prime-day-and-im-not-going-to-stop-to-ask-why",
-      "publish_time": "2026-06-28T18:00:24+08:00",
-      "summary": "大疆360度相机在Prime Day大幅降价，性能卓越，性价比极高，值得入手。",
-      "recommendation": "Prime Day大疆360度相机降价，性能与性价比双优。文章提供价格数据与产品对比，适合关注全景拍摄的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Arguably the greatest 360-degree camera is amazingly cheap this Prime Day – and I'm not going to stop to ask why!"
-    },
-    {
-      "id": "recvnQGO3B5BMw",
-      "title": "过去5年最佳佳能旅行相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/28/the-best-canon-travel-cameras-of-the-past-5-years/",
-      "publish_time": "2026-06-28T18:00:00+08:00",
-      "summary": "过去5年佳能推出多款旅行相机，从入门到全画幅，各具特色。本文推荐三款可靠机型，适合旅行摄影需求。",
-      "recommendation": "汇总佳能近5年旅行相机选择，涵盖入门至全画幅，提供具体机型对比与适用场景分析，助你快速定位适合的旅行拍摄设备。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Canon Travel Cameras of The Past 5 Years"
     }
   ]
 }
