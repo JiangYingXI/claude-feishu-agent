@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-11T16:24:53.933249+08:00",
+    "updated_at": "2026-07-11T22:07:53.794754+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,25 +23,151 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 17
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 42
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 398
+      "count": 396
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 203
+      "count": 204
     }
   ],
   "articles": [
+    {
+      "id": "recvp4ClRAZEwj",
+      "title": "索尼RX10 V旧金山体验：当桥式相机遇上雾锁金门",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/samples/sony-rx10-v-in-san-francisco-a-bridge-camera-and-a-fog-bound-bridge/",
+      "publish_time": "2026-07-11T22:00:00+08:00",
+      "summary": "索尼RX10 V在旧金山体验中，利用超长焦镜头拍摄雾锁金门，并尝试重现经典照片，展示其长焦能力和拍摄挑战。",
+      "recommendation": "通过雾锁金门场景实测RX10 V超长焦解析力与防抖，对比经典照片提供实拍挑战数据，对风光长焦用户有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony RX10 V in San Francisco: a bridge camera and a fog-bound bridge"
+    },
+    {
+      "id": "recvp4C4Idk59e",
+      "title": "捕捉夜空：ProMaster 2026年夏季天文摄影指南",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/11/capture-the-night-promasters-summer-2026-astrophotography-guide/",
+      "publish_time": "2026-07-11T21:30:14+08:00",
+      "summary": "2026年夏季是天文摄影佳季，ProMaster强调设备应支撑相机并延伸创作过程",
+      "recommendation": "文章聚焦天文摄影设备支撑与创作延伸，提供2026年夏季拍摄窗口期信息，对星空爱好者有实用参考价值，但未涉及独家数据或深度技术分析。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Capture the Night: ProMaster’s Summer 2026 Astrophotography Guide"
+    },
+    {
+      "id": "recvp4Cc1FoGt8",
+      "title": "索尼RX10 V是一款面向所有技能水平的相机——所以我把它设为自动模式，交给了一个11岁的孩子",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/the-sony-rx10-v-is-a-camera-meant-for-all-skill-levels-so-i-put-one-on-auto-mode-and-handed-it-to-an-11-year-old",
+      "publish_time": "2026-07-11T20:30:00+08:00",
+      "summary": "索尼RX10 V桥式相机功能全面，适合各水平用户，文章通过让11岁孩子使用自动模式测试其易用性，验证对初学者的友好度。",
+      "recommendation": "通过11岁儿童自动模式实测，验证RX10 V对初学者的易用性，提供真实场景反馈，而非参数堆砌。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Sony RX10 V is a camera meant for all skill levels – so I put one on auto mode and handed it to an 11-year-old"
+    },
+    {
+      "id": "recvp4Cjfgau5B",
+      "title": "唯卓仕26mm f/2.8 FE饼干镜头完整泄露规格与细节",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/full-leaked-specs-and-details-of-the-new-viltrox-26mm-f-2-8-fe-pancake-lens/",
+      "publish_time": "2026-07-11T20:05:05+08:00",
+      "summary": "唯卓仕26mm f/2.8 FE饼干镜头将于7月15日发布，采用6组8片光学结构，最近对焦0.2米，配备无噪音STM马达，适用于E卡口。",
+      "recommendation": "文章披露唯卓仕26mm f/2.8 FE饼干镜头的完整规格，包括6组8片光学结构、0.2米最近对焦及无噪音STM马达，为E卡口用户提供轻便定焦新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Full leaked specs and details of the new Viltrox 26mm f/2.8 FE pancake lens"
+    },
+    {
+      "id": "recvp4C7azeRXx",
+      "title": "我们现在比以往任何时候都更需要街头摄影",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/11/we-need-street-photography-now-more-than-ever/",
+      "publish_time": "2026-07-11T19:30:36+08:00",
+      "summary": "我们正经历人类历史上被拍摄最多的时刻，而街拍却比以往任何时候都更加重要，它捕捉真实瞬间，记录时代变迁。",
+      "recommendation": "从被拍摄最多时代切入，探讨街拍记录真实瞬间的不可替代性，为影像爱好者提供重新审视日常拍摄的视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "We Need Street Photography Now More Than Ever"
+    },
+    {
+      "id": "recvp4CgR3hmG3",
+      "title": "Nitecore BB nano 评测：吹气机如何变得更好？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/11/nitecore-bb-nano-review-how-did-a-blower-get-any-better/",
+      "publish_time": "2026-07-11T18:00:00+08:00",
+      "summary": "奈特科尔BB nano气吹小巧高效，快速清洁相机镜头传感器，成为摄影师必备配件。",
+      "recommendation": "评测Nitecore BB nano气吹，实测清洁效率与便携性，提供吹气机结构优化数据，对相机传感器维护有实用参考。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nitecore BB nano Review: How Did a Blower Get Any Better?"
+    },
+    {
+      "id": "recvp4C9Clzyhp",
+      "title": "促销：Nothing Phone (4b) 开启预售，Galaxy A57 和 Realme 16 Pro+ 成拦路虎",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_nothing_phone_4b_goes_on_preorder_galaxy_a57_and_realme_16_pro_stand_in_its_way-news-73672.php",
+      "publish_time": "2026-07-11T17:11:02+08:00",
+      "summary": "Nothing Phone (4b) 开启预售，配备6.77英寸OLED屏、骁龙6 Gen 4和5200mAh电池，但中端定位不及(4a)，且面临Galaxy A57和Realme 16 Pro+竞争",
+      "recommendation": "剖析中端手机影像竞争格局，对比Nothing Phone (4b)与竞品影像配置差异，为购机提供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Nothing Phone (4b) goes on pre-order, Galaxy A57 and Realme 16 Pro+ stand in its way"
+    },
+    {
+      "id": "recvp4Ceg3woaW",
+      "title": "徕卡SL3-P评测：一款充满阳刚之气的极简主义全画幅无反相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/leica-sl3-p-review",
+      "publish_time": "2026-07-11T17:10:00+08:00",
+      "summary": "徕卡SL3-P全画幅无反相机，4500万像素，每秒40张连拍，8K视频，性能最强，评测其出色程度。",
+      "recommendation": "深度评测徕卡SL3-P，提供4500万像素、40fps连拍及8K视频实测数据，剖析极简设计与性能平衡，适合关注高端无反相机硬核参数的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica SL3-P review: A minimalist full-frame mirrorless camera with machismo"
+    },
     {
       "id": "recvp3dVKyj9Kz",
       "title": "佳能EOS R8 Mark II传闻规格",
@@ -7706,132 +7832,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The Best Canon Travel Cameras of The Past 5 Years"
-    },
-    {
-      "id": "recvnPxQi9c3cr",
-      "title": "柯达Fling失败而富士QuickSnap征服世界——但一次性相机其实可追溯至160年前！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/kodaks-fling-failed-while-fujifilms-quicksnap-conquered-the-world-but-the-first-disposable-camera-actually-dates-back-160-years",
-      "publish_time": "2026-06-28T17:10:00+08:00",
-      "summary": "富士QuickSnap一次性相机已40年，但一次性相机历史可追溯至160年前，柯达Fling失败而富士成功。",
-      "recommendation": "追溯一次性相机160年历史，对比柯达Fling与富士QuickSnap成败，揭示产品设计与市场策略差异，适合影像爱好者了解行业演变。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Kodak’s Fling failed while Fujifilm’s QuickSnap conquered the world – but the first disposable camera actually dates back 160 years!"
-    },
-    {
-      "id": "recvnPxTqpJtVg",
-      "title": "PetaPixel：唯卓仕刚刚发布了两款非常相似的镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/petapixel-viltrox-just-made-two-very-similar-lenses/",
-      "publish_time": "2026-06-28T15:28:33+08:00",
-      "summary": "Chris评测唯卓仕最新两款原生E卡口APS-C镜头：75mm f/1.8和90mm f/2.2，两者规格相似但定位不同。",
-      "recommendation": "对比两款规格相近的唯卓仕APS-C镜头，解析75mm f/1.8与90mm f/2.2的定位差异，为E卡口用户提供选购参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "PetaPixel: Viltrox Just Made Two VERY Similar Lenses"
-    },
-    {
-      "id": "recvnPxWpcopEu",
-      "title": "打造更出色摄影作品集的关键",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/28/by-appointment-only-were-doing-portfolio-reviews-copy-copy/",
-      "publish_time": "2026-06-28T15:00:00+08:00",
-      "summary": "文章强调照片比视频更具冲击力，能获得更多互动，并推荐Phoblographer的实惠个人摄影作品集审阅服务",
-      "recommendation": "文章从互动数据切入，指出照片在社交媒体中的传播优势，并推荐Phoblographer平价作品集审阅服务，为影像爱好者提供低成本提升作品质量的实操路径。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Key to Making a Better Photography Portfolio"
-    },
-    {
-      "id": "recvnPxMJWBmgw",
-      "title": "Galaxy M47关键规格、Tecno Camon Slim正式发布，第26周回顾",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/galaxy_m47_key_specs_tecno_camon_slim_official_week_26_in_review-news-73472.php",
-      "publish_time": "2026-06-28T13:07:02+08:00",
-      "summary": "三星Galaxy M47 5G将于6月29日在印度发布，配备6.7英寸120Hz AMOLED屏、骁龙芯片、6000mAh电池及OIS主摄，承诺六年系统更新。传音推出Camon Slim，厚6.39毫",
-      "recommendation": "文章汇总三星M47的OIS主摄、传音Camon Slim超薄设计等关键影像规格，提供6月新机动态参考，适合关注中端手机影像配置的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Galaxy M47 key specs, Tecno Camon Slim official, Week 26 in review"
-    },
-    {
-      "id": "recvnOpNhN2Ryw",
-      "title": "人们为何仍在寻找原版富士X100？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/28/people-are-searching-for-the-original-fuji-x100-but-why/",
-      "publish_time": "2026-06-28T12:00:00+08:00",
-      "summary": "文章探讨原版富士X100相机持续受追捧的原因，强调其经典设计和独特成像风格，而非单纯追求技术参数。",
-      "recommendation": "解析原版X100超越参数的价值，从设计哲学与成像风格切入，为追求摄影本质的爱好者提供独特视角。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "People are Searching for the Original Fuji X100. But Why?"
-    },
-    {
-      "id": "recvnOpI1RU6l3",
-      "title": "Brightin Star镜头促销活动两天后结束",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/27/the-brightin-star-lens-sale-ends-in-two-days.aspx/",
-      "publish_time": "2026-06-28T09:57:17+08:00",
-      "summary": "Brightin Star镜头促销两天后结束，精选镜头最高20%折扣，全球配送，优惠码RUMORS",
-      "recommendation": "Brightin Star镜头促销资讯，最高20%折扣及优惠码RUMORS，适合关注高性价比手动镜头的爱好者。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Brightin Star lens sale ends in two days"
-    },
-    {
-      "id": "recvnOpKHa7Fti",
-      "title": "独家Luminar优惠码：现有促销基础上再享8折",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/27/exclusive-luminar-coupon-code-for-an-additional-20-off-on-top-of-the-ongoing-sale.aspx/",
-      "publish_time": "2026-06-28T08:10:59+08:00",
-      "summary": "Luminar提供独家优惠码RUMORS20NEO，可在夏季促销基础上再享20%折扣，有效期至6月30日。",
-      "recommendation": "提供Luminar独家优惠码，在夏季促销基础上再享20%折扣，有效期至6月30日，适合计算摄影用户节省开支。常规促销资讯，可了解行业动态。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Exclusive Luminar coupon code for an additional 20% off on top of the ongoing sale"
-    },
-    {
-      "id": "recvnOpF6NHUPI",
-      "title": "我爱胶片，但讨厌成本，所以我开始寻找最好的无屏幕数码相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/best-screen-free-digital-camera",
-      "publish_time": "2026-06-28T05:20:00+08:00",
-      "summary": "结合模拟与数字优势，无屏幕数码相机最佳选择，适合各年龄段，只为乐趣",
-      "recommendation": "文章从成本与体验平衡切入，对比无屏幕数码相机与胶片机，提供具体机型选择与模拟/数字优势分析，对追求复古拍摄乐趣的爱好者有实操参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I love film, but hate the cost, so I set out to find the best screen-free digital cameras"
     }
   ]
 }
