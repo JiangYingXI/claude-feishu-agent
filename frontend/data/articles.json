@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-11T11:57:51.269775+08:00",
+    "updated_at": "2026-07-11T16:24:53.933249+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 21
+      "count": 22
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,62 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 397
+      "count": 398
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 204
+      "count": 203
     }
   ],
   "articles": [
+    {
+      "id": "recvp3dVKyj9Kz",
+      "title": "佳能EOS R8 Mark II传闻规格",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-eos-r8-mark-ii-rumored-specifications/",
+      "publish_time": "2026-07-11T15:48:58+08:00",
+      "summary": "佳能EOS R8 Mark II预计9月初发布，采用复古设计，与R系列其他机型外观不同。",
+      "recommendation": "文章披露佳能R8 Mark II复古设计及9月发布窗口，提供R系列差异化外观的独家传闻，对关注佳能产品线布局的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon EOS R8 Mark II Rumored Specifications"
+    },
+    {
+      "id": "recvp3e0kp1Jdn",
+      "title": "索尼已经不知道如何制造卡片机了",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/11/sony-doesnt-know-how-to-make-a-point-and-shoot-anymore/",
+      "publish_time": "2026-07-11T15:00:00+08:00",
+      "summary": "索尼a7系列相机在耐候性、传感器保护、电池续航、连拍速度、快门类型和AI自动对焦等方面有显著革新，但其便携相机系列却发展滞后，如同被忽视的植物。",
+      "recommendation": "对比索尼A7系列革新与卡片机滞后，揭示产品线失衡，提供行业动态与便携相机发展现状的深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony Doesn’t Know How to Make a Point and Shoot Anymore"
+    },
+    {
+      "id": "recvp3dXYBQWN0",
+      "title": "佳能每年仍卖出60万台单反！\"只要还有客户，我们就想继续提供产品\"",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/canon-still-sells-600-000-dslrs-a-year-as-long-as-there-are-still-customers-we-would-like-to-continue-to-offer-our-products",
+      "publish_time": "2026-07-11T14:15:00+08:00",
+      "summary": "佳能每年销售超50万台单反相机，承诺只要还有客户就继续提供产品",
+      "recommendation": "佳能单反年销50万台的独家数据，揭示单反市场真实需求。对关注相机行业趋势的读者有参考价值，了解传统厂商在微单浪潮中的产品策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon still sells 600,000 DSLRs a year! \"As long as there are still customers, we would like to continue to offer our products\""
+    },
     {
       "id": "recvp28G9pT43F",
       "title": "联想在视频中展示Legion Y700终极游戏平板",
@@ -7785,52 +7832,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "I love film, but hate the cost, so I set out to find the best screen-free digital cameras"
-    },
-    {
-      "id": "recvnOpCapBods",
-      "title": "这位摄影师受够了压缩，自己建了个无压缩的图片分享网站",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/27/this-photographer-got-so-tired-of-compression-he-built-a-photo-sharing-website-without-it/",
-      "publish_time": "2026-06-28T04:00:12+08:00",
-      "summary": "日本开发者构建HiRezGo，提供无压缩全质量照片在线分享服务，解决平台压缩导致图像质量下降问题。",
-      "recommendation": "文章介绍HiRezGo平台，解决图片压缩痛点，提供无损分享方案。对追求画质的影像爱好者有实用价值，但无独家数据或深度观点。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Photographer Got So Tired of Compression He Built a Photo-Sharing Website Without It"
-    },
-    {
-      "id": "recvnMaXtmjdZi",
-      "title": "Gary Briechle 在即将出版的湿版摄影专著中延续与缅因州的诡异恋情",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/gary-briechle-continues-his-eerie-love-affair-with-maine-in-this-forthcoming-collodion-monograph",
-      "publish_time": "2026-06-28T02:15:00+08:00",
-      "summary": "Gary Briechle在湿版摄影专著《我想看灯塔》中延续30年对缅因州中海岸阴暗面的探索，展现其诡异恋情",
-      "recommendation": "湿版摄影专著《我想看灯塔》展示30年对缅因州中海岸的独特视角，提供罕见技术细节与创作心法，适合追求传统工艺与美学深度的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Gary Briechle continues his eerie love affair with Maine in this forthcoming collodion monograph"
-    },
-    {
-      "id": "recvnMb5akVvPp",
-      "title": "促销：Prime Day购物结束，Galaxy S26和Pixel 10系列最佳优惠汇总",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_prime_day_shopping_is_over_here_are_the_best_galaxy_s26_and_pixel_10_series_deals-news-73465.php",
-      "publish_time": "2026-06-28T02:11:02+08:00",
-      "summary": "Prime Day结束后，三星Galaxy S26 Ultra 256GB版起售价低于1000美元，512GB升级费200美元，同时汇总了Galaxy中端机和Pixel 10系列优惠。",
-      "recommendation": "汇总Prime Day后Galaxy S26与Pixel 10系列优惠，含S26 Ultra 256GB版定价及中端机、Pixel系列价格信息，为影像爱好者提供购机时机参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: Prime Day shopping is over, here are the best Galaxy S26 and Pixel 10 series deals"
     }
   ]
 }
