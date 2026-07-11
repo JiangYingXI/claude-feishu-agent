@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-11T04:04:41.434970+08:00",
+    "updated_at": "2026-07-11T11:57:51.269775+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 106
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,141 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 45
+      "count": 42
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 394
+      "count": 397
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 208
+      "count": 204
     }
   ],
   "articles": [
+    {
+      "id": "recvp28G9pT43F",
+      "title": "联想在视频中展示Legion Y700终极游戏平板",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lenovo_shows_the_legion_y700_ultimate_gaming_tablet_in_a_video-news-73679.php",
+      "publish_time": "2026-07-11T11:41:02+08:00",
+      "summary": "联想预告Legion Y700终极游戏平板，支持5G、双卡双待，配备物理SIM和eSIM，设计更新，完整公告8月发布。",
+      "recommendation": "平板影像非核心卖点，但支持5G双卡双待对移动创作有实用价值，可关注其完整公告是否涉及相机规格。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lenovo shows the Legion Y700 Ultimate gaming tablet in a video"
+    },
+    {
+      "id": "recvp28yl71FPk",
+      "title": "苹果起诉OpenAI，指控前员工窃取机密硬件商业机密",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets/",
+      "publish_time": "2026-07-11T11:33:05+08:00",
+      "summary": "苹果起诉OpenAI及两名前员工，指控其窃取机密硬件商业机密以加速消费硬件计划。",
+      "recommendation": "苹果与OpenAI的商业机密纠纷，揭示消费电子硬件研发中的影像技术竞争内幕，提供行业动态与潜在技术方向参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Apple Sues OpenAI, Alleging Former Employees Stole Confidential Hardware Trade Secrets"
+    },
+    {
+      "id": "recvp28At4se7U",
+      "title": "FCC对多家公司处以罚款，称其将大疆技术引入美国",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/fcc-fines-multiple-companies-it-says-are-bringing-dji-tech-into-the-u-s/",
+      "publish_time": "2026-07-11T11:06:06+08:00",
+      "summary": "FCC对八家公司罚款，称其将大疆技术引入美国，涉嫌违反无线产品进口销售规定。",
+      "recommendation": "常规资讯，可了解行业动态。揭示FCC对大疆技术进口的监管行动，对关注无人机影像市场的爱好者有政策参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "FCC Fines Multiple Companies It Says Are Bringing DJI Tech into the U.S."
+    },
+    {
+      "id": "recvp28Cfk3fKO",
+      "title": "Meta移除使用Instagram公开帖子的AI图像生成功能，此前遭用户强烈反对",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/10/meta-removes-ai-image-generation-feature-that-used-public-instagram-posts-following-user-backlash/",
+      "publish_time": "2026-07-11T10:24:43+08:00",
+      "summary": "Meta因用户强烈反对，移除自动将公共Instagram帖子用于AI图像生成的默认设置功能。",
+      "recommendation": "常规资讯，可了解行业动态。揭示Meta因用户反对撤回AI训练数据政策，对关注隐私与AI生成内容的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meta Removes AI Image Generation Feature That Used Public Instagram Posts Following User Backlash"
+    },
+    {
+      "id": "recvp28I6TAZFd",
+      "title": "Tecno Camon 50 Ultra 印度发布日期公布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/tecno_camon_50_ultra_india_launch_date-news-73675.php",
+      "publish_time": "2026-07-11T09:23:02+08:00",
+      "summary": "Tecno Camon 50 Ultra将于7月17日在印度发布，定位为创作者和摄影爱好者设计，定价待公布。",
+      "recommendation": "关注Tecno Camon 50 Ultra印度发布，了解其针对创作者和摄影爱好者的影像定位，可提前获取定价与配置信息。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tecno Camon 50 Ultra's India launch date announced"
+    },
+    {
+      "id": "recvp28K7SpVo6",
+      "title": "改变一切的富士龙镜头——接下来是什么",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/the-fujinon-lens-that-changed-everything-and-whats-coming-next/",
+      "publish_time": "2026-07-11T04:57:53+08:00",
+      "summary": "富士龙XF 18-50mm f/1.4镜头重量仅为佳能一半，性能卓越，未来可能推出更多类似镜头，改变摄影格局。",
+      "recommendation": "对比佳能同规格镜头重量数据，揭示富士龙XF 18-50mm f/1.4的轻量化优势，并预测未来镜头路线，为追求便携高性能的摄影爱好者提供选购参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Fujinon Lens That Changed Everything — And What’s Coming Next"
+    },
+    {
+      "id": "recvp28Ea3cLUC",
+      "title": "地铁上的病毒式照片。引人注目的航拍视角。本周最佳新闻图片TOP5证明对比在新闻摄影中的力量",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/a-viral-photo-on-the-subway-a-striking-aerial-view-the-top-5-news-photos-of-the-week-prove-the-power-of-contrast-in-photojournalism",
+      "publish_time": "2026-07-11T04:55:19+08:00",
+      "summary": "本周最佳新闻图片TOP5通过地铁病毒式照片和航拍视角，展示了对比在新闻摄影中的力量，突出视觉冲击与叙事效果。",
+      "recommendation": "通过地铁病毒式照片与航拍视角的对比案例，解析新闻摄影中视觉冲击与叙事技巧，适合摄影爱好者学习构图与故事表达。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A viral photo on the subway. A striking aerial view. The top 5 news photos of the week prove the power of contrast in photojournalism"
+    },
+    {
+      "id": "recvp28M21MZcB",
+      "title": "索尼RX10V现已可在亚马逊预购！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-rx10v-youtube-video-roundup/",
+      "publish_time": "2026-07-11T03:59:55+08:00",
+      "summary": "索尼RX10V已在亚马逊等平台开放预购，汇总YouTube评测，核心价值是提供最新相机购买信息。",
+      "recommendation": "汇总YouTube评测与预购信息，为RX10V潜在买家提供购买参考，含亚马逊渠道及首批体验数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony RX10V now available for preorder at Amazon too!"
+    },
     {
       "id": "recvp0dcj1UsoE",
       "title": "为什么其他评测者喜爱索尼RX10 V，尽管我们并不感冒",
@@ -7710,132 +7831,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Deals: Prime Day shopping is over, here are the best Galaxy S26 and Pixel 10 series deals"
-    },
-    {
-      "id": "recvnMb0ap1MTS",
-      "title": "取消取景器，佳能EOS R6 V相机让我失望",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/in-omitting-a-viewfinder-the-canon-eos-r6-v-camera-misses-the-mark-for-me",
-      "publish_time": "2026-06-27T23:20:00+08:00",
-      "summary": "佳能EOS R6 V相机取消取景器，定位视频优先，但作者认为许多创作者仍需要取景器功能。",
-      "recommendation": "从创作者实际需求出发，质疑佳能EOS R6 V取消取景器的设计决策，提供对视频机定位的深度反思。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "In omitting a viewfinder, the Canon EOS R6 V camera misses the mark for me"
-    },
-    {
-      "id": "recvnMb7Ebq0vU",
-      "title": "恐怖画廊：富士胶片继续毁坏野生动物摄影",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/the-gallery-of-horrors-fujifilm-continues-to-ruin-wildlife-photography/",
-      "publish_time": "2026-06-27T22:30:29+08:00",
-      "summary": "文章警告摄影师，富士X-T5在野生动物摄影中表现糟糕，导致灾难性结果，已通过真实世界证明。",
-      "recommendation": "通过真实世界测试揭露富士X-T5在野生动物摄影中的短板，提供具体场景下的性能数据与对比分析，对关注高速连拍与对焦的摄影爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Gallery of Horrors: Fujifilm Continues to Ruin Wildlife Photography"
-    },
-    {
-      "id": "recvnKNvvVLZaF",
-      "title": "Viltrox EVO 75mm f/1.8与90mm f/2.2评测：基本是双胞胎",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/27/viltrox-evo-75mm-f-1-8-and-90mm-f-2-2-review-basically-twins/",
-      "publish_time": "2026-06-27T22:01:23+08:00",
-      "summary": "评测对比Viltrox EVO 75mm f/1.8与90mm f/2.2两款镜头，指出它们设计相似但参数不同，为摄影爱好者提供选择参考。",
-      "recommendation": "对比两款参数相近的国产自动对焦镜头，提供实拍样张与光学数据，帮助用户区分75mm f/1.8与90mm f/2.2的实际差异。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox EVO 75mm f/1.8 and 90mm f/2.2 Review: Basically Twins"
-    },
-    {
-      "id": "recvnKNEqsDfBF",
-      "title": "徕卡SL3-P样张画廊：徕卡最新款有多接近赛事水准？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/samples/6580751906/leica-sl3-p-sample-gallery",
-      "publish_time": "2026-06-27T22:00:00+08:00",
-      "summary": "徕卡SL3-P样张展示，使用Summilux-SL 50mm F1.4镜头，F5.6光圈，通过车内模特转头场景测试闪光灯效果，接近赛事水准。",
-      "recommendation": "通过车内模特转头场景实测SL3-P闪光灯效果，结合Summilux-SL 50mm F1.4镜头F5.6光圈样张，提供接近赛事水准的成像数据，适合关注徕卡动态的用户。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leica SL3-P sample gallery: how race-ready is Leica's latest?"
-    },
-    {
-      "id": "recvnKNyK5fOqk",
-      "title": "摄影师Michael Shainblum展现新西兰非凡之美",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/27/photographer-michael-shainblum-reveals-new-zealands-remarkable-beauty/",
-      "publish_time": "2026-06-27T21:00:58+08:00",
-      "summary": "摄影师Michael Shainblum重返新西兰，通过响应多变天气的沉浸式风光摄影，展现其非凡之美，分享创意与技术方法。",
-      "recommendation": "通过摄影师应对多变天气的实战案例，分享风光摄影创意与技术方法，提供沉浸式拍摄思路，对提升户外影像创作有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Michael Shainblum Reveals New Zealand’s Remarkable Beauty"
-    },
-    {
-      "id": "recvnKNHrBbZmX",
-      "title": "年度最大音乐视频背后的创意摄影机选择",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/9142904989/olivia-rodrigo-drop-dead-music-video-behind-the-scenes",
-      "publish_time": "2026-06-27T21:00:00+08:00",
-      "summary": "奥利维亚·罗德里戈《drop dead》音乐视频发布两月获4200万次观看，在凡尔赛宫拍摄，采用90年代VHS复古美学风格，成为年度最大音乐视频之一。",
-      "recommendation": "解析年度热门MV如何用VHS复古美学与凡尔赛宫场景结合，提供90年代影像风格创作参考，含4200万次播放数据与拍摄技术细节。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The creative camera choices behind one of the year's biggest music videos"
-    },
-    {
-      "id": "recvnKNKvC7htE",
-      "title": "仅售75美元？TTArtisan下一代Neo定焦镜头细节曝光：85mm f/1.8自动对焦",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/an-85mm-f-1-8-autofocus-lens-for-just-us-usd75-details-surface-regarding-ttartisans-next-neo-prime",
-      "publish_time": "2026-06-27T20:30:00+08:00",
-      "summary": "TTArtisan即将推出85mm f/1.8自动对焦Neo镜头，售价仅75美元，继50mm f/1.8后又一超值选择。",
-      "recommendation": "曝光TTArtisan 85mm f/1.8自动对焦镜头仅75美元定价，提供超低价人像方案，含具体光圈与焦段数据，适合预算有限的影像爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "An 85mm f/1.8 autofocus lens for just US$75? Details surface regarding TTArtisan's next Neo prime"
-    },
-    {
-      "id": "recvnKNBwtVdmh",
-      "title": "摄影师耗时十年记录血腥毒品战争",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/27/photographer-spends-10-years-documenting-the-bloody-war-on-drugs/",
-      "publish_time": "2026-06-27T19:00:51+08:00",
-      "summary": "摄影师耗时十年追踪可卡因来源与去向，记录毒品战争的血腥真相。",
-      "recommendation": "十年追踪毒品战争的纪实影像，揭示摄影在极端社会议题中的叙事力量，对理解长期项目策划与伦理边界有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Spends 10 Years Documenting the Bloody War on Drugs"
     }
   ]
 }
