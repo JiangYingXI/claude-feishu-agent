@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-12T16:44:46.931479+08:00",
+    "updated_at": "2026-07-12T22:11:18.066839+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 106
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,159 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 43
+      "count": 42
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 393
+      "count": 391
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 202
+      "count": 204
     }
   ],
   "articles": [
+    {
+      "id": "recvpatrJIYb9H",
+      "title": "詹姆斯·韦伯太空望远镜25张最佳照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/12/the-25-best-james-webb-space-telescope-photos/",
+      "publish_time": "2026-07-12T21:00:37+08:00",
+      "summary": "詹姆斯·韦伯太空望远镜四周年之际，精选25张最佳太空照片，回顾其卓越成像成果。",
+      "recommendation": "韦伯望远镜的成像技术解析，含深空摄影的传感器与光学设计细节，对理解消费级相机极限成像有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The 25 Best James Webb Space Telescope Photos"
+    },
+    {
+      "id": "recvpatynOpBhe",
+      "title": "Capture One 价格现已超过 Lightroom 两倍多——官方这样解释",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/interviews/capture-one-now-costs-more-than-double-lightroom-heres-why/",
+      "publish_time": "2026-07-12T21:00:00+08:00",
+      "summary": "Capture One价格超Lightroom两倍多，CEO称其为专业摄影师构建软件，强调专业功能与价值",
+      "recommendation": "从价格差异切入，揭示Capture One与Lightroom的定位分歧，CEO亲述专业功能价值，适合纠结修图软件选择的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Capture One now costs more than double Lightroom – here’s their justification"
+    },
+    {
+      "id": "recvpatu8G4uMd",
+      "title": "使用哈苏XPan拍摄胶片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/12/running-on-film-with-the-hasselblad-xpan/",
+      "publish_time": "2026-07-12T20:30:27+08:00",
+      "summary": "本文探讨用哈苏XPan相机通过几张画面讲述跑步编辑故事，展示其宽幅胶片摄影的叙事能力与艺术价值。",
+      "recommendation": "通过哈苏XPan的宽幅叙事，解析胶片摄影如何强化跑步故事的情感张力，提供构图与胶片选择的实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Running on Film with the Hasselblad XPan"
+    },
+    {
+      "id": "recvpatAJ80Qe9",
+      "title": "4小时搜寻终获壮丽银河洞穴照片——“我总被那些独特且相对未被发现的地点所吸引”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/4-hours-of-searching-led-to-this-spectacular-milky-way-cave-photo-im-always-drawn-to-locations-that-feel-unique-and-relatively-undiscovered",
+      "publish_time": "2026-07-12T20:30:00+08:00",
+      "summary": "摄影师历经4小时搜寻，最终发现隐藏洞穴，拍摄到壮丽银河照片，强调独特且未被发现的地点吸引力。",
+      "recommendation": "通过4小时实地搜寻案例，揭示暗光环境下银河拍摄的选址技巧与构图思路，强调未被开发地点的影像价值，对追求独特风光的摄影者有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "4 hours of searching led to this spectacular Milky Way cave photo – \"I'm always drawn to locations that feel unique and relatively undiscovered\""
+    },
+    {
+      "id": "recvpatwgYbMTJ",
+      "title": "意图如何改变你的摄影",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/12/how-intention-changes-your-photography/",
+      "publish_time": "2026-07-12T20:01:47+08:00",
+      "summary": "作者通过童年登山经历，揭示意图如何塑造摄影，强调明确意图能提升作品深度与价值。",
+      "recommendation": "从童年登山经历切入，揭示意图对摄影作品深度与价值的决定性影响，提供区别于参数堆砌的创作视角，适合追求作品内涵的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How Intention Changes Your Photography"
+    },
+    {
+      "id": "recvpatFgwyjNZ",
+      "title": "Nothing Phone (4b) 正式发布，Pixel 11 系列价格泄露，第28周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/nothing_phone_4b_official_pixel_11_series_prices_leak-news-73671.php",
+      "publish_time": "2026-07-12T18:31:02+08:00",
+      "summary": "Nothing Phone 4b发布，起售价329欧元，保留Glyph Bar、6.77英寸120Hz AMOLED屏、5200mAh电池和5000万像素防抖主摄。vivo V80系列下月发布，配备7",
+      "recommendation": "涵盖Nothing Phone 4b的5000万像素防抖主摄与vivo V80系列影像升级信息，提供中端机型影像配置的行业动态参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nothing Phone (4b) official, Pixel 11 series prices leak, Week 28 in review"
+    },
+    {
+      "id": "recvpatHoyKqcL",
+      "title": "2026年，这4款老相机凭什么特别？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/12/what-makes-these-4-old-cameras-special-in-2026/",
+      "publish_time": "2026-07-12T18:00:00+08:00",
+      "summary": "2026年，四款老相机凭借独特价值仍具购买意义，文章分析其技术参数与市场定位，为困惑的消费者提供参考。",
+      "recommendation": "解析四款老相机在2026年的技术参数与市场定位，提供传感器尺寸、镜头卡口等关键数据对比，帮助影像爱好者理性评估经典机型的实际价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What Makes These 4 Old Cameras Special in 2026?"
+    },
+    {
+      "id": "recvpatJy0LfWT",
+      "title": "还有这支新的唯卓仕28mm f/1.8 II将于7月15日发布",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/there-is-also-this-new-viltrox-28mm-f-1-8-ii-coming-on-july-15/",
+      "publish_time": "2026-07-12T17:31:21+08:00",
+      "summary": "唯卓仕将于7月15日发布新款28mm f/1.8 II镜头，与26mm f/2.8 FE饼干镜头一同推出，前代售价379美元，具体改进未明。",
+      "recommendation": "文章提供唯卓仕28mm f/1.8 II发布具体日期与前代售价参考，对关注副厂镜头更新的爱好者有明确时间线价值，但改进细节未披露，属常规资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "There is also this new Viltrox 28mm f/1.8 II coming on July 15"
+    },
+    {
+      "id": "recvpatCYJwHQv",
+      "title": "人人都以为是徕卡造出了首款数码旁轴相机——但这个被遗忘的相机品牌抢先一步，迫使摄影师每次拍摄前都要假装过片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/rangefinder-cameras/everyone-thinks-leica-made-the-first-digital-rangefinder-but-this-forgotten-camera-brand-beat-leica-and-forced-photographers-to-fake-wind-film-before-every-shot",
+      "publish_time": "2026-07-12T17:10:00+08:00",
+      "summary": "2004年一款被遗忘的模块化数码相机抢先徕卡，可隐藏屏幕并需假装过片，迫使摄影师体验胶片感。",
+      "recommendation": "揭秘2004年一款被遗忘的模块化数码相机如何抢先徕卡，隐藏屏幕与假装过片的设计迫使摄影师体验胶片感，提供独特行业冷知识。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Everyone thinks Leica made the first digital rangefinder – but this forgotten camera brand beat Leica and forced photographers to fake-wind film before every shot"
+    },
     {
       "id": "recvp99rNUILu4",
       "title": "每周投票：你会购买Nothing Phone (4b)吗？",
@@ -7688,147 +7827,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Are those screen-free compact cameras actually any good?"
-    },
-    {
-      "id": "recvnVQWa55zlO",
-      "title": "黑色版折叠iPhone Ultra模型机现身",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/foldable_iphone_ultra_dummy_appears_in_black_finish-news-73487.php",
-      "publish_time": "2026-06-29T18:46:02+08:00",
-      "summary": "苹果预计9月随iPhone 18 Pro发布首款折叠屏iPhone Ultra，黑色模型机曝光，宽屏形态类似华为Pura X Max，厚度或接近三星Galaxy Z Fold。",
-      "recommendation": "折叠屏iPhone Ultra模型机曝光，揭示苹果折叠形态设计方向，对影像爱好者而言，可提前预判其镜头布局与厚度对拍摄手感的影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Foldable iPhone Ultra dummy appears in black finish"
-    },
-    {
-      "id": "recvnVQQwf0EU3",
-      "title": "无人机禁飞怎么办？5个天才航拍替代方案，突破禁飞区并火爆全网",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/drones/what-do-you-do-if-flying-your-drone-is-banned-5-genius-aerial-photography-alternatives-to-beat-no-fly-zones-and-go-viral",
-      "publish_time": "2026-06-29T18:40:56+08:00",
-      "summary": "面对无人机禁飞，本文提出5个替代方案，包括使用长杆、气球、风筝、无人机模拟器和卫星图像，突破限制并创作航拍内容。",
-      "recommendation": "提供5种禁飞区替代方案，含长杆、气球等实操技巧，适合航拍受限的影像爱好者获取创意灵感。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "What do you do if flying your drone is banned? 5 genius aerial photography alternatives to beat no-fly zones and go viral"
-    },
-    {
-      "id": "recvnVQTmGJSVz",
-      "title": "如果大卫·贝利都不在乎他用什么相机，你真的不需要中画幅或全画幅相机！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/if-david-bailey-doesnt-even-care-what-camera-he-is-using-you-really-dont-need-that-medium-format-or-full-frame-camera",
-      "publish_time": "2026-06-29T15:47:17+08:00",
-      "summary": "文章指出，不必追求中画幅或全画幅相机，因为优秀摄影不依赖昂贵设备，大卫·贝利等大师也不在乎相机规格。",
-      "recommendation": "以大卫·贝利等大师案例，破除器材迷信，强调摄影本质在于视角而非设备，对追求性价比的爱好者有启发价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "If David Bailey doesn't even care what camera he is using, you really don’t need that medium format or full frame camera!"
-    },
-    {
-      "id": "recvnVQZ8qv4cX",
-      "title": "思锐预告7月2日发布新款紧凑型长焦镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sirui-teases-a-new-compact-telephoto-lens-coming-on-july-2/",
-      "publish_time": "2026-06-29T15:01:25+08:00",
-      "summary": "思锐预告7月2日发布新款紧凑型长焦镜头，可放手掌中，适配APS-C或全画幅相机，具体参数待公布。",
-      "recommendation": "预告紧凑型长焦镜头，适配APS-C/全画幅，手掌大小便携性突出。虽参数未公布，但为关注轻量化镜头的用户提供前瞻信息。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sirui teases a new compact telephoto lens coming on July 2"
-    },
-    {
-      "id": "recvnVR1WYQbzJ",
-      "title": "最适合摄影爱好者的3款徕卡相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/29/the-best-3-leica-cameras-that-are-perfect-for-aspiring-photographers/",
-      "publish_time": "2026-06-29T15:00:00+08:00",
-      "summary": "徕卡相机深受摄影师喜爱，兼具拍摄质量与传承价值。推荐三款适合长期投资的相机，保留核心技术参数。",
-      "recommendation": "三款徕卡相机参数与投资价值解析，含传感器尺寸、镜头卡口等核心数据，适合摄影爱好者评估长期收藏与拍摄需求。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Best 3 Leica Cameras That Are Perfect for Aspiring Photographers"
-    },
-    {
-      "id": "recvnUiQn9B0km",
-      "title": "真假？这支腾龙镜头竟然超越了佳能、尼康和索尼？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/29/true-or-false-this-tamron-lens-outdid-canon-nikon-and-sony/",
-      "publish_time": "2026-06-29T12:00:00+08:00",
-      "summary": "2016年摄影界单反与无反进化阶段，腾龙以特殊焦距、高可靠性镜头超越佳能、尼康和索尼，展现独特竞争力。",
-      "recommendation": "回顾2016年腾龙镜头如何以特殊焦距与高可靠性在单反/无反过渡期挑战原厂，提供镜头竞争史与产品策略的深度视角。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "True or False: This Tamron Lens Outdid Canon, Nikon, and Sony?"
-    },
-    {
-      "id": "recvnUiKPx3CWC",
-      "title": "尼康新闻周刊第892期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/28/weekly-nikon-news-flash-892.aspx/",
-      "publish_time": "2026-06-29T10:51:39+08:00",
-      "summary": "OWC发布新款CFexpress 4.0 Type B存储卡，写入速度3571MB/s，读取2227MB/s，持续写入368MB/s。Adobe收购Topaz Labs。尼克尔《一千零一夜》更新。",
-      "recommendation": "存储卡写入速度3571MB/s、读取2227MB/s等关键数据，Adobe收购Topaz Labs对后期生态影响值得关注，尼克尔故事有历史价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #892"
-    },
-    {
-      "id": "recvnUiNHaHAP7",
-      "title": "即将结束：DxO、Luminar、Aftershoot和ON1折扣",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/28/ending-soon-dxo-luminar-aftershoot-and-on1-discounts.aspx/",
-      "publish_time": "2026-06-29T10:42:28+08:00",
-      "summary": "DxO夏季促销，新用户用优惠码SummerRumors2026享20%折扣，有效期至2026年7月10日，新增965个模块，同时Luminar等软件也有折扣。",
-      "recommendation": "DxO夏季促销含独家优惠码及965个新模块，Luminar等软件折扣可对比选择，适合后期爱好者节省开支。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Ending soon: DxO, Luminar, Aftershoot, and ON1 discounts"
-    },
-    {
-      "id": "recvnUiFmSJjD8",
-      "title": "我用过数百款相机包——完美的相机包根本不存在！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/ive-used-hundreds-of-camera-bags-and-the-perfect-camera-bag-simply-does-not-exist",
-      "publish_time": "2026-06-29T05:20:00+08:00",
-      "summary": "作者用过数百款相机包后认为完美包不存在，因为设备需求总在变化，核心价值是接受不完美并灵活适应。",
-      "recommendation": "作者以数百款包具使用经验，揭示完美相机包不存在于设备需求动态变化中，核心价值在于接受不完美并灵活适应，对器材控有实用启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I've used hundreds of camera bags –and the perfect camera bag simply does not exist!"
     }
   ]
 }
