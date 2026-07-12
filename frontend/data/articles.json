@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-12T03:47:36.640870+08:00",
+    "updated_at": "2026-07-12T12:13:00.363491+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 105
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 16
+      "count": 17
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,108 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 396
+      "count": 394
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 204
+      "count": 202
     }
   ],
   "articles": [
+    {
+      "id": "recvp832KKu4t6",
+      "title": "没有柔光箱也能让光线看起来不错的技巧",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/12/how-to-make-the-most-of-your-flash-with-no-light-modifiers-for-portraits-copy/",
+      "publish_time": "2026-07-12T12:00:00+08:00",
+      "summary": "本文介绍在无柔光箱时，使用闪光灯直接对准被摄者拍摄的技巧，强调预算有限时如何通过调整光线角度和距离获得良好效果。",
+      "recommendation": "本文提供无柔光箱时利用闪光灯角度与距离控制光质的实用技巧，对预算有限的影像爱好者有直接操作价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Trick to Making Light Look Good Without a Softbox"
+    },
+    {
+      "id": "recvp82VJMuxXR",
+      "title": "这张照片掌控光线，融合叙事与构图赢得大奖——而且是用iPhone拍摄的",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-image-mastered-light-melding-narrative-and-composition-to-win-an-award-and-it-was-shot-with-an-iphone",
+      "publish_time": "2026-07-12T11:20:00+08:00",
+      "summary": "匈牙利摄影师Gellért Gombai用iPhone拍摄，通过光影融合叙事与构图赢得大奖，为抽象摄影增添深层含义。",
+      "recommendation": "解析iPhone获奖作品如何用光影融合叙事与构图，为抽象摄影赋予深层含义，提供实战构图技巧与创作思路。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This photo masters light, melding narrative and composition to win an award – and it was shot with an iPhone"
+    },
+    {
+      "id": "recvp82Yitcbuv",
+      "title": "尼康推出创意十足的尼康Zf相机瓶架等周边产品，但仅限日本发售",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/nikon-launches-ingenious-nikon-zf-bottle-holder-among-other-camera-related-swag-but-theyre-only-available-in-japan",
+      "publish_time": "2026-07-12T08:10:00+08:00",
+      "summary": "尼康日本直营店推出限量版周边产品，包括T恤、毛巾和水瓶套等，但仅限日本国内销售。",
+      "recommendation": "尼康推出Zf相机主题周边，虽仅限日本，但反映品牌文化营销策略，对了解尼康用户生态有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon launches ingenious Nikon Zf bottle holder among other camera-related swag– but they're only available in Japan"
+    },
+    {
+      "id": "recvp830ulGDXD",
+      "title": "研究人员称，这些鸽子摄像头或能帮助打造更智能的无人机摄像头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/drones/these-pigeon-cameras-could-help-create-smarter-drone-cameras-say-researchers",
+      "publish_time": "2026-07-12T05:20:00+08:00",
+      "summary": "加拿大动物学家给鸽子绑微型摄像头，研究其飞行视觉，以启发更先进的机器视觉和无人机技术。",
+      "recommendation": "从鸽子飞行视觉研究切入，揭示仿生学如何优化无人机摄像头算法，对计算摄影爱好者有启发。提供动物实验与机器视觉结合的独特视角。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These pigeon cameras could help create smarter drone cameras, say researchers"
+    },
+    {
+      "id": "recvp834XX8ehT",
+      "title": "新款“经典版”SG-image 35mm f2.2 FE镜头现已开放预购",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/the-new-classic-edition-sg-image-35mm-f2-2-fe-lens-is-now-available-for-preorder/",
+      "publish_time": "2026-07-12T03:59:27+08:00",
+      "summary": "新款经典版SG-image 35mm f2.2 FE镜头开放预购，采用复古外观和航空级金属镜筒，可在亚马逊和SG-image购买。",
+      "recommendation": "复古外观与航空级金属镜筒是亮点，预购渠道明确，适合追求经典设计的FE卡口用户。",
+      "categories": [
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The new “Classic Edition” SG-image 35mm f2.2 FE lens is now available for preorder"
+    },
+    {
+      "id": "recvp837ae33fh",
+      "title": "腾龙将发布尼康Z卡口新镜头12-20mm f/2.8（型号A084）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/11/tamron-to-announce-a-new-12-20mm-f-2-8-lens-for-nikon-z-mount-model-a084.aspx/",
+      "publish_time": "2026-07-12T03:53:23+08:00",
+      "summary": "腾龙将发布尼康Z卡口12-20mm f/2.8镜头，恒定F2.8光圈，超广角变焦，适合天文摄影，长度119.3毫米",
+      "recommendation": "尼康Z卡口用户关注超广角恒定F2.8新选择，119.3mm紧凑设计兼顾天文摄影需求，提供具体规格数据。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tamron to announce a new 12-20mm f/2.8 lens for Nikon Z-mount (model A084)"
+    },
     {
       "id": "recvp5ZM9IoIO6",
       "title": "达伦·阿尔蒙德25年夜间拍摄全球最著名景观，但凭借简单曝光技巧，照片宛如白天拍摄",
@@ -7737,100 +7830,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "America's retro movie theaters are disappearing. A photographer is on a 44-year, 50-state, 1,200+ theater mission to save them"
-    },
-    {
-      "id": "recvnS26BX4OFt",
-      "title": "MultiDyne收购MRMC资产",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/28/mrmc-assets-acquired-by-multidyne.aspx/",
-      "publish_time": "2026-06-29T01:39:42+08:00",
-      "summary": "MultiDyne视频与光纤系统公司收购原尼康旗下MRMC资产，该公司专注于光纤传输广播和音频信号，生产摄像机链路和信号转换器。",
-      "recommendation": "常规资讯，可了解行业动态。文章报道了MultiDyne收购原尼康旗下MRMC资产，对关注广播级光纤传输和摄像机链路技术的影像从业者有一定参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "MRMC assets acquired by MultiDyne"
-    },
-    {
-      "id": "recvnS1TlpE0Nl",
-      "title": "这款20美元的新35mm胶片相机致敬经典东德品牌",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/28/this-new-20-35mm-film-camera-embraces-a-classic-east-german-brand/",
-      "publish_time": "2026-06-29T00:00:30+08:00",
-      "summary": "英国零售商推出Praktica VF212，一款20美元的35mm胶片相机，致敬东德经典品牌，延续可重复使用胶片相机潮流。",
-      "recommendation": "20美元胶片相机致敬东德Praktica品牌，分析其定位与可重复使用胶片相机市场趋势，适合关注复古摄影与低成本入门需求的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This New $20 35mm Film Camera Embraces a Classic East German Brand"
-    },
-    {
-      "id": "recvnS1YMMnS9D",
-      "title": "王牌飞行员顶级技巧：在航空博物馆别像独行侠那样乱拍！教你像高手一样使用相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/top-tips-for-top-guns-dont-shoot-like-a-maverick-in-air-museums-heres-how-to-use-your-camera-like-an-ace",
-      "publish_time": "2026-06-28T23:20:00+08:00",
-      "summary": "航空博物馆拍摄技巧：使用大光圈镜头、高ISO和慢速快门，避免闪光灯，利用自然光突出飞机细节，像高手一样拍出专业照片",
-      "recommendation": "航空博物馆拍摄技巧详解，涵盖大光圈、高ISO与慢速快门参数设置，避免闪光灯的自然光运用方法，提供实战级拍摄思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Top tips for Top Guns: Don't shoot like a maverick in air museums! Here's how to use your camera like an ace"
-    },
-    {
-      "id": "recvnS21kpES32",
-      "title": "今日仅限：节省20%",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/today-only-save-20-on/",
-      "publish_time": "2026-06-28T22:50:51+08:00",
-      "summary": "亚马逊Brightin Star镜头最高可享20%折扣，限今日",
-      "recommendation": "Brightin Star镜头限时折扣，为预算有限的影像爱好者提供实惠升级机会，但无独家数据或深度分析。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Today only: Save 20% on"
-    },
-    {
-      "id": "recvnQGBgAgGtL",
-      "title": "富士X100全景版时机已到：必将大受欢迎",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/28/its-time-for-a-panoramic-fujifilm-x100-it-would-be-a-huge-hit/",
-      "publish_time": "2026-06-28T21:30:21+08:00",
-      "summary": "作者专注全景摄影一年，从哈苏XPan到富士TX-1，再探索3D打印120格式相机，认为数码版富士X100全景相机时机成熟，必将大受欢迎。",
-      "recommendation": "从哈苏XPan到3D打印120相机，作者用一年全景摄影实践论证数码X100全景相机的市场空白，提供独特的产品洞察与历史脉络。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "It’s Time for a Panoramic Fujifilm X100: It Would Be a Huge Hit"
-    },
-    {
-      "id": "recvoOyym9P52v",
-      "title": "徕卡SL3-P：徕卡最快的相机就是最好的吗？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/leica-sl3-p-review/",
-      "publish_time": "2026-06-28T21:13:58+08:00",
-      "summary": "徕卡SL3-P作为最快相机，结合高分辨率与高速性能，但需评估其综合表现是否最佳。",
-      "recommendation": "深度解析徕卡SL3-P的“最快”定位，对比高像素与高速性能的取舍，提供实测数据与竞品对比，助你判断是否值得升级。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica SL3-P: Is Leica’s fastest camera its best?"
     }
   ]
 }
