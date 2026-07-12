@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-12T12:13:00.363491+08:00",
+    "updated_at": "2026-07-12T16:44:46.931479+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 394
+      "count": 393
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvp99rNUILu4",
+      "title": "每周投票：你会购买Nothing Phone (4b)吗？",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_nothing_phone_4b-news-73653.php",
+      "publish_time": "2026-07-12T15:01:02+08:00",
+      "summary": "Nothing Phone (4b)作为新中端机型发布，比(4a)略便宜，提供8/128GB和8/256GB配置，但旗舰机型已取消。",
+      "recommendation": "文章聚焦Nothing Phone (4b)中端定位与配置变化，虽未深入影像细节，但可从中端机市场策略中窥见厂商对影像功能的取舍，适合关注行业趋势的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly poll: will you buy the Nothing Phone (4b)?"
+    },
+    {
+      "id": "recvp99x3aE6Ae",
+      "title": "如何判断你拍的照片是好照片？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/12/the-checklist-for-critiquing-your-own-photographs-copy/",
+      "publish_time": "2026-07-12T15:00:00+08:00",
+      "summary": "成为优秀摄影师需接受批评，摒弃自我辩护，理解作品必须独立站得住脚，无法在场辩护时更需如此。",
+      "recommendation": "从自我辩护到作品独立，揭示摄影批评的实用价值，助你突破成长瓶颈。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How Do You Know You’re Making Good Photos?"
+    },
+    {
+      "id": "recvp99uqXXqf2",
+      "title": "我最初只是拿起相机，完全不知道自己在做什么……一路糊弄到现在，终于算是证明了自己",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/i-started-by-just-picking-up-a-camera-and-not-knowing-what-i-was-doing-ive-sort-of-blagged-it-this-far-and-now-i-guess-ive-legitimized-myself-finally",
+      "publish_time": "2026-07-12T14:15:00+08:00",
+      "summary": "一台佳能单反相机助他从制作企业视频转向拍摄《最后生还者》和《恐怖角》，证明了自己。",
+      "recommendation": "从企业视频到影视级作品，揭示佳能单反在低成本影视创作中的实战价值，含具体拍摄案例与设备选择逻辑。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"I started by just picking up a camera and not knowing what I was doing… I've sort of blagged it this far and now I guess I've legitimized myself finally\""
+    },
     {
       "id": "recvp832KKu4t6",
       "title": "没有柔光箱也能让光线看起来不错的技巧",
@@ -7784,52 +7829,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "I've used hundreds of camera bags –and the perfect camera bag simply does not exist!"
-    },
-    {
-      "id": "recvnUiIaBWfkh",
-      "title": "富士X和GFX系列多数优惠今日截止！",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/most-fujifilm-x-and-gfx-deals-end-today/",
-      "publish_time": "2026-06-29T04:05:36+08:00",
-      "summary": "美国富士X和GFX系列多数优惠今日截止，仅4款XF镜头优惠持续至8月2日，欧洲许多优惠6月30日结束。",
-      "recommendation": "富士X/GFX系列优惠截止时间汇总，含美欧市场差异，适合计划购机的用户快速决策。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Most Fujifilm X and GFX Deals End Today!"
-    },
-    {
-      "id": "recvnS243WTkL6",
-      "title": "《THE Tether》：摄影师打造的全新尼康无线联机拍摄应用",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/28/the-tether-is-a-new-wireless-nikon-tethering-app-built-by-a-photographer.aspx/",
-      "publish_time": "2026-06-29T02:45:33+08:00",
-      "summary": "韩国时尚摄影师开发THE Tether应用，实现尼康相机无线联机拍摄，解决有线不便，支持iPad/iPhone现场查看照片。",
-      "recommendation": "韩国摄影师自研尼康无线联机应用，解决有线拍摄痛点，提供iPad/iPhone现场看图方案。对商业摄影和联机工作流用户有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "“THE Tether” is a new wireless Nikon tethering app built by a Photographer"
-    },
-    {
-      "id": "recvnS1W6KP7bv",
-      "title": "美国复古电影院正在消失。一位摄影师历时44年、走遍50州、拍摄1200多家影院，试图拯救它们",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/americas-retro-movie-theaters-are-disappearing-a-photographer-is-on-a-44-year-50-state-1-200-theater-mission-to-save-them",
-      "publish_time": "2026-06-29T02:15:00+08:00",
-      "summary": "摄影师贝尼塔·范温克尔历时44年走遍50州拍摄1200多家影院，用纪实摄影记录美国复古电影院，呼吁它们继续存在。",
-      "recommendation": "44年跨50州拍摄1200家影院，用纪实摄影记录美国复古电影院消亡史，为影像爱好者提供独特的人文纪实拍摄案例与历史档案价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "America's retro movie theaters are disappearing. A photographer is on a 44-year, 50-state, 1,200+ theater mission to save them"
     }
   ]
 }
