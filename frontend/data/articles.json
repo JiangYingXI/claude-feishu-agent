@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-12T22:11:18.066839+08:00",
+    "updated_at": "2026-07-13T03:45:44.376742+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 23
+      "count": 24
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,94 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 391
+      "count": 392
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 204
+      "count": 203
     }
   ],
   "articles": [
+    {
+      "id": "recvpbPPscEW3c",
+      "title": "老实说，我从没见过这样的照片：一位航拍摄影师如何将捕鱼场景变成艺术作品",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/ive-honestly-never-seen-a-photo-like-this-how-one-aerial-photographer-turned-a-fishing-scene-into-a-work-of-fine-art",
+      "publish_time": "2026-07-13T02:10:00+08:00",
+      "summary": "航拍摄影师通过俯拍将日常捕鱼场景转化为艺术品，展示独特视角下的渔网美学。",
+      "recommendation": "俯拍捕鱼场景的独特视角，揭示渔网几何美学与光影关系，为航拍爱好者提供构图灵感与创作方法论。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I've honestly never seen a photo like this: How one aerial photographer turned a fishing scene into a work of fine art"
+    },
+    {
+      "id": "recvpbPRDUTJgl",
+      "title": "松下或正在开发一款可伸缩镜筒的L卡口微距镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/panasonic-might-be-working-on-an-l-mount-macro-lens-with-a-collapsible-barrel",
+      "publish_time": "2026-07-13T01:35:15+08:00",
+      "summary": "松下申请专利，开发L卡口可伸缩镜筒微距镜头，实现紧凑设计的同时保持高画质微距拍摄能力。",
+      "recommendation": "L卡口微距镜头专利曝光，可伸缩镜筒设计兼顾紧凑与高画质，对微距爱好者有参考价值，但信息有限。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Panasonic might be working on an L mount macro lens with a collapsible barrel"
+    },
+    {
+      "id": "recvpbPTIHmufQ",
+      "title": "我是风光摄影师，上一代全画幅尼康Z7 II依然是实力派相机。何必多花钱？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/im-a-landscape-photographer-and-the-last-gen-full-frame-nikon-z7ii-is-still-a-tour-de-force-camera-why-pay-more",
+      "publish_time": "2026-07-12T23:20:00+08:00",
+      "summary": "风光摄影师无需顶级对焦和连拍，尼康Z7 II作为上一代全画幅相机，性价比高，无需多花钱",
+      "recommendation": "从风光摄影实际需求切入，对比Z7 II与新品差异，提供性价比选机思路，适合预算有限但追求高画质的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I’m a landscape photographer and the last-gen, full-frame Nikon Z7 II is still a tour de force camera. Why pay more?"
+    },
+    {
+      "id": "recvpbPW0RuD7N",
+      "title": "好奇：索尼FX5有IBIS…可以移除？",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
+      "publish_time": "2026-07-12T22:19:19+08:00",
+      "summary": "索尼FX5内置IBIS，消息源称应要求可移除，IBIS通过电磁悬浮传感器工作，锁定状态机械刚性不足。",
+      "recommendation": "揭秘索尼FX5的IBIS可移除设计，电磁悬浮原理与机械刚性不足的独特信息，对视频拍摄稳定性有深度参考价值。",
+      "categories": [
+        "传感器硬件",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Curiosity: Sony FX5 has IBIS….you can remove?"
+    },
+    {
+      "id": "recvpbPNdYbwQ4",
+      "title": "促销：iPhone 17 Pro Max降价，Nothing Phone (4b)开启预购",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_iphone_17_pro_max_gets_a_price_cut_nothing_phone_4b_up_for_preorder-news-73677.php",
+      "publish_time": "2026-07-12T22:01:02+08:00",
+      "summary": "苹果iPhone 17 Pro Max和iPhone 17e本周开售，Nothing Phone (4b)开启预购，7月16日发货，同时谷歌Pixel、小米17系列和三星Galaxy A57也有优惠。",
+      "recommendation": "涵盖iPhone 17 Pro Max、Nothing Phone (4b)等新品影像配置与开售信息，提供关键数据与预购时间点，适合关注手机影像新品动态的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: iPhone 17 Pro Max gets a price cut, Nothing Phone (4b) up for pre-order"
+    },
     {
       "id": "recvpatrJIYb9H",
       "title": "詹姆斯·韦伯太空望远镜25张最佳照片",
@@ -72,6 +151,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Capture One now costs more than double Lightroom – here’s their justification"
+    },
+    {
+      "id": "recvpbPKDv0Mii",
+      "title": "Capture One 价格现已超过 Lightroom 两倍——其 CEO 解释原因",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/interviews/capture-one-now-costs-more-than-double-lightroom-heres-why/",
+      "publish_time": "2026-07-12T21:00:00+08:00",
+      "summary": "Capture One价格是Lightroom两倍，CEO解释为专业摄影师构建软件的价值，强调高端功能与定制服务",
+      "recommendation": "解析Capture One定价策略背后的专业价值逻辑，提供CEO独家观点与高端功能定制细节，助影像爱好者理解软件定位差异。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Capture One now costs more than double Lightroom – its CEO explains why"
     },
     {
       "id": "recvpatu8G4uMd",
@@ -7733,100 +7828,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Conflicting rumors about the Sony FX5 sensor type"
-    },
-    {
-      "id": "recvnX2fNp2PsF",
-      "title": "又一款无取景器紧凑相机登顶日本榜首——以更低价格超越传统摄影器材",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/another-compact-viewfinder-free-camera-is-japans-1-outperforming-traditional-photography-gear-at-a-lower-price",
-      "publish_time": "2026-06-29T20:14:21+08:00",
-      "summary": "一款899美元的无取景器紧凑相机登顶日本销售榜，反映市场对平价视频优先机型需求强劲",
-      "recommendation": "文章揭示899美元无取景器相机登顶日本榜首，提供平价视频优先机型市场数据，适合关注消费趋势的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Another compact, viewfinder-free camera is Japan's #1 – outperforming traditional photography gear at a lower price"
-    },
-    {
-      "id": "recvnX1MDSlBiu",
-      "title": "又一位总检察长起诉婚礼摄影师未交付照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/another-ag-is-suing-a-wedding-photographer-over-undelivered-images/",
-      "publish_time": "2026-06-29T20:12:22+08:00",
-      "summary": "宾夕法尼亚州总检察长起诉婚礼摄影师涉嫌诈骗客户75,000美元未交付照片",
-      "recommendation": "行业警示案例，揭示婚礼摄影合同与交付风险，对从业者规避法律纠纷有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Another AG is Suing a Wedding Photographer Over Undelivered Images"
-    },
-    {
-      "id": "recvnX2ikvsDQo",
-      "title": "每位旅行摄影师都应拥有哪支镜头？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/which-lens-should-every-travel-photographer-own/",
-      "publish_time": "2026-06-29T19:58:14+08:00",
-      "summary": "旅行摄影始于记录回忆，但常因场景变化需要不同焦段镜头，文章探讨如何选择一支全能镜头应对广角与长焦需求。",
-      "recommendation": "针对旅行中广角与长焦切换痛点，提供焦段选择逻辑与实战建议，含多款主流镜头数据对比，适合纠结一镜走天涯的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Which Lens Should Every Travel Photographer Own?"
-    },
-    {
-      "id": "recvnX2sW0YcqS",
-      "title": "松下悄然停产多款经典镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/29/panasonic-quietly-discontinues-multiple-iconic-lenses-from-its-portfolio/",
-      "publish_time": "2026-06-29T19:50:43+08:00",
-      "summary": "松下悄然停产多款经典镜头，包括无反相机镜头，反映镜头市场更新换代趋势。",
-      "recommendation": "盘点松下停产经典镜头型号，分析镜头市场更新换代趋势，对关注二手行情与镜头收藏的爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Panasonic Quietly Discontinues Multiple Iconic Lenses from Its Portfolio"
-    },
-    {
-      "id": "recvnVQKSGJtAW",
-      "title": "摄影师记录罕见黑豹在茶园哺育幼崽",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/photographer-documents-rare-black-panther-raising-her-cubs-on-tea-plantation/",
-      "publish_time": "2026-06-29T19:27:11+08:00",
-      "summary": "印度马纳斯国家公园，摄影师记录罕见黑豹家庭在茶园哺育幼崽，展现独特生态价值",
-      "recommendation": "罕见黑豹哺育幼崽的野外影像，展示低光环境拍摄技巧与生态摄影构图思路，对野生动物摄影师有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Documents Rare Black Panther Raising Her Cubs on Tea Plantation"
-    },
-    {
-      "id": "recvnVQNJOkrfn",
-      "title": "那些无屏幕的紧凑型相机到底好不好用？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/are-those-screen-free-compact-cameras-actually-any-good",
-      "publish_time": "2026-06-29T18:57:07+08:00",
-      "summary": "无屏幕紧凑型相机如Camp Snap和Flashback虽流行，但缺乏屏幕可能影响取景和回放，实用性存疑，需权衡便携与功能",
-      "recommendation": "文章剖析无屏幕紧凑相机在取景与回放上的实际痛点，提供便携性与功能取舍的深度观点，适合关注极简摄影趋势的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Are those screen-free compact cameras actually any good?"
     }
   ]
 }
