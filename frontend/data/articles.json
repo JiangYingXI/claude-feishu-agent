@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-13T03:45:44.376742+08:00",
+    "updated_at": "2026-07-13T12:19:28.857699+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 23
     },
     {
       "key": "镜头与光学",
@@ -28,20 +28,144 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 42
+      "count": 39
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 392
+      "count": 390
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 203
+      "count": 206
     }
   ],
   "articles": [
+    {
+      "id": "recvpdVe8PTQ2n",
+      "title": "半年前，我重新用回了单反。我不后悔",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/13/half-a-year-ago-i-went-back-to-dslrs-i-dont-regret-it/",
+      "publish_time": "2026-07-13T12:00:00+08:00",
+      "summary": "作者在索尼a7r VI发布日反思，尽管新相机有更大取景器、高像素、优质镜头等优点，但仍不满足需求，半年前因厌倦而购入尼康D850，不后悔重拾单反。",
+      "recommendation": "从索尼a7r VI发布日切入，反思单反与微单的取舍，提供D850用户视角的深度体验，对纠结器材选择的爱好者有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Half a Year Ago, I Went Back to DSLRs. I Don’t Regret It"
+    },
+    {
+      "id": "recvpdUYEeXqTN",
+      "title": "谷歌Pixel 11 Pro Fold新松木色渲染图泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_fold_leaks_in_new_pine_shade-news-73684.php",
+      "publish_time": "2026-07-13T11:40:01+08:00",
+      "summary": "谷歌Pixel 11 Pro Fold松木色渲染图泄露，预计8月12日发布，展示浅绿色机身、浅金色边框及重新设计的后置摄像头模块。",
+      "recommendation": "泄露渲染图揭示了Pixel 11 Pro Fold松木色新配色及后摄模组设计，对关注折叠屏影像外观演变的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro Fold leaks in new Pine shade"
+    },
+    {
+      "id": "recvpdV0TK2oEO",
+      "title": "当Oliver Klink拍摄欧洲正在消失的农村社区时，许多人直视镜头。有人可能认为这对纪实工作是个问题，但我认为这恰恰是成功的标志",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/when-oliver-klink-photographed-rural-europes-disappearing-communities-many-of-them-looked-straight-down-the-lens-some-might-see-that-as-a-problem-for-documentary-work-but-id-argue-its-actually-a-sign-of-success",
+      "publish_time": "2026-07-13T11:20:00+08:00",
+      "summary": "瑞士摄影师Oliver Klink的在线展览中，许多欧洲农村居民直视镜头，这种眼神交流被视为纪实摄影成功的标志。",
+      "recommendation": "探讨纪实摄影中眼神交流的独特价值，为影像爱好者提供构图与叙事的新视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "When Oliver Klink photographed rural Europe's disappearing communities, many of them looked straight down the lens. Some might see that as a problem for documentary work, but I'd argue it's actually a sign of success"
+    },
+    {
+      "id": "recvpdVgC2iAlJ",
+      "title": "尼康新闻周刊第894期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/12/weekly-nikon-news-flash-894.aspx/",
+      "publish_time": "2026-07-13T09:10:57+08:00",
+      "summary": "尼康Z卡口新镜头：SG-Image 35mm f/2.2 AF全画幅镜头亚马逊有货，唯卓仕26mm f/2.8 EVO薄饼镜头7月15日发布。",
+      "recommendation": "涵盖尼康Z卡口两款新镜头动态，含SG-Image 35mm f/2.2 AF在售信息及唯卓仕26mm f/2.8 EVO发布节点，为副厂镜头选择提供时效性参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #894"
+    },
+    {
+      "id": "recvpdV3k36B6T",
+      "title": "一只山羊与加沙：徕卡奖项入围名单凸显摄影比赛最大挑战之一",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-goat-versus-gaza-leicas-award-shortlist-highlights-one-of-the-biggest-challenges-in-photography-contests",
+      "publish_time": "2026-07-13T08:10:00+08:00",
+      "summary": "徕卡2026年奖项入围名单将战争与山羊照片并列，凸显摄影比赛评判标准挑战，引发对摄影本质的思考",
+      "recommendation": "从战争与山羊的并列入围，探讨摄影比赛评判标准困境，引发对影像本质的思考，适合关注摄影伦理与美学的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A goat versus Gaza: Leica's award shortlist highlights one of the biggest challenges in photography contests"
+    },
+    {
+      "id": "recvpdV5pfJaOo",
+      "title": "明基最新摄影显示器拥有惊人的色域覆盖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/monitors/benqs-latest-monitor-for-photographers-boasts-incredible-color-space-coverage",
+      "publish_time": "2026-07-13T06:15:03+08:00",
+      "summary": "明基最新摄影显示器色域覆盖惊人，但价格依然亲民。",
+      "recommendation": "本文披露明基新款摄影显示器的色域覆盖数据，为影像后期处理提供硬件参考，同时分析其定价策略，适合关注色彩管理的工作者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "BenQ's latest monitor for photographers boasts incredible color space coverage"
+    },
+    {
+      "id": "recvpdV7oAdKIK",
+      "title": "我让AI帮忙修复佳能照片打印机——结果出乎意料",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/printers/i-asked-ai-to-help-fix-my-canon-photo-printer-and-it-didnt-get-me-where-i-was-expecting",
+      "publish_time": "2026-07-13T05:20:00+08:00",
+      "summary": "时隔17年，作者请AI帮忙修复佳能大幅面打印机，体验有好处但手指弄脏，结果出乎意料。",
+      "recommendation": "17年佳能打印机修复实录，展示AI工具在影像设备维护中的实际应用与局限，提供真实操作体验与意外结果，对DIY爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I asked AI to help fix my Canon photo printer – and it didn't get me where I was expecting"
+    },
+    {
+      "id": "recvpdVbMbgk5S",
+      "title": "这就是我们所能得到的……在等待新的富士相机优惠到来之际",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/this-is-all-we-get-while-waiting-for-new-fujifilm-deals-to-drop/",
+      "publish_time": "2026-07-13T04:30:30+08:00",
+      "summary": "目前富士胶片仅四款XF镜头有优惠，如XF18mmF1.4节省150美元，其他产品暂无促销，等待新活动。",
+      "recommendation": "汇总富士XF镜头当前优惠信息，仅四款参与，为等待新促销的爱好者提供明确购买时机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This Is All We Get… While Waiting for New Fujifilm Deals to Drop"
+    },
     {
       "id": "recvpbPPscEW3c",
       "title": "老实说，我从没见过这样的照片：一位航拍摄影师如何将捕鱼场景变成艺术作品",
@@ -662,6 +786,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Canon still sells 600,000 DSLRs a year! \"As long as there are still customers, we would like to continue to offer our products\""
+    },
+    {
+      "id": "recvpdV9kXUeW1",
+      "title": "佳能每年仍售出60万台单反相机！“只要还有客户，我们希望继续提供产品”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/canon-still-sells-600-000-dslrs-a-year-as-long-as-there-are-still-customers-we-would-like-to-continue-to-offer-our-products",
+      "publish_time": "2026-07-11T14:15:00+08:00",
+      "summary": "佳能每年仍售出超60万台单反相机，表示只要还有客户就继续提供产品，单反相机不会消失。",
+      "recommendation": "佳能年销60万台单反的独家数据，揭示单反市场韧性。对关注行业趋势的爱好者，提供产品生命周期与用户需求的深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon still sells 600,000 DSLR cameras a year! \"As long as there are still customers, we would like to continue to offer our products\""
     },
     {
       "id": "recvp28G9pT43F",
@@ -7686,148 +7825,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Meike AF 85mm F1.8 for Fujifilm GFX to be Released in July"
-    },
-    {
-      "id": "recvnX1PxwSpF4",
-      "title": "DPReview读者分享他们最难忘的相机",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/5975861809/dpreview-readers-share-their-most-memorable-cameras",
-      "publish_time": "2026-06-29T22:26:00+08:00",
-      "summary": "DPReview读者分享最难忘相机，包括高端机型，并附照片和故事，纪念世界相机日。",
-      "recommendation": "DPReview读者真实分享，涵盖高端机型与个人故事，提供用户视角的独特体验与情感联结，适合关注相机文化的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DPReview readers share their most memorable cameras"
-    },
-    {
-      "id": "recvoOyrI5Lx3a",
-      "title": "松下正在以更优惠的价格出售其最好的相机之一（暂时？）",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/5201878914/panasonic-s1ii-price-cut-2026/",
-      "publish_time": "2026-06-29T22:12:00+08:00",
-      "summary": "松下S1II相机降价300美元，现价较发布价更低，增强与佳能索尼竞品竞争力。",
-      "recommendation": "松下S1II降价300美元，提供竞品对比数据，助影像爱好者把握入手时机，属常规产品调价资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Panasonic’s selling one of its best cameras at a much better price (for now?)"
-    },
-    {
-      "id": "recvnX1Sm1fxzI",
-      "title": "大疆Osmo Pocket 4P：行业公开的秘密终于在中国揭晓",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/8014959474/dji-osmo-pocket-4p-industrys-worst-kept-secret-finally-revealed-in-china",
-      "publish_time": "2026-06-29T21:53:00+08:00",
-      "summary": "大疆在中国和东南亚发布Osmo Pocket 4P，此前在戛纳预告并让媒体试用，但未向西方媒体公布全部细节，仅允许发布实拍照片。",
-      "recommendation": "揭示大疆Osmo Pocket 4P东西方发布差异，含戛纳预告细节与媒体实拍样张，为影像爱好者提供产品策略与实测参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI Osmo Pocket 4P: Industry's worst-kept secret finally revealed in China"
-    },
-    {
-      "id": "recvnX1HPmiMLx",
-      "title": "YouTuber 探访巴基斯坦巨大相机市场",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/youtuber-tours-enormous-camera-market-in-pakistan/",
-      "publish_time": "2026-06-29T21:47:03+08:00",
-      "summary": "旅游博主探访巴基斯坦卡拉奇巨大相机市场，展示当地二手相机交易规模与价格优势，揭示其作为摄影器材集散地的独特价值。",
-      "recommendation": "揭示巴基斯坦二手相机集散地的规模与价格优势，提供跨境淘机参考，对关注二手市场的影像爱好者有独特价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "YouTuber Tours Enormous Camera Market in Pakistan"
-    },
-    {
-      "id": "recvnX27Vty7q0",
-      "title": "Boblov W4评测：设计出色，但有个陷阱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/security-cameras/boblov-w4-review",
-      "publish_time": "2026-06-29T21:45:00+08:00",
-      "summary": "Boblov W4评测：设计小巧可爱，但光线不佳时表现不佳，需注意此陷阱。",
-      "recommendation": "揭示Boblov W4在暗光下的性能短板，提供实测数据与设计细节，帮助影像爱好者避开选购陷阱。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Boblov W4 review – Great design, but there's a catch"
-    },
-    {
-      "id": "recvnX2aw77p56",
-      "title": "尼康缺乏真正的入门级无反相机让我不爽——但500美元的尼康Z50无论如何都比佳能的竞品更强大",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/it-bugs-me-that-nikon-doesnt-have-a-true-entry-level-mirrorless-camera-but-a-nikon-z50-for-us-usd500-is-a-mightier-option-than-canons-offering-anyway",
-      "publish_time": "2026-06-29T21:33:53+08:00",
-      "summary": "尼康Z50停产但二手降价，500美元性能优于佳能R100，是更值得的入门级无反相机选择。",
-      "recommendation": "对比尼康Z50与佳能R100的入门级无反，提供二手市场降价数据和性能差异分析，对预算有限的影像爱好者有选购参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "It bugs me that Nikon doesn’t have a true entry-level mirrorless camera – but a Nikon Z50 for US$500 is a mightier option than Canon's offering anyway"
-    },
-    {
-      "id": "recvnX1KhZpFQZ",
-      "title": "MultiDyne收购尼康剥离的运动控制公司MRMC",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/multidyne-acquires-mrmc-the-motion-control-company-nikon-offloaded/",
-      "publish_time": "2026-06-29T21:02:48+08:00",
-      "summary": "运动控制相机公司MRMC被尼康出售后，由MultiDyne收购，成为其新主人。",
-      "recommendation": "MRMC被MultiDyne收购，揭示尼康剥离运动控制业务后的行业动向。对关注影视自动化拍摄的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "MultiDyne Acquires MRMC, the Motion-Control Company Nikon Offloaded"
-    },
-    {
-      "id": "recvnX2cXbBMf1",
-      "title": "思锐预告新款长焦镜头发布——但并未透露太多细节！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/sirui-is-teasing-a-new-telephoto-lens-launch-but-it-is-not-giving-much-away",
-      "publish_time": "2026-06-29T20:48:45+08:00",
-      "summary": "思锐将于7月2日发布新款长焦镜头，具体规格未透露，旨在扩展相机镜头系列。",
-      "recommendation": "思锐预告长焦镜头但未透露规格，对关注镜头扩展的爱好者属常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sirui is teasing a new telephoto lens launch – but it is not giving much away!"
-    },
-    {
-      "id": "recvnX2nTIpGYK",
-      "title": "关于索尼FX5传感器类型的矛盾传闻",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/conflicting-rumors-about-the-sony-fx5-sensor-type/",
-      "publish_time": "2026-06-29T20:43:11+08:00",
-      "summary": "两个可靠消息源提供的索尼FX5规格列表在传感器类型上存在分歧，需等待更多信息确认其使用5K全局快门传感器还是其他类型。",
-      "recommendation": "本文揭示索尼FX5传感器类型的关键矛盾，提供两个可靠信源的冲突数据，对关注全局快门技术动向的影像爱好者有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Conflicting rumors about the Sony FX5 sensor type"
     }
   ]
 }
