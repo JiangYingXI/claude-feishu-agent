@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-13T23:31:27.357435+08:00",
+    "updated_at": "2026-07-14T04:06:13.693640+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 108
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,166 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 202
+      "count": 200
     }
   ],
   "articles": [
+    {
+      "id": "recvphLzTc2Ucb",
+      "title": "佳能AE-1：50年过去，它依然能打",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/13/the-canon-ae-1-the-slr-that-helped-make-photography-simple-copy/",
+      "publish_time": "2026-07-14T03:00:00+08:00",
+      "summary": "佳能AE-1于1976年以250美元推出，比同类相机便宜40%，凭借自动曝光和实惠价格成为经典单反。",
+      "recommendation": "解析AE-1以250美元定价比竞品低40%的定价策略，结合自动曝光技术对单反普及的影响，适合胶片爱好者了解经典机型的历史价值与设计逻辑。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Canon AE-1: 50 Years, And it Still Works"
+    },
+    {
+      "id": "recvphLfST46sM",
+      "title": "Polar Pro Luna Ultra ND滤镜可能比Insta360的更容易买到",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/polar-pros-luna-ultra-nd-filters-might-be-more-obtainable-than-insta360s/",
+      "publish_time": "2026-07-14T02:53:34+08:00",
+      "summary": "Polar Pro Luna Ultra ND滤镜比Insta360的更容易买到，后者配件供应不足。",
+      "recommendation": "对比Polar Pro与Insta360滤镜的供应差异，为运动相机用户提供配件选购参考，揭示品牌配件生态短板。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Polar Pro’s Luna Ultra ND Filters Might Be More Obtainable Than Insta360’s"
+    },
+    {
+      "id": "recvphLiFa5dqL",
+      "title": "这款可定制的电子墨水iPhone手机壳能展示你的照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/this-customizable-e-ink-iphone-case-displays-your-photos/",
+      "publish_time": "2026-07-14T02:09:09+08:00",
+      "summary": "Xtrem Inno iPhone手机壳集成电子墨水屏，可展示用户自定义图形、标志或照片，实现个性化保护与显示功能。",
+      "recommendation": "电子墨水手机壳将照片展示从屏幕延伸至机身，为影像爱好者提供个性化展示新思路，但未涉及成像技术或数据，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This Customizable E-Ink iPhone Case Displays Your Photos"
+    },
+    {
+      "id": "recvphLseGm2VH",
+      "title": "行业首创！Insta360开放设计，让你3D打印自己的配件——我认为所有相机公司都应效仿",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/in-an-industry-first-insta360-opens-up-its-designs-so-you-can-3d-print-your-own-accessories-and-i-think-every-camera-company-should-follow",
+      "publish_time": "2026-07-14T01:24:48+08:00",
+      "summary": "Insta360开放Luna Ultra设计规格，举办11000美元配件竞赛，倡导相机公司效仿，推动3D打印配件创新。",
+      "recommendation": "Insta360开放设计规格并举办配件竞赛，为影像爱好者提供3D打印创新思路。文章含独家赛事奖金数据与行业开放设计观点，适合关注配件生态的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "In an industry first, Insta360 opens up its designs so you can 3D print your own accessories –and I think every camera company should follow"
+    },
+    {
+      "id": "recvphLuEwe3LJ",
+      "title": "忘记“上帝之手”，这是足球的“上帝之眼”？挪威为何将世界杯失利归咎于悬索摄像机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/forget-hand-of-god-is-this-footballs-camera-of-god-why-a-cable-suspended-camera-is-being-blamed-by-norway-for-its-world-cup-defeat",
+      "publish_time": "2026-07-14T00:58:33+08:00",
+      "summary": "挪威将世界杯失利归咎于悬索摄像机，但数据表明缆线悬挂摄像机并非罪魁祸首，争议源于英格兰四分之一决赛的判罚。",
+      "recommendation": "从悬索摄像机争议切入，揭示体育转播技术对赛事判罚的影响，适合关注影像应用场景的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Forget \"Hand of God\" is this football's \"Camera of God\"? Why a cable-suspended camera is being blamed by Norway for its World Cup defeat"
+    },
+    {
+      "id": "recvphLkVYP7l2",
+      "title": "NASA摄影师乘坐战斗机飞越华盛顿上空",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/nasa-photographer-soars-over-washington-in-a-fighter-jet/",
+      "publish_time": "2026-07-14T00:53:48+08:00",
+      "summary": "NASA摄影师吉姆·罗斯乘坐F-18战机飞越华盛顿特区，在美国250岁生日之际拍摄首都照片。",
+      "recommendation": "从战斗机航拍视角解析华盛顿地标构图技巧，含F-18座舱内拍摄参数与气流干扰应对方法，适合学习极限环境摄影的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "NASA Photographer Soars Over Washington in a Fighter Jet"
+    },
+    {
+      "id": "recvphLns98LAU",
+      "title": "Patreon屏蔽AI爬虫复制内容：'创作者应获补偿'",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/patreon-blocks-ai-crawlers-from-copying-content-creators-deserve-compenstion/",
+      "publish_time": "2026-07-14T00:25:37+08:00",
+      "summary": "Patreon更新阻止AI爬虫抓取内容，CEO称创作者应获补偿，强调平台保护创作者权益。",
+      "recommendation": "Patreon屏蔽AI爬虫的举措关乎创作者内容版权，影像爱好者需关注平台如何保护原创作品不被AI滥用，文中CEO的补偿观点提供行业新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Patreon Blocks AI Crawlers From Copying Content: ‘Creators Deserve Compenstion’"
+    },
+    {
+      "id": "recvphLChzBbLE",
+      "title": "富士胶片专利暗示：追求广角超变焦完美",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/13/fujifilm-is-chasing-wide-angle-superzoom-perfection-patent-suggests/",
+      "publish_time": "2026-07-14T00:00:00+08:00",
+      "summary": "富士胶片专利暗示研发广角超变焦镜头，旨在实现完美变焦范围，满足摄影师需求。",
+      "recommendation": "富士专利曝光广角超变焦镜头设计细节，揭示厂商对一镜走天下的光学追求，适合关注镜头技术趋势的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm Is Chasing Wide-Angle Superzoom Perfection, Patent Suggests"
+    },
+    {
+      "id": "recvphLpXrMfg2",
+      "title": "免费Mac应用破解所有烦人的USB-C线缆之谜",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/free-mac-app-unravels-all-your-annoying-usb-c-cable-mysteries/",
+      "publish_time": "2026-07-13T23:54:48+08:00",
+      "summary": "Mac应用WhatCable可破解USB-C线缆谜题，解决速度与功率传输问题，提供准确标签与性能检测。",
+      "recommendation": "USB-C线缆性能直接影响相机数据传输与充电效率，本文提供Mac应用实测方案，帮助影像爱好者快速识别线缆规格，避免传输瓶颈。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Free Mac App Unravels All Your Annoying USB-C Cable Mysteries"
+    },
+    {
+      "id": "recvphLxeWTmHL",
+      "title": "廉价紧凑型相机是享受胶片摄影的最佳方式",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/cheap-compact-cameras-are-the-best-way-to-enjoy-film-photography",
+      "publish_time": "2026-07-13T23:43:32+08:00",
+      "summary": "花10美元买两个胶片相机，廉价紧凑型相机是享受胶片摄影的最佳方式，这正是你真正需要的全部。",
+      "recommendation": "从10美元胶片相机切入，探讨廉价紧凑型设备在胶片摄影中的独特价值，提供低成本入门视角，适合预算有限的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Cheap compact cameras are the best way to enjoy film photography"
+    },
     {
       "id": "recvpgDWAPJMcr",
       "title": "“数码摄影糟透了”：我认为所有摄影师都应该看奥利维亚·王尔德参观柯达纽约胶片实验室的影片",
@@ -7670,163 +7826,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Redmi K90 Ultra is here with the Snapdragon 8 Elite and a massive built-in active cooling fan"
-    },
-    {
-      "id": "recvo2AnwjSdgX",
-      "title": "14岁水下摄影师在知名专业比赛中夺得大奖——用慢速快门照亮罕见世界",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/14-year-old-underwater-photographer-scoops-top-prize-in-prestigious-professional-competition-illuminating-a-world-rarely-seen-with-slow-shutter-speeds",
-      "publish_time": "2026-06-30T20:48:56+08:00",
-      "summary": "14岁泰国水下摄影师用慢速快门技术，在知名专业比赛中夺得大奖，展现罕见水下世界的技术技能与艺术价值。",
-      "recommendation": "14岁摄影师用慢速快门挑战水下摄影极限，揭示罕见生物与光影结合的技术细节，对水下摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "14-year-old underwater photographer scoops top prize in prestigious professional competition – illuminating a world rarely seen with slow shutter speeds"
-    },
-    {
-      "id": "recvo2AAWJbgUi",
-      "title": "索尼RX10V将于7月9日发布",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-rx10v-announcement-on-july-9/",
-      "publish_time": "2026-06-30T20:45:55+08:00",
-      "summary": "索尼将于7月9日发布RX10V相机，搭载新芯片提升处理速度和自动对焦，支持NPFZ1000电池，沿用RX10IV的传感器和24-600mm镜头，为小幅更新。",
-      "recommendation": "本文提供RX10V发布具体日期、芯片升级细节及电池型号，对关注长焦便携机的用户有明确参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony RX10V announcement on July 9"
-    },
-    {
-      "id": "recvo2AqpR7w2a",
-      "title": "这些热门全画幅相机突然大幅降价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/these-popular-full-frame-cameras-are-suddenly-much-cheaper",
-      "publish_time": "2026-06-30T20:25:59+08:00",
-      "summary": "佳能、尼康和索尼三款全画幅无反相机旗舰机型大幅降价，最高节省600美元，让升级变得轻松。",
-      "recommendation": "提供佳能、尼康、索尼三款全画幅旗舰降价幅度与节省金额，适合观望升级的用户参考，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These popular full-frame cameras are suddenly much cheaper"
-    },
-    {
-      "id": "recvo2A2DRjhlz",
-      "title": "这张照片如何开启了‘后室’文化",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/30/how-backrooms-all-started-with-this-photograph/",
-      "publish_time": "2026-06-30T20:18:25+08:00",
-      "summary": "恐怖片《后室》全球票房超3.3亿美元，源于2002年索尼Cyber-shot相机拍摄的一张照片，开启网络怪谈文化",
-      "recommendation": "从一张2002年索尼Cyber-shot照片切入，解析‘后室’文化起源，揭示消费级相机如何意外催生全球网络怪谈现象，对影像文化爱好者有独特视角。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How ‘Backrooms’ All Started With This Photograph"
-    },
-    {
-      "id": "recvo2ADFJBCzJ",
-      "title": "终于开放预购：7Artisan 135mm f/1.8 FE新镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/finally-available-for-preorder-new-7artisan-135mm-f-1-8-fe-lens/",
-      "publish_time": "2026-06-30T20:08:00+08:00",
-      "summary": "7Artisan 135mm f/1.8 FE镜头现已开放预购，可在BHphoto、亚马逊及官方商店购买，该消息源自sonyalpharumors。",
-      "recommendation": "135mm f/1.8大光圈人像镜头开放预购，提供预购渠道与价格信息，适合关注国产手动长焦镜头的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Finally available for preorder: new 7Artisan 135mm f/1.8 FE lens"
-    },
-    {
-      "id": "recvo2A5yOsvHK",
-      "title": "2026年哈苏大师摄影大赛的7位杰出获奖者",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/30/the-7-spectacular-winners-of-the-hasselblad-masters-2026-photo-contest/",
-      "publish_time": "2026-06-30T20:00:02+08:00",
-      "summary": "哈苏公布2026年哈苏大师摄影大赛7位获奖者，该赛事为全球最负盛名的摄影比赛之一。",
-      "recommendation": "通过7位获奖者作品，解析哈苏大师赛的审美趋势与创作技法，为影像爱好者提供高水准构图与色彩参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 7 Spectacular Winners of the Hasselblad Masters 2026 Photo Contest"
-    },
-    {
-      "id": "recvo2AsUJi79N",
-      "title": "「最引人入胜的摄影不仅仅是记录，更是构建」——世界知名专业摄影大赛获奖作品揭晓",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/the-most-compelling-photography-does-not-simply-record-it-constructs-award-winning-images-revealed-from-world-renowned-professional-photo-competition",
-      "publish_time": "2026-06-30T20:00:00+08:00",
-      "summary": "哈苏大师赛2025获奖作品揭晓，涵盖野生动物、建筑、人像等领域，展示当代摄影顶尖水准，强调摄影不仅是记录更是构建。",
-      "recommendation": "解析哈苏大师赛2025获奖作品，从野生动物到人像，揭示摄影从记录到构建的创作理念，适合追求美学与技术的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"The most compelling photography does not simply record, it constructs\" – award-winning images revealed from world-renowned professional photo competition"
-    },
-    {
-      "id": "recvo2AvwLr3we",
-      "title": "2026年最佳预算入门相机：含镜头仅需499美元起",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-best-budget-beginner-cameras-of-2026-are-available-from-usd499-with-lens",
-      "publish_time": "2026-06-30T19:52:07+08:00",
-      "summary": "2026年最佳预算入门相机推荐，含镜头仅需499美元起，最高可节省420美元，适合初学者。",
-      "recommendation": "推荐理由：为预算有限的入门用户提供499美元起的相机镜头套装，含具体型号与节省金额数据，适合初学者快速锁定高性价比机型。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The best budget beginner cameras of 2026 are available from $499 WITH lens"
-    },
-    {
-      "id": "recvo2AhFzI35Q",
-      "title": "iPhone 18 Pro 现身泄露跌落测试",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_18_pro_emerges_in_leaked_drop_test-news-73504.php",
-      "publish_time": "2026-06-30T19:47:02+08:00",
-      "summary": "iPhone 18 Pro真机在发布前意外曝光，跌落测试显示其设计与iPhone 17 Pro几乎相同，视频由@evleaks分享但账号已被暂停。",
-      "recommendation": "iPhone 18 Pro真机泄露，跌落测试揭示其与17 Pro设计一致，对关注苹果影像迭代的用户提供外观确认，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iPhone 18 Pro emerges in leaked drop test"
-    },
-    {
-      "id": "recvo2AybC7Ji3",
-      "title": "“经过数小时的紧张等待，奇迹发生了”——这位摄影师拍到了一家黑化印度豹",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/after-hours-of-intense-waiting-the-magic-happened-this-photographer-captured-a-family-of-melanistic-indian-leopards-on-camera",
-      "publish_time": "2026-06-30T18:23:25+08:00",
-      "summary": "野生动物摄影师历经数小时等待，成功拍摄到罕见的黑化印度豹家族，记录了这一千载难逢的奇迹瞬间。",
-      "recommendation": "解析黑化印度豹拍摄的曝光参数与等待策略，提供长焦镜头在低光环境下的实战技巧，对野生动物摄影爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"After hours of intense waiting, the magic happened\" – this photographer captured a family of melanistic Indian leopards on camera"
     }
   ]
 }
