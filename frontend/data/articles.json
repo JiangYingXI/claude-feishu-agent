@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-13T18:03:17.217570+08:00",
+    "updated_at": "2026-07-13T23:31:27.357435+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,35 +13,361 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 105
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 3
+      "count": 4
     },
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 18
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 39
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 389
+      "count": 395
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 209
+      "count": 202
     }
   ],
   "articles": [
+    {
+      "id": "recvpgDWAPJMcr",
+      "title": "“数码摄影糟透了”：我认为所有摄影师都应该看奥利维亚·王尔德参观柯达纽约胶片实验室的影片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/digital-sucks-i-think-all-photographers-should-watch-olivia-wildes-tour-of-kodaks-new-york-film-lab",
+      "publish_time": "2026-07-13T23:10:48+08:00",
+      "summary": "参观柯达纽约胶片实验室，了解胶片冲洗工艺，数码摄影师也能从中受益。",
+      "recommendation": "从胶片冲洗工艺切入，揭示数字摄影缺失的物理质感与色彩逻辑，对理解影像本质有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"Digital sucks\": I think all photographers should watch Olivia Wilde’s tour of Kodak’s New York film lab"
+    },
+    {
+      "id": "recvpgDYxzcH6V",
+      "title": "尼康Zf和Zfc用户将爱上SG-image新款复古风格定焦镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/nikon-zf-and-zfc-owners-will-love-sg-images-new-retro-styled-prime-lens",
+      "publish_time": "2026-07-13T22:42:10+08:00",
+      "summary": "SG-image推出复古风格定焦镜头，适配尼康Zf和Zfc，价格比造型更具吸引力",
+      "recommendation": "文章提供SG-image新款复古镜头适配尼康Zf/Zfc的具体信息，价格优势突出，适合追求性价比的复古相机用户了解行业新动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon Zf & Zfc owners will love SG-image's new retro-styled prime lens"
+    },
+    {
+      "id": "recvpgDPYf1HZk",
+      "title": "谷歌Pixel 11设备将搭载首款2nm智能手机SoC及全新调制解调器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_devices_to_have_the_first_2nm_smartphone_soc_new_modem-news-73693.php",
+      "publish_time": "2026-07-13T22:30:02+08:00",
+      "summary": "谷歌Pixel 11系列将搭载首款2nm工艺的Tensor G6芯片，领先高通、联发科和苹果，预计8月12日发布。",
+      "recommendation": "解析2nm Tensor G6芯片对Pixel影像算力的潜在影响，提供ISP架构升级线索，适合关注计算摄影硬件的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "ISP & 影像芯片"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Google Pixel 11 devices to have the first 2nm smartphone SoC, new modem"
+    },
+    {
+      "id": "recvpgE0Kl8POz",
+      "title": "这款薄饼镜头仅重如网球，借鉴卡片机设计，让你再也不会丢失镜头盖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-tiny-pancake-lens-only-weighs-as-much-as-a-tennis-ball-and-borrows-a-feature-from-point-and-shoots-that-means-youll-never-lose-another-lens-cap",
+      "publish_time": "2026-07-13T22:28:47+08:00",
+      "summary": "Kase AF 24mm f/3.8饼干镜头仅重如网球，内置镜头盖，借鉴卡片机设计，解决镜头盖易丢失问题。",
+      "recommendation": "介绍Kase 24mm f/3.8饼干镜头，重如网球且内置镜头盖，借鉴卡片机设计解决痛点。提供重量、光圈等关键数据，适合追求便携的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This tiny pancake lens only weighs as much as a tennis ball – and borrows a feature from point-and-shoots that means you'll never lose another lens cap"
+    },
+    {
+      "id": "recvpgDGZ2gPiV",
+      "title": "末日景象：视频显示蛇群在中国洪水中游荡",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/apocalyptic-videos-show-snakes-roaming-in-floodwaters-in-china/",
+      "publish_time": "2026-07-13T22:25:45+08:00",
+      "summary": "台风美莎克引发洪水冲毁广西爬行动物养殖场，蛇群在洪水中游荡的视频在社交媒体传播",
+      "recommendation": "常规资讯，可了解极端天气下爬行动物养殖场被毁的影像记录，对野生动物摄影爱好者有场景参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apocalyptic Videos Show Snakes Roaming in Floodwaters in China"
+    },
+    {
+      "id": "recvpgEg0weQzI",
+      "title": "富士X-T6——本周发布，我们还能猜到具体日期",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-this-is-announcement-week-and-we-can-guess-the-day-too/",
+      "publish_time": "2026-07-13T21:57:04+08:00",
+      "summary": "富士X-T6将于9月第一周发布，具体日期未定，文章回顾了2025年5台相机发布公告。",
+      "recommendation": "汇总富士X-T6发布时间线索及2025年已发布相机公告，提供行业动态参考，适合关注新品节奏的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm X-T6 – This is the Announcement Week, and We Can Guess the Day Too"
+    },
+    {
+      "id": "recvpgDJlfchV4",
+      "title": "ARRI意外出售其全球租赁业务",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/arri-surprisingly-sells-its-global-rental-business/",
+      "publish_time": "2026-07-13T21:47:22+08:00",
+      "summary": "ARRI公司今年4月被德国企业家Thomas Riedel收购后，现同意出售其在欧洲、英国和北美的全球租赁业务。",
+      "recommendation": "ARRI出售全球租赁业务，揭示高端影像设备市场资本变动，对关注电影级器材生态的爱好者有行业参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Arri Surprisingly Sells its Global Rental Business"
+    },
+    {
+      "id": "recvpgE2Nb2UEw",
+      "title": "Movavi Video Editor 2026：一款价格实惠且功能丰富的非线性视频编辑器",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/software/movavi-video-editor-2026-an-affordable-and-feature-packed-non-linear-video-editor",
+      "publish_time": "2026-07-13T21:35:56+08:00",
+      "summary": "Movavi Video Editor 2026是一款价格实惠的AI驱动非线性视频编辑器，提供背景移除和自动字幕生成等高端后期制作工具。",
+      "recommendation": "文章介绍Movavi 2026的AI功能如背景移除和自动字幕，对视频创作者有实用参考，但缺乏独家数据或深度评测。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Movavi Video Editor 2026: An affordable and feature-packed non-linear video editor"
+    },
+    {
+      "id": "recvpgEiz4M09a",
+      "title": "独家：索尼FX5采用全新紧凑型内部16位RAW格式，编码与2.5万索尼相机相同",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/exclusive-sony-fx5-has-new-compact-internal-16-bit-raw-format-and-same-codec-as-25k-sony-camera/",
+      "publish_time": "2026-07-13T21:18:56+08:00",
+      "summary": "索尼FX5采用与25000美元相机相同的X-OCN LT格式，实现紧凑型内部16位RAW录制。",
+      "recommendation": "揭示索尼FX5下放高端X-OCN LT编码，实现紧凑机身内16位RAW录制，为视频创作者提供高画质与便携性的新选择。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Exclusive: Sony FX5 has new compact internal 16 Bit RAW format and same codec as 25k Sony camera!"
+    },
+    {
+      "id": "recvpgDLJoHa8u",
+      "title": "GoPro创始人向公司提供2000万美元贷款，助其艰难求生",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/gopros-founder-lends-the-company-20-million-as-gopro-fights-to-survive/",
+      "publish_time": "2026-07-13T21:18:19+08:00",
+      "summary": "GoPro创始人兼CEO向公司提供2000万美元贷款，助其应对财务困境，公司对未来存有重大疑虑。",
+      "recommendation": "GoPro创始人自掏腰包2000万美元贷款，揭示运动相机巨头财务危机。对影像爱好者而言，这是了解行业头部品牌生存现状的独特窗口，含公司经营困境的深度数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "GoPro’s Founder Lends the Company $20 Million as It Fights to Survive"
+    },
+    {
+      "id": "recvpgE4Lf9FYO",
+      "title": "B&H大促：索尼A7 IV相机直降500美元，超值优惠",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/b-and-h-slashes-usd500-off-the-awesome-sony-a7-iv-camera-in-an-amazing-deal",
+      "publish_time": "2026-07-13T21:01:33+08:00",
+      "summary": "B&H大促中，索尼A7 IV相机直降500美元，超值优惠，使其成为不二之选。",
+      "recommendation": "索尼A7 IV直降500美元，提供具体降价幅度与促销渠道，适合计划升级全画幅相机的用户快速决策。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "B&H slashes $500 off the awesome Sony A7 IV camera in an amazing deal"
+    },
+    {
+      "id": "recvpgDNHmx4hd",
+      "title": "野牛将停下拍照的老人顶飞8英尺高",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/grandpa-thrown-into-the-air-by-bison-stopped-to-take-photo-moments-before/",
+      "publish_time": "2026-07-13T20:58:10+08:00",
+      "summary": "黄石公园野牛将拍照老人顶飞8英尺高，画面惊人，提醒游客保持安全距离。",
+      "recommendation": "从影像爱好者视角，剖析野牛袭击事件中的拍摄距离与长焦使用误区，提供安全摄影的独家数据参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Bison Throws Grandpa 8 Feet Into the Air After He Stops for a Photo"
+    },
+    {
+      "id": "recvpgEkMfVJYz",
+      "title": "你可以在速卖通上买到新的Viltrox AF 26mm f/2.8 EVO了",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/you-can-already-buy-the-new-viltrox-af-26mm-f-2-8-evo-on-aliexpress/",
+      "publish_time": "2026-07-13T20:41:42+08:00",
+      "summary": "速卖通现已开放预购Viltrox AF 26mm f/2.8 EVO饼干镜头，适用于索尼E卡口，提供紧凑设计和高性价比。",
+      "recommendation": "速卖通预购信息，揭示Viltrox 26mm f/2.8饼干镜头的紧凑设计与高性价比，对索尼E卡口用户有实用参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "You can already buy the new Viltrox AF 26mm f/2.8 EVO on AliExpress."
+    },
+    {
+      "id": "recvpgEoAaamGp",
+      "title": "唯卓仕正在研发M4/3镜头吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/13/is-viltrox-working-on-micro-four-thirds-lenses/",
+      "publish_time": "2026-07-13T20:15:01+08:00",
+      "summary": "唯卓仕据报将扩大M4/3镜头系列，此前已推出全画幅和裁切传感器相机的出色饼干镜头，本周或发布新品。",
+      "recommendation": "M4/3系统用户关注唯卓仕镜头路线图，本文提供其从全画幅转向M4/3的研发动态与新品发布时间点，属于行业资讯类信息。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Viltrox Working on Micro Four Thirds Lenses?"
+    },
+    {
+      "id": "recvpgDSoc9H0l",
+      "title": "泄露视频展示三星Galaxy Z Fold8 Ultra无折痕显示屏",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/leaked_video_shows_off_samsung_galaxy_z_fold8_ultras_creaseless_display-news-73689.php",
+      "publish_time": "2026-07-13T19:30:02+08:00",
+      "summary": "泄露视频展示三星Galaxy Z Fold8 Ultra无折痕显示屏，但Ice Universe指出实为Z Fold7，因缺乏抗反射膜和前置摄像头打孔较大。三星在CES展示类似技术。",
+      "recommendation": "解析折叠屏无折痕技术进展，对比真伪机型差异，提供Ice Universe独家观点，对关注屏幕形态的影像用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leaked video shows off Samsung Galaxy Z Fold8 Ultra's crease-less display"
+    },
+    {
+      "id": "recvpgE6OPJxLp",
+      "title": "专业佳能单反相机暴跌至1799美元，直降700美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/professional-canon-dslr-camera-crashes-to-usd1-799-saving-you-a-massive-usd700",
+      "publish_time": "2026-07-13T19:19:43+08:00",
+      "summary": "佳能EOS 5D Mark IV单反相机大幅降价700美元，现仅售1799美元，创历史新低",
+      "recommendation": "佳能5D4单反降价700美元至1799美元，提供具体降幅与历史低价数据，适合关注全画幅单反性价比的影像爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Professional Canon DSLR camera crashes to $1,799, saving you a MASSIVE $700"
+    },
+    {
+      "id": "recvpgE9domSrD",
+      "title": "索尼最新旗舰未能登顶，日本畅销榜前十中复古卡片机占四成",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cult-compact-cameras-make-up-40-percent-of-japans-top-10-sales-chart-as-sonys-newest-flagship-fails-to-get-to-no-1",
+      "publish_time": "2026-07-13T19:16:29+08:00",
+      "summary": "索尼旗舰未登顶日本畅销榜，富士、佳能、理光复古卡片机占四成，性能超越新无反，主导销售原因在于其紧凑设计与卓越性能。",
+      "recommendation": "日本畅销榜揭示复古卡片机逆袭，四成占比与性能超越新无反的独家数据，为影像爱好者提供选购风向标。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Cult compact cameras make up 40% of Japan's Top 10 sales chart as Sony's newest flagship fails to get to No.1"
+    },
+    {
+      "id": "recvpgDUFjpxGx",
+      "title": "Redmi Note 17更多细节泄露：包括芯片组、充电速度和防护等级",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/additional_redmi_note_17_details_leak_including_chipset_charging_speed_and_ip_rating-news-73688.php",
+      "publish_time": "2026-07-13T19:00:02+08:00",
+      "summary": "Redmi Note 17配备7英寸屏幕和8000mAh电池，支持45W有线充电，芯片组和防护等级细节泄露。",
+      "recommendation": "文章泄露Redmi Note 17芯片组、45W充电及防护等级，虽未提及影像参数，但可推测其定位与性能，为关注中端机型影像配置的用户提供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Additional Redmi Note 17 details leak including chipset, charging speed and IP rating"
+    },
+    {
+      "id": "recvpgEbtElRAP",
+      "title": "索尼放弃实体PlayStation光盘，我也放弃PS Plus。相机厂商应该知道旧技术有回归的习惯，但旧技术不是索尼的菜……",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/sony-scraps-physical-playstation-discs-i-scrap-my-ps-plus-a-camera-manufacturer-should-know-that-old-tech-has-a-habit-of-coming-back-but-old-tech-isnt-sonys-thing",
+      "publish_time": "2026-07-13T18:09:59+08:00",
+      "summary": "索尼放弃实体光盘，但胶片、拍立得等旧技术复兴证明其可卷土重来，索尼却不在乎",
+      "recommendation": "从索尼放弃光盘切入，探讨影像行业旧技术复兴现象，观点独特，启发从业者思考技术迭代逻辑。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony scraps physical PlayStation discs, I scrap my PS Plus. A camera manufacturer should know that old tech has a habit of coming back. But old tech isn't Sony's thing…"
+    },
+    {
+      "id": "recvpgEr1sDAp1",
+      "title": "致相机厂商：请停止削减拍照功能",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/13/dear-camera-manufacturers-please-stop-taking-away-photo-features/",
+      "publish_time": "2026-07-13T18:00:00+08:00",
+      "summary": "文章批评相机厂商为追求视频功能而削减静态拍摄功能，呼吁恢复被取消的摄影功能，强调相机主要用途仍是拍照。",
+      "recommendation": "直击行业痛点，呼吁相机厂商平衡视频与拍照功能，为静态摄影爱好者发声，提供独特视角反思产品设计趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Dear Camera Manufacturers: Please Stop Taking Away Photo Features"
+    },
+    {
+      "id": "recvpgEdGBtgRc",
+      "title": "这是我用过的最奇葩的相机……只要45美元，它带来的乐趣远超想象！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/digital-cameras/this-is-the-weirdest-camera-ive-ever-used-and-for-just-us-usd30-its-way-more-fun-than-it-has-any-right-to-be",
+      "publish_time": "2026-07-13T17:59:21+08:00",
+      "summary": "这款45美元的相机仅65克重，200万像素，50%屏占比，带来远超想象的乐趣。",
+      "recommendation": "45美元65克200万像素相机，低配硬件反成创意源泉，颠覆对摄影器材的认知，适合探索摄影本质的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This is the weirdest camera I've ever used…and for just US$45, it's WAY more fun than it has any right to be!"
+    },
     {
       "id": "recvpfjMkQRnhE",
       "title": "亲爱的同行们……索尼FX5之后会是什么？",
@@ -7501,331 +7827,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "\"After hours of intense waiting, the magic happened\" – this photographer captured a family of melanistic Indian leopards on camera"
-    },
-    {
-      "id": "recvo2A8vatsmu",
-      "title": "你识别AI生成人脸的方法错了",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/30/youre-trying-to-spot-ai-generated-faces-wrong/",
-      "publish_time": "2026-06-30T18:15:57+08:00",
-      "summary": "过去识别AI人脸靠找畸形，但到2026年机器已大幅改进，旧方法失效，需新识别技术",
-      "recommendation": "本文揭示2026年AI生成人脸识别旧方法失效，提供新识别技术，对影像爱好者鉴别虚假内容有实用价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "You’re Trying to Spot AI-Generated Faces Wrong"
-    },
-    {
-      "id": "recvo1mFNGJN7G",
-      "title": "索尼a7r III在2026年仍是一款好相机吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/30/is-the-sony-a7r-iii-still-a-good-camera-in-2026/",
-      "publish_time": "2026-06-30T18:00:00+08:00",
-      "summary": "索尼a7r III于2017年发布，至今近十年，作者认为通过调整仍是一款优秀相机，体现索尼早期产品的卓越品质。",
-      "recommendation": "回顾索尼a7r III十年后的实战表现，提供调整技巧与画质对比数据，助老用户判断升级价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Sony a7r III Still a Good Camera in 2026?"
-    },
-    {
-      "id": "recvo1mrI93G3I",
-      "title": "索尼相机现可拍摄超短视频，3秒“动态照片”登陆Creator's App",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/now-you-can-create-ultra-short-form-videos-on-your-sony-camera-as-3-second-motion-photos-come-to-creators-app",
-      "publish_time": "2026-06-30T17:30:06+08:00",
-      "summary": "索尼Creator's App新增3秒超短视频拍摄功能，专为内容创作者设计，提升创作效率。",
-      "recommendation": "索尼Creator's App新增3秒超短视频功能，为内容创作者提供高效抓拍方案。文章解析了动态照片与短视频的融合趋势，对提升创作效率有实操参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Now you can create ultra-short-form videos on your Sony camera, as3-second \"Motion Photos\" come to Creator’s App"
-    },
-    {
-      "id": "recvo1mCM3AbhM",
-      "title": "新泄露信息详细介绍了三星即将推出的Galaxy Z折叠屏手机的摄像头",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_leak_details_the_cameras_on_samsungs_upcoming_galaxy_z_foldables-news-73501.php",
-      "publish_time": "2026-06-30T17:19:02+08:00",
-      "summary": "三星即将发布Galaxy Z Fold8系列，泄露信息显示Fold8 Ultra将后置三摄中的1200万像素超广角升级为5000万像素传感器。",
-      "recommendation": "三星Fold8 Ultra超广角升级至5000万像素，传感器规格明确，对关注折叠屏影像进化的用户有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New leak details the cameras on Samsung's upcoming Galaxy Z foldables"
-    },
-    {
-      "id": "recvo1muvjHe0t",
-      "title": "腾龙或计划推出另一款焦距奇特的镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-might-be-planning-another-lens-with-a-weird-focal-range",
-      "publish_time": "2026-06-30T16:31:26+08:00",
-      "summary": "腾龙计划推出焦距奇特的镜头，因24-70mm和70-200mm已过时，新镜头将提供独特焦段和性能",
-      "recommendation": "分析腾龙焦段创新思路，对追求独特视角的摄影爱好者有参考价值，但缺乏具体规格或发布时间等独家信息。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tamron might be planning another lens with a weird focal range"
-    },
-    {
-      "id": "recvo1mxhCmkf6",
-      "title": "助行架、环形闪光灯与牙套：马丁·帕尔工作中的最后照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/walking-frame-ring-flash-and-braces-the-last-photos-of-martin-parr-at-work",
-      "publish_time": "2026-06-30T15:20:00+08:00",
-      "summary": "新幕后照片展示街头摄影师马丁·帕尔坚持拍摄至生命最后一刻，使用助行架、环形闪光灯与牙套等设备。",
-      "recommendation": "揭秘马丁·帕尔使用助行架、环形闪光灯与牙套的拍摄细节，展示街头摄影师的设备选择与坚持，对理解纪实摄影的实用技巧有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Walking frame, ring flash & braces: the last photos of Martin Parr at work"
-    },
-    {
-      "id": "recvo1mzXlgrRx",
-      "title": "2026年7月天文摄影指南：准备好相机，本月可拍摄流星、银河和曼哈顿悬日",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/astrophotography-in-july-2026-get-your-camera-ready-to-photograph-meteors-the-milky-way-and-manhattanhenge-this-month",
-      "publish_time": "2026-06-30T15:00:00+08:00",
-      "summary": "2026年7月天文摄影指南：本月可拍摄流星、银河和曼哈顿悬日，需准备相机，掌握最佳拍摄时间与参数。",
-      "recommendation": "针对2026年7月天文摄影，提供流星、银河及曼哈顿悬日拍摄时间与参数，含独家数据如最佳曝光设置，适合爱好者实战参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Astrophotography in July 2026: get your camera ready to photograph meteors, the Milky Way and Manhattanhenge this month"
-    },
-    {
-      "id": "recvo1mIs0Sj4s",
-      "title": "给某人摆姿势时最难做到的事",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/30/tips-on-posing-a-subject-without-touching-them-with-explanations-copy/",
-      "publish_time": "2026-06-30T15:00:00+08:00",
-      "summary": "本文探讨在不触碰拍摄对象的情况下为其摆姿势的技巧，核心价值在于提供非接触式指导方法。",
-      "recommendation": "解析非接触式摆姿技巧，提供实用指导方法，避免触碰尴尬，适合人像摄影爱好者提升沟通与引导能力。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Hardest Thing to Do When Posing Someone"
-    },
-    {
-      "id": "recvo1moLMuMWt",
-      "title": "佳能注册第二款未发布的EOS R相机",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canon-registers-a-second-unreleased-eos-r-camera/",
-      "publish_time": "2026-06-30T14:51:21+08:00",
-      "summary": "佳能计划第三季度末发布两款未注册EOS R相机，包括EOS R8 Mark II（DS126947），预计2026年4月推出。",
-      "recommendation": "提前曝光佳能EOS R8 Mark II型号及2026年发布时间表，为等待R8升级的用户提供关键产品规划参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon Registers a Second Unreleased EOS R Camera"
-    },
-    {
-      "id": "recvo02wkI8iv0",
-      "title": "使用柯达Tri-X进行街头摄影需知的5件事",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/30/the-practical-guide-on-how-to-use-kodak-tri-x-400-for-street-photography-copy/",
-      "publish_time": "2026-06-30T12:00:00+08:00",
-      "summary": "柯达Tri-X 400黑白胶片深受街头摄影师喜爱，使用它完全是审美选择，鼓励大量拍摄以体验其独特外观。",
-      "recommendation": "从审美选择切入，解析Tri-X在街头摄影中的独特外观与大量拍摄的实践价值，提供胶片爱好者可操作的拍摄思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "5 Things to Know When Using Kodak Tri-X for Street Photography"
-    },
-    {
-      "id": "recvo02z790xzC",
-      "title": "快门说学院推出全新尼康Z大师课程",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/06/29/shutter-speak-academy-launched-new-nikon-z-masterclasses.aspx/",
-      "publish_time": "2026-06-30T08:56:56+08:00",
-      "summary": "快门说学院推出尼康Z自动对焦大师课程，详解快门速度、自动ISO、对焦模式等，使用代码RUMORS可节省15%",
-      "recommendation": "课程详解尼康Z系统自动对焦与ISO设置，含实操参数解析，适合想提升对焦效率的用户。常规教程资讯，可了解行业教学动态。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Shutter Speak Academy launched new Nikon Z masterclasses"
-    },
-    {
-      "id": "recvo02qELLlZh",
-      "title": "拍摄德克萨斯州所有州立公园教会一名风光摄影师的事",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/what-photographing-every-texas-state-park-taught-a-landscape-photographer/",
-      "publish_time": "2026-06-30T05:26:16+08:00",
-      "summary": "摄影师梅根·拉纳姆凌晨徒步3.5英里、爬升1300英尺，只为拍摄几分钟的日出，并完成了拍摄德克萨斯州所有州立公园的罕见目标，展现了极致执着。",
-      "recommendation": "通过摄影师徒步3.5英里、爬升1300英尺的实战案例，揭示风光摄影中光线捕捉与体力规划的平衡，提供可复用的拍摄策略。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What Photographing Every Texas State Park Taught a Landscape Photographer"
-    },
-    {
-      "id": "recvoOyp8csVK8",
-      "title": "DPReview读者分享他们最难忘的相机",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/dpreview-readers-share-their-most-memorable-cameras/",
-      "publish_time": "2026-06-30T05:23:02+08:00",
-      "summary": "DPReview读者在世界相机日分享最难忘相机，评选出多款经典机型，涵盖技术参数与个人回忆，突出相机在摄影史上的核心价值。",
-      "recommendation": "DPReader用户真实分享，从技术参数到个人回忆，揭示经典机型在摄影史中的核心价值，提供独特用户视角与机型数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DPReview readers share their most memorable cameras"
-    },
-    {
-      "id": "recvo02trYNMly",
-      "title": "Godox C100：无屏幕相机，配备透明显示屏",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/the-godox-c100-is-a-screenless-camera-with-a-transparent-display/",
-      "publish_time": "2026-06-30T04:31:34+08:00",
-      "summary": "神牛C100相机无屏幕，配备透明显示屏，延续柯达Charmera引发的微型相机热潮，主打紧凑设计与创新显示技术。",
-      "recommendation": "解析神牛C100无屏幕透明显示屏设计，延续微型相机热潮，提供紧凑创新技术细节，适合关注相机形态演变的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Godox C100 is a Screenless Camera with a Transparent Display"
-    },
-    {
-      "id": "recvnY0gnbdrrA",
-      "title": "近五年最佳尼康旅行相机推荐",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/29/the-best-nikon-travel-cameras-of-the-last-5-years/",
-      "publish_time": "2026-06-30T03:00:00+08:00",
-      "summary": "尼康近五年最佳旅行相机推荐，涵盖三款型号，强调其出色性能与便携性，适合各类摄影师旅行使用。",
-      "recommendation": "三款尼康旅行相机横评，涵盖Z8/Zf等机型，对比画质、便携与续航数据，为旅行摄影提供具体选机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Nikon Travel Cameras of the Last 5 Years"
-    },
-    {
-      "id": "recvnY0dNFbtnM",
-      "title": "松下正在以更优惠的价格出售其最好的相机之一（暂时？）",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/5201878914/panasonic-s1ii-price-cut-2026",
-      "publish_time": "2026-06-30T02:12:00+08:00",
-      "summary": "松下S1II相机在美国降价约9%，从3200美元降至2900美元，解决此前价格过高的问题。",
-      "recommendation": "松下S1II降价9%至2900美元，解决此前定价过高问题，提供具体价格数据和市场动态，对关注全画幅相机性价比的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Panasonic's selling one of its best cameras at a much better price (for now?)"
-    },
-    {
-      "id": "recvnY05OZE99t",
-      "title": "洪都拉斯红外相机为被指责偷吃作物的濒危物种正名",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/camera-traps-in-honduras-exonerate-an-endangered-species-blamed-for-eating-crops/",
-      "publish_time": "2026-06-30T01:50:28+08:00",
-      "summary": "洪都拉斯研究使用红外相机为被指责偷吃作物的濒危物种正名，证明相机陷阱在野生动物保护中可洗脱动物罪名。",
-      "recommendation": "红外相机在生态保护中的应用案例，展示相机陷阱技术如何为濒危物种正名，提供野生动物监测的独特视角与数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Camera Traps in Honduras Exonerate an Endangered Species Blamed for Eating Crops"
-    },
-    {
-      "id": "recvnY08G476IR",
-      "title": "Instagram 欲扩展“你的算法”，个性化定制信息流",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/instagram-wants-to-expand-your-algorithm-that-curates-your-feed/",
-      "publish_time": "2026-06-30T01:18:10+08:00",
-      "summary": "Instagram计划扩展“你的算法”功能，进一步个性化定制信息流，以应对竞争并提升用户体验。",
-      "recommendation": "算法调整影响影像内容的曝光逻辑，对摄影创作者了解平台分发趋势有参考价值。文章未涉及独家数据，属常规行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Instagram Wants to Expand ‘Your Algorithm’ That Curates Your Feed"
-    },
-    {
-      "id": "recvnY0b69sELi",
-      "title": "摄影：弗雷德里克·道格拉斯废除奴隶制的最有力工具",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/29/photography-was-frederick-douglass-most-powerful-tool-for-abolition/",
-      "publish_time": "2026-06-30T00:38:40+08:00",
-      "summary": "弗雷德里克·道格拉斯在19世纪废奴运动中开创性地使用摄影，将其作为争取美国黑人权利和自由的有力武器。",
-      "recommendation": "从摄影史角度揭示影像作为社会变革工具的独特案例，提供19世纪废奴运动中摄影应用的深度史料，对理解摄影社会价值有启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photography Was Frederick Douglass’ Most Powerful Tool for Abolition"
-    },
-    {
-      "id": "recvnX1V0itELD",
-      "title": "复古相机品牌正流行，但柯达到雅西卡等品牌并非你所想的制造商",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/retro-camera-brands-are-trending-but-camera-brands-from-kodak-to-yashica-arent-made-by-who-you-think",
-      "publish_time": "2026-06-30T00:08:39+08:00",
-      "summary": "柯达、雅西卡等复古相机品牌名称常被授权给其他公司使用，并非原制造商生产。",
-      "recommendation": "揭示复古相机品牌授权内幕，帮爱好者避开品牌迷思，了解柯达、雅西卡等背后的真实制造商，避免为情怀买单。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Retro camera brands are trending. But camera brands from Kodak to Yashica aren’t made by who you think"
-    },
-    {
-      "id": "recvnX1XDE667F",
-      "title": "DxO PhotoLab 9评测：从RAW文件中榨取每一滴画质",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/software/dxo-photolab-9-review-squeeze-every-last-drop-of-image-quality-from-your-raw-files",
-      "publish_time": "2026-06-29T23:19:26+08:00",
-      "summary": "DxO PhotoLab 9评测：旗舰照片编辑器提供行业领先镜头校正与一流降噪，但AI遮罩功能未达同等水平",
-      "recommendation": "深度评测DxO PhotoLab 9，提供RAW处理中镜头校正与降噪的独家数据对比，揭示AI遮罩短板，对追求极致画质的摄影爱好者有实操价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DxO PhotoLab 9 review: Squeeze every last drop of image quality from your RAW Files"
     }
   ]
 }
