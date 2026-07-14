@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-14T04:06:13.693640+08:00",
+    "updated_at": "2026-07-14T11:51:52.892869+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,12 +13,12 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 108
+      "count": 107
     },
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 4
+      "count": 3
     },
     {
       "key": "计算摄影 & AI 影像",
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 395
+      "count": 394
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpjEQqSuIv4",
+      "title": "视差监视器/ZR控制：每场拍摄都想要的尼康Z系列控制应用",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/13/parallax-monitor-zr-ctl-the-nikon-z-series-control-app-you-will-want-on-every-shoot.aspx/",
+      "publish_time": "2026-07-14T09:08:30+08:00",
+      "summary": "本文介绍Parallax Monitor/ZR Ctl应用，为尼康Z系列相机提供远程控制功能，提升拍摄效率，是摄影师必备工具。",
+      "recommendation": "详解Parallax Monitor/ZR Ctl应用对尼康Z系列远程控制的具体操作与效率提升，为摄影师提供实用工作流优化方案。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Parallax Monitor/ZR Ctl: the Nikon Z-series control app you will want on every shoot"
+    },
+    {
+      "id": "recvpjEOd9x2RH",
+      "title": "谷歌Pixel 11新渲染图曝光，展示三种配色",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_google_pixel_11_renders_show_it_in_three_colors-news-73696.php",
+      "publish_time": "2026-07-14T05:45:02+08:00",
+      "summary": "谷歌Pixel 11系列将于8月12日发布，新渲染图展示三种配色，源自亚马逊列表",
+      "recommendation": "新配色渲染图曝光，虽未涉及影像参数，但可作为Pixel 11系列发布前的外观参考，对关注谷歌影像旗舰的用户有资讯价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Google Pixel 11 renders show it in three colors"
+    },
+    {
+      "id": "recvpjELPStIEU",
+      "title": "汤姆·墨菲40多年来持续拍摄黄石公园野牛",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/13/tom-murphy-has-photographed-yellowstones-bison-for-over-40-years/",
+      "publish_time": "2026-07-14T04:25:28+08:00",
+      "summary": "野生动物摄影师汤姆·墨菲在黄石公园生活50多年，40多年来持续拍摄野牛，其作品多产且备受赞誉。",
+      "recommendation": "40年追踪黄石野牛，揭示野生动物摄影的长期观察与耐心价值，含独特拍摄策略与生态洞察。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tom Murphy Has Photographed Yellowstone’s Bison for Over 40 Years"
+    },
     {
       "id": "recvphLzTc2Ucb",
       "title": "佳能AE-1：50年过去，它依然能打",
@@ -7778,54 +7823,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Samsung Galaxy Z Fold8 key features revealed"
-    },
-    {
-      "id": "recvo2AkvKvbhA",
-      "title": "尼康Z30如何在vlog市场折戟，却又浴火重生成为高端便携相机的意外之选",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/how-the-nikon-z30-failed-the-vlogging-market-but-rose-from-the-ashes-as-an-unlikely-alternative-to-the-premium-compact-camera",
-      "publish_time": "2026-06-30T21:05:30+08:00",
-      "summary": "尼康Z30虽无取景器，却因轻便和出色画质成为高端便携相机意外之选，核心在于其平衡了性能与便携性。",
-      "recommendation": "解析尼康Z30从vlog失利到高端便携相机意外翻红的路径，提供市场定位与产品取舍的深度观点，对权衡性能与便携的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How the Nikon Z30 failed the vlogging market, but rose from the ashes as an unlikely alternative to the premium compact camera"
-    },
-    {
-      "id": "recvo2AGiOLo2E",
-      "title": "腾龙正在研发新镜头以取代备受喜爱的35-100mm？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/30/is-tamron-building-a-new-lens-to-replace-its-beloved-35-100mm/",
-      "publish_time": "2026-06-30T21:00:00+08:00",
-      "summary": "腾龙研发新专利，旨在推出取代35-100mm的全能型变焦镜头，覆盖旅行、活动及婚礼摄影常用焦段，提供更实用选择。",
-      "recommendation": "专利信息揭示腾龙35-100mm替代镜头的焦段与光学设计方向，对关注旅行/婚礼摄影的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is Tamron Building a New Lens to Replace Its Beloved 35-100mm?"
-    },
-    {
-      "id": "recvo2AexLutAM",
-      "title": "Redmi K90 Ultra 携骁龙8 Elite与内置主动散热风扇登场",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmi_k90_ultra_is_here_with_the_snapdragon_8_elite_and_a_massive_builtin_active_cooling_fan-news-73509.php",
-      "publish_time": "2026-06-30T20:59:02+08:00",
-      "summary": "Redmi发布K90 Ultra，搭载骁龙8 Elite芯片、内置主动散热风扇（降温10°C）、D2插帧芯片，配备6.83英寸165Hz AMOLED屏幕，主打游戏性能。",
-      "recommendation": "本文聚焦Redmi K90 Ultra的散热与插帧芯片设计，虽非影像专属，但D2芯片对游戏场景的帧率优化可间接提升视频拍摄稳定性，适合关注性能与影像协同的玩家。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "ISP & 影像芯片"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Redmi K90 Ultra is here with the Snapdragon 8 Elite and a massive built-in active cooling fan"
     }
   ]
 }
