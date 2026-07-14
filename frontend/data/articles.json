@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-14T11:51:52.892869+08:00",
+    "updated_at": "2026-07-14T16:45:31.252617+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 107
+      "count": 109
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,93 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 394
+      "count": 392
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 200
+      "count": 201
     }
   ],
   "articles": [
+    {
+      "id": "recvpkQBFUdVLs",
+      "title": "华为将可变光圈旗舰拍照手机带到欧洲",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/android-phones/huawei-is-bringing-its-variable-aperture-flagship-camera-phone-to-europe",
+      "publish_time": "2026-07-14T16:28:02+08:00",
+      "summary": "华为在欧洲推出Pura 90s Pro Max，配备200MP长焦镜头和可变光圈主摄像头，将旗舰拍照手机带到欧洲市场。",
+      "recommendation": "文章解析华为Pura 90s Pro Max的200MP长焦与可变光圈设计，提供欧洲市场旗舰拍照手机技术细节，适合关注移动影像硬件升级的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Huawei is bringing its variable aperture flagship camera phone to Europe"
+    },
+    {
+      "id": "recvpkQGy5VazK",
+      "title": "华为Pura 90s Pro Max全球发布：200MP长焦镜头加持，Pura 90s Pro同步亮相",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_pura_90s_pro_max_goes_global_with_200mp_tele_cam_pura_90s_pro_also_unveiled-news-73694.php",
+      "publish_time": "2026-07-14T16:02:02+08:00",
+      "summary": "华为全球发布Pura 90s Pro和Pro Max，硬件基本相同，主要区别在屏幕尺寸（6.6/6.9英寸）、充电速度和200MP长焦摄像头。",
+      "recommendation": "解析华为Pura 90s系列200MP长焦与Pro Max差异化配置，提供屏幕尺寸、充电速度等独家参数，适合关注手机长焦突破的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Huawei Pura 90s Pro Max goes global with 200MP tele cam, Pura 90s Pro also unveiled"
+    },
+    {
+      "id": "recvpkQEacc2Id",
+      "title": "复古尼康Zf无反相机一年多来首次登顶二手销量榜，击败热门富士",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/retro-nikon-zf-mirrorless-camera-tops-used-sales-charts-for-the-first-time-in-over-a-year-beating-out-trendy-fujifilm",
+      "publish_time": "2026-07-14T15:25:46+08:00",
+      "summary": "尼康Zf无反相机在Map Camera六月二手销量榜登顶，击败富士等热门机型，尼康另一机型紧随其后",
+      "recommendation": "Map Camera六月二手销量榜揭示尼康Zf击败富士登顶，含具体机型排名数据，帮助读者把握复古相机市场趋势与二手行情。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Retro Nikon Zf mirrorless camera tops used sales charts for the first time in over a year, beating out trendy Fujifilm"
+    },
+    {
+      "id": "recvpkQJcnrAdr",
+      "title": "拍摄更自然的人像，试试这样做",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/14/20-foolproof-tips-on-how-to-take-better-candid-portraits-copy/",
+      "publish_time": "2026-07-14T15:00:00+08:00",
+      "summary": "抓拍肖像需信任或隐蔽，若难做到，可尝试文中方法更接近自然抓拍效果。",
+      "recommendation": "针对抓拍自然肖像的实操方法，提供替代信任/隐蔽的实用技巧，对追求真实感的人像摄影爱好者有直接指导价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "For Better Candid Portraits, Do This"
+    },
+    {
+      "id": "recvpkQLMXm6DH",
+      "title": "那款仍让我惊叹的经典85mm镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/14/the-classic-85mm-lens-that-still-wows-me/",
+      "publish_time": "2026-07-14T12:00:00+08:00",
+      "summary": "作者评测了蔡司85mm f1.4 Otus ML镜头，认为其乏味不如原版，但原版Otus 85mm f1.4虽大重难用，其照片至今仍被作者喜爱并作为参考",
+      "recommendation": "对比新旧两代Otus 85mm，揭示经典光学设计在数码时代的价值取舍，对追求镜头画质与色彩风格的摄影爱好者有参考意义。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Classic 85mm Lens that Still Wows Me"
+    },
     {
       "id": "recvpjEQqSuIv4",
       "title": "视差监视器/ZR控制：每场拍摄都想要的尼康Z系列控制应用",
@@ -7746,83 +7824,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Fujifilm Celebrates Japan’s Rich Photographic History"
-    },
-    {
-      "id": "recvo3Sdoj1qLH",
-      "title": "三星Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8保护壳网上泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_cases_leaks_online-news-73506.php",
-      "publish_time": "2026-07-01T00:31:03+08:00",
-      "summary": "三星Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8保护壳网上泄露，展示多种配件选项，暗示可能随手机一同上市。",
-      "recommendation": "保护壳泄露可推测折叠屏手机摄像头模组设计，为影像爱好者提前了解三星旗舰影像硬件布局提供线索，但无具体参数或独家数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8, Z Fold8 Ultra, and Z Flip8 cases leaks online"
-    },
-    {
-      "id": "recvo3SmrSHDCw",
-      "title": "松下新镜头专利是2026年最智能的镜头设计吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/06/30/is-panasonics-new-lens-patent-the-smartest-lens-design-of-2026/",
-      "publish_time": "2026-07-01T00:00:00+08:00",
-      "summary": "松下计划推出新镜头，旨在简化微距摄影，作为镜头产品组合扩展的一部分，该设计或成2026年最智能镜头。",
-      "recommendation": "解析松下2026年微距镜头专利设计，提供镜头产品线扩展的独家技术细节，对关注计算摄影与光学创新的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is Panasonic’s New Lens Patent the Smartest Lens Design of 2026?"
-    },
-    {
-      "id": "recvo3RXvTYbec",
-      "title": "从珊瑚礁到废弃剧院：2026年哈苏大师赛入围者揭晓",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/2400837990/hasselblad-masters-2026-photography-competition-winners",
-      "publish_time": "2026-06-30T23:31:00+08:00",
-      "summary": "哈苏公布2026年大师赛获奖者，从160国10.8万作品中选70名入围者，7位摄影师分获风光、建筑等七类别奖项。",
-      "recommendation": "文章从10.8万作品中筛选70名入围者，提供7位获奖摄影师的具体类别与作品背景，适合关注摄影美学与行业趋势的读者获取创作灵感。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "From coral reefs to abandoned theaters: meet the 2026 Hasselblad Masters"
-    },
-    {
-      "id": "recvo2zZK4xD6g",
-      "title": "3200万像素巨型相机将每晚拍摄700张照片，持续10年",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/06/30/the-worlds-largest-digital-camera-just-started-its-10-year-mission-to-map-the-universe/",
-      "publish_time": "2026-06-30T23:00:50+08:00",
-      "summary": "美国启动十年天文任务，使用3200万像素相机每晚拍摄700张照片，开启天文学新时代",
-      "recommendation": "天文级3200万像素相机十年任务，提供超长曝光与高像素数据，对影像爱好者理解极端成像场景有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Massive 3,200 Megapixel Camera Will Take 700 Photos Every Night for 10 Years"
-    },
-    {
-      "id": "recvo2AbnOtD9w",
-      "title": "三星Galaxy Z Fold8关键特性曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_key_features_revealed-news-73505.php",
-      "publish_time": "2026-06-30T22:06:03+08:00",
-      "summary": "三星Galaxy Z Fold8关键规格曝光，实为此前传闻的Galaxy Fold Wide，将取代标准版，而非Z Fold7直接继任者。",
-      "recommendation": "文章揭示Z Fold8实为Fold Wide，非标准迭代，对关注折叠屏影像布局的用户有参考价值，但缺乏具体影像规格数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 key features revealed"
     }
   ]
 }
