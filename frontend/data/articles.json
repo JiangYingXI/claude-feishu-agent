@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-15T03:58:57.436584+08:00",
+    "updated_at": "2026-07-15T11:49:59.115849+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 110
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,62 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 392
+      "count": 393
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 196
+      "count": 195
     }
   ],
   "articles": [
+    {
+      "id": "recvppuNxFV7l1",
+      "title": "版权局将在120天内将照片登记费用提高55%",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/14/copyright-office-will-increase-photo-registration-cost-by-55-in-120-days/",
+      "publish_time": "2026-07-15T07:11:06+08:00",
+      "summary": "美国版权局计划120天内将照片组注册费从55美元提高至85美元，涨幅55%，除非国会干预。",
+      "recommendation": "版权登记费上涨直接影响摄影师成本，文章提供具体涨幅数据与时间节点，对关注版权保护的影像从业者有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Copyright Office Will Increase Photo Registration Cost by 55% in 120 Days"
+    },
+    {
+      "id": "recvppuQmq18eP",
+      "title": "华为Pura 90s Pro上手体验：双机中更紧凑的选择",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_pura_90s_pro_handson-news-73723.php",
+      "publish_time": "2026-07-15T04:30:02+08:00",
+      "summary": "华为发布Pura 90s Pro和Pro Max，Pro采用紧凑设计，最小妥协，主要区别在显示屏尺寸，Pro Max提供顶级功能。",
+      "recommendation": "对比Pro与Pro Max的显示屏尺寸差异，提供紧凑设计下影像系统的最小妥协方案，适合追求便携与性能平衡的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Huawei Pura 90s Pro hands-on: a look at the more compact option in the duo"
+    },
+    {
+      "id": "recvppuTaMeUux",
+      "title": "腾龙12-20mm f/2.8 FE镜头最新泄露图",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/last-minute-leaked-image-of-the-new-tamron-12-20mm-f-2-8-fe-lens/",
+      "publish_time": "2026-07-15T04:00:34+08:00",
+      "summary": "腾龙12-20mm f/2.8 FE镜头首张安装于索尼相机的泄露图曝光，镜头紧凑，即将发布。",
+      "recommendation": "首张装索尼机身的泄露图曝光，展示镜头紧凑设计，提供光圈与焦段数据，适合关注超广角变焦的爱好者了解新品动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Last minute leaked image of the new Tamron 12-20mm f/2.8 FE lens"
+    },
     {
       "id": "recvpnzPbDL0Pa",
       "title": "我曾认为数码相机只是短暂潮流，但三年后，“烂相机”反而更受欢迎了",
@@ -7770,52 +7817,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Reflx Lab’s New Experimental Film Turns the World Into a Red and Orange Hellscape"
-    },
-    {
-      "id": "recvo8t26ERhrE",
-      "title": "BHphoto等庆祝美国250周年，推出独立日专属优惠",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/bhphoto-co-celebrate-250-years-of-usa-with-dedicated-4th-of-july-deals/",
-      "publish_time": "2026-07-01T22:59:27+08:00",
-      "summary": "美国250周年之际，BHphoto推出7月4日促销，涵盖富士胶片、苹果、唯卓仕、UHS-II存储卡及CFexpress Type等产品优惠。",
-      "recommendation": "美国独立日促销涉及富士、苹果、唯卓仕及存储卡优惠，为影像爱好者提供具体产品折扣信息，属于常规行业资讯，可了解近期市场动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "BHphoto & Co Celebrate 250 Years of USA with Dedicated 4th of July Deals"
-    },
-    {
-      "id": "recvo8sr8owAoo",
-      "title": "Delkin Valor Pro CFe存储卡美国组装，外观亦如其产地",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/01/delkin-valor-pro-cfe-memory-card-is-assembled-in-the-us-and-looks-like-it/",
-      "publish_time": "2026-07-01T22:59:05+08:00",
-      "summary": "Delkin发布Valor Pro CFexpress Type B存储卡，1TB容量，美国设计组装测试，印有美国国旗。",
-      "recommendation": "关注CFexpress存储卡产地的影像用户可了解Delkin Valor Pro的美产背景，含1TB容量与组装测试细节，属常规产品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Delkin Valor Pro CFe Memory Card Is Assembled in the US and Looks Like It"
-    },
-    {
-      "id": "recvo8stRGL2EC",
-      "title": "安妮·莱博维茨因使用墨西哥滤镜遭批评",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/01/annie-leibovitz-criticized-for-using-the-mexico-filter/",
-      "publish_time": "2026-07-01T22:41:34+08:00",
-      "summary": "安妮·莱博维茨因在Instagram发布展览照片时使用墨西哥滤镜而遭批评，其作品常受争议。",
-      "recommendation": "探讨滤镜使用与艺术表达边界，对摄影爱好者理解创作伦理有启发。虽非独家，但提供了行业争议视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Annie Leibovitz Criticized for Using the Mexico Filter"
     }
   ]
 }
