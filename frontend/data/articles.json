@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-15T11:49:59.115849+08:00",
+    "updated_at": "2026-07-15T16:50:03.041626+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 23
+      "count": 22
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 111
+      "count": 121
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,225 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 36
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 393
+      "count": 389
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 195
+      "count": 194
     }
   ],
   "articles": [
+    {
+      "id": "recvpqIlVyyeq0",
+      "title": "你的镜头没有防尘防滴？你需要这个",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/15/mistake-photographers-with-gear-copy-2-copy-4/",
+      "publish_time": "2026-07-15T15:00:00+08:00",
+      "summary": "尼康耐候性优于多数品牌，灰尘影响自动对焦性能，摄影护理计划保障相机设备。",
+      "recommendation": "解析尼康防尘防滴优势，揭示灰尘对自动对焦的量化影响，提供摄影护理实操方案，适合注重设备耐用性的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Are Your Lenses Not Weather Sealed? You Need This"
+    },
+    {
+      "id": "recvpqIjx4nod8",
+      "title": "官方发布：全新腾龙12-20mm f/2.8 FE镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/officially-announced-new-tamron-12-20mm-f-2-8-fe/",
+      "publish_time": "2026-07-15T14:18:00+08:00",
+      "summary": "腾龙发布12-20mm f/2.8 FE镜头，支持预购，提供超广角恒定大光圈，适配索尼全画幅微单。",
+      "recommendation": "腾龙12-20mm f/2.8 FE镜头填补了超广角恒定大光圈变焦的空白，文章提供预购信息与适配索尼全画幅的规格数据，适合风光与建筑摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Officially announced: New Tamron 12-20mm f/2.8 FE"
+    },
+    {
+      "id": "recvpqIeeZep9k",
+      "title": "三星Galaxy Unpacked全系产品渲染图泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsungs_entire_galaxy_unpacked_lineup_appears_in_leaked_renders-news-73724.php",
+      "publish_time": "2026-07-15T14:15:02+08:00",
+      "summary": "三星Galaxy Unpacked活动前一周，官方渲染图泄露，展示Galaxy Z Fold8、Fold8 Ultra和Flip8全系产品，并揭示两款线上专属配色。",
+      "recommendation": "渲染图泄露揭示Z Fold8/Flip8全系设计，含两款线上专属配色。影像爱好者可提前预判折叠屏相机模组布局与配色趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung's entire Galaxy Unpacked lineup appears in leaked renders"
+    },
+    {
+      "id": "recvpqHW1LPR1X",
+      "title": "富士Eterna 55将获得自动电子ND支持",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/14/the-fujifilm-eterna-55-is-getting-automatic-electronic-nd-support/",
+      "publish_time": "2026-07-15T13:00:29+08:00",
+      "summary": "富士发布Eterna 55固件路线图，新增自动电子ND支持，扩展电影制作功能。",
+      "recommendation": "固件更新为Eterna 55用户带来自动电子ND功能，提升拍摄效率，对电影制作爱好者有实用价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Fujifilm Eterna 55 Is Getting Automatic Electronic ND Support"
+    },
+    {
+      "id": "recvpqI4jG4h2n",
+      "title": "富士胶片公布GFX Eterna固件更新路线图",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/fujifilm-announces-firmware-roadmap-for-gfx-eterna/",
+      "publish_time": "2026-07-15T13:00:00+08:00",
+      "summary": "富士胶片发布GFX Eterna固件v1.1，并公布未来一年更新路线图。",
+      "recommendation": "固件更新路线图透露GFX Eterna未来功能演进方向，包含对中画幅视频创作者有实际价值的细节，非简单升级公告。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm announces firmware roadmap for GFX Eterna"
+    },
+    {
+      "id": "recvpqIh2uzx2E",
+      "title": "刚刚发布：适用于尼康Z卡口的腾龙12-20mm f/2.8全画幅镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/15/just-announced-tamron-12-20mm-f-2-8-lens-for-nikon-z-mount.aspx/",
+      "publish_time": "2026-07-15T12:04:53+08:00",
+      "summary": "腾龙发布专为尼康Z卡口设计的12-20mm f/2.8全画幅镜头，预购已开启，提供震撼超广角视角。",
+      "recommendation": "尼康Z卡口用户关注超广角变焦的新选择，文章提供12-20mm f/2.8规格参数与预购信息，含腾龙镜头设计特点，适合风光与建筑摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Just announced: Tamron 12-20mm f/2.8 full-frame lens for Nikon Z-mount"
+    },
+    {
+      "id": "recvpqHZ5thaW0",
+      "title": "腾龙12-20mm f/2.8评测：全新方向",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/14/tamron-12-20mm-f-2-8-review-a-whole-new-direction/",
+      "publish_time": "2026-07-15T12:01:25+08:00",
+      "summary": "腾龙推出12-20mm f/2.8大光圈广角镜头，开启设计新篇章，评测其图像质量是否同步提升。",
+      "recommendation": "评测腾龙12-20mm f/2.8广角镜头，提供实拍样张与光学数据，分析其设计方向转变对画质的影响，适合关注超广角大光圈镜头的用户参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tamron 12-20mm f/2.8 Review: A Whole New Direction"
+    },
+    {
+      "id": "recvpqI6K0goDf",
+      "title": "腾龙变广角（外观也焕然一新）",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/tamron-12-20mm-f2p8-zoom-lens/",
+      "publish_time": "2026-07-15T12:01:00+08:00",
+      "summary": "腾龙12-20mm F2.8镜头采用全新设计语言并简化命名方式",
+      "recommendation": "解析腾龙12-20mm F2.8全新设计语言与命名简化，为超广角变焦用户提供外观与标识变化的实用参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tamron goes wide (and gets a new look, too)"
+    },
+    {
+      "id": "recvpqI93zY4yy",
+      "title": "腾龙12-20mm f/2.8评测：我拍摄了800多张照片，这款轻量级E卡口和Z卡口超广角镜头脱颖而出",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-12-20mm-f28-review",
+      "publish_time": "2026-07-15T12:01:00+08:00",
+      "summary": "腾龙12-20mm f/2.8镜头比索尼和尼康竞品更轻更便宜，实际测试中表现出色，拍摄800多张照片验证其性能。",
+      "recommendation": "800张实拍验证腾龙12-20mm f/2.8轻量超广角，对比索尼尼康竞品突出性价比与便携性，含独家样张与实测数据。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tamron 12-20mm f/2.8 review: I took more than 800 photos and this is what stands out for the new lightweight E-Mount and Z-Mount ultra-wide"
+    },
+    {
+      "id": "recvpqIbyRX339",
+      "title": "腾龙打破长期传统，推出全新轻量级12-20mm f/2.8镜头，支持E卡口和Z卡口——我对此兴奋不已",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-has-axed-a-long-standing-tradition-with-a-new-lightweight-12-20mm-f-2-8-for-e-mount-and-z-mount-and-i-couldnt-be-more-excited-about-it",
+      "publish_time": "2026-07-15T12:01:00+08:00",
+      "summary": "腾龙推出全新轻量级12-20mm f/2.8超广角变焦镜头，支持E卡口和Z卡口，价格竞争力强，标志其进入新时代",
+      "recommendation": "腾龙打破传统推出轻量12-20mm f/2.8镜头，支持E/Z卡口，价格竞争力强。文章提供具体焦段、光圈与卡口适配数据，对超广角变焦需求者具参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tamron has axed a long-standing tradition with a new lightweight 12-20mm f/2.8 for E-Mount and Z-Mount – and I couldn’t be more excited about it"
+    },
+    {
+      "id": "recvpqIoh6Y9OG",
+      "title": "腾龙12-20mm F2.8评测：令人惊叹的轻巧天文摄影镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/15/tamron-12-20mm-f2-8-review/",
+      "publish_time": "2026-07-15T12:01:00+08:00",
+      "summary": "腾龙12-20mm F2.8是近期最轻的超广角变焦镜头，代表全新设计语言，适合天文摄影。",
+      "recommendation": "文章提供腾龙12-20mm F2.8的实测数据与轻量化设计分析，对天文摄影爱好者有具体参考价值，含独特样张与光学表现解读。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tamron 12-20mm F2.8 Review: The Amazing Light and Nimble Astro Photography Lens"
+    },
+    {
+      "id": "recvpqI1Mxf66P",
+      "title": "腾龙12-20mm f/2.8完全重新设计，承诺G大师级画质",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/14/the-tamron-12-20mm-f-2-8-is-wholly-redesigned-and-promises-g-master-quality/",
+      "publish_time": "2026-07-15T12:00:40+08:00",
+      "summary": "腾龙发布12-20mm f/2.8超广角变焦镜头，全新设计支持尼康Z和索尼E卡口，定位G大师级画质，标志品牌转型",
+      "recommendation": "文章详解腾龙12-20mm f/2.8的重新设计细节，对比G大师级光学标准，提供卡口适配与画质表现数据，对超广角变焦用户有明确参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Tamron 12-20mm f/2.8 Is Wholly Redesigned and Promises G Master Quality"
+    },
+    {
+      "id": "recvpqIqLI1IKB",
+      "title": "Flashpoint XPLOR 400 Pro II 闪光灯——不容错过的升级",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/15/flashpoint-xplor-400-pro-ii-strobe-an-unmissable-upgrade/",
+      "publish_time": "2026-07-15T12:00:00+08:00",
+      "summary": "Flashpoint XPLOR 400 Pro II闪光灯升级版，保持价格实惠可靠，提供400Ws功率、高速同步和锂电池，提升离机照明性能。",
+      "recommendation": "解析XPLOR 400 Pro II升级细节，涵盖400Ws功率、高速同步与锂电池改进，为离机闪光提供实用数据，适合追求性价比的布光爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Flashpoint XPLOR 400 Pro II Strobe – An Unmissable Upgrade"
+    },
     {
       "id": "recvppuNxFV7l1",
       "title": "版权局将在120天内将照片登记费用提高55%",
@@ -7617,206 +7822,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Announcing: The 5 Boro Foto Fest. A Place Where Art Lovers Meet Real Photographers"
-    },
-    {
-      "id": "recvobIoDInlJy",
-      "title": "ProGrade Digital最新CFexpress Type A存储卡可轻松录制8K视频",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/memory-cards/prograde-digitals-latest-cfexpress-type-a-card-can-record-8k-video-without-breaking-a-sweat",
-      "publish_time": "2026-07-02T07:54:22+08:00",
-      "summary": "ProGrade Digital最新CFexpress Type A存储卡凭借双VPG写入速度认证，可轻松录制8K视频。",
-      "recommendation": "CFexpress Type A卡双VPG认证保障8K视频录制稳定性，为索尼微单用户提供高性价比存储方案，实测数据可作选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "ProGrade Digital's latest CFexpress Type A card can record 8K video without breaking a sweat"
-    },
-    {
-      "id": "recvobIlF869Ee",
-      "title": "曼富图'Uncover'系列背包：毫不掩饰地瞄准Z世代",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/01/manfrottos-uncover-bag-series-is-unabashedly-gen-z-focused/",
-      "publish_time": "2026-07-02T05:11:29+08:00",
-      "summary": "曼富图发布Uncover系列背包，专为Z世代创作者和城市旅行者设计，适应工作、创作与旅行的日常切换。",
-      "recommendation": "曼富图新背包设计定位Z世代创作者，分析其工作与生活场景切换需求，对影像爱好者选购摄影包有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Manfrotto’s ‘Uncover’ Bag Series Is Unabashedly Gen Z Focused"
-    },
-    {
-      "id": "recvo9HjxL7CKd",
-      "title": "“史上最像手枪握把” – 这款Luna相机配件是酷炫还是会被抓？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-most-pistol-grip-ever-is-this-luna-camera-accessory-cool-or-will-it-get-you-arrested",
-      "publish_time": "2026-07-02T04:17:52+08:00",
-      "summary": "Insta360 Luna相机配件因形似手枪握把引发争议，可能被误认为武器导致被捕，设计酷炫但存在安全隐患。",
-      "recommendation": "剖析Insta360 Luna配件因手枪握把设计引发的安全隐患与法律争议，提供产品设计边界与用户风险的独特视角，影像爱好者可了解行业创新与合规博弈。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"The MOST pistol grip ever\" – Is this Luna camera accessory cool, or will it get you arrested?"
-    },
-    {
-      "id": "recvo9Ht7XGbuH",
-      "title": "BHphoto 推出 Viltrox 镜头和 Lexar 存储卡国庆促销活动",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/4th-of-july-deals-on-viltrox-lenses-and-lexar-cards-at-bhphoto/",
-      "publish_time": "2026-07-02T03:34:49+08:00",
-      "summary": "BHphoto推出国庆促销，优惠包括唯卓仕镜头和雷克沙存储卡，索尼、适马、腾龙镜头也参与活动。",
-      "recommendation": "促销清单涵盖唯卓仕、雷克沙及索尼/适马/腾龙镜头，提供具体优惠信息，适合近期有采购需求的影像爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "4th of July deals on Viltrox lenses and Lexar Cards at BHphoto"
-    },
-    {
-      "id": "recvo9HyZnyYYL",
-      "title": "过去5年最适合旅行摄影的索尼相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/01/the-best-sony-cameras-for-travel-photography-of-the-past-5-years/",
-      "publish_time": "2026-07-02T03:00:00+08:00",
-      "summary": "索尼率先转向无反相机，为旅行摄影师提供多种机型选择，涵盖不同需求与预算。",
-      "recommendation": "梳理索尼近5年旅行相机产品线，含机型定位与预算匹配建议，对选购有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Sony Cameras For Travel Photography of the Past 5 Years"
-    },
-    {
-      "id": "recvo9HqcZPLL3",
-      "title": "尼康美国本周结束优惠活动",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/01/nikon-usa-rebates-ending-this-week.aspx/",
-      "publish_time": "2026-07-02T02:30:22+08:00",
-      "summary": "尼康美国本周结束回扣活动，涵盖无反相机、镜头等，同时启动以旧换新计划",
-      "recommendation": "尼康美国优惠活动结束时间及以旧换新计划细节，为计划升级器材的用户提供购买时机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon USA rebates ending this week"
-    },
-    {
-      "id": "recvo9HdpfD9Td",
-      "title": "苹果在创作者工作室更新中为Final Cut Pro带来新的遮罩工具",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/01/apple-brings-new-masking-tools-to-final-cut-pro-amid-creator-studio-update/",
-      "publish_time": "2026-07-02T02:21:52+08:00",
-      "summary": "苹果更新Creator Studio，为Final Cut Pro新增遮罩工具，提升视频编辑效率与创意能力。",
-      "recommendation": "Final Cut Pro新增遮罩工具，提升视频后期效率。文章解析该功能对手机与相机视频创作者的实用价值，提供苹果生态影像工作流优化细节。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Apple Brings New Masking Tools to Final Cut Pro Amid Creator Studio Update"
-    },
-    {
-      "id": "recvo9HgKGffa0",
-      "title": "神牛推出奇葩相机，Adobe收购Topaz | PetaPixel播客",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/01/godox-made-a-weird-camera-and-adobe-buys-topaz-the-petapixel-podcast/",
-      "publish_time": "2026-07-02T01:01:15+08:00",
-      "summary": "神牛推出无屏幕傻瓜相机C100，Adobe收购Topaz，Samyang完成三剑客镜头，尼康创新举措。",
-      "recommendation": "神牛无屏相机C100设计反常规，Adobe收购Topaz预示AI修图工具整合，Samyang三剑客完成。提供行业趋势与产品洞察，适合关注影像设备动态的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Godox Made a WEIRD Camera and Adobe Buys Topaz | The PetaPixel Podcast"
-    },
-    {
-      "id": "recvo9Hmyc11cY",
-      "title": "宝丽来Go Gen 3评测：这是微型拍立得相机中的“徕卡Q3 43”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/polaroid-go-gen-3-review",
-      "publish_time": "2026-07-02T00:57:23+08:00",
-      "summary": "宝丽来Go Gen 3尺寸增大，但性能显著提升，被比作微型拍立得中的徕卡Q3 43，核心价值在于比前代更好。",
-      "recommendation": "文章将宝丽来Go Gen 3比作微型拍立得中的徕卡Q3 43，提供尺寸增大与性能提升的实测对比，对关注便携拍立得升级的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Polaroid Go Gen 3 review: This is the \"Leica Q3 43\" of tiny instant cameras"
-    },
-    {
-      "id": "recvo9Hw64EhqP",
-      "title": "索尼FX5拥有三档基础ISO和X-OCN内录RAW",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-fx5-has-three-base-iso-and-x-ocn-internal-raw/",
-      "publish_time": "2026-07-02T00:54:11+08:00",
-      "summary": "索尼FX5确认拥有三原生ISO和内部X-OCN RAW录制，支持Open Gate 5k 3:2，预计7月下旬发布。",
-      "recommendation": "文章确认FX5三原生ISO和X-OCN内录RAW，对视频创作者是硬核参数。Open Gate 5k 3:2规格罕见，提供深度拍摄选择。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Sony FX5 has three base ISO and X-OCN internal RAW"
-    },
-    {
-      "id": "recvo9HC5pHQrq",
-      "title": "你的尼康器材很坚固，但它需要这个",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/01/mistake-photographers-with-gear-copy/",
-      "publish_time": "2026-07-02T00:00:00+08:00",
-      "summary": "尼康器材坚固但保修不涵盖灰尘、恶劣天气损坏，摄影关怀计划提供更全面保障，与Ful合作推出。",
-      "recommendation": "解析尼康保修盲区，介绍与Ful合作的摄影关怀计划，提供器材防护新方案，对户外拍摄爱好者有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Your Nikon Gear is Tough. But it Needs This"
-    },
-    {
-      "id": "recvo8skN6Cucq",
-      "title": "婴儿希特勒照片竟出现在中学年鉴中",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/01/baby-hitler-photo-makes-it-into-middle-school-yearbook/",
-      "publish_time": "2026-07-01T23:16:00+08:00",
-      "summary": "新泽西一所中学因年鉴中误将希特勒婴儿照放入学生栏目而召回年鉴。",
-      "recommendation": "常规资讯，可了解行业动态。文章揭示了年鉴编辑流程中影像审核的疏漏，对影像工作者有警示意义。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Baby Hitler Photo Makes It Into Middle School Yearbook"
-    },
-    {
-      "id": "recvo8somA5jMC",
-      "title": "Reflx Lab 新实验电影将世界变成红橙地狱景象",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/01/reflx-labs-new-experimental-film-turns-the-world-into-a-red-and-orange-hellscape/",
-      "publish_time": "2026-07-01T23:09:14+08:00",
-      "summary": "Reflx Lab 推出 Diablo 100 红移实验胶片，将世界呈现为红橙地狱景象，核心参数为 ISO 100 彩色负片。",
-      "recommendation": "文章介绍Reflx Lab Diablo 100红移实验胶片，提供ISO 100彩色负片参数，对追求独特色调的胶片爱好者有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Reflx Lab’s New Experimental Film Turns the World Into a Red and Orange Hellscape"
     }
   ]
 }
