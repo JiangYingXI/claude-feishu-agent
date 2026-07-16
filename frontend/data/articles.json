@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-16T11:52:25.305535+08:00",
+    "updated_at": "2026-07-16T16:46:26.968043+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 20
+      "count": 21
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 129
+      "count": 128
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 40
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 391
+      "count": 388
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,83 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpwy0wfkFWT",
+      "title": "我们的复古数字预设是最值得购买的产品之一",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/16/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-4/",
+      "publish_time": "2026-07-16T15:00:00+08:00",
+      "summary": "复古数码预设价格实惠，适用于Lightroom和Capture One，能提升影棚和自然光下的街头、风景、人像等图像效果。",
+      "recommendation": "解析复古数码预设的实用价值，提供Lightroom与Capture One适配方案，含影棚与自然光场景的调色参数对比，对追求胶片感的用户有直接参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Our Retro Digital Presets are One of Our Best Buys"
+    },
+    {
+      "id": "recvpwxSINXwji",
+      "title": "Redmi Note 17 Pro 拆解视频展示手机内部结构",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_note_17_pro_teardown_video_shows_off_the_phones_internals-news-73740.php",
+      "publish_time": "2026-07-16T14:30:02+08:00",
+      "summary": "Redmi Note 17 Pro拆解视频展示内部结构，需移除后盖，视频中文讲解，YouTube字幕可翻译。",
+      "recommendation": "拆解视频展示Redmi Note 17 Pro内部结构，可观察影像模组布局与散热设计，对了解中端机影像硬件堆叠有参考价值。",
+      "categories": [
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Redmi Note 17 Pro teardown video shows off the phone's internals"
+    },
+    {
+      "id": "recvpwxY0cWeuM",
+      "title": "唯卓仕26mm f/2.8 FE饼干镜头评测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-viltrox-26mm-f-2-8-fe-pancake-lens-reviews/",
+      "publish_time": "2026-07-16T14:23:35+08:00",
+      "summary": "唯卓仕26mm f/2.8 FE饼干镜头评测，该镜头现已开放预购，文章首发于sonyalpharumors，提供核心参数与性能分析。",
+      "recommendation": "文章提供唯卓仕26mm f/2.8饼干镜头的核心参数与预购信息，适合关注便携定焦镜头的用户了解其规格与性能定位。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Viltrox 26mm f/2.8 FE pancake lens reviews"
+    },
+    {
+      "id": "recvpwxVxh0Bpc",
+      "title": "Google Pixel 11 预告视频确认 Pixel Glow 功能及预购日期",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_teaser_video_confirms_pixel_glow_feature_preorder_date-news-73741.php",
+      "publish_time": "2026-07-16T12:00:01+08:00",
+      "summary": "谷歌确认Pixel 11系列将于8月12日发布，预告视频展示Pixel Glow功能，即全色域圆形LED通知灯。",
+      "recommendation": "Pixel Glow通知灯功能细节及8月12日预购日期确认，为关注谷歌手机影像的用户提供关键产品信息。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Pixel 11 teaser video confirms Pixel Glow feature, pre-order date"
+    },
+    {
+      "id": "recvpwy33AqgaJ",
+      "title": "2026年的佳能EOS R：3000万像素还够用吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/16/canon-eos-r-2026-worth-buying/",
+      "publish_time": "2026-07-16T12:00:00+08:00",
+      "summary": "2018年底佳能发布首款无反相机EOS R，探讨2026年3000万像素是否仍够用，分析技术发展对摄影需求的影响。",
+      "recommendation": "文章从2026年视角回看EOS R的3000万像素，结合传感器技术演进与摄影需求变化，提供前瞻性分析，适合关注相机长期价值的用户。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Canon EOS R in 2026: Are 30-Megapixels Still Enough?"
+    },
     {
       "id": "recvpvlYzPQrdb",
       "title": "摄影师Kristi Odom如何通过相机与野生动物建立联系",
@@ -7745,84 +7822,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "“For a place that struggles with drugs, violence, exile and the heat. A haven is a special place.”Photographer documents boxing club that gives struggling community  “a sense of place”"
-    },
-    {
-      "id": "recvoiMOBBH2Pj",
-      "title": "联想开始预热新款Legion游戏平板，支持5G，发布时间揭晓",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/lenovo_starts_teasing_a_new_legion_tablet_heres_when_its_coming-news-73555.php",
-      "publish_time": "2026-07-03T12:31:02+08:00",
-      "summary": "联想预热新款Legion游戏平板，支持5G，8月发布，配备8.8英寸1904x3040 LCD屏幕，摄像头模组新增RGB LED环。",
-      "recommendation": "文章提及游戏平板摄像头模组新增RGB LED环，对影像爱好者而言是设计细节参考，但未涉及传感器或算法等核心影像参数，属于常规产品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Lenovo starts teasing a new Legion gaming tablet with 5G, here's when it's coming"
-    },
-    {
-      "id": "recvohv3G1SXRC",
-      "title": "2026年旅行最佳三款廉价紧凑相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/03/the-3-best-cheap-compact-cameras-for-travel-in-2026/",
-      "publish_time": "2026-07-03T12:00:00+08:00",
-      "summary": "2026年旅行最佳三款廉价紧凑相机，体积小巧且性能强大，适合年轻摄影师获取优质图像，值得关注。",
-      "recommendation": "盘点三款2026年廉价紧凑相机，提供具体型号与性能参数，适合预算有限的旅行摄影爱好者选机参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 3 Best Cheap Compact Cameras for Travel in 2026"
-    },
-    {
-      "id": "recvohv0wOB9qw",
-      "title": "倒计时开始：DPReview新网站下周上线",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/site-news/7480142560/the-countdown-begins-dpreview-s-new-website-goes-live-next-week",
-      "publish_time": "2026-07-03T04:55:00+08:00",
-      "summary": "DPReview网站将于下周上线，这是自1998年成立以来首次从头重建，包括代码库和迁移25年内容至现代平台。",
-      "recommendation": "DPReview首次重建网站，迁移25年内容，对影像爱好者是获取历史评测与行业动态的独特窗口。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The countdown begins: DPReview's new website goes live next week"
-    },
-    {
-      "id": "recvofrXF9icas",
-      "title": "阿尔忒弥斯II号的尼康Z9对科学的重要性远超预期",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/02/artemis-iis-nikon-z9-was-way-more-important-for-science-than-expected/",
-      "publish_time": "2026-07-03T03:21:07+08:00",
-      "summary": "东京城市大学研究显示，阿尔忒弥斯II号宇航员用尼康Z9拍摄的太阳日冕图像揭示了新结构，证明太空相机科学价值超预期。",
-      "recommendation": "尼康Z9在太空任务中意外揭示日冕新结构，证明高端相机科学价值远超民用场景，为影像爱好者提供跨界应用视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Artemis II’s Nikon Z9 Was Way More Important for Science Than Expected"
-    },
-    {
-      "id": "recvofsl75U8s5",
-      "title": "索尼新机FX5首张泄露图：1600万像素、威尼斯菜单风格、伪色、开门模式及超大LCD屏幕！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/first-leaked-image-of-the-new-sony-fx5-16mp-venice-menu-style-false-color-open-gate-and-massive-lcd-screen/",
-      "publish_time": "2026-07-03T03:18:57+08:00",
-      "summary": "索尼FX5首张泄露图曝光，显示1600万像素、威尼斯菜单风格、伪色、开门模式及超大LCD屏幕，预购链接即将发布。",
-      "recommendation": "首张泄露图曝光FX5关键规格：1600万像素、威尼斯菜单及开门模式，为索尼视频机用户提供前瞻性产品洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "First leaked image of the new Sony FX5: 16MP, Venice Menu style, False Color, Open Gate and massive LCD screen!"
     }
   ]
 }
