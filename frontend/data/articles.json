@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-16T22:41:19.130199+08:00",
+    "updated_at": "2026-07-17T03:48:12.538212+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 40
+      "count": 41
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 386
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,256 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpzdZUmACbE",
+      "title": "网红因拒绝删除女子视频被判赔偿2万美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/influencer-ordered-to-pay-20000-for-refusing-to-remove-video-of-woman/",
+      "publish_time": "2026-07-17T02:37:00+08:00",
+      "summary": "一名网红因多次发布陌生女性私密照片，被罚款2万加元（约合1.42万美元），判决强调网络侵权需承担法律责任。",
+      "recommendation": "本文从法律判例切入，警示影像创作者在街拍、直播中需注意肖像权与隐私边界，非技术类但具行业规范参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Influencer Ordered to Pay $20,000 For Refusing to Remove Video of Woman"
+    },
+    {
+      "id": "recvpze2SlFhUk",
+      "title": "大疆在广告中使用AI生成的“人物”，激怒了购买产品的真实用户",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/dji-used-an-ai-generated-person-in-an-ad-angering-the-actual-humans-who-buy-products/",
+      "publish_time": "2026-07-17T02:31:31+08:00",
+      "summary": "大疆在TikTok发布AI生成人物广告，激怒真实用户，虽已删除但引发争议。",
+      "recommendation": "揭示大疆AI广告翻车事件，探讨品牌信任与真实用户关系，对影像创作者理解行业伦理有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "DJI Used an AI-Generated ‘Person’ In an Ad, Angering the Actual Humans Who Buy Products"
+    },
+    {
+      "id": "recvpze5AS8glE",
+      "title": "全球最重要的摄影展将于二月重返日本",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/the-worlds-most-important-photo-show-returns-to-japan-in-february/",
+      "publish_time": "2026-07-17T01:58:52+08:00",
+      "summary": "CP+相机与影像展将于2027年2月25日至28日在横滨太平洋会展中心免费举办，为期四天",
+      "recommendation": "CP+2027展期与免费入场信息确认，为计划赴日观展的影像爱好者提供明确时间地点，属常规行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The World’s Most Important Photo Show Returns to Japan in February"
+    },
+    {
+      "id": "recvpzevNk1Jkg",
+      "title": "历史最低价：腾龙50-400mm FE镜头仅售1045美元，亚马逊独家",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/lowest-price-ever-tamron-50-400mm-fe-lens-1045-only-at-amazon/",
+      "publish_time": "2026-07-17T01:21:56+08:00",
+      "summary": "亚马逊独家特价，腾龙50-400mm FE镜头仅1044美元，比BHphoto最低价低155美元，创历史新低。",
+      "recommendation": "提供腾龙50-400mm FE镜头历史最低价1044美元，比BHphoto低155美元，适合长焦变焦需求者关注价格窗口。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Lowest price ever: Tamron 50-400mm FE lens $1,045 only at Amazon"
+    },
+    {
+      "id": "recvpze8whAnZ7",
+      "title": "没人同意我们对RX10 V的看法 | PetaPixel播客",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/no-one-agrees-with-our-rx10-v-take-the-petapixel-podcast/",
+      "publish_time": "2026-07-17T01:01:12+08:00",
+      "summary": "PetaPixel播客讨论RX10 V评测争议、腾龙设计转变及镜头选秀，核心围绕相机性能与市场反馈分歧。",
+      "recommendation": "播客深度剖析RX10 V评测争议与腾龙设计转向，提供市场分歧的一手观点，适合关注相机性能与品牌策略的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "No One Agrees with Our RX10 V Take | The PetaPixel Podcast"
+    },
+    {
+      "id": "recvpzet43vbIu",
+      "title": "富士FF260002相机注册暗示另一款高端机型——富士GFX180还是富士X-Pro4？",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-ff260002-camera-registered-hints-at-another-higher-end-camera-coming-fujifilm-gfx180-or-fujifilm-x-pro4/",
+      "publish_time": "2026-07-17T00:35:59+08:00",
+      "summary": "富士注册新相机FF260002，搭载X Processor 6和高端规格，可能为GFX180或X-Pro4。",
+      "recommendation": "从富士新机注册信息推测GFX180或X-Pro4规格，提供传感器与处理器细节，适合关注中画幅或高端APS-C机型的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm FF260002 Camera Registration Hints at Another Higher End Camera – Fujifilm GFX180 or Fujifilm X-Pro4?"
+    },
+    {
+      "id": "recvpzeBCoCt7R",
+      "title": "现已上市：美科AF 85mm f/1.4 MIX Ⅱ全画幅镜头，适用于尼康Z卡口",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/16/now-available-meike-af-85mm-f-1-4-mix-%e2%85%b1-full-frame-lens-for-nikon-z-mount.aspx/",
+      "publish_time": "2026-07-17T00:31:06+08:00",
+      "summary": "美科发布适用于尼康Z卡口的AF 85mm f/1.4 MIX Ⅱ全画幅镜头，售价569美元，支持6700万像素，更锐利、更快、更轻。",
+      "recommendation": "美科AF 85mm f/1.4 MIX Ⅱ为尼康Z卡口用户提供高性价比人像镜头，支持6700万像素解析力，重量更轻、对焦更快，适合追求锐利画质的摄影爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Now available: Meike AF 85mm f/1.4 MIX Ⅱ full-frame lens for Nikon Z-mount"
+    },
+    {
+      "id": "recvpzeb3NjVPl",
+      "title": "艾伦·沙勒的《街头游猎》：在动物身上发现人性",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/street-safari-by-alan-schaller-finds-humanity-in-animals/",
+      "publish_time": "2026-07-17T00:23:53+08:00",
+      "summary": "摄影师艾伦·沙勒的第二本书《街头游猎》通过动物影像展现人性，以幽默风格延续对都市孤独的探讨，为读者带来更多笑容。",
+      "recommendation": "通过动物影像折射人性，为街头摄影提供另类视角，适合探索非传统题材的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "‘Street Safari’ by Alan Schaller Finds Humanity in Animals"
+    },
+    {
+      "id": "recvpzedzeLy1y",
+      "title": "忘掉SnapBridge：这款第三方相机应用或成尼康电影制作人的梦想之选",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/apps/forget-snapbridge-this-third-party-camera-app-could-be-a-dream-come-true-for-nikon-filmmakers",
+      "publish_time": "2026-07-17T00:07:00+08:00",
+      "summary": "第三方相机应用视差监视器/ZR控制利用SnapBridge远程功能，增强尼康相机视频拍摄能力，成为电影制作人的理想选择。",
+      "recommendation": "第三方应用突破尼康SnapBridge局限，为视频创作者提供专业级远程控制方案，含具体功能对比与实测数据。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Forget SnapBridge: This third-party camera app could be a dream come true for Nikon filmmakers"
+    },
+    {
+      "id": "recvpzeEzePplb",
+      "title": "这种肖像制作方法可能会成为你的最爱",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/16/the-noob-photographers-guide-to-shooting-backlit-portraits-with-natural-light-copy/",
+      "publish_time": "2026-07-17T00:00:00+08:00",
+      "summary": "背光人像摄影将光源置于主体后方，营造光晕效果，是自然光拍摄的酷炫方法，适合不喜欢闪光灯的摄影师。",
+      "recommendation": "背光人像技巧解析，提供自然光拍摄的实用布光思路，适合追求自然效果的摄影师。无独家数据，但技术要点清晰。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This Method of Making Portraits Could Become Your Favorite"
+    },
+    {
+      "id": "recvpzegbJpFOd",
+      "title": "我认为唯卓仕刚刚发布了有史以来最精良的全画幅饼干镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/i-think-viltrox-just-released-the-most-sophisticated-full-frame-pancake-lens-ever",
+      "publish_time": "2026-07-16T23:51:13+08:00",
+      "summary": "唯卓仕发布全画幅饼干镜头，具备自动对焦、光圈环、对焦环及f/2.8光圈，超薄设计。",
+      "recommendation": "唯卓仕全画幅饼干镜头实现自动对焦与f/2.8光圈，超薄设计突破便携极限，适合街拍与旅行用户。文章提供具体规格参数，无独家数据但填补了全画幅饼干镜头的市场空白。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I think Viltrox just released the most sophisticated full-frame pancake lens ever"
+    },
+    {
+      "id": "recvpzeiOGiwV9",
+      "title": "这支备受追捧的镜头覆盖广角到长焦，拥有罕见的f/2-2.8最大光圈。价格已降至历史最低——但腾龙并非只有这一款多卡口镜头大幅降价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-coveted-lens-covers-wide-to-telephoto-with-a-rare-f-2-2-8-maximum-aperture-the-price-has-never-been-lower-but-its-not-the-only-multi-mount-tamron-with-a-steep-discount",
+      "publish_time": "2026-07-16T23:49:00+08:00",
+      "summary": "腾龙多款镜头降价，其中一款广角到长焦镜头拥有f/2-2.8最大光圈，价格降至历史最低，7月19日折扣结束",
+      "recommendation": "文章聚焦腾龙多款镜头降价，重点分析f/2-2.8光圈广角到长焦镜头的价格历史新低，提供具体折扣截止日期，适合关注性价比的影像爱好者了解市场动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This coveted lens covers wide to telephoto with a rare f/2-2.8 maximum aperture. The price has never been lower – but it’s not the only multi-mount Tamron with a steep discount"
+    },
+    {
+      "id": "recvpzeloRXuxU",
+      "title": "Viltrox AF 26mm f/2.8 Evo评测：性能出众的甜蜜小饼干镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-af-26mm-f-2-8-evo-review",
+      "publish_time": "2026-07-16T23:35:04+08:00",
+      "summary": "Viltrox AF 26mm f/2.8 Evo镜头厚度不足一英寸，价格亲民，为尼康和索尼全画幅无反相机提供高画质表现。",
+      "recommendation": "实测数据与样张分析揭示这款饼干镜头在紧凑体积下的画质表现，为追求轻便全画幅系统的用户提供参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Viltrox AF 26mm f/2.8 Evo review: A sugar-sweet little pancake lens that goes large on performance"
+    },
+    {
+      "id": "recvpzenVaTux0",
+      "title": "富士X100VI相机仍一机难求...如何原价订购这款超人气紧凑相机？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/fujifilm-x100vi-camera-is-still-nearly-impossible-to-find-in-stock-so-how-do-you-order-one-and-not-pay-over-the-odds-for-this-super-popular-compact-camera",
+      "publish_time": "2026-07-16T23:20:53+08:00",
+      "summary": "富士X100VI相机供不应求，建议等待一周以原价订购，避免加价500美元从黄牛处购买。",
+      "recommendation": "针对X100VI缺货现状，提供原价订购策略与市场分析，避免黄牛溢价，对持币待购者具实操价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm X100VI camera is still nearly impossible to find in stock... So how do you order one, and not pay over the odds for this super-popular compact camera?"
+    },
+    {
+      "id": "recvpzeyJM8Ngn",
+      "title": "索尼FX5配备XLR手柄并支持32位浮点音频",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-has-xlr-handle-and-32bit-audio-floating-support/",
+      "publish_time": "2026-07-16T23:20:52+08:00",
+      "summary": "索尼FX5配备XLR手柄支持32位浮点音频，机身售价5399欧元，带手柄版5999欧元，采用16.6MP全堆叠传感器和BIONZ XR 2处理器。",
+      "recommendation": "索尼FX5详细规格曝光，16.6MP全堆叠传感器与BIONZ XR 2处理器是亮点，XLR手柄支持32位浮点音频对视频创作者有实用价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony FX5 has XLR handle and 32bit audio floating support"
+    },
+    {
+      "id": "recvpzeqrYpx0X",
+      "title": "三星Galaxy Fold8系列电池续航大幅提升，欧盟评级揭示",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_fold8_series_will_come_with_significant_battery_life_boost_as_eu_ratings_surface-news-73756.php",
+      "publish_time": "2026-07-16T22:30:03+08:00",
+      "summary": "三星Galaxy Z Fold8系列电池容量大幅提升，采用硅碳电池技术，欧盟评级揭示续航改进，具体提升幅度待实测确认。",
+      "recommendation": "硅碳电池技术突破或间接延长影像创作续航，欧盟评级数据为行业横向对比提供参考，待实测验证提升幅度。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy Fold8 series gets a significant battery life boost, EU ratings reveal"
+    },
     {
       "id": "recvpxYsjJlVTd",
       "title": "哈苏Phocus Mobile终于登陆Android平台",
@@ -7565,257 +7815,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "DSLR vs Mirrorless Cameras in 2026: Which Should You Buy?"
-    },
-    {
-      "id": "recvootTBKZiPt",
-      "title": "我抛弃笨重的相机包，换用紧凑型Yashica——这才是我心目中的独立日！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-ditched-my-cumbersome-camera-kit-for-a-compact-yashica-tank-on-a-city-break-now-thats-what-i-call-independence-day",
-      "publish_time": "2026-07-04T14:15:00+08:00",
-      "summary": "厌倦沉重相机包，改用口袋大小的Yashica Tank相机游览纽约，体验轻便摄影的独立日之旅。",
-      "recommendation": "通过Yashica Tank的轻便体验，探讨摄影装备与创作自由的关系，提供紧凑相机在旅行中的实用视角，适合追求轻量化拍摄的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I ditched my cumbersome camera kit for a compact Yashica – now that's what I call Independence Day!"
-    },
-    {
-      "id": "recvoni9hehxCb",
-      "title": "据报道，苹果已暂停AirPods Ultra的开发",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/apple_has_reportedly_suspended_the_development_of_the_airpods_ultra-news-73567.php",
-      "publish_time": "2026-07-04T05:18:02+08:00",
-      "summary": "据爆料，苹果已暂停配备摄像头、支持Siri的AirPods Ultra开发，原计划2027年底发布，但暂停后仍可能赶上该时间点。",
-      "recommendation": "常规资讯，可了解行业动态。虽未直接涉及影像，但AirPods Ultra若配备摄像头将拓展苹果生态的影像交互场景，对关注计算摄影与AI融合的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Apple has reportedly suspended the development of the AirPods Ultra"
-    },
-    {
-      "id": "recvolhysNfiiI",
-      "title": "三星Galaxy Z Fold8、Fold8 Ultra、Flip8、Watch9、Watch Ultra 2价格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php",
-      "publish_time": "2026-07-04T03:41:02+08:00",
-      "summary": "三星Galaxy Z Fold8系列及Watch9等产品欧洲价格泄露，Fold8 Ultra起售价2199欧元，较前代贵100欧元，整体价格高于去年。",
-      "recommendation": "三星折叠屏及手表价格泄露，影像爱好者可关注Fold8 Ultra定价趋势，但缺乏具体影像规格或独家数据，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak"
-    },
-    {
-      "id": "recvolhB3X4JpY",
-      "title": "内部人士称OxygenOS和Realme UI将并入ColorOS",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/insider_claims_that_oxygenos_and_realme_ui_will_be_merged_into_coloros-news-73568.php",
-      "publish_time": "2026-07-04T02:07:03+08:00",
-      "summary": "一加OxygenOS和Realme UI将并入OPPO的ColorOS，三个品牌共享同一系统以降低研发成本，这是更广泛整合的一部分。",
-      "recommendation": "系统整合影响影像算法调校，一加与真我用户需关注未来相机风格统一化趋势。本文揭示OPPO生态下影像资源分配策略。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Insider claims that OxygenOS and Realme UI will be merged into ColorOS"
-    },
-    {
-      "id": "recvolhL8S1Flb",
-      "title": "TTArtisan发布新款50mm f/1.8 Neo FE镜头，仅售89美元！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/ttartisan-announced-the-new-50mm-f-1-8-neo-fe-lens-for-89-only/",
-      "publish_time": "2026-07-04T01:46:41+08:00",
-      "summary": "TTArtisan发布新款50mm f/1.8 Neo FE自动对焦镜头，仅售89美元，提供快速光圈和低价选择。",
-      "recommendation": "89美元自动对焦50mm f/1.8镜头，提供快速光圈与低价选择，适合预算有限的街拍爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "TTArtisan announced the new 50mm f/1.8 Neo FE lens for $89 only!"
-    },
-    {
-      "id": "recvolhdUAO1Fa",
-      "title": "独立日摄影大促：相机、镜头、灯光等超值优惠",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/03/save-big-on-cameras-lenses-lights-and-more-with-the-best-fourth-of-july-photography-deals/",
-      "publish_time": "2026-07-04T01:10:19+08:00",
-      "summary": "美国独立日摄影大促，相机、镜头、无人机、照明设备等知名品牌大幅折扣，省钱购新器材。",
-      "recommendation": "独立日促销汇总，涵盖相机、镜头、无人机等品类折扣信息，适合近期有购机计划的用户快速比价。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Save Big on Cameras, Lenses, Lights, and More With the Best Fourth of July Photography Deals"
-    },
-    {
-      "id": "recvolhgTHRgbR",
-      "title": "新款自拍友好双屏相机，Y2K风格满满",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/03/new-selfie-friendly-dual-display-camera-has-big-y2k-energy/",
-      "publish_time": "2026-07-04T01:09:48+08:00",
-      "summary": "日本推出DIGI+双屏数码相机DGP-DCM01，半透明机身配副前置屏幕，廉价紧凑，Y2K风格，自拍友好。",
-      "recommendation": "介绍日本双屏自拍相机DGP-DCM01，半透明Y2K设计廉价紧凑，提供副屏自拍新思路，常规产品资讯可了解细分市场动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Selfie-Friendly Dual Display Camera Has Y2K Energy"
-    },
-    {
-      "id": "recvolhqRS7Isl",
-      "title": "世界杯摄影认证被拒，体育摄影师转拍电视画面——但并非人人买账",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/denied-world-cup-accreditation-sports-photographer-captures-games-on-television-but-not-everyone-is-a-fan",
-      "publish_time": "2026-07-04T00:59:55+08:00",
-      "summary": "体育摄影师因未获世界杯官方认证，转而拍摄电视画面，此举引发伦理争议，核心在于变通与职业操守的冲突。",
-      "recommendation": "从体育摄影伦理争议切入，揭示职业操守与变通的现实冲突，对影像创作者有行业规则思考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Denied World Cup accreditation, sports photographer captures games on television – but not everyone is a fan"
-    },
-    {
-      "id": "recvolhtlV2NHT",
-      "title": "重磅：索尼复活RX10桥式相机——新一代怪兽变焦黑卡紧凑型相机下周发布！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/breaking-sony-is-resurrecting-its-rx10-bridge-camera-new-monster-zoom-cyber-shot-compact-camera-launches-next-week",
-      "publish_time": "2026-07-04T00:33:50+08:00",
-      "summary": "索尼将于7月9日发布新一代RX10桥式相机，采用1英寸传感器，复活怪兽变焦黑卡紧凑型相机系列。",
-      "recommendation": "独家爆料索尼RX10系列复活，含1英寸传感器规格与7月9日发布日期的关键数据，为桥式相机爱好者提供前瞻性行业洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 9,
-      "language": "English",
-      "original_title": "BREAKING: Sony is resurrecting its RX10 bridge camera – new monster zoom Cyber-shot compact camera launches next week!"
-    },
-    {
-      "id": "recvoAHr0zf6LU",
-      "title": "索尼复活RX10桥式相机！本周发布怪兽级变焦Cyber-shot便携相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/breaking-sony-is-resurrecting-its-rx10-bridge-camera-new-monster-zoom-cyber-shot-compact-camera-launches-next-week",
-      "publish_time": "2026-07-04T00:33:50+08:00",
-      "summary": "索尼将于7月9日发布RX10桥式相机，搭载1英寸传感器，怪兽级变焦，便携设计",
-      "recommendation": "索尼RX10系列复活，1英寸传感器配怪兽级变焦，便携设计回归。本文提供具体发布时间与核心参数，对关注长焦便携机的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony is bringing its RX10 bridge camera back from the dead! New monster-zoom Cyber-shot compact camera launches this week!"
-    },
-    {
-      "id": "recvolhILtNGk9",
-      "title": "曼富图重新设计现代摄影师相机包",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/03/manfrotto-just-redesigned-the-camera-bag-for-the-modern-photographers/",
-      "publish_time": "2026-07-04T00:00:00+08:00",
-      "summary": "曼富图推出全新相机包系列，以别致设计脱离标准，为摄影师提供存放工具的时尚选择。",
-      "recommendation": "解析曼富图相机包设计革新，提供别致外观与实用性的平衡，适合追求风格与功能的影像爱好者了解行业趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Manfrotto Just Redesigned the Camera Bag for the Modern Photographers"
-    },
-    {
-      "id": "recvolhGgLa4Wr",
-      "title": "智能眼镜摄像头基准测试：成像性能初步洞察",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/smartglasses-camera-benchmark-evaluating-imaging-performance/",
-      "publish_time": "2026-07-03T23:38:18+08:00",
-      "summary": "智能眼镜摄像头从简单配套演变为强大成像工具，本文通过基准测试初步评估其现实场景成像性能，揭示关键参数与数据。",
-      "recommendation": "提供智能眼镜摄像头成像性能的基准测试数据，揭示关键参数与真实场景表现，对关注新兴影像形态的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Smart Glasses Camera Benchmark: First Insights into Imaging Performance"
-    },
-    {
-      "id": "recvolhDB77L7l",
-      "title": "报告：小米18系列将首发搭载新一代骁龙8 Elite Gen 6",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/report_the_xiaomi_18_series_will_be_the_first_to_launch_with_the_new_snapdragon_8_elite_gen_6-news-73566.php",
-      "publish_time": "2026-07-03T23:19:04+08:00",
-      "summary": "高通骁龙8 Elite芯片将于9月发布，小米18系列将首发搭载，其中Pro Max版配备两颗200MP摄像头及1/1.28英寸LOFIC传感器。",
-      "recommendation": "文章透露小米18 Pro Max双200MP摄像头及1/1.28英寸LOFIC传感器，对关注旗舰手机影像硬件迭代的读者有明确参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Report: the Xiaomi 18 series will be the first to launch with the new Snapdragon 8 Elite Gen 6"
-    },
-    {
-      "id": "recvolhlQ9BdpD",
-      "title": "索尼RX10新机即将到来",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/1313483304/sony-rx10-july-2026-announcement-teaser",
-      "publish_time": "2026-07-03T23:09:00+08:00",
-      "summary": "索尼预告2026年7月9日发布RX10新机，上一代RX10 IV配备20MP 1英寸传感器和24-600mm镜头，已停产。",
-      "recommendation": "索尼RX10 IV停产后续机型预告，提供24-600mm超长焦与1英寸传感器组合的更新信息，适合关注长焦便携机的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A new Sony RX10 is coming"
-    },
-    {
-      "id": "recvoOyi1bGsVg",
-      "title": "索尼RX10新机即将到来",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/a-new-sony-rx10-is-coming/",
-      "publish_time": "2026-07-03T23:09:00+08:00",
-      "summary": "索尼将于2026年7月9日发布RX10系列新型号长焦便携相机，预告视频显示镜头和机身轮廓，等待结束。",
-      "recommendation": "索尼RX10新机发布日期确认，预告视频透露镜头与机身细节，长焦便携相机用户可关注具体规格与升级点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A new Sony RX10 is coming"
-    },
-    {
-      "id": "recvolhol9FpfD",
-      "title": "拍摄烟花？你需要知道的四件事",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/4766979407/photographing-fireworks-four-things-social-video-july-fourth-november",
-      "publish_time": "2026-07-03T23:00:00+08:00",
-      "summary": "拍摄烟花需牢记四要点，佳能EOS 5D参数F8、3秒、ISO 250示例，视频详解专业技巧助你拍出闪耀照片。",
-      "recommendation": "文章以佳能EOS 5D实拍参数（F8、3秒、ISO 250）为例，详解烟花拍摄四要点，对新手有直接操作指导价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographing fireworks? Here's the four things you need to know"
     }
   ]
 }
