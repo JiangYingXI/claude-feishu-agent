@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-16T03:52:05.121168+08:00",
+    "updated_at": "2026-07-16T11:52:25.305535+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 130
+      "count": 129
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,41 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 185
+      "count": 186
     }
   ],
   "articles": [
+    {
+      "id": "recvpvlYzPQrdb",
+      "title": "摄影师Kristi Odom如何通过相机与野生动物建立联系",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/15/how-photographer-kristi-odom-connects-to-wildlife-through-her-camera/",
+      "publish_time": "2026-07-16T04:59:27+08:00",
+      "summary": "摄影师Kristi Odom在PetaPixel播客中分享野生动物摄影经验，强调从自然中学习能提升摄影创造力。",
+      "recommendation": "从自然中学习提升摄影创造力，Kristi Odom分享野生动物摄影经验，提供独特视角与实用技巧，适合追求摄影美学突破的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How Photographer Kristi Odom Connects to Wildlife Through Her Camera"
+    },
+    {
+      "id": "recvpvm1O0mSDk",
+      "title": "NPPA对FAA拟议的无人机限制提出宪法关切",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/15/nppa-raises-constitutional-concerns-over-faas-proposed-drone-limits/",
+      "publish_time": "2026-07-16T04:39:39+08:00",
+      "summary": "NPPA对FAA拟议的无人机限制提出宪法关切，担忧其影响受第一修正案保护的新闻采集活动。",
+      "recommendation": "无人机航拍爱好者必读：文章从宪法第一修正案角度剖析FAA拟议限制，揭示政策对新闻采集与航拍创作的潜在影响，提供法律层面深度观点而非常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "NPPA Raises Constitutional Concerns Over FAA’s Proposed Drone Limits"
+    },
     {
       "id": "recvptotfJkQIV",
       "title": "Lomography 新半格相机承诺“双倍乐趣，双倍照片”",
@@ -7792,37 +7823,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "First leaked image of the new Sony FX5: 16MP, Venice Menu style, False Color, Open Gate and massive LCD screen!"
-    },
-    {
-      "id": "recvofsqI6beIc",
-      "title": "Meike 85mm f/1.8 富士GFX镜头预告",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/meike-85mm-f-1-8-for-fujifilm-gfx-teaser/",
-      "publish_time": "2026-07-03T02:53:32+08:00",
-      "summary": "美科预告AF 85mm f/1.8富士GFX镜头，七月上市，为GFX系统首款自动对焦镜头。",
-      "recommendation": "美科预告GFX首款自动对焦镜头，填补系统空白，提供85mm f/1.8规格与七月上市时间，对中画幅用户有明确参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Meike 85mm f/1.8 for Fujifilm GFX Teaser"
-    },
-    {
-      "id": "recvofsfaHtj1P",
-      "title": "三星Galaxy眼镜现身最新泄露视频",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_glasses_emerge_in_new_leaked_video-news-73545.php",
-      "publish_time": "2026-07-03T02:21:02+08:00",
-      "summary": "三星Galaxy眼镜最新泄露视频展示方形镜片、右侧触控区、LED指示灯和摄像头，电源按钮位于右侧。",
-      "recommendation": "视频泄露展示三星Galaxy眼镜方形镜片与触控区设计，为影像爱好者提供可穿戴拍摄设备形态参考，但缺乏成像参数与传感器规格等关键数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Glasses emerge in new leaked video"
     }
   ]
 }
