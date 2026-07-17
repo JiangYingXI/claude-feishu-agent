@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-17T22:21:06.134998+08:00",
+    "updated_at": "2026-07-18T03:47:08.649469+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 122
+      "count": 123
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,243 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 20
+      "count": 21
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 40
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 385
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 176
+      "count": 177
     }
   ],
   "articles": [
+    {
+      "id": "recvpF4S42jgf0",
+      "title": "试试这个：给无聊摄影师的相机技巧",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/17/try-this-the-camera-trick-for-the-bored-photographer/",
+      "publish_time": "2026-07-18T03:00:00+08:00",
+      "summary": "以《哈利·波特》摄魂怪为例，展示如何用极简布景创作引人注目的条纹肖像，提供摄影师实用技巧。",
+      "recommendation": "文章以《哈利·波特》摄魂怪为灵感，提供极简布景创作条纹肖像的实用技巧，适合摄影爱好者突破创意瓶颈。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Try This: The Camera Trick for the Bored Photographer"
+    },
+    {
+      "id": "recvpF4A4BAGsM",
+      "title": "这些照片并非来自末日电影场景。令人心碎的美丽照片记录本周野火的破坏",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/these-photos-are-not-from-an-apocalyptic-movie-set-achingly-beautiful-photographs-capture-the-devastation-of-this-weeks-wildfires",
+      "publish_time": "2026-07-18T02:27:22+08:00",
+      "summary": "本周新闻照片记录野火破坏，黄色烟雾营造诡异氛围，展现灾难中的美丽与心碎",
+      "recommendation": "通过野火纪实照片解析灾难摄影的构图与氛围营造技巧，展示极端环境下曝光与色彩处理思路，对纪实摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These photos are not from an apocalyptic movie set. Achingly beautiful photographs capture the devastation of this week’s wildfires"
+    },
+    {
+      "id": "recvpF4fpKjXDp",
+      "title": "这款柯达品牌胶片相机为35mm胶片摄影提供了低成本入门选择",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/this-kodak-branded-film-camera-offers-a-low-cost-entry-into-35mm-film-photography/",
+      "publish_time": "2026-07-18T02:15:27+08:00",
+      "summary": "柯达授权商Reto推出复古造型紧凑型胶片相机，为35mm胶片摄影提供低成本入门选择。",
+      "recommendation": "文章提供35mm胶片摄影的低成本入门方案，解析Reto柯达授权相机的复古设计与实用性，适合新手了解胶片设备市场动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This Kodak-branded film camera offers a low-cost entry into 35mm film photography"
+    },
+    {
+      "id": "recvpF4kuJz9Ag",
+      "title": "第41届AOP学生摄影奖的鼓舞人心获奖者",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/17/the-inspiring-winners-of-the-41st-aop-student-photography-awards/",
+      "publish_time": "2026-07-18T02:00:00+08:00",
+      "summary": "摄影师协会公布第41届AOP学生摄影奖获奖者，表彰年轻摄影师的创意与技艺。",
+      "recommendation": "展示年轻摄影师获奖作品，提供创意构图与光影技巧参考，适合寻找灵感与审美提升。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Inspiring Winners of the 41st AOP Student Photography Awards"
+    },
+    {
+      "id": "recvpF4CGEQp5y",
+      "title": "使用大画幅摄影，这名学生因记录西欧最后一座工作斜井煤矿的矿工而赢得两项重大摄影奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/using-large-format-photography-this-student-wins-two-major-photo-awards-for-recording-coal-miners-in-the-last-working-drift-colliery-in-western-europe",
+      "publish_time": "2026-07-18T02:00:00+08:00",
+      "summary": "一名学生使用5x4大画幅HP5胶片拍摄西欧最后一座工作斜井煤矿的矿工，记录煤矿景观和工人，赢得两项重大摄影奖。",
+      "recommendation": "5x4大画幅胶片记录西欧最后斜井煤矿，展示传统摄影在纪实项目中的独特价值，提供矿工工作与景观的深度视觉档案。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Using large-format photography, this student wins two major photo awards for recording coal miners in the last working drift colliery in Western Europe"
+    },
+    {
+      "id": "recvpF4F62sqo3",
+      "title": "就像《当哈利遇到莎莉》：突然，我觉得尼康ZR是一台可行的静态相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/its-like-when-harry-met-sally-suddenly-im-looking-at-the-nikon-zr-like-its-a-viable-stills-camera",
+      "publish_time": "2026-07-18T00:55:16+08:00",
+      "summary": "尼康ZR以视频为主，但具备不错的静态摄影规格，能否成为可靠静态相机？",
+      "recommendation": "从视频机定位切入，分析ZR静态摄影的可行性，提供传感器规格与实拍对比数据，对纠结视频与拍照双修的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "It’s like When Harry Met Sally: Suddenly, I’m looking at the Nikon ZR like it’s a viable stills camera"
+    },
+    {
+      "id": "recvpF4Pn85XL2",
+      "title": "使用VideoProc AI降噪高ISO图像/视频并提升整体画质",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/denoise-high-iso-images-videos-and-improve-overall-quality-with-videoproc-ai/",
+      "publish_time": "2026-07-18T00:03:20+08:00",
+      "summary": "本文介绍VideoProc AI如何降噪高ISO图像视频，提升画质，解决噪点、模糊、抖动等问题，适用于裁剪和打印场景。",
+      "recommendation": "实测VideoProc AI对高ISO噪点与模糊的修复效果，提供具体参数对比，适合追求后期效率的影像爱好者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Denoise High-ISO Images/Videos and Improve Overall Quality with VideoProc AI"
+    },
+    {
+      "id": "recvpF4MCvGBnW",
+      "title": "iPhone 18 Pro 配备可变光圈相机的新证据浮出水面",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_proof_for_the_iphone_18_pro_and_iphone_18_pro_max_having_a_variable_aperture_camera_surfaces-news-73774.php",
+      "publish_time": "2026-07-18T00:00:02+08:00",
+      "summary": "塔塔电子泄露文件证实iPhone 18 Pro系列主摄将配备可变光圈，并采用索尼IMX903定制传感器。",
+      "recommendation": "塔塔电子泄露文件证实iPhone 18 Pro主摄将配备可变光圈与索尼IMX903定制传感器，为影像爱好者提供独家硬件升级证据，揭示苹果在计算摄影外的光学突破。",
+      "categories": [
+        "镜头与光学",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "New proof for the iPhone 18 Pro having a variable aperture camera surfaces"
+    },
+    {
+      "id": "recvpF4Utrx0RN",
+      "title": "电影票价20年飙升：涨幅超20%",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/17/this-is-what-film-used-to-cost-10-years-ago-copy/",
+      "publish_time": "2026-07-18T00:00:00+08:00",
+      "summary": "电影票价20年涨幅超20%，摄影师尼克·西尼展示2005年胶卷目录，显示成本波动，但实际涨幅显著。",
+      "recommendation": "通过胶卷成本与票价涨幅对比，揭示电影产业成本结构变迁，为影像爱好者理解行业经济逻辑提供独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How Film Prices Have Shot Up Over 20 Years"
+    },
+    {
+      "id": "recvpF4HFfIp3V",
+      "title": "徕卡最新Q3与D-Lux 8便携相机终于开放预购",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/leicas-coolest-new-q3-and-d-lux-8-compact-cameras-are-finally-available-to-preorder",
+      "publish_time": "2026-07-17T23:57:40+08:00",
+      "summary": "徕卡金属灰Q3和D-Lux 8便携相机在美国开启预售，Q3搭载全画幅传感器和28mm f/1.7镜头，D-Lux 8采用M4/3传感器和24-75mm f/1.7-2.8镜头，均支持4K视频录制。",
+      "recommendation": "文章提供徕卡Q3金属灰版与D-Lux 8的预购信息，含全画幅与M4/3传感器参数对比，对关注便携相机升级的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leica’s coolest new Q3 and D-Lux 8 compact cameras are finally available to preorder"
+    },
+    {
+      "id": "recvpF4n7TFj2v",
+      "title": "柯达EC35 35mm胶片相机重现经典滑盖设计",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/17/the-kodak-ec35-35mm-film-camera-brings-back-the-iconic-slide-cover/",
+      "publish_time": "2026-07-17T23:53:31+08:00",
+      "summary": "Reto公司发布柯达EC35 35mm胶片相机，采用经典滑盖设计，定位日常携带紧凑型相机，注重外观与易用性。",
+      "recommendation": "解析柯达EC35滑盖设计复刻，提供胶片相机复古外观与便携性的具体参数，适合关注经典机型复刻趋势的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Kodak EC35 35mm Film Camera Brings Back the Iconic Slide Cover"
+    },
+    {
+      "id": "recvpF4K1Yt8lP",
+      "title": "Ben Marcin 20年如一日拍摄数十栋废弃房屋，新书堪称编辑大师课",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/ben-marcin-photographed-dozens-of-abandoned-houses-in-exactly-the-same-way-for-20-years-and-his-new-book-is-a-masterclass-in-editing",
+      "publish_time": "2026-07-17T23:00:24+08:00",
+      "summary": "Ben Marcin 20年拍摄巴尔的摩废弃房屋，新摄影集展示如何组织系列，为编辑提供重要启示。",
+      "recommendation": "20年拍摄同一主题，新书展示如何通过编辑组织形成系列，为影像爱好者提供长期项目策划与视觉叙事的具体方法论。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Ben Marcin photographed dozens of abandoned houses in exactly the same way for 20 years, and his new book is a masterclass in editing"
+    },
+    {
+      "id": "recvpF4pq3NMQw",
+      "title": "Squarespace 将涨价高达 26%",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/17/squarespace-is-increasing-prices-by-up-to-26/",
+      "publish_time": "2026-07-17T22:54:32+08:00",
+      "summary": "Squarespace用户报告收到涨价通知，涨幅高达26%，取决于方案和付款方式。",
+      "recommendation": "常规资讯，可了解行业动态。对影像爱好者无直接价值，但Squarespace涨价可能影响个人摄影师建站成本。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Squarespace Is Increasing Prices By Up to 26%"
+    },
+    {
+      "id": "recvpF4i7Gamjp",
+      "title": "Lomography新半格相机仅售35美元，胶片帧数翻倍",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/lomographys-new-half-frame-camera-doubles-your-film-frames-for-35/",
+      "publish_time": "2026-07-17T22:12:59+08:00",
+      "summary": "Lomography新半格相机仅售35美元，使胶片帧数翻倍，简化胶片拍摄",
+      "recommendation": "35美元半格相机使胶片帧数翻倍，降低入门门槛，适合预算有限的胶片爱好者体验双倍拍摄乐趣。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Lomography’s new half-frame camera doubles your film frames for $35"
+    },
     {
       "id": "recvpDK6EXPwoK",
       "title": "这些全画幅相机很受欢迎，现在价格更低",
@@ -276,6 +494,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Camper Accidentaly Discovers Ancient Meteor Crater on Google Maps"
+    },
+    {
+      "id": "recvpF4s4Gyf72",
+      "title": "露营者意外在谷歌地图上发现古老陨石坑",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/17/camper-accidentaly-discovers-ancient-meteor-crater-on-google-maps/",
+      "publish_time": "2026-07-17T20:26:30+08:00",
+      "summary": "露营者Joël Lapointe在谷歌地图上规划魁北克北岸露营路线时，意外发现一个疑似巨大陨石坑的区域。",
+      "recommendation": "展示谷歌地图卫星影像在户外探索中的意外应用，提供陨石坑发现过程的独特案例，对地理影像爱好者有启发价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Camper Accidentally Discovers Ancient Meteor Crater on Google Maps"
     },
     {
       "id": "recvpDKlLhou2r",
@@ -560,6 +793,21 @@
       "original_title": "Canon New Children’s Book Has Aliens Explaining Why Cameras Are Awesome"
     },
     {
+      "id": "recvpF4uKZWdSD",
+      "title": "佳能新童书：外星人解释相机为何如此酷炫",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/canon-new-childrens-book-has-aliens-explaining-why-cameras-are-awesome/",
+      "publish_time": "2026-07-17T05:25:29+08:00",
+      "summary": "佳能发布儿童科普书《佳能之星的秘密》，以外星人视角解释相机技术，旨在激发儿童对摄影的兴趣。",
+      "recommendation": "佳能以儿童科普书形式切入摄影教育，外星人视角降低技术门槛，适合影像爱好者了解品牌在启蒙领域的独特布局。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon’s New Children’s Book Has Aliens Explaining Why Cameras Are Awesome"
+    },
+    {
       "id": "recvpBctsWJJpk",
       "title": "市长Mamdani称房东不得秘密使用AI图像宣传房产",
       "source": "PetaPixel",
@@ -588,6 +836,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "SmallRig’s New Backpack Copy-Pasted the Hasselblad Vandra’s Design"
+    },
+    {
+      "id": "recvpF4xn8BhLq",
+      "title": "SmallRig新款背包外观酷似哈苏Vandra设计",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/smallrigs-new-backpack-copy-pasted-the-hasselblad-vandras-design/",
+      "publish_time": "2026-07-17T04:11:48+08:00",
+      "summary": "SmallRig发布25L专业户外背包6521，内部钩环系统固定隔板设计被指抄袭哈苏Vandra，非其首创。",
+      "recommendation": "剖析SmallRig新款背包与哈苏Vandra的设计争议，为影像爱好者提供配件选购时的设计原创性参考，属于常规产品资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "SmallRig’s New Backpack Looks a Lot Like the Hasselblad Vandra’s Design"
     },
     {
       "id": "recvpBcyB5bP2b",
@@ -7549,272 +7812,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "New Sony RX10V info: 4k120p, double Bionz processor and AI chip"
-    },
-    {
-      "id": "recvoBRELqYgLo",
-      "title": "攀登帝国大厦的情侣在顶楼因拍照争执",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/the-couple-who-climbed-the-empire-state-building-argued-over-photos-at-the-top/",
-      "publish_time": "2026-07-06T20:24:14+08:00",
-      "summary": "一对网红情侣在帝国大厦顶端1400英尺高空因拍照争执，凸显完美照片对网红的重要性。",
-      "recommendation": "通过高空争执案例，探讨网红对完美照片的执念与手机摄影极限，揭示极端环境下的拍摄痛点，适合关注社交影像行为的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Couple Who Climbed the Empire State Building Argued Over Photos at the Top"
-    },
-    {
-      "id": "recvoCYBGTnFy2",
-      "title": "观看攀爬帝国大厦的情侣在摩天大楼顶上为照片争吵",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/rooftopping-couple-photo-argument/",
-      "publish_time": "2026-07-06T20:24:14+08:00",
-      "summary": "网红情侣为拍完美照片，在数百英尺高的帝国大厦外悬挂争吵，凸显社交媒体时代对极致内容的追求。",
-      "recommendation": "通过网红情侣极端行为，揭示社交媒体时代对极致影像的追求，探讨安全与内容创作的平衡，适合关注摄影伦理与行业趋势的读者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Watch the Couple Who Climbed the Empire State Building Argue Over Photos Atop a Skyscraper"
-    },
-    {
-      "id": "recvoBRT4pGtxQ",
-      "title": "vivo V80系列被曝下月发布，规格参数泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_v80_series_said_to_launch_next_month_specs_tipped-news-73584.php",
-      "publish_time": "2026-07-06T19:09:03+08:00",
-      "summary": "vivo V80系列预计8月中旬发布，标准版配备6.59英寸144Hz 1.5K屏，骁龙7 Gen 4芯片，7200mAh电池。",
-      "recommendation": "文章曝光vivo V80系列规格，含144Hz屏与7200mAh电池等参数，但未提及影像配置，对关注手机摄影的用户价值有限，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo V80 series said to launch next month, specs tipped"
-    },
-    {
-      "id": "recvoAHby1ZGQi",
-      "title": "原住民助产摄影系列荣获著名女性摄影新闻奖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/indigenous-midwifery-photo-series-takes-prestigious-womens-photojournalism-crown",
-      "publish_time": "2026-07-06T19:00:00+08:00",
-      "summary": "摄影师Johanna Alarcón凭借记录厄瓜多尔亚马逊和安第斯地区土著助产中心的项目，荣获2026年玛丽莲·斯塔福德摄影报道奖",
-      "recommendation": "通过土著助产纪实摄影案例，解析人文纪实题材的选题思路与获奖标准，为影像爱好者提供非技术向的创作启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Indigenous midwifery photo series takes prestigious women’s photojournalism crown"
-    },
-    {
-      "id": "recvoAHtRdeSWZ",
-      "title": "唯卓仕26mm f/2.8饼干FE镜头即将上市，售价299美元",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/viltrox-26mm-f-2-8-pancake-fe-lens-is-coming-soon-for-299/",
-      "publish_time": "2026-07-06T18:16:21+08:00",
-      "summary": "唯卓仕26mm f/2.8饼干FE镜头即将上市，售价299美元，适用于索尼E卡口和尼康Z卡口。",
-      "recommendation": "299美元定价的饼干镜头，26mm f/2.8规格适配索尼E卡口和尼康Z卡口，为轻便全幅系统提供新选择。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Viltrox 26mm f/2.8 pancake FE lens is coming soon for $299"
-    },
-    {
-      "id": "recvoAH8DMrSPt",
-      "title": "红米Note 17系列新泄露：标准版、Pro和Pro Max规格及图片曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_redmi_note_17_series_leak_details_vanilla_pro_and_pro_max_specs_includes_images-news-73585.php",
-      "publish_time": "2026-07-06T18:12:03+08:00",
-      "summary": "红米跳过Note 16系列，直接推出Note 17系列，包括标准版、Pro、Pro Max和17R四款机型。Note 17配备6.83英寸1.5K直屏、骁龙6 Gen 5芯片、9000mAh电池和67",
-      "recommendation": "文章曝光红米Note 17系列影像配置，含标准版、Pro及Pro Max机型参数，如骁龙6 Gen 5芯片与9000mAh电池，为关注中端手机影像性能的用户提供行业动态参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Redmi Note 17 series leak details vanilla, Pro and Pro Max specs, includes images"
-    },
-    {
-      "id": "recvoAHwKOyjLo",
-      "title": "如何让你的索尼相机使用超过十年",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/06/how-to-make-your-sony-camera-last-over-a-decade/",
-      "publish_time": "2026-07-06T18:00:00+08:00",
-      "summary": "文章介绍如何通过改装延长索尼相机寿命，以初代a7改装全光谱相机和a7r III为例，强调其强大性能与耐用性。",
-      "recommendation": "以改装全光谱相机和a7r III为例，提供延长索尼相机寿命的具体改装方案与实测数据，对追求器材长期价值的影像爱好者有实操参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How to Make Your Sony Camera Last Over a Decade"
-    },
-    {
-      "id": "recvoAHegYWdFI",
-      "title": "“这样的时刻永远不会过时”：宇航员用尼康旗舰相机从国际空间站拍摄令人着迷的极光图像",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/moments-like-these-never-get-old-up-here-astronaut-captures-mesmerizing-image-of-the-aurora-from-aboard-iss-with-nikon-flagship-camera",
-      "publish_time": "2026-07-06T17:58:29+08:00",
-      "summary": "宇航员索菲·阿德诺用尼康旗舰相机从国际空间站拍摄极光图像，捕捉到延伸至目之所及的极光，为作品集增添新作",
-      "recommendation": "从太空视角解析极光拍摄的独特参数与环境挑战，尼康旗舰相机的极端环境表现数据，为风光摄影爱好者提供罕见的微重力拍摄技巧参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“Moments like these never get old up here”: astronaut captures mesmerizing image of the aurora from aboard ISS with Nikon flagship camera"
-    },
-    {
-      "id": "recvoAHgXX8w8a",
-      "title": "这款紧凑型相机火了7年——如今升级版仅凭一处小改动登顶日本销量榜",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-compact-camera-has-been-popular-for-7-years-now-its-updated-version-tops-japans-charts-with-just-one-minor-change-from-the-original",
-      "publish_time": "2026-07-06T17:54:50+08:00",
-      "summary": "佳能PowerShot系列2018年发布的紧凑型相机，配备40倍光学变焦镜头，升级版凭小改动登顶日本销量榜。",
-      "recommendation": "解析佳能PowerShot长焦机7年长青与升级版登顶日本销量榜的细节，揭示小改动如何撬动市场，提供产品迭代与消费趋势的独家数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This compact camera has been popular for 7 years – now its updated version tops Japan's charts with just one minor change from the original"
-    },
-    {
-      "id": "recvoBRPVJNx1A",
-      "title": "这款紧凑型相机火了8年——如今其升级版仅凭一处小改动登顶日本销量榜",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-compact-camera-has-been-popular-for-7-years-now-its-updated-version-tops-japans-charts-with-just-one-minor-change-from-the-original",
-      "publish_time": "2026-07-06T17:54:50+08:00",
-      "summary": "佳能PowerShot系列2018年发布的紧凑型相机，配备40倍光学变焦镜头，升级版因小改动登顶日本销量榜。",
-      "recommendation": "解析佳能PowerShot系列8年长青的秘诀，聚焦40倍变焦镜头与一处小改动如何撬动日本销量榜，提供紧凑相机市场趋势的独特视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This compact camera has been popular for 8 years – now its updated version tops Japan's charts with just one minor change from the original"
-    },
-    {
-      "id": "recvoHzLF8GLiV",
-      "title": "这款紧凑型相机火了8年——更新版几乎没变，却登顶日本销量榜",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-compact-camera-has-been-popular-for-7-years-now-its-updated-version-tops-japans-charts-with-just-one-minor-change-from-the-original",
-      "publish_time": "2026-07-06T17:54:50+08:00",
-      "summary": "佳能2018年推出的口袋型超级变焦相机升级版，几乎未变却登顶日本紧凑型相机销量榜",
-      "recommendation": "解析佳能8年未变机型登顶日本销量榜的行业现象，提供市场数据与用户偏好分析，适合关注紧凑相机趋势的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This compact camera has stayed popular for 8 years – and its updated version tops Japan's sales charts despite changing very little"
-    },
-    {
-      "id": "recvoAHjqeZg4b",
-      "title": "我是一名摄影教育者，曾对M4/3系统用于野生动物摄影不屑一顾。我不介意承认自己错了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/im-a-photography-educator-who-disregarded-micro-four-thirds-for-wildlife-photography-i-dont-mind-admitting-when-im-wrong",
-      "publish_time": "2026-07-06T15:30:00+08:00",
-      "summary": "摄影教育者曾认为全画幅是野生动物摄影唯一选择，但使用OM System相机后承认M4/3系统同样出色，改变偏见",
-      "recommendation": "摄影教育者亲述从全画幅偏见转向M4/3系统的真实体验，提供野生动物摄影的传感器尺寸选择新视角，含实际拍摄对比数据。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I’m a photography educator who disregarded Micro Four Thirds for wildlife photography. I don’t mind admitting when I’m wrong"
-    },
-    {
-      "id": "recvoAHm2gExwR",
-      "title": "考虑购买尼康D600相机？购买前请注意这个可能毁掉照片的快门缺陷",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/considering-a-nikon-d600-camera-then-be-aware-of-this-shutter-flaw-that-could-spoil-your-images-before-you-buy",
-      "publish_time": "2026-07-06T15:15:00+08:00",
-      "summary": "尼康D600单反相机适合预算有限的初学者，但存在漏油到传感器导致照片污点的快门缺陷。",
-      "recommendation": "揭露尼康D600快门漏油缺陷，提供传感器污点实测数据与拆机分析，对预算有限的入门用户有避坑价值。",
-      "categories": [
-        "传感器硬件",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Considering a Nikon D600 camera? Then be aware of this shutter flaw that could spoil your images before you buy"
-    },
-    {
-      "id": "recvoAHzjP4nXc",
-      "title": "拍摄竖幅照片的更好方法",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/06/properly-shoot-photo-portrait-orientation-copy/",
-      "publish_time": "2026-07-06T15:00:00+08:00",
-      "summary": "本文介绍拍摄竖幅照片的高效方法，强调在商业肖像、婚礼等场景中，传统竖拍方式不够高效，需掌握更专业技巧以提升拍摄效果。",
-      "recommendation": "针对竖幅拍摄效率痛点，提供商业肖像与婚礼场景的专业技巧，突破传统竖拍局限，对提升实战拍摄有直接指导价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A Better Way to Shoot Vertical Photos"
-    },
-    {
-      "id": "recvoAHomgj2yQ",
-      "title": "Godox RS100Bi评测：一款强大且便携的外拍光源",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/godox-rs100bi-review",
-      "publish_time": "2026-07-06T14:15:00+08:00",
-      "summary": "Godox RS100Bi是一款紧凑便携的连续LED灯，适合摄影师和摄像师，提供超长照射范围的恒定光源。",
-      "recommendation": "实测Godox RS100Bi便携LED灯，提供照射距离与亮度数据，解析外拍补光痛点，适合户外创作者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Godox RS100Bi review: a powerful yet portable light source for shooting on location"
-    },
-    {
-      "id": "recvoz9RYk123v",
-      "title": "Phoblographer 订阅者现可享 Viltrox 产品 9 折优惠",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/06/phoblographer-subscribers-now-get-10-off-viltrox-products/",
-      "publish_time": "2026-07-06T12:00:00+08:00",
-      "summary": "Phoblographer年度订阅用户现可享Viltrox镜头及配件9折优惠，叠加去广告、Capture One折扣等权益，性价比极高。",
-      "recommendation": "订阅Phoblographer可获Viltrox镜头9折及Capture One折扣，对追求性价比的影像爱好者是实用省钱信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Phoblographer Subscribers Now Get 10% off Viltrox Products"
-    },
-    {
-      "id": "recvoz9GaB3J7w",
-      "title": "Neewer Basics FL20 20W RGB便携摄影灯评测：小巧实惠，融合RGB色彩与创意投影效果",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/neewer-basics-fl20-20w-rgb-portable-photography-flashlight-review",
-      "publish_time": "2026-07-06T11:20:00+08:00",
-      "summary": "Neewer Basics FL20 20W RGB便携摄影灯小巧实惠，融合RGB色彩与创意投影效果，为肖像增添色彩、形状和戏剧效果，不增加装备重量。",
-      "recommendation": "评测Neewer FL20便携灯，20W功率与RGB色彩、投影效果结合，为肖像摄影提供轻量化创意补光方案，数据详实。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Neewer Basics FL20 20W RGB Portable Photography Flashlight review: combines RGB color and creative projection effects in a compact, affordable package"
     }
   ]
 }
