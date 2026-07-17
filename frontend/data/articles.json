@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-17T03:48:12.538212+08:00",
+    "updated_at": "2026-07-17T11:52:35.935539+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 120
+      "count": 119
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,103 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 19
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 41
+      "count": 40
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 386
+      "count": 387
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 186
+      "count": 185
     }
   ],
   "articles": [
+    {
+      "id": "recvpBcBfVS6Fx",
+      "title": "哈苏Phocus Mobile终于登陆Android平台",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/hasselblads_phocus_mobile_finally_lands_on_android-news-73761.php",
+      "publish_time": "2026-07-17T08:00:01+08:00",
+      "summary": "哈苏Phocus Mobile在iOS版发布16年后终于登陆Android，兼容X2D II等相机，提供端到端HNCS体验，集成AI降噪与编辑管理工具",
+      "recommendation": "哈苏Phocus Mobile安卓版填补了16年空白，提供端到端HNCS工作流与AI降噪，安卓用户可直连X2D II实现专业后期。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Hasselblad's Phocus Mobile finally lands on Android"
+    },
+    {
+      "id": "recvpBcqBxUrzo",
+      "title": "佳能新童书：外星人解释相机为何如此酷炫",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/canon-new-childrens-book-has-aliens-explaining-why-cameras-are-awesome/",
+      "publish_time": "2026-07-17T05:25:29+08:00",
+      "summary": "佳能发布儿童向公司介绍手册《佳能之星的秘密》，以外星人视角解释相机技术，旨在激发儿童对摄影的兴趣。",
+      "recommendation": "佳能以儿童向手册切入摄影教育，以外星人视角科普相机技术，为影像爱好者提供品牌市场策略与科普创新的独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon New Children’s Book Has Aliens Explaining Why Cameras Are Awesome"
+    },
+    {
+      "id": "recvpBctsWJJpk",
+      "title": "市长Mamdani称房东不得秘密使用AI图像宣传房产",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "publish_time": "2026-07-17T04:39:10+08:00",
+      "summary": "纽约市长马姆达尼打击房东使用AI生成或编辑图像虚假宣传房产，要求披露AI使用情况，以保护租户权益。",
+      "recommendation": "探讨AI图像在房产宣传中的法规边界，对影像创作者揭示AI生成内容的法律风险与伦理争议，提供行业合规参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Mayor Mamdani Says Landlords Can’t Secretly Use AI Images to Advertise Properties"
+    },
+    {
+      "id": "recvpBcw1acIZB",
+      "title": "SmallRig新背包抄袭哈苏Vandra设计",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/smallrigs-new-backpack-copy-pasted-the-hasselblad-vandras-design/",
+      "publish_time": "2026-07-17T04:11:48+08:00",
+      "summary": "SmallRig新背包抄袭哈苏Vandra的钩环系统固定隔板设计，非其原创创新。",
+      "recommendation": "揭露SmallRig背包设计争议，对比哈苏Vandra钩环系统，为影像装备选购提供设计原创性参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "SmallRig’s New Backpack Copy-Pasted the Hasselblad Vandra’s Design"
+    },
+    {
+      "id": "recvpBcyB5bP2b",
+      "title": "5.7亿像素暗能量相机拍摄梵高式《星夜》",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/16/570-megapixel-dark-energy-camera-photographs-van-gogh-esque-starry-night/",
+      "publish_time": "2026-07-17T04:04:18+08:00",
+      "summary": "暗能量相机用5.7亿像素CCD拍摄南冕座分子云，呈现恒星形成区的梵高式《星夜》景象。",
+      "recommendation": "5.7亿像素CCD的暗能量相机跨界拍摄天文景观，将科学成像与摄影美学结合，提供传感器极限分辨率与星云细节的独特数据。",
+      "categories": [
+        "传感器硬件",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "570-Megapixel Dark Energy Camera Photographs Van Gogh-Esque ‘Starry Night’"
+    },
     {
       "id": "recvpzdZUmACbE",
       "title": "网红因拒绝删除女子视频被判赔偿2万美元",
@@ -7736,85 +7814,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The world is turning beige, but this street photographer fought back, spending 15 years hunting down Britain's brightest, boldest spots for his new photobook – and the results are sublime!"
-    },
-    {
-      "id": "recvopIBgoGEKC",
-      "title": "看看我们用Versus进行的盲测旗舰相机对比",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/check_out_our_blind_test_video_with_versus-news-73575.php",
-      "publish_time": "2026-07-04T19:47:03+08:00",
-      "summary": "盲测对比三星Galaxy S26 Ultra、Pixel 10 Pro XL和iPhone 17 Pro Max的视频性能，专家猜测并评价最佳拍摄手机。",
-      "recommendation": "盲测对比三款旗舰手机视频性能，提供专家视角的客观评价与数据支撑，帮助影像爱好者了解各机型实际拍摄差异。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Check out the blind flagship camera test we did with Versus"
-    },
-    {
-      "id": "recvopIyr6TiWp",
-      "title": "这张获奖无人机照片将人类的渺小与我们对环境的“巨大影响”并置",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-award-winning-drone-photo-juxtaposes-the-small-scale-of-humans-against-our-massive-impact-on-the-environment",
-      "publish_time": "2026-07-04T17:10:00+08:00",
-      "summary": "生物学博士用无人机摄影展示人类对淡水生态系统的巨大影响，获“工作中的科学家”奖，凸显人类渺小与环境影响的对比。",
-      "recommendation": "从生物学博士视角，以无人机摄影揭示人类对淡水生态的显著影响，提供独特的环境影像观点与科学数据，适合追求摄影深度与纪实价值的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This award-winning drone photo juxtaposes the small scale of humans against our “massive impact” on the environment"
-    },
-    {
-      "id": "recvoRXphdHhaw",
-      "title": "观点：机械奇迹的时代是否已经结束？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/opinion/age-of-mechanical-wonders-dslrs-slrs-mirrorless/",
-      "publish_time": "2026-07-04T17:00:00+08:00",
-      "summary": "现代相机作为软件工程奇迹，物理结构却比前代更简单，引发对机械奇迹时代是否终结的思考。",
-      "recommendation": "从机械到计算摄影的范式转换，揭示相机物理结构简化背后的技术逻辑，适合思考影像本质的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Opinion: is the age of mechanical wonders over?"
-    },
-    {
-      "id": "recvootNSNvrep",
-      "title": "室内摄影不用闪光灯，哪款相机最好？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/which-camera-is-best-for-indoor-photography-without-flash/",
-      "publish_time": "2026-07-04T15:51:24+08:00",
-      "summary": "室内摄影挑战在于光线暗导致模糊噪点，文章推荐无需闪光灯的高感光相机，强调大光圈传感器和低噪点性能是关键",
-      "recommendation": "针对暗光环境，解析大光圈传感器与低噪点性能的关联，提供无闪光灯拍摄的相机选型依据，对室内摄影爱好者有实操指导价值。",
-      "categories": [
-        "镜头与光学",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Which Camera Is Best for Indoor Photography Without Flash?"
-    },
-    {
-      "id": "recvootQXR5kOl",
-      "title": "2026年单反 vs 微单相机：你该买哪个？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/dslr-vs-mirrorless-cameras-in-2026-which-should-you-buy-2/",
-      "publish_time": "2026-07-04T15:39:25+08:00",
-      "summary": "2026年单反与微单相机对比，微单在自动对焦、连拍和视频性能上领先，单反在电池续航和镜头群上仍有优势，选择取决于拍摄需求。",
-      "recommendation": "对比2026年单反与微单核心差异，提供自动对焦、续航等关键数据，助你按需选机。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "DSLR vs Mirrorless Cameras in 2026: Which Should You Buy?"
     }
   ]
 }
