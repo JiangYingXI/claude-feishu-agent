@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-18T22:02:52.656474+08:00",
+    "updated_at": "2026-07-19T03:47:48.715335+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 25
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,170 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 383
+      "count": 379
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 179
+      "count": 181
     }
   ],
   "articles": [
+    {
+      "id": "recvpKVl4qNt2O",
+      "title": "忘掉装备清单：一位自学成才的设得兰木匠，车上绑着船，能给当今摄影师上的关于拍出关键照片的一课",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/forget-the-gear-list-heres-what-a-self-taught-shetland-joiner-with-a-boat-strapped-to-his-car-can-teach-todays-photographers-about-getting-the-shot-that-counts",
+      "publish_time": "2026-07-19T02:10:00+08:00",
+      "summary": "一场纪念J.D. Rattar 150周年的展览证明，摄影师的最佳装备不是相机，而是自学成才的设得兰木匠用车上绑船的方式拍出关键照片的启示。",
+      "recommendation": "通过设得兰木匠的创作故事，揭示摄影本质不在器材而在观察与表达，为影像爱好者提供突破技术焦虑的独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Forget the gear list: Here's what a self-taught Shetland joiner, with a boat strapped to his car, can teach today's photographers about getting the shot that counts"
+    },
+    {
+      "id": "recvpKVt3hHtWs",
+      "title": "促销：Pixel 10、10 Pro和10 Pro XL降价，Nothing Phone (4a) Pro也打折",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_pixel_10_10_pro_and_10_pro_xl_are_on_sale_nothing_phone_4a_pro_gets_discounted_too-news-73769.php",
+      "publish_time": "2026-07-19T02:00:02+08:00",
+      "summary": "谷歌预告8月12日发布Pixel 11系列，可能采用台积电2纳米芯片和联发科调制解调器，Pro版基础配置改为12/256GB，512GB版提供16GB内存。",
+      "recommendation": "Pixel 11系列芯片与调制解调器升级，Pro版内存配置调整，影像爱好者可关注台积电2纳米对计算摄影的潜在影响。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: Pixel 10, 10 Pro and 10 Pro XL are on sale, Nothing Phone (4a) Pro gets discounted too"
+    },
+    {
+      "id": "recvpKVnHlwwie",
+      "title": "K&F Concept ND1000000手机太阳滤镜评测：用于拍摄日食纪念照的简易智能手机滤镜",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lens-filters/k-and-f-concept-nd1000000-phone-solar-lens-filter-review",
+      "publish_time": "2026-07-19T01:00:00+08:00",
+      "summary": "K&F Concept ND1000000手机太阳滤镜，紧凑经济，用于拍摄日偏食，需配合三脚架使用，需练习和合理预期。",
+      "recommendation": "实测ND1000000手机太阳滤镜在日偏食场景的成像表现，提供三脚架配合与拍摄技巧，数据详实，适合想低成本记录日食的爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "K&F Concept ND1000000 Phone Solar Lens Filter review: a simple smartphone filter for souvenir shots of the solar eclipse"
+    },
+    {
+      "id": "recvpKVvP2YYmX",
+      "title": "小米MIX Fold 5真机现身，运行HyperOS 4系统",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_mix_fold_5_spotted_in_the_wild_running_hyperos_4-news-73787.php",
+      "publish_time": "2026-07-19T00:35:03+08:00",
+      "summary": "小米MIX Fold 5已获中国认证，预计2026年8月发布，将搭载非骁龙Elite Gen 6处理器，可能早于小米18系列上市。",
+      "recommendation": "文章透露MIX Fold 5将搭载非骁龙Elite Gen 6处理器，影像爱好者可关注其计算摄影架构变化，但缺乏具体影像规格，常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi Mix Fold 5 spotted in the wild running HyperOS 4"
+    },
+    {
+      "id": "recvpKVqmbCCbc",
+      "title": "一个镜头滤镜改变了我与摄影的整个关系——也许它也能为你带来同样的改变",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lens-filters/a-lens-filter-changed-my-whole-relationship-with-photography-maybe-it-can-do-the-same-for-you",
+      "publish_time": "2026-07-18T23:20:00+08:00",
+      "summary": "镜头滤镜通过改变光线与相机相互作用的方式，无需编辑软件即可实现惊人效果，改变摄影关系。",
+      "recommendation": "解析滤镜如何物理改变光线路径，替代后期调色，提供实测对比数据与光学原理深度解读，对追求直出效果的摄影爱好者有实操价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A lens filter changed my whole relationship with photography – maybe it can do the same for you"
+    },
+    {
+      "id": "recvpKVyAILsaK",
+      "title": "谷歌Pixel 11a规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11a_specs_leak-news-73781.php",
+      "publish_time": "2026-07-18T22:10:02+08:00",
+      "summary": "爆料称谷歌Pixel 11a将搭载新芯片组，解决Pixel 10a沿用旧芯片的痛点，或成最佳a系列机型。",
+      "recommendation": "文章聚焦Pixel 11a芯片升级对影像处理的影响，提供a系列性能跃升的独家信息，适合关注谷歌计算摄影演进的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Pixel 11a specs leak"
+    },
+    {
+      "id": "recvpKVdyG1VfE",
+      "title": "如何在餐厅里拍摄产品视频（布光与拍摄技巧）",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/18/how-to-light-and-shoot-product-videos-in-your-dining-room/",
+      "publish_time": "2026-07-18T22:01:35+08:00",
+      "summary": "本文介绍在餐厅拍摄产品视频的布光与技巧，以鸡尾酒调酒器为例，强调通过创意视频替代传统问卷，提升产品展示效果。",
+      "recommendation": "以鸡尾酒调酒器为例，详解餐厅布光与创意视频替代传统问卷的实用技巧，提供具体拍摄参数与场景化操作指南。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How to Light and Shoot Product Videos (In Your Dining Room)"
+    },
+    {
+      "id": "recvpKVgmTFJ7y",
+      "title": "腾龙新款12-20mm F2.8镜头，外出实拍体验",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/samples/tamrons-new-12-20mm-f2-8-out-and-about/",
+      "publish_time": "2026-07-18T22:00:00+08:00",
+      "summary": "腾龙新款12-20mm F2.8超广角变焦镜头为索尼和尼康设计，实拍图库展示其快速光圈与画质表现。",
+      "recommendation": "实拍图库展示12-20mm F2.8在超广角端的画质表现与畸变控制，为风光摄影爱好者提供光圈与边缘锐度的实测参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tamron’s new 12-20mm F2.8, out and about"
+    },
+    {
+      "id": "recvpKViLv0V7X",
+      "title": "相机行业是否开始重视发烧友需求？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/opinion/is-the-camera-industry-waking-up-to-enthusiast-demand/",
+      "publish_time": "2026-07-18T22:00:00+08:00",
+      "summary": "相机行业开始重视发烧友需求，性能紧凑型车复兴，表明市场正回归对高性能便携设备的关注。",
+      "recommendation": "分析相机行业回归发烧友需求的趋势，揭示性能紧凑机型复兴背后的市场逻辑，为关注便携高性能设备的用户提供行业动态与深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the camera industry waking up to enthusiast demand?"
+    },
+    {
+      "id": "recvpKVBpDyPYY",
+      "title": "索尼FX5或可通过未来固件更新实现4K 240fps录制",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-might-be-able-to-record-240fps-in-4k-via-future-firmware-update/",
+      "publish_time": "2026-07-18T20:44:49+08:00",
+      "summary": "索尼FX5或通过固件更新支持4K 240fps，搭载16.6MP全堆叠传感器、BIONZ XR 2处理器及AI自动对焦，支持Open Gate 5K 3:2录制。",
+      "recommendation": "文章透露FX5固件升级潜力，16.6MP全堆叠传感器与BIONZ XR 2处理器组合下，4K 240fps录制或成现实，对高帧率视频创作者有直接参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony FX5 might be able to record 240fps in 4K via future firmware update"
+    },
     {
       "id": "recvpJwFJGhM36",
       "title": "Evan Blass新泄露显示Z Fold8、Z Fold8 Ultra和Galaxy Watch9，确认部分规格",
@@ -7653,162 +7808,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "We Just Got a Clear Photo of a Two-Headed Asteroid 62 Million Miles From Earth"
-    },
-    {
-      "id": "recvoCYGYocthD",
-      "title": "拍摄烟花照片已足够困难，但这位体育摄影师却成功将烟花与闪电同框",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/timing-fireworks-photos-is-hard-enough-but-this-sports-photographer-managed-to-get-fireworks-and-lightning-in-one-shot",
-      "publish_time": "2026-07-07T02:33:43+08:00",
-      "summary": "体育摄影师在亚特兰大勇士队比赛后，成功将烟花与闪电同框，捕捉到罕见混合画面。",
-      "recommendation": "体育摄影师实战案例，展示烟花与闪电同框的拍摄技巧，含相机参数与构图思路，对低光多元素摄影有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Timing fireworks photos is hard enough, but this sports photographer managed to get fireworks and lightning in one shot"
-    },
-    {
-      "id": "recvoCYU964U3l",
-      "title": "Galaxy S27 Pro仅在部分地区使用骁龙芯片，其他地区搭载Exynos 2700",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/galaxy_s27_pro_will_use_a_snapdragon_chip_only_in_select_regions_exynos_2700_everywhere_else-news-73587.php",
-      "publish_time": "2026-07-07T02:31:01+08:00",
-      "summary": "三星Galaxy S27 Pro在北美以外地区将搭载Exynos 2700芯片，中国配置不同，Pro与Ultra长焦摄像头不同，主摄、超广角和自拍相机相同。",
-      "recommendation": "解析Galaxy S27 Pro芯片区域差异与影像配置，提供Exynos 2700对影像处理的影响视角，Pro与Ultra长焦差异值得关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Galaxy S27 Pro will use a Snapdragon chip only in select regions, Exynos 2700 everywhere else"
-    },
-    {
-      "id": "recvoCVTyB4H3T",
-      "title": "德尔金新款Valor Pro存储卡：速度惊人且稳定可靠",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/delkins-new-valor-pro-memory-card-is-wicked-fast-and-reliable/",
-      "publish_time": "2026-07-07T02:29:38+08:00",
-      "summary": "德尔金发布Valor Pro存储卡，性能匹配大胆品牌名，速度惊人且稳定可靠，核心价值在于高性能表现。",
-      "recommendation": "存储卡速度与稳定性直接影响连拍和4K视频录制体验，本文提供Valor Pro实测性能数据，适合高负载拍摄场景的影像爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Delkin’s New Valor Pro Memory Card Is Wicked Fast and Reliable"
-    },
-    {
-      "id": "recvoCVWsKeRy1",
-      "title": "Statera 90-180mm T3.2：将复古球面玻璃与现代变形光学相结合",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/the-statera-90-180mm-t3-2-combines-vintage-spherical-glass-with-modern-anamorphic-optics/",
-      "publish_time": "2026-07-07T02:16:16+08:00",
-      "summary": "Ancient Optics推出Statera 90-180mm T3.2镜头，结合复古球面玻璃与现代变形光学，满足电影镜头两大趋势。",
-      "recommendation": "解析复古球面玻璃与现代变形光学结合的技术路径，提供镜头结构设计思路，适合电影镜头爱好者了解行业创新方向。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Statera 90-180mm T3.2 Combines Vintage Spherical Glass With Modern Anamorphic Optics"
-    },
-    {
-      "id": "recvoCYJEJHe8D",
-      "title": "这台18岁的单反相机火了：2026年尼康D700对预算有限的摄影师来说真的值得买吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/this-18-year-old-dslr-is-trending-can-the-nikon-d700-really-be-a-feasible-buy-for-budget-photographers-in-2026",
-      "publish_time": "2026-07-07T02:10:47+08:00",
-      "summary": "尼康D700虽显老旧，但作为全画幅平台，其价格和做工对预算有限的摄影师仍具吸引力。",
-      "recommendation": "解析18年机龄尼康D700在2026年的性价比，提供全画幅入门新视角，含二手市场数据与实操建议，适合预算有限的摄影爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This 18-year-old DSLR is trending: Can the Nikon D700 really be a feasible buy for budget photographers in 2026?"
-    },
-    {
-      "id": "recvoCVZjX99nY",
-      "title": "组图：NASA在加州沙漠测试其下一代火星和月球车",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/in-photos-nasa-tests-its-next-mars-and-moon-rover-in-a-california-desert/",
-      "publish_time": "2026-07-07T01:26:48+08:00",
-      "summary": "NASA在加州沙漠测试下一代火星和月球车ERNEST，旨在提升极端环境下的自主导航与采样能力，为未来载人任务铺路。",
-      "recommendation": "常规资讯，可了解行业动态。文章展示NASA火星车ERNEST的自主导航与采样技术，对关注极端环境成像的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "In Photos: NASA Tests its Next Mars and Moon Rover in a California Desert"
-    },
-    {
-      "id": "recvoCYMhEhAwy",
-      "title": "刚发布即登顶日本第一镜头——前所未有的远摄镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/just-released-and-already-the-no-1-camera-lens-in-japan-a-telephoto-lens-unlike-anything-before",
-      "publish_time": "2026-07-07T00:55:00+08:00",
-      "summary": "首款恒定光圈400mm变焦镜头发布，登顶日本市场，进军专业高端领域。",
-      "recommendation": "解析首款恒定光圈400mm变焦镜头的技术突破与日本市场登顶数据，为远摄爱好者提供产品规格与行业趋势参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Just released and already the No.1 camera lens in Japan – a telephoto lens unlike anything before"
-    },
-    {
-      "id": "recvoCYyG6AYGa",
-      "title": "明基新款700美元显示器承诺为摄影师提供专业级色彩",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/benqs-new-700-monitor-promises-pro-level-color-for-photographers/",
-      "publish_time": "2026-07-07T00:36:26+08:00",
-      "summary": "明基发布Creative Pro Line PD2732U显示器，售价700美元，为摄影师等专业人士提供专业级色彩表现。",
-      "recommendation": "700美元价位专业级色彩显示器，适合预算有限的摄影师。文章提供明基新款参数与定价，无独家数据，属常规产品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "BenQ’s New $700 Monitor Promises Pro-Level Color for Photographers"
-    },
-    {
-      "id": "recvoCYErgqnfI",
-      "title": "佳能电动变焦新方案如何助力摄影师？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/5271550308/canon-rf-20-50mm-f4-l-is-usm-pz-shooting-experience-hybrid",
-      "publish_time": "2026-07-07T00:08:00+08:00",
-      "summary": "佳能RF 20-50mm F4 L IS USM PZ镜头提供电动与手动变焦切换开关，兼顾视频和摄影需求，是混合设计的创新方案。",
-      "recommendation": "解析佳能RF 20-50mm F4 L PZ的电动变焦设计，提供手动/电动切换开关的具体操作细节，对视频与摄影双修用户有实用参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How does Canon's new approach to power zoom work for photographers?"
-    },
-    {
-      "id": "recvoCYOUo1vkU",
-      "title": "紧凑型相机趋势已停滞？日本最新数据显示各大类别相机销量下滑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/has-the-compact-camera-trend-already-stalled-camera-numbers-are-down-across-every-major-category-in-the-latest-data-from-japan",
-      "publish_time": "2026-07-07T00:05:00+08:00",
-      "summary": "CIPA最新数据显示2026年5月所有主要相机类别出货量下滑，紧凑型相机趋势停滞。",
-      "recommendation": "CIPA最新出货量数据揭示紧凑型相机趋势停滞，提供行业下滑的量化依据，适合关注市场走向的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Has the compact camera trend already stalled? Camera numbers are down across every major category in the latest data from Japan"
     }
   ]
 }
