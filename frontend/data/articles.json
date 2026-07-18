@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-18T11:46:17.371767+08:00",
+    "updated_at": "2026-07-18T16:26:27.825739+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 25
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 123
+      "count": 124
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,73 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 177
+      "count": 176
     }
   ],
   "articles": [
+    {
+      "id": "recvpI9YLeWZob",
+      "title": "促销：vivo X300系列开售（附赠充电器），Galaxy A37大幅降价",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_vivo_x300_models_on_sale_with_a_free_charger_galaxy_a37_gets_a_deep_price_cut-news-73779.php",
+      "publish_time": "2026-07-18T15:44:02+08:00",
+      "summary": "亚马逊促销vivo X300 Pro降价16%并赠90W充电器，配备200MP潜望长焦、天玑9500及5440mAh电池",
+      "recommendation": "文章提供vivo X300 Pro降价及赠充电器促销信息，重点参数200MP潜望长焦、天玑9500芯片和5440mAh电池，适合关注性价比的影像爱好者了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: vivo X300 models on sale (with a free charger), Galaxy A37 gets a deep price cut"
+    },
+    {
+      "id": "recvpIa1GfpZ3u",
+      "title": "尼康最值得入手的人像镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/18/our-favorite-portrait-lens-from-nikon-that-you-must-get/",
+      "publish_time": "2026-07-18T15:00:00+08:00",
+      "summary": "尼康Z卡口最佳人像镜头推荐，涵盖AF-S 14-24mm f2.8G ED等经典，强调购买理由与核心技术参数。",
+      "recommendation": "从Z卡口光学设计切入，解析AF-S 14-24mm f2.8G等镜头的像差控制与镀膜技术，提供人像焦段选择的核心参数对比，适合追求画质的用户参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Our Favorite Portrait Lens from Nikon That You Must Get"
+    },
+    {
+      "id": "recvpI9VEHpjNa",
+      "title": "如果2026年我要买单反相机，我仍然会选择佳能",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/if-i-wanted-a-dslr-camera-in-2026-id-still-choose-canon",
+      "publish_time": "2026-07-18T14:15:00+08:00",
+      "summary": "尽管单反不再流行，但佳能单反因其实用性仍是2026年购买首选，具备可靠性能和丰富镜头群优势。",
+      "recommendation": "文章从实用主义角度分析佳能单反在2026年的选购价值，提供镜头群兼容性、机身可靠性等具体数据支撑，适合关注器材实用性的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "If I wanted a DSLR camera in 2026, I’d still choose Canon"
+    },
+    {
+      "id": "recvpIa4mjG7aP",
+      "title": "为何佳能G1X Mark II在2026年仍是街拍利器",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/18/why-the-canon-g1x-mark-ii-is-so-good-for-street-photography-in-2026/",
+      "publish_time": "2026-07-18T12:00:00+08:00",
+      "summary": "尽管新相机层出不穷，但2014年推出的佳能G1X Mark II凭借其1.5英寸大底传感器和24-120mm f/2.0-3.9镜头，在2026年仍被视为街拍利器，展现了老款相机的持久魅力。",
+      "recommendation": "解析2014年佳能G1X Mark II在2026年仍具竞争力的原因，提供1.5英寸传感器与f/2.0-3.9镜头的实战价值，适合街拍爱好者评估老设备潜力。",
+      "categories": [
+        "传感器硬件",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why the Canon G1X Mark II is So Good for Street Photography in 2026"
+    },
     {
       "id": "recvpH1tQAI4T1",
       "title": "几乎适用于每款无反相机的多功能变焦镜头最佳优惠",
@@ -7749,68 +7812,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Trendy compact cameras from only $99 – retro designs and Kodak favorites for everyday snapshots"
-    },
-    {
-      "id": "recvoBRwkklJfE",
-      "title": "水下电影制作如何在为时已晚前帮助拯救锤头鲨",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/how-underwater-filmmaking-can-help-save-hammerhead-sharks-before-its-too-late/",
-      "publish_time": "2026-07-06T22:01:58+08:00",
-      "summary": "国家地理频道推出《与伯蒂·格雷戈里近距离观察锤头鲨》特别节目，旨在纠正误解、减少恐惧，并呼吁保护海洋生物。",
-      "recommendation": "水下拍摄技巧与海洋保护结合，展示特殊环境下的摄影挑战与解决方案，对水下影像爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "How Underwater Filmmaking Can Help Save Hammerhead Sharks Before It’s Too Late"
-    },
-    {
-      "id": "recvoBRz20HVzK",
-      "title": "如何在度假时精简相机装备（你也可以）",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/how-i-pack-less-camera-gear-on-vacation-and-how-you-can-too/",
-      "publish_time": "2026-07-06T22:01:16+08:00",
-      "summary": "文章讲述作者度假时精简相机装备的挣扎，最终找到平衡，只带必要设备，享受旅行而非器材负担。",
-      "recommendation": "本文提供旅行摄影装备精简的实用思路，分享作者从负重挣扎到平衡取舍的亲身经验，对追求轻便出行的爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "How I Pack Less Camera Gear on Vacation (And How You Can, Too)"
-    },
-    {
-      "id": "recvoBRBQQsiCy",
-      "title": "这组令人着迷的4K极光延时摄影由数千张宇航员照片合成",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/this-spellbinding-4k-timelapse-of-aurora-lights-is-made-from-thousands-of-astronaut-photos/",
-      "publish_time": "2026-07-06T21:59:26+08:00",
-      "summary": "电影制作人利用国际空间站宇航员拍摄的数千张照片，合成了一段4K极光延时摄影视频，展现了令人着迷的太空景象。",
-      "recommendation": "揭秘宇航员拍摄到4K极光延时摄影的合成技术，提供数千张太空影像的创作流程与数据细节，对延时摄影与太空影像爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Spellbinding 4K Timelapse of Aurora Lights is Made From Thousands of Astronaut Photos"
-    },
-    {
-      "id": "recvoBRNiKggWC",
-      "title": "这款全能变焦镜头在英国热销断货——但这里仍有售且更省钱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-all-rounder-zoom-lens-is-selling-out-across-the-uk-but-you-can-still-get-it-here-and-save-money",
-      "publish_time": "2026-07-06T21:11:31+08:00",
-      "summary": "索尼FE 24-240mm f/3.5-6.3 OSS 10倍变焦镜头在英国热销断货，但仍有更省钱的购买渠道，适合作为主力工作镜头",
-      "recommendation": "提供索尼FE 24-240mm镜头在英国热销断货的行情，并给出更省钱购买渠道，适合追求一镜走天涯的实用型用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This all-rounder zoom lens is selling out across the UK – but you can still get it here and save money"
     }
   ]
 }
