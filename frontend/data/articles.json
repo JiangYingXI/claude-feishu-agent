@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-18T03:47:08.649469+08:00",
+    "updated_at": "2026-07-18T11:46:17.371767+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -18,7 +18,7 @@
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 4
+      "count": 3
     },
     {
       "key": "计算摄影 & AI 影像",
@@ -42,6 +42,37 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpH1tQAI4T1",
+      "title": "几乎适用于每款无反相机的多功能变焦镜头最佳优惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/17/the-best-deals-on-versatile-zooms-for-nearly-every-mirrorless-camera/",
+      "publish_time": "2026-07-18T04:19:41+08:00",
+      "summary": "一款优秀的多功能变焦镜头是摄影师在套头之后的首选，适用于广角风景、人像、日常摄影、旅行、街拍、活动、野生动物和视频拍摄。",
+      "recommendation": "汇总多款无反相机通用变焦镜头当前优惠，涵盖广角到长焦焦段，适合升级套头的用户快速比价。无独家数据，属常规促销资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Best Deals on Versatile Zooms for Nearly Every Mirrorless Camera"
+    },
+    {
+      "id": "recvpH1xbjezsF",
+      "title": "CineStill 50D：明亮夏日里的完美慢速胶片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/17/cinestill-50d-is-a-perfect-slow-speed-film-for-bright-summer-days/",
+      "publish_time": "2026-07-18T03:51:51+08:00",
+      "summary": "CineStill 50D是慢速日光胶片，适合明亮夏日，虽不如800T和400D受欢迎，但独特可爱，值得更多关注。",
+      "recommendation": "解析CineStill 50D在明亮夏日中的独特表现，提供慢速日光胶片的使用技巧与色彩特性，适合胶片爱好者探索小众卷种。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "CineStill 50D Is a Perfect Slow Speed Film for Bright Summer Days"
+    },
     {
       "id": "recvpF4S42jgf0",
       "title": "试试这个：给无聊摄影师的相机技巧",
@@ -7780,38 +7811,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "This all-rounder zoom lens is selling out across the UK – but you can still get it here and save money"
-    },
-    {
-      "id": "recvoBS78acLfE",
-      "title": "街头摄影师必备的7款最佳35mm镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/06/the-7-best-35mm-lenses-for-street-photographers/",
-      "publish_time": "2026-07-06T21:00:00+08:00",
-      "summary": "文章介绍7款最佳35mm镜头，强调其小巧锐利适合街头摄影，并基于评测结果列出推荐名单。",
-      "recommendation": "基于评测数据筛选7款35mm镜头，涵盖锐度、体积与对焦性能对比，为街头摄影提供具体选购参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 7 Best 35mm Lenses for Street Photographers"
-    },
-    {
-      "id": "recvoBS1PmX3OG",
-      "title": "索尼RX10V新消息：4K120p、双Bionz处理器和AI芯片",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-rx10v-info-4k120p-double-bionz-processor-and-ai-chip/",
-      "publish_time": "2026-07-06T20:29:58+08:00",
-      "summary": "索尼RX10V将于7月9日发布，确认采用相同镜头和传感器，支持4K120p、双Bionz处理器和AI芯片，具备新自动对焦功能。",
-      "recommendation": "文章披露RX10V升级4K120p与AI芯片，对长焦机用户有参考价值，双Bionz处理器是亮点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "ISP & 影像芯片"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New Sony RX10V info: 4k120p, double Bionz processor and AI chip"
     }
   ]
 }
