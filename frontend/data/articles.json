@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-18T16:26:27.825739+08:00",
+    "updated_at": "2026-07-18T22:02:52.656474+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,22 +8,22 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 24
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 124
+      "count": 123
     },
     {
       "key": "ISP & 影像芯片",
       "label": "ISP & 影像芯片",
-      "count": 3
+      "count": 2
     },
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,137 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 385
+      "count": 383
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 176
+      "count": 179
     }
   ],
   "articles": [
+    {
+      "id": "recvpJwFJGhM36",
+      "title": "Evan Blass新泄露显示Z Fold8、Z Fold8 Ultra和Galaxy Watch9，确认部分规格",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_leak_by_evan_blass_shows_the_z_fold8_z_fold8_ultra_and_galaxy_watch9_confirms_some_specs-news-73784.php",
+      "publish_time": "2026-07-18T20:36:02+08:00",
+      "summary": "Evan Blass泄露显示Z Fold8、Z Fold8 Ultra和Galaxy Watch9官方渲染图，确认规格无意外。",
+      "recommendation": "Evan Blass泄露Z Fold8系列渲染图，确认影像规格，为关注折叠屏相机升级的用户提供前瞻参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New leak by Evan Blass shows the Z Fold8, Z Fold8 Ultra and Galaxy Watch9, confirms some specs"
+    },
+    {
+      "id": "recvpJwy3fbDug",
+      "title": "作为摄影师，追逐壮观易如反掌——但这部电影教你拥抱日常",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/as-a-photographer-its-easy-to-chase-the-spectacular-but-this-movie-teaches-you-to-embrace-the-everyday",
+      "publish_time": "2026-07-18T20:30:00+08:00",
+      "summary": "《完美的日子》启示摄影师：日常细节蕴含拍摄机会，平凡中见真章。",
+      "recommendation": "从电影《完美的日子》切入，探讨日常摄影美学，提供从平凡场景挖掘拍摄机会的实用视角，适合追求纪实与情感表达的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "As a photographer, it’s easy to chase the spectacular – but this movie teaches you to embrace the everyday"
+    },
+    {
+      "id": "recvpJwswwy4yn",
+      "title": "摄影师起诉艺术家涉嫌挪用其十余张照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/18/photographer-sues-artist-over-alleged-appropriation-of-more-than-a-dozen-of-her-images/",
+      "publish_time": "2026-07-18T19:00:39+08:00",
+      "summary": "摄影师起诉艺术家Mickalene Thomas，指控其未经同意或署名擅自使用其十余张照片。",
+      "recommendation": "探讨摄影版权边界，通过具体案例揭示艺术家挪用照片的法律与伦理争议，对影像创作者有实际参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographer Sues Artist Over Alleged Appropriation of More Than a Dozen of Her Images"
+    },
+    {
+      "id": "recvpJwAu1rG3z",
+      "title": "曼富图Uncover背包评测：两款可扩展尺寸的灵活相机/日用背包",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/manfrotto-uncover-backpack-review",
+      "publish_time": "2026-07-18T19:00:00+08:00",
+      "summary": "曼富图Uncover背包24L和30L版本共享可拆卸相机内胆和可扩展卷顶设计，灵活兼顾相机与日用需求。",
+      "recommendation": "评测曼富图Uncover背包24L/30L，详析可拆卸内胆与卷顶扩展设计，为影像爱好者提供相机与日用兼顾的实用背包选择参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Manfrotto Uncover Backpack review: these adaptable camera / daypacks come in two expandable size options"
+    },
+    {
+      "id": "recvpJwInvEyey",
+      "title": "谷歌开始发送Pixel 11系列印度发布会邀请函",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_series_india_launch_event_invite-news-73780.php",
+      "publish_time": "2026-07-18T18:45:02+08:00",
+      "summary": "谷歌向印度发送Pixel 11系列发布会邀请函，活动将于8月13日在古尔冈举行，届时公布定价和上市详情。",
+      "recommendation": "Pixel 11系列印度发布会邀请函透露8月13日古尔冈活动，影像爱好者可关注其计算摄影新特性及定价策略，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google starts sending invites for the Pixel 11 series launch event in India"
+    },
+    {
+      "id": "recvpJwvuD90LF",
+      "title": "一加退出意味着本已缺乏选择的市场选择更少",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/18/oneplus-exit-means-fewer-options-in-a-market-mired-by-lack-of-choice/",
+      "publish_time": "2026-07-18T18:00:07+08:00",
+      "summary": "一加退出北美和欧洲市场，导致本已缺乏选择的智能手机市场竞争更少，对消费者构成损失。",
+      "recommendation": "分析一加退出对手机影像市场竞争格局的影响，揭示消费者选择减少的深层行业逻辑，适合关注品牌战略与影像生态的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "OnePlus Exit Means Fewer Options in a Market Mired by Lack of Choice"
+    },
+    {
+      "id": "recvpJwLjr9sxe",
+      "title": "为什么理光GR II至今仍是街拍利器",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/18/why-the-ricoh-gr-ii-is-so-good-for-street-photography-even-today/",
+      "publish_time": "2026-07-18T18:00:00+08:00",
+      "summary": "理光GR II凭借便携机身、快速对焦和独特色彩模式，仍是预算有限的街拍利器，核心价值在于高性价比与经典成像风格。",
+      "recommendation": "解析GR II在2024年的街拍价值，提供对焦速度、色彩模式等实测数据，适合预算有限的摄影爱好者权衡经典与性能。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why the Ricoh GR II is so Good for Street Photography Even Today"
+    },
+    {
+      "id": "recvpJwD4hoBHx",
+      "title": "这张长颈鹿鼻尖对镜头的照片凭借其戏剧性的手机摄影视角获得大奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-nose-to-lens-giraffe-photograph-earned-a-major-award-for-its-dramatic-camera-phone-perspective",
+      "publish_time": "2026-07-18T17:10:00+08:00",
+      "summary": "iPhone 13超广角镜头拍摄的长颈鹿鼻尖特写照片，凭借戏剧性视角获手机摄影大奖",
+      "recommendation": "解析iPhone 13超广角拍摄长颈鹿鼻尖特写的戏剧性视角，提供手机摄影构图与焦段选择技巧，对提升创意拍摄有实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This nose-to-lens giraffe photograph earned a major award for its dramatic camera phone perspective"
+    },
     {
       "id": "recvpI9YLeWZob",
       "title": "促销：vivo X300系列开售（附赠充电器），Galaxy A37大幅降价",
@@ -7687,131 +7809,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Has the compact camera trend already stalled? Camera numbers are down across every major category in the latest data from Japan"
-    },
-    {
-      "id": "recvoHzJ8laEOe",
-      "title": "相机销量在2026年第二次下滑，但日本最新数据显示这一热门品类也出现下降",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/has-the-compact-camera-trend-already-stalled-camera-numbers-are-down-across-every-major-category-in-the-latest-data-from-japan",
-      "publish_time": "2026-07-07T00:05:00+08:00",
-      "summary": "2026年5月CIPA数据显示，所有主要相机类别出货量均下滑，包括此前热门品类也出现下降。",
-      "recommendation": "CIPA最新数据揭示2026年相机市场全品类下滑，包括此前热门品类，为影像爱好者提供行业趋势的量化参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Camera sales have dropped for the second time in 2026, but the latest numbers from Japan even show a decline in this trending category"
-    },
-    {
-      "id": "recvoBS4vT916w",
-      "title": "尼康会再次复活其紧凑型相机吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/06/will-nikon-resurrect-its-compact-cameras-again/",
-      "publish_time": "2026-07-07T00:00:00+08:00",
-      "summary": "尼康正在研发一款紧凑型相机，旨在吸引千禧一代和Z世代用户，同时惠及鸟类摄影师和复古设计爱好者。",
-      "recommendation": "分析尼康紧凑型相机复活传闻，聚焦千禧一代与Z世代用户需求，兼顾鸟类摄影与复古设计，提供行业趋势与产品定位的深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Will Nikon Resurrect Its Compact Cameras Again?"
-    },
-    {
-      "id": "recvoBRtaHAhz8",
-      "title": "Midjourney试图迫使好莱坞披露其如何使用AI",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/midjourney-is-trying-to-force-hollywood-to-reveal-how-it-uses-ai/",
-      "publish_time": "2026-07-06T23:51:27+08:00",
-      "summary": "Midjourney要求好莱坞公开AI使用方式，指责电影公司虚伪，旨在推动行业透明度。",
-      "recommendation": "AI影像工具透明度争议，揭示好莱坞与AI公司的博弈，对关注生成式影像伦理的爱好者有行业参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Midjourney is Trying to Force Hollywood to Reveal How it Uses AI"
-    },
-    {
-      "id": "recvoBRHprIEU7",
-      "title": "如果这个传闻是真的，我会极度嫉妒索尼备受期待的全画幅相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/if-this-rumor-is-true-im-insanely-jealous-of-sonys-highly-anticipated-full-frame-camera",
-      "publish_time": "2026-07-06T23:20:09+08:00",
-      "summary": "索尼FX5全画幅相机传闻包括可选倾斜取景器，若属实将令人极度嫉妒。",
-      "recommendation": "聚焦索尼FX5传闻中的可选倾斜取景器设计，为全画幅视频机用户提供差异化功能前瞻，含独家规格推测与行业趋势分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "If this rumor is true, I’m insanely jealous of Sony’s highly anticipated full-frame camera"
-    },
-    {
-      "id": "recvoOyd7JFDil",
-      "title": "佳能电动变焦新方案如何助力摄影师？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/canon-rf-20-50mm-f4-l-is-usm-pz-shooting-experience-hybrid/",
-      "publish_time": "2026-07-06T23:00:00+08:00",
-      "summary": "佳能最新电动变焦镜头采用新设计，旨在提升对摄影师的吸引力，文章探讨其有效性。",
-      "recommendation": "解析佳能电动变焦新设计对摄影师的实际价值，含镜头结构变化与操控逻辑的独家数据，适合关注视频拍摄优化的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How does Canon’s new approach to power zoom work for photographers?"
-    },
-    {
-      "id": "recvoBRW3mlEvA",
-      "title": "确认：索尼FX5搭载1660万像素堆叠式传感器",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/exact-sony-fx5-specs-166mp-sensor-and-all-open-gate-formats/",
-      "publish_time": "2026-07-06T22:42:45+08:00",
-      "summary": "索尼FX5搭载1660万像素全画幅背照堆叠式CMOS传感器，集成Bionz XR2处理器，兼具宽动态范围和高速度读出。",
-      "recommendation": "确认索尼FX5搭载1660万像素全画幅堆叠式传感器与Bionz XR2处理器，提供宽动态范围与高速读出数据，适合关注传感器硬件与影像芯片的爱好者了解技术细节。",
-      "categories": [
-        "传感器硬件",
-        "ISP & 影像芯片"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Confirmed: Sony FX5 has 16,6MP stacked sensor"
-    },
-    {
-      "id": "recvoBRYLvOoHR",
-      "title": "索尼RX10V预预售（笑死）在Fotoerhardt开启",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-rx10v-pre-preorders-lol-open-at-fotoerhardt/",
-      "publish_time": "2026-07-06T22:18:46+08:00",
-      "summary": "索尼RX10V在Fotoerhardt开启预预售，存入50欧元可优先排队，官方预告页已在BHphoto上线。",
-      "recommendation": "RX10V预预售信息曝光，50欧元排队机制与BHphoto预告页上线，为长焦机迭代提供早期动态参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony RX10V pre-preorders (LOL) open at Fotoerhardt"
-    },
-    {
-      "id": "recvoBRKlOxqn0",
-      "title": "仅99美元起的时尚紧凑相机——复古设计与柯达经典，日常快照之选",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/trendy-compact-cameras-from-only-usd99-retro-designs-and-kodak-favorites-for-everyday-snapshots",
-      "publish_time": "2026-07-06T22:07:27+08:00",
-      "summary": "99美元起的复古紧凑相机，口袋大小，让摄影有趣实惠，适合日常快照。",
-      "recommendation": "柯达经典复古设计下放至99美元价位，解析口袋相机的日常快照定位与市场差异化策略，适合关注入门级影像产品动态的读者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Trendy compact cameras from only $99 – retro designs and Kodak favorites for everyday snapshots"
     }
   ]
 }
