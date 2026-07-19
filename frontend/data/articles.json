@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-19T12:11:30.252939+08:00",
+    "updated_at": "2026-07-19T22:10:53.789777+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 24
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 123
+      "count": 121
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,224 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 39
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 378
+      "count": 376
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 182
+      "count": 190
     }
   ],
   "articles": [
+    {
+      "id": "recvpPoUiSTfVB",
+      "title": "雅西卡Tank何处购买：从历史品牌入手这款时尚新紧凑相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/where-to-buy-the-yashica-tank-get-the-trendy-new-compact-from-this-historic-name",
+      "publish_time": "2026-07-19T21:15:00+08:00",
+      "summary": "售价100美元的雅西卡Tank口袋相机，美国购买渠道及历史品牌背景介绍",
+      "recommendation": "梳理雅西卡品牌历史与Tank口袋相机美国购买渠道，提供100美元价位产品背景，适合关注复古相机与入门便携机的爱好者了解市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Where to buy the Yashica Tank: Get the trendy new compact from this historic name"
+    },
+    {
+      "id": "recvpPoLZgXuJb",
+      "title": "探访14岁水下摄影天才，哈苏大师赛最年轻得主",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/19/meet-the-incredible-14-year-old-underwater-photographer-who-won-hasselblad-masters/",
+      "publish_time": "2026-07-19T21:00:44+08:00",
+      "summary": "14岁泰国水下摄影师Pari赢得哈苏大师2026摄影大赛Project // 21类别奖项，成为该赛事最年轻得主，此前已获多项重要奖项。",
+      "recommendation": "14岁水下摄影师获哈苏大师赛最年轻得主，展示年轻一代创作潜力。文章含赛事背景与获奖者成长路径，对关注青年摄影与水下题材的爱好者有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Meet the Incredible 14-Year-Old Underwater Photographer Who Won Hasselblad Masters"
+    },
+    {
+      "id": "recvpPoWOrX9u0",
+      "title": "我的拍摄对象有时甚至不会出现——但我仍会继续拍摄这个题材，即使我并不擅长",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/my-photo-subject-sometimes-doesnt-even-show-up-but-i-will-always-continue-shooting-this-genre-even-if-im-not-any-good-at-it",
+      "publish_time": "2026-07-19T20:10:00+08:00",
+      "summary": "作者坚持野生动物摄影作为自我疗愈，即使不擅长且拍摄对象有时不出现，仍继续拍摄。",
+      "recommendation": "野生动物摄影作为自我疗愈的独特视角，揭示不擅长题材的坚持价值，提供非技术性创作思路，适合寻求情感共鸣的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "My photo subject sometimes doesn't even show up – but I will always continue shooting this genre, even if I’m not any good at it"
+    },
+    {
+      "id": "recvpPp7QEtFpv",
+      "title": "NiSi 16mm f/2.8 ASPH 富士GFX镜头",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/nisi-16mm-f-2-8-apsh-for-fujifilm-gfx/",
+      "publish_time": "2026-07-19T19:57:43+08:00",
+      "summary": "NiSi发布16mm f/2.8 ASPH富士GFX镜头，等效全画幅12.6mm，手动对焦，含3片非球面、4片超低色散镜片，防尘防滴金属镜身。",
+      "recommendation": "NiSi 16mm f/2.8 ASPH为富士GFX用户提供等效12.6mm超广角，含3片非球面与4片超低色散镜片，手动对焦+金属防尘镜身，适合风光建筑摄影。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "NiSi 16mm f/2.8 ASPH for Fujifilm GFX"
+    },
+    {
+      "id": "recvpPpaB6u3Pa",
+      "title": "Sidney Diongzon：索尼RX10 V比你想的更好",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sidney-diongzon-sony-rx10-v-is-better-than-you-think/",
+      "publish_time": "2026-07-19T19:47:06+08:00",
+      "summary": "Sidney Diongzon认为索尼RX10 V相机性能优于预期，可在多家零售商预购，文章首发于sonyalpharumors。",
+      "recommendation": "摄影师Sidney Diongzon从实战角度解析RX10 V性能，提供超越官方宣传的实拍体验，对长焦机选购有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sidney Diongzon: Sony RX10 V is Better Than You Think"
+    },
+    {
+      "id": "recvpPoP1iOPz6",
+      "title": "摄影师因廉价存储卡在片场失灵损失五位数工作（讽刺）",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/19/photographer-loses-five-figure-job-after-bargain-basement-memory-cards-fail-on-set-satire/",
+      "publish_time": "2026-07-19T19:30:48+08:00",
+      "summary": "摄影师因使用廉价假冒存储卡导致三天拍摄数据丢失，被五位数商业工作解雇",
+      "recommendation": "以真实案例揭示廉价存储卡的数据丢失风险，提供选购避坑指南与备份策略，对影像从业者具实用警示价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Loses Five-Figure Job After Bargain-Basement Memory Cards Fail on Set (Satire)"
+    },
+    {
+      "id": "recvpPoRH4HB0K",
+      "title": "我打造了一台定制设备，用于拍摄所谓的‘涟漪肖像’",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/19/i-built-a-custom-rig-for-what-i-call-ripple-portraits/",
+      "publish_time": "2026-07-19T19:15:03+08:00",
+      "summary": "作者结合水滴摄影与肖像摄影，打造定制设备拍摄涟漪肖像，探索两者融合产生的独特图像效果。",
+      "recommendation": "水滴与肖像融合的定制设备方案，含独家拍摄参数与光学设计思路，为创意摄影提供可复现的技术路径。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I Built a Custom Rig for What I Call ‘Ripple Portraits’"
+    },
+    {
+      "id": "recvpPoZxEBOs1",
+      "title": "曼富图Uncover Messenger/Sling评测：可扩展且适应相机装备与日常生活，提供大小尺寸选择",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/manfrotto-uncover-messenger-sling-review",
+      "publish_time": "2026-07-19T19:00:00+08:00",
+      "summary": "曼富图Uncover Messenger摄影包提供7升和12升规格，配备可拆卸相机内胆和卷顶扩展，满足动态生活需求。",
+      "recommendation": "实测曼富图Uncover摄影包7L/12L规格，含可拆卸内胆与卷顶扩展数据，为影像爱好者提供日常通勤与器材携带的实用方案。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Manfrotto Uncover Messenger / Sling review: expandable and adaptable for camera gear and daily life, with smaller and larger options to choose from"
+    },
+    {
+      "id": "recvpPpdGgVe2g",
+      "title": "Colby Brown的索尼A7rVI设置指南",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-a7rvi-setup-guide-by-colby-brown/",
+      "publish_time": "2026-07-19T18:16:33+08:00",
+      "summary": "Colby Brown发布索尼A7rVI设置指南，提供完整设置与自定义教程，相机及100-400mm镜头在多平台有售。",
+      "recommendation": "Colby Brown的A7rVI设置指南提供实战级自定义教程，涵盖100-400mm镜头适配细节，对索尼用户优化拍摄流程有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony A7rVI setup guide by Colby Brown"
+    },
+    {
+      "id": "recvpPpgnBQSO3",
+      "title": "500美元以下最适合孩子的3款二手相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/19/the-3-best-used-cameras-for-kids-under-500/",
+      "publish_time": "2026-07-19T18:00:00+08:00",
+      "summary": "推荐3款500美元以下二手相机，适合引导孩子接触摄影，记录世界，性价比高。",
+      "recommendation": "为家长提供500美元内二手相机选购指南，含具体型号与性价比分析，适合引导孩子入门摄影。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 3 Best Used Cameras for Kids Under $500"
+    },
+    {
+      "id": "recvpPp26q24WN",
+      "title": "这款钛合金杰作曾是1990年代最先进的胶片相机——如今却成了美丽的定时炸弹",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-titanium-masterpiece-was-the-most-advanced-film-camera-of-the-1990s-but-is-now-a-beautiful-ticking-time-bomb",
+      "publish_time": "2026-07-19T17:10:00+08:00",
+      "summary": "保时捷设计的钛合金胶片相机曾是1990年代最先进的自动对焦杰作，如今虽可能故障，但若能用仍是经典",
+      "recommendation": "剖析保时捷设计钛合金胶片相机的技术细节与时代背景，揭示其自动对焦系统的独到之处及故障风险，为收藏与使用提供实用参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This titanium masterpiece was the most advanced film camera of the 1990s – but is now a beautiful ticking time bomb"
+    },
+    {
+      "id": "recvpPpj699L17",
+      "title": "让你的闪光灯效果更棒的小技巧",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/19/diy-hack-an-umbrella-reflector-onto-a-flash-copy/",
+      "publish_time": "2026-07-19T15:00:00+08:00",
+      "summary": "伞式反光罩是常被低估的光线调节器，能固定柔光伞、提高稳定性并引导柔化光线，但传统上仅限单灯使用，如今机顶闪光灯也开始支持。",
+      "recommendation": "解析伞式反光罩在机顶闪光灯上的新应用，提供提升光线稳定性的实用技巧，对追求便携布光的摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "A Trick to Make Your Flash so Much Better"
+    },
+    {
+      "id": "recvpPp4Y68NJP",
+      "title": "这本通过将科德角的静谧光线转化为高雅艺术而永远改变彩色摄影的书——50年后，它回归且更出色",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/this-book-changed-color-photography-forever-by-turning-cape-cods-quiet-light-into-high-art-50-years-later-its-back-and-better",
+      "publish_time": "2026-07-19T14:15:00+08:00",
+      "summary": "乔尔·迈耶罗维茨50年前拍摄的科德角光线摄影项目，通过光圈出版社再版，光线依然辉煌，改变了彩色摄影历史。",
+      "recommendation": "解析迈耶罗维茨如何用科德角光线重塑彩色摄影美学，50年后再版揭示技术演进与艺术坚持，对理解色彩与光线控制有深度启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "This book changed color photography forever by turning Cape Cod’s quiet light into high art – 50 years later, it's back and better"
+    },
     {
       "id": "recvpMYmcfppEH",
       "title": "佳能3款最佳自动对焦相机推荐",
@@ -7608,207 +7812,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Watch the Nothing Phone (4b) and Ear (3a) announcement livestream here"
-    },
-    {
-      "id": "recvoGhCTLanZ6",
-      "title": "索尼新RIALTO 65传感器看起来“疯狂”",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-rialto-65-sensor-looks-insane/",
-      "publish_time": "2026-07-07T17:24:38+08:00",
-      "summary": "CVP深入探讨索尼新RIALTO 65传感器功能，该传感器性能强大，被视为“疯狂”创新，核心价值在于提升影像质量。",
-      "recommendation": "CVP深度解析索尼RIALTO 65传感器性能，提供独家技术细节与影像质量提升数据，对关注传感器创新的爱好者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New Sony RIALTO 65 sensor looks “insane”"
-    },
-    {
-      "id": "recvoGhrEgIoOE",
-      "title": "热门便携相机标价上涨，但理光GR IV新定价并非全因趋势所致",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/a-popular-compact-camera-has-jumped-in-list-price-but-trends-arent-entirely-to-blame-for-the-new-ricoh-gr-iv-prices",
-      "publish_time": "2026-07-07T16:50:00+08:00",
-      "summary": "理光GR系列紧凑型相机因制造成本上升在多地提价，但GR IV新定价并非全因趋势所致",
-      "recommendation": "解析理光GR IV定价策略，揭示成本上涨外的深层行业逻辑，为便携相机爱好者提供市场趋势参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A popular compact camera has jumped in list price. But trends aren’t entirely to blame for the new Ricoh GR IV prices"
-    },
-    {
-      "id": "recvoGhuqapYr5",
-      "title": "228克复古紧凑相机登顶日本二手相机市场——750克单反仍具竞争力",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/a-228g-cult-compact-camera-tops-major-japanese-used-camera-market-while-750g-dslrs-still-hold-strong",
-      "publish_time": "2026-07-07T16:18:37+08:00",
-      "summary": "228克复古紧凑相机登顶日本二手市场，750克单反仍具竞争力，无反相机虽轻便但市场格局碎片化。",
-      "recommendation": "日本二手相机市场最新榜单揭示228克复古机与750克单反的竞争格局，提供重量级产品市场表现数据，适合关注轻量化趋势与二手行情的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A 228g cult compact camera tops major Japanese used camera market – while 750g DSLRs still hold strong"
-    },
-    {
-      "id": "recvoGhei8XaNn",
-      "title": "荣耀大折叠屏关键规格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_wide_foldables_key_specifications_leak-news-73600.php",
-      "publish_time": "2026-07-07T15:30:01+08:00",
-      "summary": "荣耀宽屏折叠手机Magic V6工程原型机将搭载2nm骁龙8 Elite Gen 6处理器，开发加速，对标苹果和三星折叠屏。",
-      "recommendation": "曝光荣耀Magic V6工程机搭载2nm处理器，虽未直接涉及影像，但折叠屏形态对计算摄影布局有参考价值，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Honor wide foldable's key specifications leak"
-    },
-    {
-      "id": "recvoGhxerH2Ju",
-      "title": "WWF利用红外相机揭示最神秘大型猫科动物——‘雪山幽灵’的新面貌",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/wwf-uses-trail-cameras-to-shed-new-light-on-the-worlds-most-elusive-big-cat-the-ghost-of-the-mountain",
-      "publish_time": "2026-07-07T15:05:00+08:00",
-      "summary": "世界自然基金会利用红外相机揭示雪豹新面貌，这种最神秘大型猫科动物仅22%栖息地被记录，被称为“雪山幽灵”",
-      "recommendation": "红外相机技术揭秘雪豹生存实况，提供仅22%栖息地记录数据，对野生动物摄影爱好者有独特参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "WWF uses trail cameras to shed new light on the world’s most elusive big cat - the ‘Ghost of the Mountain’"
-    },
-    {
-      "id": "recvoGhIb3buMM",
-      "title": "人像摄影镜头对比：35mm vs 50mm vs 85mm",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/07/a-visual-guide-to-how-35mm-50mm-and-85mm-lenses-differ-for-portrait-photography-copy/",
-      "publish_time": "2026-07-07T15:00:00+08:00",
-      "summary": "文章对比35mm、50mm和85mm人像镜头，指出50mm和35mm畸变更小、观感更佳，强调现代镜头质量提升，核心在于选择适合的焦距。",
-      "recommendation": "对比35/50/85mm人像镜头畸变与观感差异，强调现代镜头质量提升，核心是焦距选择，适合人像爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "35 vs 50 vs 85mm for Portrait Photography"
-    },
-    {
-      "id": "recvoGhh5jUP1m",
-      "title": "iQOO Z11 Lite 发布前设计曝光，iQOO 16 传闻将跳过印度市场",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_z11_lite_design_revealed-news-73599.php",
-      "publish_time": "2026-07-07T14:34:03+08:00",
-      "summary": "iQOO Z11 Lite设计曝光，采用垂直摄像头模组，面向学生和Z世代，由AI驱动，旨在脱颖而出。",
-      "recommendation": "曝光iQOO Z11 Lite垂直摄像头设计，面向学生与Z世代，AI驱动影像策略值得关注，但缺乏具体传感器参数。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iQOO Z11 Lite's design revealed ahead of launch, iQOO 16 rumored to skip India"
-    },
-    {
-      "id": "recvoGhAaYzmqH",
-      "title": "尼康DL系列死而复生？1英寸高端便携相机传闻再起",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/doomed-nikon-dl-to-make-stunning-comeback-following-1-inch-premium-compact-camera-rumor",
-      "publish_time": "2026-07-07T14:10:00+08:00",
-      "summary": "传闻尼康开发1英寸传感器固定镜头相机，引发对高端便携相机市场前景的讨论",
-      "recommendation": "追踪尼康DL系列传闻，分析1英寸高端便携相机市场前景，提供行业动态与产品洞察，适合关注小众相机发展的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Doomed Nikon DL to make stunning comeback following 1-inch premium compact camera rumor?"
-    },
-    {
-      "id": "recvoGhjUtg8d2",
-      "title": "全球版vivo X500 Pro Max发布前获认证",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/global_vivo_x500_pro_max_gets_certified_before_launch-news-73596.php",
-      "publish_time": "2026-07-07T12:30:03+08:00",
-      "summary": "vivo X500 Pro Max全球版获印尼TKDN认证，型号V2610，预计9月中国发布，配备6.85英寸2K 144Hz LIPO OLED屏和50MP主摄",
-      "recommendation": "全球版vivo X500 Pro Max获印尼认证，确认50MP主摄与6.85英寸2K 144Hz LIPO OLED屏，为影像爱好者提供旗舰配置的早期确认，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Global vivo X500 Pro Max gets certified before launch"
-    },
-    {
-      "id": "recvoEVefSxdyU",
-      "title": "适马经典85mm镜头的魅力",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/07/the-beauty-of-the-sigma-classic-85mm-lenses/",
-      "publish_time": "2026-07-07T12:00:00+08:00",
-      "summary": "适马85mm f1.4 DG Art镜头十周年，提醒摄影师不必追求最新，经典镜头仍具价值。",
-      "recommendation": "回顾适马85mm f1.4 DG Art十年经典，提供镜头光学素质与设计理念的深度分析，对追求性价比与经典成像的摄影爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Beauty of the Sigma Classic 85mm Lenses"
-    },
-    {
-      "id": "recvoEV9duzDmG",
-      "title": "尼康Z50II固件更新1.10版本发布",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/06/nikon-z50ii-firmware-update-version-1-10-released.aspx/",
-      "publish_time": "2026-07-07T10:30:00+08:00",
-      "summary": "尼康发布Z50II固件1.10版，将Cloud Picture Control更名为Imaging Recipe，并调整相关菜单项名称。",
-      "recommendation": "尼康Z50II固件更新将Cloud Picture Control更名为Imaging Recipe，调整菜单逻辑，对影像爱好者而言是操作习惯的微调，属常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon Z50II firmware update version 1.10 released"
-    },
-    {
-      "id": "recvoEV4azFb1i",
-      "title": "vivo Y500 4G正式发布：配备8100mAh超大电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_y500_4g_is_official_with_an_8100_mah_battery-news-73597.php",
-      "publish_time": "2026-07-07T09:03:03+08:00",
-      "summary": "vivo Y500 4G在巴基斯坦和尼泊尔发布，配备6.83英寸AMOLED屏、紫光展锐T7300处理器、50MP主摄及8100mAh电池，支持44W快充。",
-      "recommendation": "文章提供vivo Y500 4G的影像配置信息，50MP主摄参数明确，适合关注入门级手机摄影的用户了解行业新机动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo Y500 4G is official with an 8,100 mAh battery"
-    },
-    {
-      "id": "recvoEV6Pkb1pa",
-      "title": "DCS：华为今年将发布双折叠和三折叠手机，明年推出新款宽折叠手机",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/dcs_huawei_will_release_a_dual_and_a_trifoldable_this_year_new_widefoldable_next_year-news-73594.php",
-      "publish_time": "2026-07-07T07:01:31+08:00",
-      "summary": "华为今年将发布双折叠和三折叠手机，明年推出新款宽折叠手机。三折叠手机搭载麒麟9050 Pro芯片，性能媲美3nm芯片，预计下半年推出。",
-      "recommendation": "折叠手机形态演进影响影像模组设计，三折叠麒麟9050 Pro芯片性能提升或为计算摄影提供新可能，但未提及具体影像规格。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "DCS: Huawei will release a dual and a tri-foldable this year, new wide-foldable next year"
     }
   ]
 }
