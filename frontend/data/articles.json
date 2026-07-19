@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-19T03:47:48.715335+08:00",
+    "updated_at": "2026-07-19T12:11:30.252939+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 26
     },
     {
       "key": "镜头与光学",
@@ -23,25 +23,134 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 20
+      "count": 19
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 38
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 379
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 181
+      "count": 182
     }
   ],
   "articles": [
+    {
+      "id": "recvpMYmcfppEH",
+      "title": "佳能3款最佳自动对焦相机推荐",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/19/the-best-3-canon-cameras-with-an-inclusive-autofocus/",
+      "publish_time": "2026-07-19T12:00:00+08:00",
+      "summary": "佳能三款最佳自动对焦相机推荐，适合人像摄影，涵盖专业与爱好者需求，核心技术参数出色。",
+      "recommendation": "佳能三款自动对焦相机横向对比，涵盖专业与爱好者需求，提供核心参数与适用场景分析，助人像摄影者精准选机。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best 3 Canon Cameras with an Inclusive Autofocus"
+    },
+    {
+      "id": "recvpMYaozNLiJ",
+      "title": "我完全不知道AirPods这么好修！创作者必备但易出问题，一个8美元的工具包让我重新爱上我的Pro 'Pods",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/audio/i-had-no-idea-airpods-were-that-easy-to-fix-essential-for-creators-but-prone-to-problems-a-us-usd8-kit-made-me-fall-back-in-love-with-my-pro-pods",
+      "publish_time": "2026-07-19T11:20:00+08:00",
+      "summary": "苹果AirPods Pro对视频制作者好用但易出问题，8美元工具包即可修复，重获喜爱。",
+      "recommendation": "揭示AirPods Pro低成本修复方案，对依赖无线耳机的视频创作者有实用价值，提供8美元工具包的具体修复经验。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "\"I had no idea AirPods were that easy to fix!\" Essential for creators but prone to problems, a US$8 kit made me fall back in love with my Pro 'Pods"
+    },
+    {
+      "id": "recvpMYdftR8yF",
+      "title": "这张简单的构图堪称完美——它刚刚赢得了航拍大奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-simple-composition-is-as-good-as-they-come-and-it-just-won-an-aerial-photography-award",
+      "publish_time": "2026-07-19T08:10:00+08:00",
+      "summary": "德国摄影师亚历山德拉·威尔克以巧妙留白的无人机照片赢得年度国际航拍摄影师奖，该构图简洁完美。",
+      "recommendation": "解析获奖航拍构图的留白技巧与美学逻辑，提供实战构图思路，适合航拍爱好者提升创作水平。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This simple composition is as good as they come – and it just won an aerial photography award"
+    },
+    {
+      "id": "recvpMYp78qu35",
+      "title": "尼康Z9、Z8、Z6、Z7和Zf相机具备双增益ISO：这意味着在ISO 500下拍摄比ISO 250更好，因为动态范围更宽、噪点更少",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/18/nikon-z9-z8-z6-z7-and-zf-cameras-have-dual-gain-iso-this-means-its-better-to-shoot-at-iso-500-than-at-iso-250-due-to-the-wider-dynamic-range-and-less-noise.aspx/",
+      "publish_time": "2026-07-19T07:58:25+08:00",
+      "summary": "尼康Z9、Z8、Z6、Z7和Zf相机具备双增益ISO，在ISO 500下拍摄比ISO 250动态范围更宽、噪点更少，提升画质。",
+      "recommendation": "解析尼康双增益ISO技术原理，揭示ISO 500比ISO 250画质更优的底层逻辑，提供传感器动态范围数据，适合追求极致画质的尼康用户。",
+      "categories": [
+        "传感器硬件",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Nikon Z9, Z8, Z6, Z7, and Zf cameras have dual gain ISO: this means it’s better to shoot at ISO 500 than at ISO 250, due to the wider dynamic range and less noise"
+    },
+    {
+      "id": "recvpMY7g0PyiG",
+      "title": "Android锁屏绕过漏洞致Gemini可免验证发送短信",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/android_lockscreen_bypass_allows_gemini_to_send_sms_without_verification-news-73785.php",
+      "publish_time": "2026-07-19T05:43:02+08:00",
+      "summary": "Android锁屏绕过漏洞致Gemini可免验证发送短信，属于身份验证绕过漏洞，需注意安全风险。",
+      "recommendation": "常规资讯，可了解行业动态。该漏洞虽非影像直接相关，但提醒影像用户注意手机安全，避免隐私泄露或误操作。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Android lockscreen bypass allows Gemini to send SMS without verification"
+    },
+    {
+      "id": "recvpMYfVc9YGt",
+      "title": "一道移动的闪光吸引了我的注意。当我望向窗外时，我抓起野生动物摄影装备开始奔跑。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/a-flash-of-movement-caught-my-eye-when-i-looked-out-my-window-i-grabbed-my-wildlife-camera-gear-and-started-running",
+      "publish_time": "2026-07-19T05:20:00+08:00",
+      "summary": "鸟类是野生动物摄影的平衡器，一道移动闪光吸引注意，作者抓起装备奔跑，无需刻意寻找即可捕捉精彩瞬间。",
+      "recommendation": "从鸟类摄影的随机性切入，揭示野生动物拍摄中“主动追逐”与“瞬间捕捉”的平衡技巧，对提升抓拍反应有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "A flash of movement caught my eye. When I looked out my window, I grabbed my wildlife camera gear and started running"
+    },
+    {
+      "id": "recvpMYiXTC5nf",
+      "title": "富士QuickSnap防水胶片相机现已上架BHphoto",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-quicksnap-waterproof-film-camera-now-on-bhphoto/",
+      "publish_time": "2026-07-19T04:29:32+08:00",
+      "summary": "富士推出QuickSnap Active防水相机，已在BHphoto预订，8月6日发货。",
+      "recommendation": "提供富士防水胶片相机QuickSnap Active的预订信息与发货日期，属于常规产品上架资讯，适合关注一次性相机的用户了解市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm QuickSnap Waterproof Film Camera Now on BHphoto"
+    },
     {
       "id": "recvpKVl4qNt2O",
       "title": "忘掉装备清单：一位自学成才的设得兰木匠，车上绑着船，能给当今摄影师上的关于拍出关键照片的一课",
@@ -7700,114 +7809,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "DCS: Huawei will release a dual and a tri-foldable this year, new wide-foldable next year"
-    },
-    {
-      "id": "recvoEVbAnhx6H",
-      "title": "2026年5月CIPA数据",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/06/may-2026-cipa-numbers.aspx/",
-      "publish_time": "2026-07-07T06:37:34+08:00",
-      "summary": "2026年5月CIPA数据显示相机出货量普遍下降，紧凑型相机2025年全年出货量增长30%，金额增长49%。",
-      "recommendation": "CIPA数据揭示紧凑相机逆势增长30%，金额增幅49%，为影像爱好者提供市场趋势与品类选择参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "May 2026 CIPA numbers"
-    },
-    {
-      "id": "recvoEV1gpQC1C",
-      "title": "韦伯展示尖端相机，庆祝科学运行四周年",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
-      "publish_time": "2026-07-07T05:21:52+08:00",
-      "summary": "为庆祝韦伯望远镜科学运行四周年，NASA发布新照片，展示其穿透宇宙尘埃的卓越成像能力，揭示星系奥秘。",
-      "recommendation": "韦伯望远镜穿透宇宙尘埃的成像技术，对计算摄影爱好者有启发。文章含NASA独家照片与四周年运行数据，揭示深空成像的极限能力。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Webb Celebrates Fourth Year of Science By Showing Off its Cutting-Edge Cameras"
-    },
-    {
-      "id": "recvoCYZNyIRbs",
-      "title": "2026年6月NikonRumors阅读量最高的10篇文章",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/06/top-10-most-viewed-nikonrumors-posts-for-june-2026.aspx/",
-      "publish_time": "2026-07-07T03:40:33+08:00",
-      "summary": "2026年6月NikonRumors最受欢迎帖子包括尼康Z 120-300mm f/2.8 TC VR S镜头被拍到、Z9固件更新解决自动对焦问题、以及无无线连接的Z6 III相机销售。",
-      "recommendation": "汇总尼康Z 120-300mm f/2.8 TC VR S镜头实拍、Z9固件对焦修复及Z6 III无无线连接销售动态，提供6月热门产品与固件更新数据，适合关注尼康生态的影像爱好者了解行业趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Top 10 most viewed NikonRumors posts for June 2026"
-    },
-    {
-      "id": "recvoCVNpfMybg",
-      "title": "C-SPAN在选举战场嵌入多媒体记者",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/c-span-is-embedding-multimedia-journalists-in-election-battlegrounds/",
-      "publish_time": "2026-07-07T03:13:37+08:00",
-      "summary": "C-SPAN在特朗普就职前更新标志并强调“未经过滤的民主”，计划在选举中嵌入多媒体记者以提供直接报道。",
-      "recommendation": "解析C-SPAN嵌入多媒体记者的报道模式，为影像从业者提供新闻现场拍摄与实时传输的实战参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "C-SPAN Is Embedding Multimedia Journalists in Election Battlegrounds"
-    },
-    {
-      "id": "recvoCZ2iMigCd",
-      "title": "佳能将为人像摄影师推出VCM镜头吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/06/will-canon-introduce-a-vcm-lens-for-portrait-photographers/",
-      "publish_time": "2026-07-07T03:00:00+08:00",
-      "summary": "佳能可能推出VCM镜头，填补无反相机镜头空白，延续L系列优秀焦距范围，提升人像摄影体验。",
-      "recommendation": "分析佳能VCM镜头对人像摄影的潜在影响，提供L系列焦距延续的深度观点，适合关注人像镜头发展的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Will Canon Introduce a VCM Lens for Portrait Photographers?"
-    },
-    {
-      "id": "recvoCYWPgaG5s",
-      "title": "富士DR400如何模拟胶片：魔法背后的曲线",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/how-fujifilm-dr400-mimics-film-the-curve-behind-the-magic/",
-      "publish_time": "2026-07-07T02:59:50+08:00",
-      "summary": "文章介绍富士DR200和DR400设置如何通过曲线模拟胶片效果，减少编辑时间并提升摄影体验，核心技术参数为DR200和DR400。",
-      "recommendation": "解析富士DR200/DR400曲线模拟胶片的底层逻辑，提供减少后期编辑的实用技巧，对追求直出效果的摄影爱好者有直接价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How Fujifilm DR400 Mimics Film: The Curve Behind the Magic"
-    },
-    {
-      "id": "recvoCVQB1SH2E",
-      "title": "我们刚拍到距地球6200万英里的双头小行星清晰照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/06/we-just-got-a-clear-photo-of-a-two-headed-asteroid-62-million-miles-from-earth/",
-      "publish_time": "2026-07-07T02:46:11+08:00",
-      "summary": "日本航天局拍摄到距地球6200万英里的双头小行星清晰照片，展示其双核结构，为小行星研究提供重要数据。",
-      "recommendation": "展示6200万英里外双头小行星的实拍影像，提供双核结构独家数据，对天文摄影爱好者有技术参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "We Just Got a Clear Photo of a Two-Headed Asteroid 62 Million Miles From Earth"
     }
   ]
 }
