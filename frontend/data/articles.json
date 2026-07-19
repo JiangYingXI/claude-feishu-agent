@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-19T22:10:53.789777+08:00",
+    "updated_at": "2026-07-20T03:47:37.093174+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 121
+      "count": 120
     },
     {
       "key": "ISP & 影像芯片",
@@ -42,6 +42,67 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpQM2liByvP",
+      "title": "高端相机价格飙升，二手摄影器材不再退而求其次——而是唯一明智之选",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/as-prices-for-premium-cameras-surge-secondhand-photo-gear-no-longer-looks-second-best-its-the-only-sensible-option",
+      "publish_time": "2026-07-20T02:10:00+08:00",
+      "summary": "高端相机价格飙升，二手摄影器材成为明智之选。索尼RX10 V和徕卡SL3-P等新品昂贵，二手市场吸引力大增。",
+      "recommendation": "剖析高端相机涨价逻辑，提供二手市场选购策略与性价比分析，对预算有限的影像爱好者有实操参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "As prices for premium cameras surge, secondhand photo gear no longer looks second best – it's the only sensible option"
+    },
+    {
+      "id": "recvpQLW5mHHks",
+      "title": "促销：iPhone Air 直降200英镑，Poco和Nothing手机特价",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_the_iphone_air_is_200_off_poco_and_nothing_phones_on_sale-news-73775.php",
+      "publish_time": "2026-07-20T00:00:04+08:00",
+      "summary": "iPhone Air直降200英镑，厚度5.6毫米重165克，钛金属框架，A19 Pro芯片，6.5英寸LTPO屏，48MP单摄，3149mAh电池",
+      "recommendation": "iPhone Air 5.6mm厚度与48MP单摄组合，为追求极致轻薄影像用户提供新选择，A19 Pro芯片算力提升值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: the iPhone Air is £200 off, Poco and Nothing Phones on sale"
+    },
+    {
+      "id": "recvpQM54WSMJC",
+      "title": "“不要评判你的拍摄对象，而是对他们感兴趣。让他们通过照片‘说话’，永远不要把自己或你的偏见放在第一位”——英国犯罪黑帮的罕见影像",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/do-not-judge-your-subjects-but-be-interested-by-them-allow-them-to-speak-through-the-pictures-never-ever-put-yourself-or-your-bias-first-unseen-images-of-the-uks-criminal-underworld",
+      "publish_time": "2026-07-19T23:20:00+08:00",
+      "summary": "时隔20多年，著名摄影集《公司》重返聚光灯下，伦敦徕卡画廊将展出该项目中未曾公开的照片，展现英国犯罪黑帮的罕见影像。",
+      "recommendation": "通过摄影集《公司》未公开影像，探讨纪实摄影中“去偏见化”的创作伦理，为街拍与人文题材爱好者提供拍摄对象关系的深度视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"Do not judge your subjects but be interested by them. Allow them to 'speak' through the pictures, never ever put yourself or your bias first\" –Unseen images of the UK’s criminal underworld"
+    },
+    {
+      "id": "recvpQLZvijfQx",
+      "title": "Redmi Note 17/17 Pro正式发布，一加退出欧洲和北美市场，第29周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_note_17_17_pro_official_oneplus_exits_europe_and_north_america_week_29_in_review-news-73778.php",
+      "publish_time": "2026-07-19T22:00:02+08:00",
+      "summary": "小米发布Redmi Note 17/17 Pro，分别配备8000mAh和9000mAh电池，支持120Hz OLED屏、IP69防水、HyperOS系统及高通芯片，Pro版还有2亿像素主摄和67W快",
+      "recommendation": "Redmi Note 17 Pro的2亿像素主摄和9000mAh电池是影像续航亮点，但文章侧重行业动态，影像细节有限。常规资讯，可了解中端机影像配置趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Redmi Note 17/17 Pro official, OnePlus exits Europe and North America, Week 29 in review"
+    },
     {
       "id": "recvpPoUiSTfVB",
       "title": "雅西卡Tank何处购买：从历史品牌入手这款时尚新紧凑相机",
@@ -7750,68 +7811,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The Sony A7 V is no longer king as 66.8MP monster jumps to the top of camera sales charts in the US, followed by the unstoppable viral Kodak Charmera"
-    },
-    {
-      "id": "recvoGhFzOm3zp",
-      "title": "模拟胶片摄影师的专属折扣",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/07/a-special-discount-for-analog-film-photographers/",
-      "publish_time": "2026-07-07T18:00:00+08:00",
-      "summary": "Phoblographer为会员推出Blue Moon Camera胶片冲印扫描10%折扣优惠，该品牌值得信赖。",
-      "recommendation": "胶片爱好者可获Blue Moon Camera冲印扫描10%折扣，品牌信誉可靠，提供实用省钱信息。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A Special Discount for Analog Film Photographers"
-    },
-    {
-      "id": "recvoGhpcZJVFK",
-      "title": "这款获TIPA世界大奖的紧凑型相机终于开售——而且它很少打折",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-tipa-world-award-winning-compact-camera-is-finally-on-sale-and-it-rarely-gets-discounted",
-      "publish_time": "2026-07-07T17:34:12+08:00",
-      "summary": "获TIPA大奖的紧凑型相机降价300英镑开售，性能卓越且罕见打折，是摄影爱好者的高性价比选择",
-      "recommendation": "TIPA获奖紧凑相机罕见降价300英镑，解析其性能优势与性价比，为追求便携高画质的用户提供选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This TIPA World Award-winning compact camera is finally on sale – and it rarely gets discounted"
-    },
-    {
-      "id": "recvoHzGCJmFqW",
-      "title": "这款TIPA世界大奖获奖的紧凑型相机终于开售——还罕见降价！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-tipa-world-award-winning-compact-camera-is-finally-on-sale-and-it-rarely-gets-discounted",
-      "publish_time": "2026-07-07T17:34:12+08:00",
-      "summary": "TIPA获奖紧凑型相机开售并降价300英镑，保留核心技术参数，性价比极高。",
-      "recommendation": "TIPA获奖紧凑型相机罕见降价300英镑，保留核心参数，为追求便携与画质的用户提供高性价比选择。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This TIPA World Award-winning compact camera is finally on sale – and it gets a rare price cut!"
-    },
-    {
-      "id": "recvoGhb9igJMx",
-      "title": "在此观看 Nothing Phone (4b) 和 Ear (3a) 发布直播",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/watch_the_nothing_phone_4b_and_ear_3a_announcement_livestream_here-news-73602.php",
-      "publish_time": "2026-07-07T17:28:02+08:00",
-      "summary": "Nothing今日发布首款(b)手机Phone (4b)及Ear (3a)耳机。Phone (4b)搭载骁龙6 Gen 4芯片，双摄与LED灯条，有蓝色和哑光红色版本。",
-      "recommendation": "常规资讯，可了解Nothing Phone (4b)影像配置：骁龙6 Gen 4芯片与双摄组合，未透露传感器型号与光圈数据，适合关注品牌动态的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Watch the Nothing Phone (4b) and Ear (3a) announcement livestream here"
     }
   ]
 }
