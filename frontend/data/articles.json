@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-20T03:47:37.093174+08:00",
+    "updated_at": "2026-07-20T12:28:27.027017+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 23
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 120
+      "count": 121
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,93 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 376
+      "count": 375
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 190
+      "count": 192
     }
   ],
   "articles": [
+    {
+      "id": "recvpSTcwuK4au",
+      "title": "当你在镜头上套一个三明治袋会发生什么？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/20/what-happens-when-you-put-a-sandwich-bag-over-a-lens/",
+      "publish_time": "2026-07-20T12:00:00+08:00",
+      "summary": "作者通过将三明治袋套在镜头上拍摄照片，模拟其圆锥角膜眼疾的视觉效果，探讨了摄影中的创意与混乱",
+      "recommendation": "用三明治袋模拟圆锥角膜视觉，探讨摄影中创意与混乱的边界，为影像爱好者提供非传统视角的实验思路。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What Happens When You Put a Sandwich Bag Over a Lens?"
+    },
+    {
+      "id": "recvpST1vkiTp3",
+      "title": "摄影师能用你未曾察觉的瞬间让你目瞪口呆——这个大胆的、首创的纽约摄影节向AI竖中指",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/trade-shows/photographers-are-capable-of-making-your-jaw-drop-with-moments-that-you-dont-even-notice-this-daring-first-of-its-kind-ny-photo-festival-gives-ai-the-middle-finger",
+      "publish_time": "2026-07-20T11:20:00+08:00",
+      "summary": "纽约举办反AI摄影节，让艺术家亲自接触观众，展示未被察觉的瞬间，挑战人工智能。",
+      "recommendation": "纽约反AI摄影节以现场互动对抗算法，揭示摄影中不可复制的“偶然瞬间”，为影像爱好者提供关于人类创作独特性的深度思考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“Photographers are capable of making your jaw drop with moments that you don’t even notice” – This daring, first-of-its-kind NY photo festival gives AI the middle finger"
+    },
+    {
+      "id": "recvpST9LcrR0W",
+      "title": "尼康新闻周刊第895期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/19/weekly-nikon-news-flash-895.aspx/",
+      "publish_time": "2026-07-20T08:14:35+08:00",
+      "summary": "尼康新闻周刊第895期报道新Think Tank Photo相机背包、WANDRD磁性相机背带（已筹11万美元）、SmallRig L形显示器支架及FieldMade定制镜头遮光罩等新品",
+      "recommendation": "汇总Think Tank背包、WANDRD背带等配件新品，含众筹金额与设计细节，适合关注摄影器材生态的爱好者了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #895"
+    },
+    {
+      "id": "recvpST4eK73Zx",
+      "title": "这款颠覆性无人机让你先飞后瞄准——作为360相机爱好者，我知道我想要一个！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/drones/this-groundbreaking-drone-lets-you-fly-first-and-aim-later-and-as-a-keen-360-camera-user-i-know-that-i-want-one",
+      "publish_time": "2026-07-20T08:10:00+08:00",
+      "summary": "新型8K摄像无人机颠覆传统，操作如飞行模拟器，支持先飞后瞄准，满足360相机爱好者需求。",
+      "recommendation": "解析8K无人机先飞后瞄准技术，为360相机爱好者提供操作革新视角，含飞行模拟器式操控细节与行业趋势洞察。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This groundbreaking drone lets you fly first and aim later – and as a keen 360 camera user, I know that I want one!"
+    },
+    {
+      "id": "recvpST6NiICYk",
+      "title": "我对徕卡M EV1的看法错了——这确实是一台M相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-was-wrong-about-the-leica-m-ev1-this-really-is-an-m-camera",
+      "publish_time": "2026-07-20T05:20:00+08:00",
+      "summary": "徕卡M EV1证明M相机灵魂超越测距仪，核心价值在于保留M系统精髓的同时实现电子化创新。",
+      "recommendation": "文章颠覆对徕卡M EV1的固有认知，论证M相机灵魂超越测距仪，为M系统电子化转型提供深度观点，适合关注徕卡演进与摄影本质的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I was wrong about the Leica M EV1 – this really is an M camera"
+    },
     {
       "id": "recvpQM2liByvP",
       "title": "高端相机价格飙升，二手摄影器材不再退而求其次——而是唯一明智之选",
@@ -7734,83 +7812,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "WANDRD Just Announced the Camera Strap of the Future on Kickstarter"
-    },
-    {
-      "id": "recvoHzjK3DpYq",
-      "title": "英国国王和王后正在招聘一名摄像师",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/the-king-and-queen-of-england-are-hiring-a-videographer/",
-      "publish_time": "2026-07-07T20:38:26+08:00",
-      "summary": "英国国王查尔斯三世招聘摄像师拍摄宣传内容，此前王室曾雇佣擦屁股侍从和风笛手等奇特职位。",
-      "recommendation": "王室招聘摄像师，揭示高端影像岗位需求与技能要求，为从业者提供职业参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The King and Queen of England Are Hiring a Videographer"
-    },
-    {
-      "id": "recvoHzEgL6ofk",
-      "title": "英国数字时代前标志性流行文化摄影师Trevor Key遗作由Sigma出版",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/iconic-pre-digital-british-pop-culture-photographer-trevor-key-gets-posthumous-book-published-by-sigma",
-      "publish_time": "2026-07-07T20:19:19+08:00",
-      "summary": "特雷弗·基的前数字视觉艺术技术及与彼得·萨维尔的合作，由西格玛基金会八月出版",
-      "recommendation": "回顾Trevor Key前数字时代的视觉技术，解析与Peter Saville的合作细节，为影像爱好者提供胶片与数字过渡期的创作灵感。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Iconic pre-digital British pop culture photographer Trevor Key gets posthumous book published by Sigma"
-    },
-    {
-      "id": "recvoHzoZLaI1e",
-      "title": "Nothing Phone (4b) 配备长续航电池、骁龙6 Gen 4芯片和Glyph Bar灯带",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_nothing_phone_4b_has_a_longlasting_battery_snapdragon_6_gen_4_chip_and_a_glyph_bar-news-73609.php",
-      "publish_time": "2026-07-07T19:54:03+08:00",
-      "summary": "Nothing Phone (4b) 发布，定位介于4a和3a Lite之间，配备骁龙6 Gen 4芯片、Glyph Bar灯带，全球版5200mAh电池，印度版6000mAh，支持33W有线充电和7",
-      "recommendation": "文章披露Nothing Phone (4b)的电池容量差异（印度版6000mAh）及骁龙6 Gen 4芯片性能，对关注中端机型续航与影像处理能力的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Nothing Phone (4b) has a long-lasting battery, Snapdragon 6 Gen 4 chip and a Glyph Bar"
-    },
-    {
-      "id": "recvoHzTz5cTaT",
-      "title": "CIPA：单反相机略有回暖",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/07/cipa-are-dslr-beat-their-own-trend-in-may/",
-      "publish_time": "2026-07-07T18:59:12+08:00",
-      "summary": "CIPA数据显示相机市场降温，但单反相机销售出现回暖趋势。",
-      "recommendation": "CIPA最新数据揭示单反市场逆势回暖，为影像爱好者提供购买决策参考。文章包含独家行业销售统计，分析单反复苏背后的用户需求变化。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "CIPA: The DSLR Made a Bit of a Comeback"
-    },
-    {
-      "id": "recvoGhmDgeOlE",
-      "title": "索尼A7 V不再是王者：6680万像素怪兽跃居美国相机销量榜首，势不可挡的爆款柯达Charmera紧随其后",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/the-sony-a7-v-is-no-longer-king-as-66-8mp-monster-jumps-to-the-top-of-camera-sales-charts-in-the-us-followed-by-the-unstoppable-viral-kodak-charmera",
-      "publish_time": "2026-07-07T18:00:00+08:00",
-      "summary": "索尼A7 V不再领先，6680万像素新机登顶美国相机销量榜，柯达Charmera紧随其后",
-      "recommendation": "文章披露索尼A7 V被6680万像素新机反超的销量数据，并提及柯达Charmera黑马表现，对关注相机市场格局变化的用户有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Sony A7 V is no longer king as 66.8MP monster jumps to the top of camera sales charts in the US, followed by the unstoppable viral Kodak Charmera"
     }
   ]
 }
