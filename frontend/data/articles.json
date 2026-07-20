@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-20T12:28:27.027017+08:00",
+    "updated_at": "2026-07-20T17:48:20.548351+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 121
+      "count": 123
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 19
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 375
+      "count": 374
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,85 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpUbwINud5z",
+      "title": "AI重现贝利称其史上最佳但未被拍摄的进球",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/ai-recreates-the-goal-pele-said-was-his-greatest-ever-but-wasnt-filmed/",
+      "publish_time": "2026-07-20T16:58:49+08:00",
+      "summary": "谷歌DeepMind实验室通过AI技术重现了贝利自称史上最佳但未被拍摄的进球，该进球被视为其职业生涯中最精彩的瞬间。",
+      "recommendation": "展示AI计算摄影在体育历史影像修复中的前沿应用，解析DeepMind如何通过算法重建未记录瞬间，为影像爱好者提供技术实现与美学重构的独特视角。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "AI Recreates the Goal Pelé Said Was His Greatest Ever But Wasn’t Filmed"
+    },
+    {
+      "id": "recvpUbEAWEL8A",
+      "title": "消息称三星Galaxy Z Fold8（宽版）产量将超过Fold8 Ultra和Flip8",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_to_reportedly_produce_more_galaxy_z_fold8_wide_units_than_fold8_ultra_and_flip8-news-73789.php",
+      "publish_time": "2026-07-20T15:22:41+08:00",
+      "summary": "三星Galaxy Z Fold8产量目标280万部，高于Fold8 Ultra和Flip8，供应链报告显示其生产优先级最高。",
+      "recommendation": "从产量数据可预判三星折叠屏影像策略重心，280万部目标暗示Fold8或成影像配置主力机型，对关注折叠屏拍摄性能的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung to reportedly produce more Galaxy Z Fold8 (wide) units than Fold8 Ultra and Flip8"
+    },
+    {
+      "id": "recvpUbzyqZ3Bl",
+      "title": "Browning Strike Force HD Pro X1080评测：一款适合初学者的出色、无多余功能的野外相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/trail-cameras/browning-strike-force-hd-pro-x1080-review-a-fantastic-no-frills-trail-camera-for-beginners",
+      "publish_time": "2026-07-20T15:00:00+08:00",
+      "summary": "Browning Strike Force HD Pro X1080是一款适合初学者的野外相机，以快速触发速度和无需订阅的蜂窝功能为特点，提供坚固可靠的侦察性能。",
+      "recommendation": "文章实测Browning Strike Force HD Pro X1080的触发速度与蜂窝功能，提供无订阅侦察方案数据，适合入门级野外影像爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Browning Strike Force HD Pro X1080 review: a fantastic, no-frills trail camera for beginners"
+    },
+    {
+      "id": "recvpUbJqSliTN",
+      "title": "28mm镜头比35mm更好吗？让我们看看",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/20/35mm-vs-28mm-lenses-a-guide-to-which-one-you-should-choose-copy/",
+      "publish_time": "2026-07-20T15:00:00+08:00",
+      "summary": "28mm与35mm镜头选择取决于个人偏好，两者各有优缺点，摄影师需根据自身需求决定。",
+      "recommendation": "对比28mm与35mm镜头的实用指南，提供视角差异、构图影响等具体分析，帮助摄影爱好者根据拍摄场景理性选择焦段。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is the 28mm Lens Better Than the 35mm? Let’s See"
+    },
+    {
+      "id": "recvpUbH6F1b35",
+      "title": "vivo X300 E下周发布：7200mAh电池+蔡司长焦镜头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x300e_to_debut_next_week_with_a_7200mah_battery_zeiss_telephoto_lens-news-73788.php",
+      "publish_time": "2026-07-20T13:40:02+08:00",
+      "summary": "vivo X300 E将于7月27日在中国发布，配备7200mAh电池和蔡司长焦镜头，提供黑、橙、白三色，已开启预购。",
+      "recommendation": "蔡司长焦与7200mAh电池组合是亮点，适合关注长焦续航平衡的影像用户，但缺乏具体镜头参数与样张，属常规资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo X300 E to debut next week with a 7,200mAh battery, Zeiss Telephoto lens"
+    },
     {
       "id": "recvpSTcwuK4au",
       "title": "当你在镜头上套一个三明治袋会发生什么？",
@@ -447,6 +526,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Nikon Z9, Z8, Z6, Z7, and Zf cameras have dual gain ISO: this means it’s better to shoot at ISO 500 than at ISO 250, due to the wider dynamic range and less noise"
+    },
+    {
+      "id": "recvpUbBTu62pz",
+      "title": "高存储卡价格可能要到2030年后才会下降",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/memory-cards/memory-card-prices-might-not-fall-until-after-2030",
+      "publish_time": "2026-07-19T06:48:05+08:00",
+      "summary": "人工智能扩张持续推高内存需求，导致存储卡价格居高不下，预计要到2030年后才会下降，摄影师将长期承受高成本。",
+      "recommendation": "分析AI需求推高存储卡价格至2030年后，为影像爱好者提供长期成本预警与行业趋势参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "High memory card prices might not fall until after 2030"
     },
     {
       "id": "recvpMY7g0PyiG",
@@ -7720,98 +7814,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Tecno and visual artist Angélica Dass start the “100 Portraits of Becoming” initiative"
-    },
-    {
-      "id": "recvoHzewKp4jY",
-      "title": "惊艳相机陷阱调查捕捉中国各地难以捉摸的雪豹",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/stunning-camera-trap-survey-captures-elusive-snow-leopards-across-china/",
-      "publish_time": "2026-07-07T22:01:20+08:00",
-      "summary": "世界自然基金会在中国偏远地区通过红外相机调查，成功捕捉到难以捉摸的雪豹踪迹，揭示了其分布与活动情况。",
-      "recommendation": "红外相机技术实战案例，展示雪豹监测中的设备选型与部署策略，提供野生动物摄影的独家数据与场景洞察。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Stunning Camera Trap Survey Captures Elusive Snow Leopards Across China"
-    },
-    {
-      "id": "recvoHzrvyqmMR",
-      "title": "松下L10装不进你的口袋，但这是有充分理由的？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/opinion/9845377376/the-panasonic-l10-won-t-fit-in-your-pocket-but-with-good-reason",
-      "publish_time": "2026-07-07T22:00:00+08:00",
-      "summary": "松下L10因电池体积增大导致机身比LX100系列更大，与最小可换镜头相机尺寸相当，引发对其存在意义的质疑。",
-      "recommendation": "深度剖析松下L10体积增大的设计取舍，提供电池尺寸与机身对比的独家数据，对关注便携相机与性能平衡的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Panasonic L10 won't fit in your pocket, but with good reason?"
-    },
-    {
-      "id": "recvoHzh5U23Hu",
-      "title": "阿莱新款Alexa 35 Live Xtreme旨在变革体育转播",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/arris-new-alexa-35-live-xtreme-aims-to-transform-sports-broadcasts/",
-      "publish_time": "2026-07-07T21:42:59+08:00",
-      "summary": "Arri推出Alexa 35 Live Xtreme相机，旨在变革体育转播，这是其新所有权时代首款产品。",
-      "recommendation": "解析Arri体育转播新机，揭示广播级影像技术下放趋势，含传感器与帧率参数，适合关注专业影像动态的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Arri’s New Alexa 35 Live Xtreme Aims to Transform Sports Broadcasts"
-    },
-    {
-      "id": "recvoHzBJe4Te0",
-      "title": "After winning 800+ international awards, this drone photographer claims another major photography prize – \"I am committed to ethical practices that preserve the integrity of the photograph,\" he says",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/after-winning-800-international-awards-this-drone-photographer-claims-another-major-photography-prize-i-am-committed-to-ethical-practices-that-preserve-the-integrity-of-the-photograph-he-says",
-      "publish_time": "2026-07-07T21:23:22+08:00",
-      "summary": "大疆无人机摄影师获2026国际航拍奖，强调道德实践保护摄影完整性，已获800+国际奖项。",
-      "recommendation": "800+国际奖项的航拍师分享获奖心得，强调道德实践保护影像完整性，对无人机摄影爱好者有技术伦理参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "After winning 800+ international awards, this drone photographer claims another major photography prize – \"I am committed to ethical practices that preserve the integrity of the photograph,\" he says"
-    },
-    {
-      "id": "recvoHzOhEu4Dv",
-      "title": "确认：索尼FX5将于7月22日发布！！！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-fx5-will-be-announced-in-july-22/",
-      "publish_time": "2026-07-07T21:22:21+08:00",
-      "summary": "索尼FX5相机将于7月22日伦敦时间下午3点发布，作者将进行实时博客和视频直播，早期测试者评价积极。",
-      "recommendation": "索尼FX5发布确认，提供实时直播与早期测试者评价，对关注新机动态的影像爱好者有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Confirmed: Sony FX5 will be announced in July 22 !!!"
-    },
-    {
-      "id": "recvoHzQS84b3N",
-      "title": "WANDRD 在 Kickstarter 上发布了未来相机背带",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/07/wandrd-just-announced-the-camera-strap-of-the-future-on-kickstarter/",
-      "publish_time": "2026-07-07T21:00:00+08:00",
-      "summary": "WANDRD在Kickstarter发布新型相机背带系统，兼顾时尚与实用，满足摄影师需求。",
-      "recommendation": "WANDRD在Kickstarter推出新型相机背带，解析其时尚设计与实用功能结合点，提供摄影师配件选购新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "WANDRD Just Announced the Camera Strap of the Future on Kickstarter"
     }
   ]
 }
