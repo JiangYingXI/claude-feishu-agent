@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-20T17:48:20.548351+08:00",
+    "updated_at": "2026-07-20T22:47:14.797155+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 23
+      "count": 25
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 123
+      "count": 120
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,328 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 39
+      "count": 41
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 374
+      "count": 367
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 192
+      "count": 194
     }
   ],
   "articles": [
+    {
+      "id": "recvpVoa8pB94r",
+      "title": "科学家首次拍到神秘新猴种，其醒目橙色嘴唇引人注目",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/scientists-capture-first-images-of-mysterious-new-monkey-species-with-striking-orange-lips/",
+      "publish_time": "2026-07-20T22:37:19+08:00",
+      "summary": "科学家发现新猴种，其粉橙色嘴唇和面具般面部引人注目，此前模糊照片引发数十年搜寻。",
+      "recommendation": "通过科学家发现新猴种的案例，展示野外摄影中长焦镜头与伪装技巧的应用，提供动物行为抓拍参数参考，对生态摄影爱好者有实操启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Scientists Capture First Images of Mysterious New Monkey Species with Striking Orange Lips"
+    },
+    {
+      "id": "recvpVougtGwIU",
+      "title": "小米17、17 Ultra和17T Pro现已获得Android 17更新",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_xiaomi_17_17_ultra_and_17t_pro_are_getting_the_android_17_update_now-news-73796.php",
+      "publish_time": "2026-07-20T22:16:02+08:00",
+      "summary": "小米17系列已获Android 17更新，固件版本3.0.331.0.XPC，印度用户率先收到，小米称之为HyperOS 3。",
+      "recommendation": "常规资讯，可了解行业动态。文章提及小米17系列获Android 17更新，但未涉及影像功能优化或独家数据，对影像爱好者参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Xiaomi 17, 17 Ultra and 17T Pro are getting the Android 17 update now"
+    },
+    {
+      "id": "recvpVozCDAPll",
+      "title": "“我们已学会不信任图像中的亮斑。”这是被拍摄最多的行星系统之一，但一颗暗淡的行星仍在十多年的照片中玩着捉迷藏",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/weve-learned-not-to-trust-bright-blobs-in-images-this-is-one-of-the-most-photographed-planetary-systems-but-a-faint-planet-still-played-hide-and-seek-in-more-than-a-decades-worth-of-photos",
+      "publish_time": "2026-07-20T22:14:38+08:00",
+      "summary": "NASA和ESO研究人员在拍摄最多的夜空区域发现隐藏系外行星，揭示图像中亮斑不可信，行星在十多年照片中捉迷藏",
+      "recommendation": "从影像信任危机切入，揭示天文摄影中亮斑的不可靠性，为摄影爱好者提供独特的图像解读视角与数据验证案例。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“We’ve learned not to trust bright blobs in images.” This is one of the most photographed planetary systems, but a faint planet still played hide-and-seek in more than a decade's worth of photos"
+    },
+    {
+      "id": "recvpVod0VuFnf",
+      "title": "适马电影变焦镜头自动对焦评测：破解密码",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/sigma-cine-zoom-lenses-with-autofocus-review-cracking-the-code/",
+      "publish_time": "2026-07-20T22:01:25+08:00",
+      "summary": "评测适马28-45mm T2和28-105mm T3电影变焦镜头自动对焦性能，探讨其是否在保留自动对焦便利性的同时，不牺牲手动对焦体验。",
+      "recommendation": "实测适马电影变焦镜头自动对焦性能，提供对焦速度与手动体验的量化数据，为视频创作者选择混合对焦方案提供参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sigma Cine Zoom Lenses With Autofocus Review: Cracking the Code"
+    },
+    {
+      "id": "recvpVoOzqYTj9",
+      "title": "索尼FX5采用与A7rVI相同电池，重750克",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-uses-same-a7rvi-battery-and-weights-750g/",
+      "publish_time": "2026-07-20T21:55:54+08:00",
+      "summary": "索尼FX5将于7月22日发布，尺寸略大于FX3，重750克，采用与A7RVI相同电池，配备1660万像素全堆叠传感器和BIONZ XR 2处理器。",
+      "recommendation": "FX5机身重量与电池规格曝光，1660万像素全堆叠传感器和BIONZ XR 2处理器是核心看点，为视频创作者提供关键参数参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony FX5 uses same A7rVI battery and weights 750g"
+    },
+    {
+      "id": "recvpVofscxqJU",
+      "title": "NASA灵神星探测器捕捉火星令人惊叹的月长延时影像",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/nasas-psyche-spacecraft-captures-mind-bending-month-long-timelapse-of-mars/",
+      "publish_time": "2026-07-20T21:19:27+08:00",
+      "summary": "NASA灵神星号航天器在五月飞越火星，最近距离2864英里，拍摄数千张图像，延时视频展示其任务过程。",
+      "recommendation": "航天器飞越火星的延时影像，提供2864英里近距离视角，对计算摄影与太空成像技术爱好者有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "NASA’s Psyche Spacecraft Captures Mind-Bending Month-Long Timelapse of Mars"
+    },
+    {
+      "id": "recvpVoi3Gw0DB",
+      "title": "安妮·莱博维茨因贾斯汀·比伯和海莉·比伯的照片发起版权诉讼",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/annie-leibovitz-launches-copyright-lawsuit-over-her-image-of-justin-and-hailey-bieber/",
+      "publish_time": "2026-07-20T21:01:06+08:00",
+      "summary": "摄影师安妮·莱博维茨起诉网站未经许可使用她拍摄的贾斯汀·比伯和海莉·比伯照片，要求巨额赔偿。",
+      "recommendation": "探讨摄影版权边界，解析安妮·莱博维茨维权案对影像创作者的启示，含诉讼细节与行业惯例分析。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Annie Leibovitz Launches Copyright Lawsuit Over Her Image of Justin and Hailey Bieber"
+    },
+    {
+      "id": "recvpVox3xvhkp",
+      "title": "三星2026年7月Unpacked发布会：值得期待的新品",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_unpacked_july_2026_what_to_expect-news-73793.php",
+      "publish_time": "2026-07-20T21:01:02+08:00",
+      "summary": "三星将于2026年7月22日在伦敦Unpacked活动推出新一代折叠屏手机和智能手表，宽折叠屏新形态已泄露，但具体规格仍保密。",
+      "recommendation": "聚焦三星折叠屏新形态泄露，虽未公开影像规格，但为关注手机影像形态创新的用户提供前瞻线索。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Unpacked July 2026: what to expect"
+    },
+    {
+      "id": "recvpVoWpPkgQx",
+      "title": "最适合Z世代的5款傻瓜胶片相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/20/the-best-5-point-and-shoot-analog-cameras-for-gen-z/",
+      "publish_time": "2026-07-20T21:00:00+08:00",
+      "summary": "模拟相机对年轻摄影师重要，推荐5款傻瓜胶片相机，捕捉鲜艳色彩，重现胶片魔力，适合Z世代入门。",
+      "recommendation": "针对Z世代入门需求，精选5款傻瓜胶片相机，解析色彩表现与操作特点，提供实用选购参考，适合胶片新手快速了解市场主流机型。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best 5 Point-and-Shoot Analog Cameras for Gen Z"
+    },
+    {
+      "id": "recvpVoks8Igjy",
+      "title": "国际宠物摄影奖十佳杰出作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/10-outstanding-images-from-the-international-pet-photography-awards/",
+      "publish_time": "2026-07-20T20:41:41+08:00",
+      "summary": "2026年国际宠物摄影奖决赛入围名单揭晓，全球摄影师展示最佳作品，突出宠物摄影艺术价值。",
+      "recommendation": "解析宠物摄影构图与光线运用技巧，展示10组获奖作品的拍摄参数与创作思路，为动物摄影爱好者提供可借鉴的实战案例。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "10 Outstanding Images From the International Pet Photography Awards"
+    },
+    {
+      "id": "recvpVoCaZLTGI",
+      "title": "这张明显的AI图像究竟是如何逃过评委法眼赢得摄影比赛的？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/how-on-earth-did-this-obvious-ai-image-get-past-the-judges-and-win-a-photography-competition",
+      "publish_time": "2026-07-20T20:20:00+08:00",
+      "summary": "中国摄影比赛因获奖作品实为AI生成而关闭，揭示AI图像如何骗过评委，引发对AI创作真实性的质疑。",
+      "recommendation": "解析AI图像骗过摄影比赛评委的具体手法，揭示评审机制漏洞，对关注AI影像真实性的爱好者有警示价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How on earth did this obvious AI image get past the judges and win a photography competition?"
+    },
+    {
+      "id": "recvpVopeiYris",
+      "title": "堆叠式传感器即将加入APS-C阵营",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/a-stacked-sensor-is-coming-to-the-aps-c-lineup/",
+      "publish_time": "2026-07-20T20:14:12+08:00",
+      "summary": "堆叠式传感器即将加入APS-C阵营，佳能EOS R1和R5 Mark II已配备，但R6 V、R6 Mark III和C50仍用普通FSI传感器，利弊并存。",
+      "recommendation": "解析佳能堆叠传感器在APS-C机型的应用现状，对比R1/R5 II与R6系列传感器差异，提供利弊权衡的深度行业视角。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A Stacked Sensor is Coming to the APS-C Lineup"
+    },
+    {
+      "id": "recvpVorD7f3xF",
+      "title": "确认佳能将在未来几个月内推出第三款EOS R相机",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/confirmation-that-canon-has-third-eos-r-camera-coming-in-the-next-few-months/",
+      "publish_time": "2026-07-20T20:03:15+08:00",
+      "summary": "佳能已注册第三款未发布EOS R相机，预计2026年第四季度至2027年第一季度推出，其中两款已确定，第三款未知。",
+      "recommendation": "佳能EOS R系列新机注册信息曝光，提供未来产品发布节奏的独家线索，对关注佳能全画幅微单布局的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Confirmation That Canon has  Third EOS R Camera Coming in the Next Few Months"
+    },
+    {
+      "id": "recvpVoRjlWjxp",
+      "title": "收集关于索尼FX5发布后即将推出的新相机和镜头的资讯！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/collecting-info-about-the-new-sony-camera-and-lenses-coming-right-after-the-fx5-launch/",
+      "publish_time": "2026-07-20T20:01:35+08:00",
+      "summary": "文章收集索尼FX5发布后即将推出的新相机和镜头线索，感谢消息源，欢迎通过联系表单或邮箱提供更多信息。",
+      "recommendation": "汇总索尼FX5后新品线索，含未发布相机镜头传闻，适合关注索尼产品线的用户快速掌握行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Collecting info about the new Sony camera and lenses coming right after the FX5 launch!"
+    },
+    {
+      "id": "recvpVoEGjxyNs",
+      "title": "Tamron-Link评测：这款微型蓝牙适配器为大多数当前腾龙镜头带来智能功能，适用于静态照片和视频拍摄",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/tamron-link-review-this-tiny-bluetooth-adapter-brings-smart-features-to-most-current-tamron-lenses-for-shooting-both-stills-and-video",
+      "publish_time": "2026-07-20T20:00:00+08:00",
+      "summary": "Tamron-Link微型蓝牙适配器插入尼康和索尼无反相机上腾龙镜头的USB-C接口，为静态照片和视频拍摄带来智能功能。",
+      "recommendation": "实测腾龙蓝牙适配器，揭示其如何为老镜头解锁智能功能，含固件升级与视频辅助操作细节，对腾龙用户有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tamron-Link review: this tiny Bluetooth adapter brings smart features to most current Tamron lenses, for shooting both stills and video"
+    },
+    {
+      "id": "recvpVoH7A4SV5",
+      "title": "在摄影中，原创性比以往任何时候都更重要——这张金门大桥的无人机航拍照片与众不同",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/aerial-photography/originality-is-more-important-than-ever-in-photography-and-this-drone-shot-of-the-golden-gate-bridge-is-unlike-any-other-ive-seen",
+      "publish_time": "2026-07-20T19:30:55+08:00",
+      "summary": "波兰摄影师马尔钦·扎亚克凭借对金门大桥的原创无人机航拍获得国际年度航拍摄影师奖，凸显摄影中原创性的重要性",
+      "recommendation": "通过金门大桥获奖案例，解析原创视角在航拍中的价值，提供构图与创意启发，适合追求突破的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Originality is more important than ever in photography – and this drone shot of the Golden Gate Bridge is unlike any other I’ve seen"
+    },
+    {
+      "id": "recvpVoJAe2FFj",
+      "title": "“与人共鸣比按下快门更重要。”历史上最具标志性照片之一的摄影师明白了一个太多现代摄影师不懂的道理",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/its-more-important-to-click-with-people-than-to-click-the-shutter-the-photographer-behind-one-of-historys-most-iconic-photographs-understood-something-that-too-many-modern-photographers-do-not",
+      "publish_time": "2026-07-20T19:27:26+08:00",
+      "summary": "标志性摄影记者阿尔弗雷德·艾森施泰特认为，与人共鸣比按下快门更重要，这一理念揭示了现代摄影师常忽视的核心价值。",
+      "recommendation": "艾森施泰特揭示摄影本质：共鸣先于技术。对追求人文深度的影像爱好者，此文提供历史视角反思现代摄影的功利倾向。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“It’s more important to click with people than to click the shutter.” The photographer behind one of history's most iconic photographs understood something that too many modern photographers do not"
+    },
+    {
+      "id": "recvpVomLdDKnA",
+      "title": "苹果短暂超越英伟达，成为全球市值最高公司",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/apple-briefly-became-the-worlds-most-valuable-company-toppling-nvidia/",
+      "publish_time": "2026-07-20T18:07:10+08:00",
+      "summary": "周五苹果短暂超越英伟达，成为全球市值最高公司，因投资者抛售半导体股票。",
+      "recommendation": "常规资讯，可了解行业动态。从市值变化侧面反映半导体对影像芯片供应链的影响，但无直接影像产品信息或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple Briefly Became the World’s Most Valuable Company, Toppling Nvidia"
+    },
+    {
+      "id": "recvpVoYYNpxTC",
+      "title": "Flashpoint XPLOR100 Pro II TTL 使用体验极佳",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/20/the-flashpoint-xplor100-pro-ii-ttl-is-a-joy-to-use/",
+      "publish_time": "2026-07-20T18:00:00+08:00",
+      "summary": "Flashpoint XPLOR100 Pro II TTL闪光灯体验极佳，基本取代Profoto B10，无需大量后期处理光线。",
+      "recommendation": "对比Profoto B10的实战体验，提供闪光灯替代方案与光线处理技巧，适合追求高效布光的摄影爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Flashpoint XPLOR100 Pro II TTL is a Joy to Use"
+    },
+    {
+      "id": "recvpVoTYOS4gL",
+      "title": "Matt Granger 最佳70-200mm f/2.8镜头——佳能 | 尼康 | 索尼 | 适马 | 徕卡",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/matt-granger-best-70-200mm-f-2-8-lens-canon-nikon-sony-sigma-leica/",
+      "publish_time": "2026-07-20T17:46:55+08:00",
+      "summary": "摄影师Matt Granger对比测试佳能、尼康、索尼、适马、徕卡五款70-200mm f/2.8镜头，评估操控、做工、对焦、防抖和画质，使用高分辨率机身在香港实拍。",
+      "recommendation": "五款70-200mm f/2.8镜头横评，涵盖佳能、尼康、索尼、适马、徕卡，香港实拍样张对比操控、对焦与防抖，高分辨率机身测试数据扎实，为选购提供直接参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Matt Granger Best 70–200mm f/2.8 Lens — Canon | Nikon | Sony | Sigma | Leica"
+    },
     {
       "id": "recvpUbwINud5z",
       "title": "AI重现贝利称其史上最佳但未被拍摄的进球",
@@ -571,6 +879,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "A flash of movement caught my eye. When I looked out my window, I grabbed my wildlife camera gear and started running"
+    },
+    {
+      "id": "recvpVoLXIHG7R",
+      "title": "鸟类是野生动物摄影中的伟大平衡器。一抹动静吸引了我的目光。当我望向窗外时，我抓起我的野生动物摄影装备开始奔跑。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/a-flash-of-movement-caught-my-eye-when-i-looked-out-my-window-i-grabbed-my-wildlife-camera-gear-and-started-running",
+      "publish_time": "2026-07-19T05:20:00+08:00",
+      "summary": "鸟类摄影是无需远行的野生动物摄影，有时甚至无需刻意寻找，即可捕捉精彩瞬间。",
+      "recommendation": "从窗边到拍摄现场，揭示鸟类摄影的即兴性与技术要点，适合想提升野生动物抓拍技巧的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "\"Birds are the great equalizer in wildlife photography.\" A flash of movement caught my eye. When I looked out my window, I grabbed my wildlife camera gear and started running"
     },
     {
       "id": "recvpMYiXTC5nf",
@@ -7487,333 +7810,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Samsung confirms Galaxy Unpacked event for July 22, wide foldable expected"
-    },
-    {
-      "id": "recvoLSTGaDyct",
-      "title": "Flashback 35 V2 刚刚成为最佳紧凑型相机之一",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/08/the-flashback-35-v2-just-became-one-of-the-best-compact-cameras/",
-      "publish_time": "2026-07-08T12:00:00+08:00",
-      "summary": "Flashback 35 V2被评为年度最佳旅行相机之一，尽管价格上涨且DNG Raw文件有问题，但用户自制RAW编辑器，作者重试后大为惊叹。",
-      "recommendation": "文章揭示Flashback 35 V2的DNG Raw文件问题及用户自制RAW编辑器的解决方案，提供独家修复思路，对追求极致便携画质的爱好者有实操价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Flashback 35 V2 Just Became one of the Best Compact Cameras"
-    },
-    {
-      "id": "recvoKBWostxvL",
-      "title": "谷歌Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL及Pixel 11 Pro Fold价格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_pixel_11_pro_pixel_11_pro_xl_and_pixel_11_pro_fold_prices_leak-news-73616.php",
-      "publish_time": "2026-07-08T11:39:02+08:00",
-      "summary": "谷歌Pixel 11系列四款机型将于8月11日发布，20日上市，首次标配256GB存储，欧元区起售价999欧元。",
-      "recommendation": "Pixel 11系列价格泄露，首次标配256GB存储，起售价999欧元。对影像爱好者而言，可预判谷歌计算摄影旗舰的定价策略与存储升级趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold prices leak"
-    },
-    {
-      "id": "recvoKBZhgtb2Q",
-      "title": "iPhone Air 2 传闻将配备稍大容量电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_air_2_rumored_to_pack_a_slightly_larger_battery-news-73608.php",
-      "publish_time": "2026-07-08T10:24:01+08:00",
-      "summary": "苹果预计2027年初发布iPhone Air 2，配备双后置摄像头和3500mAh或更大电池，较初代3149mAh升级。",
-      "recommendation": "电池容量数据具体，可推测iPhone Air 2续航对影像创作的影响，但缺乏影像系统细节，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iPhone Air 2 rumored to pack a slightly larger battery"
-    },
-    {
-      "id": "recvoKC2kMtzaI",
-      "title": "谷歌正式公布Pixel 11系列发布时间",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_officially_reveals_when_its_launching_the_pixel_11_series-news-73620.php",
-      "publish_time": "2026-07-08T08:12:02+08:00",
-      "summary": "谷歌正式宣布将于8月12日下午6点在纽约市举行Pixel 11发布会，此前传言8月11日发布有误，活动时间对应洛杉矶下午3点、伦敦晚上11点。",
-      "recommendation": "确认Pixel 11系列准确发布时间，影像爱好者可据此规划关注后续影像规格泄露。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google officially reveals when it's launching the Pixel 11 series"
-    },
-    {
-      "id": "recvoOyaKwRi9t",
-      "title": "松下L10装不进你的口袋，但这是有充分理由的？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/opinion/the-panasonic-l10-wont-fit-in-your-pocket-but-with-good-reason/",
-      "publish_time": "2026-07-08T05:27:11+08:00",
-      "summary": "松下L10因尺寸增大引发争议，与最小可换镜头相机相当，挑战了紧凑型相机的定义。",
-      "recommendation": "剖析松下L10尺寸争议，挑战紧凑相机定义，提供行业对便携性与性能平衡的深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Panasonic L10 won’t fit in your pocket, but with good reason?"
-    },
-    {
-      "id": "recvoKBSMQIMXs",
-      "title": "15年摄影系列：展示全美各地的美国国旗",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/15-year-photo-series-showcases-american-flags-from-around-the-country/",
-      "publish_time": "2026-07-08T04:42:34+08:00",
-      "summary": "获奖摄影师杰森·林赛为纪念美国250周年制作短片《未完成》，展示全美各地包含美国国旗的照片，四分钟内呈现数十张作品。",
-      "recommendation": "通过15年摄影项目解析国旗主题创作，展示跨地域拍摄的构图与色彩技巧，提供摄影师对长周期项目的策划思路与后期处理经验。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "15-Year Photo Series Showcases American Flags From Around the Country"
-    },
-    {
-      "id": "recvoKC5sJXKGh",
-      "title": "索尼RX10V首张泄露图曝光",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/first-leaked-image-of-the-new-sony-rx10v/",
-      "publish_time": "2026-07-08T04:31:33+08:00",
-      "summary": "索尼RX10V首张泄露图曝光，与九年前RX10 IV对比，新款采用现代Alpha相机手柄和控件，取消顶部LCD屏幕，镜头重新设计。",
-      "recommendation": "对比九年前RX10 IV，揭示新款Alpha手柄、取消顶部LCD及镜头重新设计，为长焦机用户提供关键升级参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "First leaked image of the new Sony RX10V"
-    },
-    {
-      "id": "recvoIMz5cUEGa",
-      "title": "Discord封禁约8200名用户，因其发布无害网格图片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
-      "publish_time": "2026-07-08T03:13:16+08:00",
-      "summary": "Discord安全系统误封约8200名用户，因将无害网格图片标记为有害，暴露了自动检测图像系统的缺陷。",
-      "recommendation": "揭示AI图像审核系统缺陷，对关注计算摄影与自动图像识别的影像爱好者有参考价值，提供误封数据与行业反思。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Discord Banned Around 8,200 Users for Posting Inoffensive Images of Grids"
-    },
-    {
-      "id": "recvoIMBNqvodL",
-      "title": "iPhone 16坠入大海，拍摄鱼类及自身救援过程",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/iphone-16-falls-into-the-sea-films-fish-and-its-own-rescue/",
-      "publish_time": "2026-07-08T03:10:00+08:00",
-      "summary": "希腊度假者iPhone 16 Pro坠海11分钟，持续录制直至被潜水员捞出，展示防水性能。",
-      "recommendation": "iPhone 16 Pro坠海11分钟持续录制，实测防水极限并记录水下救援过程，为影像爱好者提供真实极端环境下的防水与录像稳定性数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "iPhone 16 Falls Into the Sea, Films Fish and Its Own Rescue"
-    },
-    {
-      "id": "recvoIMTS3FWwU",
-      "title": "奥林巴斯XZ-1为何是OM系统亟需的回归之作",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/07/why-the-olympus-xz-1-is-the-comeback-om-system-desperately-nees/",
-      "publish_time": "2026-07-08T03:00:00+08:00",
-      "summary": "奥林巴斯XZ-1是十年前发布的优秀相机，其回归将填补OM系统产品线空白，满足用户对经典便携相机的需求。",
-      "recommendation": "解析XZ-1回归对OM系统产品线的战略意义，提供经典便携相机市场空缺的独家数据，适合关注复古相机趋势的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why the Olympus XZ-1 Is the Comeback OM System Desperately Nees"
-    },
-    {
-      "id": "recvoIMRoo8Epa",
-      "title": "新优惠：适马E卡口镜头最高直降300美元！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-deal-up-to-300-off-on-sigma-e-mount-lenses-2/",
-      "publish_time": "2026-07-08T02:39:20+08:00",
-      "summary": "适马E卡口镜头最高直降300美元，涵盖200mm f/2、500mm f/5.6等多款镜头，优惠在BHphoto、Amazon、Adorama有效。",
-      "recommendation": "适马E卡口镜头最高直降300美元，涵盖200mm f/2等热门焦段，对索尼用户是实惠的入手时机。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New deal: Up to $300 off on Sigma E-mount lenses!"
-    },
-    {
-      "id": "recvoIMJhZGIvQ",
-      "title": "三星确认Galaxy Z Fold8和Z Fold8 Ultra将搭载骁龙8 Elite Gen 5处理器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_confirms_that_the_galaxy_z_fold8_and_z_fold8_ultra_will_use_a_snapdragon_8_elite_gen_5-news-73611.php",
-      "publish_time": "2026-07-08T02:01:02+08:00",
-      "summary": "三星确认Galaxy Z Fold8和Z Fold8 Ultra将搭载定制骁龙8 Elite Gen 5处理器，其中Fold8展开后采用4:3比例显示屏，Ultra版本则更高更窄。",
-      "recommendation": "文章透露Fold8系列处理器与屏幕比例信息，对关注折叠屏影像布局的用户有参考价值，但影像细节未涉及。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung confirms that the Galaxy Z Fold8 and Z Fold8 Ultra will use a Snapdragon 8 Elite Gen 5"
-    },
-    {
-      "id": "recvoIME595piE",
-      "title": "国际大赛表彰全球最佳航拍照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/international-aerial-photographer-of-the-year-2026/",
-      "publish_time": "2026-07-08T01:27:09+08:00",
-      "summary": "第二届国际航拍摄影师大赛揭晓，孟加拉国阿齐姆·汗·罗尼夺冠，表彰全球最佳航拍照片。",
-      "recommendation": "展示全球航拍新锐视角，含获奖作品技术解析与构图思路，为航拍爱好者提供创作灵感与设备应用参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The World’s Best Aerial Photos Honored in International Competition"
-    },
-    {
-      "id": "recvoIMOUTBwu1",
-      "title": "富士龙XF 13-80mm F3.5与XF 16-200mm F2.8-5.6及变体专利曝光",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujinon-xf-13-80mm-f3-5-and-xf-16-200mm-f2-8-5-6-plus-variations-patents-spotted/",
-      "publish_time": "2026-07-08T01:11:40+08:00",
-      "summary": "富士龙多款变焦镜头专利曝光，包括XF 13-80mm F3.5、XF 16-200mm F2.8-5.6等，涵盖广角至长焦范围，为富士用户提供更多选择。",
-      "recommendation": "曝光富士龙多款变焦镜头专利，含13-80mm F3.5与16-200mm F2.8-5.6等具体规格，为富士用户提供广角至长焦新选择，可提前了解未来产品动向。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujinon XF 13-80mm F3.5 and XF 16-200mm F2.8-5.6 – plus Variations – Patents Spotted"
-    },
-    {
-      "id": "recvoIMLW1vOpw",
-      "title": "开发者将索尼耳机改造成PC模拟器实时头部追踪器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/developer_turns_sonys_headphones_into_realtime_head_tracker_for_pc_simulators-news-73610.php",
-      "publish_time": "2026-07-08T00:57:02+08:00",
-      "summary": "开发者利用索尼WF/WH-1000系列耳机内置加速度计和陀螺仪，创建Sony Head Tracker项目，实现PC游戏实时头部追踪，已兼容数百款游戏。",
-      "recommendation": "耳机传感器跨界实现PC头部追踪，为影像创作者提供低成本VR视角控制方案，含开源项目技术细节与游戏兼容性数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Developer turns Sony's headphones into real-time head tracker for PC simulators"
-    },
-    {
-      "id": "recvoIMGzeFIYe",
-      "title": "田纳西旅游局驱逐AI图像，致敬真实摄影师",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/tennessee-tourism-celebrates-real-photographers-by-banishing-ai-images/",
-      "publish_time": "2026-07-08T00:10:41+08:00",
-      "summary": "田纳西旅游局强调其景点照片100%真实，拒绝AI图像，致敬真实摄影师，以维护旅游宣传的真实性。",
-      "recommendation": "田纳西旅游局拒用AI图像，强调100%真实照片，对影像爱好者是真实性与技术伦理的案例。文章提供旅游局声明细节，无独家数据，但观点清晰。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tennessee Tourism Celebrates Real Photographers by Banishing AI Images"
-    },
-    {
-      "id": "recvoHzuhLqK67",
-      "title": "我们称这款100-500mm长焦镜头为测试过的最佳佳能变焦镜头之一——如今它价格诱人地下降了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/we-called-this-100-500mm-telephoto-lens-one-of-the-best-canon-zooms-weve-tested-now-it-has-a-tempting-price-drop",
-      "publish_time": "2026-07-07T23:17:56+08:00",
-      "summary": "佳能RF 100-500mm f/4.5-7.1 L IS USM长焦镜头降价200美元，被评最佳佳能变焦镜头之一",
-      "recommendation": "佳能RF 100-500mm f/4.5-7.1 L IS USM降价200美元，提供变焦镜头评测数据与价格趋势，适合长焦摄影爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "We called this 100-500mm telephoto lens one of the best Canon zooms we've tested – now it has a tempting price drop"
-    },
-    {
-      "id": "recvoHzwR7HwFf",
-      "title": "厌倦了被问“这是AI生成的吗”？这些最佳C2PA相机可为每张照片添加内容凭证",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/these-are-the-best-c2pa-cameras-that-add-content-credentials-to-your-images-for-every-photographer-tired-of-the-question-is-this-ai",
-      "publish_time": "2026-07-07T23:17:14+08:00",
-      "summary": "C2PA相机为每张照片添加内容凭证，保护摄影作品来源，解决AI生成质疑",
-      "recommendation": "C2PA相机解决AI时代照片真伪痛点，本文梳理支持该技术的机型清单与工作原理，对关注影像溯源的用户有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These are the best C2PA cameras that add Content Credentials to your images for every photographer tired of the question, \"Is this AI?\""
-    },
-    {
-      "id": "recvoHzzj5zeRK",
-      "title": "尼康Z50II新固件：快门优先录制时为电影制作人提供更多创意控制",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/new-nikon-z50ii-firmware-puts-more-creative-control-in-filmmakers-hands-when-recording-in-shutter-priority",
-      "publish_time": "2026-07-07T23:05:30+08:00",
-      "summary": "尼康Z50II固件1.10在快门优先模式下启用手动光圈调整，并优化设置菜单，为电影制作人提供更多创意控制。",
-      "recommendation": "尼康Z50II固件1.10新增快门优先模式下手动光圈调整，优化菜单，为视频创作者提供更灵活曝光控制，是实用功能更新。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Nikon Z50II firmware puts more creative control in filmmakers'  hands when recording in shutter priority"
-    },
-    {
-      "id": "recvoHzbUFh9D7",
-      "title": "TTArtisan 89美元AF 50mm f/1.8镜头拥有疯狂的定制选项",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/07/ttartisans-89-af-50mm-f-1-8-lens-has-crazy-customization-options/",
-      "publish_time": "2026-07-07T22:59:27+08:00",
-      "summary": "TTArtisan发布89美元AF 50mm f/1.8 Neo镜头，支持全画幅无反相机，可通过彩色外壳定制，性价比极高。",
-      "recommendation": "89美元自动对焦镜头实现彩色外壳定制，打破低价镜头同质化，提供光圈与卡口数据，适合预算有限但追求个性的全画幅用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "TTArtisan’s $89 AF 50mm f/1.8 Lens Has Crazy Customization Options"
-    },
-    {
-      "id": "recvoHzmooveWR",
-      "title": "Tecno与视觉艺术家Angélica Dass启动“100幅蜕变肖像”计划",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/tecno_andvisual_artist_anglica_dass_start_the_100_portraits_of_becoming_initiative-news-73617.php",
-      "publish_time": "2026-07-07T22:56:02+08:00",
-      "summary": "Tecno与艺术家Angélica Dass启动“100幅蜕变肖像”计划，延续Universal Tone技术，将肤色样本扩展至372个，致力于消除手机摄像头肤色偏见",
-      "recommendation": "文章披露Tecno Universal Tone肤色样本扩展至372个的具体数据，揭示手机影像消除肤色偏见的工程化进展，对关注计算摄影公平性的爱好者有参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tecno and visual artist Angélica Dass start the “100 Portraits of Becoming” initiative"
     }
   ]
 }
