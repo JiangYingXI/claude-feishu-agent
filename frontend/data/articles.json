@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-21T22:43:35.850311+08:00",
+    "updated_at": "2026-07-22T04:09:49.381793+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 24
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 117
+      "count": 113
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,305 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 22
+      "count": 24
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 40
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 353
+      "count": 355
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 203
+      "count": 207
     }
   ],
   "articles": [
+    {
+      "id": "recvq2yFUZkAEJ",
+      "title": "Godox发布新款Lux Junior II复古相机闪光灯，适配尼康相机",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/21/godox-announced-a-new-lux-junior-ii-retro-camera-flash-for-nikon-cameras.aspx/",
+      "publish_time": "2026-07-22T03:51:53+08:00",
+      "summary": "Godox发布新款Lux Junior II复古闪光灯，适配尼康相机，支持TTL、手动、频闪和自动模式，兼容i-TTL，内置2.4GHz无线接收器，USB-C充电，1.5秒回电，400次全功率闪光，高",
+      "recommendation": "Godox Lux Junior II复古闪光灯适配尼康，支持TTL/手动/频闪，内置2.4G无线，1.5秒回电400次全功率，为胶片或数码用户提供便携补光方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Godox announced a new Lux Junior II retro camera flash for Nikon cameras"
+    },
+    {
+      "id": "recvq2yeZ8NSPA",
+      "title": "Adobe将告诉你，对焦不准的照片是否是你的错（针对部分相机）",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/adobes-latest-update-shows-you-whether-its-your-fault-you-missed-focus-for-some-cameras/",
+      "publish_time": "2026-07-22T03:00:00+08:00",
+      "summary": "Adobe Camera Raw 18.4.1新增查看相机对焦点位置功能，帮助判断自动对焦系统问题",
+      "recommendation": "通过ACR新功能定位对焦失误根源，为相机自动对焦可靠性提供量化验证手段，避免用户盲目归咎设备。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Adobe will tell you if  an out of focus picture is your fault (for some cameras)"
+    },
+    {
+      "id": "recvq2ytsOZRIt",
+      "title": "这款新福伦达长焦镜头对焦距离比以往更近",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/21/this-new-voigtlander-telephoto-lens-focuses-closer-than-ever/",
+      "publish_time": "2026-07-22T03:00:00+08:00",
+      "summary": "福伦达推出新长焦镜头，对焦距离更近，为徕卡用户提供出色肖像摄影选择。",
+      "recommendation": "福伦达新长焦镜头缩短对焦距离，为徕卡用户提供更灵活的肖像拍摄选择，含具体对焦距离参数与光学设计细节。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This New Voigtlander Telephoto Lens Focuses Closer Than Ever"
+    },
+    {
+      "id": "recvq2yyf0ZgCH",
+      "title": "终于！索尼发布官方FX5预告片！Fotoerhardt开启预订，BHphoto开放通知",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/finally-sony-launched-the-official-sony-fx5-teaser-preorders-open-at-fotoerhardt/",
+      "publish_time": "2026-07-22T02:49:59+08:00",
+      "summary": "索尼发布FX5官方预告片，Fotoerhardt开启预订，BHphoto提供通知。7月22日将推出FX5和100-400mm f/5.6-8镜头。",
+      "recommendation": "索尼FX5预告片确认7月22日发布，同步曝光100-400mm f/5.6-8镜头参数，为长焦用户提供新品动向参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Finally! Sony launched the official Sony FX5 teaser! Preorders open at Fotoerhardt and notifications at BHphoto"
+    },
+    {
+      "id": "recvq2yDexUBSj",
+      "title": "富士最新广告：在智能手机分心的世界里，给摄影的一分钟情书",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilms-latest-ad-is-a-one-minute-love-letter-to-photography-in-a-world-distracted-by-smartphones/",
+      "publish_time": "2026-07-22T02:48:51+08:00",
+      "summary": "富士最新一分钟广告是献给摄影的情书，在智能手机分心世界中强调摄影价值，作者14年仅为此类广告写文三次，占其10224篇文章的0.03%",
+      "recommendation": "富士广告以14年仅发3次同类内容的稀缺性，揭示摄影在智能手机时代的情感价值，为影像爱好者提供行业视角与反思。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm’s Latest Ad Is a One-Minute Love Letter to Photography — in a World Distracted by Smartphones"
+    },
+    {
+      "id": "recvq2yIw8mhTD",
+      "title": "Peak Design 为尼康 Z 相机众筹新型模块化 L 型支架系统",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/21/peak-design-is-crowdfunding-a-new-modular-field-l-bracket-system-for-nikon-cameras.aspx/",
+      "publish_time": "2026-07-22T01:35:08+08:00",
+      "summary": "Peak Design为尼康Z相机推出模块化L型支架系统，含AirTag口袋，在Kickstarter众筹，数小时内筹超20万美元，兼容Z6 III等多款机型。",
+      "recommendation": "Peak Design为尼康Z相机推出模块化L型支架，含AirTag口袋，众筹超20万美元，兼容Z6 III等机型，对摄影配件爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Peak Design is crowdfunding a new modular field L-bracket system for Nikon Z cameras"
+    },
+    {
+      "id": "recvq2y07sTzy8",
+      "title": "罗伯特·欧文称AI剥夺了摄影的艺术性",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/21/ai-takes-away-from-the-artistry-of-photography-says-robert-irwin/",
+      "publish_time": "2026-07-22T01:12:34+08:00",
+      "summary": "罗伯特·欧文称AI剥夺了摄影的艺术性，认为其威胁到摄影的真实性和创造性。",
+      "recommendation": "探讨AI对摄影艺术性的冲击，提供罗伯特·欧文的批判视角，适合关注计算摄影与美学冲突的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "‘AI Takes Away From the Artistry of Photography’ Says Robert Irwin"
+    },
+    {
+      "id": "recvq2y2FhJQg6",
+      "title": "苹果零售店员工与顾客的对话现可被录音",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/21/conversations-between-apple-store-workers-and-customers-can-now-be-recorded/",
+      "publish_time": "2026-07-22T00:58:02+08:00",
+      "summary": "苹果开始记录零售店Genius Bar员工与顾客的对话，用于提升服务质量。",
+      "recommendation": "常规资讯，可了解行业动态。虽不直接涉及影像技术，但苹果服务流程变化可能影响售后体验，对依赖Genius Bar的影像用户有间接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Conversations Between Apple Store Workers and Customers Can Now Be Recorded"
+    },
+    {
+      "id": "recvq2ym7NhA81",
+      "title": "索尼明天发布新相机——我们受邀一同见证！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-is-launching-a-new-camera-tomorrow-and-were-all-invited-along-to-watch",
+      "publish_time": "2026-07-22T00:36:35+08:00",
+      "summary": "索尼将于7月22日发布新款电影摄影机，我们受邀见证，敬请关注观看方式。",
+      "recommendation": "索尼新电影机发布在即，本文提供首发见证视角与观看渠道，对关注专业影像设备动态的爱好者有即时资讯价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony is launching a new camera tomorrow – and we’re all invited along to watch!"
+    },
+    {
+      "id": "recvq2yov3ydft",
+      "title": "Peak Design Form Rope 评测：用绳索固定相机，三种佩戴方式，甚至更多",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/peak-design-form-rope-review",
+      "publish_time": "2026-07-22T00:18:04+08:00",
+      "summary": "Peak Design Form Rope是一款组合式绳索，具有多种连接选项、三种佩戴方式及多种配色方案，巧妙实现相机固定功能。",
+      "recommendation": "Peak Design Form Rope绳索固定方案，提供三种佩戴方式与多配色，适合追求灵活携带相机的摄影爱好者，但未涉及影像性能数据。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Peak Design Form Rope review: get your camera roped in and wear it in three different ways, maybe even more"
+    },
+    {
+      "id": "recvq2y5lxN1Ah",
+      "title": "Z世代认为IMAX 70毫米版《奥德赛》是精英主义",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/21/christopher-nolan-the-odyssey-gen-z-think-imax-70mm-is-elitist/",
+      "publish_time": "2026-07-22T00:01:01+08:00",
+      "summary": "Z世代批评《奥德赛》IMAX 70毫米版造成精英主义观影体验，无法观看高端放映的观众将看到细节更少的版本。",
+      "recommendation": "从Z世代视角揭示高端放映格式引发的观影不平等争议，为影像爱好者提供关于画质差异与消费公平的行业洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Gen Z Thinks ‘The Odyssey’ in IMAX 70mm is Elitist"
+    },
+    {
+      "id": "recvq2y7QJZMXK",
+      "title": "Moment 动作板：相机应用的视频游戏控制器",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/21/moment-action-plates-are-like-a-video-game-controller-for-your-camera-app/",
+      "publish_time": "2026-07-22T00:00:12+08:00",
+      "summary": "Moment更新iPhone相机应用Pro Camera II，新增Action Plates功能，作为可切换控制布局，类似视频游戏控制器，提升拍摄操控体验。",
+      "recommendation": "解析Moment为iPhone相机应用引入类游戏控制器布局，提供可切换操控界面，对追求高效拍摄的用户有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Moment Action Plates Are Like a Video Game Controller for Your Camera App"
+    },
+    {
+      "id": "recvq2yvUaS4l4",
+      "title": "你听说过五区摄影节吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/21/announcing-the-5-boro-foto-fest-a-place-where-art-lovers-meet-real-photographers-copy-4/",
+      "publish_time": "2026-07-22T00:00:00+08:00",
+      "summary": "Phoblographer举办5 Boro Foto Fest，为真实摄影师提供销售印刷艺术作品的空间，抵制算法和AI，强调行业可持续性。",
+      "recommendation": "五区摄影节为影像爱好者提供对抗算法与AI的实体销售空间，强调行业可持续性，是了解摄影市场新趋势的独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Have You Heard of the 5 Boro Foto Fest?"
+    },
+    {
+      "id": "recvq2ya7Io55Z",
+      "title": "研究人员设计出能在眼前消失的“隐形”无人机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/21/researchers-design-invisible-drone-that-vanishes-before-your-eyes/",
+      "publish_time": "2026-07-21T23:55:01+08:00",
+      "summary": "工程师设计出利用视觉错觉实现隐形的无人机，无需传统伪装即可在眼前消失，突破隐身技术新思路。",
+      "recommendation": "视觉错觉隐身技术为无人机摄影提供新思路，虽非直接影像产品，但启发低干扰拍摄方案。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Researchers Design ‘Invisible’ Drone That Vanishes Before Your Eyes"
+    },
+    {
+      "id": "recvq2yAHvgwSw",
+      "title": "PeakDesign为你的索尼相机推出创新L型快装板",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/peakdesign-launched-a-new-innovative-l-bracket-for-your-sony-camera/",
+      "publish_time": "2026-07-21T23:42:51+08:00",
+      "summary": "Peak Design重新设计了L型快装板，专为索尼相机推出，可在Kickstarter预购，视频展示工作原理。",
+      "recommendation": "针对索尼相机用户，详解Peak Design L型快装板创新设计，含工作原理视频，提供配件选购参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "PeakDesign launched a new innovative L-Bracket for your Sony camera!"
+    },
+    {
+      "id": "recvq2ycuDsbD4",
+      "title": "《邀请》导演奥利维亚·王尔德参观柯达35毫米胶片实验室",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/21/the-invite-director-olivia-wilde-takes-a-tour-of-kodaks-35mm-film-lab/",
+      "publish_time": "2026-07-21T23:39:16+08:00",
+      "summary": "《邀请》导演奥利维亚·王尔德参观柯达35毫米胶片实验室，探讨胶片拍摄技术。随着诺兰《奥德赛》票房大热，另一部胶片电影正在上映。",
+      "recommendation": "导演探访胶片实验室，结合诺兰新片热度，解析35毫米胶片拍摄技术细节，为影像爱好者提供电影级摄影工艺的深度视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "‘The Invite’ Director Olivia Wilde Takes a Tour of Kodak’s 35mm Film Lab"
+    },
+    {
+      "id": "recvq2yr06vttz",
+      "title": "Heipi三合一旅行三脚架W28S评测：一款适用于相机和智能手机的三用魔术棒",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/tripods/heipi-3-in-1-travel-tripod-w28s-review",
+      "publish_time": "2026-07-21T23:00:00+08:00",
+      "summary": "Heipi W28S三合一旅行三脚架采用高品质碳纤维，实现相机与智能手机三用设计，创新变革三脚架结构。",
+      "recommendation": "深度拆解Heipi W28S碳纤维三脚架的三合一结构创新，提供相机与手机兼容的实测数据与便携性分析，对旅行摄影爱好者有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Heipi 3-in-1 Travel Tripod W28S review: a trick stick that works in three different ways, for both cameras and smartphones"
+    },
+    {
+      "id": "recvq2yht0ziYW",
+      "title": "vivo S2 预热图泄露，规格参数同步曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_s2_teaser_image_leaks_alongside_its_specs-news-73813.php",
+      "publish_time": "2026-07-21T22:41:02+08:00",
+      "summary": "vivo S2预热图泄露，搭载骁龙8 Gen 5芯片，6.59英寸120Hz OLED屏，分辨率1.5K，采用屏下摄像头技术。",
+      "recommendation": "屏下摄像头技术结合骁龙8 Gen 5芯片，预示自拍与全面屏设计新突破，对关注前置影像创新的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "vivo S2 teaser image leaks alongside its specs"
+    },
     {
       "id": "recvq1dP8TUAhg",
       "title": "Peak Design 新款 Field Bracket 为现代摄影师重新定义 L 型快装板",
@@ -383,6 +663,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Here's how to watch Samsung's Galaxy Unpacked official live"
+    },
+    {
+      "id": "recvq2yjQkXKxh",
+      "title": "三星Galaxy Unpacked发布会直播观看指南",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/how_to_watch_samsungs_galaxy_unpacked_official_livestream-news-73806.php",
+      "publish_time": "2026-07-21T17:01:02+08:00",
+      "summary": "三星将于7月22日在伦敦举办Galaxy Unpacked活动，预计发布新一代Galaxy Z折叠屏手机和Galaxy Watch系列，直播时间为美国东部时间上午9点等。",
+      "recommendation": "折叠屏影像规格或成亮点，关注三星计算摄影与多摄系统升级动态。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's how to watch Samsung's Galaxy Unpacked event live"
     },
     {
       "id": "recvpZU0a6hzPQ",
@@ -7508,301 +7803,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "GoPro, at risk of bankruptcy, is getting a $20 million loan from its founder and inventor as the process for potential sale “continues to progress”"
-    },
-    {
-      "id": "recvoTkpjQi0u7",
-      "title": "华为预热MatePad Air和FreeClip 2 S，即将发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/huawei_teases_matepad_air_and_freeclip_2_s_ahead_of_launch-news-73649.php",
-      "publish_time": "2026-07-09T22:09:02+08:00",
-      "summary": "华为预热MatePad Air和FreeClip 2 S，即将与Pura 90s系列一同发布。MatePad Air提供粉色、白色和蓝色，采用药丸形摄像头开孔，支持手写笔和键盘保护套。",
-      "recommendation": "MatePad Air影像配置未提及，但药丸形摄像头开孔暗示新设计，可关注平板影像功能演进。常规资讯，了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Huawei teases MatePad Air and FreeClip 2 S ahead of launch"
-    },
-    {
-      "id": "recvoTkRCWI6XU",
-      "title": "正式发布并开启预售：索尼全新RX10V超长焦相机！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/officially-announced-and-available-for-preorder-new-sony-rx10v-superzoom-camera/",
-      "publish_time": "2026-07-09T22:03:40+08:00",
-      "summary": "索尼正式发布并开启预售RX10V超长焦相机，在多家电商有售，官方产品视频已发布。",
-      "recommendation": "文章提供索尼RX10V超长焦相机正式发布与预售信息，包含电商渠道及官方视频，属于常规产品资讯，可帮助影像爱好者快速了解新品动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Officially announced and available for preorder: New Sony RX10V super zoom camera!"
-    },
-    {
-      "id": "recvoTkdoXI7mU",
-      "title": "索尼RX10 V评测：有时最好也不够好",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/09/sony-rx10-v-review-sometimes-the-best-still-isnt-good-enough/",
-      "publish_time": "2026-07-09T22:01:35+08:00",
-      "summary": "索尼RX10 V桥式相机在近九年后发布，但相比前代革新有限，未跟上摄影领域的变化，核心参数未显著提升。",
-      "recommendation": "文章深度剖析RX10 V九年后革新不足，核心参数未显著提升，对关注长焦相机迭代停滞的爱好者有参考价值，提供产品定位反思。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony RX10 V Review: Sometimes the Best Still Isn’t Good Enough"
-    },
-    {
-      "id": "recvoTkfXhWWp4",
-      "title": "索尼RX10 V升级桥式相机体验，售价2299美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/09/the-sony-rx10-v-upgrades-the-bridge-camera-experience-for-2299/",
-      "publish_time": "2026-07-09T22:00:26+08:00",
-      "summary": "索尼RX10 V升级桥式相机，售价2299美元，保留1英寸2000万像素传感器和24-600mm镜头，更新功能助其保持领先",
-      "recommendation": "解析RX10 V升级细节，保留1英寸传感器与24-600mm镜头，更新功能对桥式相机用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Sony RX10 V Upgrades the Bridge Camera Experience for $2,299"
-    },
-    {
-      "id": "recvoTkyxj4O3I",
-      "title": "索尼复活全品类相机：RX10 V并非紧凑型相机，但其固定镜头覆盖从微距到长焦的全焦段",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/sony-has-brought-its-every-genre-camera-back-from-the-dead-the-sony-rx10-v-isnt-a-compact-camera-but-its-fixed-lens-covers-everything-from-macro-to-telephoto",
-      "publish_time": "2026-07-09T22:00:00+08:00",
-      "summary": "索尼RX10 V桥式相机具备24倍变焦、一英寸传感器，采用无反相机速度与自动对焦技术，固定镜头覆盖全焦段。",
-      "recommendation": "解析索尼RX10 V固定镜头全焦段设计，融合无反自动对焦技术，为追求一机走天下的影像爱好者提供技术细节与产品定位参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony has brought its every-genre camera back from the dead. The Sony RX10 V isn’t a compact camera, but its fixed lens covers everything from macro to telephoto"
-    },
-    {
-      "id": "recvoTkAO1Rrng",
-      "title": "索尼RX10 V评测：索尼超长焦桥式相机获得Alpha升级",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/sony-rx10-v-review",
-      "publish_time": "2026-07-09T22:00:00+08:00",
-      "summary": "索尼RX10 V评测：保留24-600mm镜头，升级更快处理、AI主体识别、改进视频和控制",
-      "recommendation": "解析RX10 V的Alpha升级，含AI主体识别与视频改进细节，适合关注长焦桥式相机进化及索尼技术下放的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony RX10 V review: Sony’s superzoom bridge camera gets an Alpha upgrade"
-    },
-    {
-      "id": "recvoTkK4uwZMQ",
-      "title": "索尼RX10 V展示了相机在过去十年中的进步",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/sony-rx10-v-review/",
-      "publish_time": "2026-07-09T22:00:00+08:00",
-      "summary": "索尼RX10 V升级2000万像素堆叠1英寸传感器和24-600mm F2.8-4.0镜头，处理能力提升，可拍摄风景至野生动物等多种题材",
-      "recommendation": "解析1英寸堆叠传感器与24-600mm镜头组合的进化，提供从风光到野外的实测数据，对比前代处理性能提升的具体参数。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony RX10 V shows how far cameras have come in the past decade"
-    },
-    {
-      "id": "recvoTkUh88WKC",
-      "title": "新闻稿：索尼电子推出RX10 V——第五代全能超长焦相机，适用于旅行、野生动物和运动摄影",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/press-text-sony-electronics-introduces-rx10-v-the-fifth-generation-of-the-all-in-one-super-zoom-camera-for-travel-wildlife-and-sports-photography/",
-      "publish_time": "2026-07-09T21:46:41+08:00",
-      "summary": "索尼电子推出RX10 V第五代全能超长焦相机，配备24-600mm变焦镜头和AI实时识别自动对焦，适用于旅行、野生动物和运动摄影，2026年7月8日开启预售。",
-      "recommendation": "本文提供RX10 V的24-600mm变焦与AI实时识别AF参数，适合关注超长焦相机升级的爱好者了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Press text: Sony Electronics Introduces RX10 V – The Fifth Generation of the All-in-One Super Zoom Camera for Travel, Wildlife, and Sports Photography"
-    },
-    {
-      "id": "recvoTki8anVdN",
-      "title": "1990年代英国黑帮罕见照片展：令人惊叹的影像记录",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/09/amazing-photos-of-british-gangsters-from-the-1990s-set-for-rare-exhibit/",
-      "publish_time": "2026-07-09T21:13:32+08:00",
-      "summary": "1990年代英国黑帮罕见照片展，记录克雷兄弟等黑帮分子的怪癖、抢劫与暴力，展现难以拍摄的黑帮场景",
-      "recommendation": "通过1990年代英国黑帮罕见照片展，解析纪实摄影在极端场景下的抓拍技巧与构图逻辑，提供历史影像的独家数据与拍摄视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Amazing Photos of British Gangsters From the 1990s Set for Rare Exhibit"
-    },
-    {
-      "id": "recvoTkOW29KeL",
-      "title": "2026年每位摄影师都应关注的6款相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/09/6-cameras-from-2026-every-photographer-should-have-on-their-radar/",
-      "publish_time": "2026-07-09T21:00:00+08:00",
-      "summary": "2026年发布多款出色相机，涵盖紧凑型复兴与高像素型号，提供核心技术参数，帮助摄影师选择最适合的机型。",
-      "recommendation": "汇总2026年6款新机核心参数，涵盖紧凑型与高像素机型，提供传感器尺寸、像素数等关键数据，助摄影师快速对比选机。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "6 Cameras From 2026 Every Photographer Should Have On Their Radar"
-    },
-    {
-      "id": "recvoTkkvLmPAs",
-      "title": "史上首部纪录片是《摩阿娜》",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/09/the-first-ever-documentary-film-was-moana/",
-      "publish_time": "2026-07-09T20:02:40+08:00",
-      "summary": "迪士尼真人版《海洋奇缘》明日上映，票房预测疲软，评论家质疑其制作必要性。但史上首部纪录片《摩阿娜》早在1926年拍摄，非真人翻拍。",
-      "recommendation": "追溯1926年首部纪录片《摩阿娜》的影像史实，为摄影爱好者提供纪录片起源的独特视角，非单纯电影资讯。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The First-Ever Documentary Film Was ‘Moana’"
-    },
-    {
-      "id": "recvoTkCYbzyoS",
-      "title": "尼康宣布后又撤回，一款奇怪的尼康Z6 III相机。原因在此",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/nikon-announced-then-un-announced-a-weird-new-nikon-z6-iii-camera-this-is-why",
-      "publish_time": "2026-07-09T19:25:00+08:00",
-      "summary": "尼康美国公司解释称，无Wi-Fi功能的Z6 III是为少数特定安全用例设计的，但随后又撤回该声明。",
-      "recommendation": "尼康Z6 III无Wi-Fi版本事件，揭示相机厂商为特定行业需求定制产品的策略，对关注产品线细分与安全认证的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon announced, then un-announced, a weird new Nikon Z6 III camera. This is why"
-    },
-    {
-      "id": "recvoTkrwj5L81",
-      "title": "Meta智能眼镜：遮挡录制指示灯将自动禁用录像功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/metas_smart_glasses_will_disable_recording_when_capture_led_is_blocked-news-73645.php",
-      "publish_time": "2026-07-09T19:03:02+08:00",
-      "summary": "Meta智能眼镜新增隐私保护：若拍摄指示灯被遮挡，将自动禁用录像功能，适用于第二代及更新型号。",
-      "recommendation": "Meta智能眼镜通过遮挡指示灯自动禁用录像，为影像爱好者揭示隐私保护新思路，属行业动态常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meta's smart glasses will disable recording when capture LED is blocked"
-    },
-    {
-      "id": "recvoTkFbQTo6o",
-      "title": "巴塔哥尼亚摄影大赛：壮丽景观与野生动物共赏，同时揭示保护隐忧",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/patagonia-photo-contest-celebrates-breathtaking-landscapes-and-wildlife-while-exposing-conservation-concerns",
-      "publish_time": "2026-07-09T18:54:18+08:00",
-      "summary": "第七届巴塔哥尼亚摄影大赛获奖作品展示壮丽景观与标志性物种，同时揭示人类与野生动物共存的严峻挑战。",
-      "recommendation": "通过获奖作品分析野外摄影构图与生态主题，提供人类与野生动物共存的独特视角，适合追求纪实美学的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Patagonia Photo Contest celebrates breathtaking landscapes and wildlife – while exposing conservation concerns"
-    },
-    {
-      "id": "recvoTkHoMowMK",
-      "title": "Meike即将推出新款多卡口85mm f/1.2镜头——但一个关键细节尚未确定",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/a-new-multi-mount-85mm-f-1-2-lens-is-coming-from-meike-but-one-key-detail-has-yet-to-be-decided",
-      "publish_time": "2026-07-09T18:52:14+08:00",
-      "summary": "美科预告新款AF 85mm f/1.2镜头，多卡口设计，但材质未定，可能为塑料或金属。",
-      "recommendation": "美科85mm f/1.2多卡口镜头预告，材质未定是独特信息点，对关注副厂大光圈人像镜头的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A new multi-mount 85mm f/1.2 lens is coming from Meike – but one key detail has yet to be decided"
-    },
-    {
-      "id": "recvoTkXaiTuTk",
-      "title": "现场直播：索尼RX10V发布",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/follow-it-live-sony-rx10v-announcement/",
-      "publish_time": "2026-07-09T18:16:37+08:00",
-      "summary": "索尼RX10V发布会直播，已泄露规格和图片，预购链接下午3点上线，文章首发于sonyalpharumors。",
-      "recommendation": "直播汇总RX10V泄露规格与图片，提供预购时间节点，对关注索尼长焦机型的用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Follow it live: Sony RX10V announcement"
-    },
-    {
-      "id": "recvoTku1OfdFh",
-      "title": "HMD Arc 2发布：芯片组升级",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/hmd_arc_2_announced_with_updated_chipset_-news-73643.php",
-      "publish_time": "2026-07-09T18:01:01+08:00",
-      "summary": "HMD Arc 2发布，芯片升级为紫光展锐T603，12nm工艺，1.8GHz主频，其他配置与上代相似，搭载Android 14 Go系统，6.52英寸HD+ 60Hz屏幕。",
-      "recommendation": "文章聚焦HMD Arc 2芯片升级，虽未涉及影像硬件变化，但紫光展锐T603的算力提升可能影响入门机计算摄影性能，适合关注低端市场动态的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "HMD Arc 2 announced with updated chipset"
-    },
-    {
-      "id": "recvoRXusXR0cA",
-      "title": "TTArtisan 17mm f4 移轴镜头评测：我用过最坚固的镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/09/ttartisan-17mm-f4-tilt-shift-review-the-toughest-lens-ive-used/",
-      "publish_time": "2026-07-09T18:00:00+08:00",
-      "summary": "TTArtisan 17mm f4移轴镜头评测，作者称其为用过最坚固但最复杂恼火的镜头，因节日和自身原因延迟完成评测。",
-      "recommendation": "TTArtisan 17mm f4移轴镜头评测，以“最坚固但最复杂恼火”为独特视角，提供拆机实测与样张分析，揭示其光学素质与操作痛点，对移轴爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "TTArtisan 17mm f4 Tilt Shift Review: The Toughest Lens I’ve Used"
-    },
-    {
-      "id": "recvoRXfCfv2zs",
-      "title": "科学家前往大西洋未探索区域，拍摄怪异深海生物",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/09/scientists-travel-to-unexplored-area-of-atlantic-ocean-and-photograph-bizarre-deep-sea-creatures/",
-      "publish_time": "2026-07-09T17:46:48+08:00",
-      "summary": "科学家35天探索大西洋偏远山区海域，构造裂缝重塑海底，拍摄奇异深海生物，揭示未探索区域生态价值。",
-      "recommendation": "深海摄影实战案例，展示极端弱光环境拍摄技巧与生物行为捕捉，含35天独家科考数据与海底构造影像。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Scientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures"
     }
   ]
 }
