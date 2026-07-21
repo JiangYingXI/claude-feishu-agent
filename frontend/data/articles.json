@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-21T04:14:48.685926+08:00",
+    "updated_at": "2026-07-21T12:02:01.613344+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpYD1rrq69Z",
+      "title": "《国家地理》纪录片《庞贝：超越时空》融合电影制作、历史与汤姆·希德勒斯顿",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/20/nat-geos-pompeii-out-of-time-combines-cinematic-filmmaking-history-and-tom-hiddleston/",
+      "publish_time": "2026-07-21T05:10:59+08:00",
+      "summary": "国家地理频道三集纪实剧《庞贝古城：末日余晖》结合汤姆·希德勒斯顿解说与电影制作，讲述公元79年维苏威火山爆发前庞贝古城的最后时刻",
+      "recommendation": "解析纪录片如何融合电影级布光与火山灰光学模拟，提供古罗马壁画色彩还原的独家技术视角，适合影像创作者研究历史场景的视觉重构手法。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nat Geo’s ‘Pompeii: Out of Time’ Combines Cinematic Filmmaking, History, and Tom Hiddleston"
+    },
+    {
+      "id": "recvpYD4DcrPcJ",
+      "title": "世界杯后，Apple Sports应用增加更多足球赛事关注",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_sports_app_adds_more_soccer_following_the_world_cup-news-73801.php",
+      "publish_time": "2026-07-21T05:02:02+08:00",
+      "summary": "Apple Sports应用更新至4.2版，新增支持比利时、丹麦、荷兰、日本、波兰、苏格兰和瑞士的顶级足球联赛，并增加查看阵型功能，让球迷关注全球重要联赛。",
+      "recommendation": "虽非直接影像内容，但Apple Sports应用更新反映体育赛事数字化趋势，可了解移动端功能迭代对体育摄影内容分发的影响。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple Sports app adds more soccer following the World Cup"
+    },
     {
       "id": "recvpWIFkcy70m",
       "title": "纽尔Bright F700U OLED监视器：我的相机包中不可或缺的一员",
@@ -7779,36 +7809,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Beni Is a Cute Autonomous Camera Robot On Wheels"
-    },
-    {
-      "id": "recvoNiemZar2E",
-      "title": "Reflx Labs两款新胶卷上市，110胶片市场规模翻倍",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/08/the-110-film-market-just-doubled-in-size-thanks-to-two-new-stocks-from-reflx-labs/",
-      "publish_time": "2026-07-08T22:27:45+08:00",
-      "summary": "Reflx Lab推出两款新110胶卷，使该小众胶片市场规模翻倍，此前仅Lomography独家供应15年。",
-      "recommendation": "110胶片市场长期由Lomography独家供应，Reflx Labs两款新品使规模翻倍，提供稀缺胶片选择与市场动态数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 110 Film Market Just Doubled in Size Thanks to Two New Stocks From Reflx Labs"
-    },
-    {
-      "id": "recvoNineVaxFg",
-      "title": "宜家拍摄家居用品巧妙呈现世界杯参赛国国旗",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/ikea-photographs-household-items-to-create-ingenious-representation-of-world-cup-nations-flags",
-      "publish_time": "2026-07-08T22:17:37+08:00",
-      "summary": "宜家利用毛巾、家具等家居用品巧妙排列，拍摄出12个世界杯参赛国国旗，创意呈现家居与足球的融合。",
-      "recommendation": "解析宜家如何用家居用品模拟国旗，提供低成本创意布光与构图思路，对静物摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Ikea photographs household items to create ingenious representation of World Cup nations’ flags"
     }
   ]
 }
