@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-21T12:02:01.613344+08:00",
+    "updated_at": "2026-07-21T17:16:50.492227+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 118
+      "count": 116
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,17 +23,17 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 23
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 40
+      "count": 41
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 362
+      "count": 358
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,157 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvpZTXmMZrcs",
+      "title": "三星Galaxy Unpacked官方直播观看指南",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/how_to_watch_samsungs_galaxy_unpacked_official_livestream-news-73806.php",
+      "publish_time": "2026-07-21T17:01:02+08:00",
+      "summary": "三星将于7月22日在伦敦举办Galaxy Unpacked活动，预计发布Galaxy Z Fold折叠屏手机和Galaxy Watch系列，直播时间为美国东部时间上午9点等。",
+      "recommendation": "关注三星折叠屏手机影像系统升级，直播将展示新传感器与计算摄影优化，提供行业动态参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's how to watch Samsung's Galaxy Unpacked official live"
+    },
+    {
+      "id": "recvpZU0a6hzPQ",
+      "title": "最新iOS 27测试版代码包含iPhone Ultra的引用",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/latest_ios_27_beta_code_includes_references_to_the_iphone_ultra-news-73805.php",
+      "publish_time": "2026-07-21T16:00:01+08:00",
+      "summary": "iOS 27测试版代码引用可折叠iPhone Ultra，电池健康部分提及多电池配置。",
+      "recommendation": "iOS 27代码首曝可折叠iPhone Ultra，多电池配置暗示影像系统功耗需求，为手机影像形态演变提供早期线索。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Latest iOS 27 beta code includes references to the iPhone Ultra"
+    },
+    {
+      "id": "recvpZU7Vbe9a7",
+      "title": "“伟大的摄影关乎情感深度，而非景深”：为何你的作品应追求情感共鸣，而非技术完美",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/great-photography-is-about-depth-of-feeling-not-depth-of-field-why-your-images-should-strive-for-emotional-reactions-not-technical-perfection",
+      "publish_time": "2026-07-21T15:48:39+08:00",
+      "summary": "澳大利亚摄影师彼得·亚当斯指出，摄影的核心在于情感深度而非技术完美，强调图像带给人们的感觉才是关键。",
+      "recommendation": "彼得·亚当斯提出情感深度优于技术完美，打破器材至上迷思，为追求影像共鸣的爱好者提供创作新视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“Great photography is about depth of feeling, not depth of field”: Why your images should strive for emotional reactions, not technical perfection"
+    },
+    {
+      "id": "recvpZUatUwrL8",
+      "title": "这张无相机照片如此巨大，动用了一座桥、100名志愿者和超过100小时才完成——或为同类最长",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/this-camera-less-photo-is-so-large-it-took-a-bridge-100-volunteers-and-more-than-100-hours-to-create-and-could-be-the-longest-of-its-kind-ever-made",
+      "publish_time": "2026-07-21T15:34:26+08:00",
+      "summary": "密歇根州艺术家利用整座桥、100名志愿者和超100小时，创作了约430英尺长的蓝晒作品，或为同类最长，最具挑战性的部分尚未完成。",
+      "recommendation": "揭秘蓝晒工艺极限创作：430英尺无相机影像需动用桥梁与百人团队，提供大型摄影装置艺术的技术细节与耗时数据，适合探索非传统成像的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This camera-less photo is so large it took a bridge, 100 volunteers, and more than 100 hours to create – and could be the longest of its kind ever made"
+    },
+    {
+      "id": "recvpZUcXwZf1j",
+      "title": "Lightroom Classic 的辅助照片筛选是个好主意，但真的很烦人。不过我找到了一个解决方案",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/software/lightroom-classics-assisted-photo-culling-is-a-great-idea-but-is-really-annoying-but-i-have-found-a-solution",
+      "publish_time": "2026-07-21T15:30:00+08:00",
+      "summary": "本文对比Excire与Lightroom Classic的照片筛选功能，指出后者虽好但烦人，并提出了解决方案。",
+      "recommendation": "对比Excire与Lightroom Classic筛选功能，指出后者痛点并给出实用替代方案，对后期效率提升有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Lightroom Classic’s assisted photo culling is a great idea, but is really annoying. But I have found a solution"
+    },
+    {
+      "id": "recvpZU31ey5wo",
+      "title": "小米Redmi Note 17印度发布日期曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_redmi_note_17_india_launch_date_tipped-news-73804.php",
+      "publish_time": "2026-07-21T15:00:02+08:00",
+      "summary": "小米Redmi Note 17系列印度发布日期曝光，预计8月6日发布，8月11日首销，配备OLED屏和5000万像素主摄。",
+      "recommendation": "曝光Redmi Note 17印度发布日期及5000万像素主摄配置，为关注中端手机影像升级的用户提供时间节点与基础参数，属常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi Redmi Note 17's India launch date tipped"
+    },
+    {
+      "id": "recvpZUfhZvkQX",
+      "title": "Browning Defender Pro Scout Max Solar评测：真正免维护的长期野生动物观察工具",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/trail-cameras/browning-defender-pro-scout-solar-review-a-truly-hands-off-and-long-term-wildlife-watching-tool",
+      "publish_time": "2026-07-21T15:00:00+08:00",
+      "summary": "Browning Defender Pro Scout Max Solar太阳能相机实现免维护野生动物监测，但蜂窝版下载视频需付费订阅，费用较高。",
+      "recommendation": "评测Browning Defender Pro Scout Max太阳能相机免维护特性，揭示蜂窝版下载视频付费订阅成本，为野生动物影像爱好者提供实用续航与费用参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Browning Defender Pro Scout Max Solar review: a truly hands-off and long-term wildlife watching tool"
+    },
+    {
+      "id": "recvpZUhV7trzc",
+      "title": "风光摄影中没人想到的一件事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/21/how-color-affects-leading-lines-in-landscape-photography-copy/",
+      "publish_time": "2026-07-21T15:00:00+08:00",
+      "summary": "文章讨论风景摄影中色彩与黑白运用的不同规则，强调黑白摄影需特别考虑，而非简单套用彩色摄影原则。",
+      "recommendation": "打破彩色摄影惯性思维，揭示黑白风光摄影的独立构图法则，提供具体技术对比数据，助爱好者避免常见误区。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Something No One Thinks About in Landscape Photography"
+    },
+    {
+      "id": "recvpZU5zqcse6",
+      "title": "更多Galaxy Z Fold8（宽版）渲染图在Unpacked前曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/more_galaxy_z_fold8_wide_renders_surface_ahead_of_unpacked-news-73803.php",
+      "publish_time": "2026-07-21T14:00:02+08:00",
+      "summary": "三星Galaxy Z Fold8宽屏版官方渲染图曝光，展示奶油色、石墨色和薰衣草色三种配色，距Unpacked发布会仅剩一天。",
+      "recommendation": "渲染图曝光揭示Fold8宽版三种配色，距发布仅一天，影像爱好者可提前了解折叠屏外观设计趋势，但无影像规格细节。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "More Galaxy Z Fold8 (wide) renders surface ahead of Unpacked"
+    },
+    {
+      "id": "recvpZUkombuQ5",
+      "title": "佳能最大镜头失误",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/21/canons-biggest-lens-screwup/",
+      "publish_time": "2026-07-21T12:00:00+08:00",
+      "summary": "佳能RF 28mm f2.8饼干镜头RAW文件存在色散等问题，缺乏防尘防滴性能，被指为佳能最大镜头失误。",
+      "recommendation": "通过RAW文件实测揭露RF 28mm f2.8色散问题，并指出缺乏防尘防滴性能，为选购饼干镜头提供关键避坑数据。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon’s Biggest Lens Screwup"
+    },
     {
       "id": "recvpYD1rrq69Z",
       "title": "《国家地理》纪录片《庞贝：超越时空》融合电影制作、历史与汤姆·希德勒斯顿",
@@ -7650,165 +7801,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "CEO Imagines a Future Without Camera Operators and Capture One Supports Hasselblad  | The PetaPixel Podcast"
-    },
-    {
-      "id": "recvoOy2FpLXee",
-      "title": "谷歌相册新增视频混剪功能，AI生成可分享片段",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/08/google-photos-adds-video-remix-that-ai-generates-shareable-clips/",
-      "publish_time": "2026-07-09T01:00:33+08:00",
-      "summary": "谷歌相册新增Video Remix功能，利用AI生成可分享视频片段，延续将生成式AI融入业务的趋势。",
-      "recommendation": "解析谷歌相册Video Remix功能，展示AI如何简化视频创作流程，对计算摄影爱好者有实用参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Photos Adds Video Remix That AI-Generates ‘Shareable Clips’"
-    },
-    {
-      "id": "recvoOyHYjxB9T",
-      "title": "尼康F100：如果你认真对待胶片摄影但预算有限，这是最接近F6且无需高昂价格的选择",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/nikon-f100-if-youre-serious-about-film-photography-but-light-on-budget-this-is-as-close-as-youll-get-to-an-f6-without-the-mammoth-price-tag",
-      "publish_time": "2026-07-09T00:47:41+08:00",
-      "summary": "尼康F100是预算有限的胶片摄影师的最佳选择，性能接近旗舰F6但价格仅为其几分之一，具备专业级自动对焦和测光系统。",
-      "recommendation": "对比F100与F6的性能差异及价格优势，提供自动对焦与测光系统的具体数据，适合胶片入门者参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon F100: If you’re serious about film photography but light on budget, this is as close as you’ll get to an F6 without the mammoth price tag"
-    },
-    {
-      "id": "recvoOy4ZvhsED",
-      "title": "Meta新AI图像生成器可从任何人的公开Instagram页面生成图片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/08/metas-new-ai-image-generator-can-make-pictures-from-anyones-public-instagram-page/",
-      "publish_time": "2026-07-09T00:33:19+08:00",
-      "summary": "Meta推出首个图像生成模型，可从公开Instagram页面生成图片，已在Instagram、WhatsApp和Meta AI应用中推广。",
-      "recommendation": "解析Meta AI如何从公开Instagram页面生成图像，揭示社交平台与计算摄影的融合趋势，对关注AI影像落地的爱好者有行业参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Meta’s New AI Image Generator Can Make Pictures From Anyone’s Public Instagram Page"
-    },
-    {
-      "id": "recvoOyZep8Iw1",
-      "title": "中国最新Z卡口镜头",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/08/the-latest-z-mount-lenses-from-china.aspx/",
-      "publish_time": "2026-07-09T00:20:41+08:00",
-      "summary": "中国镜头制造商推出最新Z卡口镜头，包括Songraw AF 85mm f/1.2全画幅镜头和TTArtisan AF 85mm f/1.8预算型镜头，均采用航空铝材制造。",
-      "recommendation": "国产Z卡口镜头新品速递，含Songraw AF 85mm f/1.2与TTArtisan AF 85mm f/1.8的材质与规格对比，为预算有限的尼康Z用户提供高性价比副厂选择参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The latest Z-mount lenses from China"
-    },
-    {
-      "id": "recvoOyTTD6XqX",
-      "title": "三星CEO谈AI的未来：AI与人的交汇点",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_ceo_writes_an_editorial_about_the_future_of_ai_where_ai_meets_people-news-73626.php",
-      "publish_time": "2026-07-09T00:13:02+08:00",
-      "summary": "三星CEO TM Roh在社论中强调AI未来需理解用户而非仅追求智能，并宣布7月22日伦敦Galaxy Unpacked活动将展示宽屏Galaxy Z Fold8等新形态可折叠设备。",
-      "recommendation": "三星CEO从AI与人的交汇点切入，探讨影像设备如何通过理解用户需求优化计算摄影体验。7月22日Galaxy Z Fold8的宽屏形态或为折叠屏影像带来新视角，适合关注手机影像趋势的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung CEO talks the future of AI: where AI meets people"
-    },
-    {
-      "id": "recvoOz4bd15Yt",
-      "title": "这款免费胶片扫描工具，模拟摄影师们期待已久",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/08/this-free-film-scanning-tool-is-what-analog-photographers-have-been-waiting-for/",
-      "publish_time": "2026-07-09T00:00:00+08:00",
-      "summary": "一位创作者推出免费开源胶片扫描工具，能将彩色负片准确转换为正片，解决模拟摄影师长期缺乏优质免费工具的难题。",
-      "recommendation": "开源工具解决胶片扫描痛点，提供免费负片转正片方案，对模拟摄影爱好者有实用价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Free Film Scanning Tool is What Analog Photographers Have Been Waiting For"
-    },
-    {
-      "id": "recvoOyKaQDICX",
-      "title": "抱歉，无人机——Beni是个带轮子的可爱相机，这个古怪的小机器人甚至能爬楼梯（虽然它不会飞）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/sorry-drones-beni-is-a-cute-camera-on-wheels-and-the-quirky-little-robot-can-even-climb-stairs",
-      "publish_time": "2026-07-08T23:34:34+08:00",
-      "summary": "加州初创公司推出Beni相机机器人，具备4K视频、自动跟随和跳跃功能，虽不能飞但可爬楼梯，以轮式设计提供独特拍摄视角。",
-      "recommendation": "Beni轮式相机机器人以4K视频、自动跟随和爬楼梯功能，为影像爱好者提供地面拍摄新视角，数据详实，观点独特。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sorry, drones – Beni is a cute camera on wheels, and the quirky little robot can even climb stairs (even if it can't fly)"
-    },
-    {
-      "id": "recvoOz1AsQ8Sq",
-      "title": "富士X-T6强势来袭——全新XF镜头发布——六月前十榜单还有更多惊喜",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-dominates-upcoming-xf-lens-unveiled-but-there-is-more-in-the-top-10-of-june/",
-      "publish_time": "2026-07-08T23:14:04+08:00",
-      "summary": "富士X-T6传闻配备新胶片模拟，下一代XF镜头亮相，六月前十榜单含非传闻文章。",
-      "recommendation": "涵盖富士X-T6新胶片模拟传闻、下一代XF镜头首发信息及六月榜单，提供产品迭代与行业趋势的实用参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm X-T6 Dominates – Upcoming XF Lens Unveiled – But there is More in the Top 10 of June"
-    },
-    {
-      "id": "recvoOyWK5Z8DC",
-      "title": "Rollme AirCam：开放式耳机与800万像素摄像头合二为一",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/rollme_aircam_combines_open_style_earbuds_with_8mp_camera_-news-73628.php",
-      "publish_time": "2026-07-08T23:11:02+08:00",
-      "summary": "Rollme AirCam骨传导耳机内置800万像素索尼传感器摄像头，支持1080p 30fps视频录制，10分钟时长限制，8GB存储，双频Wi-Fi 6连接，实现耳机与手机间便捷片段共享。",
-      "recommendation": "文章解析Rollme AirCam将骨传导耳机与800万像素摄像头融合的独特设计，提供8GB存储、Wi-Fi 6传输等具体参数，适合关注跨界影像设备创新的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Rollme AirCam combines open style earbuds with 8MP camera"
-    },
-    {
-      "id": "recvoOy7FhGoGf",
-      "title": "Beni：一款可爱的轮式自主相机机器人",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/08/beni-is-a-cute-autonomous-camera-robot-on-wheels/",
-      "publish_time": "2026-07-08T23:00:28+08:00",
-      "summary": "Mondo Robotics推出Beni，全球首款便携式相机机器人，专为所有消费者和地形设计，实现轮式自主拍摄。",
-      "recommendation": "介绍全球首款便携式相机机器人Beni，解析其轮式自主拍摄技术对消费级影像创作的实用价值，提供行业动态与产品洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Beni Is a Cute Autonomous Camera Robot On Wheels"
     }
   ]
 }
