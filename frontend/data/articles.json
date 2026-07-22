@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-22T04:09:49.381793+08:00",
+    "updated_at": "2026-07-22T12:08:54.834649+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 113
+      "count": 112
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 36
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 355
+      "count": 356
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvq4vidlO98U",
+      "title": "这就是华硕ROG Phone 10和ROG Phone 10 Pro本来的样子",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/this_is_what_the_asus_rog_phone_10_and_rog_phone_10_pro_could_have_been-news-73821.php",
+      "publish_time": "2026-07-22T11:01:02+08:00",
+      "summary": "华硕ROG Phone 10系列未发布，但固件泄露显示其将搭载骁龙8 Elite Gen 5、UFS 4.0、LPDDR5X及Wi-Fi 7。",
+      "recommendation": "固件泄露揭示ROG Phone 10系列影像硬件细节，骁龙8 Elite Gen 5与UFS 4.0等配置对游戏手机影像处理能力有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This is what the Asus ROG Phone 10 and ROG Phone 10 Pro could have been"
+    },
+    {
+      "id": "recvq4vkMhCrKA",
+      "title": "尼康2026年7月优惠活动",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/21/the-latest-nikon-rebates-july-2026.aspx/",
+      "publish_time": "2026-07-22T07:15:59+08:00",
+      "summary": "尼康2026年7月折扣信息涵盖Z9、Z8等Z系列无反相机及镜头、ZR电影摄影机套件、D850等单反相机，详情见B&H Photo等网站",
+      "recommendation": "尼康Z系列及单反相机折扣汇总，含具体型号与价格参考，适合近期计划购入尼康器材的消费者快速比价。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon rebates for July 2026"
+    },
+    {
+      "id": "recvq4vfpkRhnj",
+      "title": "索尼新款电影摄像机明日发布",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/sonys-new-cinema-camera-is-coming-tomorrow/",
+      "publish_time": "2026-07-22T04:17:57+08:00",
+      "summary": "索尼发布新款电影摄像机预告，展示轮廓、录制指示灯和顶部手柄，标语照亮前路，具体参数待明日发布揭晓。",
+      "recommendation": "预告索尼新款电影摄像机，展示轮廓与手柄设计，具体参数待明日揭晓。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony’s new cinema camera is coming tomorrow"
+    },
     {
       "id": "recvq2yFUZkAEJ",
       "title": "Godox发布新款Lux Junior II复古相机闪光灯，适配尼康相机",
@@ -7757,52 +7802,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The AI-Generated Taylor Swift Wedding Photos Are Getting Debunked Really Quickly"
-    },
-    {
-      "id": "recvoTkmXE19Ls",
-      "title": "三星Galaxy S26系列在韩国打破销售纪录，提振该国出口",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_samsung_galaxy_s26_series_breaks_a_sales_record_in_korea_boosts_the_countrys_exports-news-73646.php",
-      "publish_time": "2026-07-09T23:11:02+08:00",
-      "summary": "三星Galaxy S26系列在韩国118天售出300万台，创纪录，预购量135万台，提振出口。",
-      "recommendation": "提供Galaxy S26系列在韩国的具体销售数据与预购量，可从中观察高端手机市场趋势及影像旗舰的消费热度，属于常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Samsung Galaxy S26 series breaks a sales record in Korea, boosts the country's exports"
-    },
-    {
-      "id": "recvoTkMGYZMMP",
-      "title": "这支富士龙XF 50mm F1.0镜头摔落幸存——拆解揭示其为何依然特别",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/this-fujinon-xf-50mm-f1-0-survived-a-fall-and-its-teardown-shows-why-its-still-special/",
-      "publish_time": "2026-07-09T23:01:48+08:00",
-      "summary": "富士龙XF 50mm F1.0镜头跌落后被拆解修复，揭示其光学设计独特，保留F1.0大光圈和优秀画质，核心价值在于耐用性与技术先进性。",
-      "recommendation": "拆解揭示F1.0镜头跌落后的光学结构完好性，提供独家耐用性数据与修复细节，对关注大光圈镜头可靠性的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Fujinon XF 50mm F1.0 Survived a Fall — And Its Teardown Shows Why It’s Still Special"
-    },
-    {
-      "id": "recvoTkw9yJ9Bi",
-      "title": "濒临破产的GoPro从创始人兼发明者处获得2000万美元贷款，潜在出售进程“持续推进”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-at-risk-of-bankruptcy-is-getting-a-usd20-million-loan-from-its-founder-and-inventor-as-the-process-for-potential-sale-continues-to-progress",
-      "publish_time": "2026-07-09T22:33:12+08:00",
-      "summary": "GoPro获创始人伍德曼2000万美元贷款以维持运营，潜在出售或合并进程持续推进",
-      "recommendation": "GoPro财务危机与创始人贷款细节曝光，提供运动相机市场生存现状的独家数据，对关注行业资本动向的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "GoPro, at risk of bankruptcy, is getting a $20 million loan from its founder and inventor as the process for potential sale “continues to progress”"
     }
   ]
 }
