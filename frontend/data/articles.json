@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-23T04:00:14.947184+08:00",
+    "updated_at": "2026-07-23T12:09:45.399126+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 27
     },
     {
       "key": "镜头与光学",
@@ -28,20 +28,66 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 36
+      "count": 35
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 357
+      "count": 358
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 203
+      "count": 202
     }
   ],
   "articles": [
+    {
+      "id": "recvqalYZ2XqjL",
+      "title": "Oppo Find X10系列正对标iPhone 17 Pro进行测试，真机谍照曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_find_x10_family_is_being_tested_agains_the_iphone_17_pro_live_shots_prove-news-73832.php",
+      "publish_time": "2026-07-23T09:23:02+08:00",
+      "summary": "OPPO正在测试Find X10系列三款机型，与iPhone 17 Pro对比相机性能，真机谍照显示采用两段式后盖设计。",
+      "recommendation": "曝光Find X10与iPhone 17 Pro相机对比测试，两段式后盖设计暗示影像硬件升级，提供竞品对标数据，影像爱好者可提前预判旗舰影像方向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Oppo Find X10 family is being tested against the iPhone 17 Pro, live shots prove"
+    },
+    {
+      "id": "recvqam202f3Hl",
+      "title": "索尼发布FX5电影摄影机，支持开门记录模式",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/sony_launches_fx5_cinema_camera_with_open_gate_recording-news-73836.php",
+      "publish_time": "2026-07-23T07:43:02+08:00",
+      "summary": "索尼发布FX5电影摄影机，采用1660万像素全画幅全堆叠Exmor RS CMOS传感器和BIONZ XR2处理器，售价高于FX3但功能升级显著",
+      "recommendation": "本文详解FX5的1660万像素全堆叠传感器与开门模式，对比FX3定价策略，为视频创作者提供传感器升级与功能差异的硬核数据参考。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony launches FX5 cinema camera with open gate recording"
+    },
+    {
+      "id": "recvqam4xCLMUu",
+      "title": "尼康悄然将部分镜头生产从中国转移至越南",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/22/nikon-quietly-shifts-some-lens-production-from-china-to-vietnam.aspx/",
+      "publish_time": "2026-07-23T04:02:32+08:00",
+      "summary": "尼康将部分镜头生产从中国转移至越南，如NIKKOR Z 28-75mm f/2.8镜头，降价200美元。",
+      "recommendation": "尼康转移镜头产线至越南，NIKKOR Z 28-75mm f/2.8降价200美元，揭示成本优化与供应链调整，对关注镜头价格与产地变动的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon quietly shifts some lens production from China to Vietnam"
+    },
     {
       "id": "recvq8mN6QAd0F",
       "title": "我们将取消Echolens的编辑选择奖",
@@ -7756,52 +7802,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Fujinon Lens That Changed Everything — And What’s Coming Next"
-    },
-    {
-      "id": "recvp28Ea3cLUC",
-      "title": "地铁上的病毒式照片。引人注目的航拍视角。本周最佳新闻图片TOP5证明对比在新闻摄影中的力量",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/a-viral-photo-on-the-subway-a-striking-aerial-view-the-top-5-news-photos-of-the-week-prove-the-power-of-contrast-in-photojournalism",
-      "publish_time": "2026-07-11T04:55:19+08:00",
-      "summary": "本周最佳新闻图片TOP5通过地铁病毒式照片和航拍视角，展示了对比在新闻摄影中的力量，突出视觉冲击与叙事效果。",
-      "recommendation": "通过地铁病毒式照片与航拍视角的对比案例，解析新闻摄影中视觉冲击与叙事技巧，适合摄影爱好者学习构图与故事表达。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A viral photo on the subway. A striking aerial view. The top 5 news photos of the week prove the power of contrast in photojournalism"
-    },
-    {
-      "id": "recvp28M21MZcB",
-      "title": "索尼RX10V现已可在亚马逊预购！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-rx10v-youtube-video-roundup/",
-      "publish_time": "2026-07-11T03:59:55+08:00",
-      "summary": "索尼RX10V已在亚马逊等平台开放预购，汇总YouTube评测，核心价值是提供最新相机购买信息。",
-      "recommendation": "汇总YouTube评测与预购信息，为RX10V潜在买家提供购买参考，含亚马逊渠道及首批体验数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony RX10V now available for preorder at Amazon too!"
-    },
-    {
-      "id": "recvp0dcj1UsoE",
-      "title": "为什么其他评测者喜爱索尼RX10 V，尽管我们并不感冒",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/10/why-other-reviewers-love-the-sony-rx10-v-even-though-we-didnt/",
-      "publish_time": "2026-07-11T03:35:02+08:00",
-      "summary": "索尼发布RX10 V桥式相机，售价2299美元，自2017年RX10 IV后首次更新，本文提供多样化评测观点以助购机决策。",
-      "recommendation": "汇总多角度评测观点，对比RX10 IV的升级细节，提供2299美元定价下的购机决策参考，含传感器与对焦系统数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why Other Reviewers Love the Sony RX10 V Even Though We Didn’t"
     }
   ]
 }
