@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-23T12:09:45.399126+08:00",
+    "updated_at": "2026-07-23T17:17:25.166454+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 115
+      "count": 114
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,122 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 358
+      "count": 357
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 202
+      "count": 205
     }
   ],
   "articles": [
+    {
+      "id": "recvqbBoXT0Int",
+      "title": "我的屏幕使用时间已经很糟糕了——在复古卡片机当道的世界里，我希望看到更多混合取景器",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/my-screen-time-is-already-atrocious-in-a-world-where-retro-compact-cameras-are-king-id-like-to-see-more-hybrid-viewfinders",
+      "publish_time": "2026-07-23T15:42:02+08:00",
+      "summary": "富士胶片2010年推出混合取景器后，作者困惑为何其他制造商不跟进，希望看到更多此类创新。",
+      "recommendation": "文章从混合取景器切入，探讨复古卡片机时代影像创新停滞，对关注相机设计趋势的爱好者有启发。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "My screen time is already atrocious – in a world where retro compact cameras are king, I’d like to see more hybrid viewfinders"
+    },
+    {
+      "id": "recvqbBrmavw9Y",
+      "title": "紧凑相机趋势蔓延至无反相机：日本前十机型中九款为更小画幅机身",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-compact-camera-trend-is-bleeding-into-mirrorless-nine-out-of-the-top-ten-models-in-japan-are-smaller-crop-sensor-bodies",
+      "publish_time": "2026-07-23T15:38:26+08:00",
+      "summary": "日本BCN+R榜单显示，前十畅销无反相机中九款为裁切传感器机身，紧凑相机趋势蔓延至无反市场。",
+      "recommendation": "BCN+R榜单揭示紧凑相机趋势向无反市场蔓延，前十机型中九款为裁切画幅，提供独家销售数据与市场转向的深度洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The compact camera trend is bleeding into mirrorless. Nine out of the top ten models in Japan are smaller crop-sensor bodies"
+    },
+    {
+      "id": "recvqbBtKT7VRx",
+      "title": "我们的预设带来你想要的魔法",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/23/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-5/",
+      "publish_time": "2026-07-23T15:00:00+08:00",
+      "summary": "文章介绍团队轮换使用的多种预设，适用于Lightroom和Capture One，价格实惠，专为影棚和自然光线设计，涵盖街头、风景、人像等场景，让照片脱颖而出。",
+      "recommendation": "文章分享多款团队实测预设，覆盖影棚与自然光场景，提供街头、人像等具体调色方案，对追求高效出片的Lightroom用户有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Our Presets Give the Magic That You’re Looking For"
+    },
+    {
+      "id": "recvqbBjY26tRG",
+      "title": "Android 17 新 iOS 迁移工具现已登陆三星最新折叠屏手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/android_17s_new_ios_migration_tool_now_available_on_samsungs_latest_foldables-news-73838.php",
+      "publish_time": "2026-07-23T14:55:02+08:00",
+      "summary": "谷歌在Android 17中升级了iOS迁移工具，现可用于三星Galaxy Z Fold8系列和Pixel 8/9/10系列，但Pixel 6/7系列不支持。",
+      "recommendation": "常规资讯，可了解行业动态。文章揭示了Android 17迁移工具对三星折叠屏用户的影像数据迁移价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Android 17's new iOS migration tool now available on Samsung's latest foldables"
+    },
+    {
+      "id": "recvqbBh9OrtcH",
+      "title": "索尼终于发布FX5——一位网红也立刻摔了它😅",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/somebody-already-broke-the-sony-fx5/",
+      "publish_time": "2026-07-23T13:54:11+08:00",
+      "summary": "索尼发布FX5，一位越南影响者摔落导致屏幕破裂，成为首个损坏案例。预购渠道包括BHphoto、亚马逊等。",
+      "recommendation": "索尼FX5发布即遭摔机，首个损坏案例揭示机身耐用性短板。预购渠道信息对准备入手的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony Finally Drops the FX5—and an Influencer Immediately Drops It Too 😅"
+    },
+    {
+      "id": "recvqbBmt9dN5u",
+      "title": "Google Pixel Watch 5 关键规格通过 Google Play Console 列表曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_watch_5_key_specs_play_console_listing-news-73837.php",
+      "publish_time": "2026-07-23T13:54:02+08:00",
+      "summary": "谷歌Pixel Watch 5预计8月12日发布，外观与Pixel Watch 4相同，搭载高通SW5100 SoC，CPU和GPU与前代一致。",
+      "recommendation": "常规资讯，可了解行业动态。虽未涉及影像规格，但SW5100 SoC的ISP性能将影响Pixel Watch 5的拍照与视频处理能力，值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel Watch 5's key specs revealed via Google Play Console listing"
+    },
+    {
+      "id": "recvqbBwnsMgV9",
+      "title": "为什么腾龙比你想象的强大得多",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/23/why-tamron-is-a-far-more-powerful-company-than-you-think/",
+      "publish_time": "2026-07-23T12:00:00+08:00",
+      "summary": "作者作为L卡口联盟用户，认为其满足静态摄影需求，提供更好自动对焦、实时合成、LUT支持、多重曝光RAW等，且不会通过卡口互相制约，参与品牌包括徕卡、适马、松下。",
+      "recommendation": "从L卡口联盟用户视角，揭示腾龙在自动对焦、实时合成、LUT支持等静态摄影优势，打破卡口制约迷思，提供独特行业洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Tamron is a Far More Powerful Company Than You Think"
+    },
     {
       "id": "recvqalYZ2XqjL",
       "title": "Oppo Find X10系列正对标iPhone 17 Pro进行测试，真机谍照曝光",
@@ -7696,112 +7803,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Canon still sells 600,000 DSLRs a year! \"As long as there are still customers, we would like to continue to offer our products\""
-    },
-    {
-      "id": "recvpdV9kXUeW1",
-      "title": "佳能每年仍售出60万台单反相机！“只要还有客户，我们希望继续提供产品”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/canon-still-sells-600-000-dslrs-a-year-as-long-as-there-are-still-customers-we-would-like-to-continue-to-offer-our-products",
-      "publish_time": "2026-07-11T14:15:00+08:00",
-      "summary": "佳能每年仍售出超60万台单反相机，表示只要还有客户就继续提供产品，单反相机不会消失。",
-      "recommendation": "佳能年销60万台单反的独家数据，揭示单反市场韧性。对关注行业趋势的爱好者，提供产品生命周期与用户需求的深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon still sells 600,000 DSLR cameras a year! \"As long as there are still customers, we would like to continue to offer our products\""
-    },
-    {
-      "id": "recvp28G9pT43F",
-      "title": "联想在视频中展示Legion Y700终极游戏平板",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/lenovo_shows_the_legion_y700_ultimate_gaming_tablet_in_a_video-news-73679.php",
-      "publish_time": "2026-07-11T11:41:02+08:00",
-      "summary": "联想预告Legion Y700终极游戏平板，支持5G、双卡双待，配备物理SIM和eSIM，设计更新，完整公告8月发布。",
-      "recommendation": "平板影像非核心卖点，但支持5G双卡双待对移动创作有实用价值，可关注其完整公告是否涉及相机规格。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Lenovo shows the Legion Y700 Ultimate gaming tablet in a video"
-    },
-    {
-      "id": "recvp28yl71FPk",
-      "title": "苹果起诉OpenAI，指控前员工窃取机密硬件商业机密",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets/",
-      "publish_time": "2026-07-11T11:33:05+08:00",
-      "summary": "苹果起诉OpenAI及两名前员工，指控其窃取机密硬件商业机密以加速消费硬件计划。",
-      "recommendation": "苹果与OpenAI的商业机密纠纷，揭示消费电子硬件研发中的影像技术竞争内幕，提供行业动态与潜在技术方向参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Apple Sues OpenAI, Alleging Former Employees Stole Confidential Hardware Trade Secrets"
-    },
-    {
-      "id": "recvp28At4se7U",
-      "title": "FCC对多家公司处以罚款，称其将大疆技术引入美国",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/10/fcc-fines-multiple-companies-it-says-are-bringing-dji-tech-into-the-u-s/",
-      "publish_time": "2026-07-11T11:06:06+08:00",
-      "summary": "FCC对八家公司罚款，称其将大疆技术引入美国，涉嫌违反无线产品进口销售规定。",
-      "recommendation": "常规资讯，可了解行业动态。揭示FCC对大疆技术进口的监管行动，对关注无人机影像市场的爱好者有政策参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "FCC Fines Multiple Companies It Says Are Bringing DJI Tech into the U.S."
-    },
-    {
-      "id": "recvp28Cfk3fKO",
-      "title": "Meta移除使用Instagram公开帖子的AI图像生成功能，此前遭用户强烈反对",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/10/meta-removes-ai-image-generation-feature-that-used-public-instagram-posts-following-user-backlash/",
-      "publish_time": "2026-07-11T10:24:43+08:00",
-      "summary": "Meta因用户强烈反对，移除自动将公共Instagram帖子用于AI图像生成的默认设置功能。",
-      "recommendation": "常规资讯，可了解行业动态。揭示Meta因用户反对撤回AI训练数据政策，对关注隐私与AI生成内容的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meta Removes AI Image Generation Feature That Used Public Instagram Posts Following User Backlash"
-    },
-    {
-      "id": "recvp28I6TAZFd",
-      "title": "Tecno Camon 50 Ultra 印度发布日期公布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/tecno_camon_50_ultra_india_launch_date-news-73675.php",
-      "publish_time": "2026-07-11T09:23:02+08:00",
-      "summary": "Tecno Camon 50 Ultra将于7月17日在印度发布，定位为创作者和摄影爱好者设计，定价待公布。",
-      "recommendation": "关注Tecno Camon 50 Ultra印度发布，了解其针对创作者和摄影爱好者的影像定位，可提前获取定价与配置信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tecno Camon 50 Ultra's India launch date announced"
-    },
-    {
-      "id": "recvp28K7SpVo6",
-      "title": "改变一切的富士龙镜头——接下来是什么",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/the-fujinon-lens-that-changed-everything-and-whats-coming-next/",
-      "publish_time": "2026-07-11T04:57:53+08:00",
-      "summary": "富士龙XF 18-50mm f/1.4镜头重量仅为佳能一半，性能卓越，未来可能推出更多类似镜头，改变摄影格局。",
-      "recommendation": "对比佳能同规格镜头重量数据，揭示富士龙XF 18-50mm f/1.4的轻量化优势，并预测未来镜头路线，为追求便携高性能的摄影爱好者提供选购参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Fujinon Lens That Changed Everything — And What’s Coming Next"
     }
   ]
 }
