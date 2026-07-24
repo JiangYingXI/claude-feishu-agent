@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-24T12:00:10.509169+08:00",
+    "updated_at": "2026-07-24T17:12:04.109718+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 112
+      "count": 111
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,200 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 367
+      "count": 368
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 193
+      "count": 190
     }
   ],
   "articles": [
+    {
+      "id": "recvqhqiNHvllY",
+      "title": "Lava Virat V1和Virat V1 5G发布，售价低于15000卢比（约155美元）",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_virat_v1_virat_v1_5g_features_price_sale_date-news-73861.php",
+      "publish_time": "2026-07-24T16:15:02+08:00",
+      "summary": "Lava发布Virat V1和V1 5G，售价低于15000卢比，V1 5G搭载紫光展锐T8200处理器，4GB内存和64GB存储。",
+      "recommendation": "文章聚焦Lava Virat V1系列定价策略，虽未提及影像规格，但可从中窥探低端5G手机市场对影像配置的取舍，适合关注入门机影像趋势的读者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lava Virat V1 and Virat V1 5G arrive with sub-Rs.15,000 ($155) price tags"
+    },
+    {
+      "id": "recvqhqvePGob3",
+      "title": "尼康、索尼和适马当心！美科最新人像定焦头是专业级性价比之选",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/watch-out-nikon-sony-and-sigma-meikes-latest-portrait-prime-is-a-pro-level-bargain",
+      "publish_time": "2026-07-24T16:06:21+08:00",
+      "summary": "美科发布专业级人像定焦镜头，性价比极高，挑战尼康、索尼和适马，成为新选择。",
+      "recommendation": "美科新镜头以专业级人像定焦规格切入市场，提供光圈、MTF等关键数据对比，揭示其性价比优势，为预算有限的人像爱好者提供新选择。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Watch out Nikon, Sony and Sigma! Meike's latest portrait prime is a pro-level bargain"
+    },
+    {
+      "id": "recvqhqxS9sMiv",
+      "title": "发光“幽灵渔网”获摄影大奖，揭示红树林沼泽面临的日益威胁",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/luminous-ghost-net-wins-prestigious-photography-award-while-shedding-light-on-growing-threat-to-mangrove-swamps",
+      "publish_time": "2026-07-24T16:00:00+08:00",
+      "summary": "Gaurav Patil拍摄的紫外线下发光的废弃渔网缠绕红树林照片获2026年度红树林摄影师奖，凸显幽灵渔具对生态系统的威胁。",
+      "recommendation": "以获奖作品为引，揭示幽灵渔网对红树林的威胁，提供生态摄影的独特视角与环保议题深度，适合关注纪实影像的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Luminous \"ghost net\" wins prestigious photography award while shedding light on growing threat to mangrove swamps"
+    },
+    {
+      "id": "recvqhqA5ekIzp",
+      "title": "iKairos是一款可穿戴相机，承诺提供完全由AI生成的“有意义记忆”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/the-ikairos-is-a-wearable-camera-that-promises-meaningful-memories-that-are-all-ai-generated",
+      "publish_time": "2026-07-24T16:00:00+08:00",
+      "summary": "iKairos可穿戴相机用生成式AI自动创建每日日志，提供AI生成的“有意义记忆”",
+      "recommendation": "探讨AI生成记忆的伦理与实用性，提供可穿戴相机与计算摄影结合的新视角，适合关注AI影像趋势的爱好者。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The iKairos is a wearable camera that promises “meaningful memories” that are all AI-generated!"
+    },
+    {
+      "id": "recvqhqfUSd1CO",
+      "title": "7Artisans 预告将推出新款 MAX 镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/7artisans-is-teasing-the-launch-of-a-new-max-lens/",
+      "publish_time": "2026-07-24T15:58:43+08:00",
+      "summary": "七工匠预告新款MAX镜头，继135mm f/1.8 FE后第二款，主打超广角自动对焦，可捕捉星空，零等待快照。",
+      "recommendation": "七工匠MAX系列新增超广角自动对焦镜头，适合星空摄影爱好者关注，但缺乏具体参数与上市信息，属常规产品预告。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "7Artisans is teasing the launch of a new MAX lens"
+    },
+    {
+      "id": "recvqhqCQbtJ0h",
+      "title": "“我无权独自完成”，世界知名摄影师Sølve Sundsbø谈为何2027年倍耐力年历需要不止一种摄影声音",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/i-had-no-right-to-do-it-alone-says-world-renowned-photographer-solve-sundsbo-on-why-india-needed-more-than-one-photographic-voice-for-this-years-pirelli-calendar",
+      "publish_time": "2026-07-24T15:53:11+08:00",
+      "summary": "摄影师Sølve Sundsbø与Raghu Rai、Avani Rai合作拍摄2027年倍耐力年历，强调印度需要多元视角，而非单一声音。",
+      "recommendation": "从倍耐力年历合作案例，探讨摄影多元视角的必要性。文中Sundsbø对印度影像生态的观察，为理解跨文化创作提供独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"I had no right to do it alone,\" says world-renowned photographer Sølve Sundsbø on why India needed more than one photographic voice for the 2027 Pirelli Calendar"
+    },
+    {
+      "id": "recvqhqFrYesyz",
+      "title": "柯达热潮真实存在：柯达廉价数码相机占据亚马逊美日畅销榜前十近半壁江山",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-kodak-craze-is-real-kodaks-cheap-digicams-make-up-nearly-half-of-amazons-top-ten-best-sellers-in-both-japan-and-the-us",
+      "publish_time": "2026-07-24T15:37:22+08:00",
+      "summary": "柯达廉价数码相机在亚马逊美日畅销榜前十中占据约40%，显示其真实市场热潮。",
+      "recommendation": "提供柯达廉价相机在亚马逊美日畅销榜的具体占比数据，揭示非主流品牌的市场逆袭现象，对关注消费电子市场趋势的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Kodak craze is real. Kodak’s cheap digicams make up nearly half of Amazon’s top ten best-sellers – in both Japan and the US"
+    },
+    {
+      "id": "recvqhqqF3Nhjh",
+      "title": "需要充电？我们可以帮忙",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/24/modern-journalism-phoblographer-copy-3-copy-4-copy-5/",
+      "publish_time": "2026-07-24T15:00:00+08:00",
+      "summary": "Phoblographer提供Herbs and Kettle Chai Club折扣，2025年计划出版纸质杂志，不向大型相机制造商出售广告，呼吁读者每人捐1美元支持全年阅读。",
+      "recommendation": "揭示独立影像媒体生存困境，提供行业生态观察视角，含2025年纸质杂志计划等独家运营信息。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Need to Recharge? We Can Help"
+    },
+    {
+      "id": "recvqhqHNI9xeR",
+      "title": "当三双眼睛捕捉印度时，完成Raghu Rai的作品如同“踏入他的凝视”，2027年倍耐力年历摄影师Avani Rai解释道",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/while-3-pairs-of-eyes-captured-india-completing-raghu-rais-work-felt-like-stepping-into-his-gaze-explains-pirelli-calendar-2027-photographer-avani-rai",
+      "publish_time": "2026-07-24T14:00:00+08:00",
+      "summary": "摄影师Avani Rai完成父亲Raghu Rai为2027年倍耐力年历拍摄的印度主题作品，跨代合作捕捉多元面孔，如同踏入他的凝视",
+      "recommendation": "跨代摄影师合作完成倍耐力年历，揭示印度多元面孔的拍摄幕后，对理解肖像摄影的凝视与传承有独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "While 3 pairs of eyes captured India, completing Raghu Rai's work felt like \"stepping into his gaze,\" explains Pirelli Calendar 2027 photographer Avani Rai"
+    },
+    {
+      "id": "recvqhqodQADAA",
+      "title": "Foto Erhardt 周末大促",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/24/xxl-weekend-sale-at-foto-erhardt.aspx/",
+      "publish_time": "2026-07-24T13:50:12+08:00",
+      "summary": "Foto Erhardt 周末大促，使用代码 ZUBEHÖR20 享 20% 折扣，二手商品用 GEBRAUCHT10 享 10% 折扣，涵盖尼康、Viltrox 等品牌。",
+      "recommendation": "提供尼康、Viltrox等品牌折扣码，二手器材享10%优惠，适合近期有购买计划的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "XXL weekend sale at Foto Erhardt"
+    },
+    {
+      "id": "recvqhqlq01GCH",
+      "title": "你现在可以用自拍视频登录谷歌账户",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/you_can_now_log_into_your_google_account_with_a_selfie_video-news-73854.php",
+      "publish_time": "2026-07-24T13:10:02+08:00",
+      "summary": "谷歌推出自拍视频登录功能，用户录制初始视频后，可通过新自拍视频验证身份登录账户。",
+      "recommendation": "常规资讯，可了解行业动态。自拍视频登录涉及面部识别技术，对影像爱好者而言，可关注算法对自拍视频质量的要求与优化方向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "You can now log into your Google account with a selfie video"
+    },
+    {
+      "id": "recvqhqsTHdYZr",
+      "title": "这四种富士胶片配方专为有色人种打造",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/24/fujifilm-film-simulations-people-of-color/",
+      "publish_time": "2026-07-24T12:00:00+08:00",
+      "summary": "富士胶片推出四种专为有色人种设计的胶片模拟配方，摄影师可试用这些效果优化肤色表现。",
+      "recommendation": "针对有色人种肤色优化的富士胶片配方，提供具体参数与肤色表现对比，为肖像摄影者提供实用肤色调整参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These Four Fujifilm Recipes are Made for People of Color"
+    },
     {
       "id": "recvqga3FaHEeT",
       "title": "三星Galaxy S27和S27+或将配备新主摄像头",
@@ -7613,194 +7798,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Dear sources….what’s coming after the Sony FX5?"
-    },
-    {
-      "id": "recvpfjzMJPn3P",
-      "title": "奥林巴斯E-M10 Mark IV仍是初学者首选相机——搭配镜头仅售511英镑，绝对是入门级价格！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-olympus-e-m10-mark-iv-is-still-a-great-camera-for-beginners-and-at-gbp511-with-a-lens-is-certainly-an-entry-level-price",
-      "publish_time": "2026-07-13T16:15:54+08:00",
-      "summary": "奥林巴斯E-M10 Mark IV以511英镑的入门级价格，提供出色外观和紧凑尺寸，是初学者首选相机。",
-      "recommendation": "文章解析奥林巴斯E-M10 Mark IV以511英镑定价切入入门市场，强调其紧凑设计与成像平衡，对预算有限的初学者有明确选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Olympus E-M10 Mark IV is still a great camera for beginners –and at £511 with a lens is certainly an entry-level price!"
-    },
-    {
-      "id": "recvpfjCloCx2W",
-      "title": "你的佳能EOS相机有50多个自定义选项——我用这五个设置让足球照片更出色，同时节省电池电量和编辑时间",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/there-are-50-custom-options-on-your-canon-eos-camera-these-are-the-five-settings-i-use-to-make-my-soccer-photos-winners-saving-battery-power-and-editing-time",
-      "publish_time": "2026-07-13T15:38:18+08:00",
-      "summary": "佳能EOS相机有50多个自定义选项，通过五个设置优化足球摄影，提升照片质量并节省电池和编辑时间",
-      "recommendation": "针对佳能EOS相机50余项自定义功能，精选5项足球摄影优化设置，兼顾画质、续航与后期效率，提供可复用的实战技巧。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "There are 50+ custom options on your Canon EOS camera – these are the five settings I use to make my soccer photos winners, saving battery power and editing time"
-    },
-    {
-      "id": "recvpfjP26gaWS",
-      "title": "让小传感器图像看起来像来自大传感器",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/13/how-to-make-images-from-an-aps-c-or-four-thirds-sensor-look-like-full-frame-copy/",
-      "publish_time": "2026-07-13T15:00:00+08:00",
-      "summary": "文章通过对比不同画幅相机拍摄效果，强调光线和场景比传感器尺寸更重要，曝光法则是关键。",
-      "recommendation": "通过对比不同画幅，揭示光线与场景对画质的主导作用，曝光法则的深度解读对提升拍摄技巧有直接价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Make Small Sensor Images Look Like They’re From Bigger Sensors"
-    },
-    {
-      "id": "recvpfjHd0v4ta",
-      "title": "摩托罗拉Edge 70 Max上手视频在发布前流出",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/motorola_edge_70_max_handson_video_surfaces_ahead_of_launch-news-73686.php",
-      "publish_time": "2026-07-13T14:45:02+08:00",
-      "summary": "摩托罗拉Edge 70 Max在发布前两日曝光上手视频和官方渲染图，展示设计及配色，确认配备5000万像素索尼LYTIA主摄并支持光学防抖。",
-      "recommendation": "提前曝光Edge 70 Max的索尼LYTIA 5000万像素主摄及OIS配置，为关注中端手机影像的用户提供首发参数参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Motorola Edge 70 Max hands-on video surfaces ahead of launch"
-    },
-    {
-      "id": "recvpfjEGH1TF2",
-      "title": "佳能下一款APS-C相机是EOS R10 Mark II而非EOS R7 Mark II？",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/is-the-eos-r10-mark-ii-and-not-the-eos-r7-mark-ii-the-next-aps-c-camera-from-canon/",
-      "publish_time": "2026-07-13T14:37:54+08:00",
-      "summary": "佳能EOS R7 Mark II推迟至2027年上半年发布，而EOS R10 Mark II可能先于其推出，具体时间待定。",
-      "recommendation": "佳能APS-C相机路线图更新，揭示EOS R10 Mark II可能先于R7 Mark II发布，对关注佳能中端机型更新节奏的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is the EOS R10 Mark II and not the EOS R7 Mark II the Next APS-C Camera from Canon?"
-    },
-    {
-      "id": "recvpfjJDnprzt",
-      "title": "Insta360 X6 泄露：更小设计及定价曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/insta360_x6_leak_reveals_smaller_design_pricing-news-73685.php",
-      "publish_time": "2026-07-13T13:05:02+08:00",
-      "summary": "Insta360 X6泄露显示更紧凑设计，前后鱼眼镜头，欧洲定价曝光，即将发布。",
-      "recommendation": "曝光Insta360 X6更紧凑设计与欧洲定价，提供鱼眼镜头参数，为全景相机爱好者带来新品前瞻。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360 X6 leak reveals smaller design, pricing"
-    },
-    {
-      "id": "recvpdVe8PTQ2n",
-      "title": "半年前，我重新用回了单反。我不后悔",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/13/half-a-year-ago-i-went-back-to-dslrs-i-dont-regret-it/",
-      "publish_time": "2026-07-13T12:00:00+08:00",
-      "summary": "作者在索尼a7r VI发布日反思，尽管新相机有更大取景器、高像素、优质镜头等优点，但仍不满足需求，半年前因厌倦而购入尼康D850，不后悔重拾单反。",
-      "recommendation": "从索尼a7r VI发布日切入，反思单反与微单的取舍，提供D850用户视角的深度体验，对纠结器材选择的爱好者有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Half a Year Ago, I Went Back to DSLRs. I Don’t Regret It"
-    },
-    {
-      "id": "recvpdUYEeXqTN",
-      "title": "谷歌Pixel 11 Pro Fold新松木色渲染图泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_fold_leaks_in_new_pine_shade-news-73684.php",
-      "publish_time": "2026-07-13T11:40:01+08:00",
-      "summary": "谷歌Pixel 11 Pro Fold松木色渲染图泄露，预计8月12日发布，展示浅绿色机身、浅金色边框及重新设计的后置摄像头模块。",
-      "recommendation": "泄露渲染图揭示了Pixel 11 Pro Fold松木色新配色及后摄模组设计，对关注折叠屏影像外观演变的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 11 Pro Fold leaks in new Pine shade"
-    },
-    {
-      "id": "recvpdV0TK2oEO",
-      "title": "当Oliver Klink拍摄欧洲正在消失的农村社区时，许多人直视镜头。有人可能认为这对纪实工作是个问题，但我认为这恰恰是成功的标志",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/when-oliver-klink-photographed-rural-europes-disappearing-communities-many-of-them-looked-straight-down-the-lens-some-might-see-that-as-a-problem-for-documentary-work-but-id-argue-its-actually-a-sign-of-success",
-      "publish_time": "2026-07-13T11:20:00+08:00",
-      "summary": "瑞士摄影师Oliver Klink的在线展览中，许多欧洲农村居民直视镜头，这种眼神交流被视为纪实摄影成功的标志。",
-      "recommendation": "探讨纪实摄影中眼神交流的独特价值，为影像爱好者提供构图与叙事的新视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "When Oliver Klink photographed rural Europe's disappearing communities, many of them looked straight down the lens. Some might see that as a problem for documentary work, but I'd argue it's actually a sign of success"
-    },
-    {
-      "id": "recvpdVgC2iAlJ",
-      "title": "尼康新闻周刊第894期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/12/weekly-nikon-news-flash-894.aspx/",
-      "publish_time": "2026-07-13T09:10:57+08:00",
-      "summary": "尼康Z卡口新镜头：SG-Image 35mm f/2.2 AF全画幅镜头亚马逊有货，唯卓仕26mm f/2.8 EVO薄饼镜头7月15日发布。",
-      "recommendation": "涵盖尼康Z卡口两款新镜头动态，含SG-Image 35mm f/2.2 AF在售信息及唯卓仕26mm f/2.8 EVO发布节点，为副厂镜头选择提供时效性参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #894"
-    },
-    {
-      "id": "recvpdV3k36B6T",
-      "title": "一只山羊与加沙：徕卡奖项入围名单凸显摄影比赛最大挑战之一",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-goat-versus-gaza-leicas-award-shortlist-highlights-one-of-the-biggest-challenges-in-photography-contests",
-      "publish_time": "2026-07-13T08:10:00+08:00",
-      "summary": "徕卡2026年奖项入围名单将战争与山羊照片并列，凸显摄影比赛评判标准挑战，引发对摄影本质的思考",
-      "recommendation": "从战争与山羊的并列入围，探讨摄影比赛评判标准困境，引发对影像本质的思考，适合关注摄影伦理与美学的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A goat versus Gaza: Leica's award shortlist highlights one of the biggest challenges in photography contests"
-    },
-    {
-      "id": "recvpdV5pfJaOo",
-      "title": "明基最新摄影显示器拥有惊人的色域覆盖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/monitors/benqs-latest-monitor-for-photographers-boasts-incredible-color-space-coverage",
-      "publish_time": "2026-07-13T06:15:03+08:00",
-      "summary": "明基最新摄影显示器色域覆盖惊人，但价格依然亲民。",
-      "recommendation": "本文披露明基新款摄影显示器的色域覆盖数据，为影像后期处理提供硬件参考，同时分析其定价策略，适合关注色彩管理的工作者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "BenQ's latest monitor for photographers boasts incredible color space coverage"
     }
   ]
 }
