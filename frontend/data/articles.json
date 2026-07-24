@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-24T04:03:09.370824+08:00",
+    "updated_at": "2026-07-24T12:00:10.509169+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 114
+      "count": 112
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 22
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,103 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 194
+      "count": 193
     }
   ],
   "articles": [
+    {
+      "id": "recvqga3FaHEeT",
+      "title": "三星Galaxy S27和S27+或将配备新主摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_and_s27_could_get_a_new_main_camera-news-73857.php",
+      "publish_time": "2026-07-24T11:40:02+08:00",
+      "summary": "三星Galaxy S27和S27+正在测试5000万像素索尼主摄像头，可能取代自产传感器，超广角仍为1200万像素。",
+      "recommendation": "独家披露三星S27系列可能换用索尼主摄，5000万像素传感器测试信息对关注旗舰手机影像硬件迭代的爱好者有直接参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 and S27+ could get a new main camera"
+    },
+    {
+      "id": "recvqga6sM9GVV",
+      "title": "荣耀与Arri下周将展示机器人手机，荣耀发布新Logo",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_and_arri_will_showcase_the_robot_phone_next_week_honor_unveils_a_new_logo-news-73850.php",
+      "publish_time": "2026-07-24T08:01:02+08:00",
+      "summary": "荣耀与阿莱将于7月28日举办影像技术发布会，推出搭载全栈式电影工作流的机器人手机，注重视频能力，已在世界杯和上海亮相",
+      "recommendation": "荣耀与Arri合作展示机器人手机，聚焦电影级视频工作流，提供行业跨界合作细节与视频能力实测信息，适合关注手机影像创新的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor and Arri will showcase the Robot Phone next week, Honor unveils a new logo"
+    },
+    {
+      "id": "recvqgabyRo66W",
+      "title": "这可能是视频存储和备份的终极解决方案",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/storage/this-could-be-the-ultimate-solution-for-video-storage-and-back-ups",
+      "publish_time": "2026-07-24T06:56:04+08:00",
+      "summary": "介绍一个可容纳8个硬盘、容量高达152TB的机箱，作为视频存储和备份的终极解决方案。",
+      "recommendation": "8盘位152TB存储方案，为高码率视频素材提供集中备份参考，含机箱容量与硬盘配置数据，适合大容量需求用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This could be the ultimate solution for video storage and back-ups"
+    },
+    {
+      "id": "recvqga91602RQ",
+      "title": "iPhone Ultra 再传延期，这次又推迟了",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_ultra_is_now_rumored_to_be_delayed_again-news-73853.php",
+      "publish_time": "2026-07-24T05:51:02+08:00",
+      "summary": "iPhone Ultra可能再次延期，最新传言称其或与iPhone 18 Pro系列在9月如期发布，但上市时间仍不确定。",
+      "recommendation": "iPhone Ultra延期传闻再起，本文梳理了最新时间线，对关注苹果旗舰影像系统的用户有参考价值，但缺乏独家数据或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iPhone Ultra is now rumored to be delayed, again"
+    },
+    {
+      "id": "recvqg9Ybkgi63",
+      "title": "为何索尼FX5是索尼有史以来最重要的电影摄影机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/23/why-the-sony-fx5-is-sonys-most-important-cinema-camera-ever/",
+      "publish_time": "2026-07-24T05:00:22+08:00",
+      "summary": "索尼FX5发布，开启FX系列新纪元，回应批评者要求，带来有意义改进，成为索尼史上最重要电影摄影机。",
+      "recommendation": "解析FX5如何回应批评者诉求，从传感器到机身设计的关键改进数据，揭示其开启FX系列新纪元的战略意义。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why the Sony FX5 Is Sony’s Most Important Cinema Camera Ever"
+    },
+    {
+      "id": "recvqga10JUlpX",
+      "title": "一位摄像师开发了一款免费应用，可告知何时安全擦除存储卡",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/23/a-videographer-built-a-free-app-that-tells-you-when-a-memory-card-is-safe-to-wipe/",
+      "publish_time": "2026-07-24T04:21:15+08:00",
+      "summary": "一款免费应用Stow帮助摄影师判断存储卡已备份且可安全擦除，以节省成本并保障数据安全。",
+      "recommendation": "免费应用Stow解决存储卡安全擦除痛点，提供备份确认功能，节省成本并保障数据安全，对多卡用户实用性强。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "A Videographer Built a Free App That Tells You When a Memory Card Is Safe to Wipe"
+    },
     {
       "id": "recvqedXyyD3OY",
       "title": "富士胶片更新最佳SD卡列表——这些是顶级品牌",
@@ -7708,101 +7801,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "BenQ's latest monitor for photographers boasts incredible color space coverage"
-    },
-    {
-      "id": "recvpdV7oAdKIK",
-      "title": "我让AI帮忙修复佳能照片打印机——结果出乎意料",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/printers/i-asked-ai-to-help-fix-my-canon-photo-printer-and-it-didnt-get-me-where-i-was-expecting",
-      "publish_time": "2026-07-13T05:20:00+08:00",
-      "summary": "时隔17年，作者请AI帮忙修复佳能大幅面打印机，体验有好处但手指弄脏，结果出乎意料。",
-      "recommendation": "17年佳能打印机修复实录，展示AI工具在影像设备维护中的实际应用与局限，提供真实操作体验与意外结果，对DIY爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I asked AI to help fix my Canon photo printer – and it didn't get me where I was expecting"
-    },
-    {
-      "id": "recvpdVbMbgk5S",
-      "title": "这就是我们所能得到的……在等待新的富士相机优惠到来之际",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/this-is-all-we-get-while-waiting-for-new-fujifilm-deals-to-drop/",
-      "publish_time": "2026-07-13T04:30:30+08:00",
-      "summary": "目前富士胶片仅四款XF镜头有优惠，如XF18mmF1.4节省150美元，其他产品暂无促销，等待新活动。",
-      "recommendation": "汇总富士XF镜头当前优惠信息，仅四款参与，为等待新促销的爱好者提供明确购买时机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Is All We Get… While Waiting for New Fujifilm Deals to Drop"
-    },
-    {
-      "id": "recvpbPPscEW3c",
-      "title": "老实说，我从没见过这样的照片：一位航拍摄影师如何将捕鱼场景变成艺术作品",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/ive-honestly-never-seen-a-photo-like-this-how-one-aerial-photographer-turned-a-fishing-scene-into-a-work-of-fine-art",
-      "publish_time": "2026-07-13T02:10:00+08:00",
-      "summary": "航拍摄影师通过俯拍将日常捕鱼场景转化为艺术品，展示独特视角下的渔网美学。",
-      "recommendation": "俯拍捕鱼场景的独特视角，揭示渔网几何美学与光影关系，为航拍爱好者提供构图灵感与创作方法论。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I've honestly never seen a photo like this: How one aerial photographer turned a fishing scene into a work of fine art"
-    },
-    {
-      "id": "recvpbPRDUTJgl",
-      "title": "松下或正在开发一款可伸缩镜筒的L卡口微距镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/panasonic-might-be-working-on-an-l-mount-macro-lens-with-a-collapsible-barrel",
-      "publish_time": "2026-07-13T01:35:15+08:00",
-      "summary": "松下申请专利，开发L卡口可伸缩镜筒微距镜头，实现紧凑设计的同时保持高画质微距拍摄能力。",
-      "recommendation": "L卡口微距镜头专利曝光，可伸缩镜筒设计兼顾紧凑与高画质，对微距爱好者有参考价值，但信息有限。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Panasonic might be working on an L mount macro lens with a collapsible barrel"
-    },
-    {
-      "id": "recvpbPTIHmufQ",
-      "title": "我是风光摄影师，上一代全画幅尼康Z7 II依然是实力派相机。何必多花钱？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/im-a-landscape-photographer-and-the-last-gen-full-frame-nikon-z7ii-is-still-a-tour-de-force-camera-why-pay-more",
-      "publish_time": "2026-07-12T23:20:00+08:00",
-      "summary": "风光摄影师无需顶级对焦和连拍，尼康Z7 II作为上一代全画幅相机，性价比高，无需多花钱",
-      "recommendation": "从风光摄影实际需求切入，对比Z7 II与新品差异，提供性价比选机思路，适合预算有限但追求高画质的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I’m a landscape photographer and the last-gen, full-frame Nikon Z7 II is still a tour de force camera. Why pay more?"
-    },
-    {
-      "id": "recvpbPW0RuD7N",
-      "title": "好奇：索尼FX5有IBIS…可以移除？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
-      "publish_time": "2026-07-12T22:19:19+08:00",
-      "summary": "索尼FX5内置IBIS，消息源称应要求可移除，IBIS通过电磁悬浮传感器工作，锁定状态机械刚性不足。",
-      "recommendation": "揭秘索尼FX5的IBIS可移除设计，电磁悬浮原理与机械刚性不足的独特信息，对视频拍摄稳定性有深度参考价值。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Curiosity: Sony FX5 has IBIS….you can remove?"
     }
   ]
 }
