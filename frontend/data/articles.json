@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-25T22:15:52.038537+08:00",
+    "updated_at": "2026-07-26T03:48:29.230989+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,15 +33,75 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 175
+      "count": 173
     }
   ],
   "articles": [
+    {
+      "id": "recvqpRscWq7db",
+      "title": "Today Nikon celebrates its 109th anniversary!",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/25/today-nikon-celebrates-its-109th-anniversary.aspx/",
+      "publish_time": "2026-07-26T02:28:14+08:00",
+      "summary": "Today, Nikon celebrates its 109th anniversary! On July 25, 1917, Nippon Kōgaku Kōgyō Kabushikigaisha",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Today Nikon celebrates its 109th anniversary!"
+    },
+    {
+      "id": "recvqpRoAg2sPf",
+      "title": "Long before Bill Brandt, this 1920s postcard salesman worked out how to photograph London after dark without a tripod. A reissued photobook reveals just how he did it",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/long-before-bill-brandt-this-1920s-postcard-salesman-worked-out-how-to-photograph-london-after-dark-without-a-tripod-a-reissued-photobook-reveals-just-how-he-did-it",
+      "publish_time": "2026-07-26T02:10:00+08:00",
+      "summary": "Back in 1924, Fred Judge ditched the tripod, built his own camera and leaned on lamp posts to solve ",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Long before Bill Brandt, this 1920s postcard salesman worked out how to photograph London after dark without a tripod. A reissued photobook reveals just how he did it"
+    },
+    {
+      "id": "recvqpRq0Qmw5O",
+      "title": "I've been photographing total solar eclipses for over 40 years – and this is what it was like chasing totality with a film camera back before the internet",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/ive-been-photographing-total-solar-eclipses-for-over-40-years-and-this-is-what-it-was-like-chasing-totality-with-a-film-camera-back-before-the-internet",
+      "publish_time": "2026-07-25T23:20:00+08:00",
+      "summary": "In the first of a three-part series, David S Young recalls what it was like to photograph a total so",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "I've been photographing total solar eclipses for over 40 years – and this is what it was like chasing totality with a film camera back before the internet"
+    },
+    {
+      "id": "recvqpRr2ZceIL",
+      "title": "vivo X300 E specs leak through carrier listing",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x300_e_specs_leak_through_carrier_listing-news-73878.php",
+      "publish_time": "2026-07-25T22:33:02+08:00",
+      "summary": "vivo is unveiling the X300 E next week and ahead of that the phone has been listed by China Telecom'",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo X300 E specs leak through carrier listing"
+    },
     {
       "id": "recvqovwb1mAUP",
       "title": "First Amendment Auditors are Taking Their Right to Film in Public to the Extreme",
@@ -7722,67 +7782,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Photographers Just Keep Buying Old Canon PowerShot Point-and-Shoot Cameras"
-    },
-    {
-      "id": "recvpmfmQPrFsF",
-      "title": "这项免费参赛的摄影比赛总奖金高达7万美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/14/this-free-to-enter-photo-competition-has-a-70000-total-prize-fund/",
-      "publish_time": "2026-07-14T21:51:23+08:00",
-      "summary": "一项免费参赛的摄影比赛总奖金高达7万美元，向全球征集展现健康体验与理解的影像作品。",
-      "recommendation": "7万美元总奖金的免费摄影比赛，为影像爱好者提供展示健康主题作品的国际平台，独特信息在于比赛免费且奖金丰厚。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This Free to Enter Photo Competition Has a $70,000 Total Prize Fund"
-    },
-    {
-      "id": "recvpmfMuyDA3M",
-      "title": "iQOO 16相机与电池细节曝光，Z12系列及Neo12将配备更大电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_16_neo12_z12_series_battery_capacity_tipped-news-73705.php",
-      "publish_time": "2026-07-14T21:00:02+08:00",
-      "summary": "iQOO 16预计9月发布，搭载2nm骁龙8 Elite Gen 6 Pro处理器，配备对称双扬声器和X轴线性马达。",
-      "recommendation": "iQOO 16搭载2nm骁龙8 Elite Gen 6 Pro处理器，虽未提及具体影像规格，但旗舰芯片升级可能带来计算摄影性能提升，适合关注手机影像性能趋势的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iQOO 16's camera and battery details tipped, Z12 series and Neo12 to pack bigger batteries"
-    },
-    {
-      "id": "recvpmg1Vr3aVv",
-      "title": "WANDRD 在 Kickstarter 上发布了未来的相机背带",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/14/wandrd-just-announced-the-camera-strap-of-the-future-on-kickstarter/",
-      "publish_time": "2026-07-14T21:00:00+08:00",
-      "summary": "WANDRD在Kickstarter发布新型相机背带系统，兼顾时尚与功能，满足摄影师需求。",
-      "recommendation": "WANDRD新背带系统兼顾时尚与功能，为摄影师提供实用选择。文章详述设计细节与Kickstarter众筹数据，可了解行业配件创新动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "WANDRD Just Announced the Camera Strap of the Future on Kickstarter"
-    },
-    {
-      "id": "recvpmfp80ZG8k",
-      "title": "这些摄影师是否离这只野生美洲狮太近了？",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/14/are-these-photographers-too-close-to-this-wild-puma/",
-      "publish_time": "2026-07-14T20:59:48+08:00",
-      "summary": "智利百内国家公园一只美洲狮穿过摄影师群体，引发争议，摄影师辩护称未干扰其自然行为",
-      "recommendation": "探讨野生动物摄影伦理边界，提供摄影师现场视角与行为准则分析，对生态摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Are These Photographers Too Close to This Wild Puma?"
     }
   ]
 }
