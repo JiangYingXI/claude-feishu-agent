@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-26T17:02:14.761851+08:00",
+    "updated_at": "2026-07-26T22:14:58.006780+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 104
+      "count": 103
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,142 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 33
+      "count": 34
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 382
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 168
+      "count": 170
     }
   ],
   "articles": [
+    {
+      "id": "recvqulLIkJfEA",
+      "title": "极端天气下拍摄野生动物20年的经验教训",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/26/lessons-from-20-years-photographing-wildlife-in-extreme-weather/",
+      "publish_time": "2026-07-26T22:00:33+08:00",
+      "summary": "极端天气下拍摄野生动物20年，最具价值的图像常在雪、泥、雨和风暴等恶劣条件下创作出来。",
+      "recommendation": "20年极端天气拍摄经验，揭示雪、泥、风暴中获取野生动物影像的实战技巧，对户外摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Lessons From 20 Years Photographing Wildlife in Extreme Weather"
+    },
+    {
+      "id": "recvqulVUCyKGa",
+      "title": "垃圾堆中垂死大象的催泪照片再获殊荣——但致命野生动物威胁的解决方案仍未找到",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/tear-jerking-photo-of-dying-elephant-in-a-garbage-dump-wins-another-award-but-the-solution-to-these-deadly-wildlife-threats-is-yet-to-be-found",
+      "publish_time": "2026-07-26T20:30:00+08:00",
+      "summary": "斯里兰卡垃圾场大象死亡照片再获国际奖项，但保护危机未解，仍持续夺走生命。",
+      "recommendation": "通过获奖照片解析野生动物摄影的伦理困境与纪实力量，提供斯里兰卡垃圾场大象危机的独家影像数据，适合关注摄影社会价值的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tear-jerking photo of dying elephant in a garbage dump wins another award – but the solution to these deadly wildlife threats is yet to be found"
+    },
+    {
+      "id": "recvqulQU7E5z5",
+      "title": "促销：Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8开启预购",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_preorders_for_the_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_are_a_go-news-73866.php",
+      "publish_time": "2026-07-26T20:22:02+08:00",
+      "summary": "三星发布Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8折叠屏手机及两款智能手表，已开启预购，8月初公开销售。",
+      "recommendation": "文章提供三星折叠屏新机预购信息，含Z Fold8系列影像规格，但缺乏独家数据或深度分析，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: pre-orders for the Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 are a go"
+    },
+    {
+      "id": "recvqulOj7cBUl",
+      "title": "摄影师捕捉到金星与国际空间站同框的罕见画面",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/26/photographer-captures-rare-shot-of-venus-and-the-iss-together-in-one-frame/",
+      "publish_time": "2026-07-26T19:00:15+08:00",
+      "summary": "摄影师AJ Smadi再次捕捉到金星与国际空间站同框的罕见画面，他是首位拍摄者",
+      "recommendation": "罕见天文摄影案例，展示长焦与追踪技术结合的可能性，提供拍摄参数与构图思路，对星空摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Captures Rare Shot of Venus and the ISS Together in One Frame"
+    },
+    {
+      "id": "recvqulG7gQczp",
+      "title": "Pixboom Spark – 4K 1000fps & 2K 1800fps E卡口相机评测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/pixboom-spark-4k-1000fps-2k-1800fps-e-mount-camera-review/",
+      "publish_time": "2026-07-26T18:46:56+08:00",
+      "summary": "Pixboom Spark E卡口相机预购价13999美元，支持4K 1000fps和2K 1800fps超高速拍摄，评测首发于sonyalpharumors",
+      "recommendation": "E卡口超高速相机实测，4K 1000fps与2K 1800fps参数罕见，提供慢动作拍摄极限数据与拆机细节，适合高速摄影爱好者参考。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Pixboom Spark – 4K 1000fps & 2K 1800fps E-mount camera review"
+    },
+    {
+      "id": "recvqum0QqbFoA",
+      "title": "你的相机正处在自动模式，只是你没意识到",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/26/your-camera-is-on-auto-mode-you-just-dont-realize-it/",
+      "publish_time": "2026-07-26T18:00:00+08:00",
+      "summary": "现代相机自动模式高效处理白平衡、对焦等设置，摄影师几乎无需手动调整，文章探讨如何改变这一现状。",
+      "recommendation": "揭示自动模式如何削弱摄影控制权，提供手动调整的实用策略，适合想突破自动依赖的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Your Camera is on Auto Mode. You Just Don’t Realize It"
+    },
+    {
+      "id": "recvqulYnSgcqX",
+      "title": "在日本相机占领世界之前，这款出色的德国设计曾统治全球",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/before-japanese-cameras-took-over-this-brilliant-german-design-ruled-the-world",
+      "publish_time": "2026-07-26T17:10:00+08:00",
+      "summary": "1930年代的德国相机公司曾统治全球，挺过二战轰炸，却未挺过和平时期，最终被日本相机取代。",
+      "recommendation": "回溯德国相机黄金时代，解析其技术优势与商业决策失误，揭示日本相机崛起的产业逻辑，适合想了解影像设备发展史的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Before Japanese cameras took over, this brilliant German design ruled the world"
+    },
+    {
+      "id": "recvqulTqwbjcG",
+      "title": "每周投票：你会购买Galaxy Z Fold8、Z Fold8 Ultra还是Z Flip8？",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_will_you_buy_a_galaxy_z_fold8_z_fold8_ultra_or_a_z_flip8-news-73847.php",
+      "publish_time": "2026-07-26T17:09:02+08:00",
+      "summary": "三星推出Galaxy Z Fold8宽屏折叠屏手机，认为折叠屏是未来，该机型将成全球覆盖最广的宽屏折叠屏，直至苹果推出类似产品。",
+      "recommendation": "文章聚焦三星折叠屏新机，虽未提及具体影像参数，但可从中预判折叠屏形态对手机摄影布局的影响，适合关注行业趋势的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly poll: Will you buy a Galaxy Z Fold8, Z Fold8 Ultra or a Z Flip8?"
+    },
     {
       "id": "recvqt5hzeaHT3",
       "title": "What to Know About the Classic Portrait Lens",
@@ -71,6 +193,22 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "7Artisans 10mm f/2.5 MAX FE autofocus lens s coming on July 28"
+    },
+    {
+      "id": "recvqulJ9oKW8X",
+      "title": "7Artisans 10mm f/2.5 MAX FE自动对焦镜头将于7月28日发布",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/7artisans-10mm-f-2-5-max-fe-autofocus-lens-s-coming-on-july-28/",
+      "publish_time": "2026-07-26T14:49:47+08:00",
+      "summary": "7Artisans将于7月28日发布10mm f/2.5 MAX FE自动对焦鱼眼镜头，拥有185°视角和MAX级光学性能，专为全画幅设计。",
+      "recommendation": "文章披露7Artisans 10mm f/2.5 MAX FE鱼眼镜头的185°超广视角与MAX级光学设计，为全画幅用户提供独特超广角选择，适合风光与创意摄影爱好者关注。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans 10mm f/2.5 MAX FE autofocus lens is coming on July 28"
     },
     {
       "id": "recvqt5fiEhoR3",
@@ -7640,144 +7778,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "The biggest change rumored for the Samsung Galaxy S27 Ultra may not be happening"
-    },
-    {
-      "id": "recvpnA5qKiz0L",
-      "title": "新品发布：WANDRD 推出全新磁吸相机背带",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/just-launched-new-magnetic-camera-straps-by-wandrd/",
-      "publish_time": "2026-07-15T02:16:35+08:00",
-      "summary": "WANDRD在Kickstarter推出新型磁性相机背带，具备创新磁吸功能，方便快速拆卸与安装，提升拍摄效率。",
-      "recommendation": "WANDRD磁吸背带创新设计提升拆装效率，适合街拍用户，但属常规产品资讯，无独家数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Just launched: New Magnetic Camera Straps By WANDRD"
-    },
-    {
-      "id": "recvpnA2ysphto",
-      "title": "WANDRD磁性相机背带登陆Kickstarter——未来的相机背带",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/wandrd-magnetic-camera-straps-on-kickstarter-the-camera-strap-of-the-future/",
-      "publish_time": "2026-07-15T02:08:37+08:00",
-      "summary": "WANDRD磁性相机背带在Kickstarter众筹，称其为未来背带，已筹约3万美元，首发于Fuji Rumors。",
-      "recommendation": "WANDRD磁性相机背带Kickstarter众筹数据（约3万美元）及首发渠道（Fuji Rumors）披露，为背带设计创新提供行业动态参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "WANDRD Magnetic Camera Straps on Kickstarter – The Camera Strap of the Future"
-    },
-    {
-      "id": "recvpnzE37w5wS",
-      "title": "Jimmy Chin：带更少的装备能让你成为更好的摄影师",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/jimmy-chin-says-bringing-less-gear-makes-you-a-better-photographer/",
-      "publish_time": "2026-07-15T01:46:21+08:00",
-      "summary": "冒险摄影师Jimmy Chin与佳能问答，分享通过减少装备来提升摄影创意的技巧，强调轻装上阵对捕捉独特视角的价值。",
-      "recommendation": "Jimmy Chin以实战经验揭示减负对摄影创意的提升，提供具体装备取舍技巧，适合追求轻量化与独特视角的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Jimmy Chin says bringing less gear makes you a better photographer"
-    },
-    {
-      "id": "recvpnzJC0xkAR",
-      "title": "Pixel Watch 5官方渲染图泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/pixel_watch_5_official_press_renders_have_leaked-news-73720.php",
-      "publish_time": "2026-07-15T01:40:02+08:00",
-      "summary": "Pixel Watch 5官方渲染图泄露，展示四种表壳饰面和两种尺寸选项，45mm深灰和黄铁矿色，预计8月12日亮相。",
-      "recommendation": "常规资讯，可了解行业动态。渲染图泄露未涉及影像规格，对关注手机摄影的用户参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pixel Watch 5 official press renders have leaked"
-    },
-    {
-      "id": "recvpnzMsjMoiy",
-      "title": "荣耀机器人手机关键规格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_robot_phones_key_specifications_leak-news-73710.php",
-      "publish_time": "2026-07-15T01:00:02+08:00",
-      "summary": "荣耀机器人手机关键规格泄露，将配备6.3-6.4英寸1.5K平面屏和骁龙8 Elite G处理器，预计下月发布。",
-      "recommendation": "泄露规格显示荣耀新机采用骁龙8 Elite G处理器，影像处理能力值得关注，但未提及相机具体配置，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Honor Robot Phone's key specifications leak"
-    },
-    {
-      "id": "recvpnAaEuOoS0",
-      "title": "尼康，请把日本限定周边带到全球！",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/14/nikon-please-bring-your-japan-only-merch-to-the-rest-of-the-world.aspx/",
-      "publish_time": "2026-07-15T00:48:45+08:00",
-      "summary": "尼康日本直营店推出限量版镜头手巾、Zf杯架等周边，呼吁全球销售，原文首发Nikon Rumors",
-      "recommendation": "揭示尼康日本限定周边的稀缺性与粉丝呼声，为影像爱好者提供品牌文化洞察与收藏参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon, please bring your Japan-only merch to the rest of the world!"
-    },
-    {
-      "id": "recvpnzvn6aVIk",
-      "title": "官方指南：如何避免女性运动员的性化拍摄角度",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/14/official-guide-outlines-how-to-avoid-sexual-camera-angles-of-women-athletes/",
-      "publish_time": "2026-07-15T00:44:30+08:00",
-      "summary": "欧洲广播联盟发布官方指南，指导如何避免性化镜头角度，以尊重方式展示女性运动员。",
-      "recommendation": "欧洲广播联盟的官方指南为影像创作者提供了拍摄女性运动员的伦理框架，避免性化角度，对体育摄影爱好者有实际参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Official Guide Outlines How to Avoid Sexual Camera Angles of Women Athletes"
-    },
-    {
-      "id": "recvpnzyugbkY2",
-      "title": "Wandrd 推出精巧的磁性相机背带系统",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/14/wandrd-announces-nifty-magnetic-camera-strap-system/",
-      "publish_time": "2026-07-15T00:00:00+08:00",
-      "summary": "Wandrd推出磁性相机背带系统，实现快速安装拆卸与牢固连接，今日在Kickstarter亮相。",
-      "recommendation": "Wandrd磁性背带系统主打快速拆装与牢固连接，对追求便携与效率的摄影爱好者有实用参考价值，但属常规产品资讯，可了解行业创新动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Wandrd Announces Nifty Magnetic Camera Strap System"
-    },
-    {
-      "id": "recvpnzRMhTZLe",
-      "title": "利用磁吸设计，Wandrd新款相机背带系统单手即可从手腕切换至颈挂",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/using-magnets-wandrds-new-camera-strap-system-switches-from-wrist-to-your-neck-with-just-one-hand",
-      "publish_time": "2026-07-15T00:00:00+08:00",
-      "summary": "Wandrd新款相机背带系统采用磁性双锁扣设计，实现单手快速从手腕切换至颈挂，提升便捷性。",
-      "recommendation": "磁吸双锁扣设计实现单手切换腕带与颈挂，提升户外拍摄便捷性，对追求快速响应的影像爱好者有实用参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Using magnets, Wandrd’s new camera strap system switches from wrist to your neck with just one hand"
     }
   ]
 }
