@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-26T03:48:29.230989+08:00",
+    "updated_at": "2026-07-26T12:11:25.856426+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 106
+      "count": 104
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,95 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 378
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 173
+      "count": 171
     }
   ],
   "articles": [
+    {
+      "id": "recvqrU4oULqqH",
+      "title": "Does This New Canon Patent Point to an New 45mm Variant?",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/26/does-this-new-canon-patent-point-to-an-new-45mm-variant/",
+      "publish_time": "2026-07-26T12:00:00+08:00",
+      "summary": "Canon has some of the best lenses in the world. The company has iconic models such as 50mm f0.95, FD",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Does This New Canon Patent Point to an New 45mm Variant?"
+    },
+    {
+      "id": "recvqrTZiQRhtv",
+      "title": "Shutter+ packs in advanced tools that most native camera apps don’t offer – and now one app works across Sony, Canon and Fujifilm",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/apps/shutter-packs-in-advanced-tools-that-most-native-camera-apps-dont-offer-and-now-one-app-works-across-sony-canon-and-fujifilm",
+      "publish_time": "2026-07-26T08:25:00+08:00",
+      "summary": "Shutter+ has added a waveform monitor to its list of advanced features compatible with Sony, Canon, ",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Shutter+ packs in advanced tools that most native camera apps don’t offer – and now one app works across Sony, Canon and Fujifilm"
+    },
+    {
+      "id": "recvqrU0QCrj65",
+      "title": "This gorgeous photo of a polar bear bounding across the ice offers a masterclass in deciding whether to shoot in color or black-and-white",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/this-gorgeous-photo-of-a-polar-bear-bounding-across-the-ice-offers-a-masterclass-in-deciding-whether-to-shoot-in-color-or-black-and-white",
+      "publish_time": "2026-07-26T05:20:00+08:00",
+      "summary": "Sue Flood and Ian Dawson's new exhibition, Midnight Sun, follows a logic that every photographer sho",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This gorgeous photo of a polar bear bounding across the ice offers a masterclass in deciding whether to shoot in color or black-and-white"
+    },
+    {
+      "id": "recvqrU3elCDwi",
+      "title": "Meike Plans More Autofocus Lenses for Fujifilm GFX as 85mm f/1.8 Demand Exceeds Expectations",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/meike-plans-more-autofocus-lenses-for-fujifilm-gfx-as-85mm-f-1-8-demand-exceeds-expectations/",
+      "publish_time": "2026-07-26T04:31:09+08:00",
+      "summary": "The Shanghai Photo and Imaging Expo is in full swing, and some of the Chinese photo bloggers are the",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meike Plans More Autofocus Lenses for Fujifilm GFX as 85mm f/1.8 Demand Exceeds Expectations"
+    },
+    {
+      "id": "recvqrU26vJ2Jf",
+      "title": "Deals: Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 go on pre-order",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_go_on_preorder-news-73864.php",
+      "publish_time": "2026-07-26T04:31:02+08:00",
+      "summary": "This week, Samsung unveiled its next generation foldables, which included the first wide foldable fo",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 go on pre-order"
+    },
     {
       "id": "recvqpRscWq7db",
       "title": "Today Nikon celebrates its 109th anniversary!",
@@ -7704,84 +7779,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Even DJI camera lookalikes are under threat in the US, as the FCC investigates several companies over borrowed tech"
-    },
-    {
-      "id": "recvpnzXgHtbp0",
-      "title": "获奖摄影师都曾从零开始——7月值得参加的10个摄影比赛",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/award-winning-photographers-all-started-somewhere-these-are-the-10-photo-contests-to-enter-this-july",
-      "publish_time": "2026-07-14T23:27:27+08:00",
-      "summary": "获奖摄影师从零开始，7月有10个国际摄影比赛欢迎所有水平摄影师投稿，期待你的作品。",
-      "recommendation": "为摄影爱好者梳理7月10个国际比赛投稿机会，涵盖各水平层次，提供从零开始的参赛路径参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Award-winning photographers all started somewhere – these are the 10 photo contests to enter this July"
-    },
-    {
-      "id": "recvpnA7Yrtxqb",
-      "title": "索尼FX5欧洲售价5399欧元？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-fx5-to-cost-close-to-e5500-in-europe/",
-      "publish_time": "2026-07-14T22:59:33+08:00",
-      "summary": "索尼FX5欧洲传闻售价5399或5499欧元，外置EVF约700-800欧元，相比FX3上市价4699欧元有所上涨。",
-      "recommendation": "曝光FX5欧洲售价及EVF配件价格，对比FX3上市价揭示涨价趋势，为视频创作者提供购机预算参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony FX5 to costs €5,399 in Europe?"
-    },
-    {
-      "id": "recvpnzZJb9B6J",
-      "title": "顶级定焦镜头不便宜——但“我们见过最好的尼康Z镜头之一”直降332英镑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/top-quality-primes-are-not-cheap-but-one-of-the-finest-nikon-z-lenses-weve-ever-seen-just-dropped-by-gbp332",
-      "publish_time": "2026-07-14T22:23:27+08:00",
-      "summary": "尼康Z MC 105mm f/2.8 VR S镜头降价332英镑，适合野生动物、人像、风景和微距摄影，是顶级定焦镜头之一。",
-      "recommendation": "尼康Z 105mm f/2.8 VR S降价332英镑，提供微距与多题材拍摄价值，含具体价格变动数据，适合关注高端定焦镜头性价比的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Top-quality primes are not cheap – but \"one of the finest Nikon Z lenses we've ever seen\" just dropped by £332"
-    },
-    {
-      "id": "recvpmfynuy5sq",
-      "title": "Viltrox 远摄和广角转换镜头适用于富士 X100VI 评测：非原厂镜头值得吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/viltrox-tele-and-wide-converter-lens-for-fujifilm-x100vi-review-can-going-off-brand-pay-off",
-      "publish_time": "2026-07-14T22:00:00+08:00",
-      "summary": "Viltrox远摄和广角转换镜头适配富士X100VI，评测其性价比与光学质量，探讨非原厂镜头是否值得购买。",
-      "recommendation": "实测对比原厂与Viltrox转换镜的锐度、畸变与紫边控制，提供非原厂镜头的性价比量化数据，为X100VI用户拓展焦段提供决策参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Viltrox Tele and Wide Converter Lens for Fujifilm X100VI review: Can going off-brand pay off?"
-    },
-    {
-      "id": "recvpmfk7JMfGy",
-      "title": "摄影师们仍在疯狂购入老款佳能PowerShot卡片机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/14/photographers-just-keep-buying-old-canon-powershot-point-and-shoot-cameras/",
-      "publish_time": "2026-07-14T21:52:49+08:00",
-      "summary": "索尼a7 V重回Map Camera销售榜首，此前短暂停滞，但摄影师仍热衷老款佳能PowerShot卡片机。",
-      "recommendation": "解析老款佳能PowerShot卡片机逆势走红现象，结合索尼a7 V销售数据对比，揭示复古卡片机在计算摄影时代的独特价值与市场逻辑。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographers Just Keep Buying Old Canon PowerShot Point-and-Shoot Cameras"
     }
   ]
 }
