@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-26T22:14:58.006780+08:00",
+    "updated_at": "2026-07-27T03:49:35.618848+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 103
+      "count": 101
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,127 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 380
+      "count": 379
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 170
+      "count": 171
     }
   ],
   "articles": [
+    {
+      "id": "recvqvIdo46P9E",
+      "title": "富士胶片将于9月涨价——这些相机型号受影响",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-is-raising-prices-in-september-heres-every-camera-affected/",
+      "publish_time": "2026-07-27T02:20:31+08:00",
+      "summary": "富士胶片因半导体成本上升，将于9月1日在多国提价，德国已公布受影响设备清单，包括多款相机型号。",
+      "recommendation": "提供富士胶片9月涨价的具体机型清单与德国地区价格变动，对计划购机的影像爱好者有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm Is Raising Prices in September — Here’s Every Camera Affected"
+    },
+    {
+      "id": "recvqvI8BPmzJo",
+      "title": "首次在零下北极栖息地拍摄到发光鱿鱼",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/underwater-photography/this-glow-in-the-dark-squid-was-captured-on-camera-in-sub-zero-arctic-habitat-for-the-first-time-ever",
+      "publish_time": "2026-07-27T02:15:00+08:00",
+      "summary": "北极短尾鱿鱼在格陵兰零下海域首次被野外拍摄，其生物发光用于躲避捕食者",
+      "recommendation": "极地生物发光摄影案例，展示超低光环境拍摄技巧与生物发光光谱特性，对弱光摄影爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This glow-in-the-dark squid was captured on camera in sub-zero Arctic habitat for the first time ever"
+    },
+    {
+      "id": "recvqvI3CNG4av",
+      "title": "Peak Design创新L型支架已众筹50万美元",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/peak-designs-innovative-new-l-bracket-has-already-raised-half-a-million-dollars/",
+      "publish_time": "2026-07-27T01:35:41+08:00",
+      "summary": "Peak Design在Kickstarter上为创新L型支架筹集近50万美元，展示其工作原理，同时Wandrd推出新磁吸相机背带。",
+      "recommendation": "Peak Design L型支架众筹数据及工作原理详解，Wandrd磁吸背带对比，为摄影配件选购提供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Peak Design’s innovative new L-Bracket has already raised half a million dollars."
+    },
+    {
+      "id": "recvqvI0K6XI7Y",
+      "title": "尼康取消DL系列相机的疯狂故事：为何值得再续一章",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/26/the-insane-story-of-nikons-cancelled-dl-compact-cameras-and-why-it-deserves-another-chapter/",
+      "publish_time": "2026-07-27T00:00:01+08:00",
+      "summary": "2016年尼康发布DL系列高端1英寸紧凑型相机，但最终未上市，文章回顾其取消原因与核心价值",
+      "recommendation": "回顾尼康DL系列取消内幕，剖析1英寸高端紧凑相机市场困境，对理解厂商决策与产品策略有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Insane Story of Nikon’s Cancelled DL Compact Cameras and Why it Deserves Another Chapter"
+    },
+    {
+      "id": "recvqvIg1tSH2p",
+      "title": "富士胶片镜头系统出色——但自动对焦拖后腿了吗？",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilms-lens-system-is-superb-but-is-its-autofocus-holding-it-back/",
+      "publish_time": "2026-07-26T23:58:33+08:00",
+      "summary": "综述富士龙X镜头及第三方自动对焦镜头，包括平价选项和XF 500mm F5.6镜头，探讨自动对焦性能是否影响系统优势。",
+      "recommendation": "综述富士龙及第三方自动对焦镜头，含XF 500mm F5.6等平价选项，探讨自动对焦性能对系统优势的影响，提供镜头选购参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm’s Lens System Is Superb — But Is Its Autofocus Holding It Back?"
+    },
+    {
+      "id": "recvqvI6mGK4tx",
+      "title": "三星Galaxy Z Fold8和Z Fold8 Ultra发布，第30周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_z_fold8_ultra_launch_week_30_in_review-news-73882.php",
+      "publish_time": "2026-07-26T23:37:02+08:00",
+      "summary": "三星发布2026年折叠屏Z Fold8和Z Fold8 Ultra，前者4:3比例主打媒体消费，后者保留高屏占比、升级摄像头和电池，均搭载骁龙8 Elite Gen 5，已开启预购。",
+      "recommendation": "解析Z Fold8 Ultra摄像头升级与电池改进，提供骁龙8 Elite Gen 5影像性能数据，适合关注折叠屏影像突破的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8 and Z Fold8 Ultra launch, Week 30 in review"
+    },
+    {
+      "id": "recvqvIaQk3MO3",
+      "title": "这个新哥特主题展览教会摄影师如何让平凡事物显得不安",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/this-new-gothic-themed-exhibition-has-a-lot-to-teach-photographers-about-making-the-ordinary-feel-unsettling",
+      "publish_time": "2026-07-26T23:20:00+08:00",
+      "summary": "《黑暗故事》展通过马丁·帕尔等作品，展示纪实摄影如何让日常事物呈现哥特式不安，无需刻意制造恐怖。",
+      "recommendation": "解析马丁·帕尔等大师如何用纪实手法赋予日常事物哥特式不安，为摄影爱好者提供独特的叙事视角与创作灵感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This new gothic-themed exhibition has a lot to teach photographers about making the ordinary feel unsettling"
+    },
     {
       "id": "recvqulLIkJfEA",
       "title": "极端天气下拍摄野生动物20年的经验教训",
@@ -7668,116 +7775,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Tamron 12-20mm f/2.8 Is Wholly Redesigned and Promises G Master Quality"
-    },
-    {
-      "id": "recvpqIqLI1IKB",
-      "title": "Flashpoint XPLOR 400 Pro II 闪光灯——不容错过的升级",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/15/flashpoint-xplor-400-pro-ii-strobe-an-unmissable-upgrade/",
-      "publish_time": "2026-07-15T12:00:00+08:00",
-      "summary": "Flashpoint XPLOR 400 Pro II闪光灯升级版，保持价格实惠可靠，提供400Ws功率、高速同步和锂电池，提升离机照明性能。",
-      "recommendation": "解析XPLOR 400 Pro II升级细节，涵盖400Ws功率、高速同步与锂电池改进，为离机闪光提供实用数据，适合追求性价比的布光爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Flashpoint XPLOR 400 Pro II Strobe – An Unmissable Upgrade"
-    },
-    {
-      "id": "recvppuNxFV7l1",
-      "title": "版权局将在120天内将照片登记费用提高55%",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/14/copyright-office-will-increase-photo-registration-cost-by-55-in-120-days/",
-      "publish_time": "2026-07-15T07:11:06+08:00",
-      "summary": "美国版权局计划120天内将照片组注册费从55美元提高至85美元，涨幅55%，除非国会干预。",
-      "recommendation": "版权登记费上涨直接影响摄影师成本，文章提供具体涨幅数据与时间节点，对关注版权保护的影像从业者有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Copyright Office Will Increase Photo Registration Cost by 55% in 120 Days"
-    },
-    {
-      "id": "recvppuQmq18eP",
-      "title": "华为Pura 90s Pro上手体验：双机中更紧凑的选择",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/huawei_pura_90s_pro_handson-news-73723.php",
-      "publish_time": "2026-07-15T04:30:02+08:00",
-      "summary": "华为发布Pura 90s Pro和Pro Max，Pro采用紧凑设计，最小妥协，主要区别在显示屏尺寸，Pro Max提供顶级功能。",
-      "recommendation": "对比Pro与Pro Max的显示屏尺寸差异，提供紧凑设计下影像系统的最小妥协方案，适合追求便携与性能平衡的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Huawei Pura 90s Pro hands-on: a look at the more compact option in the duo"
-    },
-    {
-      "id": "recvppuTaMeUux",
-      "title": "腾龙12-20mm f/2.8 FE镜头最新泄露图",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/last-minute-leaked-image-of-the-new-tamron-12-20mm-f-2-8-fe-lens/",
-      "publish_time": "2026-07-15T04:00:34+08:00",
-      "summary": "腾龙12-20mm f/2.8 FE镜头首张安装于索尼相机的泄露图曝光，镜头紧凑，即将发布。",
-      "recommendation": "首张装索尼机身的泄露图曝光，展示镜头紧凑设计，提供光圈与焦段数据，适合关注超广角变焦的爱好者了解新品动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Last minute leaked image of the new Tamron 12-20mm f/2.8 FE lens"
-    },
-    {
-      "id": "recvpnzPbDL0Pa",
-      "title": "我曾认为数码相机只是短暂潮流，但三年后，“烂相机”反而更受欢迎了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-wrote-off-the-digicam-as-a-temporary-trend-but-three-years-later-crappy-cameras-have-only-become-more-popular",
-      "publish_time": "2026-07-15T03:15:38+08:00",
-      "summary": "2022-2023年起低像素数码相机重新流行，至今热度不减，其复古风格和独特成像效果成为核心吸引力。",
-      "recommendation": "解析低像素数码相机逆袭现象，提供2022-2023年流行趋势数据，揭示复古成像美学背后的用户心理与市场逻辑。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I wrote off the digicam as a temporary trend, but three years later, \"crappy cameras\" have only become more popular"
-    },
-    {
-      "id": "recvpnAfSqtOOH",
-      "title": "十多年前发布的最佳第三方人像镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/14/the-best-third-party-portrait-lens-launched-over-a-decade-ago/",
-      "publish_time": "2026-07-15T03:00:00+08:00",
-      "summary": "十多年前发布的奥林巴斯45mm f/1.8镜头，至今仍是M4/3画幅最佳人像镜头，轻便且画质出色。",
-      "recommendation": "回顾十年前的奥林巴斯45mm f/1.8，揭示其至今仍是M4/3人像镜皇的轻便与画质优势，为系统用户提供经典镜头选购参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Third-Party Portrait Lens Launched Over a Decade Ago"
-    },
-    {
-      "id": "recvpnzGNzxCcY",
-      "title": "三星Galaxy S27 Ultra传闻中的最大变化可能不会发生",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_biggest_change_rumored_for_the_samsung_galaxy_s27_ultra_may_not_be_happening-news-73722.php",
-      "publish_time": "2026-07-15T02:40:02+08:00",
-      "summary": "三星Galaxy S27 Ultra传闻中的后盖重新设计及磁吸无线充电可能不会发生，新传闻称三星尚未确定该设计",
-      "recommendation": "文章澄清了S27 Ultra后盖与磁吸充电传闻的不确定性，对关注三星影像旗舰设计趋势的用户有参考价值，但缺乏独家数据或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The biggest change rumored for the Samsung Galaxy S27 Ultra may not be happening"
     }
   ]
 }
