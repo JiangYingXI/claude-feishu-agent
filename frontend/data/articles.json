@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-27T23:33:00.746209+08:00",
+    "updated_at": "2026-07-28T04:11:27.150859+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 90
+      "count": 89
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,199 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 376
+      "count": 377
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 177
+      "count": 175
     }
   ],
   "articles": [
+    {
+      "id": "recvqBEcM0q6d2",
+      "title": "富士X-T6规格大泄露？——真相在此！",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-specs-mega-leak-here-is-the-truth/",
+      "publish_time": "2026-07-28T03:49:34+08:00",
+      "summary": "文章澄清富士X-T6泄露规格传闻，列出4000万像素传感器、8档防抖等参数，指出真相源自Fuji Rumors。",
+      "recommendation": "澄清X-T6传闻，列出4000万像素传感器、8档防抖等具体参数，源自Fuji Rumors，为关注富士新机的用户提供准确信息。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm X-T6 Specs Mega Leak? – Here is the Truth!"
+    },
+    {
+      "id": "recvqBEfofo96u",
+      "title": "我拍摄了一卷售价5000美元的稀有胶片",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/27/i-shot-a-rare-film-emulsion-that-sold-for-5000/",
+      "publish_time": "2026-07-28T03:00:00+08:00",
+      "summary": "作者回忆十年前购买并评测宝丽来180胶片相机，该相机从纽约Nippon Photo Clinic经营者处购得，翻新后功能完好，伴随作者多次旅行，现售价5000美元。",
+      "recommendation": "通过5000美元宝丽来180相机十年使用回顾，揭示稀有胶片相机的市场价值与收藏逻辑，提供独特的产品洞察与摄影美学思考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I Shot a Rare Film Emulsion That Sold for $5,000"
+    },
+    {
+      "id": "recvqBDRWWDMT3",
+      "title": "阿梅莉亚·埃尔哈特的飞机还是椰子树？新探险寻求真相",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/27/amelia-earharts-airplane-or-a-coconut-tree-new-expedition-seeks-the-truth/",
+      "publish_time": "2026-07-28T01:57:59+08:00",
+      "summary": "阿梅莉亚·埃尔哈特失踪89年后，新探险队将用声纳和无人机在太平洋海底搜寻其飞机残骸，以解开航空史上最大谜团。",
+      "recommendation": "声纳与无人机水下搜寻技术解析，展示消费级影像设备在深海探测中的实际应用案例，非传统摄影题材但具技术参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Amelia Earhart’s Airplane or a Coconut Tree? New Expedition Seeks the Truth"
+    },
+    {
+      "id": "recvqBDUxqZJZB",
+      "title": "法国禁止15岁以下儿童使用社交媒体，欧盟首例",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/27/france-bans-social-media-for-kids-under-15-a-first-for-europe/",
+      "publish_time": "2026-07-28T01:15:46+08:00",
+      "summary": "法国成为欧盟首个禁止15岁以下儿童使用社交媒体的国家，旨在保护未成年人网络安全。",
+      "recommendation": "常规资讯，可了解行业动态。虽非影像领域直接相关，但社交媒体限制可能影响影像内容分享与传播生态，对关注内容分发的影像爱好者有间接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "France Bans Social Media for Kids Under 15, a First for the EU"
+    },
+    {
+      "id": "recvqBDWNpRqUO",
+      "title": "2027年倍耐力年历将全部由印度女性出演",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/27/the-2027-pirelli-calendar-will-feature-an-all-indian-cast-of-women/",
+      "publish_time": "2026-07-28T01:01:54+08:00",
+      "summary": "2027年倍耐力年历全部由印度女性出演，致敬著名摄影师拉古·拉伊的遗产",
+      "recommendation": "从影像美学角度解析倍耐力年历的印度女性主题，探讨文化叙事与摄影遗产的融合，适合关注人文摄影的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 2027 Pirelli Calendar Will Feature an All-Indian Cast of Women"
+    },
+    {
+      "id": "recvqBE8gIWdGQ",
+      "title": "2027年摄影与视频展：你需要知道的一切",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/trade-shows/the-photography-and-video-show-2027-everything-you-need-to-know",
+      "publish_time": "2026-07-28T00:34:48+08:00",
+      "summary": "2027年摄影与视频展将于3月13日至17日在伦敦ExCel展览中心举办，为期四天，展示最新摄影与摄像技术。",
+      "recommendation": "展会时间地点与参展品牌信息明确，适合计划前往的影像爱好者获取最新器材动态，但缺乏独家展品爆料或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Photography & Video Show 2027: everything you need to know"
+    },
+    {
+      "id": "recvqBDZcnv0TW",
+      "title": "捷克总统出席F1赛事…以摄影师身份",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/27/czech-president-attends-f1-race-as-a-photographer/",
+      "publish_time": "2026-07-28T00:23:57+08:00",
+      "summary": "捷克总统彼得·帕维尔以摄影师身份出席F1赛事，展现其不同于特朗普打高尔夫的独特休闲爱好。",
+      "recommendation": "从国家元首的摄影爱好切入，揭示F1赛事中摄影师视角的独特拍摄技巧与设备选择，提供跨界影像灵感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Czech President Attends F1 Race… as a Photographer"
+    },
+    {
+      "id": "recvqBEapSJZW9",
+      "title": "佳能将再次增加紧凑型相机产量——但创纪录的销量并非仅归功于PowerShot",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/canon-will-increase-compact-camera-production-again-but-the-powershot-isnt-the-only-camera-to-blame-for-record-sales",
+      "publish_time": "2026-07-28T00:23:55+08:00",
+      "summary": "佳能因创纪录销量再次提高紧凑型相机产量，但病毒式传播的PowerShot并非唯一原因。",
+      "recommendation": "解析佳能紧凑相机增产背后逻辑，揭示PowerShot并非唯一推手，提供行业销量数据与市场趋势洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon will increase compact camera production (again)  – but the PowerShot isn't the only camera to blame for record sales"
+    },
+    {
+      "id": "recvqBE1G9WX12",
+      "title": "著名设计师打造的独一无二徕卡原型机即将上市",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/27/one-of-a-kind-leica-lens-prototype-designed-to-be-auctioned/",
+      "publish_time": "2026-07-28T00:19:49+08:00",
+      "summary": "乔纳森·艾维与马克·纽森设计的徕卡原型机将于十月拍卖，融合独特工艺与摄影史价值",
+      "recommendation": "解析乔纳森·艾维与纽森联名设计的徕卡原型机，融合工业设计史与拍卖数据，揭示限量工艺对摄影收藏市场的独特价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "One-of-a-Kind Leica Prototype Made by Famed Designers to Hit the Market"
+    },
+    {
+      "id": "recvqBE3VwOVbO",
+      "title": "美国大学开设‘内容创作’专业，培养社交媒体网红",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/27/us-college-has-content-creation-major-for-aspiring-social-media-influencers/",
+      "publish_time": "2026-07-28T00:09:24+08:00",
+      "summary": "亚利桑那州立大学开设内容创作学士学位，培养社交媒体网红，为有志成为影响者的人提供专业教育。",
+      "recommendation": "揭示影像创作从兴趣走向职业化趋势，为内容创作者提供教育路径参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "US College Has ‘Content Creation’ Major for Aspiring Social Media Influencers"
+    },
+    {
+      "id": "recvqBEhNB4gZh",
+      "title": "艺术爱好者寻找真实性的地方",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/27/announcing-the-5-boro-foto-fest-a-place-where-art-lovers-meet-real-photographers-copy/",
+      "publish_time": "2026-07-28T00:00:00+08:00",
+      "summary": "Phoblographer宣布举办五区摄影节，旨在为艺术爱好者提供与真实摄影师面对面交流的空间，拒绝算法和AI，强调真实性与创意。",
+      "recommendation": "聚焦摄影节如何对抗算法与AI，为影像爱好者提供回归真实性的交流场景，引发对创意本质的深度思考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Place for Art Lovers to Find Authenticity"
+    },
+    {
+      "id": "recvqBE69boPb6",
+      "title": "两款备受期待的镜头，各为摄影师带来独特承诺",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/27/two-lens-teasers-each-promise-something-special-for-photographers/",
+      "publish_time": "2026-07-27T23:45:37+08:00",
+      "summary": "两家中国镜头公司预告新款镜头：7Artisans超广角全画幅定焦，SG-image快速标准定焦用于APS-C画幅",
+      "recommendation": "国产镜头双线发力：7Artisans超广角全画幅定焦与SG-image APS-C标准定焦，提供传感器规格与光圈数据，适合关注副厂镜头性价比的摄影用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Two Teased Lenses Each Promise Something Special for Photographers"
+    },
     {
       "id": "recvqAvsNfCqlx",
       "title": "救护人员因关闭未经同意拍摄患者的摄像头被解雇后提起诉讼",
@@ -7581,192 +7765,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Google Pixel 11 teaser video confirms Pixel Glow feature, pre-order date"
-    },
-    {
-      "id": "recvpwy33AqgaJ",
-      "title": "2026年的佳能EOS R：3000万像素还够用吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/16/canon-eos-r-2026-worth-buying/",
-      "publish_time": "2026-07-16T12:00:00+08:00",
-      "summary": "2018年底佳能发布首款无反相机EOS R，探讨2026年3000万像素是否仍够用，分析技术发展对摄影需求的影响。",
-      "recommendation": "文章从2026年视角回看EOS R的3000万像素，结合传感器技术演进与摄影需求变化，提供前瞻性分析，适合关注相机长期价值的用户。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Canon EOS R in 2026: Are 30-Megapixels Still Enough?"
-    },
-    {
-      "id": "recvpvlYzPQrdb",
-      "title": "摄影师Kristi Odom如何通过相机与野生动物建立联系",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/15/how-photographer-kristi-odom-connects-to-wildlife-through-her-camera/",
-      "publish_time": "2026-07-16T04:59:27+08:00",
-      "summary": "摄影师Kristi Odom在PetaPixel播客中分享野生动物摄影经验，强调从自然中学习能提升摄影创造力。",
-      "recommendation": "从自然中学习提升摄影创造力，Kristi Odom分享野生动物摄影经验，提供独特视角与实用技巧，适合追求摄影美学突破的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How Photographer Kristi Odom Connects to Wildlife Through Her Camera"
-    },
-    {
-      "id": "recvpvm1O0mSDk",
-      "title": "NPPA对FAA拟议的无人机限制提出宪法关切",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/15/nppa-raises-constitutional-concerns-over-faas-proposed-drone-limits/",
-      "publish_time": "2026-07-16T04:39:39+08:00",
-      "summary": "NPPA对FAA拟议的无人机限制提出宪法关切，担忧其影响受第一修正案保护的新闻采集活动。",
-      "recommendation": "无人机航拍爱好者必读：文章从宪法第一修正案角度剖析FAA拟议限制，揭示政策对新闻采集与航拍创作的潜在影响，提供法律层面深度观点而非常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "NPPA Raises Constitutional Concerns Over FAA’s Proposed Drone Limits"
-    },
-    {
-      "id": "recvptotfJkQIV",
-      "title": "Lomography 新半格相机承诺“双倍乐趣，双倍照片”",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/15/lomographys-new-half-frame-camera-promises-double-the-fun-twice-the-photos/",
-      "publish_time": "2026-07-16T03:06:06+08:00",
-      "summary": "Lomography发布Simple Use半格胶片相机，经济版35mm相机，双倍照片乐趣。",
-      "recommendation": "半格相机回归，Lomography以经济版Simple Use提供双倍拍摄量，适合胶片入门者体验独特构图乐趣。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Lomography’s New Half Frame Camera Promises ‘Double the Fun, Twice the Photos’"
-    },
-    {
-      "id": "recvptoGwTDp3h",
-      "title": "三星Galaxy Z Fold8和Galaxy Z Fold8 Ultra完整规格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_galaxy_z_fold8_ultra_full_specs_leak-news-73738.php",
-      "publish_time": "2026-07-16T03:00:02+08:00",
-      "summary": "三星Galaxy Z Fold8和Ultra版规格泄露，Fold8配备7.6英寸主屏和5.5英寸副屏，旨在与iPhone Ultra竞争。",
-      "recommendation": "泄露规格含Fold8主摄参数，对比Ultra版影像差异，为折叠屏拍照选择提供数据参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra full specs leak"
-    },
-    {
-      "id": "recvptoVYAWHnE",
-      "title": "新Lomography半格相机有一个奇怪的功能",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/15/the-new-lomography-half-frame-camera-has-a-strange-feature/",
-      "publish_time": "2026-07-16T03:00:00+08:00",
-      "summary": "Lomography推出半格简易可重复装片胶片相机，延续宾得17和柯达Ektar H35的成功，但新功能有些奇怪。",
-      "recommendation": "解析Lomography半格相机奇怪功能的设计逻辑，对比宾得17与柯达Ektar H35，提供胶片爱好者选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The New Lomography Half-Frame Camera Has a Strange Feature"
-    },
-    {
-      "id": "recvptowaI8lBo",
-      "title": "加拿大野火期间火车内部视角的恐怖画面",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/15/terrifying-footage-shows-views-from-inside-a-train-during-canadian-wildfires/",
-      "publish_time": "2026-07-16T01:50:05+08:00",
-      "summary": "加拿大安大略省北部野火期间，火车内拍摄的视频显示车厢被大火吞噬，画面恐怖。",
-      "recommendation": "极端环境下的实拍案例，展示手机/相机在低光、烟雾中的动态范围与白平衡表现，对理解恶劣条件影像处理有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Terrifying Footage Shows Views From Inside a Train During Canadian Wildfires"
-    },
-    {
-      "id": "recvptoLMriQ7L",
-      "title": "这些野生动物摄影师打破了规则，放过他们为动物福利树立了危险先例——但你同意吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/these-wildlife-photographers-broke-the-rules-and-letting-them-off-sets-a-dangerous-precedent-for-animal-welfare-but-do-you-agree",
-      "publish_time": "2026-07-16T01:00:00+08:00",
-      "summary": "智利摄影师近距离拍摄野生美洲狮引发争议，文章探讨无视规则是否会导致不道德野生动物摄影的滑坡。",
-      "recommendation": "探讨野生动物摄影伦理边界，揭示规则与动物福利的冲突，为影像爱好者提供创作反思与行业争议深度视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These wildlife photographers broke the rules, and letting them off sets a dangerous precedent for animal welfare – but do you agree?"
-    },
-    {
-      "id": "recvptp1ieedck",
-      "title": "Bobby Tonelli：腾龙可能刚刚制造了目前市场上最好的超广角变焦镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-tamron-12-20mm-f-2-8-fe-lens-reviews/",
-      "publish_time": "2026-07-16T00:28:03+08:00",
-      "summary": "Bobby Tonelli称腾龙12-20mm超广角变焦镜头可能是目前市场上最好的，该镜头可在多家电商预购。",
-      "recommendation": "Bobby Tonelli从实战角度剖析腾龙12-20mm，提供超广角变焦的实拍对比与光学性能数据，为选购提供关键参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Bobby Tonelli: Tamron might have just created the best ultra-wide zoom lens currently available on the market."
-    },
-    {
-      "id": "recvptoOiNjoy2",
-      "title": "我的怪异肖像创作技巧，让你的人物照片看起来像毕加索的画",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/my-technique-for-creating-bizarre-portraits-will-have-your-people-pics-looking-like-a-picasso",
-      "publish_time": "2026-07-16T00:24:53+08:00",
-      "summary": "用拼贴身体部位的方法创作肖像，模仿毕加索风格，释放创意，让照片像立体派画作。",
-      "recommendation": "用拼贴手法模仿毕加索立体派风格，提供具体创作步骤与构图思路，适合想突破常规人像的摄影爱好者，内容新颖但无独家数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "My technique for creating bizarre portraits will have your people pics looking like a Picasso"
-    },
-    {
-      "id": "recvptoQQhyaNF",
-      "title": "美国版权局今秋或将大幅提高摄影师费用——但订阅选项尚未排除",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/the-us-copyright-office-could-drastically-increase-fees-for-photographers-this-fall-but-a-subscription-option-isnt-yet-off-the-table",
-      "publish_time": "2026-07-16T00:23:12+08:00",
-      "summary": "美国版权局拟将一组照片注册费从55美元提至85美元，订阅选项或保留",
-      "recommendation": "摄影师费用调整直接影响创作成本，文章提供注册费涨幅及订阅选项保留的独家动态，对关注美国市场版权政策的影像创作者有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The US Copyright Office could drastically increase fees for photographers this fall – but a subscription option isn’t yet off the table"
-    },
-    {
-      "id": "recvptoYLvhTQd",
-      "title": "我们正在对AI采取立场。加入我们",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/15/announcing-the-5-boro-foto-fest-a-place-where-art-lovers-meet-real-photographers-copy-3/",
-      "publish_time": "2026-07-16T00:00:00+08:00",
-      "summary": "我们举办5 Boro Foto Fest，为真实摄影师提供销售印刷艺术品的空间，反对算法和生成式AI，倡导行业可持续性。",
-      "recommendation": "5 Boro Foto Fest为真实摄影师提供实体销售平台，反对算法与生成式AI，倡导行业可持续性。影像爱好者可获取对抗AI替代的实践策略与社区支持。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "We’re Taking a Stand Against AI. Join Us"
     }
   ]
 }
