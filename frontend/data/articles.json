@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-27T03:49:35.618848+08:00",
+    "updated_at": "2026-07-27T12:28:37.585135+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 101
+      "count": 97
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 33
+      "count": 32
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,88 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 171
+      "count": 174
     }
   ],
   "articles": [
+    {
+      "id": "recvqxOVsbzr6x",
+      "title": "尼康Zf在2026年依然值得买吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/27/is-the-nikon-zf-still-good-in-2026/",
+      "publish_time": "2026-07-27T12:00:00+08:00",
+      "summary": "2026年尼康Zf仍值得买，性能优于佳能R3及部分高端相机，评测接近完成。",
+      "recommendation": "文章对比尼康Zf与佳能R3等机型，提供2026年性能评估，含接近完成的评测数据，适合关注全画幅复古机型的用户决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the Nikon Zf Still Good in 2026?"
+    },
+    {
+      "id": "recvqxOQhkalpn",
+      "title": "尼康新闻周刊 #896",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/26/weekly-nikon-news-flash-896.aspx/",
+      "publish_time": "2026-07-27T09:02:39+08:00",
+      "summary": "尼康新闻周刊报道Peak Design模块化L型支架筹款近50万美元，尼康500mm f/5.6E镜头降价1600美元，Atomos Ninja TX GO监视器售价240美元。",
+      "recommendation": "Peak Design支架众筹数据、尼康500mm f/5.6E大幅降价1600美元及Atomos监视器低价信息，为器材选购提供实时行情参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #896"
+    },
+    {
+      "id": "recvqxOL0OvHDX",
+      "title": "这架复古红牛飞机自1950年代后从未飞越美国——一位艺术家用二战轰炸机上的同款复古相机记录下了这次飞行",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-vintage-red-bull-airplane-hasnt-flown-over-the-us-since-the-1950s-so-an-artist-captured-the-flight-with-an-equally-vintage-camera-from-a-wwii-bomber",
+      "publish_time": "2026-07-27T08:10:00+08:00",
+      "summary": "一架1958年制造的红牛复古飞机首次飞越美国，艺术家用二战轰炸机同款相机记录飞行，展现历史与技术的交融。",
+      "recommendation": "用二战轰炸机同款相机拍摄红牛复古飞机首飞，呈现历史装备与现代技术的影像碰撞，对胶片与航空摄影爱好者有独特参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This vintage Red Bull airplane hasn’t flown over the US since the 1950s – so an artist captured the flight with an equally vintage camera from a WWII bomber"
+    },
+    {
+      "id": "recvqxOT2iYHKZ",
+      "title": "Meike 24mm f/1.4 MIX镜头评测：一款超值广角镜头，性能超越价格",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/26/meike-24mm-f-1-4-mix-lens-review-a-budget-wide-angle-that-punches-above-its-weight.aspx/",
+      "publish_time": "2026-07-27T07:52:58+08:00",
+      "summary": "Meike 24mm f/1.4 MIX镜头评测显示，这款预算广角镜头在光学性能上超越其价位，为摄影师提供了高性价比的定焦选择。",
+      "recommendation": "实测Meike 24mm f/1.4 MIX镜头，提供超越价位的锐度与畸变控制数据，为预算有限的广角定焦用户提供真实性能参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Meike 24mm f/1.4 MIX lens review: a budget wide-angle that punches above its weight"
+    },
+    {
+      "id": "recvqxONFkfV2l",
+      "title": "詹姆斯·拉维利厄斯与克里斯·查普曼：50年拍摄英格兰同一乡村的农场、婚礼和村礼堂，却从未视彼此为竞争对手",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/james-ravilious-and-chris-chapman-spent-50-years-photographing-farms-weddings-and-village-halls-in-the-same-corner-of-rural-england-yet-neither-ever-saw-the-other-as-competition",
+      "publish_time": "2026-07-27T05:20:00+08:00",
+      "summary": "两位摄影师50年拍摄同一英格兰乡村的农场、婚礼和村礼堂，作品凸显纪实摄影源于耐心、信任和坚守一处，而非竞争。",
+      "recommendation": "50年纪实摄影案例，揭示耐心与信任如何塑造影像深度，非竞争视角对爱好者的创作心态有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "James Ravilious and Chris Chapman spent 50 years photographing farms, weddings and village halls in the same corner of rural England – yet neither ever saw the other as competition"
+    },
     {
       "id": "recvqvIdo46P9E",
       "title": "富士胶片将于9月涨价——这些相机型号受影响",
@@ -7695,86 +7773,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Tamron 12-20mm f/2.8 Review: A Whole New Direction"
-    },
-    {
-      "id": "recvpqI6K0goDf",
-      "title": "腾龙变广角（外观也焕然一新）",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/tamron-12-20mm-f2p8-zoom-lens/",
-      "publish_time": "2026-07-15T12:01:00+08:00",
-      "summary": "腾龙12-20mm F2.8镜头采用全新设计语言并简化命名方式",
-      "recommendation": "解析腾龙12-20mm F2.8全新设计语言与命名简化，为超广角变焦用户提供外观与标识变化的实用参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tamron goes wide (and gets a new look, too)"
-    },
-    {
-      "id": "recvpqI93zY4yy",
-      "title": "腾龙12-20mm f/2.8评测：我拍摄了800多张照片，这款轻量级E卡口和Z卡口超广角镜头脱颖而出",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-12-20mm-f28-review",
-      "publish_time": "2026-07-15T12:01:00+08:00",
-      "summary": "腾龙12-20mm f/2.8镜头比索尼和尼康竞品更轻更便宜，实际测试中表现出色，拍摄800多张照片验证其性能。",
-      "recommendation": "800张实拍验证腾龙12-20mm f/2.8轻量超广角，对比索尼尼康竞品突出性价比与便携性，含独家样张与实测数据。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tamron 12-20mm f/2.8 review: I took more than 800 photos and this is what stands out for the new lightweight E-Mount and Z-Mount ultra-wide"
-    },
-    {
-      "id": "recvpqIbyRX339",
-      "title": "腾龙打破长期传统，推出全新轻量级12-20mm f/2.8镜头，支持E卡口和Z卡口——我对此兴奋不已",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-has-axed-a-long-standing-tradition-with-a-new-lightweight-12-20mm-f-2-8-for-e-mount-and-z-mount-and-i-couldnt-be-more-excited-about-it",
-      "publish_time": "2026-07-15T12:01:00+08:00",
-      "summary": "腾龙推出全新轻量级12-20mm f/2.8超广角变焦镜头，支持E卡口和Z卡口，价格竞争力强，标志其进入新时代",
-      "recommendation": "腾龙打破传统推出轻量12-20mm f/2.8镜头，支持E/Z卡口，价格竞争力强。文章提供具体焦段、光圈与卡口适配数据，对超广角变焦需求者具参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tamron has axed a long-standing tradition with a new lightweight 12-20mm f/2.8 for E-Mount and Z-Mount – and I couldn’t be more excited about it"
-    },
-    {
-      "id": "recvpqIoh6Y9OG",
-      "title": "腾龙12-20mm F2.8评测：令人惊叹的轻巧天文摄影镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/15/tamron-12-20mm-f2-8-review/",
-      "publish_time": "2026-07-15T12:01:00+08:00",
-      "summary": "腾龙12-20mm F2.8是近期最轻的超广角变焦镜头，代表全新设计语言，适合天文摄影。",
-      "recommendation": "文章提供腾龙12-20mm F2.8的实测数据与轻量化设计分析，对天文摄影爱好者有具体参考价值，含独特样张与光学表现解读。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tamron 12-20mm F2.8 Review: The Amazing Light and Nimble Astro Photography Lens"
-    },
-    {
-      "id": "recvpqI1Mxf66P",
-      "title": "腾龙12-20mm f/2.8完全重新设计，承诺G大师级画质",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/14/the-tamron-12-20mm-f-2-8-is-wholly-redesigned-and-promises-g-master-quality/",
-      "publish_time": "2026-07-15T12:00:40+08:00",
-      "summary": "腾龙发布12-20mm f/2.8超广角变焦镜头，全新设计支持尼康Z和索尼E卡口，定位G大师级画质，标志品牌转型",
-      "recommendation": "文章详解腾龙12-20mm f/2.8的重新设计细节，对比G大师级光学标准，提供卡口适配与画质表现数据，对超广角变焦用户有明确参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Tamron 12-20mm f/2.8 Is Wholly Redesigned and Promises G Master Quality"
     }
   ]
 }
