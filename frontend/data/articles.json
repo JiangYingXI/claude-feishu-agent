@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-28T04:11:27.150859+08:00",
+    "updated_at": "2026-07-28T11:54:02.000471+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 30
+      "count": 28
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 379
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,67 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvqDwK2Nz1A3",
+      "title": "尼康Z中的Z是否只是将字母N旋转90度？",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/27/is-the-z-in-nikon-z-just-the-letter-n-rotated-at-90-degrees.aspx/",
+      "publish_time": "2026-07-28T09:05:58+08:00",
+      "summary": "文章探讨尼康Z标志是否由字母N旋转90度而成，官方解释未提及，核心价值是引发对品牌标志设计的趣味思考",
+      "recommendation": "从品牌标志设计切入，探讨N与Z的旋转关系，为影像爱好者提供趣味性视角，虽无独家数据，但引发对尼康视觉符号的深度思考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Is the Z in Nikon Z just the letter N rotated at 90 degrees?"
+    },
+    {
+      "id": "recvqDwEZEdZRz",
+      "title": "三星Galaxy S27 Pro和S27 Ultra电池容量泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php",
+      "publish_time": "2026-07-28T07:31:02+08:00",
+      "summary": "三星Galaxy S27 Pro电池容量泄露，额定5087mAh，典型5200mAh，小机身配大电池令人印象深刻。",
+      "recommendation": "电池容量数据影响影像续航，5087mAh额定值暗示小机身续航提升，对移动拍摄场景有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak"
+    },
+    {
+      "id": "recvqDwC1OKuwG",
+      "title": "即将到来！七工匠预计将很快发布新款自动对焦鱼眼镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/incoming-7artisans-expected-to-announce-new-autofocus-fisheye-lens-imminently",
+      "publish_time": "2026-07-28T06:48:00+08:00",
+      "summary": "七工匠即将发布新款自动对焦鱼眼镜头，适用于全画幅索尼、尼康和L卡口相机。",
+      "recommendation": "七工匠自动对焦鱼眼镜头适配全画幅索尼、尼康、L卡口，为广角摄影提供新选择。文章透露发布在即，但缺乏具体参数与定价，属常规资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Incoming! 7Artisans expected to announce new autofocus fisheye lens imminently"
+    },
+    {
+      "id": "recvqDwHt40DXM",
+      "title": "谷歌将允许你的Pixel手机解锁Pixel Watch",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_will_let_your_pixel_phone_unlock_your_pixel_watch-news-73894.php",
+      "publish_time": "2026-07-28T04:01:02+08:00",
+      "summary": "谷歌正开发反向解锁功能，Pixel手机解锁时自动解锁配对的Pixel Watch，可能仅限Pixel设备使用。",
+      "recommendation": "常规资讯，可了解行业动态。对影像爱好者无直接价值，但体现谷歌生态整合趋势，间接影响Pixel手机影像体验的便捷性。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google will let your Pixel phone unlock your Pixel Watch"
+    },
     {
       "id": "recvqBEcM0q6d2",
       "title": "富士X-T6规格大泄露？——真相在此！",
@@ -7704,67 +7765,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "This Nikon Z9 Photo From Lunar Orbit Reveals New Secrets About the Sun"
-    },
-    {
-      "id": "recvpwy0wfkFWT",
-      "title": "我们的复古数字预设是最值得购买的产品之一",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/16/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-4/",
-      "publish_time": "2026-07-16T15:00:00+08:00",
-      "summary": "复古数码预设价格实惠，适用于Lightroom和Capture One，能提升影棚和自然光下的街头、风景、人像等图像效果。",
-      "recommendation": "解析复古数码预设的实用价值，提供Lightroom与Capture One适配方案，含影棚与自然光场景的调色参数对比，对追求胶片感的用户有直接参考意义。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Our Retro Digital Presets are One of Our Best Buys"
-    },
-    {
-      "id": "recvpwxSINXwji",
-      "title": "Redmi Note 17 Pro 拆解视频展示手机内部结构",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmi_note_17_pro_teardown_video_shows_off_the_phones_internals-news-73740.php",
-      "publish_time": "2026-07-16T14:30:02+08:00",
-      "summary": "Redmi Note 17 Pro拆解视频展示内部结构，需移除后盖，视频中文讲解，YouTube字幕可翻译。",
-      "recommendation": "拆解视频展示Redmi Note 17 Pro内部结构，可观察影像模组布局与散热设计，对了解中端机影像硬件堆叠有参考价值。",
-      "categories": [
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Redmi Note 17 Pro teardown video shows off the phone's internals"
-    },
-    {
-      "id": "recvpwxY0cWeuM",
-      "title": "唯卓仕26mm f/2.8 FE饼干镜头评测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-viltrox-26mm-f-2-8-fe-pancake-lens-reviews/",
-      "publish_time": "2026-07-16T14:23:35+08:00",
-      "summary": "唯卓仕26mm f/2.8 FE饼干镜头评测，该镜头现已开放预购，文章首发于sonyalpharumors，提供核心参数与性能分析。",
-      "recommendation": "文章提供唯卓仕26mm f/2.8饼干镜头的核心参数与预购信息，适合关注便携定焦镜头的用户了解其规格与性能定位。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Viltrox 26mm f/2.8 FE pancake lens reviews"
-    },
-    {
-      "id": "recvpwxVxh0Bpc",
-      "title": "Google Pixel 11 预告视频确认 Pixel Glow 功能及预购日期",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_teaser_video_confirms_pixel_glow_feature_preorder_date-news-73741.php",
-      "publish_time": "2026-07-16T12:00:01+08:00",
-      "summary": "谷歌确认Pixel 11系列将于8月12日发布，预告视频展示Pixel Glow功能，即全色域圆形LED通知灯。",
-      "recommendation": "Pixel Glow通知灯功能细节及8月12日预购日期确认，为关注谷歌手机影像的用户提供关键产品信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 11 teaser video confirms Pixel Glow feature, pre-order date"
     }
   ]
 }
