@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-28T17:26:37.700881+08:00",
+    "updated_at": "2026-07-28T23:06:54.055667+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 28
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 89
+      "count": 95
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,258 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 24
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 28
+      "count": 29
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 381
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 174
+      "count": 176
     }
   ],
   "articles": [
+    {
+      "id": "recvqGfG1Rgw4E",
+      "title": "这些全画幅单反传奇依然提供专业级画质，但价格仅为发布时的零头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/these-full-frame-dslr-legends-still-deliver-pro-level-results-but-for-a-fraction-of-the-cameras-launch-prices",
+      "publish_time": "2026-07-28T22:46:22+08:00",
+      "summary": "佳能尼康旗舰全画幅单反大幅降价，仍提供专业级画质，价格仅为发布时零头",
+      "recommendation": "提供全画幅单反降价后的性价比分析，含具体机型价格对比与画质评估，适合预算有限但追求专业画质的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These full-frame DSLR legends still deliver pro-level results, but for a fraction of the cameras' launch prices"
+    },
+    {
+      "id": "recvqGfIFSUG0W",
+      "title": "从大萧条到日裔美国人拘禁，多萝西娅·兰格的相机见证了美国历史上一些最黑暗的时刻",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/from-the-great-depression-to-japanese-american-internment-dorothea-langes-camera-bore-witness-to-some-of-the-darkest-moments-in-us-history",
+      "publish_time": "2026-07-28T22:42:05+08:00",
+      "summary": "多萝西娅·兰格回顾展纪念这位20世纪最具道德紧迫感的摄影师，其相机记录了大萧条和日裔美国人拘禁等美国历史黑暗时刻。",
+      "recommendation": "通过兰格相机见证大萧条与日裔拘禁史，解析纪实摄影的社会伦理与视觉叙事，对理解摄影的公共价值有独特启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "From the Great Depression to Japanese-American internment, Dorothea Lange's camera bore witness to some of the darkest moments in US history"
+    },
+    {
+      "id": "recvqGfLjwp92C",
+      "title": "Mission 1 Pro是有史以来最好的GoPro。但对于陷入困境的运动相机巨头来说，这可能还不够，因为它收到了第二次股市警告",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-mission-1-pro-is-the-best-gopro-yet-it-may-not-be-enough-as-struggling-action-camera-giant-gets-second-stock-market-warning",
+      "publish_time": "2026-07-28T22:06:16+08:00",
+      "summary": "GoPro推出史上最佳运动相机Mission 1 Pro，但股价持续低迷，面临第二次退市警告，若未回升可能退市甚至破产",
+      "recommendation": "文章揭示GoPro最佳产品Mission 1 Pro与股价危机的矛盾，提供运动相机行业困境的深度视角，对关注品牌动向的影像爱好者有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Mission 1 Pro is the best GoPro yet. It may not be enough as struggling action camera giant gets second stock market warning"
+    },
+    {
+      "id": "recvqGfxFU5MkC",
+      "title": "确认：索尼下周8月4日发布新品！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/confirmed-new-sony-announcement-next-week-on-august-4/",
+      "publish_time": "2026-07-28T21:53:07+08:00",
+      "summary": "索尼确认8月4日发布新品，包括100-400mm f/5.6-8.0 FE镜头，售价899欧元，轻量化黑色设计，其他产品待定。",
+      "recommendation": "索尼100-400mm f/5.6-8.0 FE镜头定价899欧元，轻量化设计是亮点，适合长焦需求用户。常规新品预告，可关注后续规格细节。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Confirmed: New Sony announcement next week on August 4!"
+    },
+    {
+      "id": "recvqGfDmftS4E",
+      "title": "2026年那些奇怪的相机告诉我们什么关于行业",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/what-the-strange-cameras-of-2026-tell-us-about-the-industry/",
+      "publish_time": "2026-07-28T21:00:00+08:00",
+      "summary": "2026年发布的相机虽少，但每款都揭示市场趋势，如高像素、AI对焦和视频性能提升，反映行业向专业化与智能化演进。",
+      "recommendation": "通过2026年少量相机新品，解析高像素、AI对焦与视频性能三大趋势，提供行业专业化与智能化演进的深度观点，适合关注市场动向的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What the strange cameras of 2026 tell us about the industry"
+    },
+    {
+      "id": "recvqGg5ISCAyx",
+      "title": "佳能计划将政府退税转化为客户折扣的内幕",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/28/inside-the-reported-canon-plan-to-turn-a-government-refund-into-customer-discounts/",
+      "publish_time": "2026-07-28T21:00:00+08:00",
+      "summary": "佳能作为相机市场最赚钱公司之一，市场份额最大，利润有望再次上升，财务报告显示情况向好。",
+      "recommendation": "解析佳能如何将政府退税转化为客户折扣，揭示相机巨头利润策略与市场动态，对关注价格趋势的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Inside The Reported Canon Plan to Turn a Government Refund Into Customer Discounts"
+    },
+    {
+      "id": "recvqGfNLpSU8R",
+      "title": "“最佳照片能立即抓住观众注意力，具有冲击力并引发情感共鸣”——著名摄影师Ken Crossan分享获奖自然摄影技巧",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/the-best-images-immediately-capture-the-viewers-attention-have-impact-and-elicit-an-emotional-response-renowned-photographer-ken-crossan-shares-tips-for-award-winning-nature-shots",
+      "publish_time": "2026-07-28T20:54:38+08:00",
+      "summary": "著名自然摄影师Ken Crossan分享获奖技巧，强调照片需立即抓住观众注意力，具有冲击力并引发情感共鸣。",
+      "recommendation": "Ken Crossan从获奖者视角拆解自然摄影的注意力法则与情感触发点，提供可操作的构图与光影技巧，对提升作品冲击力有直接指导价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“The best images immediately capture the viewer’s attention, have impact and elicit an emotional response” – Renowned photographer Ken Crossan shares tips for award-winning nature shots"
+    },
+    {
+      "id": "recvqGg3kyEFqL",
+      "title": "荣耀在发布前详细介绍了Robot Phone的摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_details_robot_phone_cameras_ahead_of_launch-news-73905.php",
+      "publish_time": "2026-07-28T20:42:02+08:00",
+      "summary": "荣耀在发布前详细介绍Robot Phone摄像头，与阿莱合作实现原生Log-C3视频编码、LUT色彩分级及电影模式，拥有超100项专利。",
+      "recommendation": "荣耀与阿莱合作实现原生Log-C3视频编码及LUT色彩分级，超100项专利细节揭示手机电影级影像技术突破，适合关注计算摄影与移动视频创作的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Honor details Robot Phone cameras ahead of launch"
+    },
+    {
+      "id": "recvqGfQ9dXkgc",
+      "title": "这款由苹果传奇设计师Jony Ive设计的超稀有徕卡镜头原型即将拍卖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-ultra-rare-leica-lens-prototype-was-designed-by-apple-legend-jony-ive-and-now-it-is-heading-to-auction",
+      "publish_time": "2026-07-28T19:00:00+08:00",
+      "summary": "苹果传奇设计师Jony Ive设计的超稀有徕卡APO-Summicron-M 50mm f/2 ASPH RED镜头原型即将拍卖",
+      "recommendation": "文章披露Jony Ive与徕卡合作设计的50mm f/2镜头原型拍卖信息，含独特工业设计细节与稀缺性数据，适合收藏与设计爱好者了解跨界合作案例。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This ultra-rare Leica lens prototype was designed by Apple legend Jony Ive – and now it is heading to auction"
+    },
+    {
+      "id": "recvqGfSLSGTaz",
+      "title": "松下Lumix S9相机套装价格暴跌至历史最低",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-panasonic-lumix-s9-camera-bundle-just-crashed-to-its-lowest-ever-price",
+      "publish_time": "2026-07-28T18:56:15+08:00",
+      "summary": "松下Lumix S9相机套装价格暴跌至历史最低，附带镜头，创下新低价。",
+      "recommendation": "松下S9套装价格创历史新低，含镜头数据，适合预算有限的全画幅入门用户。常规价格资讯，可了解市场动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This Panasonic Lumix S9 camera bundle just crashed to its LOWEST-EVER price"
+    },
+    {
+      "id": "recvqGfVaE4g4u",
+      "title": "Harley Weir拍摄的Charli XCX肖像拒绝成为典型的流行明星照片，这正是它如今被伦敦国家肖像馆收藏的原因",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/this-charli-xcx-portrait-by-harley-weir-refuses-to-be-a-typical-pop-star-photo-and-thats-precisely-why-it-now-belongs-in-londons-national-portrait-gallery",
+      "publish_time": "2026-07-28T18:50:22+08:00",
+      "summary": "Harley Weir拍摄的Charli XCX肖像因捕捉音乐家亲密时刻而拒绝典型流行明星照片，被伦敦国家肖像馆收藏",
+      "recommendation": "解析Harley Weir如何用亲密瞬间打破流行明星肖像套路，揭示摄影美学中真实性的价值，对理解人像创作有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Charli XCX portrait by Harley Weir refuses to be a typical pop star photo, and that's precisely why it now belongs in London's National Portrait Gallery"
+    },
+    {
+      "id": "recvqGfAzBL7bs",
+      "title": "Tony Northrup：人人都搞错了——索尼 vs 腾龙超广角镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/tony-northrup-everyone-gets-this-wrong-sony-vs-tamron-ultra-wide-lens/",
+      "publish_time": "2026-07-28T18:26:26+08:00",
+      "summary": "Tony Northrup测试新款Tamron 12-20mm f/2.8 FE镜头，指出索尼与腾龙超广角镜头的常见误解，预购链接已发布。",
+      "recommendation": "Tony Northrup实测对比索尼与腾龙超广角，指出常见误解，提供独家样张与数据，帮助用户理性选择。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Tony Northrup: Everyone Gets This Wrong – Sony vs Tamron Ultra-Wide Lens"
+    },
+    {
+      "id": "recvqGfXJZKXfZ",
+      "title": "这款限量版50mm f/1.1镜头为徕卡M相机带来战前风格",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-limited-edition-50mm-f-1-1-lens-brings-pre-war-character-to-leica-m-cameras",
+      "publish_time": "2026-07-28T18:11:25+08:00",
+      "summary": "新50mm f/1.1镜头为徕卡M卡口带来战前Kino Plasmat风格，限量版设计",
+      "recommendation": "解析限量版50mm f/1.1镜头如何复刻战前Kino Plasmat风格，提供光学设计细节与徕卡M卡口适配性，适合追求复古影像风格的爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This limited-edition 50mm f/1.1 lens brings pre-war character to Leica M cameras"
+    },
+    {
+      "id": "recvqGg0fc4RjQ",
+      "title": "记录英国残疾人权利运动内部情况的摄影师终获认可，其档案免费开放使用",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/the-photographer-who-documented-britains-disability-rights-movement-from-the-inside-has-finally-been-recognized-and-his-archive-is-free-to-use",
+      "publish_time": "2026-07-28T18:09:30+08:00",
+      "summary": "摄影师基思·阿姆斯特朗数十年记录英国残疾人权利抗议，推动法律变革，其档案现免费开放",
+      "recommendation": "纪实摄影推动社会变革的典型案例，揭示影像如何成为立法工具。档案免费开放，含数十年抗议现场独家影像，对纪实摄影师有方法论参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The photographer who documented Britain's disability rights movement from the inside has finally been recognized, and his archive is free to use"
+    },
+    {
+      "id": "recvqGg8rAv5bC",
+      "title": "摄影师应了解的关于镜头眩光的基本事实",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/28/simple-facts-about-lens-flare-photographers-should-know/",
+      "publish_time": "2026-07-28T18:00:00+08:00",
+      "summary": "镜头眩光虽常被抑制，但可创造性利用，在摄影中不受欢迎，电影中备受推崇，摄影师应了解其基本事实。",
+      "recommendation": "从光学原理到创意应用，解析眩光成因与控制技巧，提供电影与摄影的差异化视角，适合想突破技术瓶颈的影像爱好者。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Simple Facts About Lens Flare Photographers Should Know"
+    },
     {
       "id": "recvqESbLF0mbo",
       "title": "重夺日本第一，索尼“重新定义标准”的相机发布即登顶，复古便携机紧随其后",
@@ -7535,238 +7768,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Hasselblad Phocus Mobile Finally Arrives on Android"
-    },
-    {
-      "id": "recvpxZ9f8T1Mu",
-      "title": "vivo T5 Lite 发布：搭载天玑6300处理器与6500mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_t5_lite_is_here_with_a_dimensity_6300_soc_6500mah_battery-news-73747.php",
-      "publish_time": "2026-07-16T22:00:02+08:00",
-      "summary": "vivo T5 Lite在印度发布，搭载天玑6300处理器和6500mAh电池，配备6.74英寸120Hz LCD屏，最高6GB内存和256GB存储，7月22日开售。",
-      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像规格，但天玑6300的ISP性能与6500mAh续航对长焦拍摄场景有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo T5 Lite is here with a Dimensity 6300 SoC, 6,500mAh battery"
-    },
-    {
-      "id": "recvpxYEcDLdLY",
-      "title": "探秘盖蒂图片社2026年世界杯报道：每天10小时工作与狂热的球迷",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/interviews/inside-getty-images-2026-world-cup-coverage-10-hour-days-and-wild-fans/",
-      "publish_time": "2026-07-16T21:59:53+08:00",
-      "summary": "盖蒂图片社摄影师麦迪·迈耶揭秘2026世界杯报道：每天10小时工作，分享边线装备、快速拍摄流程及在狂热球迷中拍摄的体验。",
-      "recommendation": "揭秘世界杯边线摄影装备与10小时工作流程，含快速拍摄技巧及球迷环境应对策略，为体育摄影爱好者提供实战参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Inside Getty Images’ 2026 World Cup coverage: 10-hour days and wild fans"
-    },
-    {
-      "id": "recvpxYJ3ES5QA",
-      "title": "佳能下一款新品是搭载全新3250万像素传感器的复古相机——我已准备好掏钱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canons-next-launch-is-a-retro-camera-powered-by-its-new-32-5mp-sensor-and-ive-already-got-my-credit-card-ready",
-      "publish_time": "2026-07-16T21:48:39+08:00",
-      "summary": "佳能即将推出搭载全新3250万像素传感器的复古相机，融合复古外观与无反技术，值得期待。",
-      "recommendation": "独家披露佳能3250万像素复古相机参数，融合经典设计与无反技术，为复古机爱好者提供关键传感器数据与产品动向。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Canon's next launch is a retro camera powered by its new 32.5MP sensor –and I've already got my credit card ready"
-    },
-    {
-      "id": "recvpxYGBlcDX0",
-      "title": "Max Lowe 分享塑造其冒险摄影与电影制作经历的故事",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/max-lowe-shares-the-experiences-that-shaped-his-adventure-photography-and-filmmaking/",
-      "publish_time": "2026-07-16T21:26:26+08:00",
-      "summary": "Max Lowe分享其从国家地理资助到野生动物电影制作，通过试错学习摄影，发现周围神奇之地的冒险摄影与电影制作经历。",
-      "recommendation": "从国家地理资助到野生动物电影制作，Max Lowe分享试错学习摄影的实战经验，揭示冒险摄影中如何发现周边神奇之地，对追求户外影像的爱好者有直接启发。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Max Lowe shares the experiences that shaped his adventure photography and filmmaking"
-    },
-    {
-      "id": "recvpxYv78nCVg",
-      "title": "现在你可以像看VHS录像带一样观看《怪奇物语》第一季",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/16/you-can-now-watch-the-first-season-of-stranger-things-like-its-on-vhs/",
-      "publish_time": "2026-07-16T21:24:41+08:00",
-      "summary": "为庆祝《怪奇物语》开播十周年，Netflix将推出第一季VHS特别版，纪念这部变革性全球热播剧。",
-      "recommendation": "VHS画质回潮，揭示流媒体时代复古影像的消费心理。适合关注画质审美变迁与怀旧营销的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "You Can Now Watch the First Season of ‘Stranger Things’ Like It’s On VHS"
-    },
-    {
-      "id": "recvpxZcat1qAi",
-      "title": "Realme C100x在印度首发",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/realme_c100x_india_price_sale_date-news-73751.php",
-      "publish_time": "2026-07-16T21:05:02+08:00",
-      "summary": "Realme C100x在印度首发，配备8000mAh电池、45W充电、6.81英寸120Hz LCD屏及紫光展锐T7250处理器。",
-      "recommendation": "文章聚焦Realme C100x在印度首发，虽未提及影像参数，但8000mAh电池与120Hz屏暗示长续航与流畅体验，对关注入门机影像性能的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Realme C100x debuts in India"
-    },
-    {
-      "id": "recvpxYLwLmJKv",
-      "title": "旧世界之火与新世界科技：iPhone超长焦如何拍摄中国古老打铁花艺术",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/old-world-fire-and-new-world-tech-how-an-iphones-extreme-telephoto-reach-photographed-chinas-ancient-art-of-molten-sparks",
-      "publish_time": "2026-07-16T21:04:20+08:00",
-      "summary": "2026年iPhone摄影奖荣誉奖作品展示iPhone超长焦拍摄中国古老打铁花艺术，融合传统火舞与现代科技。",
-      "recommendation": "解析iPhone超长焦在暗光下捕捉动态火舞的实战技巧，含ISO、快门参数与计算摄影算法适配，对手机长焦摄影爱好者有技术参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Old-world fire and new-world tech: how an iPhone's extreme telephoto reach photographed China's ancient art of molten sparks"
-    },
-    {
-      "id": "recvpxYNLwkvCD",
-      "title": "一本有趣的新绘本追溯安妮·莱博维茨的摄影之旅，为孩子们提供创意重塑的早期课程",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/a-fun-new-picture-book-traces-annie-leibovitzs-journey-in-photography-and-offers-kids-an-early-lesson-in-creative-reinvention",
-      "publish_time": "2026-07-16T20:53:30+08:00",
-      "summary": "《小人物，大梦想》系列新绘本讲述安妮·莱博维茨的摄影生涯，为孩子提供创意重塑的早期课程",
-      "recommendation": "从绘本视角解读莱博维茨的摄影启蒙与创意重塑，为影像爱好者提供非技术性但启发性的创作思维案例。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A fun new picture book traces Annie Leibovitz's journey in photography, and offers kids an early lesson in creative reinvention"
-    },
-    {
-      "id": "recvpxYxr1b9kS",
-      "title": "野外监控镜头捕捉到最笨鸽子走进隼巢的瞬间",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/16/trail-cam-footage-shows-worlds-dumbest-pigeon-walking-into-falcons-nest/",
-      "publish_time": "2026-07-16T20:38:47+08:00",
-      "summary": "野外监控镜头捕捉到一只鸽子误入隼巢的瞬间，猎鹰以鸽子为主食，该画面展示了自然界的捕食行为。",
-      "recommendation": "野外监控镜头捕捉鸽子误入隼巢的罕见瞬间，展示自然捕食行为，对影像爱好者有生态摄影参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Trail Cam Footage Shows World’s Dumbest Pigeon Walking Into Falcon’s Nest"
-    },
-    {
-      "id": "recvpxYzyeFwvh",
-      "title": "一加正式退出美国和欧洲市场",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/16/oneplus-is-officially-dead-in-the-us-and-europe/",
-      "publish_time": "2026-07-16T20:24:08+08:00",
-      "summary": "一加正式宣布退出北美和欧洲市场，不再在这些市场发布新手机。",
-      "recommendation": "一加退出欧美市场，其影像调校与哈苏合作策略将调整，对关注手机影像生态的读者有行业参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "OnePlus Is Officially Dead in the US and Europe"
-    },
-    {
-      "id": "recvpxZeFXl2xe",
-      "title": "努比亚NaviX Ultra：该公司的AI智能体手机尝试",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/nubia_navix_ultra_unveiled_their_take_onn_aiagent_phone-news-73744.php",
-      "publish_time": "2026-07-16T20:00:02+08:00",
-      "summary": "努比亚发布全球首款AI智能体手机NaviX Ultra，运行豆包移动助手，配备三摄模组，设计已展示，规格待公布。",
-      "recommendation": "文章聚焦努比亚AI智能体手机NaviX Ultra，三摄模组设计已曝光但规格未公布，适合关注手机影像形态创新的读者获取前沿动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "nubia NaviX Ultra is the company's take on an AI Agentic phone"
-    },
-    {
-      "id": "recvpxYQk5RDR9",
-      "title": "最受期待的功能之一现已实现：中画幅摄影师现可通过哈苏关键更新在安卓上编辑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/apps/one-of-the-most-requested-features-has-now-been-granted-medium-format-photographers-can-now-edit-on-android-with-this-key-hasselblad-update",
-      "publish_time": "2026-07-16T20:00:00+08:00",
-      "summary": "哈苏将Phocus Mobile应用支持从iOS扩展到Android，一亿像素编辑功能即将登陆安卓平台",
-      "recommendation": "哈苏将Phocus Mobile从iOS扩展至安卓，一亿像素中画幅用户可直连手机编辑RAW文件，填补安卓生态专业影像工作流空白。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "One of the most requested features has now been granted: Medium format photographers can now edit on Android with this key Hasselblad update"
-    },
-    {
-      "id": "recvpxZjk1EzJu",
-      "title": "哈苏扩展其Android移动工作流程",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/16/hasselblad-extends-its-mobile-workflow-for-android/",
-      "publish_time": "2026-07-16T20:00:00+08:00",
-      "summary": "哈苏推出X1D和X1D II 50C相机，其专业软件现已登陆Android平台，提升移动工作流程效率。",
-      "recommendation": "哈苏将专业软件移植至Android，为X1D系列用户提供移动端工作流，对中画幅摄影爱好者有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Hasselblad Extends Its Mobile Workflow for Android"
-    },
-    {
-      "id": "recvpxYSCWUMe1",
-      "title": "6岁富士相机突然爆火，日本销量超预期“生产跟不上”——全靠新潮流",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/6-year-old-fujifilm-camera-is-suddenly-popular-exceeding-sales-expectations-in-japan-and-production-cannot-keep-up-thanks-to-a-new-trend",
-      "publish_time": "2026-07-16T19:39:57+08:00",
-      "summary": "2020年发布的富士6岁相机因新潮流突然爆火，日本销量超预期致生产跟不上，新摄影师赋予其第二次生命。",
-      "recommendation": "剖析6岁富士相机因新潮流意外爆火的现象，揭示生产滞后与销量超预期的行业反差，为影像爱好者提供小众机型市场周期的独特洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "6-year-old Fujifilm camera is suddenly popular, exceeding sales expectations in Japan and \"production cannot keep up\" – thanks to a new trend"
-    },
-    {
-      "id": "recvpxYBMdGmRh",
-      "title": "xAI起诉男子使用Grok制作CSAM深度伪造内容",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/16/xai-sues-man-for-using-grok-to-create-csam-deepfakes/",
-      "publish_time": "2026-07-16T19:14:50+08:00",
-      "summary": "马斯克的xAI起诉一名男子滥用其AI图像生成器Grok制作儿童性虐待材料",
-      "recommendation": "AI生成工具滥用案例，揭示计算摄影伦理边界。对影像爱好者而言，了解技术双刃剑特性比参数更重要。",
-      "categories": [
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "xAI Sues Man for Using Grok to Create CSAM Deepfakes"
     }
   ]
 }
