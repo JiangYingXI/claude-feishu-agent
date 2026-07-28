@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-28T11:54:02.000471+08:00",
+    "updated_at": "2026-07-28T17:26:37.700881+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 23
+      "count": 24
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,156 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 379
+      "count": 381
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 175
+      "count": 174
     }
   ],
   "articles": [
+    {
+      "id": "recvqESbLF0mbo",
+      "title": "重夺日本第一，索尼“重新定义标准”的相机发布即登顶，复古便携机紧随其后",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/released-at-no-1-the-sony-camera-that-redefines-the-standard-is-back-on-top-in-japan-but-a-retro-compact-isnt-far-behind",
+      "publish_time": "2026-07-28T17:05:00+08:00",
+      "summary": "索尼发布重新定义标准的相机，登顶日本Map Camera 2026年6月畅销榜，复古紧凑相机紧随其后",
+      "recommendation": "解析索尼新机登顶日本畅销榜的行业意义，含Map Camera独家榜单数据与复古便携机市场趋势，适合关注日系相机格局的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Released at No. 1, the Sony camera that “redefines the standard” is back on top in Japan, but a retro compact isn’t far behind"
+    },
+    {
+      "id": "recvqESep8q6BM",
+      "title": "传闻中的索尼100-400mm f/5.6-8 FE变焦镜头若发布将大卖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/rumored-sony-100-400mm-f-5-6-8-fe-zoom-will-sell-like-hotcakes-if-it-ever-gets-released",
+      "publish_time": "2026-07-28T15:23:04+08:00",
+      "summary": "传闻索尼将推100-400mm f/5.6-8 FE变焦镜头，价格实惠，虽光圈较慢但可能大卖",
+      "recommendation": "分析索尼100-400mm f/5.6-8 FE镜头传闻，聚焦价格与光圈权衡，提供市场定位预判，对长焦爱好者有选型参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Rumored Sony 100-400mm f/5.6-8 FE zoom will sell like hotcakes if it ever gets released…"
+    },
+    {
+      "id": "recvqESgBc21Xi",
+      "title": "这款相机刚刚获得了佳能EOS R6 V的最佳视频功能之一",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/this-camera-just-gained-one-of-the-canon-eos-r6-vs-best-video-features-for-creators",
+      "publish_time": "2026-07-28T15:20:00+08:00",
+      "summary": "佳能EOS R6 Mark III新固件将EOS R6 V的微距演示自动对焦模式扩展到更多视频模式，并带来多项生活质量改进。",
+      "recommendation": "固件升级将微距演示AF模式扩展至更多视频场景，对视频创作者有实用价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This camera just gained one of the Canon EOS R6 V's best video features for creators"
+    },
+    {
+      "id": "recvqESlDBNjF2",
+      "title": "华为nova 16 SE即将登场，搭载8500mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_nova_16_se_tipped_to_debut_soon_with_8500mah_battery-news-73900.php",
+      "publish_time": "2026-07-28T15:00:02+08:00",
+      "summary": "华为nova 16 SE即将发布，采用1.5K LTPS OLED屏和8500mAh电池，设计借鉴荣耀Power2，扩展nova 16系列。",
+      "recommendation": "文章聚焦华为nova 16 SE的电池与屏幕规格，虽未直接涉及影像参数，但8500mAh大电池暗示长续航拍摄潜力，适合关注中端机型动态的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Huawei nova 16 SE tipped to debut soon with 8,500mAh battery"
+    },
+    {
+      "id": "recvqESqNr4zLn",
+      "title": "提升你的相机速度，为街头摄影做好准备",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/28/how-to-get-the-fastest-performance-from-your-camera-when-doing-street-photography-copy/",
+      "publish_time": "2026-07-28T15:00:00+08:00",
+      "summary": "针对新闻、街头、婚礼摄影师，文章指出无反相机性能不足导致反应慢，错过瞬间，强调预判作用有限，需提升相机速度。",
+      "recommendation": "针对街头摄影痛点，分析无反相机响应延迟对抓拍的影响，提出预判局限性，为追求速度的摄影师提供实用改进思路。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Make Your Camera Faster for Street Photography"
+    },
+    {
+      "id": "recvqESj2GSdkP",
+      "title": "Green Feathers WiFi鸟巢摄像头评测：小巧时尚、无订阅费的巢穴观察窗口",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bird-feeder-cameras/green-feathers-wifi-bird-box-camera-review-a-small-sleek-and-subscription-free-window-into-the-nest",
+      "publish_time": "2026-07-28T14:30:00+08:00",
+      "summary": "Green Feathers WiFi鸟巢摄像头小巧时尚，提供高清视频流和Wi-Fi连接，无需订阅费，是自然爱好者观察巢穴的可靠选择。",
+      "recommendation": "评测Green Feathers无订阅WiFi巢穴摄像头，提供高清视频流与免月费方案，适合自然观察爱好者。文中含产品实测数据与安装细节，无独家观点。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Green Feathers WiFi Bird Box Camera review: a small, sleek and subscription-free window into the nest"
+    },
+    {
+      "id": "recvqES8IvO8Xo",
+      "title": "索尼花絮…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1909/",
+      "publish_time": "2026-07-28T14:15:22+08:00",
+      "summary": "索尼100-400mm F4.5 GM OSS被评测为新的最爱运动摄影镜头，文章还包含曝光入门、离机闪光灯学习及Meike 23mm F1.4等内容。",
+      "recommendation": "涵盖索尼100-400GM运动摄影评测、曝光入门及离机闪光灯技巧，含Meike 23mm F1.4镜头信息，适合进阶爱好者拓展技术视野。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvqESomGuaHf",
+      "title": "vivo T5e 是一款配备5500mAh电池和90Hz显示屏的预算手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_t5e_is_a_budget_phone_with_a_5500mah_battery_90hz_display-news-73898.php",
+      "publish_time": "2026-07-28T12:45:02+08:00",
+      "summary": "vivo在印度推出T5e预算手机，配备5500mAh电池、6.74英寸90Hz HD+ LCD屏、UniSoc T7225芯片，4GB/64GB版售价13999卢比",
+      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像规格，但T5e作为百元机定位，对关注入门机影像配置的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo T5e is a budget phone with a 5,500mAh battery, 90Hz display"
+    },
+    {
+      "id": "recvqEStpnFZjV",
+      "title": "如果你拥有这支镜头，你就中大奖了",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/28/if-you-own-this-lens-you-hit-the-jackpot/",
+      "publish_time": "2026-07-28T12:00:00+08:00",
+      "summary": "老蛙105mm f2柔焦镜头虽因STF镜片损失进光量，但提供平滑虚化、迷人色彩和出色锐度，是一款特别镜头。",
+      "recommendation": "深度解析老蛙105mm f2柔焦镜头的STF光学设计，揭示其牺牲进光量换取平滑虚化与色彩表现的独特价值，含实拍样张对比数据。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "If You Own This Lens, You Hit the Jackpot"
+    },
     {
       "id": "recvqDwK2Nz1A3",
       "title": "尼康Z中的Z是否只是将字母N旋转90度？",
@@ -7626,145 +7767,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "xAI Sues Man for Using Grok to Create CSAM Deepfakes"
-    },
-    {
-      "id": "recvpxYV6wrcj8",
-      "title": "我曾吐槽无人机摄影，但这幅令人叹为观止的获奖航拍作品改变了我",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/aerial-photography/i-talked-s-about-drone-photography-but-this-breathtaking-award-winning-aerial-composition-has-converted-me",
-      "publish_time": "2026-07-16T18:52:26+08:00",
-      "summary": "美国摄影师林嘉伟在2026年国际年度航拍摄影师大赛获第三名，其获奖作品改变了对无人机摄影的看法。",
-      "recommendation": "通过获奖案例解析航拍美学突破，提供摄影师创作思路与大赛评审视角，适合探索无人机摄影价值的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I talked s*** about drone photography, but this breathtaking award-winning aerial composition has converted me"
-    },
-    {
-      "id": "recvpxYXptaotL",
-      "title": "索尼RX10 V预购指南：美国/英国购买渠道汇总",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/where-to-pre-order-the-new-sony-rx10-v-heres-where-to-get-this-big-sensor-bridge-camera-in-the-us-or-uk",
-      "publish_time": "2026-07-16T18:46:15+08:00",
-      "summary": "本文汇总了在美国和英国预购索尼RX10 V的购买渠道链接，方便用户快速获取购买信息。",
-      "recommendation": "汇总美英预购渠道，方便快速锁定购买入口，属于实用型资讯，无独家数据或深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Where to pre-order the new Sony RX10 V: Here's where to get this big-sensor bridge camera in the US or UK"
-    },
-    {
-      "id": "recvpxZgXCIMEA",
-      "title": "Manny Ortiz：索尼最新相机存在缺陷",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/manny-ortiz-sonys-newest-camera-is-broken/",
-      "publish_time": "2026-07-16T18:36:13+08:00",
-      "summary": "Manny Ortiz指出索尼A7rVI存在缺陷，该相机及100-400mm f/4.5 GM镜头已在多平台发售。",
-      "recommendation": "Manny Ortiz指出索尼A7rVI及100-400mm镜头存在缺陷，提供实际使用中的问题反馈，对潜在买家有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Manny Ortiz: Sony’s Newest Camera is Broken"
-    },
-    {
-      "id": "recvpxYZIZDrRf",
-      "title": "南·戈尔丁拍摄人物50年，但她的新电影作品完全转向自然与动物",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/nan-goldin-has-spent-50-years-photographing-people-but-her-new-film-work-turns-away-from-them-entirely-to-focus-on-nature-and-animals",
-      "publish_time": "2026-07-16T18:02:39+08:00",
-      "summary": "南·戈尔丁拍摄人物50年后，新电影完全转向自然与动物，自2002年以来首次在英国演出的新细节披露，令人惊讶。",
-      "recommendation": "从人物摄影转向自然与动物，揭示南·戈尔丁创作转型的独家细节，为影像爱好者提供摄影大师的创作思路参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nan Goldin has spent 50 years photographing people. But her new film work turns away from them entirely, to focus on nature and animals"
-    },
-    {
-      "id": "recvpxZlC8VUj9",
-      "title": "人像摄影中柔光的秘诀",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/16/get-softer-light-portraits-copy/",
-      "publish_time": "2026-07-16T18:00:00+08:00",
-      "summary": "柔光是人像摄影的最佳光线，本文讲解柔光的定义、特点及应用技巧，帮助摄影师掌握柔光拍摄核心方法。",
-      "recommendation": "从柔光定义到实战技巧，解析人像摄影中光线软化的核心原理，提供可操作的拍摄参数与场景应用指南。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Secrets to Soft Light in Portrait Photography"
-    },
-    {
-      "id": "recvpxZ24eR2mg",
-      "title": "全球最小最轻全画幅无反相机，带取景器，日本销量第一",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/worlds-smallest-and-lightest-full-frame-mirrorless-camera-with-viewfinder-is-japans-no-1-bestseller",
-      "publish_time": "2026-07-16T17:55:21+08:00",
-      "summary": "全球最小最轻全画幅无反相机，重514克、3300万像素，带取景器，日本销量第一，发布近三年仍领先更新竞品",
-      "recommendation": "解析日本销量第一的全画幅无反相机，514克机身+3300万像素+取景器，发布近三年仍领先竞品，适合关注轻量化与市场趋势的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"World's smallest and lightest full-frame mirrorless camera\" with viewfinder is Japan's No.1 bestseller"
-    },
-    {
-      "id": "recvpxZ4nQ9LPe",
-      "title": "索尼RX10 V是一款出色的相机——但这款无反组合价格更低、重量相近、焦段几乎一样长",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bridge-cameras/the-sony-rx10-v-is-a-fantastic-camera-but-this-mirrorless-combo-costs-less-weighs-nearly-the-same-and-reaches-almost-as-far",
-      "publish_time": "2026-07-16T17:46:43+08:00",
-      "summary": "索尼RX10 V因通胀成最贵桥式相机，但有一款无反组合价格更低、重量相近、焦段几乎一样长，是更优替代方案。",
-      "recommendation": "对比RX10 V与无反组合的价格、重量和焦段，提供替代方案数据，适合预算敏感的桥式相机用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony RX10 V is a fantastic camera – but this mirrorless combo costs less, weighs nearly the same, and reaches almost as far"
-    },
-    {
-      "id": "recvpxZ6MdPhff",
-      "title": "福伦达新款APO-Lanthar 90mm f/4镜头为徕卡M卡口相机带来近摄能力",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/voigtlanders-new-apo-lanthar-90mm-f-4-lens-brings-close-focusing-to-leica-m-mount-cameras",
-      "publish_time": "2026-07-16T16:50:33+08:00",
-      "summary": "福伦达新款APO-Lanthar 90mm f/4镜头为徕卡M卡口相机提供近摄能力，在经典旁轴设计中实现多功能性。",
-      "recommendation": "福伦达APO-Lanthar 90mm f/4为徕卡M卡口带来近摄能力，填补旁轴镜头微距空白，适合街拍与细节摄影爱好者。",
-      "categories": [
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Voigtländer’s new APO-Lanthar 90mm f/4 lens brings close focusing to Leica M-mount cameras"
-    },
-    {
-      "id": "recvpxZo6sWEWv",
-      "title": "这张从月球轨道拍摄的尼康Z9照片揭示了关于太阳的新秘密",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/16/this-nikon-z9-photo-from-lunar-orbit-reveals-new-secrets-about-the-sun/",
-      "publish_time": "2026-07-16T16:06:01+08:00",
-      "summary": "尼康Z9在月球轨道拍摄的照片揭示了太阳的新秘密，改变了我们对太阳运作方式的理解。",
-      "recommendation": "从月球轨道拍摄的尼康Z9照片揭示太阳新秘密，展示旗舰相机在极端环境下的成像能力，提供天文摄影与科学应用的独特视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Nikon Z9 Photo From Lunar Orbit Reveals New Secrets About the Sun"
     }
   ]
 }
