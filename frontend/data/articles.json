@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-29T22:51:12.497039+08:00",
+    "updated_at": "2026-07-30T03:59:16.437558+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 87
+      "count": 86
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,305 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 22
+      "count": 21
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 27
+      "count": 28
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 383
+      "count": 390
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 181
+      "count": 174
     }
   ],
   "articles": [
+    {
+      "id": "recvqNhOfCJnHG",
+      "title": "索尼持有腾龙关键股份，报告暗示索尼欲增持",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/sony-owns-a-key-slice-of-tamron-shares-a-report-hints-that-sony-wants-more",
+      "publish_time": "2026-07-30T03:22:33+08:00",
+      "summary": "日本调查报告显示，索尼曾考虑收购镜头制造商腾龙全部股份，目前持有腾龙关键股份，暗示可能增持。",
+      "recommendation": "独家披露索尼对腾龙的持股细节与增持意图，为E卡口镜头生态走向提供关键线索，值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony owns a key slice of Tamron shares. A report hints that Sony wants more"
+    },
+    {
+      "id": "recvqNi9wFY6Uj",
+      "title": "确认：尼康在中国对唯卓仕的专利诉讼败诉",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/29/confirmed-nikon-lost-the-patent-lawsuit-against-viltrox-in-china.aspx/",
+      "publish_time": "2026-07-30T03:21:21+08:00",
+      "summary": "尼康在中国对唯卓仕的专利诉讼败诉，CNIPA无效宣告决定第661357号确认，相关报道首次出现在Nikon Rumors。",
+      "recommendation": "尼康在华专利诉讼败诉，影响副厂镜头市场格局。文章提供CNIPA无效决定编号等独家数据，对关注镜头兼容性与专利战的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Confirmed: Nikon lost the patent lawsuit against Viltrox in China"
+    },
+    {
+      "id": "recvqNhxEbh43P",
+      "title": "索尼据悉正试图收购腾龙，这完全说得通",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/sony-is-reportedly-trying-to-buy-tamron-which-makes-perfect-sense/",
+      "publish_time": "2026-07-30T03:18:07+08:00",
+      "summary": "索尼拟收购镜头制造商腾龙，后者为索尼E卡口生产超20款镜头，此举将强化索尼相机生态",
+      "recommendation": "分析索尼收购腾龙对E卡口生态的潜在影响，含20+款镜头合作数据，为索尼/腾龙用户提供生态布局的深度视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony Is Reportedly Trying to Buy Tamron, Which Makes Perfect Sense"
+    },
+    {
+      "id": "recvqNhAo81Co8",
+      "title": "Vaonis最新智能望远镜表现惊艳",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/vaonis-newest-smart-telescopes-look-stellar/",
+      "publish_time": "2026-07-30T03:17:00+08:00",
+      "summary": "Vaonis发布Vespera 3和Vespera Pro 2智能望远镜，带来升级和更强成像能力，为天文爱好者提供更佳观测体验。",
+      "recommendation": "解析Vaonis智能望远镜升级，提供Vespera 3/Pro 2成像能力与传感器数据，助影像爱好者评估天文摄影新工具。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Vaonis’ Newest Smart Telescopes Look Stellar"
+    },
+    {
+      "id": "recvqNibU0sXQv",
+      "title": "尼康美国当前优惠活动本周末截止",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/29/the-current-nikon-usa-rebates-are-ending-this-weekend.aspx/",
+      "publish_time": "2026-07-30T02:38:39+08:00",
+      "summary": "尼康美国返利活动本周末截止，涵盖无反相机、镜头等品类，详情见完整列表。",
+      "recommendation": "尼康美国返利活动截止提醒，涵盖无反相机与镜头优惠，适合近期有购买计划的用户快速了解折扣品类与截止时间。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The current Nikon USA rebates are ending this weekend"
+    },
+    {
+      "id": "recvqNhCINd1Ry",
+      "title": "Cadrage Studio 将大量前期电影制作工具整合到一款应用中",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/cadrage-studio-combines-a-bunch-of-pre-production-filmmaking-tools-in-one-app/",
+      "publish_time": "2026-07-30T02:33:48+08:00",
+      "summary": "Cadrage推出Studio平台，整合镜头列表、故事板、摄影机示意图、情绪板、剧本管理和地点规划等前期工具，为电影制作人提供一体化协作工作区。",
+      "recommendation": "将电影级前期制作工具整合至移动端，为手机影像创作者提供专业故事板、镜头库与协作工作流，拓展创作边界。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Cadrage Studio Combines a Bunch of Pre-Production Filmmaking Tools In One App"
+    },
+    {
+      "id": "recvqNi4vH9VQt",
+      "title": "Google Pixel Watch 5 在预期发布前现身官方应用",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_watch_5_google_health_app-news-73921.php",
+      "publish_time": "2026-07-30T02:17:02+08:00",
+      "summary": "谷歌Pixel Watch 5在官方健康应用现身，预示将于8月12日与Pixel 11系列手机一同发布。",
+      "recommendation": "智能手表影像关联有限，但可从中预判Google生态对计算摄影的整合动向，适合关注穿戴设备与手机协同的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel Watch 5 pops up in an official Google app ahead of expected launch"
+    },
+    {
+      "id": "recvqNhQDe3Cd2",
+      "title": "忘掉零食吧，这台自动售货机出售胶卷甚至便携相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/forget-the-snacks-this-vending-machine-dispenses-film-and-even-compact-cameras",
+      "publish_time": "2026-07-30T02:06:21+08:00",
+      "summary": "胶片未消亡，犹他州披萨店自动售货机出售胶卷和便携相机，方便摄影师获取。",
+      "recommendation": "胶片获取新渠道案例，展示自动售货机零售胶卷与便携相机的模式，提供行业动态参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Forget the snacks, this vending machine dispenses film and even compact cameras"
+    },
+    {
+      "id": "recvqNhF8mCfVW",
+      "title": "Simmod 四合一PL镜头转接环：可互换RF、Z、L和E卡口",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/simmods-4-in-1-pl-lens-adapter-has-interchangeable-rf-z-l-and-e-mounts/",
+      "publish_time": "2026-07-30T02:02:17+08:00",
+      "summary": "Simmod发布四合一PL镜头转接环，可互换RF、Z、L和E卡口，适配四种全画幅无反系统，提升电影摄影师设备兼容性。",
+      "recommendation": "一文解析Simmod四合一PL转接环，覆盖RF/Z/L/E四大卡口，为电影镜头转接全画幅无反提供具体方案，适合关注设备兼容性的影像从业者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Simmod’s 4-in-1 PL Lens Adapter Has Interchangeable RF, Z, L, and E Mounts"
+    },
+    {
+      "id": "recvqNhSRTK3az",
+      "title": "这张照片可能是我见过构图最好的灰熊照片——但诡异的编辑全搞砸了。一堂面向所有人的数码摄影免费课……",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/this-photo-may-have-the-best-composition-of-grizzly-bears-ive-ever-seen-but-the-bizarre-edit-gets-it-all-wrong-a-free-lesson-in-digital-photography-for-us-all",
+      "publish_time": "2026-07-30T01:55:02+08:00",
+      "summary": "野生动物摄影师拍到构图极佳的灰熊照片，但奇怪编辑毁掉了这张精彩照片，文章提供免费数码摄影课程",
+      "recommendation": "通过灰熊照片的编辑失误案例，剖析构图与后期平衡的常见误区，提供免费数码摄影课程，适合摄影爱好者提升实战技巧。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This photo may have the best composition of grizzly bears I’ve ever seen – but the bizarre edit gets it all wrong. A free lesson in digital photography for us all…"
+    },
+    {
+      "id": "recvqNhV5VsnXh",
+      "title": "GoPro Mission 1 新增两大关键配件及免费固件更新（别担心，GoPro 也没忘记无反相机）",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-gopro-mission-1-just-got-two-key-accessories-and-a-free-firmware-update-and-no-gopro-hasnt-forgotten-about-the-mirrorless-camera-either",
+      "publish_time": "2026-07-30T01:15:00+08:00",
+      "summary": "GoPro推出Volta 2续航9小时、Mission 1媒体模块及免费固件更新，提升无反相机兼容性",
+      "recommendation": "文章详解GoPro Volta 2续航9小时、Mission 1媒体模块及固件更新，对运动相机用户和无反相机兼容性提升有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The GoPro Mission 1 just got two key accessories  – and a free firmware update (And no, GoPro hasn’t forgotten about the mirrorless camera either)"
+    },
+    {
+      "id": "recvqNi6SQPnEB",
+      "title": "富士龙XF400mm f/2.8、f/4.0还是f/5.6+？告诉富士你想要什么",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujinon-xf400mm-f-2-8-f-4-0-or-f-5-6-tell-fujifilm-what-you-want/",
+      "publish_time": "2026-07-30T00:33:23+08:00",
+      "summary": "富士胶片计划与X-T6一同发布XF400mm镜头，文章讨论光圈选择偏好，并提及从尼克尔镜头汲取灵感。",
+      "recommendation": "从尼克尔镜头设计切入，讨论XF400mm光圈选择，为富士用户提供产品决策参考，含独家行业观点。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujinon XF400mm f/2.8, f/4.0, or f/5.6+? Tell Fujifilm What You Want"
+    },
+    {
+      "id": "recvqNiexArAs3",
+      "title": "传索尼将收购腾龙",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/29/sony-rumored-to-acquire-tamron.aspx/",
+      "publish_time": "2026-07-30T00:27:29+08:00",
+      "summary": "据传索尼将收购腾龙，腾龙目前有十几款尼康Z卡口镜头，今年为尼康Z卡口发布的镜头比尼康还多。",
+      "recommendation": "分析索尼收购腾龙传闻，揭示腾龙为尼康Z卡口推出镜头数量超尼康自身，对关注卡口生态与镜头选择的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony rumored to acquire Tamron"
+    },
+    {
+      "id": "recvqNigNTW6OU",
+      "title": "这是富士胶片自2018年以来野生动物摄影师一直要求的镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/29/this-is-the-lens-fujifilm-wildlife-shooters-have-asked-for-since-2018/",
+      "publish_time": "2026-07-30T00:00:00+08:00",
+      "summary": "富士胶片将推出新镜头，与X-T6一同亮相，满足野生动物摄影师需求",
+      "recommendation": "解析富士长焦镜头研发历程，揭示X-T6配套新镜的规格与定位，为野生动物摄影提供器材选择参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Is the Lens Fujifilm Wildlife Shooters Have Asked for Since 2018"
+    },
+    {
+      "id": "recvqNhXtErpFS",
+      "title": "索尼FX5在24小时内就进入缺货状态，“手持好莱坞”相机大受欢迎",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/the-sony-fx5-is-on-backorder-after-just-24-hours-as-the-handheld-hollywood-camera-is-a-huge-hit",
+      "publish_time": "2026-07-29T23:11:44+08:00",
+      "summary": "索尼FX5相机因需求大幅超出预期，在24小时内缺货，交付可能延迟至9月。",
+      "recommendation": "文章揭示了索尼FX5因需求超预期导致24小时缺货的行业现象，提供交付延迟至9月的独家数据，对关注热门相机供需动态的爱好者有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Sony FX5 is on backorder after just 24 hours,as the \"handheld Hollywood\" camera is a huge hit"
+    },
+    {
+      "id": "recvqNhZK2d4WK",
+      "title": "索尼确认：全球最大相机传感器中心因地震停产，相机出货或延迟？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/an-earthquake-has-halted-production-at-the-worlds-largest-camera-sensor-hub-sony-confirms-could-camera-shipments-be-delayed",
+      "publish_time": "2026-07-29T23:05:36+08:00",
+      "summary": "索尼确认全球最大相机传感器中心因地震停产，可能导致相机出货延迟。",
+      "recommendation": "索尼传感器工厂停产直接影响相机供货周期，对计划购机的用户有明确参考价值。文中确认停产地点与规模，属于行业动态硬资讯。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "An earthquake has halted production at the world’s largest camera sensor hub, Sony confirms. Could camera shipments be delayed?"
+    },
+    {
+      "id": "recvqNhHu9PJTh",
+      "title": "腾龙大幅提升25-200mm f/2.8-5.6镜头的近摄性能",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/tamron-significantly-improves-close-up-performance-of-its-25-200mm-f-2-8-5-6-lens/",
+      "publish_time": "2026-07-29T22:53:30+08:00",
+      "summary": "腾龙为25-200mm f/2.8-5.6 Di III VXD G2镜头推出固件更新，显著提升广角端近摄性能。",
+      "recommendation": "固件更新提升广角端近摄性能，对追求一镜走天涯的旅行用户有实用价值，但属常规产品资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tamron Significantly Improves Close-Up Performance of its 25-200mm f/2.8-5.6 Lens"
+    },
+    {
+      "id": "recvqNi2cGjn5F",
+      "title": "Andoer L4 Pro电动滑轨评测：这款迷你三轮神器让你的手机或微单相机动起来",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/andoer-l4-pro-motorized-dolly-review",
+      "publish_time": "2026-07-29T22:43:41+08:00",
+      "summary": "Andoer L4 Pro电动滑轨评测：迷你三轮设计，支持手机微单，实现前后侧向及曲线平滑移动。",
+      "recommendation": "拆解Andoer L4 Pro电动滑轨的迷你三轮结构，实测手机与微单的运镜效果，提供前后侧向及曲线移动的独家数据，为影像创作者拓展低成本动态拍摄方案。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Andoer L4 Pro motorized dolly review: This mini three-wheeled wonder allows your smartphone or mirrorless camera to make some moves"
+    },
     {
       "id": "recvqM1RbpICcZ",
       "title": "谷歌弃用将你变成表情包的AI工具",
@@ -57,6 +337,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Google Dumps AI Tool That Turned You Into a Meme"
+    },
+    {
+      "id": "recvqNhJTbVjKN",
+      "title": "索尼警告FX5可能延迟发货，因预购超出预期",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-warns-of-possible-fx5-shipment-delays-because-preorders-exceeded-expecations/",
+      "publish_time": "2026-07-29T22:29:26+08:00",
+      "summary": "索尼警告FX5因预购远超预期可能延迟发货，官方确认订单火爆。",
+      "recommendation": "索尼FX5预购超预期导致延迟发货，反映市场对这款影像设备的高需求，为关注消费级相机动态的读者提供行业供需信号。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony warns of possible FX5 shipment delays because preorders exceeded expecations"
     },
     {
       "id": "recvqM1TN40bBt",
@@ -136,6 +431,22 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Sony RX10 V modernizes everything but its sensor. Does it matter?"
+    },
+    {
+      "id": "recvqNhMaaUipl",
+      "title": "索尼RX10 V全面现代化，但传感器性能依旧。这重要吗？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/sony-rx10v-studio-scene-image-quality-tests/",
+      "publish_time": "2026-07-29T21:00:00+08:00",
+      "summary": "索尼RX10 V全面升级但沿用2000万像素1英寸传感器，文章探讨改进该传感器性能是否重要",
+      "recommendation": "深度解析RX10 V沿用1英寸传感器的利弊，提供传感器性能与机身升级的权衡观点，对关注长焦机迭代的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Sony RX10 V modernizes everything but its sensor performance. Does it matter?"
     },
     {
       "id": "recvqM2dl3mcn4",
@@ -7451,318 +7762,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Why the Ricoh GR II is so Good for Street Photography Even Today"
-    },
-    {
-      "id": "recvpJwD4hoBHx",
-      "title": "这张长颈鹿鼻尖对镜头的照片凭借其戏剧性的手机摄影视角获得大奖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-nose-to-lens-giraffe-photograph-earned-a-major-award-for-its-dramatic-camera-phone-perspective",
-      "publish_time": "2026-07-18T17:10:00+08:00",
-      "summary": "iPhone 13超广角镜头拍摄的长颈鹿鼻尖特写照片，凭借戏剧性视角获手机摄影大奖",
-      "recommendation": "解析iPhone 13超广角拍摄长颈鹿鼻尖特写的戏剧性视角，提供手机摄影构图与焦段选择技巧，对提升创意拍摄有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This nose-to-lens giraffe photograph earned a major award for its dramatic camera phone perspective"
-    },
-    {
-      "id": "recvpI9YLeWZob",
-      "title": "促销：vivo X300系列开售（附赠充电器），Galaxy A37大幅降价",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_vivo_x300_models_on_sale_with_a_free_charger_galaxy_a37_gets_a_deep_price_cut-news-73779.php",
-      "publish_time": "2026-07-18T15:44:02+08:00",
-      "summary": "亚马逊促销vivo X300 Pro降价16%并赠90W充电器，配备200MP潜望长焦、天玑9500及5440mAh电池",
-      "recommendation": "文章提供vivo X300 Pro降价及赠充电器促销信息，重点参数200MP潜望长焦、天玑9500芯片和5440mAh电池，适合关注性价比的影像爱好者了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: vivo X300 models on sale (with a free charger), Galaxy A37 gets a deep price cut"
-    },
-    {
-      "id": "recvpIa1GfpZ3u",
-      "title": "尼康最值得入手的人像镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/18/our-favorite-portrait-lens-from-nikon-that-you-must-get/",
-      "publish_time": "2026-07-18T15:00:00+08:00",
-      "summary": "尼康Z卡口最佳人像镜头推荐，涵盖AF-S 14-24mm f2.8G ED等经典，强调购买理由与核心技术参数。",
-      "recommendation": "从Z卡口光学设计切入，解析AF-S 14-24mm f2.8G等镜头的像差控制与镀膜技术，提供人像焦段选择的核心参数对比，适合追求画质的用户参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Our Favorite Portrait Lens from Nikon That You Must Get"
-    },
-    {
-      "id": "recvpI9VEHpjNa",
-      "title": "如果2026年我要买单反相机，我仍然会选择佳能",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/if-i-wanted-a-dslr-camera-in-2026-id-still-choose-canon",
-      "publish_time": "2026-07-18T14:15:00+08:00",
-      "summary": "尽管单反不再流行，但佳能单反因其实用性仍是2026年购买首选，具备可靠性能和丰富镜头群优势。",
-      "recommendation": "文章从实用主义角度分析佳能单反在2026年的选购价值，提供镜头群兼容性、机身可靠性等具体数据支撑，适合关注器材实用性的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "If I wanted a DSLR camera in 2026, I’d still choose Canon"
-    },
-    {
-      "id": "recvpIa4mjG7aP",
-      "title": "为何佳能G1X Mark II在2026年仍是街拍利器",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/18/why-the-canon-g1x-mark-ii-is-so-good-for-street-photography-in-2026/",
-      "publish_time": "2026-07-18T12:00:00+08:00",
-      "summary": "尽管新相机层出不穷，但2014年推出的佳能G1X Mark II凭借其1.5英寸大底传感器和24-120mm f/2.0-3.9镜头，在2026年仍被视为街拍利器，展现了老款相机的持久魅力。",
-      "recommendation": "解析2014年佳能G1X Mark II在2026年仍具竞争力的原因，提供1.5英寸传感器与f/2.0-3.9镜头的实战价值，适合街拍爱好者评估老设备潜力。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why the Canon G1X Mark II is So Good for Street Photography in 2026"
-    },
-    {
-      "id": "recvpH1tQAI4T1",
-      "title": "几乎适用于每款无反相机的多功能变焦镜头最佳优惠",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/17/the-best-deals-on-versatile-zooms-for-nearly-every-mirrorless-camera/",
-      "publish_time": "2026-07-18T04:19:41+08:00",
-      "summary": "一款优秀的多功能变焦镜头是摄影师在套头之后的首选，适用于广角风景、人像、日常摄影、旅行、街拍、活动、野生动物和视频拍摄。",
-      "recommendation": "汇总多款无反相机通用变焦镜头当前优惠，涵盖广角到长焦焦段，适合升级套头的用户快速比价。无独家数据，属常规促销资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Best Deals on Versatile Zooms for Nearly Every Mirrorless Camera"
-    },
-    {
-      "id": "recvpH1xbjezsF",
-      "title": "CineStill 50D：明亮夏日里的完美慢速胶片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/17/cinestill-50d-is-a-perfect-slow-speed-film-for-bright-summer-days/",
-      "publish_time": "2026-07-18T03:51:51+08:00",
-      "summary": "CineStill 50D是慢速日光胶片，适合明亮夏日，虽不如800T和400D受欢迎，但独特可爱，值得更多关注。",
-      "recommendation": "解析CineStill 50D在明亮夏日中的独特表现，提供慢速日光胶片的使用技巧与色彩特性，适合胶片爱好者探索小众卷种。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "CineStill 50D Is a Perfect Slow Speed Film for Bright Summer Days"
-    },
-    {
-      "id": "recvpF4S42jgf0",
-      "title": "试试这个：给无聊摄影师的相机技巧",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/17/try-this-the-camera-trick-for-the-bored-photographer/",
-      "publish_time": "2026-07-18T03:00:00+08:00",
-      "summary": "以《哈利·波特》摄魂怪为例，展示如何用极简布景创作引人注目的条纹肖像，提供摄影师实用技巧。",
-      "recommendation": "文章以《哈利·波特》摄魂怪为灵感，提供极简布景创作条纹肖像的实用技巧，适合摄影爱好者突破创意瓶颈。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Try This: The Camera Trick for the Bored Photographer"
-    },
-    {
-      "id": "recvpF4A4BAGsM",
-      "title": "这些照片并非来自末日电影场景。令人心碎的美丽照片记录本周野火的破坏",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/these-photos-are-not-from-an-apocalyptic-movie-set-achingly-beautiful-photographs-capture-the-devastation-of-this-weeks-wildfires",
-      "publish_time": "2026-07-18T02:27:22+08:00",
-      "summary": "本周新闻照片记录野火破坏，黄色烟雾营造诡异氛围，展现灾难中的美丽与心碎",
-      "recommendation": "通过野火纪实照片解析灾难摄影的构图与氛围营造技巧，展示极端环境下曝光与色彩处理思路，对纪实摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These photos are not from an apocalyptic movie set. Achingly beautiful photographs capture the devastation of this week’s wildfires"
-    },
-    {
-      "id": "recvpF4fpKjXDp",
-      "title": "这款柯达品牌胶片相机为35mm胶片摄影提供了低成本入门选择",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/this-kodak-branded-film-camera-offers-a-low-cost-entry-into-35mm-film-photography/",
-      "publish_time": "2026-07-18T02:15:27+08:00",
-      "summary": "柯达授权商Reto推出复古造型紧凑型胶片相机，为35mm胶片摄影提供低成本入门选择。",
-      "recommendation": "文章提供35mm胶片摄影的低成本入门方案，解析Reto柯达授权相机的复古设计与实用性，适合新手了解胶片设备市场动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Kodak-branded film camera offers a low-cost entry into 35mm film photography"
-    },
-    {
-      "id": "recvpF4kuJz9Ag",
-      "title": "第41届AOP学生摄影奖的鼓舞人心获奖者",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/17/the-inspiring-winners-of-the-41st-aop-student-photography-awards/",
-      "publish_time": "2026-07-18T02:00:00+08:00",
-      "summary": "摄影师协会公布第41届AOP学生摄影奖获奖者，表彰年轻摄影师的创意与技艺。",
-      "recommendation": "展示年轻摄影师获奖作品，提供创意构图与光影技巧参考，适合寻找灵感与审美提升。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Inspiring Winners of the 41st AOP Student Photography Awards"
-    },
-    {
-      "id": "recvpF4CGEQp5y",
-      "title": "使用大画幅摄影，这名学生因记录西欧最后一座工作斜井煤矿的矿工而赢得两项重大摄影奖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/using-large-format-photography-this-student-wins-two-major-photo-awards-for-recording-coal-miners-in-the-last-working-drift-colliery-in-western-europe",
-      "publish_time": "2026-07-18T02:00:00+08:00",
-      "summary": "一名学生使用5x4大画幅HP5胶片拍摄西欧最后一座工作斜井煤矿的矿工，记录煤矿景观和工人，赢得两项重大摄影奖。",
-      "recommendation": "5x4大画幅胶片记录西欧最后斜井煤矿，展示传统摄影在纪实项目中的独特价值，提供矿工工作与景观的深度视觉档案。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Using large-format photography, this student wins two major photo awards for recording coal miners in the last working drift colliery in Western Europe"
-    },
-    {
-      "id": "recvpF4F62sqo3",
-      "title": "就像《当哈利遇到莎莉》：突然，我觉得尼康ZR是一台可行的静态相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/its-like-when-harry-met-sally-suddenly-im-looking-at-the-nikon-zr-like-its-a-viable-stills-camera",
-      "publish_time": "2026-07-18T00:55:16+08:00",
-      "summary": "尼康ZR以视频为主，但具备不错的静态摄影规格，能否成为可靠静态相机？",
-      "recommendation": "从视频机定位切入，分析ZR静态摄影的可行性，提供传感器规格与实拍对比数据，对纠结视频与拍照双修的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "It’s like When Harry Met Sally: Suddenly, I’m looking at the Nikon ZR like it’s a viable stills camera"
-    },
-    {
-      "id": "recvpF4Pn85XL2",
-      "title": "使用VideoProc AI降噪高ISO图像/视频并提升整体画质",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/denoise-high-iso-images-videos-and-improve-overall-quality-with-videoproc-ai/",
-      "publish_time": "2026-07-18T00:03:20+08:00",
-      "summary": "本文介绍VideoProc AI如何降噪高ISO图像视频，提升画质，解决噪点、模糊、抖动等问题，适用于裁剪和打印场景。",
-      "recommendation": "实测VideoProc AI对高ISO噪点与模糊的修复效果，提供具体参数对比，适合追求后期效率的影像爱好者。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Denoise High-ISO Images/Videos and Improve Overall Quality with VideoProc AI"
-    },
-    {
-      "id": "recvpF4MCvGBnW",
-      "title": "iPhone 18 Pro 配备可变光圈相机的新证据浮出水面",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_proof_for_the_iphone_18_pro_and_iphone_18_pro_max_having_a_variable_aperture_camera_surfaces-news-73774.php",
-      "publish_time": "2026-07-18T00:00:02+08:00",
-      "summary": "塔塔电子泄露文件证实iPhone 18 Pro系列主摄将配备可变光圈，并采用索尼IMX903定制传感器。",
-      "recommendation": "塔塔电子泄露文件证实iPhone 18 Pro主摄将配备可变光圈与索尼IMX903定制传感器，为影像爱好者提供独家硬件升级证据，揭示苹果在计算摄影外的光学突破。",
-      "categories": [
-        "镜头与光学",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New proof for the iPhone 18 Pro having a variable aperture camera surfaces"
-    },
-    {
-      "id": "recvpF4Utrx0RN",
-      "title": "电影票价20年飙升：涨幅超20%",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/17/this-is-what-film-used-to-cost-10-years-ago-copy/",
-      "publish_time": "2026-07-18T00:00:00+08:00",
-      "summary": "电影票价20年涨幅超20%，摄影师尼克·西尼展示2005年胶卷目录，显示成本波动，但实际涨幅显著。",
-      "recommendation": "通过胶卷成本与票价涨幅对比，揭示电影产业成本结构变迁，为影像爱好者理解行业经济逻辑提供独特视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "How Film Prices Have Shot Up Over 20 Years"
-    },
-    {
-      "id": "recvpF4HFfIp3V",
-      "title": "徕卡最新Q3与D-Lux 8便携相机终于开放预购",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/leicas-coolest-new-q3-and-d-lux-8-compact-cameras-are-finally-available-to-preorder",
-      "publish_time": "2026-07-17T23:57:40+08:00",
-      "summary": "徕卡金属灰Q3和D-Lux 8便携相机在美国开启预售，Q3搭载全画幅传感器和28mm f/1.7镜头，D-Lux 8采用M4/3传感器和24-75mm f/1.7-2.8镜头，均支持4K视频录制。",
-      "recommendation": "文章提供徕卡Q3金属灰版与D-Lux 8的预购信息，含全画幅与M4/3传感器参数对比，对关注便携相机升级的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leica’s coolest new Q3 and D-Lux 8 compact cameras are finally available to preorder"
-    },
-    {
-      "id": "recvpF4n7TFj2v",
-      "title": "柯达EC35 35mm胶片相机重现经典滑盖设计",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/17/the-kodak-ec35-35mm-film-camera-brings-back-the-iconic-slide-cover/",
-      "publish_time": "2026-07-17T23:53:31+08:00",
-      "summary": "Reto公司发布柯达EC35 35mm胶片相机，采用经典滑盖设计，定位日常携带紧凑型相机，注重外观与易用性。",
-      "recommendation": "解析柯达EC35滑盖设计复刻，提供胶片相机复古外观与便携性的具体参数，适合关注经典机型复刻趋势的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Kodak EC35 35mm Film Camera Brings Back the Iconic Slide Cover"
-    },
-    {
-      "id": "recvpF4K1Yt8lP",
-      "title": "Ben Marcin 20年如一日拍摄数十栋废弃房屋，新书堪称编辑大师课",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/ben-marcin-photographed-dozens-of-abandoned-houses-in-exactly-the-same-way-for-20-years-and-his-new-book-is-a-masterclass-in-editing",
-      "publish_time": "2026-07-17T23:00:24+08:00",
-      "summary": "Ben Marcin 20年拍摄巴尔的摩废弃房屋，新摄影集展示如何组织系列，为编辑提供重要启示。",
-      "recommendation": "20年拍摄同一主题，新书展示如何通过编辑组织形成系列，为影像爱好者提供长期项目策划与视觉叙事的具体方法论。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Ben Marcin photographed dozens of abandoned houses in exactly the same way for 20 years, and his new book is a masterclass in editing"
-    },
-    {
-      "id": "recvpF4pq3NMQw",
-      "title": "Squarespace 将涨价高达 26%",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/17/squarespace-is-increasing-prices-by-up-to-26/",
-      "publish_time": "2026-07-17T22:54:32+08:00",
-      "summary": "Squarespace用户报告收到涨价通知，涨幅高达26%，取决于方案和付款方式。",
-      "recommendation": "常规资讯，可了解行业动态。对影像爱好者无直接价值，但Squarespace涨价可能影响个人摄影师建站成本。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Squarespace Is Increasing Prices By Up to 26%"
     }
   ]
 }
