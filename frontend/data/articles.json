@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-29T04:09:24.795753+08:00",
+    "updated_at": "2026-07-29T11:57:54.851440+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 26
     },
     {
       "key": "镜头与光学",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 20
+      "count": 19
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,124 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 177
+      "count": 175
     }
   ],
   "articles": [
+    {
+      "id": "recvqJoci8XpHo",
+      "title": "尼康在中国对唯卓仕的专利侵权诉讼似乎败诉了",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/28/it-seems-that-nikon-lost-the-patent-infringement-lawsuit-against-viltrox-in-china.aspx/",
+      "publish_time": "2026-07-29T09:09:31+08:00",
+      "summary": "尼康在中国对唯卓仕的专利侵权诉讼中败诉，其Z卡口专利被中国国家知识产权局宣告无效。",
+      "recommendation": "尼康Z卡口专利被判无效，第三方镜头厂商开放竞争，利好副厂镜头选择。文章提供诉讼结果与专利局裁定细节，对关注卡口生态的用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "It seems that Nikon lost the patent infringement lawsuit against Viltrox in China"
+    },
+    {
+      "id": "recvqJof9wrBZB",
+      "title": "适马35mm f/1.4 DG II Art镜头在尼康Zf与Z9上测试",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/28/sigma-35mm-f-1-4-dg-ii-art-lens-tested-on-the-nikon-zf-z9.aspx/",
+      "publish_time": "2026-07-29T06:51:39+08:00",
+      "summary": "适马35mm f/1.4 DG II Art镜头（1059美元）通过Megadap Pro+转接环在尼康Zf和Z9上测试，由Dariusz Breś完成，展示了该标准焦距镜头的性能。",
+      "recommendation": "转接适马35/1.4 DG II Art至尼康Zf/Z9的实测，包含对焦速度、画质对比及转接环兼容性数据，为Z卡口用户提供副厂镜头选择参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sigma 35mm f/1.4 DG II Art lens tested on the Nikon Zf & Z9"
+    },
+    {
+      "id": "recvqJo43Rs7z1",
+      "title": "新爆料称Pixel 11和Pixel 11 Pro可能比前代更便宜",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_leak_claims_the_pixel_11_and_pixel_11_pro_may_actually_be_cheaper_than_their_predecessors-news-73913.php",
+      "publish_time": "2026-07-29T05:33:02+08:00",
+      "summary": "谷歌确认Pixel系列涨价，但爆料称Pixel 11和11 Pro英国起售价879英镑，比前代便宜20英镑，配备256GB存储。",
+      "recommendation": "常规资讯，可了解行业动态。爆料Pixel 11系列降价20英镑并标配256GB存储，对关注谷歌影像旗舰定价策略的读者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New leak claims the Pixel 11 and Pixel 11 Pro may actually be cheaper than their predecessors"
+    },
+    {
+      "id": "recvqJo9nAIAiK",
+      "title": "荣耀即将推出的机器人手机看起来像大疆Osmo Pocket和智能手机的结合体——首款与电影巨头阿莱合作打造的智能手机即将发布",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phones/honors-upcoming-robot-phone-looks-like-the-dji-osmo-pocket-and-a-smartphone-had-a-baby-and-the-first-smartphone-built-with-cinema-giant-arri-is-prepping-for-launch",
+      "publish_time": "2026-07-29T04:26:01+08:00",
+      "summary": "荣耀将推机器人手机，结合大疆Osmo Pocket与智能手机，首款与阿莱合作，传感器尺寸等细节公布",
+      "recommendation": "首款与阿莱合作的手机影像系统，结合云台结构，传感器尺寸等关键参数曝光，对关注计算摄影与移动影像创新的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Honor’s upcoming Robot Phone looks like the DJI Osmo Pocket and a smartphone had a baby – and the first smartphone built with cinema giant Arri is prepping for launch"
+    },
+    {
+      "id": "recvqJnVtmWJno",
+      "title": "这款新望远镜配备编织背带，专为鸟类摄影师设计",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/28/these-new-binoculars-have-woven-straps-perfect-for-bird-photographers/",
+      "publish_time": "2026-07-29T04:20:36+08:00",
+      "summary": "Nocs Provisions与奥杜邦学会合作推出限量版双筒望远镜，配备鸟纹编织挂绳，专为鸟类摄影师设计，融合现代光学与保护理念。",
+      "recommendation": "鸟类摄影爱好者可了解Nocs与奥杜邦联名望远镜的鸟纹挂绳设计，融合光学与保护理念，属常规产品资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "These New Binoculars Have Woven Straps Perfect for Bird Photographers"
+    },
+    {
+      "id": "recvqJnYzJ3nRk",
+      "title": "PlantCam：一款专为植物设计的延时摄影相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/28/plantcam-is-a-timelapse-camera-for-you-guessed-it-your-plants/",
+      "publish_time": "2026-07-29T04:19:39+08:00",
+      "summary": "PlantCam推出紧凑型延时摄影相机和应用程序，专为监测植物生长设计，提供记录植物随时间变化的新方式。",
+      "recommendation": "聚焦植物延时摄影这一细分场景，解析PlantCam的硬件设计与应用逻辑，为影像爱好者提供记录植物生长的实用方案与设备参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "PlantCam Is a Timelapse Camera for, You Guessed It, Your Plants"
+    },
+    {
+      "id": "recvqJo6LIKqit",
+      "title": "WhatsApp Web 终于支持音频和视频通话",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/whatsapp_web_finally_gets_support_for_audio_and_video_calls-news-73910.php",
+      "publish_time": "2026-07-29T04:01:01+08:00",
+      "summary": "WhatsApp Web 新增音频和视频通话功能，无需下载，支持端到端加密、屏幕共享、消息反应及通话记录，无时间限制和费用，可跨设备转移通话。",
+      "recommendation": "常规资讯，可了解行业动态。虽非影像核心内容，但端到端加密通话与屏幕共享功能为影像创作者提供远程协作新场景。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "WhatsApp Web finally gets support for audio and video calls"
+    },
     {
       "id": "recvqHtqamF7xt",
       "title": "每月12美元起，可租赁新款iPhone、iPad或Mac",
@@ -56,6 +165,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "You Can Lease a New iPhone, iPad, or Mac Starting at $12 a Month"
+    },
+    {
+      "id": "recvqJo1lOCheq",
+      "title": "新优惠：思锐镜头、Wandrd背包和绿联配件最高可省70%",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-deals-save-up-to-70-on-sirui-lenses-save-big-on-ugreen-stuff/",
+      "publish_time": "2026-07-29T03:29:58+08:00",
+      "summary": "新优惠：思锐镜头、Wandrd背包和绿联配件最高可省70%，折扣自动应用。",
+      "recommendation": "思锐镜头、Wandrd背包及绿联配件折扣信息汇总，最高省70%，适合影像爱好者低成本补充拍摄装备，属常规促销资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New deals: Save up to 70% on Sirui lenses, Wandrd bags and Ugreen gear"
     },
     {
       "id": "recvqHug2XSCjo",
@@ -7638,131 +7762,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "These photographs are breaking my heart, but this 55-year-old elephant’s viral rescue also proves the power of photography"
-    },
-    {
-      "id": "recvpCnghanXlQ",
-      "title": "我试过Camp Snap两款爆款无屏相机——这是我会给自己选的那款（以及我会给孩子选的那款）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/ive-tried-both-of-camp-snaps-viral-screen-free-cameras-this-is-the-one-i-would-choose-for-myself-and-the-one-i-would-choose-for-my-kids",
-      "publish_time": "2026-07-17T15:38:01+08:00",
-      "summary": "Camp Snap 2与CS-Pro无屏相机对比，CS-Pro有取景器和更高像素，适合成人；Camp Snap 2更简单便宜，适合儿童。",
-      "recommendation": "对比Camp Snap两款无屏相机的差异化定位，提供成人版与儿童版的选择建议，适合关注极简摄影或儿童影像启蒙的爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I've tried both of Camp Snap's viral screen-free cameras – this is the one I would choose for myself (and the one I would choose for my kids)"
-    },
-    {
-      "id": "recvpCnaYxJtJL",
-      "title": "iQOO确认Z11 Lite价格区间并透露更多细节",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_z11_lite_price_segment-news-73764.php",
-      "publish_time": "2026-07-17T15:15:02+08:00",
-      "summary": "iQOO确认Z11 Lite印度售价低于20000卢比，配备120Hz刘海屏、1200尼特亮度、5000万像素索尼主摄，最高6GB RAM和256GB存储，预装OriginOS 6系统。",
-      "recommendation": "常规资讯，可了解行业动态。文章确认Z11 Lite价格与核心影像配置，5000万像素索尼主摄参数明确，但缺乏独家数据或深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iQOO confirms Z11 Lite's price segment while revealing more details about it"
-    },
-    {
-      "id": "recvpCnl73Xmyk",
-      "title": "Christopher Frost 评测新款 Meike 85mm f/1.4 FE II 镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/christopher-frost-review-of-the-new-meike-85mm-f-1-4-fe-ii-lens/",
-      "publish_time": "2026-07-17T15:13:17+08:00",
-      "summary": "Christopher Frost评测新款Meike 85mm f/1.4 FE II镜头，认为该版本表现优异，可在亚马逊和Meike商店购买。",
-      "recommendation": "Christopher Frost实测Meike 85mm f/1.4 FE II，提供MTF曲线与实拍样张，对比前代解析力提升数据，对副厂人像头选购有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Christopher Frost review of the new Meike 85mm f/1.4 FE  II lens"
-    },
-    {
-      "id": "recvpCnnvLUyDw",
-      "title": "追踪盗用你照片的人",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/17/modern-journalism-phoblographer-copy-3-copy-4-copy-4/",
-      "publish_time": "2026-07-17T15:00:00+08:00",
-      "summary": "Phoblographer会员可享Imalume折扣，该服务追踪照片盗用者并获赔偿。2025年该媒体计划重印纸质杂志，且不向大型相机制造商售广告。",
-      "recommendation": "文章揭示Imalume照片追踪服务，为摄影师维权提供实用工具；提及2025年纸质杂志复刊计划，反映行业媒体转型动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Track Down the People Who Stole Your Photos"
-    },
-    {
-      "id": "recvpCnq40PMOL",
-      "title": "2026年最值得购买的5款旁轴相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/17/the-best-5-rangefinder-style-cameras-to-buy-in-2026/",
-      "publish_time": "2026-07-17T12:00:00+08:00",
-      "summary": "2026年最值得购买的5款旁轴相机，适合专业人士和业余爱好者，便携易用，推荐型号包括Leica M11、Fujifilm X-Pro4等。",
-      "recommendation": "盘点2026年旁轴相机市场，含Leica M11、Fujifilm X-Pro4等型号的传感器与对焦系统数据，适合对比选购。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best 5 Rangefinder-Style Cameras To Buy in 2026"
-    },
-    {
-      "id": "recvpBcBfVS6Fx",
-      "title": "哈苏Phocus Mobile终于登陆Android平台",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/hasselblads_phocus_mobile_finally_lands_on_android-news-73761.php",
-      "publish_time": "2026-07-17T08:00:01+08:00",
-      "summary": "哈苏Phocus Mobile在iOS版发布16年后终于登陆Android，兼容X2D II等相机，提供端到端HNCS体验，集成AI降噪与编辑管理工具",
-      "recommendation": "哈苏Phocus Mobile安卓版填补了16年空白，提供端到端HNCS工作流与AI降噪，安卓用户可直连X2D II实现专业后期。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Hasselblad's Phocus Mobile finally lands on Android"
-    },
-    {
-      "id": "recvpBcqBxUrzo",
-      "title": "佳能新童书：外星人解释相机为何如此酷炫",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/16/canon-new-childrens-book-has-aliens-explaining-why-cameras-are-awesome/",
-      "publish_time": "2026-07-17T05:25:29+08:00",
-      "summary": "佳能发布儿童向公司介绍手册《佳能之星的秘密》，以外星人视角解释相机技术，旨在激发儿童对摄影的兴趣。",
-      "recommendation": "佳能以儿童向手册切入摄影教育，以外星人视角科普相机技术，为影像爱好者提供品牌市场策略与科普创新的独特视角。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon New Children’s Book Has Aliens Explaining Why Cameras Are Awesome"
-    },
-    {
-      "id": "recvpF4uKZWdSD",
-      "title": "佳能新童书：外星人解释相机为何如此酷炫",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/16/canon-new-childrens-book-has-aliens-explaining-why-cameras-are-awesome/",
-      "publish_time": "2026-07-17T05:25:29+08:00",
-      "summary": "佳能发布儿童科普书《佳能之星的秘密》，以外星人视角解释相机技术，旨在激发儿童对摄影的兴趣。",
-      "recommendation": "佳能以儿童科普书形式切入摄影教育，外星人视角降低技术门槛，适合影像爱好者了解品牌在启蒙领域的独特布局。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon’s New Children’s Book Has Aliens Explaining Why Cameras Are Awesome"
     }
   ]
 }
