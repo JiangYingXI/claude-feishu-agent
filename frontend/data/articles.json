@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-29T11:57:54.851440+08:00",
+    "updated_at": "2026-07-29T17:28:55.827328+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 24
     },
     {
       "key": "镜头与光学",
@@ -23,25 +23,120 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 19
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 30
+      "count": 29
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 378
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 175
+      "count": 177
     }
   ],
   "articles": [
+    {
+      "id": "recvqKJna7fgHV",
+      "title": "研究人员创建工具，将虚假视频溯源至生成它们的AI系统",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/researchers-create-tool-to-trace-fake-videos-to-the-ai-system-that-made-them/",
+      "publish_time": "2026-07-29T17:07:48+08:00",
+      "summary": "研究人员开发新工具，利用生成模型留下的视觉指纹，将虚假视频溯源至制作它们的AI系统，从而识别视频来源。",
+      "recommendation": "揭示AI生成视频的溯源技术，为影像爱好者提供鉴别虚假内容的实用工具，独家解析生成模型的视觉指纹特征。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Researchers Create Tool to Trace Fake Videos to the AI System That Made Them"
+    },
+    {
+      "id": "recvqKJuTLHxGI",
+      "title": "买不到的历史底蕴：尼康庆祝109岁生日，为何依然称霸",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/you-cant-buy-heritage-why-nikon-still-rules-as-it-celebrates-its-109th-birthday",
+      "publish_time": "2026-07-29T16:42:21+08:00",
+      "summary": "尼康庆祝109岁生日，凭借丰富创新传承成为相机巨头，文章回顾其发展历程与核心优势。",
+      "recommendation": "回顾尼康109年技术演进与光学积淀，剖析其从胶片到数码的转型策略，为相机爱好者提供品牌历史与产品基因的深度解读。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "You can’t buy heritage: Why Nikon still rules as it celebrates its 109th birthday!"
+    },
+    {
+      "id": "recvqKJpMxFUll",
+      "title": "美国男子在机场安检时被指控删除手机照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/american-man-charged-after-allegedly-wiping-photos-from-his-phone-during-airport-search/",
+      "publish_time": "2026-07-29T16:13:04+08:00",
+      "summary": "美国政府首次起诉一名美国公民，指控其在机场安检时删除手机照片，涉及数据清除行为。",
+      "recommendation": "安检删除照片首涉刑责，揭示数据主权与隐私边界，对影像创作者有法律警示价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "American Man Charged After Allegedly Wiping Photos From His Phone During Airport Search"
+    },
+    {
+      "id": "recvqKJxmMyppu",
+      "title": "拥有松下相机？试试这个",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/29/mistake-photographers-with-gear-copy-2-copy/",
+      "publish_time": "2026-07-29T15:00:00+08:00",
+      "summary": "松下相机耐用但可能遇快门问题，灰尘影响性能需清洁触点，摄影关怀计划保障设备",
+      "recommendation": "针对松下相机用户，提供快门问题与触点清洁的实用维护技巧，并介绍摄影关怀计划，对延长设备寿命有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Got a Panasonic Camera? Then Try This"
+    },
+    {
+      "id": "recvqKJsqbtkPj",
+      "title": "Mark Wiemels谈唯卓仕新款26mm饼干头：这支镜头对你的其他镜头来说是个坏消息……",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/mark-wiemels-about-the-new-viltrox-26mm-pancake-this-lens-is-bad-news-for-your-other-lenses/",
+      "publish_time": "2026-07-29T14:51:00+08:00",
+      "summary": "唯卓仕新款26mm f/2.8 FE AF饼干镜头预购开启，Mark Wiemels称其对其他镜头构成威胁。",
+      "recommendation": "Mark Wiemels从竞品视角剖析唯卓仕26mm f/2.8饼干头，揭示其对现有镜头生态的冲击，含预购细节与光学设计要点，适合关注轻便定焦的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Mark Wiemels about the new Viltrox 26mm pancake: This Lens Is Bad News, For Your Other Lenses…"
+    },
+    {
+      "id": "recvqKJzPIQQIE",
+      "title": "在苹果手表之前，卡西欧就把相机绑在了你的手腕上",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/29/before-the-apple-watch-casio-strapped-a-camera-to-your-wrist/",
+      "publish_time": "2026-07-29T12:00:00+08:00",
+      "summary": "卡西欧在苹果智能手表之前推出了世界首款腕表数码相机，展示了早期数码相机制造业的创新精神。",
+      "recommendation": "追溯卡西欧腕表相机历史，揭示早期数码影像创新思路，对理解可穿戴影像设备演进有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Before the Apple Watch, Casio Strapped a Camera to Your Wrist"
+    },
     {
       "id": "recvqJoci8XpHo",
       "title": "尼康在中国对唯卓仕的专利侵权诉讼似乎败诉了",
@@ -7669,99 +7764,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "This 61-megapixel Sony camera deal is still one of the best buys of the year so far"
-    },
-    {
-      "id": "recvpDKBRgAdqX",
-      "title": "HyperOS源代码显示，Poco X8标准版终究还是来了",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/there_will_be_a_vanilla_poco_x8_after_all-news-73767.php",
-      "publish_time": "2026-07-17T17:50:02+08:00",
-      "summary": "HyperOS源代码证实Poco X8存在，配备5000万像素主摄和200万像素深度传感器，此前被认为已取消。",
-      "recommendation": "源代码证实Poco X8存在，5000万主摄+200万深度传感器配置曝光，对关注中端手机影像配置的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "There will be a vanilla Poco X8 after all, HyperOS source code suggests"
-    },
-    {
-      "id": "recvpDK1NaG1jq",
-      "title": "科技高管正在招聘安全人员，因对AI的反弹变得暴力",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/17/tech-executives-are-hiring-security-as-backlash-toward-ai-gets-violent/",
-      "publish_time": "2026-07-17T17:43:53+08:00",
-      "summary": "科技高管因AI反弹暴力威胁加强安保，招聘安全人员应对现实世界风险。",
-      "recommendation": "常规资讯，可了解行业动态。AI安全议题与影像领域关联度低，但反映科技行业风险趋势，对关注影像行业生态的读者有间接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tech Executives Are Hiring Security as Backlash Toward AI Gets Violent"
-    },
-    {
-      "id": "recvpDKHlVb4ht",
-      "title": "PetaPixel：哪款高分辨率全画幅相机拥有最佳传感器？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/petapixel-which-high-resolution-full-frame-camera-has-the-best-sensor/",
-      "publish_time": "2026-07-17T17:36:49+08:00",
-      "summary": "PetaPixel评测四款高分辨率全画幅相机传感器，松下S1R II在基础ISO细节略少，高ISO降噪强，文章首发于sonyalpharumors。",
-      "recommendation": "对比四款高像素全画幅传感器，提供基础ISO细节与高ISO降噪的实测数据，对追求画质的用户有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "PetaPixel: Which High-Resolution Full-Frame Camera Has the Best Sensor?"
-    },
-    {
-      "id": "recvpDK4coJ1MT",
-      "title": "活动结束后返回车内放置摄像机，摄像师不幸遇难",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/17/videographer-killed-while-returning-camera-to-his-car-after-event/",
-      "publish_time": "2026-07-17T17:28:18+08:00",
-      "summary": "上周一名摄像师在派对工作结束后返回车内放置摄像机时被枪杀。",
-      "recommendation": "行业安全警示，提醒影像工作者注意户外设备保管与人身风险，非技术内容但具现实参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Videographer Killed While Returning Camera to His Car After Event"
-    },
-    {
-      "id": "recvpDKtn7XyB4",
-      "title": "又一款尼康单反镜头停产…尼克尔AF-P DX 10-20mm f/4.5-5.6G VR最后库存即将售罄",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/another-nikon-dslr-lens-bites-the-dust-last-stocks-ever-of-nikkor-af-p-dx-10-20mm-f-4-5-5-6g-vr-are-almost-sold-out",
-      "publish_time": "2026-07-17T16:55:00+08:00",
-      "summary": "尼康尼克尔AF-P DX 10-20mm f/4.5-5.6G VR镜头停产，库存告急，二手市场或现机遇",
-      "recommendation": "尼康单反镜头停产动态，为DX用户提供超广角镜头二手购入时机参考，含具体型号与光圈参数，属常规行业资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Another Nikon DSLR lens bites the dust… last stocks ever of Nikkor AF‑P DX 10‑20mm f/4.5‑5.6G VR are almost sold out"
-    },
-    {
-      "id": "recvpCndIy1kaV",
-      "title": "这些照片让我心碎，但这头55岁大象的救援走红也证明了摄影的力量",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/these-photographs-are-breaking-my-heart-but-this-55-year-old-elephants-viral-rescue-also-proves-the-power-of-photography",
-      "publish_time": "2026-07-17T15:48:26+08:00",
-      "summary": "一头55岁马戏团大象因动物状况视频网上流传获救，救援走红证明摄影力量。",
-      "recommendation": "通过55岁大象救援案例，揭示纪实摄影如何推动社会行动。提供动物影像传播的独家数据，适合关注摄影社会影响力的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These photographs are breaking my heart, but this 55-year-old elephant’s viral rescue also proves the power of photography"
     }
   ]
 }
