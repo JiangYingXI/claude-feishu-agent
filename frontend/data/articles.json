@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-30T03:59:16.437558+08:00",
+    "updated_at": "2026-07-30T11:47:37.654126+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 86
+      "count": 85
     },
     {
       "key": "ISP & 影像芯片",
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvqPcb2r51jp",
+      "title": "荣耀X6e发布：配备7500mAh超大电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_x6e_arrives_with_a_7500_mah_battery-news-73927.php",
+      "publish_time": "2026-07-30T11:11:02+08:00",
+      "summary": "荣耀X6e在马来西亚发布，配备6.61英寸120Hz LCD屏、联发科Helio G81 Ultra、4GB RAM、128GB存储、5000万主摄及7500mAh电池。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦荣耀X6e的7500mAh电池，影像部分仅提及5000万主摄，缺乏传感器型号、光圈等关键参数，对影像爱好者参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor X6e arrives with a 7,500 mAh battery"
+    },
+    {
+      "id": "recvqPc7mrJ1RB",
+      "title": "普利策获奖摄影师马库斯·亚姆全能出击",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/29/pulitzer-winning-photographer-marcus-yam-is-doing-it-all/",
+      "publish_time": "2026-07-30T04:33:37+08:00",
+      "summary": "普利策获奖摄影师马库斯·亚姆工伤恢复后完成哈佛尼曼奖学金，重返一线策划、撰写和拍摄专题报道。",
+      "recommendation": "从摄影师工伤康复到重返一线，揭示纪实摄影师的职业韧性与创作方法论，对理解专题报道的策划与拍摄有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Pulitzer-Winning Photographer Marcus Yam Is Doing it All"
+    },
     {
       "id": "recvqNhOfCJnHG",
       "title": "索尼持有腾龙关键股份，报告暗示索尼欲增持",
@@ -7731,37 +7761,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Google starts sending invites for the Pixel 11 series launch event in India"
-    },
-    {
-      "id": "recvpJwvuD90LF",
-      "title": "一加退出意味着本已缺乏选择的市场选择更少",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/18/oneplus-exit-means-fewer-options-in-a-market-mired-by-lack-of-choice/",
-      "publish_time": "2026-07-18T18:00:07+08:00",
-      "summary": "一加退出北美和欧洲市场，导致本已缺乏选择的智能手机市场竞争更少，对消费者构成损失。",
-      "recommendation": "分析一加退出对手机影像市场竞争格局的影响，揭示消费者选择减少的深层行业逻辑，适合关注品牌战略与影像生态的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "OnePlus Exit Means Fewer Options in a Market Mired by Lack of Choice"
-    },
-    {
-      "id": "recvpJwLjr9sxe",
-      "title": "为什么理光GR II至今仍是街拍利器",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/18/why-the-ricoh-gr-ii-is-so-good-for-street-photography-even-today/",
-      "publish_time": "2026-07-18T18:00:00+08:00",
-      "summary": "理光GR II凭借便携机身、快速对焦和独特色彩模式，仍是预算有限的街拍利器，核心价值在于高性价比与经典成像风格。",
-      "recommendation": "解析GR II在2024年的街拍价值，提供对焦速度、色彩模式等实测数据，适合预算有限的摄影爱好者权衡经典与性能。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why the Ricoh GR II is so Good for Street Photography Even Today"
     }
   ]
 }
