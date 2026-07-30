@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-30T11:47:37.654126+08:00",
+    "updated_at": "2026-07-30T17:21:33.794496+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 21
+      "count": 20
     },
     {
       "key": "镜头与光学",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 23
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 390
+      "count": 391
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,115 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvqQy3Hm5Pb5",
+      "title": "华为nova 16 SE将于下周与新款MatePad Pro和MateBook Fold一同发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_nova_16_se_to_launch_next_week_alongside_new_matepad_pro_and_matebook_fold-news-73935.php",
+      "publish_time": "2026-07-30T16:52:03+08:00",
+      "summary": "华为8月5日将发布nova 16 SE，搭载麒麟8020芯片、6.84英寸8000尼特AMOLED屏及5000万像素主摄，同时推出新款MatePad Pro和MateBook Fold。",
+      "recommendation": "文章披露nova 16 SE搭载麒麟8020芯片与5000万像素主摄，影像爱好者可关注其计算摄影潜力，但缺乏详细影像规格与样张数据，属常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Huawei nova 16 SE to launch next week alongside new MatePad Pro and MateBook Fold"
+    },
+    {
+      "id": "recvqQy0ZZ5cmV",
+      "title": "Tinder暂停AI照片编辑工具，因女性用户感到不适",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/30/tinder-pauses-ai-photo-editing-tool-after-woman-creeped-out-by-it/",
+      "publish_time": "2026-07-30T16:07:20+08:00",
+      "summary": "Tinder暂停AI照片编辑工具，因自动编辑女性用户照片引发不适，该功能原用于增强照片效果。",
+      "recommendation": "AI影像编辑的伦理边界案例，揭示用户对自动美颜的敏感反应，为计算摄影产品设计提供警示。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tinder Pauses AI Photo Editing Tool After Woman Creeped Out By It"
+    },
+    {
+      "id": "recvqQycjOMv6A",
+      "title": "即使是老款相机的RAW文件，用我们的预设也能呈现出色效果",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/30/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy/",
+      "publish_time": "2026-07-30T15:00:00+08:00",
+      "summary": "老款相机RAW文件用Phoblographer预设可获出色效果，预设兼容Lightroom和Capture One，适用于多种摄影场景，价格实惠。",
+      "recommendation": "针对老款相机RAW文件的后期预设，提供Lightroom和Capture One兼容方案，适合追求低成本提升画质的摄影爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Even Older Camera RAW Files Look Good With Our Presets"
+    },
+    {
+      "id": "recvqQxYfQIAxX",
+      "title": "索尼小贴士…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1911/",
+      "publish_time": "2026-07-30T14:15:28+08:00",
+      "summary": "索尼A1II固件4.0优化体育鸟类拍摄；Nanlite发布750W RGBW LED聚光灯；Sigma新品获好评。",
+      "recommendation": "索尼A1II固件4.0优化体育鸟类拍摄，提供具体对焦算法改进；Nanlite 750W RGBW参数明确，Sigma新品获市场验证。适合关注旗舰机升级与灯光新品的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvqQy6zseIkD",
+      "title": "Oppo A7 Pro Max 发布日期及配色方案揭晓",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_a7_pro_max_launch_date_color_options_revealed-news-73932.php",
+      "publish_time": "2026-07-30T14:00:02+08:00",
+      "summary": "Oppo A7 Pro Max将于8月4日在中国发布，配备10000mAh电池、5000万像素双后摄及5000万像素自拍镜头。",
+      "recommendation": "文章披露Oppo A7 Pro Max的5000万像素双摄及自拍镜头参数，为关注中端手机影像配置的用户提供具体数据参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Oppo A7 Pro Max launch date, color options revealed"
+    },
+    {
+      "id": "recvqQy9nIpxot",
+      "title": "谷歌新款Pixel 11 Pro预告片更清晰展示Pixel Glow功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/googles_new_pixel_11_pro_teaser_offers_a_better_look_at_the_pixel_glow_feature-news-73931.php",
+      "publish_time": "2026-07-30T13:00:02+08:00",
+      "summary": "谷歌发布Pixel 11 Pro预告片，展示后置摄像头上的Pixel Glow RGB LED环形灯，强调Gmail等谷歌服务整合优势。",
+      "recommendation": "预告片揭示Pixel Glow环形灯设计细节，对关注手机补光与谷歌生态整合的影像用户有参考价值，但缺乏独家数据或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google's new Pixel 11 Pro teaser offers a better look at the Pixel Glow feature"
+    },
+    {
+      "id": "recvqQyfkWtSJI",
+      "title": "最后一台好佳能单反？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/30/the-last-good-canon-dslr/",
+      "publish_time": "2026-07-30T12:00:00+08:00",
+      "summary": "文章回顾佳能5D Mark IV在无反时代的技术演变，指出其作为最后一台重要单反相机，为无反世界奠定基础，而非R5系列。",
+      "recommendation": "从5D Mark IV切入，梳理佳能单反到无反的技术演变，提供行业转型的深度视角，适合关注相机发展史的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Last Good Canon DSLR?"
+    },
     {
       "id": "recvqPcb2r51jp",
       "title": "荣耀X6e发布：配备7500mAh超大电池",
@@ -7654,113 +7763,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Tamron’s new 12-20mm F2.8, out and about"
-    },
-    {
-      "id": "recvpKViLv0V7X",
-      "title": "相机行业是否开始重视发烧友需求？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/opinion/is-the-camera-industry-waking-up-to-enthusiast-demand/",
-      "publish_time": "2026-07-18T22:00:00+08:00",
-      "summary": "相机行业开始重视发烧友需求，性能紧凑型车复兴，表明市场正回归对高性能便携设备的关注。",
-      "recommendation": "分析相机行业回归发烧友需求的趋势，揭示性能紧凑机型复兴背后的市场逻辑，为关注便携高性能设备的用户提供行业动态与深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the camera industry waking up to enthusiast demand?"
-    },
-    {
-      "id": "recvpKVBpDyPYY",
-      "title": "索尼FX5或可通过未来固件更新实现4K 240fps录制",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-fx5-might-be-able-to-record-240fps-in-4k-via-future-firmware-update/",
-      "publish_time": "2026-07-18T20:44:49+08:00",
-      "summary": "索尼FX5或通过固件更新支持4K 240fps，搭载16.6MP全堆叠传感器、BIONZ XR 2处理器及AI自动对焦，支持Open Gate 5K 3:2录制。",
-      "recommendation": "文章透露FX5固件升级潜力，16.6MP全堆叠传感器与BIONZ XR 2处理器组合下，4K 240fps录制或成现实，对高帧率视频创作者有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony FX5 might be able to record 240fps in 4K via future firmware update"
-    },
-    {
-      "id": "recvpJwFJGhM36",
-      "title": "Evan Blass新泄露显示Z Fold8、Z Fold8 Ultra和Galaxy Watch9，确认部分规格",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_leak_by_evan_blass_shows_the_z_fold8_z_fold8_ultra_and_galaxy_watch9_confirms_some_specs-news-73784.php",
-      "publish_time": "2026-07-18T20:36:02+08:00",
-      "summary": "Evan Blass泄露显示Z Fold8、Z Fold8 Ultra和Galaxy Watch9官方渲染图，确认规格无意外。",
-      "recommendation": "Evan Blass泄露Z Fold8系列渲染图，确认影像规格，为关注折叠屏相机升级的用户提供前瞻参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New leak by Evan Blass shows the Z Fold8, Z Fold8 Ultra and Galaxy Watch9, confirms some specs"
-    },
-    {
-      "id": "recvpJwy3fbDug",
-      "title": "作为摄影师，追逐壮观易如反掌——但这部电影教你拥抱日常",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/as-a-photographer-its-easy-to-chase-the-spectacular-but-this-movie-teaches-you-to-embrace-the-everyday",
-      "publish_time": "2026-07-18T20:30:00+08:00",
-      "summary": "《完美的日子》启示摄影师：日常细节蕴含拍摄机会，平凡中见真章。",
-      "recommendation": "从电影《完美的日子》切入，探讨日常摄影美学，提供从平凡场景挖掘拍摄机会的实用视角，适合追求纪实与情感表达的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "As a photographer, it’s easy to chase the spectacular – but this movie teaches you to embrace the everyday"
-    },
-    {
-      "id": "recvpJwswwy4yn",
-      "title": "摄影师起诉艺术家涉嫌挪用其十余张照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/18/photographer-sues-artist-over-alleged-appropriation-of-more-than-a-dozen-of-her-images/",
-      "publish_time": "2026-07-18T19:00:39+08:00",
-      "summary": "摄影师起诉艺术家Mickalene Thomas，指控其未经同意或署名擅自使用其十余张照片。",
-      "recommendation": "探讨摄影版权边界，通过具体案例揭示艺术家挪用照片的法律与伦理争议，对影像创作者有实际参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Sues Artist Over Alleged Appropriation of More Than a Dozen of Her Images"
-    },
-    {
-      "id": "recvpJwAu1rG3z",
-      "title": "曼富图Uncover背包评测：两款可扩展尺寸的灵活相机/日用背包",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/manfrotto-uncover-backpack-review",
-      "publish_time": "2026-07-18T19:00:00+08:00",
-      "summary": "曼富图Uncover背包24L和30L版本共享可拆卸相机内胆和可扩展卷顶设计，灵活兼顾相机与日用需求。",
-      "recommendation": "评测曼富图Uncover背包24L/30L，详析可拆卸内胆与卷顶扩展设计，为影像爱好者提供相机与日用兼顾的实用背包选择参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Manfrotto Uncover Backpack review: these adaptable camera / daypacks come in two expandable size options"
-    },
-    {
-      "id": "recvpJwInvEyey",
-      "title": "谷歌开始发送Pixel 11系列印度发布会邀请函",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_series_india_launch_event_invite-news-73780.php",
-      "publish_time": "2026-07-18T18:45:02+08:00",
-      "summary": "谷歌向印度发送Pixel 11系列发布会邀请函，活动将于8月13日在古尔冈举行，届时公布定价和上市详情。",
-      "recommendation": "Pixel 11系列印度发布会邀请函透露8月13日古尔冈活动，影像爱好者可关注其计算摄影新特性及定价策略，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google starts sending invites for the Pixel 11 series launch event in India"
     }
   ]
 }
