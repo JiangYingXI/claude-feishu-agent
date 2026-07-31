@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-31T23:08:01.220208+08:00",
+    "updated_at": "2026-08-01T04:08:36.215664+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 24
+      "count": 21
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,163 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 156
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvqZ1dhpPeJt",
+      "title": "Fränk 在家自动冲洗你的电影胶片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/31/frank-automatically-develops-your-motion-picture-film-at-home/",
+      "publish_time": "2026-08-01T02:13:22+08:00",
+      "summary": "Fränk是一款家用胶片处理器，支持Super 8、Double 8和16mm胶片，自动冲洗，解决手动和昂贵设备问题，尤其适合需精确温控的彩色胶片。",
+      "recommendation": "家用胶片自动冲洗设备解决温控痛点，适合Super 8等规格爱好者，提供便捷低成本方案，可了解行业新动向。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fränk Automatically Develops Your Motion Picture Film at Home"
+    },
+    {
+      "id": "recvqZ1fYdAEKK",
+      "title": "Maingear新款高性能PC隐藏线缆，彰显你的个性风格",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/31/maingears-new-powerful-pcs-hide-the-cables-and-put-your-style-on-display/",
+      "publish_time": "2026-08-01T02:05:23+08:00",
+      "summary": "Maingear推出Zero机箱，打造简洁高性能PC，满足游戏、摄影及视频编辑需求，彰显个性风格。",
+      "recommendation": "常规资讯，可了解行业动态。机箱设计影响影像工作流硬件布局，但无影像数据或深度观点，价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Maingear’s New Powerful PCs Hide the Cables and Put Your Style on Display"
+    },
+    {
+      "id": "recvqZ1iMyimey",
+      "title": "第167届全球历史最悠久摄影展的18张照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/31/18-photos-from-the-167th-edition-of-the-worlds-longest-running-photography-exhibition/",
+      "publish_time": "2026-08-01T01:34:56+08:00",
+      "summary": "皇家摄影学会第167届国际摄影展将展出48位摄影师的摄影作品，这是全球历史最悠久的摄影展，展示了摄影艺术的多样性与传承。",
+      "recommendation": "透过167届摄影展48位摄影师作品，可观察影像美学趋势与器材表现，适合摄影爱好者拓展审美视野。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "18 Photos From the 167th Edition of the World’s Longest-Running Photography Exhibition"
+    },
+    {
+      "id": "recvqZ1lKfmqqD",
+      "title": "摄影之旅必备装备精选优惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/31/the-top-deals-on-travel-gear-for-your-next-photography-adventure/",
+      "publish_time": "2026-08-01T01:30:00+08:00",
+      "summary": "文章介绍旅行摄影必备装备的精选优惠，强调智能配件如整理、充电和便携设备能提升旅行顺畅度，核心价值在于升级装备以优化摄影体验。",
+      "recommendation": "聚焦旅行摄影装备优惠，梳理智能配件对拍摄效率的实际提升，含具体品类与选购要点，适合近期计划升级器材的影像爱好者参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Top Deals on Travel Gear for Your Next Photography Adventure"
+    },
+    {
+      "id": "recvqZ1ov2bN4l",
+      "title": "尽管初看平平无奇，Rollei Superpan 200 实则暗藏玄机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/31/while-at-first-unimpressive-rollei-superpan-200-is-a-bag-of-tricks/",
+      "publish_time": "2026-08-01T01:17:10+08:00",
+      "summary": "Rollei Superpan 200胶片初看平平，实则技巧丰富，值得深入探究。",
+      "recommendation": "解析Rollei Superpan 200胶片的隐藏特性，提供曝光与冲洗技巧，适合追求胶片层次感的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "While At First Unimpressive, Rollei Superpan 200 Is a Bag of Tricks"
+    },
+    {
+      "id": "recvqZ1tUmLKyl",
+      "title": "我无法停止凝视这张令人惊叹的“喷火云龙”照片——而且它仅用智能手机拍摄",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/i-cant-stop-looking-at-this-astounding-photograph-of-a-fire-breathing-dragon-of-clouds-and-it-was-snapped-with-just-a-smartphone",
+      "publish_time": "2026-08-01T00:48:56+08:00",
+      "summary": "专业摄影师分享本周最佳图片，包括用智能手机拍摄的令人惊叹的喷火云龙照片，展示手机摄影潜力。",
+      "recommendation": "以专业摄影师视角解析手机抓拍动态场景的技法，展示旗舰机型极限成像潜力，附实拍样张与参数，对追求手机摄影突破的用户有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I can’t stop looking at this astounding photograph of a “fire-breathing dragon of clouds” – and it was snapped with just a smartphone"
+    },
+    {
+      "id": "recvqZ1CIo1uSj",
+      "title": "镜头滤镜如何让摄影不再乏味",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/31/how-lens-filters-can-make-your-photography-less-boring/",
+      "publish_time": "2026-08-01T00:00:00+08:00",
+      "summary": "镜头滤镜能在相机内直接拍出惊艳图像，无需庞大布景，是摄影师提升作品趣味性的有效方法。",
+      "recommendation": "从相机内直出角度解析滤镜实用价值，涵盖偏振、ND等类型选择与效果对比，对风光及街头摄影爱好者有直接参考意义。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How Lens Filters Can Make Your Photography Less Boring"
+    },
+    {
+      "id": "recvqZ1r8nArOT",
+      "title": "前所未有：鲸鲨视角下的海洋影像首度曝光",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/31/first-of-its-kind-footage-shows-the-ocean-from-a-whale-sharks-perspective/",
+      "publish_time": "2026-07-31T23:29:34+08:00",
+      "summary": "研究人员将相机附着在鲸鲨身上，首次目睹磷虾追逐场面，获得鲸鲨觅食和进食的新见解。",
+      "recommendation": "动物相机新视角，揭示鲸鲨觅食行为，为生态影像创作提供独特参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "First-of-its-Kind Footage Shows the Ocean From a Whale Shark’s Perspective"
+    },
+    {
+      "id": "recvqZ1wRDCuQy",
+      "title": "富士胶片否认X-T5停产传闻，新一代相机期待引发热议",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-x-t5-has-not-been-discontinued-says-fujifilm-as-anticipation-for-next-gen-cameras-fuels-rumors",
+      "publish_time": "2026-07-31T23:24:59+08:00",
+      "summary": "富士胶片否认X-T5停产传闻，粉丝期待新一代无反相机，核心价值在于澄清谣言并引发对下一代产品的期待。",
+      "recommendation": "澄清X-T5停产传闻，梳理富士无反产品线动向，对关注APS-C旗舰机型的用户具参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "“The X-T5 has not been discontinued,” says Fujifilm, as anticipation for next-gen cameras fuels rumors"
+    },
+    {
+      "id": "recvqZ1FCmaoQN",
+      "title": "尼康未来动向展望（2026年7月更新）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/07/31/what-to-expect-next-from-nikon-updated-july-2026.aspx/",
+      "publish_time": "2026-07-31T23:18:59+08:00",
+      "summary": "尼康未来相机传闻细节重叠，难以区分具体型号，如无取景器无反与固定镜头机型相似，文章更新于2026年7月，首发于Nikon Rumors。",
+      "recommendation": "尼康未来机型传闻混杂，本文梳理重叠信息，助你厘清产品线脉络，适合关注尼康动向的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "What to expect next from Nikon (updated July 2026)"
+    },
     {
       "id": "recvqXNMiZidN1",
       "title": "小米平板8S Pro即将登场，搭载小米下一代自研芯片",
@@ -1230,6 +1383,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Forget the snacks, this vending machine dispenses film and even compact cameras"
+    },
+    {
+      "id": "recvqZ1zGveKCu",
+      "title": "认为胶片已死？这台古怪的新自动售货机不这么认为，它吐出胶片、一次性相机甚至紧凑型相机，而不是零食",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/forget-the-snacks-this-vending-machine-dispenses-film-and-even-compact-cameras",
+      "publish_time": "2026-07-30T02:06:21+08:00",
+      "summary": "犹他州胶片实验室创新地将胶片、一次性相机及柯达Charmera放入自动售货机，扩展业务，挑战胶片已死观念。",
+      "recommendation": "胶片复兴的另类零售实验，展示自动售货机如何拓展影像消费场景。对关注胶片生态的爱好者有参考价值，但信息量有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Think film is dead? This quirky new vending machine says otherwise, spitting out film, disposable cameras, and even compact cameras instead of snacks"
     },
     {
       "id": "recvqNhF8mCfVW",
@@ -7589,176 +7757,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Godox Lux Junior II Retro Camera Flash Launched"
-    },
-    {
-      "id": "recvpWITa6Axt1",
-      "title": "科学家警告：野生动物摄影师用AI增强的鸟类照片可能威胁研究",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/scientists-warn-wildlife-photographers-ai-enhanced-bird-photos-could-threaten-research/",
-      "publish_time": "2026-07-21T00:28:00+08:00",
-      "summary": "科学家警告，野生动物摄影师使用AI编辑工具美化鸟类照片，可能威胁鸟类研究的可靠性。",
-      "recommendation": "揭示AI修图对鸟类研究的潜在风险，为摄影爱好者提供伦理与技术平衡的深度视角，独家引用科学家警告数据。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Scientists Warn Wildlife Photographers’ AI-Enhanced Bird Photos Could Threaten Research"
-    },
-    {
-      "id": "recvpWIWBI4LEM",
-      "title": "神牛新款Lux Junior II闪光灯：时尚与灵活兼备",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/godoxs-new-lux-junior-ii-flash-is-stylish-and-flexible/",
-      "publish_time": "2026-07-21T00:22:33+08:00",
-      "summary": "神牛发布Lux Junior II复古闪光灯，采用双轴设计支持水平和垂直反射闪光，提升灵活性与时尚感。",
-      "recommendation": "解析神牛Lux Junior II双轴反射闪光设计，提供复古闪光灯灵活布光新思路，适合街拍与人像爱好者探索创意用光。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Godox’s New Lux Junior II Flash Is Stylish and Flexible"
-    },
-    {
-      "id": "recvpWIZqFzPS5",
-      "title": "Adobe Project Indigo iPhone相机应用现提供摄影建议",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/adobes-project-indigo-iphone-camera-app-now-offers-photography-advice/",
-      "publish_time": "2026-07-21T00:00:43+08:00",
-      "summary": "Adobe在iPhone相机应用Project Indigo中推出AI Playground，为摄影师提供生成式AI新方式，该应用具备桌面级降噪和放大技术，强调自然逼真效果。",
-      "recommendation": "Adobe将桌面级降噪与放大技术引入iPhone，AI Playground提供生成式摄影新玩法，强调自然效果，对计算摄影爱好者有参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Adobe’s Project Indigo iPhone Camera App Now Offers Photography Advice"
-    },
-    {
-      "id": "recvpWJ833vAWo",
-      "title": "Adobe 想让你在其 Project Indigo 相机应用中体验生成式 AI",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/adobe-wants-you-to-play-with-generative-ai-in-its-project-indigo-camera-app/",
-      "publish_time": "2026-07-21T00:00:00+08:00",
-      "summary": "Adobe Project Indigo相机应用实验性支持生成式AI，实现去除干扰和艺术风格编辑，目前仅限部分用户使用。",
-      "recommendation": "Adobe将生成式AI引入相机应用，展示计算摄影新方向。文章揭示去除干扰与艺术编辑功能，但仅限部分用户，适合关注AI影像前沿的爱好者。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Adobe wants you to play with generative AI in its Project Indigo camera app"
-    },
-    {
-      "id": "recvpWJrYwblgB",
-      "title": "AI时代，胶片摄影师最真实",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/20/film-shooting-guide-copy/",
-      "publish_time": "2026-07-21T00:00:00+08:00",
-      "summary": "胶片摄影已稳定回归，与数码共存。拍摄胶片需独特心态和创作方式，本文为新手提供快速指南。",
-      "recommendation": "胶片与数码共存时代的心态指南，提供新手快速入门的具体拍摄技巧与创作思路，非空洞怀旧，有实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "In the Age of AI, Film Photographers are Most Authentic"
-    },
-    {
-      "id": "recvpWJdMfEVHJ",
-      "title": "从祈祷的狗狗到友好的猫咪：宠物摄影奖决赛作品展现奇趣与如画之美",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/praying-pooches-to-friendly-felines-pet-photography-awards-finalists-mark-the-bizarre-and-picturesque",
-      "publish_time": "2026-07-20T23:57:12+08:00",
-      "summary": "2026年国际宠物摄影奖决赛入围作品公布，涵盖宗教犬类与完美猫咪等题材，展现宠物摄影的奇趣与如画之美。",
-      "recommendation": "通过年度宠物摄影奖决赛作品，解析动物肖像的构图技巧与情感捕捉要点，提供可借鉴的拍摄思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Praying pooches to friendly felines: pet photography awards finalists mark the bizarre and picturesque"
-    },
-    {
-      "id": "recvpWJ2aurm8m",
-      "title": "HBO《哈利·波特》系列摄影师揭示拍摄儿童演员的“残酷”现实",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/cinematographer-behind-hbos-harry-potter-series-reveals-brutal-reality-for-camera-crew-filming-child-actors/",
-      "publish_time": "2026-07-20T23:51:59+08:00",
-      "summary": "HBO《哈利·波特》系列摄影师透露，因年轻演员阵容，摄影团队面临“残酷”工作条件，如严格工时限制和频繁休息，拍摄进度受影响。",
-      "recommendation": "揭秘剧组如何应对儿童演员的拍摄限制，含工时与休息的实操数据，为影视创作者提供儿童摄影调度参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Cinematographer Behind HBO’s ‘Harry Potter’ Series Reveals ‘Brutal’ Reality for Camera Crew Filming Child Actors"
-    },
-    {
-      "id": "recvpWJgD9pEB0",
-      "title": "直降700美元，尼康Z6 III或成当前性价比最高的无反相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/with-usd700-off-the-nikon-z6-iii-might-be-the-best-performance-for-your-money-mirrorless",
-      "publish_time": "2026-07-20T23:49:10+08:00",
-      "summary": "尼康Z6 III直降700美元，成为当前性价比最高的无反相机，购买明智。",
-      "recommendation": "直降700美元后，尼康Z6 III性价比凸显，文章分析了降价对全画幅市场的影响，适合关注价格走势的消费者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "With $700 off, the Nikon Z6 III might be the best performance-for-your-money mirrorless camera right now"
-    },
-    {
-      "id": "recvpWJ53XCNRr",
-      "title": "2026年迄今最畅销的10款紧凑型相机中，有4款是柯达PixPro型号",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/4-of-the-10-best-selling-compact-cameras-so-far-in-2026-are-kodak-pixpro-models/",
-      "publish_time": "2026-07-20T22:44:26+08:00",
-      "summary": "2026年迄今，柯达PixPro型号占据紧凑型相机畅销榜10款中的4款，佳能PowerShot SX740 HS等旧机型仍热销，紧凑型相机整体销量巨大。",
-      "recommendation": "揭示柯达PixPro在紧凑相机市场的意外崛起，提供2026年畅销榜独家数据，分析旧机型持续热销的行业趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "4 of the 10 Best-Selling Compact Cameras So Far in 2026 Are Kodak PixPro Models"
-    },
-    {
-      "id": "recvpVoa8pB94r",
-      "title": "科学家首次拍到神秘新猴种，其醒目橙色嘴唇引人注目",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/scientists-capture-first-images-of-mysterious-new-monkey-species-with-striking-orange-lips/",
-      "publish_time": "2026-07-20T22:37:19+08:00",
-      "summary": "科学家发现新猴种，其粉橙色嘴唇和面具般面部引人注目，此前模糊照片引发数十年搜寻。",
-      "recommendation": "通过科学家发现新猴种的案例，展示野外摄影中长焦镜头与伪装技巧的应用，提供动物行为抓拍参数参考，对生态摄影爱好者有实操启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Scientists Capture First Images of Mysterious New Monkey Species with Striking Orange Lips"
-    },
-    {
-      "id": "recvpVougtGwIU",
-      "title": "小米17、17 Ultra和17T Pro现已获得Android 17更新",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_xiaomi_17_17_ultra_and_17t_pro_are_getting_the_android_17_update_now-news-73796.php",
-      "publish_time": "2026-07-20T22:16:02+08:00",
-      "summary": "小米17系列已获Android 17更新，固件版本3.0.331.0.XPC，印度用户率先收到，小米称之为HyperOS 3。",
-      "recommendation": "常规资讯，可了解行业动态。文章提及小米17系列获Android 17更新，但未涉及影像功能优化或独家数据，对影像爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Xiaomi 17, 17 Ultra and 17T Pro are getting the Android 17 update now"
     }
   ]
 }
