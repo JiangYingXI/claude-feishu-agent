@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-31T04:09:40.350653+08:00",
+    "updated_at": "2026-07-31T12:09:12.628341+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 400
+      "count": 398
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,82 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvqV88omPjP3",
+      "title": "为什么你不应该使用自动白平衡",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/07/31/why-you-shouldnt-use-auto-white-balance/",
+      "publish_time": "2026-07-31T12:00:00+08:00",
+      "summary": "自动白平衡虽便利但会中和颜色，有时非所需。本文介绍如何解决此问题，保留核心技术参数，一句话阐明核心价值。",
+      "recommendation": "解析自动白平衡中和色彩的原理，提供手动预设与后期校正方案，助你掌控画面色调，适合追求精准色彩表达的摄影爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why You Shouldn’t Use Auto White Balance"
+    },
+    {
+      "id": "recvqV82wJfRXO",
+      "title": "谷歌将Nano Banana 2引入谷歌地球",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_brings_nano_banana_to_google_earth-news-73947.php",
+      "publish_time": "2026-07-31T08:07:02+08:00",
+      "summary": "谷歌将Nano Banana 2 AI图像生成模型引入Google Earth，用户可基于卫星、航拍和3D图像生成自定义图片，如将庞贝古城遗址转变为繁华罗马城市，教师可借此渲染历史场景。",
+      "recommendation": "AI图像生成跨界地理影像，展示计算摄影在卫星图与3D场景的创意应用，对探索影像技术边界有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google brings Nano Banana 2 to Google Earth"
+    },
+    {
+      "id": "recvqV85qOe9Nq",
+      "title": "谷歌Pixel 11 Pro Fold渲染图泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_google_pixel_11_pro_fold_renders_leak-news-73945.php",
+      "publish_time": "2026-07-31T06:12:03+08:00",
+      "summary": "谷歌将于8月12日发布Pixel 11系列，爆料人Evan Blass泄露Pixel 11 Pro Fold渲染图，确认8英寸内屏，营销围绕Gemini Intelligence展开。",
+      "recommendation": "渲染图确认8英寸内屏尺寸，可提前预判折叠屏影像布局。Gemini AI与相机联动策略值得关注，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Google Pixel 11 Pro Fold renders leak"
+    },
+    {
+      "id": "recvqV7YMG3XG7",
+      "title": "索尼欲收购腾龙，尼康和佳能用户需关注",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/sony-wants-to-buy-tamron-nikon-and-canon-shooters-should-pay-attention/",
+      "publish_time": "2026-07-31T05:34:16+08:00",
+      "summary": "索尼拟收购腾龙，影响尼康佳能用户，需关注镜头兼容性与技术整合。",
+      "recommendation": "索尼收购腾龙将重塑镜头生态，本文解析对尼康、佳能用户的兼容性风险与技术整合影响，提供行业深度视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony wants to buy Tamron. Nikon and Canon shooters should pay attention"
+    },
+    {
+      "id": "recvqV7Vq77LRG",
+      "title": "摄影师揭示他们拍过的最痛苦与最有希望的照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/30/photographers-reveal-the-most-painful-and-hopeful-images-theyve-ever-taken/",
+      "publish_time": "2026-07-31T05:00:09+08:00",
+      "summary": "20位摄影师回顾档案，选出最痛苦与最有希望的照片，揭示摄影背后的情感与希望。",
+      "recommendation": "20位摄影师亲述创作幕后，以真实案例剖析影像情感价值与拍摄技术取舍，为爱好者提供罕见的职业视角与心理洞察。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Photographers Reveal the Most Painful and Hopeful Images They’ve Ever Taken"
+    },
     {
       "id": "recvqTaOuWXM6D",
       "title": "好奇号在火星拍摄到“多边形之海”",
@@ -7686,84 +7762,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "“Photographers are capable of making your jaw drop with moments that you don’t even notice” – This daring, first-of-its-kind NY photo festival gives AI the middle finger"
-    },
-    {
-      "id": "recvpST9LcrR0W",
-      "title": "尼康新闻周刊第895期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/19/weekly-nikon-news-flash-895.aspx/",
-      "publish_time": "2026-07-20T08:14:35+08:00",
-      "summary": "尼康新闻周刊第895期报道新Think Tank Photo相机背包、WANDRD磁性相机背带（已筹11万美元）、SmallRig L形显示器支架及FieldMade定制镜头遮光罩等新品",
-      "recommendation": "汇总Think Tank背包、WANDRD背带等配件新品，含众筹金额与设计细节，适合关注摄影器材生态的爱好者了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #895"
-    },
-    {
-      "id": "recvpST4eK73Zx",
-      "title": "这款颠覆性无人机让你先飞后瞄准——作为360相机爱好者，我知道我想要一个！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/drones/this-groundbreaking-drone-lets-you-fly-first-and-aim-later-and-as-a-keen-360-camera-user-i-know-that-i-want-one",
-      "publish_time": "2026-07-20T08:10:00+08:00",
-      "summary": "新型8K摄像无人机颠覆传统，操作如飞行模拟器，支持先飞后瞄准，满足360相机爱好者需求。",
-      "recommendation": "解析8K无人机先飞后瞄准技术，为360相机爱好者提供操作革新视角，含飞行模拟器式操控细节与行业趋势洞察。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This groundbreaking drone lets you fly first and aim later – and as a keen 360 camera user, I know that I want one!"
-    },
-    {
-      "id": "recvpST6NiICYk",
-      "title": "我对徕卡M EV1的看法错了——这确实是一台M相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-was-wrong-about-the-leica-m-ev1-this-really-is-an-m-camera",
-      "publish_time": "2026-07-20T05:20:00+08:00",
-      "summary": "徕卡M EV1证明M相机灵魂超越测距仪，核心价值在于保留M系统精髓的同时实现电子化创新。",
-      "recommendation": "文章颠覆对徕卡M EV1的固有认知，论证M相机灵魂超越测距仪，为M系统电子化转型提供深度观点，适合关注徕卡演进与摄影本质的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I was wrong about the Leica M EV1 – this really is an M camera"
-    },
-    {
-      "id": "recvpQM2liByvP",
-      "title": "高端相机价格飙升，二手摄影器材不再退而求其次——而是唯一明智之选",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/as-prices-for-premium-cameras-surge-secondhand-photo-gear-no-longer-looks-second-best-its-the-only-sensible-option",
-      "publish_time": "2026-07-20T02:10:00+08:00",
-      "summary": "高端相机价格飙升，二手摄影器材成为明智之选。索尼RX10 V和徕卡SL3-P等新品昂贵，二手市场吸引力大增。",
-      "recommendation": "剖析高端相机涨价逻辑，提供二手市场选购策略与性价比分析，对预算有限的影像爱好者有实操参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "As prices for premium cameras surge, secondhand photo gear no longer looks second best – it's the only sensible option"
-    },
-    {
-      "id": "recvpQLW5mHHks",
-      "title": "促销：iPhone Air 直降200英镑，Poco和Nothing手机特价",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_the_iphone_air_is_200_off_poco_and_nothing_phones_on_sale-news-73775.php",
-      "publish_time": "2026-07-20T00:00:04+08:00",
-      "summary": "iPhone Air直降200英镑，厚度5.6毫米重165克，钛金属框架，A19 Pro芯片，6.5英寸LTPO屏，48MP单摄，3149mAh电池",
-      "recommendation": "iPhone Air 5.6mm厚度与48MP单摄组合，为追求极致轻薄影像用户提供新选择，A19 Pro芯片算力提升值得关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Deals: the iPhone Air is £200 off, Poco and Nothing Phones on sale"
     }
   ]
 }
