@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-01T04:08:36.215664+08:00",
+    "updated_at": "2026-08-01T12:06:34.897297+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 86
+      "count": 85
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,60 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 403
+      "count": 401
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 157
+      "count": 158
     }
   ],
   "articles": [
+    {
+      "id": "recvr0XXDoruDr",
+      "title": "比视频更快：理解相机取景器",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/01/a-new-photographers-guide-to-the-camera-viewfinder-copy/",
+      "publish_time": "2026-08-01T12:00:00+08:00",
+      "summary": "本文介绍相机取景器显示的信息，帮助用户理解其功能，避免被复杂数据吓到，提升使用体验。",
+      "recommendation": "取景器数据常让新手困惑，此文以通俗视角拆解显示逻辑，助你快速上手。虽无独家数据，但梳理系统，对提升拍摄效率有实用价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Quicker Than a Video: Understanding the Camera’s Viewfinder"
+    },
+    {
+      "id": "recvr0XUv9R5SW",
+      "title": "获奖照片致敬秃鹫：自然界默默无闻的英雄",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/07/31/award-winning-photos-celebrate-vultures-natures-unsung-heroes/",
+      "publish_time": "2026-08-01T04:50:01+08:00",
+      "summary": "国际秃鹫意识日通过摄影比赛展示秃鹫在生态系统中的关键角色，旨在教育公众并传播正面信息。",
+      "recommendation": "以秃鹫摄影比赛切入生态影像叙事，展示自然摄影的社会价值，含拍摄技巧与生态数据，适合关注纪实题材的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Award-Winning Photos Celebrate Vultures, Nature’s Unsung Heroes"
+    },
+    {
+      "id": "recvr0Y0j4OEsL",
+      "title": "谷歌Pixel 11也流出一些全新渲染图",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_leaks_in_some_fresh_new_renders_too-news-73963.php",
+      "publish_time": "2026-08-01T04:31:02+08:00",
+      "summary": "谷歌Pixel 11渲染图流出，搭载Gemini Intelligence，设计类似Pixel 10但相机岛全宽玻璃覆盖，可能无Pixel Glow RGB LED。",
+      "recommendation": "Pixel 11相机岛设计变化值得关注，全宽玻璃覆盖或影响影像模组布局，适合追踪谷歌计算摄影路线。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Pixel 11 leaks in some fresh new renders too"
+    },
     {
       "id": "recvqZ1dhpPeJt",
       "title": "Fränk 在家自动冲洗你的电影胶片",
@@ -7710,53 +7755,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Last minute rumors: There is also a new 100-400mm f/5.6-8 FE coming!"
-    },
-    {
-      "id": "recvpWINEbRb2b",
-      "title": "两位体育摄影师揭秘世界杯拍摄体验",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/two-sports-photographers-reveal-what-its-like-to-shoot-the-world-cup/",
-      "publish_time": "2026-07-21T01:33:08+08:00",
-      "summary": "两位体育摄影师分享2026年扩军世界杯拍摄体验，揭秘报道48支球队赛事的挑战与技巧。",
-      "recommendation": "从一线体育摄影师视角，揭秘48队赛制下器材选择与拍摄策略，含独家赛事报道技巧与实战数据。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Two Sports Photographers Reveal What It’s Like to Shoot the World Cup"
-    },
-    {
-      "id": "recvpWIQn1zjcG",
-      "title": "研究人员利用两台望远镜发现一颗隐藏于众目睽睽之下的行星",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/researchers-used-two-telescopes-to-discover-a-planet-hidden-in-plain-sight/",
-      "publish_time": "2026-07-21T01:28:49+08:00",
-      "summary": "天文学家利用詹姆斯·韦伯太空望远镜发现一颗隐藏的巨型系外行星，该行星近在咫尺却未被察觉，展示了韦伯望远镜的探测能力。",
-      "recommendation": "常规资讯，可了解行业动态。文章展示韦伯望远镜探测能力，但对消费电子影像爱好者无直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Researchers Used Two Telescopes to  Discover a Planet Hidden In Plain Sight"
-    },
-    {
-      "id": "recvpWJjtZFz5n",
-      "title": "Godox Lux Junior II 复古相机闪光灯发布",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/godox-lux-junior-ii-retro-camera-flash-launched/",
-      "publish_time": "2026-07-21T01:17:26+08:00",
-      "summary": "Godox发布Lux Junior II复古闪光灯，支持TTL、手动、多模式及自动模式，兼容富士TTL，内置2.4GHz无线接收器，USB-C充电，1.5秒回电，400次全功率闪光，高速同步及双轴旋转",
-      "recommendation": "Godox Lux Junior II参数详尽，涵盖TTL兼容性、回电速度与无线功能，对复古闪光灯爱好者有直接参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Godox Lux Junior II Retro Camera Flash Launched"
     }
   ]
 }
