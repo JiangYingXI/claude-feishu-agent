@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-01T16:45:20.734585+08:00",
+    "updated_at": "2026-08-01T22:13:14.084400+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 25
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 83
+      "count": 82
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,152 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 403
+      "count": 404
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 157
+      "count": 156
     }
   ],
   "articles": [
+    {
+      "id": "recvr3qpO6Zuom",
+      "title": "KEH幕后揭秘：无数相机与世界级维修中心",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/01/behind-the-curtain-at-keh-countless-cameras-and-a-world-class-repair-center/",
+      "publish_time": "2026-08-01T22:01:09+08:00",
+      "summary": "作者二访亚特兰大，在KEH空调仓库和零售店体验，揭示其世界级维修中心与相机服务，核心价值在于展示KEH的专业维修能力。",
+      "recommendation": "深入KEH维修中心，揭秘二手相机质检流程与专业服务，对淘二手器材的影友有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Behind the Curtain at KEH: Countless Cameras and a World-Class Repair Center"
+    },
+    {
+      "id": "recvr3qyxWi5ZI",
+      "title": "CMF Clip Pro 蓝牙耳机下周上市",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/nothing_cmf_clip_pro_launch_date-news-73972.php",
+      "publish_time": "2026-08-01T20:35:02+08:00",
+      "summary": "Nothing旗下CMF品牌预告新款CMF Clip Pro OWS耳机，将于8月4日发布，目前仅公布发布时间和外观，其他细节待揭晓。",
+      "recommendation": "常规资讯，可了解行业动态。虽非影像内容，但OWS耳机形态或影响未来影像设备音频采集设计，关注CMF品牌动向可作参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "CMF Clip Pro Bluetooth earphones are coming next week"
+    },
+    {
+      "id": "recvr3qDNMO2Ud",
+      "title": "索尼FX3与FX5对比：老将还是开放画幅？索尼电影机这样比",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-fx3-vs-sony-fx5",
+      "publish_time": "2026-08-01T20:30:00+08:00",
+      "summary": "索尼FX3与FX5对比，FX5采用开放画幅传感器，分辨率更高，动态范围更广，适合电影制作；FX3更轻便，性价比高，适合单兵作战。",
+      "recommendation": "FX3与FX5画幅差异及动态范围数据对比，助电影创作者权衡便携与画质，明确升级方向。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony FX3 vs FX5: Old faithful or open gate? This is how Sony's cinema cameras compare"
+    },
+    {
+      "id": "recvr3qmOCuEfQ",
+      "title": "索尼FX5评测汇总",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-reviews-woundup/",
+      "publish_time": "2026-08-01T20:00:19+08:00",
+      "summary": "索尼FX5相机及配件在多家电商有售，评测汇总文章首发于sonyalpharumors，提供购买渠道和产品信息。",
+      "recommendation": "汇总索尼FX5评测与购买渠道，提供电商在售信息，适合关注新机动态的影像爱好者快速了解市场情况。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Sony FX5 reviews roundup"
+    },
+    {
+      "id": "recvr3qJjRHZo0",
+      "title": "新加坡人都在加购的紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/01/the-compact-cameras-everyone-in-singapore-is-adding-to-their-carts/",
+      "publish_time": "2026-08-01T20:00:00+08:00",
+      "summary": "紧凑型相机因价格优势受年轻摄影师青睐，新加坡成主要市场，亚马逊上多款热销。",
+      "recommendation": "聚焦新加坡紧凑型相机热销趋势，提供亚马逊榜单数据与价格分析，助你把握年轻用户购机偏好及市场动向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Compact Cameras Everyone in Singapore Is Adding to their Carts"
+    },
+    {
+      "id": "recvr3qskkBprN",
+      "title": "摄影师耗时十年记录美国终身监禁女性囚犯的生活",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/01/photographer-spends-10-years-chronicling-women-serving-life-sentences-in-america/",
+      "publish_time": "2026-08-01T19:00:48+08:00",
+      "summary": "摄影师耗时十年记录美国终身监禁女性囚犯，挑战单一行为定义她们的观点，展现其复杂人性。",
+      "recommendation": "十年纪实摄影项目，呈现长期跟踪拍摄的叙事深度与伦理考量，对人文纪实题材的选题、信任建立及影像呈现有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Photographer Spends 10 Years Chronicling Women Serving Life Sentences in America"
+    },
+    {
+      "id": "recvr3qveZc2Av",
+      "title": "乌克兰的FPV无人机画面史无前例",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/01/the-fpv-drone-footage-from-ukraine-is-unprecedented/",
+      "publish_time": "2026-08-01T18:00:38+08:00",
+      "summary": "乌克兰前线涌现大量FPV无人机视频，展示战斗最后时刻，其震撼程度超越以往任何无人机影像，成为历史性记录。",
+      "recommendation": "FPV无人机实战影像首次大规模公开，展示第一视角战斗细节，对航拍与影像叙事爱好者具独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The FPV Drone Footage From Ukraine Is Unprecedented"
+    },
+    {
+      "id": "recvr3qBd4SG8K",
+      "title": "新研究纪要详述iPhone Air 2升级细节",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_air_2s_upgrades_detailed_in_a_new_research_note-news-73969.php",
+      "publish_time": "2026-08-01T17:33:02+08:00",
+      "summary": "新研究称iPhone Air 2将于2027年Q1发布，搭载A20 Pro芯片（台积电2nm），与iPhone 18 Pro同款，灵动岛更小。",
+      "recommendation": "聚焦2027年iPhone Air 2的A20 Pro芯片与灵动岛设计，为影像爱好者预判计算摄影性能升级，属前瞻性行业资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iPhone Air 2's upgrades detailed in a new research note"
+    },
+    {
+      "id": "recvr3qGvU03Ht",
+      "title": "这张令人着迷的星系红树林图像赢得了摄影奖——它让我驻足凝视",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-mesmerizing-image-of-a-galactic-mangrove-won-a-photography-award-and-it-stopped-me-in-my-tracks",
+      "publish_time": "2026-08-01T17:10:00+08:00",
+      "summary": "日本摄影师杉浦龙平拍摄的银河下孤独红树林照片，荣获2026年红树林摄影奖，展现自然之美。",
+      "recommendation": "获奖作品揭示低光长曝与构图技法，解析红树林星野拍摄参数，对风光摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This mesmerizing image of a galactic mangrove won a photography award – and it stopped me in my tracks"
+    },
     {
       "id": "recvr26biuCMbf",
       "title": "加拿大人爱不释手的紧凑型相机",
@@ -7618,143 +7755,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Xiaomi Redmi Note 17's India launch date tipped"
-    },
-    {
-      "id": "recvpZUfhZvkQX",
-      "title": "Browning Defender Pro Scout Max Solar评测：真正免维护的长期野生动物观察工具",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/trail-cameras/browning-defender-pro-scout-solar-review-a-truly-hands-off-and-long-term-wildlife-watching-tool",
-      "publish_time": "2026-07-21T15:00:00+08:00",
-      "summary": "Browning Defender Pro Scout Max Solar太阳能相机实现免维护野生动物监测，但蜂窝版下载视频需付费订阅，费用较高。",
-      "recommendation": "评测Browning Defender Pro Scout Max太阳能相机免维护特性，揭示蜂窝版下载视频付费订阅成本，为野生动物影像爱好者提供实用续航与费用参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Browning Defender Pro Scout Max Solar review: a truly hands-off and long-term wildlife watching tool"
-    },
-    {
-      "id": "recvpZUhV7trzc",
-      "title": "风光摄影中没人想到的一件事",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/21/how-color-affects-leading-lines-in-landscape-photography-copy/",
-      "publish_time": "2026-07-21T15:00:00+08:00",
-      "summary": "文章讨论风景摄影中色彩与黑白运用的不同规则，强调黑白摄影需特别考虑，而非简单套用彩色摄影原则。",
-      "recommendation": "打破彩色摄影惯性思维，揭示黑白风光摄影的独立构图法则，提供具体技术对比数据，助爱好者避免常见误区。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Something No One Thinks About in Landscape Photography"
-    },
-    {
-      "id": "recvpZU5zqcse6",
-      "title": "更多Galaxy Z Fold8（宽版）渲染图在Unpacked前曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/more_galaxy_z_fold8_wide_renders_surface_ahead_of_unpacked-news-73803.php",
-      "publish_time": "2026-07-21T14:00:02+08:00",
-      "summary": "三星Galaxy Z Fold8宽屏版官方渲染图曝光，展示奶油色、石墨色和薰衣草色三种配色，距Unpacked发布会仅剩一天。",
-      "recommendation": "渲染图曝光揭示Fold8宽版三种配色，距发布仅一天，影像爱好者可提前了解折叠屏外观设计趋势，但无影像规格细节。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "More Galaxy Z Fold8 (wide) renders surface ahead of Unpacked"
-    },
-    {
-      "id": "recvpZUkombuQ5",
-      "title": "佳能最大镜头失误",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/21/canons-biggest-lens-screwup/",
-      "publish_time": "2026-07-21T12:00:00+08:00",
-      "summary": "佳能RF 28mm f2.8饼干镜头RAW文件存在色散等问题，缺乏防尘防滴性能，被指为佳能最大镜头失误。",
-      "recommendation": "通过RAW文件实测揭露RF 28mm f2.8色散问题，并指出缺乏防尘防滴性能，为选购饼干镜头提供关键避坑数据。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon’s Biggest Lens Screwup"
-    },
-    {
-      "id": "recvpYD1rrq69Z",
-      "title": "《国家地理》纪录片《庞贝：超越时空》融合电影制作、历史与汤姆·希德勒斯顿",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/nat-geos-pompeii-out-of-time-combines-cinematic-filmmaking-history-and-tom-hiddleston/",
-      "publish_time": "2026-07-21T05:10:59+08:00",
-      "summary": "国家地理频道三集纪实剧《庞贝古城：末日余晖》结合汤姆·希德勒斯顿解说与电影制作，讲述公元79年维苏威火山爆发前庞贝古城的最后时刻",
-      "recommendation": "解析纪录片如何融合电影级布光与火山灰光学模拟，提供古罗马壁画色彩还原的独家技术视角，适合影像创作者研究历史场景的视觉重构手法。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nat Geo’s ‘Pompeii: Out of Time’ Combines Cinematic Filmmaking, History, and Tom Hiddleston"
-    },
-    {
-      "id": "recvpYD4DcrPcJ",
-      "title": "世界杯后，Apple Sports应用增加更多足球赛事关注",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/apple_sports_app_adds_more_soccer_following_the_world_cup-news-73801.php",
-      "publish_time": "2026-07-21T05:02:02+08:00",
-      "summary": "Apple Sports应用更新至4.2版，新增支持比利时、丹麦、荷兰、日本、波兰、苏格兰和瑞士的顶级足球联赛，并增加查看阵型功能，让球迷关注全球重要联赛。",
-      "recommendation": "虽非直接影像内容，但Apple Sports应用更新反映体育赛事数字化趋势，可了解移动端功能迭代对体育摄影内容分发的影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Apple Sports app adds more soccer following the World Cup"
-    },
-    {
-      "id": "recvpWIFkcy70m",
-      "title": "纽尔Bright F700U OLED监视器：我的相机包中不可或缺的一员",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/neewers-bright-f700u-oled-monitor-earned-a-place-in-my-camera-bag/",
-      "publish_time": "2026-07-21T03:35:25+08:00",
-      "summary": "纽尔Bright F700U OLED监视器在摄影和视频拍摄中提升工作流程，验证了外部监视器对摄影师的实际价值。",
-      "recommendation": "从摄影师实战角度解析OLED监视器如何优化曝光与对焦，含纽尔Bright F700U的亮度、色准实测数据，对提升户外拍摄效率有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Neewer’s Bright F700U OLED Monitor Earned a Place in My Camera Bag"
-    },
-    {
-      "id": "recvpWJb2RGwXv",
-      "title": "三星发布笔记本用串联OLED显示屏，峰值亮度可达1600尼特",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_unveils_tandem_oled_display_for_laptops_that_can_reach_1600_nits_peak_brightness-news-73799.php",
-      "publish_time": "2026-07-21T03:31:02+08:00",
-      "summary": "三星发布笔记本用串联OLED显示屏，获DisplayHDR True Black 1400认证，峰值亮度1600尼特，黑色像素0.0005尼特以下。",
-      "recommendation": "串联OLED技术首次应用于笔记本，1600尼特峰值亮度与0.0005尼特黑位数据对HDR影像创作有参考价值，但非影像设备直接相关。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung unveils tandem OLED display for laptops that can reach 1,600 nits peak brightness"
-    },
-    {
-      "id": "recvpWIIcOZRnF",
-      "title": "这家澳大利亚初创公司正在为电影制作人设计精巧的装备",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/this-australian-startup-is-designing-clever-gear-for-filmmakers/",
-      "publish_time": "2026-07-21T03:22:54+08:00",
-      "summary": "澳大利亚初创公司3D Film Parts推出免费数字摄影机报告应用SmartLog和概念验证电子场记板Smart Slate P4，为电影制作人提供便利工具。",
-      "recommendation": "介绍SmartLog和Smart Slate P4两款工具，为电影制作人提供实用方案，适合关注影视制作效率的影像爱好者了解行业新动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Australian Startup Is Designing Clever Gear for Filmmakers"
     }
   ]
 }
