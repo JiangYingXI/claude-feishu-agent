@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-01T12:06:34.897297+08:00",
+    "updated_at": "2026-08-01T16:45:20.734585+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 23
+      "count": 24
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 85
+      "count": 83
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,62 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 401
+      "count": 403
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 158
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvr26biuCMbf",
+      "title": "加拿大人爱不释手的紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/01/the-compact-cameras-canadians-cant-stop-buying/",
+      "publish_time": "2026-08-01T16:00:00+08:00",
+      "summary": "全球紧凑型相机热潮中，佳能、尼康、索尼推出新型号，加拿大消费者可选购亚马逊热销选项。",
+      "recommendation": "紧凑相机热潮下的北美市场观察，盘点佳能、尼康、索尼新品及亚马逊热销数据，为选购提供参考。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Compact Cameras Canadians Can’t Stop Buying"
+    },
+    {
+      "id": "recvr265E9QDyK",
+      "title": "我曾以为富士胶片犯了个错误——但在使用其最新紧凑型相机数周后，我将其加入了心愿单",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-thought-fujifilm-made-a-mistake-but-after-spending-weeks-with-its-latest-compact-camera-i-added-one-to-my-wish-list",
+      "publish_time": "2026-08-01T14:15:00+08:00",
+      "summary": "富士X Half紧凑型相机经数周体验，尽管初有疑虑，但因其出色性能与便携性，最终被列入心愿单。",
+      "recommendation": "亲测数周揭示X Half真实表现，从疑虑到心动的转变过程，含便携性与画质平衡的深度体验，为关注紧凑相机的用户提供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I thought Fujifilm made a mistake – but after spending weeks with its latest compact camera, I added one to my wish list"
+    },
+    {
+      "id": "recvr268yEEzHb",
+      "title": "三星Galaxy S26 FE相机规格曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_camera_specs_surface-news-73959.php",
+      "publish_time": "2026-08-01T12:06:02+08:00",
+      "summary": "三星高管确认Galaxy S26 FE今年发布，相机规格曝光，与S25 FE差异不大，据Android Authority可信来源透露。",
+      "recommendation": "三星S26 FE相机规格曝光，虽与S25 FE差异不大，但可提前了解FE系列影像迭代方向，适合关注中端旗舰成像的用户。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung Galaxy S26 FE's camera specs surface"
+    },
     {
       "id": "recvr0XXDoruDr",
       "title": "比视频更快：理解相机取景器",
@@ -7708,53 +7755,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "This Australian Startup Is Designing Clever Gear for Filmmakers"
-    },
-    {
-      "id": "recvpWIKU9A9Cy",
-      "title": "乌克兰战争震撼照片凸显FPV无人机破坏力",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/20/dramatic-ukraine-war-photo-highlights-destructive-power-of-fpv-drones/",
-      "publish_time": "2026-07-21T03:00:26+08:00",
-      "summary": "乌克兰摄影师伊琳娜·雷巴科娃拍摄到7月15日俄罗斯FPV无人机撞击克拉马托尔斯克汽车的瞬间，凸显FPV无人机破坏力",
-      "recommendation": "通过战地摄影师实拍，展示FPV无人机高速撞击瞬间的影像捕捉技巧，提供军事摄影中动态追踪与快门时机的实战参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Dramatic Ukraine War Photo Highlights Destructive Power of FPV Drones"
-    },
-    {
-      "id": "recvpWJpdbc1Ol",
-      "title": "我们最喜爱的佳能微距摄影镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/20/our-favorite-canon-lens-for-macro-photography/",
-      "publish_time": "2026-07-21T03:00:00+08:00",
-      "summary": "佳能L系列镜头声誉卓著，但微距镜头选择有限。本文介绍一款备受喜爱的佳能微距镜头，突出其核心参数与价值。",
-      "recommendation": "解析佳能L系微距镜头核心参数与光学设计，对比竞品分析其微距拍摄的独特价值，为微距爱好者提供镜头选择参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Our Favorite Canon Lens for Macro Photography"
-    },
-    {
-      "id": "recvpWJmsApqRD",
-      "title": "最新传闻：还有一款新的100-400mm f/5.6-8 FE镜头即将到来！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/last-minute-rumors-there-is-also-a-new-100-400mm-f-5-6-8-fe-coming/",
-      "publish_time": "2026-07-21T02:45:09+08:00",
-      "summary": "索尼即将发布100-400mm f/5.6-8 FE镜头，轻便、防抖，7月22日与FX5一同亮相。",
-      "recommendation": "索尼100-400mm f/5.6-8 FE镜头传闻，轻便防抖设计，7月22日与FX5同台发布。提供长焦变焦新选择，适合旅行与野生动物拍摄，常规资讯可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Last minute rumors: There is also a new 100-400mm f/5.6-8 FE coming!"
     }
   ]
 }
