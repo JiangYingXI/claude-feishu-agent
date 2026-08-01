@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-01T22:13:14.084400+08:00",
+    "updated_at": "2026-08-02T03:49:04.519852+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -28,20 +28,82 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 25
+      "count": 26
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 404
+      "count": 406
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 156
+      "count": 155
     }
   ],
   "articles": [
+    {
+      "id": "recvr4NhnL56ER",
+      "title": "富士X系列摄影师Andrew S. Gibson的52个花卉、花园与自然摄影任务电子书",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/52-flower-garden-nature-photography-assignments-ebook-by-fujifilm-x-shooter-andrew-s-gibson/",
+      "publish_time": "2026-08-02T03:06:30+08:00",
+      "summary": "富士X系列摄影师Andrew S. Gibson新书《52个花卉、花园与自然摄影任务》出版，现优惠价10美元（原价15美元），内容含示例图片，提供摄影任务指导。",
+      "recommendation": "富士X系列摄影师Andrew S. Gibson新书以52个实拍任务切入自然摄影，含示例图与操作指导，10美元优惠价对花卉、花园题材爱好者具实用参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "52 Flower, Garden & Nature Photography Assignments eBook by Fujifilm X shooter Andrew S. Gibson"
+    },
+    {
+      "id": "recvr4NeuNtCBB",
+      "title": "优惠：三星Galaxy S26 Ultra降价，Galaxy Z Fold8系列开启预售",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_samsung_galaxy_s26_ultra_discounted_galaxy_z_fold8_series_up_for_preorder-news-73964.php",
+      "publish_time": "2026-08-02T02:33:02+08:00",
+      "summary": "三星Galaxy Z Fold8系列及Watch9等新品8月7日发货，预订可获高达350美元礼品卡，同时Galaxy S26 Ultra等手机降价促销。",
+      "recommendation": "常规资讯，可了解行业动态。三星折叠屏预售与S26 Ultra降价信息，对关注新品影像配置的用户有参考价值，但无独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Samsung Galaxy S26 Ultra discounted, Galaxy Z Fold8 series up for pre-order"
+    },
+    {
+      "id": "recvr4Nc2Ihoam",
+      "title": "科学家利用AI摄像头陷阱拯救蜜蜂。这就是我希望AI被使用的方式，而不是生成垃圾内容",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/scientists-have-used-ai-powered-camera-traps-in-the-fight-to-save-bees-this-is-how-i-want-ai-to-be-used-not-to-generate-slop",
+      "publish_time": "2026-08-02T02:10:00+08:00",
+      "summary": "科学家用低成本硬件和开源AI模型构建相机陷阱，准确、可扩展且非致命地监测蜜蜂，是AI在环保领域的理想应用。",
+      "recommendation": "AI相机陷阱结合低成本硬件与开源模型，展示计算摄影在生态监测的落地场景，为影像爱好者提供技术跨界应用的新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Scientists have used AI-powered camera traps in the fight to save bees. THIS is how I want AI to be used, not to generate slop"
+    },
+    {
+      "id": "recvr4N9o52iL3",
+      "title": "2026年最佳紧凑型变焦相机",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/buying-guide-best-compact-zoom-cameras/",
+      "publish_time": "2026-08-02T00:32:19+08:00",
+      "summary": "2026年最佳紧凑型变焦相机推荐，涵盖各预算，无需换镜头即可拍出高质量照片，便携专业，核心价值在于提供全面选购指南。",
+      "recommendation": "涵盖各价位紧凑变焦相机，提供传感器尺寸、镜头参数等关键数据对比，助你快速定位适合机型，选购参考价值明确。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Best compact zoom cameras in 2026"
+    },
     {
       "id": "recvr3qpO6Zuom",
       "title": "KEH幕后揭秘：无数相机与世界级维修中心",
@@ -7695,66 +7757,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Latest iOS 27 beta code includes references to the iPhone Ultra"
-    },
-    {
-      "id": "recvpZU7Vbe9a7",
-      "title": "“伟大的摄影关乎情感深度，而非景深”：为何你的作品应追求情感共鸣，而非技术完美",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/great-photography-is-about-depth-of-feeling-not-depth-of-field-why-your-images-should-strive-for-emotional-reactions-not-technical-perfection",
-      "publish_time": "2026-07-21T15:48:39+08:00",
-      "summary": "澳大利亚摄影师彼得·亚当斯指出，摄影的核心在于情感深度而非技术完美，强调图像带给人们的感觉才是关键。",
-      "recommendation": "彼得·亚当斯提出情感深度优于技术完美，打破器材至上迷思，为追求影像共鸣的爱好者提供创作新视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“Great photography is about depth of feeling, not depth of field”: Why your images should strive for emotional reactions, not technical perfection"
-    },
-    {
-      "id": "recvpZUatUwrL8",
-      "title": "这张无相机照片如此巨大，动用了一座桥、100名志愿者和超过100小时才完成——或为同类最长",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/this-camera-less-photo-is-so-large-it-took-a-bridge-100-volunteers-and-more-than-100-hours-to-create-and-could-be-the-longest-of-its-kind-ever-made",
-      "publish_time": "2026-07-21T15:34:26+08:00",
-      "summary": "密歇根州艺术家利用整座桥、100名志愿者和超100小时，创作了约430英尺长的蓝晒作品，或为同类最长，最具挑战性的部分尚未完成。",
-      "recommendation": "揭秘蓝晒工艺极限创作：430英尺无相机影像需动用桥梁与百人团队，提供大型摄影装置艺术的技术细节与耗时数据，适合探索非传统成像的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This camera-less photo is so large it took a bridge, 100 volunteers, and more than 100 hours to create – and could be the longest of its kind ever made"
-    },
-    {
-      "id": "recvpZUcXwZf1j",
-      "title": "Lightroom Classic 的辅助照片筛选是个好主意，但真的很烦人。不过我找到了一个解决方案",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/software/lightroom-classics-assisted-photo-culling-is-a-great-idea-but-is-really-annoying-but-i-have-found-a-solution",
-      "publish_time": "2026-07-21T15:30:00+08:00",
-      "summary": "本文对比Excire与Lightroom Classic的照片筛选功能，指出后者虽好但烦人，并提出了解决方案。",
-      "recommendation": "对比Excire与Lightroom Classic筛选功能，指出后者痛点并给出实用替代方案，对后期效率提升有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Lightroom Classic’s assisted photo culling is a great idea, but is really annoying. But I have found a solution"
-    },
-    {
-      "id": "recvpZU31ey5wo",
-      "title": "小米Redmi Note 17印度发布日期曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_redmi_note_17_india_launch_date_tipped-news-73804.php",
-      "publish_time": "2026-07-21T15:00:02+08:00",
-      "summary": "小米Redmi Note 17系列印度发布日期曝光，预计8月6日发布，8月11日首销，配备OLED屏和5000万像素主摄。",
-      "recommendation": "曝光Redmi Note 17印度发布日期及5000万像素主摄配置，为关注中端手机影像升级的用户提供时间节点与基础参数，属常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Xiaomi Redmi Note 17's India launch date tipped"
     }
   ]
 }
