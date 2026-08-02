@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-02T12:09:45.735657+08:00",
+    "updated_at": "2026-08-02T16:59:52.801563+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 24
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 83
+      "count": 85
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,67 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 26
+      "count": 27
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 404
+      "count": 405
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 158
+      "count": 155
     }
   ],
   "articles": [
+    {
+      "id": "recvr80ePxCquE",
+      "title": "刚刚发布：新款老蛙Aksen 1-5X和5-10X齐焦超微距APO镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/just-announced-new-laowa-aksen-1-5x-5-10x-parfocal-ultra-macro-apo-lenses/",
+      "publish_time": "2026-08-02T15:43:06+08:00",
+      "summary": "新款老蛙Aksen 1-5X和5-10X齐焦超微距APO镜头发布，可在Bhphoto和Laowa商店预订，提供高倍率微距拍摄能力。",
+      "recommendation": "老蛙Aksen系列齐焦超微距APO镜头填补1-10X高倍率市场空白，含具体倍率与预订渠道，微距玩家可关注其齐焦与APO设计。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Just announced: New Laowa Aksen 1-5X & 5-10X parfocal Ultra Macro APO lenses"
+    },
+    {
+      "id": "recvr80mEiEEk1",
+      "title": "LUMIX ZS99：性价比最高的便携相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/02/the-lumix-zs99-is-the-best-point-and-shoot-for-the-money/",
+      "publish_time": "2026-08-02T15:00:00+08:00",
+      "summary": "松下ZS99便携相机评测，具备强大变焦、图像稳定、RAW支持和小巧机身，画质出色，性价比高，适合追求便携与性能的用户。",
+      "recommendation": "实测ZS99变焦、防抖与RAW性能，提供实拍样张和竞品对比数据，为便携相机选购提供量化参考。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The LUMIX ZS99 is the Best Point and Shoot for the Money"
+    },
+    {
+      "id": "recvr80k845PuE",
+      "title": "徕卡最畅销的相机是哪款？我找到答案后彻底震惊了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/what-is-leicas-best-selling-camera-i-found-out-the-answer-to-this-question-and-was-completely-shocked",
+      "publish_time": "2026-08-02T14:15:00+08:00",
+      "summary": "徕卡最畅销相机并非测距仪，而是某系列，具体型号和数据需查阅原文，核心价值在于颠覆认知。",
+      "recommendation": "颠覆认知的销量数据，揭示徕卡最畅销机型并非测距仪。对影像爱好者是难得的市场洞察，可重新审视品牌产品线布局。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What is Leica's best-selling camera? I found out the answer to this question and was completely shocked"
+    },
     {
       "id": "recvr6Pkoe2Lsl",
       "title": "你一直忽略的相机模式才是最有趣的",
@@ -133,6 +180,22 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Deals: Samsung Galaxy S26 Ultra discounted, Galaxy Z Fold8 series up for pre-order"
+    },
+    {
+      "id": "recvr80hQyg3hV",
+      "title": "腾龙12-20mm f/2.8 FE镜头现已在亚马逊和B&H有售",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/tamron-12-20mm-f-2-8-fe-now-in-stock-at-amazon-and-bhphoto/",
+      "publish_time": "2026-08-02T02:15:01+08:00",
+      "summary": "腾龙12-20mm f/2.8 FE镜头现已于亚马逊和B&H有售，消息源自sonyalpharumors。",
+      "recommendation": "超广角变焦镜头新选择，12-20mm焦段兼顾风光与vlog创作，f/2.8恒定光圈实用，购机渠道信息明确，适合关注镜头动态的玩家。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tamron 12-20mm f/2.8 FE now in Stock at Amazon and BHphoto"
     },
     {
       "id": "recvr4Nc2Ihoam",
@@ -7696,69 +7759,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Companies Selling DJI Products in Disguise Facing FCC Ban"
-    },
-    {
-      "id": "recvq1evKpDzUe",
-      "title": "索尼FX5支持通过USB-C传输时间码，付费可移除IBIS",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-fx5-supports-timecode-via-usb-c-ibis-can-be-removed-if-you-pay-for-it/",
-      "publish_time": "2026-07-21T18:22:38+08:00",
-      "summary": "索尼FX5相机支持USB-C传输时间码，标配IBIS可付费移除，Open Gate最高120fps，采用16.6MP全堆叠传感器。",
-      "recommendation": "索尼FX5的USB-C时间码传输与付费移除IBIS功能值得关注，16.6MP全堆叠传感器数据对视频创作者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony FX5 supports timecode via USB-C, IBIS can be removed if you pay for it."
-    },
-    {
-      "id": "recvq1eAI99lvc",
-      "title": "嘿，摄影师们：帮我们推广你的作品",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/21/hey-photographers-help-us-promote-your-work/",
-      "publish_time": "2026-07-21T18:00:00+08:00",
-      "summary": "Phoblographer重启摄影师常规出版计划，更新标准：禁止生成式AI，仅允许辅助性AI，优先展示人类创作且AI难复制的摄影项目。",
-      "recommendation": "Phoblographer更新征稿标准，明确禁止生成式AI、仅限辅助性AI，为影像创作者提供展示人类原创摄影的独特平台，揭示行业对AI创作的态度转变。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Hey Photographers: Help Us Promote Your Work"
-    },
-    {
-      "id": "recvq1e3eLDAJK",
-      "title": "游客为拍照冒险靠近黄石公园大棱镜温泉",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/tourists-risk-their-lives-on-yellowstones-grand-parismatic-spring-for-photos/",
-      "publish_time": "2026-07-21T17:41:15+08:00",
-      "summary": "两名游客为拍照冒险靠近黄石公园大棱镜温泉，引发众怒，该行为危及自身安全并破坏自然景观。",
-      "recommendation": "揭示摄影安全与生态伦理的冲突，提醒影像爱好者户外拍摄时需平衡构图与风险，避免破坏景观。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tourists Risk Their Lives On Yellowstone’s Grand Parismatic Spring for Photos"
-    },
-    {
-      "id": "recvq1eqLcqFaz",
-      "title": "尼康首款全画幅无反相机：预算有限摄影师的理想升级之选。为何2026年我仍推荐尼康Z6",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/nikons-first-full-frame-mirrorless-camera-makes-an-ideal-upgrade-for-the-budget-conscious-photographer-heres-why-i-still-recommend-the-nikon-z6-in-2026",
-      "publish_time": "2026-07-21T17:30:25+08:00",
-      "summary": "尼康Z6虽非完美，但凭借高性价比和全画幅微单系统，成为预算有限摄影师升级的理想入门之选。",
-      "recommendation": "解析尼康Z6在2026年的性价比优势，提供全画幅微单升级的务实建议，适合预算有限的摄影爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon’s first full-frame mirrorless camera makes an ideal upgrade for the budget-conscious photographer. Here’s why I still recommend the Nikon Z6 in 2026"
     }
   ]
 }
