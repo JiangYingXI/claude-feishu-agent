@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-02T16:59:52.801563+08:00",
+    "updated_at": "2026-08-02T22:14:19.400918+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 85
+      "count": 86
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,118 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 21
+      "count": 20
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 27
+      "count": 28
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 405
+      "count": 403
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvr9hjqqvkLk",
+      "title": "多元化摄影师的崛起",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/02/the-rise-of-the-diversified-photographer/",
+      "publish_time": "2026-08-02T22:01:38+08:00",
+      "summary": "摄影师面对擅长领域问题时的犹豫，反映了多元化技能在行业中的重要性，文章探讨了这一趋势的兴起。",
+      "recommendation": "探讨摄影师多元化技能趋势，结合行业案例与数据，为影像爱好者提供职业发展新视角，内容扎实，观点鲜明。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Rise Of The Diversified Photographer"
+    },
+    {
+      "id": "recvr9hma5qetM",
+      "title": "弗吉尼亚小镇家庭生活的亲密照片首次公开",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/02/intimate-photographs-of-family-life-in-small-town-virginia-published-for-the-first-time/",
+      "publish_time": "2026-08-02T21:00:57+08:00",
+      "summary": "传奇美国摄影师拍摄的关于妻子在弗吉尼亚小镇家人的私密照片，首次在新书中出版，展现家庭生活的亲密瞬间。",
+      "recommendation": "传奇摄影师私密家庭影像首次结集出版，为纪实摄影爱好者提供观察家庭叙事与胶片质感的独特样本。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Intimate Photographs of Family Life in Small-Town Virginia Published for the First Time"
+    },
+    {
+      "id": "recvr9hrnyVhN6",
+      "title": "何时该放弃付费摄影工作：那些暗示“难缠客户”的危险信号",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/commercial-photography/when-to-walk-away-from-work-as-a-paid-photographer-the-red-flags-that-scream-difficult-client",
+      "publish_time": "2026-08-02T20:30:00+08:00",
+      "summary": "专业摄影师应识别难缠客户的危险信号，及时放弃付费工作，以保护自身利益和职业声誉。",
+      "recommendation": "从商业角度解析摄影接单中的客户筛选策略，提供识别危险信号的实操清单，对自由摄影师和接单爱好者有直接参考价值，观点务实。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "When to walk away from work as a paid photographer: The red flags that scream \"difficult client\""
+    },
+    {
+      "id": "recvr9hoZbriuw",
+      "title": "Christopher Frost评测：索尼FE 24mm f/1.4 GM跻身最佳24mm定焦镜头之列",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/christopher-frost-rates-the-sony-fe-24mm-f-1-4-gm-among-the-finest-24mm-primes-available/",
+      "publish_time": "2026-08-02T19:25:50+08:00",
+      "summary": "Christopher Frost评测认为索尼FE 24mm f/1.4 GM跻身最佳24mm定焦镜头之列，中央清晰度惊人，因明亮最大光圈获加分。",
+      "recommendation": "评测聚焦FE 24mm f/1.4 GM中央锐度与光圈表现，含实拍样张与对比数据，为广角定焦选购提供量化参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Christopher Frost rates the Sony FE 24mm f/1.4 GM among the finest 24mm primes available"
+    },
+    {
+      "id": "recvr9hwTpuqkG",
+      "title": "Z世代进入胶片摄影圈",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/02/gen-z-has-entered-the-film-photography-chat/",
+      "publish_time": "2026-08-02T18:00:00+08:00",
+      "summary": "千禧一代观察Z世代进入胶片摄影圈，反思传统媒体敌意，指出Z世代在数字领域更精通，对AI厌恶，艺术与内容界限更健康。",
+      "recommendation": "从代际视角剖析Z世代胶片热潮，揭示数字原住民对AI的抵触与创作边界重构，为影像从业者提供市场趋势与用户心理的独特洞察。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Gen Z Has Entered the Film Photography Chat"
+    },
+    {
+      "id": "recvr9hu4iSZOd",
+      "title": "这是柯达发明过的最糟糕的胶片格式——但仍有数百万人购买了相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/it-was-the-worst-film-format-kodak-ever-invented-but-millions-still-bought-the-cameras",
+      "publish_time": "2026-08-02T17:10:00+08:00",
+      "summary": "柯达碟式相机虽被评为其最差胶片格式，却因独特设计吸引数百万人购买，成为摄影界奇特收藏品。",
+      "recommendation": "碟式胶片失败史暗藏产品决策教训，剖析其设计缺陷与市场悖论，对理解影像格式演进有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This was the worst film format that Kodak ever invented – but millions still bought the cameras"
+    },
     {
       "id": "recvr80ePxCquE",
       "title": "刚刚发布：新款老蛙Aksen 1-5X和5-10X齐焦超微距APO镜头",
@@ -7667,98 +7760,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Photographer Sues Coffee Shop for Using Cartoon Version of Her Image on Cups"
-    },
-    {
-      "id": "recvq1eeZDHQDv",
-      "title": "更多RED相机技术！尼康加码视频领域，计划数十亿美元巨额投资",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/more-red-camera-tech-nikon-doubles-down-on-video-plans-huge-billion-dollar-investment",
-      "publish_time": "2026-07-21T20:10:49+08:00",
-      "summary": "尼康总裁透露数十亿美元半导体投资战略，计划用更多RED技术加强影像部门，加码视频领域。",
-      "recommendation": "尼康总裁披露数十亿美元半导体投资计划，详解RED技术下放视频领域战略，含独家投资数据与行业布局深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "More RED camera tech! Nikon doubles down on video, plans huge billion-dollar investment"
-    },
-    {
-      "id": "recvq1ehmXasBR",
-      "title": "廉价卡片机出货量超越其他品类，为何大厂却对这片蓝海视而不见？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/cheap-point-and-shoot-camera-shipments-are-exceeding-all-others-but-why-are-the-biggest-manufacturers-stubbornly-ignoring-this-popular-category",
-      "publish_time": "2026-07-21T20:00:00+08:00",
-      "summary": "廉价卡片机出货量超越其他品类，但佳能、尼康、索尼等大厂未涉足，原因在于利润低且市场定位不符",
-      "recommendation": "剖析廉价卡片机市场悖论，揭示大厂缺席的利润与定位逻辑，为影像爱好者提供行业冷门洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Cheap point-and-shoot camera shipments are exceeding all others. But why are the biggest manufacturers stubbornly ignoring this popular category?"
-    },
-    {
-      "id": "recvq1ejFiQrNs",
-      "title": "大疆AI生成的“暗帖”激怒网友——但或许有人们没想到的好处？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/audio/microphones/djis-ai-created-dark-post-infuriated-the-internet-but-perhaps-there-is-a-good-side-people-didnt-think-of",
-      "publish_time": "2026-07-21T19:03:40+08:00",
-      "summary": "大疆用AI生成广告引发争议，但文章探讨了其可能带来的意外好处，如提高效率和创意，而非仅键盘侠所指责的负面",
-      "recommendation": "探讨大疆AI广告争议的意外价值，为影像爱好者提供行业效率与创意的新视角，非简单批判。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI's AI-created \"dark post\" infuriated the internet –but perhaps there is a good side people didn't think of?"
-    },
-    {
-      "id": "recvq1elY3I91o",
-      "title": "不止于山：这些获奖照片讲述智利巴塔哥尼亚的人文故事",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/more-than-mountains-the-human-story-of-chilean-patagonia-told-through-these-award-winning-photos",
-      "publish_time": "2026-07-21T19:00:56+08:00",
-      "summary": "获奖照片揭示巴塔哥尼亚风景之外，当地社区与传统生活方式同样讲述这片土地的故事",
-      "recommendation": "通过获奖照片解析巴塔哥尼亚人文纪实，提供社区与传统生活影像视角，对人文摄影爱好者有独特构图与叙事启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "More than mountains: the human story of Chilean Patagonia told through these award-winning photos"
-    },
-    {
-      "id": "recvq1eomFDiI4",
-      "title": "你以为自己是摄影高手？Adobe的实验性相机应用会给你点颜色看看！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/apps/so-you-think-youre-a-good-photographer-adobes-experimental-camera-app-will-have-something-to-say-about-that",
-      "publish_time": "2026-07-21T18:57:48+08:00",
-      "summary": "Adobe实验性相机应用能编辑照片并评论拍摄技巧，可能打击用户自尊心，但提供改进建议。",
-      "recommendation": "Adobe实验性相机应用引入AI实时编辑与拍摄技巧点评，提供改进建议而非单纯打击自信，对追求技术进阶的影像爱好者有独特参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "So you think you’re a good photographer? Adobe’s experimental camera app will have something to say about that!"
-    },
-    {
-      "id": "recvq1e0WCzAUT",
-      "title": "伪装销售大疆产品的公司面临FCC禁令",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/companies-selling-dji-products-in-disguise-facing-fcc-ban/",
-      "publish_time": "2026-07-21T18:49:55+08:00",
-      "summary": "美国FCC拟禁止伪装销售大疆产品的公司，因其涉嫌将大疆设备冒充其他品牌，此举旨在打击违规行为。",
-      "recommendation": "揭露FCC拟禁伪装销售大疆产品，揭示行业监管动态，对关注无人机影像合规性的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Companies Selling DJI Products in Disguise Facing FCC Ban"
     }
   ]
 }
