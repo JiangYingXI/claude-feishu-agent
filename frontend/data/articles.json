@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-02T03:49:04.519852+08:00",
+    "updated_at": "2026-08-02T12:09:45.735657+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 82
+      "count": 83
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,61 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 406
+      "count": 404
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 158
     }
   ],
   "articles": [
+    {
+      "id": "recvr6Pkoe2Lsl",
+      "title": "你一直忽略的相机模式才是最有趣的",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/02/the-camera-modes-youve-been-ignoring-are-the-most-fun-ones/",
+      "publish_time": "2026-08-02T12:00:00+08:00",
+      "summary": "数码相机多种模式提升摄影乐趣，尼康佳能索尼富士等品牌提供丰富选项，年轻摄影师应关注这些设置以学习新技巧。",
+      "recommendation": "盘点尼康佳能索尼富士等品牌相机模式，提供实用技巧与品牌差异对比，助年轻摄影师拓展创作思路。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Camera Modes You’ve Been Ignoring Are the Most Fun Ones"
+    },
+    {
+      "id": "recvr6PdM6Zghm",
+      "title": "如何打造一套超紧凑型离机闪光灯套件，可轻松放入汽车后备箱",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/lighting/how-i-built-an-ultra-compact-off-camera-flash-kit-that-fits-in-the-trunk-of-my-car",
+      "publish_time": "2026-08-02T08:10:00+08:00",
+      "summary": "文章介绍打造超紧凑离机闪光灯套件，替代三支闪光灯，解决户外摄影光线不足，可轻松放入后备箱。",
+      "recommendation": "离机闪光灯套件轻量化方案，提供具体器材选配与收纳思路，解决户外补光痛点，适合追求便携的摄影爱好者参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How I built an ultra-compact off-camera flash kit that fits in the trunk of my car"
+    },
+    {
+      "id": "recvr6Ph4SbgHu",
+      "title": "土豆平淡无奇，但它们却是彩色摄影存在的原因",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/potatoes-are-beige-and-boring-but-they-are-also-the-reason-color-photography-exists",
+      "publish_time": "2026-08-02T05:20:00+08:00",
+      "summary": "土豆使奥托克罗姆·吕米埃成为可能，这是第一种广泛使用的彩色摄影形式，其核心价值在于揭示了土豆在摄影史上的关键作用。",
+      "recommendation": "从土豆切入彩色摄影起源，揭示奥托克罗姆工艺与感光材料的技术关联，为影像爱好者提供独特历史视角与材料科学知识。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Potatoes are beige and boring. But they are also the reason color photography exists"
+    },
     {
       "id": "recvr4NhnL56ER",
       "title": "富士X系列摄影师Andrew S. Gibson的52个花卉、花园与自然摄影任务电子书",
@@ -56,6 +102,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "52 Flower, Garden & Nature Photography Assignments eBook by Fujifilm X shooter Andrew S. Gibson"
+    },
+    {
+      "id": "recvr6PauRiJsg",
+      "title": "好奇号：Kase镜头在Lightdow品牌下也能找到",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/curiosity-kase-lenses-can-also-be-found-under-the-lightdow-brand/",
+      "publish_time": "2026-08-02T02:37:14+08:00",
+      "summary": "新款Kase 24mm f/3.8薄饼镜头被贴牌为Lightdow品牌在亚马逊美国销售，已有用户收到样品，此消息源自sonyalpharumors。",
+      "recommendation": "常规资讯，可了解行业动态。揭示Kase镜头在Lightdow品牌下的贴牌销售现象，对关注镜头市场品牌策略的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Curiosity: Kase lenses can also be found under the Lightdow brand"
     },
     {
       "id": "recvr4NeuNtCBB",
@@ -7697,66 +7759,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Nikon’s first full-frame mirrorless camera makes an ideal upgrade for the budget-conscious photographer. Here’s why I still recommend the Nikon Z6 in 2026"
-    },
-    {
-      "id": "recvpZTXmMZrcs",
-      "title": "三星Galaxy Unpacked官方直播观看指南",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/how_to_watch_samsungs_galaxy_unpacked_official_livestream-news-73806.php",
-      "publish_time": "2026-07-21T17:01:02+08:00",
-      "summary": "三星将于7月22日在伦敦举办Galaxy Unpacked活动，预计发布Galaxy Z Fold折叠屏手机和Galaxy Watch系列，直播时间为美国东部时间上午9点等。",
-      "recommendation": "关注三星折叠屏手机影像系统升级，直播将展示新传感器与计算摄影优化，提供行业动态参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Here's how to watch Samsung's Galaxy Unpacked official live"
-    },
-    {
-      "id": "recvq2yjQkXKxh",
-      "title": "三星Galaxy Unpacked发布会直播观看指南",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/how_to_watch_samsungs_galaxy_unpacked_official_livestream-news-73806.php",
-      "publish_time": "2026-07-21T17:01:02+08:00",
-      "summary": "三星将于7月22日在伦敦举办Galaxy Unpacked活动，预计发布新一代Galaxy Z折叠屏手机和Galaxy Watch系列，直播时间为美国东部时间上午9点等。",
-      "recommendation": "折叠屏影像规格或成亮点，关注三星计算摄影与多摄系统升级动态。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Here's how to watch Samsung's Galaxy Unpacked event live"
-    },
-    {
-      "id": "recvq5MfzZNfEH",
-      "title": "在此观看三星Galaxy Unpacked活动直播",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/how_to_watch_samsungs_galaxy_unpacked_official_livestream-news-73806.php",
-      "publish_time": "2026-07-21T17:01:02+08:00",
-      "summary": "三星今日在伦敦举办Galaxy Unpacked活动，预计发布新一代Galaxy Z折叠屏手机及Galaxy Watch系列，直播于美国东部时间上午9:00开始。",
-      "recommendation": "直播聚焦三星折叠屏影像系统升级，可第一时间获取新机传感器规格与计算摄影算法变化，适合关注移动摄影硬件迭代的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Watch the Samsung Galaxy Unpacked event live here"
-    },
-    {
-      "id": "recvpZU0a6hzPQ",
-      "title": "最新iOS 27测试版代码包含iPhone Ultra的引用",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/latest_ios_27_beta_code_includes_references_to_the_iphone_ultra-news-73805.php",
-      "publish_time": "2026-07-21T16:00:01+08:00",
-      "summary": "iOS 27测试版代码引用可折叠iPhone Ultra，电池健康部分提及多电池配置。",
-      "recommendation": "iOS 27代码首曝可折叠iPhone Ultra，多电池配置暗示影像系统功耗需求，为手机影像形态演变提供早期线索。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Latest iOS 27 beta code includes references to the iPhone Ultra"
     }
   ]
 }
