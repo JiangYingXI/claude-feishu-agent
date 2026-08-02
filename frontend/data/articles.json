@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-02T22:14:19.400918+08:00",
+    "updated_at": "2026-08-03T03:49:26.757912+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 25
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 86
+      "count": 83
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 403
+      "count": 404
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,114 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvraDJfcqO7T",
+      "title": "我见过最有用的相机镜头配件？TTArtisan滤镜支架像门一样旋转打开",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lens-filters/the-most-useful-camera-lens-accessory-ive-ever-seen-ttartisan-filter-holder-swings-open-like-a-door",
+      "publish_time": "2026-08-03T02:10:00+08:00",
+      "summary": "TTArtisan推出门式旋转滤镜支架，滑过五十定镜头筒，兼容旋入式滤镜，简单巧妙提升相机配件实用性。",
+      "recommendation": "门式旋转滤镜支架设计巧妙，兼容旋入式滤镜，为镜头配件提供新思路，适合关注实用创新的影像玩家。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The most useful camera lens accessory I've ever seen? TTArtisan filter holder swings open like a door"
+    },
+    {
+      "id": "recvraDOh42eRt",
+      "title": "2026年十大旅行相机推荐",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/buying-guide-best-cameras-for-travel/",
+      "publish_time": "2026-08-03T01:00:00+08:00",
+      "summary": "本文推荐2026年十大旅行相机，强调小巧、多功能和高图像质量，并给出最佳选择。",
+      "recommendation": "盘点2026年旅行相机十大机型，侧重便携与画质平衡，含具体型号参数对比，为出行装备选择提供实用参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 10 best cameras for travel in 2026"
+    },
+    {
+      "id": "recvraDQJJG6Os",
+      "title": "富士XF镜头优惠最后时刻",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/last-hours-of-fujifilm-xf-lens-deals/",
+      "publish_time": "2026-08-03T00:05:43+08:00",
+      "summary": "富士四款XF镜头优惠今日截止，XF18mmF1.4省150美元，XF23mmF1.4省100美元，XF35mmF2省50美元，详情见Fuji Rumors。",
+      "recommendation": "富士XF镜头限时优惠汇总，含具体降价幅度与截止时间，适合近期计划购入定焦镜头的用户参考。常规促销资讯，可了解当前行情。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Last Hours of Fujifilm XF Lens Deals"
+    },
+    {
+      "id": "recvraDLMmmQhk",
+      "title": "如何拍摄2026年日全食：为年度天文摄影盛事做好准备",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/how-to-photograph-the-2026-total-solar-eclipse-get-prepared-for-the-astrophography-event-of-the-year",
+      "publish_time": "2026-08-02T23:20:00+08:00",
+      "summary": "本文提供2026年8月12日日全食摄影指南，涵盖安全设备、曝光参数、拍摄技巧及行程规划，助您捕捉年度天文盛事。",
+      "recommendation": "日全食摄影需精确曝光与安全防护，本文提供2026年8月12日具体参数及行程规划，对天文影像爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How to photograph the 2026 total solar eclipse: Get prepared for the astrophotography event of the year"
+    },
+    {
+      "id": "recvraDDKyClBq",
+      "title": "Windows 10锁屏照片正成为旅游目的地",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/02/the-windows-10-lock-screen-photo-is-becoming-a-travel-destination/",
+      "publish_time": "2026-08-02T23:00:44+08:00",
+      "summary": "Windows 10锁屏照片成旅游热点，实为摄影师史蒂夫·麦凯瑞作品，吸引游客前往真实地点。",
+      "recommendation": "揭秘Windows锁屏壁纸背后的摄影师与实景，为影像爱好者提供旅行拍摄灵感，展现摄影作品对旅游业的实际影响。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Windows 10 Lock Screen Photo is Becoming a Travel Destination"
+    },
+    {
+      "id": "recvraDGAe2u3s",
+      "title": "32亿像素LSST相机捕捉到超过50万个星系",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/02/3-2-gigapixel-lsst-camera-captures-over-half-a-million-galaxies/",
+      "publish_time": "2026-08-02T22:49:20+08:00",
+      "summary": "美国LSST相机以32亿像素捕捉超50万星系，展现宇宙观测最多区域，凸显其高分辨率观测能力。",
+      "recommendation": "32亿像素传感器技术突破，展示消费级影像未来潜力。独家数据揭示高分辨率观测极限，对传感器硬件爱好者有参考价值。",
+      "categories": [
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "3.2-Gigapixel LSST Camera Captures Over Half a Million Galaxies"
+    },
+    {
+      "id": "recvraDTHLUgKZ",
+      "title": "vivo S2 完整规格曝光，Galaxy S27 Pro 和 Ultra 电池泄露，第31周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_s2_full_specs_galaxy_s27_pro_and_ultra_batteries_leak_week_31_in_review-news-73956.php",
+      "publish_time": "2026-08-02T22:06:02+08:00",
+      "summary": "vivo S2完整规格泄露，配备6.83英寸曲面屏、天玑7360、7050mAh电池，预计8月6日印度发布，售价约4万卢比。",
+      "recommendation": "vivo S2规格曝光含7050mAh电池与天玑7360，影像配置未提及，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo S2 full specs, Galaxy S27 Pro and Ultra batteries leak, Week 31 in review"
+    },
     {
       "id": "recvr9hjqqvkLk",
       "title": "多元化摄影师的崛起",
@@ -7651,115 +7759,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Topps to Release One-of-a-Kind Card Featuring Iconic Photo of Lionel Messi and Baby Lamine Yamal"
-    },
-    {
-      "id": "recvq1e5Nsj5rD",
-      "title": "下一款PowerShot相机将于9月发布",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/the-next-powershot-camera-will-be-announced-in-september/",
-      "publish_time": "2026-07-21T21:31:33+08:00",
-      "summary": "下一款PowerShot相机将于9月发布，类似G7 X Mark III但更优，为便携相机带来新想法，可能成为便携相机之王。",
-      "recommendation": "佳能PowerShot新机9月发布，定位类似G7 X Mark III但升级，便携相机市场或迎新标杆，适合关注便携相机发展的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Next PowerShot Camera Will be Announced in September"
-    },
-    {
-      "id": "recvq1e84yI90W",
-      "title": "最好的相机配件融入你的工作流，直到你需要它们。当今创作者需要横竖兼顾，Peak Design 正在重塑经典 L 型快装板",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/the-best-camera-accessories-disappear-into-your-workflow-until-you-need-them-todays-creators-need-to-work-both-horizontally-and-vertically-so-peak-design-is-reinventing-the-classic-l-bracket",
-      "publish_time": "2026-07-21T21:00:00+08:00",
-      "summary": "Peak Design推出新型L型快装板，支持快速更换三脚架、收纳配件及追踪丢失相机，兼顾横竖拍摄需求。",
-      "recommendation": "Peak Design L型快装板解决横竖切换痛点，支持快拆与防丢追踪，对多场景创作者实用。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "“The best camera accessories disappear into your workflow until you need them.” Today’s creators need to work both horizontally and vertically, so Peak Design is reinventing the classic L-Bracket"
-    },
-    {
-      "id": "recvq1eas0hlDd",
-      "title": "大卫·贝利的照片如何将米克·贾格尔和迈克尔·凯恩变成1960年代的设计偶像——《Pin-Ups》盒子背后从未公开的接触印相照片即将出售",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/how-david-baileys-photos-turned-mick-jagger-and-michael-caine-into-1960s-design-icons-never-before-seen-contact-sheets-behind-box-of-pin-ups-go-on-sale",
-      "publish_time": "2026-07-21T21:00:00+08:00",
-      "summary": "大卫·贝利1960年代《Pin-Ups》系列中36张从未公开的接触印相照片即将出售，展现米克·贾格尔和迈克尔·凯恩等成为设计偶像的幕后瞬间",
-      "recommendation": "36张未公开接触印相照片，揭秘1960年代时尚偶像的摄影幕后，对肖像构图与胶片接触印相技术有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How David Bailey's photos turned Mick Jagger and Michael Caine into 1960s design icons – never-before-seen contact sheets behind Box of Pin-Ups go on sale"
-    },
-    {
-      "id": "recvq1eyeitMua",
-      "title": "我们日常工作中最爱的佳能镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/21/our-favorite-canon-lens-for-everyday-work/",
-      "publish_time": "2026-07-21T21:00:00+08:00",
-      "summary": "佳能推出多款跨类型镜头，适合风景、人像和活动摄影，满足不同摄影师需求。",
-      "recommendation": "文章梳理佳能多款镜头在风景、人像、活动场景中的实际表现，提供跨类型选镜参考，适合正在规划镜头组合的摄影爱好者。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Our Favorite Canon lens for Everyday Work"
-    },
-    {
-      "id": "recvq1etjVSGK4",
-      "title": "新款100-400mm f/5.6-8 FE镜头售价899欧元",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-100-400mm-f-5-6-8-fe-lens-will-cost-899-euro-for-lens/",
-      "publish_time": "2026-07-21T20:59:13+08:00",
-      "summary": "索尼将推出100-400mm f/5.6-8 FE镜头，售价899欧元，与FX5相机同步上市。",
-      "recommendation": "899欧元定价与FX5相机同步上市信息，为长焦镜头市场提供新选择，适合关注索尼生态的爱好者了解产品定位。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New 100-400mm f/5.6-8 FE lens will cost 899 euro for lens"
-    },
-    {
-      "id": "recvq1ecMZx9IW",
-      "title": "顶级定焦镜头不便宜——但“我们见过最好的尼康Z镜头之一”直降250美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/top-quality-primes-are-not-cheap-but-one-of-the-finest-nikon-z-lenses-weve-ever-seen-just-dropped-by-usd250",
-      "publish_time": "2026-07-21T20:47:59+08:00",
-      "summary": "尼康Z MC 105mm f/2.8 VR S镜头降价250美元，适合野生动物、人像、风景和微距摄影，是顶级定焦镜头之一。",
-      "recommendation": "尼康Z 105mm f/2.8 VR S降价250美元，提供微距与多场景拍摄价值。文章含价格变动数据，适合关注高端定焦镜头性价比的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Top-quality primes are not cheap – but \"one of the finest Nikon Z lenses we've ever seen\" just dropped by $250"
-    },
-    {
-      "id": "recvq1dYxgBVky",
-      "title": "摄影师起诉咖啡店在杯子上使用其卡通形象",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/photographer-sues-coffee-shop-for-using-cartoon-version-of-his-image-on-cups-merch/",
-      "publish_time": "2026-07-21T20:21:08+08:00",
-      "summary": "摄影师起诉咖啡店未经同意在杯子和袋子上使用其拍摄的抗议者卡通形象",
-      "recommendation": "从版权纠纷切入，揭示摄影作品在商业使用中的法律边界，对影像创作者有实务参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Sues Coffee Shop for Using Cartoon Version of Her Image on Cups"
     }
   ]
 }
