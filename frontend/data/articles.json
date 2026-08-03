@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-03T03:49:26.757912+08:00",
+    "updated_at": "2026-08-03T12:13:13.562735+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 20
+      "count": 18
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,77 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 404
+      "count": 403
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 157
+      "count": 159
     }
   ],
   "articles": [
+    {
+      "id": "recvrcGJaVvIQU",
+      "title": "你真的知道如何测光吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/03/the-dark-art-of-metering-copy/",
+      "publish_time": "2026-08-03T12:00:00+08:00",
+      "summary": "测光并非玄学，基础简单，掌握其原理即可提升摄影技术。",
+      "recommendation": "测光原理常被忽视，此文用通俗方式拆解基础逻辑，助你摆脱玄学误区，快速提升实拍准确度。适合刚入门或遇曝光瓶颈的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Do You Actually Know How to Meter a Scene?"
+    },
+    {
+      "id": "recvrcGGRqZWYx",
+      "title": "尼康新闻周刊第897期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/02/weekly-nikon-news-flash-897.aspx/",
+      "publish_time": "2026-08-03T09:34:41+08:00",
+      "summary": "尼康新闻周刊第897期报道Pergear推出129美元的50mm f/1.4 Z卡口手动镜头，及7Artisans AF 10mm f/2.5鱼眼镜头的预购信息。",
+      "recommendation": "涵盖两款新镜头动态，129美元Z口手动头与鱼眼预购信息，适合关注性价比镜头与Z卡口生态的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #897"
+    },
+    {
+      "id": "recvrcGBsYU0zc",
+      "title": "性价比最高的无反相机又降价了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/the-best-value-mirrorless-cameras-just-got-even-cheaper",
+      "publish_time": "2026-08-03T08:10:00+08:00",
+      "summary": "性价比最高的无反相机降价，仅需599美元含镜头即可入门，适合摄影新手或换系统者，保留核心参数与数据，一句话概括核心价值。",
+      "recommendation": "599美元含镜头入门无反，参数与降价幅度明确，适合新手或换门用户参考，常规资讯可了解行情。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The best-value mirrorless cameras just got even cheaper"
+    },
+    {
+      "id": "recvrcGEdhAk8s",
+      "title": "有时，不拍照才是最好的选择——正如这位在纳粹集中营遗址摆拍的女孩提醒我们的那样",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/social-media/sometimes-its-best-not-to-take-the-photo-as-this-girl-posing-at-a-former-nazi-death-camp-reminds-us",
+      "publish_time": "2026-08-03T05:20:00+08:00",
+      "summary": "女孩在纳粹集中营遗址摆拍引发争议，提醒我们有时不拍照才是尊重历史的最好选择。",
+      "recommendation": "从影像伦理角度切入，探讨拍摄边界与历史尊重，为摄影爱好者提供技术之外的深度思考，观点独到。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Sometimes, it’s best not to take the photo – as this girl posing at a former Nazi death camp reminds us"
+    },
     {
       "id": "recvraDJfcqO7T",
       "title": "我见过最有用的相机镜头配件？TTArtisan滤镜支架像门一样旋转打开",
@@ -7696,69 +7758,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "vivo S2 teaser image leaks alongside its specs"
-    },
-    {
-      "id": "recvq1dP8TUAhg",
-      "title": "Peak Design 新款 Field Bracket 为现代摄影师重新定义 L 型快装板",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/peak-designs-new-field-bracket-reinvents-the-l-bracket-for-modern-photographers/",
-      "publish_time": "2026-07-21T22:15:41+08:00",
-      "summary": "Peak Design 推出模块化 L 型支架 Field Bracket，克服传统设计妥协，为现代摄影师提供更灵活的快装板解决方案。",
-      "recommendation": "解析Peak Design模块化L型支架如何解决传统快装板痛点，适合追求灵活拍摄的摄影师了解设计思路与实用价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Peak Design’s New Field Bracket Reinvents the L-Bracket for Modern Photographers"
-    },
-    {
-      "id": "recvq1dRNnSj3N",
-      "title": "iPhone相机应用Pearla更名并首次实现14位RAW照片与视频拍摄",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/iphone-camera-app-pearla-gets-new-name-and-first-of-its-kind-14-bit-raw-photo-and-video-capture/",
-      "publish_time": "2026-07-21T22:00:40+08:00",
-      "summary": "专业iPhone相机应用Pearla更名为Pearla Verana IV，新增PearlaRAW功能，实现无需外部存储即可在iPhone内部捕获14位RAW照片和视频，并推出编辑应用Revela和简",
-      "recommendation": "文章详述Pearla Verana IV实现iPhone内录14位RAW照片与视频，突破外接存储限制，对移动摄影用户有实用价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "iPhone Camera App Pearla Gets New Name and First-of-its-Kind 14-bit RAW Photo and Video Capture"
-    },
-    {
-      "id": "recvq1dU6BjG0V",
-      "title": "Pearla Revela：一款基于节点的RAW照片与视频编辑平台，支持iPhone、iPad和Mac",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/pearla-revela-is-a-node-based-raw-photo-and-video-editing-platform-for-iphone-ipad-and-mac/",
-      "publish_time": "2026-07-21T22:00:31+08:00",
-      "summary": "Pearla Mostra发布Pearla Revela，一款支持iPhone、iPad和Mac的非破坏性节点图编辑器，用于处理照片和视频。",
-      "recommendation": "介绍Pearla Revela节点图编辑器，支持iPhone/iPad/Mac非破坏性RAW处理，对移动影像后期工作流有参考价值，但缺乏独家数据。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Pearla Revela Is a Node-Based RAW Photo and Video Editing Platform for iPhone, iPad, and Mac"
-    },
-    {
-      "id": "recvq1dWqm1q99",
-      "title": "Topps将发行梅西与婴儿亚马尔经典照片的独一无二球星卡",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/topps-to-release-one-of-a-kind-card-featuring-iconic-photo-of-lionel-messi-and-baby-lamine-yamal/",
-      "publish_time": "2026-07-21T21:41:26+08:00",
-      "summary": "Topps将发行梅西与婴儿亚马尔经典照片的独一无二球星卡，该卡印有梅西与未来足球明星亚马尔婴儿时期的著名照片，具有极高收藏价值。",
-      "recommendation": "球星卡将梅西与亚马尔婴儿照结合，展示影像在体育收藏中的独特价值，适合关注跨界影像应用的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Topps to Release One-of-a-Kind Card Featuring Iconic Photo of Lionel Messi and Baby Lamine Yamal"
     }
   ]
 }
