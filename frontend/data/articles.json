@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-03T18:31:20.800128+08:00",
+    "updated_at": "2026-08-03T23:32:36.619485+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 27
+      "count": 28
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 84
+      "count": 86
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,304 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 18
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 27
+      "count": 29
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 400
+      "count": 401
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 158
+      "count": 156
     }
   ],
   "articles": [
+    {
+      "id": "recvrfrotrjzda",
+      "title": "这款小众紧凑型相机成为日本新晋第一——发布近7年后，二手价格常高于原零售价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-cult-compact-camera-is-japans-new-no-1-nearly-7-years-after-its-release-with-second-hand-prices-often-higher-than-its-original-retail-price",
+      "publish_time": "2026-08-03T23:11:43+08:00",
+      "summary": "佳能小众紧凑型相机发布近7年，二手价常高于原价，销量超新卡片机，因特殊原因成日本新晋第一。",
+      "recommendation": "剖析小众机型逆势涨价现象，揭示供需逻辑与市场偏好，对二手相机选购及行业趋势观察有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This cult compact camera is Japan's new No.1 – nearly 7 years after its release, with second-hand prices often higher than its original retail price"
+    },
+    {
+      "id": "recvrfr0I3qc3M",
+      "title": "警方调查被指控用Meta智能眼镜偷拍陌生人的TikTok用户",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/03/police-investigate-tiktoker-accused-of-secretly-filming-strangers-with-meta-smart-glasses/",
+      "publish_time": "2026-08-03T22:36:41+08:00",
+      "summary": "警方调查一名TikTok用户，其使用Meta智能眼镜偷拍陌生人并上传数百段视频，涉嫌侵犯隐私。",
+      "recommendation": "智能眼镜偷拍争议暴露影像设备隐私边界，对随身拍摄爱好者具警示价值，行业监管动态值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Police Investigate TikToker Accused of Secretly Filming Strangers With Meta Smart Glasses"
+    },
+    {
+      "id": "recvrfrAVO88uj",
+      "title": "iQOO Z11 泄露营销图显示类似 Pixel 的相机条",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_z11_leaked_marketing_image_shows_a_pixellike_camera_bar-news-73981.php",
+      "publish_time": "2026-08-03T22:16:02+08:00",
+      "summary": "iQOO Z11印度版泄露营销图显示全新Pixel风格相机条设计，与中马版不同，CEO暗示即将发布。",
+      "recommendation": "常规资讯，可了解行业动态。展示iQOO Z11印度版Pixel风格相机条设计，与中马版差异值得关注，但缺乏具体影像参数。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iQOO Z11 leaked marketing image shows a Pixel-like camera bar"
+    },
+    {
+      "id": "recvrfr3HV5hCU",
+      "title": "我们正生活在全景电影复兴时代",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/03/we-are-living-in-a-panoramic-film-renaissance/",
+      "publish_time": "2026-08-03T22:01:10+08:00",
+      "summary": "八个月内至少三款中画幅全景胶片相机上市，作者已试用并逐一评价，确认全景复兴时代来临。",
+      "recommendation": "八个月内三款中画幅全景胶片相机实测，逐一评价优缺点，为胶片与全景爱好者提供稀缺的横向参考与行业趋势判断。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "We Are Living in a Panoramic Film Renaissance"
+    },
+    {
+      "id": "recvrfr68dBcnh",
+      "title": "SG-image AF 35mm f/2.2 薄饼镜头承诺带来独特体验",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/03/sg-image-af-35mm-f-2-2-pancake-lens-promises-something-unique/",
+      "publish_time": "2026-08-03T21:57:37+08:00",
+      "summary": "SG-image AF 35mm f/2.2 薄饼镜头，经济型全画幅标准定焦，适用于索尼E、尼康Z及L卡口，售价低于150美元，提供独特体验。",
+      "recommendation": "低价全画幅薄饼镜头新选择，适配三大卡口，售价低于150美元。文章提供具体参数与市场定位分析，对预算有限的街拍爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "SG-image AF 35mm f/2.2 Pancake Lens Promises Something Unique"
+    },
+    {
+      "id": "recvrfr8yjsO4L",
+      "title": "谷歌地球下架AI图像生成器，因用户制作误导性图片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/03/google-earth-pulls-ai-image-generator-after-users-created-misleading-images/",
+      "publish_time": "2026-08-03T21:52:47+08:00",
+      "summary": "谷歌地球因用户用其AI图像生成器制作误导性图片，已下架该功能，此前报道称其新增Nano Banana AI图像生成器。",
+      "recommendation": "AI图像生成器在影像工具中的滥用风险案例，提示计算摄影技术边界，对关注AI影像伦理的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Earth Pulls AI Image Generator After Users Created Misleading Images"
+    },
+    {
+      "id": "recvrfrbiw1n7e",
+      "title": "摄像师因在世界杯期间飞无人机拍摄教堂面临一年监禁",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/03/videographer-is-facing-one-year-in-jail-for-flying-drone-to-film-church-during-world-cup/",
+      "publish_time": "2026-08-03T21:30:49+08:00",
+      "summary": "一名专业摄像师在2026年世界杯期间，于休斯顿无比赛日飞行无人机两分钟拍摄教堂，被联邦调查局逮捕，面临一年监禁。",
+      "recommendation": "无人机法规风险案例，提醒影像创作者注意空域合规，避免因拍摄爱好触犯法律。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Videographer is Facing One Year in Jail for Flying Drone to Film Church During World Cup"
+    },
+    {
+      "id": "recvrfredwA9K0",
+      "title": "Pergear 小巧手动对焦 50mm f/1.4 镜头价格荒谬地实惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/03/pergears-small-manual-focus-50mm-f-1-4-lens-is-absurdly-affordable/",
+      "publish_time": "2026-08-03T21:08:41+08:00",
+      "summary": "Pergear推出超平价紧凑型全画幅50mm f/1.4手动对焦定焦镜头，价格实惠，但仅支持手动对焦。",
+      "recommendation": "平价全画幅手动头新选择，解析Pergear 50mm f/1.4的性价比与手动对焦取舍，适合预算有限的街拍爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Pergear’s Small Manual Focus 50mm f/1.4 Lens Is Absurdly Affordable"
+    },
+    {
+      "id": "recvrfrlTBhZb2",
+      "title": "大疆Osmo Pocket 4P来了。这些视频为你解读。",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/djis-osmo-pocket-4p-is-here-these-videos-explain-it/",
+      "publish_time": "2026-08-03T21:00:00+08:00",
+      "summary": "大疆Osmo Pocket 4P云台相机发布，创作者分享其核心技术参数与数据，助力Vlog拍摄，一文解读其核心价值。",
+      "recommendation": "大疆Osmo Pocket 4P核心参数与实拍数据解读，含创作者实测样张，对Vlog设备选购有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DJI’s Osmo Pocket 4P is here. These videos explain it."
+    },
+    {
+      "id": "recvrfrLnyuMUC",
+      "title": "英国消费者对这些相机欲罢不能",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/03/uk-shoppers-cant-stop-buying-these-cameras/",
+      "publish_time": "2026-08-03T21:00:00+08:00",
+      "summary": "数码相机已成艺术品，多品牌推出技术新品，亚马逊热销，英国摄影师钟爱几款选择。",
+      "recommendation": "从英国市场热销榜单切入，剖析摄影师选购偏好与品牌技术路线，对关注海外消费趋势的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "UK Shoppers Can’t Stop Buying These Cameras"
+    },
+    {
+      "id": "recvrfrIVupZSw",
+      "title": "老蛙Aksen超微距系列",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/laowa-aksen-ultra-macro-series/",
+      "publish_time": "2026-08-03T20:48:22+08:00",
+      "summary": "老蛙推出富士X卡口两款超微距镜头：17.5mm f/1.7 5-10x和45mm f/2.8 1-5x，均为APO设计，已在BHphoto上架。",
+      "recommendation": "老蛙富士卡口超微距新品上架，APO设计及5-10x倍率参数明确，对微距玩家具选型参考价值，属常规产品资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Laowa Aksen Ultra Macro Series"
+    },
+    {
+      "id": "recvrfrgRXHsUf",
+      "title": "索尼注册两款支持32位浮点录音的无线麦克风套装",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-has-registered-two-wireless-microphone-sets-with-32bit-float-support/",
+      "publish_time": "2026-08-03T20:17:13+08:00",
+      "summary": "索尼在中国注册两款新型无线麦克风套装，均支持32位浮点音频，预示新一代ECM-W麦克风即将推出。",
+      "recommendation": "32位浮点录音正从专业设备下放至无线麦克风，此文助影像创作者提前了解音频采集新趋势，注册信息具独家性。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony has registered two wireless microphone sets with 32bit float support"
+    },
+    {
+      "id": "recvrfrDunhvSM",
+      "title": "三星Galaxy F70 Pro正式发布：配备6000mAh电池和 triple 摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_f70_pro_is_official_with_a_6000mah_battery_triple_camera_setup-news-73980.php",
+      "publish_time": "2026-08-03T19:41:02+08:00",
+      "summary": "三星Galaxy F70 Pro在印度发布，配备6000mAh电池、后置三摄和6年软件支持，8月8日开售，起售价23999卢比。",
+      "recommendation": "常规资讯，可了解行业动态。三摄规格未详述，影像价值有限，但6000mAh续航与6年软件支持对长焦拍摄场景有参考意义。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy F70 Pro is official with a 6,000mAh battery, triple camera setup"
+    },
+    {
+      "id": "recvrfrqTbGzts",
+      "title": "狗狗的祈祷得到回应，成为2026年国际宠物摄影奖获奖场景",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/poochs-prayers-answered-as-it-becomes-winning-scene-at-2026-international-pet-photography-awards",
+      "publish_time": "2026-08-03T19:30:38+08:00",
+      "summary": "Callie Soden获2026年国际宠物摄影奖，其创意作品集含犬类摄影，代表作是小狗在教堂祭坛前祈祷的合成图。",
+      "recommendation": "解析获奖宠物摄影的创意合成技法与构图思路，为宠物题材拍摄提供可借鉴的后期处理案例，行业动态参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Pooch’s prayers answered as it becomes winning scene at 2026 International Pet Photography Awards"
+    },
+    {
+      "id": "recvrfrtjuRJJO",
+      "title": "获奖摄影师都有起点——8月值得参加的10个摄影比赛",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/award-winning-photographers-all-started-somewhere-these-are-the-10-photo-contests-to-enter-this-august",
+      "publish_time": "2026-08-03T19:13:41+08:00",
+      "summary": "本文介绍8月10个国际摄影比赛，面向各水平摄影师，提供展示作品机会，强调参赛起点与价值。",
+      "recommendation": "整理8月国际摄影赛事，按水平分层推荐，附参赛价值分析，适合新手起步或寻求曝光，常规资讯可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Award-winning photographers all started somewhere – these are the 10 photo contests to enter this August"
+    },
+    {
+      "id": "recvrfrvGqCNcn",
+      "title": "摄影师罗伯特·卡尼斯花30年拍摄一个自然保护区：这份耐心能教会我们什么",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/photographer-robert-canis-spent-30-years-shooting-one-nature-reserve-heres-what-that-patience-can-teach-the-rest-of-us",
+      "publish_time": "2026-08-03T19:00:00+08:00",
+      "summary": "摄影师罗伯特·卡尼斯30年拍摄同一自然保护区，其一次性印刷作品是对频繁更换地点的Instagram文化的无声谴责，彰显耐心与专注的价值。",
+      "recommendation": "30年专注同一场景的摄影实践，对比Instagram快拍文化，为影像爱好者提供耐心创作与深度观察的独特视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Robert Canis spent 30 years shooting one nature reserve: here's what that patience can teach the rest of us"
+    },
+    {
+      "id": "recvrfryh44t2t",
+      "title": "报告：尼康正在研发高分辨率相机Z7 III",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/report-nikon-is-working-on-a-z7-iii-that-will-be-a-high-resolution-camera",
+      "publish_time": "2026-08-03T18:35:00+08:00",
+      "summary": "尼康正在研发高分辨率相机Z7 III，可能搭载6100万像素传感器，与索尼A7R系列竞争。",
+      "recommendation": "尼康Z7 III传闻汇总，6100万像素传感器规格值得关注。对高像素机型用户有参考价值，但信息源于报告，缺乏官方确认。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Report: \"Nikon is working on a Z7 III that will be a high-resolution camera\""
+    },
+    {
+      "id": "recvrfrGizvbuc",
+      "title": "三星将砍掉Galaxy S27 Ultra的一颗摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_will_axe_one_of_the_galaxy_s27_ultras_cameras-news-73976.php",
+      "publish_time": "2026-08-03T18:25:02+08:00",
+      "summary": "三星考虑在Galaxy S27 Ultra上移除3倍长焦摄像头，仅保留2亿像素主摄、5000万像素5倍长焦和超广角，以削减成本。",
+      "recommendation": "三星旗舰长焦策略调整，揭示多摄冗余与成本权衡，对关注手机影像硬件趋势者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Samsung will axe one of the Galaxy S27 Ultra's cameras"
+    },
     {
       "id": "recvredSfNScT2",
       "title": "没人谈论这支索尼镜头。为什么？",
@@ -88,6 +367,22 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Oppo details A7 Pro Max cameras and rugged build"
+    },
+    {
+      "id": "recvrfrjrd1qsW",
+      "title": "刚刚发布：新款Pergear 50mm F1.4全画幅E卡口手动对焦镜头",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/just-announced-new-pergear-50mm-f1-4-full-frame-e-mount-manual-focus-lens/",
+      "publish_time": "2026-08-03T17:12:57+08:00",
+      "summary": "Pergear发布50mm F1.4全画幅E卡口手动对焦镜头，可在官网和亚马逊购买，使用优惠码8VQNDWZJ享10%折扣。",
+      "recommendation": "常规资讯，可了解行业动态。Pergear新镜发布含规格与购买渠道，但缺乏实测数据与独到观点，适合关注入门手动头的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Just announced: New Pergear 50mm F1.4 Full-Frame E-mount Manual Focus Lens"
     },
     {
       "id": "recvredNaCIAIG",
@@ -7463,299 +7758,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Did FIFA just crop President Trump out of an official photograph of the World Cup trophy ceremony? Here’s my expert photographer’s take"
-    },
-    {
-      "id": "recvq5M34T0wSp",
-      "title": "摄影师去世二十年后，鲍勃·卡洛斯·克拉克新摄影展揭示：他最富冲击力的作品绝非偶然，而是精心构建的协作",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/two-decades-after-the-photographers-death-this-new-exhibition-of-bob-carlos-clarkes-photos-shows-why-his-most-confrontational-images-were-never-accidents-but-carefully-built-collaborations",
-      "publish_time": "2026-07-22T15:00:00+08:00",
-      "summary": "伦敦Atlas画廊周年纪念展揭示摄影师鲍勃·卡洛斯·克拉克去世二十年后，其最富冲击力的作品实为精心构建的协作成果",
-      "recommendation": "揭示摄影大师作品背后的协作机制，对理解影像创作流程有独特启发，适合追求深度摄影美学的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Two decades after the photographer's death, this new exhibition of Bob Carlos Clarke's photos shows why his most confrontational images were never accidents, but carefully built collaborations"
-    },
-    {
-      "id": "recvq5Mi4E0oPt",
-      "title": "富士相机也会磨损，用这个保护它们",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/22/mistake-photographers-with-gear-copy-2-copy-5/",
-      "publish_time": "2026-07-22T15:00:00+08:00",
-      "summary": "富士相机虽耐用但会磨损，与Full Frame Insurance合作推出护理计划，强调清洁镜头触点以防自动对焦不稳定，确保设备保障",
-      "recommendation": "文章聚焦富士相机磨损问题，提供清洁镜头触点等实用维护技巧，并介绍与Full Frame Insurance合作的护理计划，对富士用户有实际参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fuji Cameras Can Get Worn Down. So Protect Them With This"
-    },
-    {
-      "id": "recvq5LSDoYdhI",
-      "title": "M4/3系统或将迎来新霸主",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/micro-four-thirds-may-be-getting-a-new-champion/",
-      "publish_time": "2026-07-22T13:50:55+08:00",
-      "summary": "唯卓仕预告将于7月23日发布M4/3系统镜头，可能成为该系统新霸主",
-      "recommendation": "唯卓仕预告M4/3新镜头，可能重塑系统格局。文章提供具体发布时间与潜在霸主定位，为M4/3用户提供关键选购参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Micro Four Thirds may be getting a new champion"
-    },
-    {
-      "id": "recvq5Md88poNO",
-      "title": "小米MIX Fold 5、全球版Redmi Note 17和Redmi Note 17 Pro Max获认证",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_mix_fold_5_global_redmi_note_17_and_redmi_note_17_pro_max_get_certified-news-73816.php",
-      "publish_time": "2026-07-22T12:26:02+08:00",
-      "summary": "小米MIX Fold 5获工信部认证，型号2608BPX34C，采用7.6英寸折叠屏，搭载自研Xring O3 SoC，机身更宽",
-      "recommendation": "文章披露小米MIX Fold 5折叠屏及Redmi Note 17系列认证信息，含Xring O3 SoC等关键参数，为影像爱好者提供折叠屏影像硬件前瞻。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Xiaomi Mix Fold 5, global Redmi Note 17 and Redmi Note 17 Pro Max get certified"
-    },
-    {
-      "id": "recvq5MkCr4TgG",
-      "title": "你被坑了吗？摄影师二手相机购买指南",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/22/did-you-get-scammed-a-photographers-guide-to-buying-used-cameras/",
-      "publish_time": "2026-07-22T12:00:00+08:00",
-      "summary": "本文基于作者20年二手相机购买经验，揭示KEH、MPB等广告商的诚信问题，汇总购买技巧并推荐最佳购买地点。",
-      "recommendation": "基于20年经验，揭露KEH、MPB等广告商诚信问题，提供独家购买技巧与最佳渠道，对二手相机买家有实操价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Did You Get Scammed? A Photographer’s Guide to Buying Used Cameras"
-    },
-    {
-      "id": "recvq4vidlO98U",
-      "title": "这就是华硕ROG Phone 10和ROG Phone 10 Pro本来的样子",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/this_is_what_the_asus_rog_phone_10_and_rog_phone_10_pro_could_have_been-news-73821.php",
-      "publish_time": "2026-07-22T11:01:02+08:00",
-      "summary": "华硕ROG Phone 10系列未发布，但固件泄露显示其将搭载骁龙8 Elite Gen 5、UFS 4.0、LPDDR5X及Wi-Fi 7。",
-      "recommendation": "固件泄露揭示ROG Phone 10系列影像硬件细节，骁龙8 Elite Gen 5与UFS 4.0等配置对游戏手机影像处理能力有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This is what the Asus ROG Phone 10 and ROG Phone 10 Pro could have been"
-    },
-    {
-      "id": "recvq4vkMhCrKA",
-      "title": "尼康2026年7月优惠活动",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/21/the-latest-nikon-rebates-july-2026.aspx/",
-      "publish_time": "2026-07-22T07:15:59+08:00",
-      "summary": "尼康2026年7月折扣信息涵盖Z9、Z8等Z系列无反相机及镜头、ZR电影摄影机套件、D850等单反相机，详情见B&H Photo等网站",
-      "recommendation": "尼康Z系列及单反相机折扣汇总，含具体型号与价格参考，适合近期计划购入尼康器材的消费者快速比价。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon rebates for July 2026"
-    },
-    {
-      "id": "recvq4vfpkRhnj",
-      "title": "索尼新款电影摄像机明日发布",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/sonys-new-cinema-camera-is-coming-tomorrow/",
-      "publish_time": "2026-07-22T04:17:57+08:00",
-      "summary": "索尼发布新款电影摄像机预告，展示轮廓、录制指示灯和顶部手柄，标语照亮前路，具体参数待明日发布揭晓。",
-      "recommendation": "预告索尼新款电影摄像机，展示轮廓与手柄设计，具体参数待明日揭晓。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sony’s new cinema camera is coming tomorrow"
-    },
-    {
-      "id": "recvq2yFUZkAEJ",
-      "title": "Godox发布新款Lux Junior II复古相机闪光灯，适配尼康相机",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/21/godox-announced-a-new-lux-junior-ii-retro-camera-flash-for-nikon-cameras.aspx/",
-      "publish_time": "2026-07-22T03:51:53+08:00",
-      "summary": "Godox发布新款Lux Junior II复古闪光灯，适配尼康相机，支持TTL、手动、频闪和自动模式，兼容i-TTL，内置2.4GHz无线接收器，USB-C充电，1.5秒回电，400次全功率闪光，高",
-      "recommendation": "Godox Lux Junior II复古闪光灯适配尼康，支持TTL/手动/频闪，内置2.4G无线，1.5秒回电400次全功率，为胶片或数码用户提供便携补光方案。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Godox announced a new Lux Junior II retro camera flash for Nikon cameras"
-    },
-    {
-      "id": "recvq2yeZ8NSPA",
-      "title": "Adobe将告诉你，对焦不准的照片是否是你的错（针对部分相机）",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/adobes-latest-update-shows-you-whether-its-your-fault-you-missed-focus-for-some-cameras/",
-      "publish_time": "2026-07-22T03:00:00+08:00",
-      "summary": "Adobe Camera Raw 18.4.1新增查看相机对焦点位置功能，帮助判断自动对焦系统问题",
-      "recommendation": "通过ACR新功能定位对焦失误根源，为相机自动对焦可靠性提供量化验证手段，避免用户盲目归咎设备。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Adobe will tell you if  an out of focus picture is your fault (for some cameras)"
-    },
-    {
-      "id": "recvq2ytsOZRIt",
-      "title": "这款新福伦达长焦镜头对焦距离比以往更近",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/21/this-new-voigtlander-telephoto-lens-focuses-closer-than-ever/",
-      "publish_time": "2026-07-22T03:00:00+08:00",
-      "summary": "福伦达推出新长焦镜头，对焦距离更近，为徕卡用户提供出色肖像摄影选择。",
-      "recommendation": "福伦达新长焦镜头缩短对焦距离，为徕卡用户提供更灵活的肖像拍摄选择，含具体对焦距离参数与光学设计细节。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This New Voigtlander Telephoto Lens Focuses Closer Than Ever"
-    },
-    {
-      "id": "recvq2yyf0ZgCH",
-      "title": "终于！索尼发布官方FX5预告片！Fotoerhardt开启预订，BHphoto开放通知",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/finally-sony-launched-the-official-sony-fx5-teaser-preorders-open-at-fotoerhardt/",
-      "publish_time": "2026-07-22T02:49:59+08:00",
-      "summary": "索尼发布FX5官方预告片，Fotoerhardt开启预订，BHphoto提供通知。7月22日将推出FX5和100-400mm f/5.6-8镜头。",
-      "recommendation": "索尼FX5预告片确认7月22日发布，同步曝光100-400mm f/5.6-8镜头参数，为长焦用户提供新品动向参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Finally! Sony launched the official Sony FX5 teaser! Preorders open at Fotoerhardt and notifications at BHphoto"
-    },
-    {
-      "id": "recvq2yDexUBSj",
-      "title": "富士最新广告：在智能手机分心的世界里，给摄影的一分钟情书",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilms-latest-ad-is-a-one-minute-love-letter-to-photography-in-a-world-distracted-by-smartphones/",
-      "publish_time": "2026-07-22T02:48:51+08:00",
-      "summary": "富士最新一分钟广告是献给摄影的情书，在智能手机分心世界中强调摄影价值，作者14年仅为此类广告写文三次，占其10224篇文章的0.03%",
-      "recommendation": "富士广告以14年仅发3次同类内容的稀缺性，揭示摄影在智能手机时代的情感价值，为影像爱好者提供行业视角与反思。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm’s Latest Ad Is a One-Minute Love Letter to Photography — in a World Distracted by Smartphones"
-    },
-    {
-      "id": "recvq2yIw8mhTD",
-      "title": "Peak Design 为尼康 Z 相机众筹新型模块化 L 型支架系统",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/21/peak-design-is-crowdfunding-a-new-modular-field-l-bracket-system-for-nikon-cameras.aspx/",
-      "publish_time": "2026-07-22T01:35:08+08:00",
-      "summary": "Peak Design为尼康Z相机推出模块化L型支架系统，含AirTag口袋，在Kickstarter众筹，数小时内筹超20万美元，兼容Z6 III等多款机型。",
-      "recommendation": "Peak Design为尼康Z相机推出模块化L型支架，含AirTag口袋，众筹超20万美元，兼容Z6 III等机型，对摄影配件爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Peak Design is crowdfunding a new modular field L-bracket system for Nikon Z cameras"
-    },
-    {
-      "id": "recvq2y07sTzy8",
-      "title": "罗伯特·欧文称AI剥夺了摄影的艺术性",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/ai-takes-away-from-the-artistry-of-photography-says-robert-irwin/",
-      "publish_time": "2026-07-22T01:12:34+08:00",
-      "summary": "罗伯特·欧文称AI剥夺了摄影的艺术性，认为其威胁到摄影的真实性和创造性。",
-      "recommendation": "探讨AI对摄影艺术性的冲击，提供罗伯特·欧文的批判视角，适合关注计算摄影与美学冲突的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "‘AI Takes Away From the Artistry of Photography’ Says Robert Irwin"
-    },
-    {
-      "id": "recvq2y2FhJQg6",
-      "title": "苹果零售店员工与顾客的对话现可被录音",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/conversations-between-apple-store-workers-and-customers-can-now-be-recorded/",
-      "publish_time": "2026-07-22T00:58:02+08:00",
-      "summary": "苹果开始记录零售店Genius Bar员工与顾客的对话，用于提升服务质量。",
-      "recommendation": "常规资讯，可了解行业动态。虽不直接涉及影像技术，但苹果服务流程变化可能影响售后体验，对依赖Genius Bar的影像用户有间接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Conversations Between Apple Store Workers and Customers Can Now Be Recorded"
-    },
-    {
-      "id": "recvq2ym7NhA81",
-      "title": "索尼明天发布新相机——我们受邀一同见证！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-is-launching-a-new-camera-tomorrow-and-were-all-invited-along-to-watch",
-      "publish_time": "2026-07-22T00:36:35+08:00",
-      "summary": "索尼将于7月22日发布新款电影摄影机，我们受邀见证，敬请关注观看方式。",
-      "recommendation": "索尼新电影机发布在即，本文提供首发见证视角与观看渠道，对关注专业影像设备动态的爱好者有即时资讯价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sony is launching a new camera tomorrow – and we’re all invited along to watch!"
-    },
-    {
-      "id": "recvq5M5Cz4zFP",
-      "title": "索尼今天发布新相机——我们受邀一同见证！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-is-launching-a-new-camera-tomorrow-and-were-all-invited-along-to-watch",
-      "publish_time": "2026-07-22T00:36:35+08:00",
-      "summary": "索尼预告7月22日发布新款电影摄影机，邀请用户共同见证发布活动。",
-      "recommendation": "提供索尼新款电影摄影机发布预告，含具体日期（7月22日）和活动形式，适合关注专业影像设备动态的爱好者获取行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony is launching a new camera today – and we’re all invited along to watch!"
-    },
-    {
-      "id": "recvq2yov3ydft",
-      "title": "Peak Design Form Rope 评测：用绳索固定相机，三种佩戴方式，甚至更多",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/peak-design-form-rope-review",
-      "publish_time": "2026-07-22T00:18:04+08:00",
-      "summary": "Peak Design Form Rope是一款组合式绳索，具有多种连接选项、三种佩戴方式及多种配色方案，巧妙实现相机固定功能。",
-      "recommendation": "Peak Design Form Rope绳索固定方案，提供三种佩戴方式与多配色，适合追求灵活携带相机的摄影爱好者，但未涉及影像性能数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Peak Design Form Rope review: get your camera roped in and wear it in three different ways, maybe even more"
     }
   ]
 }
