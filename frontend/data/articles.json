@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-03T12:13:13.562735+08:00",
+    "updated_at": "2026-08-03T18:31:20.800128+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 25
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 83
+      "count": 84
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,143 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 28
+      "count": 27
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 403
+      "count": 400
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 159
+      "count": 158
     }
   ],
   "articles": [
+    {
+      "id": "recvredSfNScT2",
+      "title": "没人谈论这支索尼镜头。为什么？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/03/no-one-talks-about-this-sony-lens-why/",
+      "publish_time": "2026-08-03T18:00:00+08:00",
+      "summary": "文章回顾了索尼蔡司50mm f1.4镜头评测，强调其技术参数与独特成像，指出该镜头被忽视的价值。",
+      "recommendation": "深度解析索尼蔡司50mm f1.4被低估的成像特质，含具体光学数据与对比观点，适合追求镜头个性与性价比的影像爱好者。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "No One Talks About This Sony Lens. Why?"
+    },
+    {
+      "id": "recvredKwNdmh7",
+      "title": "GoPro MAX 2 360相机降至史上最低价！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/360-cameras/gopro-max-2-360-camera-drops-to-even-lower-best-ever-price",
+      "publish_time": "2026-08-03T17:39:52+08:00",
+      "summary": "GoPro MAX 2 360度相机降价至269英镑，创历史最低价，提供全方位视角拍摄功能。",
+      "recommendation": "360相机价格新低，对全景拍摄爱好者是入手时机。文章含具体降价幅度与购买建议，可作消费决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "GoPro MAX 2 360 camera drops to even lower best-ever price!"
+    },
+    {
+      "id": "recvredFmWGEQ4",
+      "title": "OPPO详解A7 Pro Max摄像头与坚固设计",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_details_a7_pro_max_cameras_and_rugged_build-news-73977.php",
+      "publish_time": "2026-08-03T17:15:03+08:00",
+      "summary": "OPPO将于8月4日发布A7 Pro Max，确认配备5000万像素主摄和前置，后置仅200万像素深度传感器，无超广角或长焦，并展示其耐用性设计。",
+      "recommendation": "常规资讯，可了解行业动态。确认A7 Pro Max主摄规格及缺失超广角/长焦，适合关注中端机影像配置取舍的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo details A7 Pro Max cameras and rugged build"
+    },
+    {
+      "id": "recvredNaCIAIG",
+      "title": "这张照片捕捉到了该地点有史以来第一张完整的银河拱桥，展现了阿根廷联合国教科文组织遗址上空的夜空，这片地貌历经2亿多年形成，拥有地球上唯一完整的三叠纪记录",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-photo-captures-the-first-full-milky-way-arch-ever-taken-at-this-location-revealing-the-night-sky-over-argentinas-unesco-site-a-landscape-shaped-over-200-million-years-and-home-to-earths-only-complete-triassic-record",
+      "publish_time": "2026-08-03T17:09:04+08:00",
+      "summary": "获奖摄影师在阿根廷联合国教科文组织遗址拍摄首张完整银河拱桥，该地历经2亿年形成，拥有唯一完整三叠纪记录，展现不可替代地质与天文奇观。",
+      "recommendation": "银河拱桥拍摄技法与三叠纪地质背景结合，提供暗夜摄影构图思路及遗址独家拍摄数据，对风光与天文爱好者有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"This photo captures the first full Milky Way arch ever taken at this location,\" revealing the night sky over Argentina's UNESCO site, a landscape shaped over 200 million years and home to Earth's only complete Triassic record"
+    },
+    {
+      "id": "recvredPDFcExa",
+      "title": "1965年塞尔玛无脸照片：詹姆斯·卡拉莱斯的镜头为何避开英雄特写，转向天空",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/the-1965-selma-photograph-with-no-faces-in-it-why-james-karales-camera-turned-away-from-the-hero-shot-and-focused-on-the-sky",
+      "publish_time": "2026-08-03T16:19:11+08:00",
+      "summary": "1965年塞尔玛无脸照片证明，最有力的纪实影像不总需近距特写，詹姆斯·卡拉莱斯转向天空，以独特视角捕捉历史瞬间，展现纪实摄影的另一种力量。",
+      "recommendation": "从构图哲学切入，剖析无脸纪实手法如何以天空留白强化历史张力，为街拍与新闻摄影提供反特写叙事范本。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "The 1965 Selma photograph with no faces in it: why James Karales' camera turned away from the hero shot and focused on the sky"
+    },
+    {
+      "id": "recvredIaaQFSi",
+      "title": "据报道，Galaxy S27 Pro将配备1200万像素长焦摄像头",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_galaxy_s27_pro_will_reportedly_get_a_12mp_telephoto_camera-news-73975.php",
+      "publish_time": "2026-08-03T15:15:03+08:00",
+      "summary": "据报道，Galaxy S27 Pro将配备1200万像素长焦镜头，支持3倍光学变焦，定位低于Ultra，预计2027年初亮相。",
+      "recommendation": "三星长焦规格动向的常规报道，含1200万像素与3倍变焦关键参数，可助影像爱好者预判旗舰机变焦策略，但缺乏深度分析。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Galaxy S27 Pro will reportedly get a 12MP telephoto camera"
+    },
+    {
+      "id": "recvredV5fdjSj",
+      "title": "Lowepro推出全新Fastpack IV系列，践行环保理念",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/03/lowepro-goes-greener-with-the-new-fastpack-iv-collection/",
+      "publish_time": "2026-08-03T15:00:00+08:00",
+      "summary": "Lowepro推出全新Fastpack IV系列相机包，践行环保理念，旨在提升携带体验，保护珍贵装备。",
+      "recommendation": "环保材质与背负体验是亮点，适合关注相机包可持续设计的影像爱好者，但缺乏具体参数与实测数据，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Lowepro Goes Greener With the New Fastpack IV Collection"
+    },
+    {
+      "id": "recvredCnLGzUb",
+      "title": "佳能专利展示超快3组镜片设计，实现更快速自动对焦",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-patent-shows-ultra-fast-3-group-lens-designs-for-faster-autofocus/",
+      "publish_time": "2026-08-03T14:03:44+08:00",
+      "summary": "佳能专利展示21种三组镜片设计，旨在缩小快速广角镜头并实现更快速自动对焦，专利号2026-122508。",
+      "recommendation": "佳能专利揭示21种三组镜片设计，聚焦广角镜头小型化与对焦提速。对关注镜头结构演进的爱好者，可获取独家专利细节与设计思路。",
+      "categories": [
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon Patent Shows Ultra-Fast 3-Group Lens Designs for Faster Autofocus"
+    },
     {
       "id": "recvrcGJaVvIQU",
       "title": "你真的知道如何测光吗？",
@@ -7633,131 +7756,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Peak Design Form Rope review: get your camera roped in and wear it in three different ways, maybe even more"
-    },
-    {
-      "id": "recvq2y5lxN1Ah",
-      "title": "Z世代认为IMAX 70毫米版《奥德赛》是精英主义",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/christopher-nolan-the-odyssey-gen-z-think-imax-70mm-is-elitist/",
-      "publish_time": "2026-07-22T00:01:01+08:00",
-      "summary": "Z世代批评《奥德赛》IMAX 70毫米版造成精英主义观影体验，无法观看高端放映的观众将看到细节更少的版本。",
-      "recommendation": "从Z世代视角揭示高端放映格式引发的观影不平等争议，为影像爱好者提供关于画质差异与消费公平的行业洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Gen Z Thinks ‘The Odyssey’ in IMAX 70mm is Elitist"
-    },
-    {
-      "id": "recvq2y7QJZMXK",
-      "title": "Moment 动作板：相机应用的视频游戏控制器",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/moment-action-plates-are-like-a-video-game-controller-for-your-camera-app/",
-      "publish_time": "2026-07-22T00:00:12+08:00",
-      "summary": "Moment更新iPhone相机应用Pro Camera II，新增Action Plates功能，作为可切换控制布局，类似视频游戏控制器，提升拍摄操控体验。",
-      "recommendation": "解析Moment为iPhone相机应用引入类游戏控制器布局，提供可切换操控界面，对追求高效拍摄的用户有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Moment Action Plates Are Like a Video Game Controller for Your Camera App"
-    },
-    {
-      "id": "recvq2yvUaS4l4",
-      "title": "你听说过五区摄影节吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/21/announcing-the-5-boro-foto-fest-a-place-where-art-lovers-meet-real-photographers-copy-4/",
-      "publish_time": "2026-07-22T00:00:00+08:00",
-      "summary": "Phoblographer举办5 Boro Foto Fest，为真实摄影师提供销售印刷艺术作品的空间，抵制算法和AI，强调行业可持续性。",
-      "recommendation": "五区摄影节为影像爱好者提供对抗算法与AI的实体销售空间，强调行业可持续性，是了解摄影市场新趋势的独特视角。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Have You Heard of the 5 Boro Foto Fest?"
-    },
-    {
-      "id": "recvq2ya7Io55Z",
-      "title": "研究人员设计出能在眼前消失的“隐形”无人机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/researchers-design-invisible-drone-that-vanishes-before-your-eyes/",
-      "publish_time": "2026-07-21T23:55:01+08:00",
-      "summary": "工程师设计出利用视觉错觉实现隐形的无人机，无需传统伪装即可在眼前消失，突破隐身技术新思路。",
-      "recommendation": "视觉错觉隐身技术为无人机摄影提供新思路，虽非直接影像产品，但启发低干扰拍摄方案。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Researchers Design ‘Invisible’ Drone That Vanishes Before Your Eyes"
-    },
-    {
-      "id": "recvq2yAHvgwSw",
-      "title": "PeakDesign为你的索尼相机推出创新L型快装板",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/peakdesign-launched-a-new-innovative-l-bracket-for-your-sony-camera/",
-      "publish_time": "2026-07-21T23:42:51+08:00",
-      "summary": "Peak Design重新设计了L型快装板，专为索尼相机推出，可在Kickstarter预购，视频展示工作原理。",
-      "recommendation": "针对索尼相机用户，详解Peak Design L型快装板创新设计，含工作原理视频，提供配件选购参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "PeakDesign launched a new innovative L-Bracket for your Sony camera!"
-    },
-    {
-      "id": "recvq2ycuDsbD4",
-      "title": "《邀请》导演奥利维亚·王尔德参观柯达35毫米胶片实验室",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/21/the-invite-director-olivia-wilde-takes-a-tour-of-kodaks-35mm-film-lab/",
-      "publish_time": "2026-07-21T23:39:16+08:00",
-      "summary": "《邀请》导演奥利维亚·王尔德参观柯达35毫米胶片实验室，探讨胶片拍摄技术。随着诺兰《奥德赛》票房大热，另一部胶片电影正在上映。",
-      "recommendation": "导演探访胶片实验室，结合诺兰新片热度，解析35毫米胶片拍摄技术细节，为影像爱好者提供电影级摄影工艺的深度视角。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "‘The Invite’ Director Olivia Wilde Takes a Tour of Kodak’s 35mm Film Lab"
-    },
-    {
-      "id": "recvq2yr06vttz",
-      "title": "Heipi三合一旅行三脚架W28S评测：一款适用于相机和智能手机的三用魔术棒",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/tripods/heipi-3-in-1-travel-tripod-w28s-review",
-      "publish_time": "2026-07-21T23:00:00+08:00",
-      "summary": "Heipi W28S三合一旅行三脚架采用高品质碳纤维，实现相机与智能手机三用设计，创新变革三脚架结构。",
-      "recommendation": "深度拆解Heipi W28S碳纤维三脚架的三合一结构创新，提供相机与手机兼容的实测数据与便携性分析，对旅行摄影爱好者有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Heipi 3-in-1 Travel Tripod W28S review: a trick stick that works in three different ways, for both cameras and smartphones"
-    },
-    {
-      "id": "recvq2yht0ziYW",
-      "title": "vivo S2 预热图泄露，规格参数同步曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_s2_teaser_image_leaks_alongside_its_specs-news-73813.php",
-      "publish_time": "2026-07-21T22:41:02+08:00",
-      "summary": "vivo S2预热图泄露，搭载骁龙8 Gen 5芯片，6.59英寸120Hz OLED屏，分辨率1.5K，采用屏下摄像头技术。",
-      "recommendation": "屏下摄像头技术结合骁龙8 Gen 5芯片，预示自拍与全面屏设计新突破，对关注前置影像创新的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "vivo S2 teaser image leaks alongside its specs"
     }
   ]
 }
