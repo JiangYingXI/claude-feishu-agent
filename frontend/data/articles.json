@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-04T11:57:23.836312+08:00",
+    "updated_at": "2026-08-04T17:27:52.936076+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 90
+      "count": 87
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,149 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 15
+      "count": 16
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 30
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 401
+      "count": 398
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 150
+      "count": 151
     }
   ],
   "articles": [
+    {
+      "id": "recvrjOfYGltoX",
+      "title": "大多数摄影师造访古巴首都时，镜头对准的是雪佛兰和雪茄。大卫·萨克斯却另辟蹊径：捕捉模糊、阴影和无人摆拍的事物",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/most-photographers-visiting-cubas-capital-focus-on-the-chevys-and-cigars-david-saxe-took-a-very-different-approach-going-after-the-blur-the-shadows-and-the-things-nobody-poses-for",
+      "publish_time": "2026-08-04T16:55:23+08:00",
+      "summary": "古巴是生活，用颗粒、暗部和瑕疵取代明信片式的镜头，这对每位摄影师都是一个有用的教训。",
+      "recommendation": "以古巴纪实摄影为例，剖析颗粒、暗部与瑕疵的审美价值，提供反明信片式拍摄思路，对追求个性化表达的影像爱好者具实操启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Most photographers visiting Cuba's capital focus on the Chevys and cigars. David Saxe took a very different approach: going after the blur, the shadows and the things nobody poses for"
+    },
+    {
+      "id": "recvrjOiQkEuhM",
+      "title": "拍摄真正伟大的名人肖像需要什么？从拍摄艾米·怀恩豪斯到小野洋子，摄影师吉莉安·埃德尔斯坦用整个职业生涯寻找答案",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/what-does-it-take-to-take-a-truly-great-celebrity-portrait-from-shooting-amy-winehouse-to-yoko-ono-photographer-jillian-edelstein-has-spent-a-career-finding-out",
+      "publish_time": "2026-08-04T16:14:48+08:00",
+      "summary": "摄影师吉莉安·埃德尔斯坦通过拍摄名人肖像揭示人性真相，其作品在新展览中展出，展示了从艾米·怀恩豪斯到小野洋子的肖像艺术。",
+      "recommendation": "从名人肖像看人性捕捉技巧，埃德尔斯坦的拍摄方法论与作品解析，对肖像摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What does it take to take a truly great celebrity portrait? From shooting Amy Winehouse to Yoko Ono, photographer Jillian Edelstein has spent a career finding out"
+    },
+    {
+      "id": "recvrjOlhbguHz",
+      "title": "HoverAir Versa——是无人机还是云台相机？为何不能两者兼得！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/drones/hoverair-versa-is-it-a-drone-or-is-it-a-gimbal-camera-why-not-both-at-once",
+      "publish_time": "2026-08-04T16:09:28+08:00",
+      "summary": "HoverAir Versa融合无人机与云台相机功能，挑战DJI Pocket，强调市场领导者未及此创新，核心价值在于多功能一体化设计。",
+      "recommendation": "跨界产品形态分析，对比DJI Pocket揭示市场空白，多功能一体化设计思路对影像爱好者有参考价值，但缺乏实测数据支撑。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "HoverAir Versa – is it a drone? Or is it a gimbal camera? Why not both at once!"
+    },
+    {
+      "id": "recvrjOqibQxJ1",
+      "title": "DxO FilmPack 8评测：数字摄影所需的真实感",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/04/dxo-filmpack-8-review-the-authenticity-digital-photography-needs/",
+      "publish_time": "2026-08-04T15:00:00+08:00",
+      "summary": "DxO FilmPack 8评测：为数字照片提供真实胶片风格，弥补相机缺乏复古效果，实现创意愿景。",
+      "recommendation": "深度解析DxO FilmPack 8的胶片模拟算法，对比真实胶卷色彩曲线，提供实用调参建议，助数字影像实现复古质感。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "DxO FilmPack 8 Review: The Authenticity Digital Photography Needs"
+    },
+    {
+      "id": "recvrjOazIq2OV",
+      "title": "索尼FX5评测汇总",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-sony-fx5-reviews-roundup-2/",
+      "publish_time": "2026-08-04T14:34:58+08:00",
+      "summary": "索尼FX5相机及配件在多家电商有售，评测汇总文章首次发布于sonyalpharumors，提供核心参数与购买信息。",
+      "recommendation": "汇总索尼FX5核心参数与电商购买信息，便于快速了解新品动态，但缺乏独家实测数据，常规资讯可参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "New Sony FX5 reviews roundup"
+    },
+    {
+      "id": "recvrjOnQe22O6",
+      "title": "谷歌在新官方视频中预告 Pixel 11 Pro Fold",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_teases_pixel_11_pro_fold_in_new_official_video-news-73991.php",
+      "publish_time": "2026-08-04T13:00:03+08:00",
+      "summary": "谷歌发布Pixel 11 Pro Fold官方预告，将于8月12日亮相，视频展示轮廓和内屏，后置摄像头设计延续前代，泄露渲染图揭示更多细节。",
+      "recommendation": "谷歌官方预告确认Pixel 11 Pro Fold发布时间，泄露渲染图揭示后摄设计延续性，对关注折叠屏影像布局者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google teases Pixel 11 Pro Fold in new official video"
+    },
+    {
+      "id": "recvrjOsZDWkzN",
+      "title": "TTArtisan 50mm f1.8 Neo评测：廉价镜头的真实代价",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/04/ttartisan-50mm-f1-8-neo-review-the-real-cost-of-cheap-lenses/",
+      "publish_time": "2026-08-04T12:00:00+08:00",
+      "summary": "TTArtisan 50mm f1.8 Neo镜头评测，对比佳能老款小痰盂，探讨廉价镜头的性能与代价，核心价值在于分析其性价比。",
+      "recommendation": "实测对比佳能小痰盂，揭示廉价镜头在锐度、色散与做工上的真实取舍，为预算有限的爱好者提供量化参考与理性选购依据。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "TTArtisan 50mm f1.8 Neo Review: The Real Cost of Cheap Lenses"
+    },
+    {
+      "id": "recvrjOdAH4CTp",
+      "title": "如何将1080p升级到4K：5款工具实测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/how-to-upscale-1080p-to-4k-5-tools-tested/",
+      "publish_time": "2026-08-04T11:57:25+08:00",
+      "summary": "本文实测5种将1080p升级至4K的工具，比较其原理、质量、工作流与易用性，指出4K时间线中1080p素材的不足，为视频创作者提供升级方案参考。",
+      "recommendation": "实测5款1080p转4K工具，对比画质与工作流，直指4K时间线中素材短板，为创作者提供可落地的升级方案与数据参考。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How to Upscale 1080p to 4K: 5 Tools Tested"
+    },
     {
       "id": "recvrit5twaPQi",
       "title": "荣耀机器人手机规格泄露",
@@ -7629,131 +7753,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "New Platform Lets Companies Bid on Eyewitness Videos of Breaking News"
-    },
-    {
-      "id": "recvq8mKD5fTV2",
-      "title": "Galaxy Z Fold8系列与Z Flip8定价详解",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/here_is_thepricing_breakdown_for_the_galaxy_z_fold8_series_and_the_z_flip8-news-73833.php",
-      "publish_time": "2026-07-23T00:31:02+08:00",
-      "summary": "Galaxy Z Flip8和Z Fold8 Ultra均涨价100美元，FE型号不再提供低价选择。",
-      "recommendation": "文章披露Z Fold8/Flip8系列定价涨幅及FE型号取消，对关注折叠屏影像旗舰定价策略的用户有参考价值，但未涉及影像规格细节。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Here is the pricing breakdown for the Galaxy Z Fold8 series and the Z Flip8"
-    },
-    {
-      "id": "recvq8mPVtEpql",
-      "title": "终极虚化爱好者指南：不同种类的虚化效果",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/22/a-visual-guide-to-the-different-types-of-bokeh-copy/",
-      "publish_time": "2026-07-23T00:00:00+08:00",
-      "summary": "文章指出虚化效果类型多样，基于大量镜头实测，总结不同虚化形状，强调个人偏好但存在客观差异。",
-      "recommendation": "基于大量镜头实测，总结不同虚化形状的客观差异，为追求极致虚化的爱好者提供技术参考与创作灵感。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Ultimate Bokeh Lover’s Guide to the Different Kinds"
-    },
-    {
-      "id": "recvq8mD3DFqsR",
-      "title": "摄影极客周刊——与Don Komarechka一起探索镜头内部",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/photo-geek-weekly-inside-the-lens-with-don-komarechka/",
-      "publish_time": "2026-07-22T23:54:50+08:00",
-      "summary": "Don Komarechka在播客中与作者探讨佳能传闻、加拿大镜头租赁等话题，分享摄影极客见解",
-      "recommendation": "播客形式探讨佳能传闻与镜头租赁，提供摄影极客视角的行业洞察，适合关注器材动态的爱好者获取非官方观点。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photo Geek Weekly – Inside the Lens With Don Komarechka"
-    },
-    {
-      "id": "recvq8my7PDOZl",
-      "title": "Wotancraft 推出更大容量 EasyPack 包与巧妙快拆相机背带",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/22/wotancraft-debuts-bigger-easypack-bag-and-clever-quick-release-camera-strap/",
-      "publish_time": "2026-07-22T23:47:28+08:00",
-      "summary": "Wotancraft推出更大容量EasyPack背包与ParaShooter YKK相机背带，为摄影师提供器材携带新方案",
-      "recommendation": "Wotancraft新包与快拆背带为摄影师提供更实用的器材携带方案，容量升级与YKK背带设计是亮点，适合关注摄影配件的用户了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Wotancraft Debuts Bigger EasyPack Bag and Clever Quick-Release Camera Strap"
-    },
-    {
-      "id": "recvq8mAw2OFeK",
-      "title": "索尼FX5的内存需求令人咋舌",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/22/the-sony-fx5s-memory-requirements-are-wild/",
-      "publish_time": "2026-07-22T23:00:59+08:00",
-      "summary": "索尼发布FX5电影摄影机，功能丰富但存储卡要求极高，是FX或Alpha系列中最严格的机型之一。",
-      "recommendation": "文章揭示索尼FX5对存储卡的严苛要求，为电影机用户提供关键选购参考，避免兼容性陷阱。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony FX5’s Memory Requirements Are Wild"
-    },
-    {
-      "id": "recvq74YhgLnLh",
-      "title": "Meike 85mm f/1.4 Mix II评测：苦等多年终于迎来更新升级的Meike 85mm定焦，结果一下子来了两款，这款是最好的",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/meike-85mm-f-1-4-mix-ii-review-wait-ages-for-an-updated-upgraded-meike-85mm-prime-and-then-two-come-along-almost-at-once-this-ones-the-best",
-      "publish_time": "2026-07-22T22:30:00+08:00",
-      "summary": "Meike 85mm f/1.4 Mix II是一款改进型快速全画幅镜头，适用于尼康、索尼和L卡口无反相机，是人像摄影的理想选择。",
-      "recommendation": "Meike 85mm f/1.4 Mix II评测，对比两款新镜头，提供MTF曲线与实拍样张，解析光学升级细节，适合人像摄影爱好者选镜参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Meike 85mm f/1.4 Mix II review: wait ages for an updated, upgraded Meike 85mm prime and then two come along almost at once. This one’s the best"
-    },
-    {
-      "id": "recvq750xBKxRQ",
-      "title": "索尼FX5发布：5K开门模式与内录RAW，但部分最佳功能稍后到来",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-fx5-arrives-with-5k-open-gate-and-internal-raw-but-some-of-this-video-cameras-best-tricks-are-coming-later",
-      "publish_time": "2026-07-22T22:11:03+08:00",
-      "summary": "索尼FX5发布，支持5K开门模式与内录RAW，速度惊人，但部分最佳功能需等待后续更新。",
-      "recommendation": "索尼FX5支持5K开门模式与内录RAW，速度参数亮眼，但部分功能需固件更新。本文提供具体规格与发布动态，适合关注专业视频机进化的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony FX5 arrives with 5K open gate and internal RAW – but some of this video camera's best tricks are coming later"
-    },
-    {
-      "id": "recvq75xnojww5",
-      "title": "官方发布：索尼全新FX5电影摄影机！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/officially-announced-new-sony-fx5/",
-      "publish_time": "2026-07-22T22:04:55+08:00",
-      "summary": "索尼发布全新FX5电影摄影机，已在BHphoto、亚马逊等平台预售，核心价值在于为电影制作提供专业级拍摄工具。",
-      "recommendation": "索尼FX5电影机官方发布，提供预售渠道与专业级拍摄工具信息，适合关注行业新品的影像爱好者了解动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Officially announced: New Sony FX5 cinema camera!"
     }
   ]
 }
