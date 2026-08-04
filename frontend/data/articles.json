@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-04T04:20:43.137698+08:00",
+    "updated_at": "2026-08-04T11:57:23.836312+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 29
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 88
+      "count": 90
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,124 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 402
+      "count": 401
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 151
+      "count": 150
     }
   ],
   "articles": [
+    {
+      "id": "recvrit5twaPQi",
+      "title": "荣耀机器人手机规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_robot_phone_specs_leak-news-73987.php",
+      "publish_time": "2026-08-04T11:11:01+08:00",
+      "summary": "荣耀机器人手机8月12日发布，泄露显示配备6.3英寸LTPO OLED屏，分辨率1216x2640，峰值亮度6800尼特，带抗反射涂层。",
+      "recommendation": "峰值亮度6800尼特及抗反射涂层是户外影像关键参数，适合关注屏幕显示效果的用户，常规资讯可了解行业动态。",
+      "categories": [
+        "传感器硬件",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor Robot Phone specs leak"
+    },
+    {
+      "id": "recvrit8LTfIWC",
+      "title": "TCL Tab A1 Plus Nxtpaper 现已在美国上市",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/tcl_tab_a1_plus_nxtpaper_is_now_available_in_the_us-news-73990.php",
+      "publish_time": "2026-08-04T09:09:02+08:00",
+      "summary": "TCL Tab A1 Plus Nxtpaper在美国上市，售价299.99美元，配备12.2英寸120Hz Nxtpaper屏幕，骁龙4 Gen 2处理器，6GB内存。",
+      "recommendation": "常规资讯，可了解行业动态。Nxtpaper类纸屏技术对阅读体验有参考价值，但影像规格未提及，摄影爱好者关注度有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "TCL Tab A1 Plus Nxtpaper is now available in the US"
+    },
+    {
+      "id": "recvritgpORkL7",
+      "title": "尼康总部获日本建筑承包商协会奖项",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/03/nikons-headquarters-received-an-award-from-the-japan-association-of-architectural-contractors.aspx/",
+      "publish_time": "2026-08-04T08:04:08+08:00",
+      "summary": "尼康总部创新中心获日本建筑承包商协会第67届BCS奖，与三菱地所设计及安藤建设合作，该中心已开始运营。",
+      "recommendation": "常规资讯，可了解行业动态。尼康总部获奖侧面反映其品牌建设投入，对影像爱好者无直接器材或技术参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon’s headquarters received an award from the Japan Association of Architectural Contractors"
+    },
+    {
+      "id": "recvrisXkot8mA",
+      "title": "这款徕卡M卡口镜头以极低价格复刻1930年代经典",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-leica-m-mount-lens-recreates-a-1930s-classic-for-a-fraction-of-the-price",
+      "publish_time": "2026-08-04T06:31:45+08:00",
+      "summary": "徕卡M卡口复古镜头复刻1930年代经典，现价或超2万美元，核心价值在于以极低价格重现历史经典。",
+      "recommendation": "复刻1930年代徕卡经典镜头，价格对比超2万美元原版，提供历史光学设计的现代体验，对M卡口玩家有独特收藏与拍摄价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Leica M-mount lens recreates a 1930s classic for a fraction of the price"
+    },
+    {
+      "id": "recvrit16kPGLg",
+      "title": "这款全画幅相机不仅能拍摄星空——还能通过可拆卸磁吸LCD屏幕告诉你正在观测哪些星星",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/this-full-frame-camera-doesnt-just-photograph-the-stars-it-tells-you-what-stars-youre-looking-at-from-a-removable-magnetic-lcd-screen",
+      "publish_time": "2026-08-04T05:27:43+08:00",
+      "summary": "ArcBlue C24全画幅天文相机，可拆卸磁吸屏识别星星，兼容现有镜头望远镜，专为星空摄影设计。",
+      "recommendation": "磁吸屏星图识别是天文摄影新玩法，兼容现有镜头降低门槛，对星空题材爱好者有实操参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This full-frame camera doesn’t just photograph the stars – it tells you what stars you’re looking at from a removable magnetic LCD screen"
+    },
+    {
+      "id": "recvritcpnxOAz",
+      "title": "谷歌Pixel 11 Pro营销材料泄露，确认部分规格",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_marketing_materials_leak_confirming_some_specs-news-73988.php",
+      "publish_time": "2026-08-04T05:22:02+08:00",
+      "summary": "谷歌Pixel 11 Pro营销材料泄露，确认其设计与Pixel 11相似，但Pro版背面配备Pixel Glow圆形RGB LED灯，摄像头凸起部分完全由玻璃覆盖。",
+      "recommendation": "泄露图确认Pixel Glow RGB灯与全玻璃摄像头盖板，Pro版影像设计细节首曝，对关注谷歌计算摄影方向者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro marketing materials leak confirming some specs"
+    },
+    {
+      "id": "recvrisP14oWUM",
+      "title": "这些定制相机镜头盖将你的设备变成品牌展示机会",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/03/these-custom-camera-caps-turn-your-gear-into-a-branding-opportunity/",
+      "publish_time": "2026-08-04T05:04:18+08:00",
+      "summary": "3D Film Parts将SignatureCap系列扩展为三卡口，为佳能RF、索尼E和尼康Z相机提供定制印刷机身和后镜头盖套装，将设备变为品牌展示机会。",
+      "recommendation": "常规资讯，可了解行业动态。文章介绍3D Film Parts为三大卡口推出定制镜头盖，对追求个性化设备的玩家有参考价值，但缺乏深度数据与独到观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "These Custom Camera Caps Turn Your Gear Into a Branding Opportunity"
+    },
     {
       "id": "recvrgBUUS92vH",
       "title": "谷歌向Pixel设备推送Android 17 QPR 1 Beta 8更新",
@@ -117,6 +226,22 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Phoblographer Subscribers New Get 15% off VSCO One"
+    },
+    {
+      "id": "recvrisU0BTnDp",
+      "title": "今日仅限B&H：适马28mm f/1.4 FE镜头直降460美元",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/today-only-at-bhphoto-460-off-on-the-sigma-28mm-f-1-4-fe/",
+      "publish_time": "2026-08-04T02:47:10+08:00",
+      "summary": "今日BHphoto促销，Sigma 28mm f/1.4 FE镜头直降460美元，同时Ugreen和Sirui产品也有大幅优惠，文章首发于sonyalpharumors。",
+      "recommendation": "适马28mm f/1.4 FE镜头降价460美元，优惠力度罕见，适合关注高性价比大光圈定焦的玩家。附Ugreen、Sirui促销信息，常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Today only at BHphoto: $460 off on the Sigma 28mm f/1.4 FE"
     },
     {
       "id": "recvrgBpc7iajd",
@@ -7629,133 +7754,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Officially announced: New Sony FX5 cinema camera!"
-    },
-    {
-      "id": "recvq75liog5s3",
-      "title": "三星Galaxy Z Fold8 vs Galaxy Z Fold8 Ultra：上手对比",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_vs_galaxy_z_fold8_ultra_handson_comparison-news-73830.php",
-      "publish_time": "2026-07-22T22:01:02+08:00",
-      "summary": "三星Galaxy Z Fold8与Z Fold8 Ultra上手对比，三星作为折叠屏手机先驱，推出宽幅折叠新形态，影响广泛。",
-      "recommendation": "对比Fold8与Ultra的影像系统差异，含传感器尺寸、长焦规格及计算摄影算法调校，为折叠屏购机者提供实拍样张与画质分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 vs Galaxy Z Fold8 Ultra: hands-on comparison"
-    },
-    {
-      "id": "recvq8mlmbA2dN",
-      "title": "新闻稿：索尼电子推出FX5",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/press-text-sony-electronics-launches-the-fx5/",
-      "publish_time": "2026-07-22T22:00:32+08:00",
-      "summary": "索尼电子推出搭载全新图像传感器的电影线相机FX5，已在多家零售商开放预购，同时提供电子取景器和XLR手柄单元等配件。",
-      "recommendation": "索尼FX5搭载全新图像传感器，提供电子取景器与XLR手柄配件，对电影级视频创作者有实用参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Press text: Sony Electronics Launches the FX5"
-    },
-    {
-      "id": "recvq74G8N1CTP",
-      "title": "索尼FX5搭载新传感器、开放门、内录RAW及更多功能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/22/sony-fx5-has-a-new-sensor-open-gate-internal-raw-and-so-much-more/",
-      "publish_time": "2026-07-22T22:00:24+08:00",
-      "summary": "索尼FX5搭载新传感器与处理器，支持开放门、内录RAW等功能，是索尼近年最重要的电影摄影机，直接响应用户需求。",
-      "recommendation": "解析FX5新传感器与开放门设计，内录RAW等核心升级，为视频创作者提供关键参数与行业趋势洞察。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Sony FX5 Has a New Sensor, Open Gate, Internal RAW, and So Much More"
-    },
-    {
-      "id": "recvq74VRGqo8z",
-      "title": "先锋电影：索尼FX5是一次戏剧性的突破",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/avant-garde-cinema-sony-fx5-is-a-dramatic-departure/",
-      "publish_time": "2026-07-22T22:00:00+08:00",
-      "summary": "索尼FX5将取代FX3，更接近专业电影摄影机，实现戏剧性技术突破。",
-      "recommendation": "文章揭示FX5如何突破消费级与专业电影机界限，提供技术参数与定位分析，适合关注索尼影像产品线升级的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Avant garde cinema: Sony FX5 is a dramatic departure"
-    },
-    {
-      "id": "recvqedHhw4HiD",
-      "title": "索尼FX5：远不止是带Raw的FX3",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/avant-garde-cinema-sony-fx5-is-a-dramatic-departure/",
-      "publish_time": "2026-07-22T22:00:00+08:00",
-      "summary": "索尼FX5将取代FX3，具备更接近专业电影摄影机的性能，支持Raw录制，提升画质与灵活性。",
-      "recommendation": "解析FX5如何超越FX3，详述Raw录制对画质与工作流的提升，为视频创作者提供升级决策参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony FX5: much more than an FX3 with Raw"
-    },
-    {
-      "id": "recvq75q2LcOqU",
-      "title": "2026年上半年日本最畅销紧凑型相机",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/best-selling-compact-cameras-for-first-half-2026-in-japan/",
-      "publish_time": "2026-07-22T21:58:41+08:00",
-      "summary": "BCN发布2026年上半年日本最畅销紧凑型相机榜单，柯达PIXPRO C1等10款机型上榜，数据源自POS系统。",
-      "recommendation": "基于BCN真实销售数据，提供日本市场紧凑型相机销量排名，含柯达C1等10款机型具体信息。适合关注海外消费趋势的爱好者了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Best Selling Compact Cameras for First Half 2026 in Japan"
-    },
-    {
-      "id": "recvq75zL1eyRD",
-      "title": "索尼FX5正式发布",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/now-live-sony-fx5-announcement/",
-      "publish_time": "2026-07-22T21:39:36+08:00",
-      "summary": "索尼FX5正式发布，今日伦敦时间下午3点开启预购，同时发布100-400mm f/5.6-8镜头，可在多家电商平台购买。",
-      "recommendation": "索尼FX5发布及100-400mm镜头信息，含预购时间与电商渠道，适合关注新品动态的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Now live: Sony FX5 announcement"
-    },
-    {
-      "id": "recvq752NZ1MSl",
-      "title": "“AI稀释了令人印象深刻的东西”——罗伯特·欧文一针见血地指出了野生动物摄影中的人工智能问题",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/ai-dilutes-what-is-impressive-robert-irwin-hits-the-nail-on-the-head-when-it-comes-to-artificial-intelligence-in-wildlife-photography",
-      "publish_time": "2026-07-22T21:16:29+08:00",
-      "summary": "澳大利亚野生动物摄影师罗伯特·欧文指出，AI让真正令人印象深刻的真实图像显得平淡无奇，聚焦于这一被忽视的批评。",
-      "recommendation": "罗伯特·欧文直指AI稀释真实影像价值，为摄影爱好者提供独特视角，反思技术对摄影本质的影响。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“AI dilutes what is impressive” – Robert Irwin hits the nail on the head when it comes to artificial intelligence in wildlife photography"
     }
   ]
 }
