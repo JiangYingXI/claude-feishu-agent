@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-05T11:49:38.445428+08:00",
+    "updated_at": "2026-08-05T17:25:57.409106+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 90
+      "count": 89
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,164 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 15
+      "count": 14
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 396
+      "count": 395
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 151
+      "count": 153
     }
   ],
   "articles": [
+    {
+      "id": "recvrpEgXvh7E6",
+      "title": "iQOO Z11确认将于8月20日在印度首发",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_z11_confirmed_to_debut_in_india_on_august_20-news-74016.php",
+      "publish_time": "2026-08-05T16:57:02+08:00",
+      "summary": "iQOO Z11将于8月20日在印度首发，设计与中国版不同，采用Pixel风格横向摄像头条，配备双后置摄像头。",
+      "recommendation": "常规资讯，可了解行业动态。揭示iQOO Z11印度版采用Pixel风格横向摄像头条设计，与国内版差异化，对关注区域市场影像设计策略的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iQOO Z11 confirmed to debut in India on August 20"
+    },
+    {
+      "id": "recvrpEjYH0AT1",
+      "title": "Lava再怼三星，Agni 4N金属机身曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_agni_4n_design_metal_build-news-74015.php",
+      "publish_time": "2026-08-05T15:56:03+08:00",
+      "summary": "印度Lava即将在英推出Agni 4N，预告视频确认金属机身，摄像头水平排列，持续调侃三星。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦Agni 4N金属机身与摄像头布局，对影像爱好者价值有限，未涉及具体影像参数或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lava takes another dig at Samsung as it gives us a glimpse of the Agni 4N having a metal build"
+    },
+    {
+      "id": "recvrpEbiFf97F",
+      "title": "三只好奇的猴子闯入网课的照片在2025年与野生动物共处摄影比赛中获得好评——现在轮到你了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/enchanting-photo-of-three-curious-monkeys-gatecrashing-an-online-class-was-commended-at-the-2025-living-with-wildlife-photography-competition-and-now-its-your-turn-to-enter",
+      "publish_time": "2026-08-05T15:20:00+08:00",
+      "summary": "印度摄影师马纳斯·卡斯纳比什拍摄的猴子旁听网课照片在2025年野生动物摄影比赛中获好评，现可参加2026年奖项评选。",
+      "recommendation": "以猴子旁听网课趣味瞬间切入，解析野生动物摄影的抓拍技巧与叙事价值，附2026参赛指南，对纪实类影像创作有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Enchanting photo of three curious monkeys gatecrashing an online class was commended at the 2025 Living with Wildlife Photography Competition – and now it’s your turn to enter"
+    },
+    {
+      "id": "recvrpEsNVSifS",
+      "title": "2026年，佳能PowerShot G1还值得买吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/05/canon-powershot-g1-review-update-2026/",
+      "publish_time": "2026-08-05T15:00:00+08:00",
+      "summary": "文章探讨2026年佳能PowerShot G1是否值得购买，核心在于权衡其带来的数码相机怀旧感与代价，强调真实性和可持续性选择。",
+      "recommendation": "从怀旧与可持续性角度重估经典机型，提供2026年购买决策框架，对追求真实影像体验的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Is the Canon PowerShot G1 Still Worth Buying in 2026?"
+    },
+    {
+      "id": "recvrpEmWTAgHq",
+      "title": "Redmi K100 Pro将配备2亿像素后置摄像头，电池规格也已曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_k100_pro_to_feature_a_200mp_rear_camera_battery_specs_also_revealed-news-74014.php",
+      "publish_time": "2026-08-05T14:54:02+08:00",
+      "summary": "红米K100 Pro下周发布，确认搭载骁龙8 Elite Gen 5 V芯片组和6.59英寸屏，后置三摄含2亿像素主摄支持OIS，另有超广角和长焦，支持10厘米微距。",
+      "recommendation": "2亿像素主摄配OIS及微距规格曝光，骁龙8 Elite芯片加持，对关注高像素手机影像性能的用户有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Redmi K100 Pro to feature a 200MP rear camera, battery specs also revealed"
+    },
+    {
+      "id": "recvrpEpVHbk1o",
+      "title": "Android 17 QPR 2 Beta 2 现已推出",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/android_17_qpr_2_beta_2_is_now_available-news-74009.php",
+      "publish_time": "2026-08-05T14:41:02+08:00",
+      "summary": "谷歌发布Android 17 QPR 2 Beta 2，面向Pixel设备，但未提及更新内容，仅提供QPR 2 Beta 1的变更日志。",
+      "recommendation": "常规资讯，可了解行业动态。虽未提及影像更新，但Android版本迭代可能影响相机API与计算摄影表现，Pixel用户可关注后续适配。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Android 17 QPR 2 Beta 2 is now available"
+    },
+    {
+      "id": "recvrpEe2TSE7L",
+      "title": "两次日食和流星雨——NASA提供简单指南，助你拍摄八月不容错过的天文摄影盛事",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/two-eclipses-and-meteor-showers-nasa-offers-simple-guide-to-shooting-augusts-massive-schedule-of-must-not-miss-astrophotography-events",
+      "publish_time": "2026-08-05T14:00:00+08:00",
+      "summary": "2026年8月将现日食、月食及流星雨，NASA提供拍摄指南，助天文爱好者捕捉奇观，核心价值在于指导摄影技巧与时机。",
+      "recommendation": "NASA官方指南详解八月日食、月食及流星雨拍摄时机与参数，含独家观测数据，对天文摄影爱好者具实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Two eclipses and meteor showers – NASA offers simple guide to shooting August’s massive schedule of must-not-miss astrophotography events"
+    },
+    {
+      "id": "recvrpE7XH1Bjv",
+      "title": "光透镜实验室发布35mm f/2复消色差镜头，首款‘高性能系列’镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/04/light-lens-lab-unveils-35mm-f-2-apochromatic-its-first-high-performance-series-lens/",
+      "publish_time": "2026-08-05T12:00:17+08:00",
+      "summary": "光透镜实验室发布35mm f/2复消色差镜头，为高性能系列首款，采用先进光学设计，提升成像质量。",
+      "recommendation": "首款高性能系列镜头，复消色差设计提升成像，含光学结构数据，适合关注镜头技术演进的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Light Lens Lab Unveils 35mm f/2 Apochromatic, Its First ‘High Performance Series’ Lens"
+    },
+    {
+      "id": "recvrpEvxqnwUf",
+      "title": "三款电池续航出色的佳能相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/05/3-canon-cameras-with-exceptional-battery-life/",
+      "publish_time": "2026-08-05T12:00:00+08:00",
+      "summary": "佳能相机中，电池续航出色的三款型号，满足传感器、做工、自动对焦等条件，适合重视续航的用户。",
+      "recommendation": "针对续航痛点筛选佳能机型，结合传感器与对焦参数对比，为长时拍摄需求提供实用选机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "3 Canon Cameras With Exceptional Battery Life"
+    },
     {
       "id": "recvrohNuMrfKy",
       "title": "中兴Blade A35e上架，规格令人困惑",
@@ -7612,147 +7751,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "These Four Fujifilm Recipes are Made for People of Color"
-    },
-    {
-      "id": "recvqga3FaHEeT",
-      "title": "三星Galaxy S27和S27+或将配备新主摄像头",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_and_s27_could_get_a_new_main_camera-news-73857.php",
-      "publish_time": "2026-07-24T11:40:02+08:00",
-      "summary": "三星Galaxy S27和S27+正在测试5000万像素索尼主摄像头，可能取代自产传感器，超广角仍为1200万像素。",
-      "recommendation": "独家披露三星S27系列可能换用索尼主摄，5000万像素传感器测试信息对关注旗舰手机影像硬件迭代的爱好者有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Samsung Galaxy S27 and S27+ could get a new main camera"
-    },
-    {
-      "id": "recvqga6sM9GVV",
-      "title": "荣耀与Arri下周将展示机器人手机，荣耀发布新Logo",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_and_arri_will_showcase_the_robot_phone_next_week_honor_unveils_a_new_logo-news-73850.php",
-      "publish_time": "2026-07-24T08:01:02+08:00",
-      "summary": "荣耀与阿莱将于7月28日举办影像技术发布会，推出搭载全栈式电影工作流的机器人手机，注重视频能力，已在世界杯和上海亮相",
-      "recommendation": "荣耀与Arri合作展示机器人手机，聚焦电影级视频工作流，提供行业跨界合作细节与视频能力实测信息，适合关注手机影像创新的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor and Arri will showcase the Robot Phone next week, Honor unveils a new logo"
-    },
-    {
-      "id": "recvqgabyRo66W",
-      "title": "这可能是视频存储和备份的终极解决方案",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/storage/this-could-be-the-ultimate-solution-for-video-storage-and-back-ups",
-      "publish_time": "2026-07-24T06:56:04+08:00",
-      "summary": "介绍一个可容纳8个硬盘、容量高达152TB的机箱，作为视频存储和备份的终极解决方案。",
-      "recommendation": "8盘位152TB存储方案，为高码率视频素材提供集中备份参考，含机箱容量与硬盘配置数据，适合大容量需求用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This could be the ultimate solution for video storage and back-ups"
-    },
-    {
-      "id": "recvqga91602RQ",
-      "title": "iPhone Ultra 再传延期，这次又推迟了",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_ultra_is_now_rumored_to_be_delayed_again-news-73853.php",
-      "publish_time": "2026-07-24T05:51:02+08:00",
-      "summary": "iPhone Ultra可能再次延期，最新传言称其或与iPhone 18 Pro系列在9月如期发布，但上市时间仍不确定。",
-      "recommendation": "iPhone Ultra延期传闻再起，本文梳理了最新时间线，对关注苹果旗舰影像系统的用户有参考价值，但缺乏独家数据或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iPhone Ultra is now rumored to be delayed, again"
-    },
-    {
-      "id": "recvqg9Ybkgi63",
-      "title": "为何索尼FX5是索尼有史以来最重要的电影摄影机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/23/why-the-sony-fx5-is-sonys-most-important-cinema-camera-ever/",
-      "publish_time": "2026-07-24T05:00:22+08:00",
-      "summary": "索尼FX5发布，开启FX系列新纪元，回应批评者要求，带来有意义改进，成为索尼史上最重要电影摄影机。",
-      "recommendation": "解析FX5如何回应批评者诉求，从传感器到机身设计的关键改进数据，揭示其开启FX系列新纪元的战略意义。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why the Sony FX5 Is Sony’s Most Important Cinema Camera Ever"
-    },
-    {
-      "id": "recvqga10JUlpX",
-      "title": "一位摄像师开发了一款免费应用，可告知何时安全擦除存储卡",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/23/a-videographer-built-a-free-app-that-tells-you-when-a-memory-card-is-safe-to-wipe/",
-      "publish_time": "2026-07-24T04:21:15+08:00",
-      "summary": "一款免费应用Stow帮助摄影师判断存储卡已备份且可安全擦除，以节省成本并保障数据安全。",
-      "recommendation": "免费应用Stow解决存储卡安全擦除痛点，提供备份确认功能，节省成本并保障数据安全，对多卡用户实用性强。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "A Videographer Built a Free App That Tells You When a Memory Card Is Safe to Wipe"
-    },
-    {
-      "id": "recvqedXyyD3OY",
-      "title": "富士胶片更新最佳SD卡列表——这些是顶级品牌",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-updated-list-of-best-sd-cards-and-here-are-the-top-brands/",
-      "publish_time": "2026-07-24T03:17:31+08:00",
-      "summary": "富士胶片2026年4月更新官方SD卡推荐列表，适用于X-E5和X-T5，雷克沙等品牌上榜，统计显示雷克沙推荐最多。",
-      "recommendation": "富士官方SD卡列表更新，含X-E5/X-T5兼容性数据，雷克沙推荐最多。对选购存储卡有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm Updates List of Best SD-Cards – And Here are the Top Brands"
-    },
-    {
-      "id": "recvqedqzJSQEE",
-      "title": "AF转接环让摄影师可在佳能相机上使用M卡口镜头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/23/af-adapter-lets-photographers-use-m-mount-lenses-on-canon-cameras/",
-      "publish_time": "2026-07-24T02:57:53+08:00",
-      "summary": "Megadap发布M2RF转接环，全球首款将徕卡M卡口镜头转换为佳能EOS R系列相机自动对焦镜头，支持APS-C和全画幅。",
-      "recommendation": "全球首款M卡口转佳能RF自动对焦转接环，为徕卡用户提供新机身选择，支持全画幅与APS-C，拓展镜头兼容性。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "AF Adapter Lets Photographers Use M-Mount Lenses on Canon Cameras"
-    },
-    {
-      "id": "recvqee37CFdP4",
-      "title": "如果尼康将镜头生产转移到越南，质量会下降吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/23/if-nikon-moves-lens-production-to-vietnam-will-quality-go-down/",
-      "publish_time": "2026-07-24T02:55:58+08:00",
-      "summary": "尼康计划将镜头生产转移至越南，但未明确说明是否影响质量。公司现有50mm f1.2、800mm f6.3 VR S和70-200mm f2.8 VR S等热门型号，制造转移可能引发质量担忧。",
-      "recommendation": "分析尼康镜头生产转移越南对质量的影响，结合50mm f1.2等热门型号，提供行业动态与消费者关注点，无独家数据但观点清晰。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "If Nikon Moves Lens Production to Vietnam, Will Quality Go Down?"
     }
   ]
 }
