@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-05T23:03:28.001623+08:00",
+    "updated_at": "2026-08-06T04:15:59.181580+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 87
+      "count": 88
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,231 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 389
+      "count": 388
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 156
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvrsi7l0Tk90",
+      "title": "我们找到了加快后期制作的方法",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/05/presets-faster/",
+      "publish_time": "2026-08-06T03:00:00+08:00",
+      "summary": "Phoblographer基于与主要相机和镜头制造商测试积累的庞大图像数据库，为Capture One和Lightroom制作预设，覆盖市面上每个品牌，以加快后期制作。",
+      "recommendation": "基于庞大测试数据库为Capture One和Lightroom制作全品牌预设，提供加速后期流程的实用方案，对多品牌用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "We’ve Got a Way to Get Through Post-Production Faster"
+    },
+    {
+      "id": "recvrshZOrLXbH",
+      "title": "7Artisans发布尼康Z卡口版AF 40mm f/2.5 LITE全画幅镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/05/7artisans-released-the-nikon-z-mount-version-of-the-af-40mm-f-2-5-lite-full-frame-lens.aspx/",
+      "publish_time": "2026-08-06T02:29:56+08:00",
+      "summary": "7Artisans发布尼康Z卡口AF 40mm f/2.5 LITE全画幅镜头，重90g，STM步进马达，最近对焦0.4m，售价159美元，8月6日上市。",
+      "recommendation": "90g轻量化Z卡口镜头，159美元定价具竞争力，STM马达与0.4m近摄数据明确，适合街拍用户参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans released the Nikon Z-mount version of the AF 40mm f/2.5 LITE full-frame lens"
+    },
+    {
+      "id": "recvrshDGviGc2",
+      "title": "既然生成式AI成了反派，Luminar正在调整其宣传口径",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/05/now-that-generative-ai-is-the-villain-luminar-is-spinning-its-messaging/",
+      "publish_time": "2026-08-06T02:25:15+08:00",
+      "summary": "Skylum调整Luminar宣传，强调人类创造力以应对AI消极态度，核心价值在于平衡技术与人文。",
+      "recommendation": "探讨AI时代影像工具的人文转向，剖析Skylum策略调整背后的行业信号，为关注计算摄影与创作伦理的爱好者提供新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Now that Generative AI Is the Villain, Luminar Is Spinning Its Messaging"
+    },
+    {
+      "id": "recvrshNE6qPaW",
+      "title": "L卡口和尼康Z用户迎来7Artisans小巧全能的40mm镜头",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/l-mount-and-nikon-z-shooters-are-getting-a-tiny-feature-packed-40mm-lens-from-7artisans/",
+      "publish_time": "2026-08-06T01:48:49+08:00",
+      "summary": "7Artisans推出40mm自动对焦超轻镜头，适配L卡口和尼康Z，小巧全能，提升便携性。",
+      "recommendation": "7Artisans新镜覆盖L卡口与尼康Z，轻巧自动对焦设计为便携拍摄提供新选择，适合关注副厂镜头性价比的用户了解。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "L-mount and Nikon Z shooters are getting a tiny, feature-packed 40mm lens from 7Artisans"
+    },
+    {
+      "id": "recvrshLiJ909V",
+      "title": "Fieldmade相机和镜头标签全场75折",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/25-off-site-wide-at-fieldmade-camera-and-lens-labels/",
+      "publish_time": "2026-08-06T01:40:40+08:00",
+      "summary": "Fieldmade相机和镜头标签全场75折，使用代码SUMMER25OFF可节省25%，信息源自sonyalpharumors。",
+      "recommendation": "常规促销资讯，提供Fieldmade相机镜头配件75折优惠码，对配件采购有实际参考价值，可顺带了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "25% off site-wide at Fieldmade camera and lens labels"
+    },
+    {
+      "id": "recvrshGtmhP2Z",
+      "title": "尼康输掉唯卓仕诉讼，索尼将收购腾龙？| PetaPixel播客",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/05/nikon-lost-its-viltrox-lawsuit-and-sony-to-buy-tamron-the-petapixel-podcast/",
+      "publish_time": "2026-08-06T01:01:29+08:00",
+      "summary": "本周PetaPixel播客中，Chris和Jordan讨论了尼康在中国法院输给Viltrox的影响，以及索尼收购腾龙的出价，并列出每个相机品牌最伟大的成就与耻辱。",
+      "recommendation": "尼康败诉唯卓仕与索尼收购腾龙传闻，涉及专利战与行业整合，对关注品牌格局的影友有参考价值。播客形式提供观点碰撞，但信息深度一般。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Nikon Lost Its Viltrox Lawsuit and Sony to Buy Tamron? | The PetaPixel Podcast"
+    },
+    {
+      "id": "recvrshQ4heS0r",
+      "title": "Viltrox 9mm、15mm和25mm空气镜头现已推出银色版本",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/viltrox-9mm-15mm-and-25mm-air-lenses-now-available-in-silver/",
+      "publish_time": "2026-08-06T00:57:23+08:00",
+      "summary": "Viltrox为富士Air系列9mm f/2.8、15mm f/1.7和25mm f/1.7三款镜头新增银色版本，已在亚马逊销售，文章首发于Fuji Rumors。",
+      "recommendation": "富士Air系列三款镜头新增银色外观，属常规产品线更新，无光学参数变化。适合关注富士便携镜头配色选择的用户了解，内容平淡。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Viltrox 9mm, 15mm and 25mm Air Lenses Now Available in Silver"
+    },
+    {
+      "id": "recvrshIU10AkP",
+      "title": "佳能正在开发不含PFAS氟化物的镜头镀膜技术",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/05/canon-is-developing-a-lens-coating-without-pfas-laden-fluorine/",
+      "publish_time": "2026-08-06T00:32:54+08:00",
+      "summary": "佳能研发无氟光学涂层，具备与含氟涂层相同的防水性和耐久性，规避PFAS问题。",
+      "recommendation": "关注镜头环保技术动向，了解PFAS限制对光学镀膜工艺的潜在影响，适合器材党前瞻行业变化。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon Is Developing a Lens Coating Without PFAS-Laden Fluorine"
+    },
+    {
+      "id": "recvrsi2qDn0Oi",
+      "title": "eBay授权经销商尼康官方翻新机优惠（美国保修）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/05/nikon-outlet-deals-at-ebay-from-authorized-nikon-dealers-usa-warranty.aspx/",
+      "publish_time": "2026-08-06T00:23:50+08:00",
+      "summary": "尼康在eBay举办促销，精选装备最高节省30%，由授权经销商BuyDig销售，美国保修，文章列出部分商品及完整折扣列表。",
+      "recommendation": "尼康官方翻新机eBay促销信息汇总，含具体折扣幅度与授权渠道，适合预算有限的影像爱好者淘实惠。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon outlet deals at eBay from authorized dealers (USA warranty)"
+    },
+    {
+      "id": "recvrshSfgj1y9",
+      "title": "2026年过半，日本最新数据显示相机销售除这两类外均开始放缓",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/halfway-through-2026-the-latest-numbers-from-japan-show-camera-sales-starting-to-slow-in-every-category-except-these-two",
+      "publish_time": "2026-08-06T00:00:00+08:00",
+      "summary": "日本CIPA数据显示，2026年上半年无反和单反相机出货量均下滑，销售除这两类外均放缓。",
+      "recommendation": "CIPA官方数据揭示2026上半年相机市场分化，单反无反下滑但两类逆势增长，对购机决策和行业判断有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Halfway through 2026, the latest numbers from Japan show camera sales starting to slow in every category except these two"
+    },
+    {
+      "id": "recvrsi9PVXR6F",
+      "title": "这款新型Falcam电池内置Airtag",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/05/falcam-just-made-the-one-camera-accessory-every-photographer-secretly-needed/",
+      "publish_time": "2026-08-06T00:00:00+08:00",
+      "summary": "Falcam推出TagBatt，首款内置AirTag的相机电池，通过蓝牙追踪定位，解决相机丢失问题，提升设备安全性。",
+      "recommendation": "将AirTag追踪功能集成于相机电池，为器材防丢提供新思路，适合关注设备安全的影像用户了解。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This New Falcam Battery Has an Airtag in it"
+    },
+    {
+      "id": "recvrsi4RrLuER",
+      "title": "尼康发布Z50II相机小幅固件更新",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/05/nikon-released-a-minor-firmware-update-for-the-z50ii-camera.aspx/",
+      "publish_time": "2026-08-05T23:20:34+08:00",
+      "summary": "尼康发布Z50II相机固件1.11版，仅修复中文菜单名称问题，无其他功能更新。",
+      "recommendation": "常规资讯，可了解行业动态。尼康Z50II固件1.11版仅修复中文菜单显示问题，无性能提升，对影像爱好者参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 4,
+      "language": "English",
+      "original_title": "Nikon released a minor firmware update for the Z50II camera"
+    },
+    {
+      "id": "recvrshXa46vof",
+      "title": "荣耀启用新Logo及“勇敢做自己”口号，称2026年第一季度增长25%",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_adopts_new_logo_and_dare_to_be_slogan_says_it_grew_25_in_the_first_quarter_of_2026-news-74017.php",
+      "publish_time": "2026-08-05T23:09:02+08:00",
+      "summary": "荣耀更新品牌形象，启用新Logo和口号“勇敢做自己”，并推出与Arri合作的机器人手机，旨在打造AI驱动的智能设备，2026年第一季度增长25%。",
+      "recommendation": "荣耀与Arri合作机器人手机，透露影像技术新方向，含2026年增长数据，适合关注手机影像跨界合作的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor adopts new logo and \"Dare to Be\" slogan, says it grew 25% in the first quarter of 2026"
+    },
+    {
+      "id": "recvrshUt9ejWQ",
+      "title": "科学家捕捉到迄今最高分辨率太阳表面照片，揭示驱动太阳活动的“微小引擎”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/scientists-capture-highest-resolution-photos-of-the-suns-surface-ever-revealing-tiny-engines-driving-solar-activity",
+      "publish_time": "2026-08-05T23:00:00+08:00",
+      "summary": "科学家用高速摄像机捕捉到迄今最高分辨率太阳表面照片，揭示开尔文-亥姆霍兹不稳定性，或为理解太阳产热关键。",
+      "recommendation": "高速摄像技术突破至太阳观测，揭示开尔文-亥姆霍兹不稳定性，为影像爱好者提供极端动态场景拍摄思路与科学数据参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Scientists capture highest-resolution photos of the Sun’s surface ever, revealing “tiny engines” driving solar activity"
+    },
     {
       "id": "recvrr0oVShiI3",
       "title": "这张照片让伦敦在夏季干旱中看起来像加州",
@@ -7537,221 +7753,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Being an amateur photographer might be the greatest creative freedom of all"
-    },
-    {
-      "id": "recvqk3X5frkhi",
-      "title": "More details about the Samsung Galaxy S27, S27+, S27 Pro, and S27 Ultra leak",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/more_details_about_the_samsung_galaxy_s27_s27_s27_pro_and_s27_ultra_leak-news-73869.php",
-      "publish_time": "2026-07-25T00:31:02+08:00",
-      "summary": "Yesterday a rumor told us that Samsung is testing a new main camera sensor for the upcoming Galaxy S",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "More details about the Samsung Galaxy S27, S27+, S27 Pro, and S27 Ultra leak"
-    },
-    {
-      "id": "recvqk49p0uYmV",
-      "title": "Flickr Is Deleting Millions of Accounts, Here’s Why",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/24/flickr-is-deleting-millions-of-accounts-heres-why/",
-      "publish_time": "2026-07-25T00:00:00+08:00",
-      "summary": "Flickr is one of the most trusted social media platforms today. One of the reasons being that the po",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Flickr Is Deleting Millions of Accounts, Here’s Why"
-    },
-    {
-      "id": "recvqk40Dp7PDS",
-      "title": "This Canon pro favorite shoots 45MP at 20 fps with 8K video – and the camera's price has never been lower!",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-canon-pro-favorite-shoots-45mp-at-20-fps-with-8k-video-and-the-cameras-price-has-never-been-lower",
-      "publish_time": "2026-07-24T23:43:26+08:00",
-      "summary": "The Canon EOS R5 has dropped by $700 in the US, making it a $1,200 saving over the R5 Mark II",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Canon pro favorite shoots 45MP at 20 fps with 8K video – and the camera's price has never been lower!"
-    },
-    {
-      "id": "recvqk3TxSIh7M",
-      "title": "The Best Deals on Action Cameras for Your Summer Adventures",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/24/the-best-deals-on-action-cameras-for-your-summer-adventures/",
-      "publish_time": "2026-07-24T23:28:48+08:00",
-      "summary": "Looking for a new action camera before your next adventure? This week's deals include substantial sa",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Best Deals on Action Cameras for Your Summer Adventures"
-    },
-    {
-      "id": "recvqk41SPx86c",
-      "title": "New free firmware update for 13 Sigma lenses fixes issue when used with recent Sony camera",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/new-free-firmware-update-for-13-sigma-lenses-fixes-issue-when-used-with-recent-sony-camera",
-      "publish_time": "2026-07-24T23:23:49+08:00",
-      "summary": "The firmware rollout covers a wide range of Contemporary and Art primes for the new Sony A7 V",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New free firmware update for 13 Sigma lenses fixes issue when used with recent Sony camera"
-    },
-    {
-      "id": "recvqk3Yl7Eyx2",
-      "title": "EU listings confirm shorter battery lifespan for new Galaxy foldables",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/eu_listings_confirm_shorter_battery_lifespan_for_new_galaxy_foldables-news-73870.php",
-      "publish_time": "2026-07-24T23:17:02+08:00",
-      "summary": "With the Z Fold8, Z Fold8 Ultra and Z Flip, Samsung turned a new chapter in its smartphone hardware ",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "EU listings confirm shorter battery lifespan for new Galaxy foldables"
-    },
-    {
-      "id": "recvqk3UFLNsXy",
-      "title": "50 Years Later: The First Photo Ever Taken on Mars",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/24/50-years-later-the-first-photo-ever-taken-on-mars/",
-      "publish_time": "2026-07-24T23:16:28+08:00",
-      "summary": "This week marked the 50th anniversary of the NASA Viking 1 spacecraft landing safely on Mars, spearh",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "50 Years Later: The First Photo Ever Taken on Mars"
-    },
-    {
-      "id": "recvqk437MBklg",
-      "title": "Samsung's stylish new smart glasses look so utterly normal, you'd never guess they contained a camera – but does that cross the creepy line?",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/samsungs-stylish-new-smart-glasses-look-so-utterly-normal-youd-never-guess-they-contained-a-camera-but-does-that-cross-the-creepy-line",
-      "publish_time": "2026-07-24T22:22:34+08:00",
-      "summary": "They look remarkably like regular glasses, which is either their greatest strength or their biggest ",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung's stylish new smart glasses look so utterly normal, you'd never guess they contained a camera – but does that cross the creepy line?"
-    },
-    {
-      "id": "recvqiIaXDndBc",
-      "title": "Ultrahuman 全面改版应用，新增一目了然的状态更新与建议",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/ultrahuman_overhauls_its_app_with_ataglance_status_updates_and_suggestions-news-73871.php",
-      "publish_time": "2026-07-24T22:04:02+08:00",
-      "summary": "Ultrahuman 改版应用，新增 Ultra-Sphere 数字情绪戒指，通过颜色变化即时反馈用户状态，提升健康追踪准确性与洞察力。",
-      "recommendation": "本文介绍Ultrahuman应用改版及数字情绪戒指，虽非影像设备，但展示了穿戴设备在健康追踪中的色彩反馈技术，对关注传感器与视觉交互的影像爱好者有启发。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Ultrahuman overhauls its app with at-a-glance status updates and suggestions"
-    },
-    {
-      "id": "recvqiHAcYJmwr",
-      "title": "唯卓仕首批M4/3镜头承诺高性价比",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/24/viltroxs-first-micro-four-thirds-lenses-promise-great-value/",
-      "publish_time": "2026-07-24T21:57:06+08:00",
-      "summary": "唯卓仕发布首批M4/3镜头，承诺高性价比，具体参数待公布。",
-      "recommendation": "M4/3系统迎来新玩家，唯卓仕首批镜头主打性价比，具体参数虽未公布，但品牌过往定价策略值得关注，适合预算有限的M4/3用户提前了解市场动向。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Viltrox’s First Micro Four Thirds Lenses Promise Great Value"
-    },
-    {
-      "id": "recvqiIiZ23qPk",
-      "title": "Meike AF 85mm f/1.8 富士GFX卡口镜头在美国和欧洲上市",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/meike-af-85mm-f-1-8-for-fujifilm-gfx-available-also-in-usa-and-europe/",
-      "publish_time": "2026-07-24T21:53:59+08:00",
-      "summary": "Meike AF 85mm f/1.8镜头现已在欧美上市，适用于富士GFX系统，可在Meike全球商店、BHphoto、亚马逊和Adorama订购。",
-      "recommendation": "中画幅用户关注：Meike AF 85mm f/1.8为富士GFX系统提供自动对焦副厂选择，填补了该焦段平价镜头空白，适合人像与街拍。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meike AF 85mm f/1.8 for Fujifilm GFX Available also in USA and Europe"
-    },
-    {
-      "id": "recvqiHVPJGUiM",
-      "title": "这部纪录片带你详细回顾柯达的历史",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/this-documentary-takes-you-on-a-detailed-journey-through-kodaks-history/",
-      "publish_time": "2026-07-24T21:30:00+08:00",
-      "summary": "Design Docs视频回顾柯达从创立到倒闭的历史，揭示其技术领先却因未能适应数码时代而破产的教训。",
-      "recommendation": "通过柯达兴衰案例，揭示影像巨头因技术路径依赖错失数码转型的教训，对理解行业变革有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This documentary takes you on a detailed journey through Kodak’s history"
-    },
-    {
-      "id": "recvqiHYfMJoZL",
-      "title": "七工匠预告Max系列第二支定焦镜头——这次是超广角（我猜是鱼眼）！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/7artisans-is-teasing-its-second-prime-lens-in-its-max-mirrorless-camera-range-and-this-time-it-is-going-superwide-and-i-reckon-its-a-fisheye",
-      "publish_time": "2026-07-24T21:00:00+08:00",
-      "summary": "七工匠Max系列第二支定焦镜头为超广角，可能为鱼眼，继全画幅135mm f/1.8自动对焦镜头后推出",
-      "recommendation": "七工匠Max系列超广角定焦预告，继135mm f/1.8后拓展广角端，可能为鱼眼设计。提供国产镜头新品动向，适合关注手动/自动镜头迭代的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "7artisans is teasing its second prime lens in its Max mirrorless camera range – and this time it is going superwide (and I reckon it's a fisheye)!"
-    },
-    {
-      "id": "recvqiIlRcZ753",
-      "title": "2026年，这5款尼康相机有何特别之处？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/24/what-makes-these-5-nikon-cameras-special-in-2026/",
-      "publish_time": "2026-07-24T21:00:00+08:00",
-      "summary": "尼康2026年推出5款相机，覆盖APS-C至全画幅，为追求高性能与性价比的年轻摄影师提供多样选择，实现最佳拍摄效果",
-      "recommendation": "文章梳理了尼康2026年5款相机的核心参数与定位差异，覆盖APS-C至全画幅，为年轻摄影师提供清晰选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "What Makes These 5 Nikon Cameras Special in 2026?"
     }
   ]
 }
