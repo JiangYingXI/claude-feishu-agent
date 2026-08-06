@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-06T11:55:46.016389+08:00",
+    "updated_at": "2026-08-06T17:29:34.720474+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 91
+      "count": 93
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,163 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 12
+      "count": 13
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 39
+      "count": 40
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 385
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 157
+      "count": 159
     }
   ],
   "articles": [
+    {
+      "id": "recvrvvOUCiXqN",
+      "title": "新报告称三星下一代智能手表不运行Wear OS",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_is_working_on_a_smartwatch_that_doesnt_run_wear_os-news-74032.php",
+      "publish_time": "2026-08-06T16:23:02+08:00",
+      "summary": "新报告称三星正开发不运行Wear OS的智能手表Galaxy Aero，运行RTOS，定价介于Galaxy Fit和Galaxy Watch FE之间，配备标准传感器。",
+      "recommendation": "常规资讯，可了解行业动态。虽非影像核心，但三星手表生态变动或影响未来穿戴影像交互，适合关注智能设备联动的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung's next smartwatch doesn’t run Wear OS, new report claims"
+    },
+    {
+      "id": "recvrvvCdlMPbC",
+      "title": "佳能RF 100-400mm f/5.6-8 IS USM对比索尼FE 100-400mm f/5.6-8 OSS",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-rf-100-400mm-f-5-6-8-is-usm-vs-sony-fe-100-400mm-f-5-6-8-oss/",
+      "publish_time": "2026-08-06T16:11:27+08:00",
+      "summary": "佳能RF 100-400mm f/5.6-8 IS USM与索尼FE 100-400mm f/5.6-8 OSS对比，探讨f/8光圈争议，强调小巧轻便与价格优势，适应无反时代需求。",
+      "recommendation": "对比两款f/8长焦镜头的轻量化设计与价格策略，解析光圈争议背后的无反适配逻辑，为生态摄影入门提供选购参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Canon RF 100-400mm f/5.6-8 IS USM vs Sony FE 100-400mm f/5.6-8 OSS"
+    },
+    {
+      "id": "recvrvvEN7OAKQ",
+      "title": "Billingham新款Icon Messenger摄影包：拍摄与编辑的完美伴侣",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/billinghams-new-icon-messenger-bag-could-be-the-perfect-shoot-and-edit-companion",
+      "publish_time": "2026-08-06T16:05:00+08:00",
+      "summary": "Billingham新款Icon Messenger摄影包专为移动摄影师设计，兼顾拍摄与编辑需求，提供便捷携带与高效工作流程。",
+      "recommendation": "针对移动摄影师的包具设计解析，涵盖拍摄与编辑双场景需求，提供携带方案与工作流优化思路，适合关注器材收纳的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Billingham’s new Icon Messenger Bag could be the perfect shoot-and-edit companion"
+    },
+    {
+      "id": "recvrvvHk8Hq1C",
+      "title": "贝尔法斯特展览上引发争议的AI图像创作者表示：“这远不止按下一个按钮那么简单”——说实话，我同意”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/it-took-far-more-than-pressing-a-button-says-creator-of-controversial-ai-images-shown-at-belfast-exhibition-and-honestly-i-agree",
+      "publish_time": "2026-08-06T16:00:00+08:00",
+      "summary": "贝尔法斯特展览上AI图像引争议，创作者辩护称创作非简单按钮操作，我作为反AI摄影师也认同其观点。",
+      "recommendation": "AI影像创作争议的深度视角，揭示创作过程复杂性，为计算摄影爱好者提供行业思辨素材。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“It took far more than pressing a button,” says creator of controversial AI images shown at Belfast exhibition – and, honestly, I agree"
+    },
+    {
+      "id": "recvrvvJP4aQDB",
+      "title": "如何规划拍摄8月12日的日食和英仙座流星雨高峰",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/how-to-plan-photographing-august-12s-solar-eclipse-and-perseids-meteor-shower-peak",
+      "publish_time": "2026-08-06T15:05:00+08:00",
+      "summary": "8月12日欧洲和北美将现日食及英仙座流星雨高峰，本文提供规划拍摄方法，涵盖时间、地点、设备等关键技术参数，助您捕捉双重天文奇观。",
+      "recommendation": "日食与流星雨同框拍摄窗口罕见，本文给出具体时间坐标与设备参数，对天文影像爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How to plan photographing August 12's solar eclipse and Perseids meteor shower peak"
+    },
+    {
+      "id": "recvrvvMmeKeXF",
+      "title": "日本最新数据暗示：全画幅摄影师拥有镜头数量几乎是半画幅用户的两倍",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/full-frame-photographers-are-more-likely-to-have-nearly-twice-as-many-lenses-as-crop-sensor-camera-users-hints-the-latest-data-from-japan",
+      "publish_time": "2026-08-06T15:00:00+08:00",
+      "summary": "CIPA数据显示，2026年上半年全画幅摄影师平均拥有镜头数量约为半画幅用户的两倍，凸显行业趋势。",
+      "recommendation": "CIPA独家数据揭示全画幅与半画幅用户镜头持有量差距，为选购镜头群和规划预算提供量化参考，值得影像爱好者关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Full-frame photographers are more likely to have nearly twice as many lenses as crop sensor camera users, hints the latest data from Japan"
+    },
+    {
+      "id": "recvrvvWB8rVFz",
+      "title": "佳能即将停产自家RF 16mm F2.8镜头？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/06/is-canon-about-to-kill-its-own-rf-16mm-f2-8/",
+      "publish_time": "2026-08-06T15:00:00+08:00",
+      "summary": "佳能申请16mm镜头修订专利，可能停产RF 16mm F2.8，新设计或改进光学性能。",
+      "recommendation": "RF 16mm F2.8停产传闻涉及佳能专利修订细节，对关注入门超广角镜头性价比的用户有参考价值，可了解产品迭代方向。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Canon About to Kill Its Own RF 16mm F2.8?"
+    },
+    {
+      "id": "recvrvvRpEWub1",
+      "title": "TCL P80 和 P80 Pro 渲染图、规格和价格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/tcl_p80_and_p80_pro_renders_specs_and_prices_leak-news-74031.php",
+      "publish_time": "2026-08-06T13:30:02+08:00",
+      "summary": "TCL P80和P80 Pro渲染图及规格泄露，P80配天玑7300 Elite、8GB RAM、128GB存储、5000万主摄和5000毫安电池，Pro版采用6.83英寸OLED Nxtpaper屏",
+      "recommendation": "TCL P80系列影像规格曝光，含天玑7300 Elite芯片与5000万主摄参数，可了解中端机型影像配置趋势。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "TCL P80 and P80 Pro renders, specs, and prices leak"
+    },
+    {
+      "id": "recvrvvTSJ0QfN",
+      "title": "华为发布轻如鸿毛的12英寸MatePad Pro 2026",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_launches_the_featherlight_12inch_matepad_pro_2026-news-74030.php",
+      "publish_time": "2026-08-06T12:31:02+08:00",
+      "summary": "华为发布MatePad Pro 2026平板，12英寸OLED屏，峰值亮度1600尼特，搭载麒麟T93或T93A芯片，运行鸿蒙OS 6.1，可选12GB内存及256/512GB存储，后置50MP摄像头",
+      "recommendation": "平板影像规格披露有限，但12英寸OLED屏与50MP主摄参数对移动创作有参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Huawei launches the feather-light 12-inch MatePad Pro 2026"
+    },
     {
       "id": "recvru9Pf6CJet",
       "title": "看看Boltt Ace 5G和Boltt Evo 4G",
@@ -7621,141 +7759,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Legendary Japanese photographer behind David Bowie's iconic \"Heroes\" cover honored with Lifetime Achievement Award – Sukita defined decades of music photography"
-    },
-    {
-      "id": "recvqovDpTyWv8",
-      "title": "Deals: Samsung's latest Galaxy Z foldables and smartwatches up for pre-order",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_samsungs_latest_galaxy_z_foldables_and_smartwatches_up_for_preorder-news-73868.php",
-      "publish_time": "2026-07-25T16:33:02+08:00",
-      "summary": "Samsung unveiled its latest foldables earlier this week, including the new wide-screen Galaxy Z Fold",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: Samsung's latest Galaxy Z foldables and smartwatches up for pre-order"
-    },
-    {
-      "id": "recvqn810NQVGd",
-      "title": "Got a modern mirrorless camera? You’re probably thinking about ISO all wrong",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/exposure/got-a-modern-mirrorless-camera-youre-probably-thinking-about-iso-all-wrong",
-      "publish_time": "2026-07-25T14:15:00+08:00",
-      "summary": "Keeping ISO low isn't always the answer – modern mirrorless cameras often feature a clever bit of te",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Got a modern mirrorless camera? You’re probably thinking about ISO all wrong"
-    },
-    {
-      "id": "recvqn82AEYjdl",
-      "title": "How to Find Photography Inspirations Without Copying Movies and Social Media",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/25/how-to-find-photography-inspirations-without-copying-movies-and-social-media/",
-      "publish_time": "2026-07-25T12:00:00+08:00",
-      "summary": "One of the challenges that photographers often face is finding references for their work. This is pr",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "How to Find Photography Inspirations Without Copying Movies and Social Media"
-    },
-    {
-      "id": "recvqlZbqNXyX6",
-      "title": "Aftershoot sale: up to 40% off (discount code included)",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/24/aftershoot-sale-up-to-40-off-discount-code-included.aspx/",
-      "publish_time": "2026-07-25T08:50:27+08:00",
-      "summary": "For a limited window, every Aftershoot annual plan is discounted when you use the coupon code SEASON",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Aftershoot sale: up to 40% off (discount code included)"
-    },
-    {
-      "id": "recvqlZ4TrhOUK",
-      "title": "Everyone’s Favorite DJI Clone Just Stopped Selling its Osmo Pocket 4P Lookalike",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/24/everyones-favorite-dji-clone-just-stopped-selling-its-osmo-pocket-4p-lookalike/",
-      "publish_time": "2026-07-25T05:35:09+08:00",
-      "summary": "Just days after the Federal Communications Commission (FCC) put Xtra and other similar companies in ",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Everyone’s Favorite DJI Clone Just Stopped Selling its Osmo Pocket 4P Lookalike"
-    },
-    {
-      "id": "recvqlZ8V0khnX",
-      "title": "Facebook Verified is a new free badge that confirms there's a real person behind an account",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/facebook_verified_is_a_new_free_badge_that_confirms_theres_a_real_person_behind_an_account-news-73876.php",
-      "publish_time": "2026-07-25T05:03:02+08:00",
-      "summary": "Today Meta is launching Facebook Verified. This is a free badge that lets you know there's a real pe",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Facebook Verified is a new free badge that confirms there's a real person behind an account"
-    },
-    {
-      "id": "recvqlZac67WKL",
-      "title": "Climate change is invisible. These powerful photographs are anything but",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/climate-change-is-invisible-these-powerful-photographs-are-anything-but",
-      "publish_time": "2026-07-25T05:00:00+08:00",
-      "summary": "The top news photographs this week prove the power of framing as photojournalists turned their lens ",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Climate change is invisible. These powerful photographs are anything but"
-    },
-    {
-      "id": "recvqlZ6pBnHaA",
-      "title": "Red Bull Used a Vintage Camera to Film a 68-Year-Old Plane’s Historic Return to American Skies",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/24/red-bull-used-a-vintage-camera-to-film-a-68-year-old-planes-historic-return-to-american-skies/",
-      "publish_time": "2026-07-25T04:28:02+08:00",
-      "summary": "For the first time since it was manufactured in Santa Monica, California, in 1958, the historic DC-6",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Red Bull Used a Vintage Camera to Film a 68-Year-Old Plane’s Historic Return to American Skies"
-    },
-    {
-      "id": "recvqlZ7K8Sg81",
-      "title": "Canon Adds Flash Support to the R6 V With New Firmware",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/24/canon-adds-flash-support-to-the-r6-v-with-new-firmware/",
-      "publish_time": "2026-07-25T04:23:16+08:00",
-      "summary": "Canon released new firmware updates for the EOS R6 Mark III and EOS R6 V cameras this week. Arguably",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon Adds Flash Support to the R6 V With New Firmware"
     }
   ]
 }
