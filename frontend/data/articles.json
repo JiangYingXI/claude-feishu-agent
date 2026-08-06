@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-06T04:15:59.181580+08:00",
+    "updated_at": "2026-08-06T11:55:46.016389+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 88
+      "count": 91
     },
     {
       "key": "ISP & 影像芯片",
@@ -42,6 +42,84 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvru9Pf6CJet",
+      "title": "看看Boltt Ace 5G和Boltt Evo 4G",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/take_a_look_at_the_boltt_ace_5g_and_boltt_evo_4g-news-74033.php",
+      "publish_time": "2026-08-06T11:01:03+08:00",
+      "summary": "Fire-Boltt公布首批智能手机Boltt Ace 5G和Evo 4G将于8月25日发布，Flipkart页面展示图片，Ace有三摄，厚9.49毫米，规格未透露。",
+      "recommendation": "常规资讯，可了解行业动态。新品牌入局手机影像，三摄配置与机身厚度数据可供参考，但规格未透露，价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Take a look at the Boltt Ace 5G and Boltt Evo 4G"
+    },
+    {
+      "id": "recvru9Uk62Zvd",
+      "title": "尼康发布D6与D780单反相机新固件更新",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/05/nikon-released-new-firmware-updates-for-the-d6-d780-dslr-cameras.aspx/",
+      "publish_time": "2026-08-06T11:00:42+08:00",
+      "summary": "尼康发布D6与D780单反新固件，修复D型镜头曝光不足及自动FP高速同步快门限制问题。",
+      "recommendation": "尼康D6/D780固件更新修复D型镜头曝光与FP同步问题，对老镜头用户有实用价值，属常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon released new firmware updates for the D6 & D780 DSLR cameras"
+    },
+    {
+      "id": "recvru9MFbxltH",
+      "title": "SG-image AF 35mm f/2.2镜头现已适配L卡口相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-sg-image-af-35mm-f-2-2-lens-is-now-available-for-l-mount-cameras",
+      "publish_time": "2026-08-06T06:58:51+08:00",
+      "summary": "SG-image AF 35mm f/2.2镜头现已适配L卡口相机，价格待公布，性价比值得期待。",
+      "recommendation": "L卡口用户关注高性价比副厂镜头可留意，文章提供适配信息但缺价格与光学数据，常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The SG-image AF 35mm f/2.2 lens is now available for L-mount cameras"
+    },
+    {
+      "id": "recvru9K10zGek",
+      "title": "Viltrox‘银三剑客’为富士用户带来与机身匹配的镜头",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/viltroxs-silver-trio-gives-fujifilm-shooters-lenses-that-actually-match-their-cameras/",
+      "publish_time": "2026-08-06T06:31:16+08:00",
+      "summary": "Viltrox推出银三剑客镜头，匹配富士机身美学，提供与机身匹配的镜头，简化用户选择。",
+      "recommendation": "银三剑客适配富士机身美学，提供镜头选择思路，含产品定位与搭配建议，适合关注副厂镜头的富士用户参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Viltrox’s ‘silver trio’ gives Fujifilm shooters lenses that actually match their cameras"
+    },
+    {
+      "id": "recvru9RV6FEBN",
+      "title": "谷歌Pixel Tag发布在即，价格几何？",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/this_is_when_google_is_launching_the_pixel_tag_and_how_much_it_costs-news-74027.php",
+      "publish_time": "2026-08-06T05:31:02+08:00",
+      "summary": "谷歌Pixel Tag追踪器预计8月12日发布，售价34.99欧元，与苹果AirTag同价，仅提供浅雾色。",
+      "recommendation": "常规资讯，可了解行业动态。Pixel Tag定价与AirTag对标，对影像爱好者价值有限，但可关注其与手机生态联动对拍摄辅助的潜在影响。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This is when Google is launching the Pixel Tag and how much it costs"
+    },
     {
       "id": "recvrsi7l0Tk90",
       "title": "我们找到了加快后期制作的方法",
@@ -7678,81 +7756,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Canon Adds Flash Support to the R6 V With New Firmware"
-    },
-    {
-      "id": "recvqk48bDCuNe",
-      "title": "What Makes These 5 Canon Cameras Special in 2026?",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/24/what-makes-these-5-canon-cameras-special-in-2026/",
-      "publish_time": "2026-07-25T03:00:00+08:00",
-      "summary": "Canon has introduced some wonderful cameras over the years. The company has fantastic DSLRs, compact",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "What Makes These 5 Canon Cameras Special in 2026?"
-    },
-    {
-      "id": "recvqk3VQB8hpc",
-      "title": "Canon’s latest cameras are getting their first big feature updates",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/canons-latest-cameras-are-getting-their-first-big-feature-updates/",
-      "publish_time": "2026-07-25T02:35:18+08:00",
-      "summary": "The company has released new firmware for the EOS R6 V and R6 III.",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon’s latest cameras are getting their first big feature updates"
-    },
-    {
-      "id": "recvqk44lCj167",
-      "title": "Best CFexpress Type B Card Recommended by Fujifilm – And Why This List Matters",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/best-cfexpress-type-b-card-recommended-by-fujifilm-and-why-this-list-matters/",
-      "publish_time": "2026-07-25T02:18:16+08:00",
-      "summary": "Fujifillm has update the list of recommended CFexpress Type B cards in June. There are some importan",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Best CFexpress Type B Card Recommended by Fujifilm – And Why This List Matters"
-    },
-    {
-      "id": "recvqk3RVae9Tz",
-      "title": "Woman Wins Lawsuit After Company Forced Her to Use a Webcam During Remote Work",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/24/woman-wins-lawsuit-after-company-forced-her-to-use-a-webcam-during-remote-work/",
-      "publish_time": "2026-07-25T02:07:23+08:00",
-      "summary": "An anxious travel consultant working from home for a British travel company successfully sued the co",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Woman Wins Lawsuit After Company Forced Her to Use a Webcam During Remote Work"
-    },
-    {
-      "id": "recvqk3Zuue5xJ",
-      "title": "Being an amateur photographer might be the greatest creative freedom of all",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/being-an-amateur-photographer-might-be-the-greatest-creative-freedom-of-all",
-      "publish_time": "2026-07-25T00:49:43+08:00",
-      "summary": "Why being an “amateur photographer” might be the best title any photographer can have",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Being an amateur photographer might be the greatest creative freedom of all"
     }
   ]
 }
