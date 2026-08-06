@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-06T17:29:34.720474+08:00",
+    "updated_at": "2026-08-06T23:01:10.145017+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 28
+      "count": 29
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 93
+      "count": 96
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,317 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 13
+      "count": 14
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 40
+      "count": 42
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 385
+      "count": 381
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 159
+      "count": 163
     }
   ],
   "articles": [
+    {
+      "id": "recvrwR3R59NTI",
+      "title": "FieldMade夏季促销 – 全场25%折扣",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fieldmade-summer-sale-25-off-side-wide/",
+      "publish_time": "2026-08-06T22:32:00+08:00",
+      "summary": "Field Made夏季促销，全场相机、镜头等装备25%折扣，截止8月9日，使用代码SUMMER25OFF，最低消费20加元，美国免运费。",
+      "recommendation": "常规促销资讯，提供具体折扣码与截止日期，对计划购入影像装备的用户有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "FieldMade Summer Sale – 25% Off Side-wide"
+    },
+    {
+      "id": "recvrwQYKussOH",
+      "title": "谷歌传闻中的Pixel Glow功能或将以HiLight之名推出，支持的颜色泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/googles_rumored_pixel_glow_feature_may_launch_as_hilight_supported_colors_leak-news-74037.php",
+      "publish_time": "2026-08-06T22:23:03+08:00",
+      "summary": "谷歌Pixel 11 Pro系列将配备后置RGB LED通知灯，最新泄露显示该功能或命名为HiLight，而非此前传闻的Pixel Glow。",
+      "recommendation": "RGB通知灯回归手机，HiLight命名与配色方案属独家信息，可了解谷歌影像差异化设计思路。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google's rumored Pixel Glow feature may launch as HiLight, supported colors leak"
+    },
+    {
+      "id": "recvrwR6toeErr",
+      "title": "富士胶片打破纪录——但存储危机冲击巨大，连Instax也受影响。价格变动要来了吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/fujifilm-is-breaking-records-but-the-memory-crisis-is-hitting-so-hard-even-instax-is-affected-is-a-price-change-coming",
+      "publish_time": "2026-08-06T22:21:18+08:00",
+      "summary": "富士胶片营收创新高，但存储成本预计比早前预估增加一倍以上，或引发价格变动。",
+      "recommendation": "富士营收创新高与存储成本翻倍的双重信号，揭示影像行业供应链压力，对关注相机及Instax价格的用户有直接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm is breaking records – but the memory crisis is hitting so hard, even Instax is affected. Is a price change coming?"
+    },
+    {
+      "id": "recvrwR8TukzOM",
+      "title": "这些近125年历史的照片由玻璃制成，它们仍在南极洲跋涉960英里后幸存下来",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/travel-photography/these-nearly-125-year-old-photographs-are-made-of-glass-they-still-survived-960-miles-in-antarctica",
+      "publish_time": "2026-08-06T22:07:27+08:00",
+      "summary": "南极探险家携带玻璃相机拍摄，徒步960英里后照片幸存，记录历史。",
+      "recommendation": "玻璃底片历经南极极限环境幸存，揭示早期摄影器材的物理极限与影像保存价值，含960英里徒步细节，对胶片与器材爱好者具参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These nearly 125-year-old photographs are made of glass. They still survived 960 miles in Antarctica"
+    },
+    {
+      "id": "recvrwQJAR2ZGQ",
+      "title": "时隔六年多，尼康最后两款单反仍在获得新固件",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/06/over-six-years-later-nikons-final-two-dslrs-are-still-getting-new-firmware/",
+      "publish_time": "2026-08-06T21:42:47+08:00",
+      "summary": "尼康时隔六年多为两款旧单反发布新固件，延续其出色的发布后支持传统，虽无反相机Z8和Z9获重大更新，但此次更新针对旧款数码单反。",
+      "recommendation": "尼康六年后续更单反固件，揭示品牌售后策略与产品周期管理，对单反用户及行业观察者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Over Six Years Later, Nikon’s Final Two DSLRs Are Still Getting New Firmware"
+    },
+    {
+      "id": "recvrwQMpVWpNb",
+      "title": "唐·佩蒂特令人震惊的照片让怀疑者困惑",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/06/don-pettits-staggering-photo-confounds-skeptics/",
+      "publish_time": "2026-08-06T21:40:43+08:00",
+      "summary": "宇航员唐·佩蒂特拍摄的高质量照片引发怀疑，其在国际空间站拍下地球掠过时的银河系图像，展现惊人细节，证明照片真实性。",
+      "recommendation": "宇航员实拍银河细节，验证空间站摄影极限，含曝光参数与器材选择，为低光摄影提供独特参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Don Pettit’s Staggering Photo Confounds Skeptics"
+    },
+    {
+      "id": "recvrwQE4Jg3QZ",
+      "title": "索尼推出六款全新E卡口镜头！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/here-are-sony-six-new-e-mount-lenses/",
+      "publish_time": "2026-08-06T21:39:30+08:00",
+      "summary": "索尼将发布六款全新E卡口镜头，据可靠消息源透露，工程原型列表已曝光，具体型号待公布。",
+      "recommendation": "E卡口用户关注新镜路线图，工程原型列表提供独家线索，可提前规划镜头升级方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Here are Sony SIX new E-mount lenses!"
+    },
+    {
+      "id": "recvrwQOUsp7rs",
+      "title": "红外相机百年首拍野生松貂幼崽出生",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/06/trail-camera-captures-first-birth-of-wild-baby-pine-martens-in-a-century/",
+      "publish_time": "2026-08-06T21:34:22+08:00",
+      "summary": "相机陷阱捕捉到英格兰西南部百年来首只野生松貂幼崽出生。",
+      "recommendation": "相机陷阱技术首次记录野生松貂繁殖，展示红外触发相机在生态监测中的实际应用价值，含百年罕见影像数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Trail Camera Captures First Birth of Wild Baby Pine Martens in a Century"
+    },
+    {
+      "id": "recvrwRbET9mCM",
+      "title": "Adobe，美化我的照片。Adobe 的新 ChatGPT 插件让聊天机器人可访问 70 多种工具，包括 Photoshop 和 Lightroom 的常用功能",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/adobe-polish-my-pics-adobes-new-chatgpt-plug-in-gives-the-chatbot-access-to-70-tools-including-photoshop-and-lightroom-favorites",
+      "publish_time": "2026-08-06T21:00:00+08:00",
+      "summary": "Adobe推出ChatGPT插件，使其能访问Photoshop、Lightroom等70多种工具，实现AI驱动的图像编辑与美化。",
+      "recommendation": "Adobe官方ChatGPT插件开放70余种工具，AI修图工作流迎来新入口。文章梳理了插件功能边界，对关注计算摄影与AI工作流的爱好者有直接参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "“Adobe, polish my pics.” Adobe’s new ChatGPT plug-in gives the chatbot access to 70+ tools, including Photoshop and Lightroom favorites"
+    },
+    {
+      "id": "recvrwRng7u45o",
+      "title": "尼康J5仍是他们最被低估的相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/06/the-nikon-j5-is-still-their-most-underrated-camera/",
+      "publish_time": "2026-08-06T21:00:00+08:00",
+      "summary": "尼康J5作为被低估的无反相机，在2026年仍具竞争力，其1英寸传感器和高速连拍等参数值得关注。",
+      "recommendation": "1英寸传感器与高速连拍参数回顾，剖析尼康J5在2026年仍被低估的技术价值，为小众机型爱好者提供独特选购视角。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Nikon J5 Is Still Their Most Underrated Camera"
+    },
+    {
+      "id": "recvrwQRe7CQyX",
+      "title": "NASA卫星捕捉到南极冰层中隐藏的‘蜂鸟’形状",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/06/nasa-satellite-captures-hummingbird-shape-hidden-in-antarctic-ice/",
+      "publish_time": "2026-08-06T20:28:42+08:00",
+      "summary": "NASA卫星捕捉到南极冰层断裂图像，形似蜂鸟，揭示冰层动态变化，为气候研究提供关键数据。",
+      "recommendation": "卫星影像呈现南极冰层动态，展示遥感技术在极地监测中的应用，对航拍与地理影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "NASA Satellite Captures ‘Hummingbird’ Shape Hidden in Antarctic Ice"
+    },
+    {
+      "id": "recvrwQTy5clyd",
+      "title": "婚礼摄影师无意中给互联网带来惊吓",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/06/wedding-photographer-gives-the-internet-unintended-jump-scare/",
+      "publish_time": "2026-08-06T19:01:23+08:00",
+      "summary": "婚礼摄影师意外拍到悬垂的腿，引发网络惊吓，展现摄影中的意外瞬间。",
+      "recommendation": "意外瞬间揭示摄影叙事张力，探讨婚礼拍摄中的构图与心理预期，对街头纪实爱好者有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Wedding Photographer Gives the Internet Unintended Jump Scare"
+    },
+    {
+      "id": "recvrwRewbAdhq",
+      "title": "6年过去了，这些高端全画幅单反相机迎来全新固件更新",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/firmware/6-years-on-these-high-end-full-frame-dslr-cameras-are-getting-a-fresh-firmware-update",
+      "publish_time": "2026-08-06T18:56:34+08:00",
+      "summary": "尼康为2020年发布的高端全画幅单反相机推送新固件，修复曝光错误，虽时隔6年仍获更新。",
+      "recommendation": "尼康时隔6年为全画幅单反推送固件修复曝光错误，体现厂商长期维护承诺。文章含具体机型与修复细节，对单反用户有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "6 years on, these high-end full-frame DSLR cameras are getting a fresh firmware update"
+    },
+    {
+      "id": "recvrwQH4GNZeT",
+      "title": "两万次快门之后：Manny Ortiz 对索尼 A7R IV 的真实评价",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/after-20000-shots-here-is-what-manny-ortiz-really-thinks-about-the-sony-a7riv/",
+      "publish_time": "2026-08-06T18:10:21+08:00",
+      "summary": "索尼A7R IV经Manny Ortiz两万次快门重度使用后获真实评价，文章详述其性能与体验，核心价值在于提供长期使用后的客观反馈。",
+      "recommendation": "两万次快门后的长期实测，揭示A7R IV真实性能与耐用性，为高像素机型选购提供深度参考。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "After 20,000 shots: Here is what Manny Ortiz really thinks about the Sony A7rIV"
+    },
+    {
+      "id": "recvrwRho9ELaI",
+      "title": "这款热门尼康装备现降价高达44%",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/this-popular-nikon-gear-is-now-up-to-44-percent-off",
+      "publish_time": "2026-08-06T18:09:29+08:00",
+      "summary": "尼康热门装备现降价高达44%，涵盖经典单反机身、镜头及最新Z系列设备，提供该品牌最受欢迎装备的最佳优惠。",
+      "recommendation": "尼康全系降价幅度数据详实，覆盖单反至Z系列，为购机决策提供价格参考，属常规促销资讯，可快速了解市场行情。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This popular Nikon gear is now up to 44% off"
+    },
+    {
+      "id": "recvrwRkcMIMbr",
+      "title": "街头摄影始于诚实。它不等待完美或表演。它要求我们注意别人走过时忽略的东西。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/street-photography-begins-with-honesty-it-doesnt-wait-for-perfection-or-performance-it-asks-us-to-notice-what-everyone-else-walked-past",
+      "publish_time": "2026-08-06T18:06:42+08:00",
+      "summary": "街头摄影始于诚实，不等待完美，要求注意被忽略之物。获奖作品以黑白抓拍和光影游戏为特色，体现核心价值。",
+      "recommendation": "以获奖作品为样本，剖析街头摄影的诚实内核与黑白抓拍技巧，对提升观察力和构图直觉有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"Street photography begins with honesty. It doesn't wait for perfection or performance. It asks us to notice what everyone else walked past\""
+    },
+    {
+      "id": "recvrwQW3Afyaa",
+      "title": "索尼正在研发一些有趣的新镜头，我们希望佳能也能推出",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/sony-is-working-on-some-interesting-new-lenses-that-we-want-canon-to-make/",
+      "publish_time": "2026-08-06T18:04:59+08:00",
+      "summary": "佳能9月将发布新镜头，包括RF 24-70mm f/2L和RF 300-600mm，后者细节待确认，后续将提供更多信息。",
+      "recommendation": "佳能RF新镜头规格前瞻，含f/2大光圈变焦与超长焦细节，为器材党提供选购参考与行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony is Working on Some Interesting New Lenses That We Want Canon to Make"
+    },
+    {
+      "id": "recvrwRqlVn6zG",
+      "title": "富士胶片最复杂的镜头今年迎来十周年",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/06/fujifilms-most-complicated-lens-turns-10-this-year/",
+      "publish_time": "2026-08-06T18:00:00+08:00",
+      "summary": "富士胶片最复杂的镜头23mm f1.4 R WR迎来十周年，文章回顾其评测历史，强调其小巧、防尘防滴、快速对焦和画质优势，并提及作者仍在使用该镜头。",
+      "recommendation": "十周年回顾揭示23mm f1.4 R WR设计复杂度与耐用性，含实拍体验及画质细节，适合富士用户评估长期价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm’s Most Complicated Lens Turns 10 This Year"
+    },
+    {
+      "id": "recvrwR1e7Um13",
+      "title": "vivo S2发布，标志着S系列时隔7年重返印度市场",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_s2_features_price_sale_date-news-74038.php",
+      "publish_time": "2026-08-06T17:23:03+08:00",
+      "summary": "vivo在印度推出S2，时隔七年重返该市场，主打年轻消费者，强调高端设计与先进影像能力。",
+      "recommendation": "S2时隔七年重返印度，聚焦年轻用户影像需求，可了解vivo海外产品策略及中端影像配置动向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "vivo S2 unveiled, marks the return of the S series to India after a hiatus of 7 years"
+    },
     {
       "id": "recvrvvOUCiXqN",
       "title": "新报告称三星下一代智能手表不运行Wear OS",
@@ -7474,291 +7766,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Does This New Canon Patent Point to an New 45mm Variant?"
-    },
-    {
-      "id": "recvqrTZiQRhtv",
-      "title": "Shutter+ packs in advanced tools that most native camera apps don’t offer – and now one app works across Sony, Canon and Fujifilm",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/apps/shutter-packs-in-advanced-tools-that-most-native-camera-apps-dont-offer-and-now-one-app-works-across-sony-canon-and-fujifilm",
-      "publish_time": "2026-07-26T08:25:00+08:00",
-      "summary": "Shutter+ has added a waveform monitor to its list of advanced features compatible with Sony, Canon, ",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Shutter+ packs in advanced tools that most native camera apps don’t offer – and now one app works across Sony, Canon and Fujifilm"
-    },
-    {
-      "id": "recvqrU0QCrj65",
-      "title": "This gorgeous photo of a polar bear bounding across the ice offers a masterclass in deciding whether to shoot in color or black-and-white",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/this-gorgeous-photo-of-a-polar-bear-bounding-across-the-ice-offers-a-masterclass-in-deciding-whether-to-shoot-in-color-or-black-and-white",
-      "publish_time": "2026-07-26T05:20:00+08:00",
-      "summary": "Sue Flood and Ian Dawson's new exhibition, Midnight Sun, follows a logic that every photographer sho",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This gorgeous photo of a polar bear bounding across the ice offers a masterclass in deciding whether to shoot in color or black-and-white"
-    },
-    {
-      "id": "recvqrU3elCDwi",
-      "title": "Meike Plans More Autofocus Lenses for Fujifilm GFX as 85mm f/1.8 Demand Exceeds Expectations",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/meike-plans-more-autofocus-lenses-for-fujifilm-gfx-as-85mm-f-1-8-demand-exceeds-expectations/",
-      "publish_time": "2026-07-26T04:31:09+08:00",
-      "summary": "The Shanghai Photo and Imaging Expo is in full swing, and some of the Chinese photo bloggers are the",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meike Plans More Autofocus Lenses for Fujifilm GFX as 85mm f/1.8 Demand Exceeds Expectations"
-    },
-    {
-      "id": "recvqrU26vJ2Jf",
-      "title": "Deals: Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 go on pre-order",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_go_on_preorder-news-73864.php",
-      "publish_time": "2026-07-26T04:31:02+08:00",
-      "summary": "This week, Samsung unveiled its next generation foldables, which included the first wide foldable fo",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 go on pre-order"
-    },
-    {
-      "id": "recvqpRscWq7db",
-      "title": "Today Nikon celebrates its 109th anniversary!",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/25/today-nikon-celebrates-its-109th-anniversary.aspx/",
-      "publish_time": "2026-07-26T02:28:14+08:00",
-      "summary": "Today, Nikon celebrates its 109th anniversary! On July 25, 1917, Nippon Kōgaku Kōgyō Kabushikigaisha",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Today Nikon celebrates its 109th anniversary!"
-    },
-    {
-      "id": "recvqpRoAg2sPf",
-      "title": "Long before Bill Brandt, this 1920s postcard salesman worked out how to photograph London after dark without a tripod. A reissued photobook reveals just how he did it",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/long-before-bill-brandt-this-1920s-postcard-salesman-worked-out-how-to-photograph-london-after-dark-without-a-tripod-a-reissued-photobook-reveals-just-how-he-did-it",
-      "publish_time": "2026-07-26T02:10:00+08:00",
-      "summary": "Back in 1924, Fred Judge ditched the tripod, built his own camera and leaned on lamp posts to solve ",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Long before Bill Brandt, this 1920s postcard salesman worked out how to photograph London after dark without a tripod. A reissued photobook reveals just how he did it"
-    },
-    {
-      "id": "recvqpRq0Qmw5O",
-      "title": "I've been photographing total solar eclipses for over 40 years – and this is what it was like chasing totality with a film camera back before the internet",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/ive-been-photographing-total-solar-eclipses-for-over-40-years-and-this-is-what-it-was-like-chasing-totality-with-a-film-camera-back-before-the-internet",
-      "publish_time": "2026-07-25T23:20:00+08:00",
-      "summary": "In the first of a three-part series, David S Young recalls what it was like to photograph a total so",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "I've been photographing total solar eclipses for over 40 years – and this is what it was like chasing totality with a film camera back before the internet"
-    },
-    {
-      "id": "recvqpRr2ZceIL",
-      "title": "vivo X300 E specs leak through carrier listing",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x300_e_specs_leak_through_carrier_listing-news-73878.php",
-      "publish_time": "2026-07-25T22:33:02+08:00",
-      "summary": "vivo is unveiling the X300 E next week and ahead of that the phone has been listed by China Telecom'",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo X300 E specs leak through carrier listing"
-    },
-    {
-      "id": "recvqovwb1mAUP",
-      "title": "First Amendment Auditors are Taking Their Right to Film in Public to the Extreme",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/25/first-amendment-auditors-are-taking-their-right-to-film-in-public-to-the-extreme/",
-      "publish_time": "2026-07-25T22:00:02+08:00",
-      "summary": "In the United States, it is legal to film in a public space. Photographers, especially those working",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "First Amendment Auditors are Taking Their Right to Film in Public to the Extreme"
-    },
-    {
-      "id": "recvqovzNfwIAM",
-      "title": "A growing problem: compact cameras just aren’t compact",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/opinion/a-growing-problem-compact-cameras-just-arent-compact/",
-      "publish_time": "2026-07-25T22:00:00+08:00",
-      "summary": "A class of camera that used to be built around tiny sensors has outgrown its original meaning, as sm",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A growing problem: compact cameras just aren’t compact"
-    },
-    {
-      "id": "recvqovxojLHSB",
-      "title": "Haunting Photos Taken Under the Full Moon Turn Night Into Day",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/25/haunting-photos-taken-under-the-full-moon-turn-night-into-day/",
-      "publish_time": "2026-07-25T21:00:53+08:00",
-      "summary": "Most photographers would not dare to use moonlight as their key light, but Darren Almond is not most",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Haunting Photos Taken Under the Full Moon Turn Night Into Day"
-    },
-    {
-      "id": "recvqovAZHNcVc",
-      "title": "Canon’s latest vlogging lens shoots stills, too",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/samples/canons-latest-vlogging-lens-shoots-stills-too/",
-      "publish_time": "2026-07-25T21:00:00+08:00",
-      "summary": "Sample photos from the RF 20-50mm F4 L IS USM PZ.",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon’s latest vlogging lens shoots stills, too"
-    },
-    {
-      "id": "recvqovEHHP1YK",
-      "title": "How do you define photography in a single sentence? No-one can agree –so this new book charts 200 years of it instead",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/how-do-you-define-photography-in-a-single-sentence-no-one-can-agree-so-this-new-book-charts-200-years-of-it-instead",
-      "publish_time": "2026-07-25T20:30:00+08:00",
-      "summary": "An impressive new volume from Thames & Hudson features 320 pages of the landmark images that built t",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "How do you define photography in a single sentence? No-one can agree –so this new book charts 200 years of it instead"
-    },
-    {
-      "id": "recvqovC9x8KGU",
-      "title": "Google confirms Pixel price hikes across the board",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_confirms_pixel_price_hikes_across_the_board-news-73879.php",
-      "publish_time": "2026-07-25T19:33:02+08:00",
-      "summary": "Google is unveiling the Pixel 11 family on August 12, and ahead of that, the company's VP of Devices",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google confirms Pixel price hikes across the board"
-    },
-    {
-      "id": "recvqovyBtnle5",
-      "title": "Photographer Spends a Year with Inmates in Bulgaria’s Most Notorious Prison",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/25/photographer-spends-a-year-with-inmates-in-bulgarias-most-notorious-prison/",
-      "publish_time": "2026-07-25T19:00:04+08:00",
-      "summary": "A photographer spent a year documenting inmates in Bulgaria's most notorious prison, home to the cou",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Photographer Spends a Year with Inmates in Bulgaria’s Most Notorious Prison"
-    },
-    {
-      "id": "recvqovFUdlfoo",
-      "title": "Photo curation app founder claims “emotional AI” will bring an end to camera-roll “memory debt”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/photo-curation-app-founder-claims-emotional-ai-will-bring-an-end-to-camera-roll-memory-debt",
-      "publish_time": "2026-07-25T18:59:34+08:00",
-      "summary": "Yoree founder Charlotte Riddley says the app’s neuroscience-backed “emotional AI” selects only the m",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Photo curation app founder claims “emotional AI” will bring an end to camera-roll “memory debt”"
-    },
-    {
-      "id": "recvqovuJXDoDw",
-      "title": "New Sony FX5 reviews roundup",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-fx5-reviews-roundup/",
-      "publish_time": "2026-07-25T18:44:09+08:00",
-      "summary": "Preorders: Sony FX5 at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK Sony",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Sony FX5 reviews roundup"
-    },
-    {
-      "id": "recvqovIkkMzvT",
-      "title": "Nikon Z 70-200mm f2.8 S VR II Review Update: Awesome For Sports Photography",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/25/nikon-z-70-200mm-f2-8-s-vr-ii-review-update-awesome-for-sports-photography/",
-      "publish_time": "2026-07-25T18:00:00+08:00",
-      "summary": "We've already chosen the Nikon Z 70-200mm f2.8 S VR II lens as arguably the greatest zoom they've pr",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon Z 70-200mm f2.8 S VR II Review Update: Awesome For Sports Photography"
-    },
-    {
-      "id": "recvqovH9mAdBB",
-      "title": "Legendary Japanese photographer behind David Bowie's iconic \"Heroes\" cover honored with Lifetime Achievement Award – Sukita defined decades of music photography",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/legendary-japanese-photographer-behind-david-bowies-iconic-heroes-cover-honored-with-lifetime-achievement-award-sukita-defined-decades-of-music-photography",
-      "publish_time": "2026-07-25T17:10:00+08:00",
-      "summary": "Inspired by memories of his father taking photos on the front line during WWII, Masayoshi Sukita spe",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Legendary Japanese photographer behind David Bowie's iconic \"Heroes\" cover honored with Lifetime Achievement Award – Sukita defined decades of music photography"
     }
   ]
 }
