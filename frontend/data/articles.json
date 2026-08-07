@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-07T21:56:39.281531+08:00",
+    "updated_at": "2026-08-08T03:37:17.611830+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 30
+      "count": 31
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 95
+      "count": 94
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,287 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 14
+      "count": 13
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 42
+      "count": 43
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 382
+      "count": 386
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 160
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvrDOK4J3aat",
+      "title": "FCC考虑追溯禁令，禁止此前允许的大疆无人机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/the-fcc-is-weighing-a-retroactive-ban-on-dji-drones-it-previously-allowed/",
+      "publish_time": "2026-08-08T03:28:20+08:00",
+      "summary": "FCC拟将禁令追溯至已售大疆无人机，以保供应链安全，阻止军事技术扩散。",
+      "recommendation": "大疆无人机用户需关注政策风向，追溯禁令或影响已购设备使用。本文提供供应链安全视角，助你评估航拍设备合规风险。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The FCC Is Weighing a Retroactive Ban on DJI Drones it Previously Allowed"
+    },
+    {
+      "id": "recvrDPb6jCStO",
+      "title": "三星在2026年第二季度继续领跑全球DRAM市场",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_continues_to_lead_the_global_dram_market_in_q2_2026-news-74058.php",
+      "publish_time": "2026-08-08T03:01:02+08:00",
+      "summary": "三星在2026年第二季度继续领跑全球DRAM市场，占销售额39%，连续三季度第一，SK海力士占26%，美光占25%。",
+      "recommendation": "DRAM市场格局影响手机影像存储性能，本文提供三星、SK海力士、美光最新份额数据，助你预判旗舰机型内存成本与配置趋势。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung continues to lead the global DRAM market in Q2 2026"
+    },
+    {
+      "id": "recvrDPqIPPkp9",
+      "title": "Phoblographer会员专享Viltrox特别折扣及更多优惠",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/07/modern-journalism-phoblographer-copy-3-copy-4-copy-4-copy-2/",
+      "publish_time": "2026-08-08T03:00:00+08:00",
+      "summary": "Phoblographer不依赖大品牌资金，通过会员福利计划获得资金，为会员提供Viltrox特别折扣等优惠。",
+      "recommendation": "常规资讯，可了解行业动态。文章揭示Phoblographer会员制商业模式及Viltrox折扣，对关注器材性价比的爱好者有参考价值，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Phoblographer Members Get a Special Viltrox Discount and More"
+    },
+    {
+      "id": "recvrDOMNMvnkB",
+      "title": "这款新Mac应用可追踪你的照片和视频备份",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/this-new-mac-app-keeps-track-of-your-photo-and-video-backups/",
+      "publish_time": "2026-08-08T02:30:42+08:00",
+      "summary": "新Mac应用Tusk帮助摄影师和视频创作者跨硬盘、存储卡和云服务跟踪照片视频文件，并处理备份和卸载环节。",
+      "recommendation": "针对影像创作者备份痛点，提供跨硬盘与云服务的文件追踪方案，含具体操作思路，对管理海量素材有实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This New Mac App Keeps Track of Your Photo and Video Backups"
+    },
+    {
+      "id": "recvrDPlCb1hwG",
+      "title": "Mitakon中一光学Pittura 30mm f/2.4现已上市",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/mitakon-zhongyi-optics-pittura-30mm-f-2-4-now-available/",
+      "publish_time": "2026-08-08T01:33:55+08:00",
+      "summary": "Mitakon中一光学Pittura 30mm f/2.4镜头现已上市，可在Mitakon商店和Aliexpress订购，即将在BHphoto、Amazon和Adorama上架，兼容GFX系统。",
+      "recommendation": "中一光学新款GFX镜头上市，提供具体购买渠道与兼容信息，适合中画幅用户关注性价比镜头选择。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Mitakon Zhongyi Optics Pittura 30mm f/2.4 Now Available"
+    },
+    {
+      "id": "recvrDOP95hV2v",
+      "title": "詹姆斯·韦布空间望远镜开启宇宙宝库",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/james-webb-space-telescope-opens-up-a-cosmic-treasure-chest/",
+      "publish_time": "2026-08-08T01:30:05+08:00",
+      "summary": "詹姆斯·韦布望远镜发布船底座星云新图，展示距地球7500光年的宇宙宝箱，呈现绚丽景象。",
+      "recommendation": "韦布新图揭示船底座星云细节，7500光年数据拓展深空摄影认知，对天文影像爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "James Webb Space Telescope Opens Up a Cosmic Treasure Chest"
+    },
+    {
+      "id": "recvrDORJ4KKGE",
+      "title": "Lomochrome Color '92 Sun-Kissed：一款个性十足的有趣胶片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/lomochrome-color-92-sun-kissed-is-a-fun-film-with-character-all-its-own/",
+      "publish_time": "2026-08-08T00:35:03+08:00",
+      "summary": "Lomography于2024年夏末推出Lomochrome Color '92 Sun-Kissed彩色负片，专为实验与怀旧设计，为Lomochrome系列增添新成员。",
+      "recommendation": "解析Lomography新胶片的实验特性与怀旧色调，含产品定位及适用场景分析，为胶片爱好者提供选购参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Lomochrome Color ‘92 Sun-Kissed Is a Fun Film With Character All Its Own"
+    },
+    {
+      "id": "recvrDPdPzdbuW",
+      "title": "Redmi 17C 5G 现身，实为另一款设备的换标版本",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_17c_5g_shows_up_as_a_rebrand_of_another_device-news-74065.php",
+      "publish_time": "2026-08-08T00:02:02+08:00",
+      "summary": "Redmi 17C 5G在卢森堡列表现身，实为换标版本，配备6.9英寸120Hz屏幕、天玑6300、5000万主摄、6000mAh电池及33W快充。",
+      "recommendation": "揭示Redmi 17C 5G实为换标机型，提供6.9英寸屏、天玑6300及5000万主摄等关键参数，助影像爱好者快速辨别入门机规格，属常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Redmi 17C 5G shows up as a rebrand of another device"
+    },
+    {
+      "id": "recvrDOU3ufVmC",
+      "title": "中一光学Pittura 30mm f/2.4：快速且宽广的中画幅镜头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/the-zhong-yi-pittura-30mm-f-2-4-is-a-fast-and-wide-medium-format-lens/",
+      "publish_time": "2026-08-08T00:00:19+08:00",
+      "summary": "中一光学发布Pittura 30mm f/2.4手动对焦定焦镜头，为哈苏XCD和富士GFX提供快速光圈与广角组合。",
+      "recommendation": "中画幅用户关注新镜头选择，文章提供30mm f/2.4规格参数与兼容性信息，便于评估广角定焦方案，属常规产品资讯。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Zhong Yi Pittura 30mm f/2.4 Is a Fast and Wide Medium Format Lens"
+    },
+    {
+      "id": "recvrDPt0VEVYO",
+      "title": "佳能是否在逐步停产R8？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/07/is-canon-slowly-discontinuing-the-r8/",
+      "publish_time": "2026-08-08T00:00:00+08:00",
+      "summary": "佳能R8未来不确定，因秋季发布消息聚焦新款全画幅相机，R8可能停产，但具体原因未明。",
+      "recommendation": "R8停产传闻牵动全画幅入门市场，文章梳理秋季新品动向，助你判断入手时机，但缺乏官方信源与销量数据，观点偏推测。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Canon Slowly Discontinuing the R8?"
+    },
+    {
+      "id": "recvrDP8Gr9ni5",
+      "title": "大疆Osmo 360 II相机预告，将于8月13日在中国发布（至少）",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/360-cameras/dji-osmo-360-ii-camera-teased-with-imminent-august-13-launch-in-china-at-least",
+      "publish_time": "2026-08-07T23:55:01+08:00",
+      "summary": "大疆预告Osmo 360 II运动相机，将于8月13日在中国发布，为第二代产品。",
+      "recommendation": "运动相机二代预告，关注Osmo 360 II升级点与发布时间，对影像爱好者属常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "DJI Osmo 360 II camera teased with imminent August 13 launch in China (at least)"
+    },
+    {
+      "id": "recvrDOWkRLp1C",
+      "title": "Flashback 为摄影师提供为期六个月的‘梦想工作’",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/flashback-is-offering-a-photographer-a-six-month-dream-job/",
+      "publish_time": "2026-08-07T23:52:15+08:00",
+      "summary": "Flashback提供六个月香港摄影梦想工作，报酬为创作摄影和视频内容，需申请。",
+      "recommendation": "香港摄影梦想工作机会，报酬明确，适合影像创作者关注。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Flashback Is Offering a Photographer a Six-Month ‘Dream Job’"
+    },
+    {
+      "id": "recvrDOYLqP7AW",
+      "title": "Adobe 扩展 ChatGPT 集成，直指 Canva 竞争",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/adobe-is-coming-for-canva-with-expanded-chatgpt-integration/",
+      "publish_time": "2026-08-07T22:43:33+08:00",
+      "summary": "Adobe扩大ChatGPT集成，推出涵盖所有应用的插件，以应对Canva竞争，强化AI协作能力。",
+      "recommendation": "Adobe扩大ChatGPT集成，直指Canva竞争，揭示AI协作工具对影像创作流程的潜在影响，行业动态值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Adobe Is Coming for Canva With Expanded ChatGPT Integration"
+    },
+    {
+      "id": "recvrDPog9z6tv",
+      "title": "尼康日本暂时停止接受Nikkor Z 600mm f/6.3 VR S镜头订单",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/07/nikon-japan-temporary-suspends-nikkor-z-600mm-f-6-3-vr-s-lens-orders.aspx/",
+      "publish_time": "2026-08-07T22:20:25+08:00",
+      "summary": "尼康日本因预购订单过多，暂停尼克尔Z 600mm f/6.3 VR S镜头订单，该镜头2023年发布，美国零售商有库存并优惠500美元。",
+      "recommendation": "长焦镜头供需动态的行业信号，含美国市场优惠数据，对关注Z卡口生态的玩家有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon Japan temporarily suspends Nikkor Z 600mm f/6.3 VR S lens orders"
+    },
+    {
+      "id": "recvrDP1hQQ2zR",
+      "title": "DJI 发布 Osmo 360 II 预告，展示新相机拍摄样片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/dji-teases-osmo-360-ii-with-footage-from-the-new-camera/",
+      "publish_time": "2026-08-07T22:19:32+08:00",
+      "summary": "DJI发布Osmo 360 II预告，展示新360度相机拍摄样片，相机将于今日晚些时候正式发布。",
+      "recommendation": "预告Osmo 360 II样片，含实拍样张可提前评估画质与防抖，对360度影像爱好者具参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "DJI Teases Osmo 360 II With Footage From the New Camera"
+    },
+    {
+      "id": "recvrDP6mSZfKm",
+      "title": "如何安全拍摄日食（以及为什么你可能只需观看）",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/how-to-photograph-a-solar-eclipse/",
+      "publish_time": "2026-08-07T21:51:29+08:00",
+      "summary": "天文学专家建议首次观看日食而非拍摄，若拍摄需遵循专业指导，确保安全并捕捉最佳影像。",
+      "recommendation": "日食拍摄安全指南，含专家建议与实操要点，提醒影像爱好者权衡记录与体验，避免设备损伤。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How to safely photograph a solar eclipse (and why you might just watch it instead)"
+    },
+    {
+      "id": "recvrDPgoo29IL",
+      "title": "三星发布ISOCELL HPC，首款搭载DeepPix技术的传感器",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_unveils_isocell_hpc_its_first_sensor_with_deeppix_technology-news-74062.php",
+      "publish_time": "2026-08-07T21:47:02+08:00",
+      "summary": "三星发布旗舰传感器ISOCELL HPC，采用业界首创DeepPix技术，支持16位RAW输出，200MP分辨率，1/1.3英寸光学格式，0.6μm像素，提升动态范围和低光性能，捕获光线显著增多。",
+      "recommendation": "DeepPix技术首秀与16位RAW输出是核心看点，0.6μm像素数据对高像素传感器低光性能有直接参考价值，适合关注移动影像硬件的爱好者。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Samsung unveils ISOCELL HPC, its first sensor with DeepPix technology"
+    },
     {
       "id": "recvrCrbk4DCFb",
       "title": "大量顶级相机现正打折促销",
@@ -56,6 +318,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Tons of Top Cameras Are Discounted Right Now"
+    },
+    {
+      "id": "recvrDP3Pl9A1e",
+      "title": "新专利公开两款适马超级变焦镜头设计",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-patent-discloses-the-design-of-two-new-sigma-super-zoom-lenses/",
+      "publish_time": "2026-08-07T21:27:02+08:00",
+      "summary": "新Sigma专利公开两款全画幅超级变焦镜头设计，规格分别为125-700mm f/6.3-9和150-600mm f/5-6.3，引发关注。",
+      "recommendation": "适马两款全画幅超长焦专利规格曝光，125-700mm与150-600mm设计参数详实，对长焦镜头用户预判新品方向有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "New patent discloses the design of two new Sigma super zoom lenses"
     },
     {
       "id": "recvrCrr17YpcE",
@@ -379,6 +657,22 @@
         "拆机 & 实测 & 样张"
       ],
       "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy Z Fold8 vs. Samsung Galaxy Z Fold8 Ultra"
+    },
+    {
+      "id": "recvrDPiU78XlB",
+      "title": "三星Galaxy Z Fold8对比三星Galaxy Z Fold8 Ultra",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_vs_samsung_galaxy_z_fold8_ultra_battery_camera_price_compared-news-73985.php",
+      "publish_time": "2026-08-07T07:31:02+08:00",
+      "summary": "三星Galaxy Z Fold8新形态与Fold8 Ultra成熟折叠设计对比，价格相近，需基于其他因素决策，助你选择最适合的Fold。",
+      "recommendation": "对比Fold8与Ultra影像配置差异，含折叠形态对拍摄体验的影响分析，适合关注折叠屏拍照的用户决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
       "language": "English",
       "original_title": "Samsung Galaxy Z Fold8 vs. Samsung Galaxy Z Fold8 Ultra"
     },
@@ -7471,299 +7765,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "One-of-a-Kind Leica Prototype Made by Famed Designers to Hit the Market"
-    },
-    {
-      "id": "recvqBE3VwOVbO",
-      "title": "美国大学开设‘内容创作’专业，培养社交媒体网红",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/us-college-has-content-creation-major-for-aspiring-social-media-influencers/",
-      "publish_time": "2026-07-28T00:09:24+08:00",
-      "summary": "亚利桑那州立大学开设内容创作学士学位，培养社交媒体网红，为有志成为影响者的人提供专业教育。",
-      "recommendation": "揭示影像创作从兴趣走向职业化趋势，为内容创作者提供教育路径参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "US College Has ‘Content Creation’ Major for Aspiring Social Media Influencers"
-    },
-    {
-      "id": "recvqBEhNB4gZh",
-      "title": "艺术爱好者寻找真实性的地方",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/27/announcing-the-5-boro-foto-fest-a-place-where-art-lovers-meet-real-photographers-copy/",
-      "publish_time": "2026-07-28T00:00:00+08:00",
-      "summary": "Phoblographer宣布举办五区摄影节，旨在为艺术爱好者提供与真实摄影师面对面交流的空间，拒绝算法和AI，强调真实性与创意。",
-      "recommendation": "聚焦摄影节如何对抗算法与AI，为影像爱好者提供回归真实性的交流场景，引发对创意本质的深度思考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Place for Art Lovers to Find Authenticity"
-    },
-    {
-      "id": "recvqBE69boPb6",
-      "title": "两款备受期待的镜头，各为摄影师带来独特承诺",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/two-lens-teasers-each-promise-something-special-for-photographers/",
-      "publish_time": "2026-07-27T23:45:37+08:00",
-      "summary": "两家中国镜头公司预告新款镜头：7Artisans超广角全画幅定焦，SG-image快速标准定焦用于APS-C画幅",
-      "recommendation": "国产镜头双线发力：7Artisans超广角全画幅定焦与SG-image APS-C标准定焦，提供传感器规格与光圈数据，适合关注副厂镜头性价比的摄影用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Two Teased Lenses Each Promise Something Special for Photographers"
-    },
-    {
-      "id": "recvqAvsNfCqlx",
-      "title": "救护人员因关闭未经同意拍摄患者的摄像头被解雇后提起诉讼",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/ambulance-worker-sues-after-being-fired-for-disabling-cameras-that-filmed-patients-without-consent/",
-      "publish_time": "2026-07-27T23:06:23+08:00",
-      "summary": "一名急救医疗技术员因关闭拍摄患者的摄像头被解雇，提起80万美元诉讼，称其因保护患者隐私而遭解雇。",
-      "recommendation": "从隐私与职业伦理角度切入，揭示摄像头滥用风险，对影像爱好者思考设备使用边界有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Ambulance Worker Sues After Being Fired for Disabling Cameras That Filmed Patients Without Consent"
-    },
-    {
-      "id": "recvqAvKtFB9zN",
-      "title": "研究人员给鲸鲨装上摄像头。仅24小时的记录就彻底改变了科学界对世界上最大鱼类的认知",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/researchers-attached-cameras-to-whale-sharks-just-24-hours-of-recording-drastically-changed-what-science-understands-about-the-worlds-biggest-fish",
-      "publish_time": "2026-07-27T23:00:01+08:00",
-      "summary": "研究团队为五条鲸鲨安装相机标签，24小时记录颠覆了对其摄食方式的认知",
-      "recommendation": "鲸鲨相机标签记录颠覆摄食认知，为水下摄影与动物行为研究提供独家数据，影像爱好者可从中获取极端环境拍摄技巧与生物运动轨迹分析。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Researchers attached cameras to whale sharks. Just 24 hours of recording drastically changed what science understands about the world’s biggest fish"
-    },
-    {
-      "id": "recvqRSz0PvT31",
-      "title": "鲸鲨第一视角视频不仅令人着迷，更颠覆了我们对海洋温柔巨人的认知",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/researchers-attached-cameras-to-whale-sharks-just-24-hours-of-recording-drastically-changed-what-science-understands-about-the-worlds-biggest-fish",
-      "publish_time": "2026-07-27T23:00:01+08:00",
-      "summary": "研究团队给五条鲸鲨安装相机标签，数据颠覆了对其摄食方式的认知。",
-      "recommendation": "鲸鲨视角影像颠覆传统摄食认知，为水下摄影提供独特动物行为数据，拓展生态影像创作视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This whale shark POV footage isn't just mesmerizing – it's disrupting what we know about the ocean's gentle giants"
-    },
-    {
-      "id": "recvqAvMMED9LO",
-      "title": "佳能兑现承诺，最新全画幅相机终于迎来首次固件更新",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/canon-keeps-launch-promise-as-its-newest-full-frame-camera-finally-gets-first-firmware-update",
-      "publish_time": "2026-07-27T22:58:43+08:00",
-      "summary": "佳能EOS R6 V首次固件更新，加入发布时承诺的闪光灯支持",
-      "recommendation": "佳能兑现承诺，R6 V固件更新补全闪光灯支持，对棚拍用户实用。文章提供固件细节与行业动态，无独家数据，属常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon keeps launch promise as its newest full-frame camera finally gets first firmware update"
-    },
-    {
-      "id": "recvqAvP9m6rb2",
-      "title": "Adobe Photoshop Elements 2026评测：RAW支持薄弱与AI积分制拖累Adobe最新入门级产品",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/adobe-photoshop-elements-2026-review-weak-raw-support-and-ai-credits-mar-adobes-latest-beginner-friendly-offering",
-      "publish_time": "2026-07-27T22:39:20+08:00",
-      "summary": "Adobe Photoshop Elements 2026年度更新引入GenAI，但RAW支持薄弱且新增AI积分制，拖累入门级产品体验。",
-      "recommendation": "评测揭示Elements 2026 RAW支持短板与AI积分制问题，对入门用户有实用参考价值，但缺乏独家数据。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Adobe Photoshop Elements 2026 review: Weak RAW support and AI credits mar Adobe’s latest beginner-friendly offering"
-    },
-    {
-      "id": "recvqAvvsRANTh",
-      "title": "苹果担忧智能眼镜坏名声，2027年发布在即",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/apple-frets-over-smart-glasses-bad-reputation-as-2027-launch-looms/",
-      "publish_time": "2026-07-27T22:28:13+08:00",
-      "summary": "苹果计划2027年发布智能眼镜，因担忧隐私问题影响品牌声誉，此举被视为高风险战略，核心价值在于平衡创新与用户隐私保护。",
-      "recommendation": "揭示苹果智能眼镜2027年发布计划，聚焦隐私策略对影像生态的影响，提供行业战略视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple Frets Over Smart Glasses’ Bad Reputation as 2027 Launch Looms"
-    },
-    {
-      "id": "recvqAwbx1apuQ",
-      "title": "独家：富士下一款定焦长焦镜头——野生动物摄影师会爱上它",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/exclusive-this-is-fujifilms-next-telephoto-prime-and-wildlife-photographers-will-love-it/",
-      "publish_time": "2026-07-27T22:26:01+08:00",
-      "summary": "富士将于9月随X-T6发布两款镜头，包括一款新的远摄定焦镜头，专为野生动物摄影师设计，具体参数待公布。",
-      "recommendation": "独家披露富士X-T6同期将推远摄定焦，专为野生动物摄影优化。虽参数待定，但明确产品规划方向，对长焦用户有前瞻参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "EXCLUSIVE: This Is Fujifilm’s Next Telephoto Prime — and Wildlife Photographers Will Love It"
-    },
-    {
-      "id": "recvqAvxTuop70",
-      "title": "2026年最佳无线麦克风推荐",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/the-best-wireless-microphones-in-2026/",
-      "publish_time": "2026-07-27T22:01:04+08:00",
-      "summary": "Rode Wireless Pro曾是首款32位内部录音无线麦克风，但2026年市场竞争激烈，各品牌竞相推出更紧凑、续航更长、支持降噪的全合一无线套件。",
-      "recommendation": "对比2026年主流无线麦克风，含32位录音、续航与降噪数据，助影像创作者选配音频方案。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Best Wireless Microphones in 2026"
-    },
-    {
-      "id": "recvqAvI6c9soc",
-      "title": "什么是ISO不变性，我该在意吗？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/iso-invar/",
-      "publish_time": "2026-07-27T22:00:00+08:00",
-      "summary": "ISO不变性指相机在不同ISO下保持信噪比的能力，影响高ISO画质。文章澄清其定义与误解，帮助用户理解是否需关注此特性。",
-      "recommendation": "澄清ISO不变性常见误解，用信噪比数据解释高ISO画质差异，帮助爱好者理性评估相机性能，避免盲目追求高ISO。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What is ISO invariance, and should I care?"
-    },
-    {
-      "id": "recvqAvAnWYgFL",
-      "title": "旧金山知名摄影师在机场被ICE拘留引发强烈抗议",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/well-known-san-francisco-photographer-detained-by-ice-at-airport-sparking-backlash/",
-      "publish_time": "2026-07-27T21:59:37+08:00",
-      "summary": "旧金山摄影师在机场被ICE拘留的视频引发公众愤怒抗议",
-      "recommendation": "该事件揭示摄影师在跨境工作中的法律风险，对需携带设备出境的影像从业者有现实参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Well-Known San Francisco Photographer Detained by ICE at Airport, Sparking Backlash"
-    },
-    {
-      "id": "recvqAw8M9dW53",
-      "title": "新爆料显示一加16将于10月发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_leak_points_to_october_launch_for_the_oneplus_16-news-73891.php",
-      "publish_time": "2026-07-27T21:14:02+08:00",
-      "summary": "爆料人称一加16将于10月发布，与一加15发布时间一致，设计类似。",
-      "recommendation": "常规资讯，可了解一加旗舰机发布节奏。文中未透露影像规格，但可关注后续是否搭载新传感器或算法升级。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New leak points to October launch for the OnePlus 16"
-    },
-    {
-      "id": "recvqAvnBrZSsm",
-      "title": "唯卓仕接下来三款镜头谍照：35mm f/1.4全画幅、40mm及18mm f/1.2 APS-C",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/images-of-the-next-three-viltrox-lenses-35mm-f-1-4-ff-40mm-and-18mm-f-1-2-aps-c/",
-      "publish_time": "2026-07-27T21:13:34+08:00",
-      "summary": "唯卓仕发布三款E卡口镜头：35mm f/1.4全画幅（77mm滤镜、0.3米最近对焦、VCM马达）、18mm f/1.2和40mm f/1.2 APS-C，谍照源自微博。",
-      "recommendation": "唯卓仕三款E卡口镜头谍照曝光，含35mm f/1.4全画幅及两款APS-C f/1.2大光圈定焦，VCM马达与0.3米最近对焦等参数具体，对定焦爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Images of the next three Viltrox lenses: 35mm f/1.4 FF, 40mm and 18mm f/1.2 APS-C"
-    },
-    {
-      "id": "recvqAvRCx9LRD",
-      "title": "myFirst Frame Clario评测：基本就是儿童版Google Nest Hub",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/digital-photo-frames/myfirst-frame-clario-review",
-      "publish_time": "2026-07-27T21:10:29+08:00",
-      "summary": "myFirst Frame Clario是一款儿童版Google Nest Hub，具备社交连接功能的数码相框，面向年轻人提供趣味互动体验。",
-      "recommendation": "儿童数码相框跨界影像社交，解析亲子互动场景下的影像消费新趋势，对家庭影像设备选型有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "myFirst Frame Clario review: basically a Google Nest Hub, but for kids"
-    },
-    {
-      "id": "recvqAw64Qm6cd",
-      "title": "Thypoch Ksana 35mm F2评测：不值这个价",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/27/thypoch-ksana-35mm-f2-review/",
-      "publish_time": "2026-07-27T21:00:00+08:00",
-      "summary": "Thypoch Ksana 35mm F2镜头评测：作为预算端第三方M卡口镜头，虽承诺复古风格与现代画质，但实际表现不值其价。",
-      "recommendation": "实测拆解揭示Thypoch Ksana 35mm F2在M卡口镜头中的真实画质与做工短板，提供锐度、色散等关键数据，对预算有限的旁轴用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Thypoch Ksana 35mm F2 Review: Not Worth the Money"
-    },
-    {
-      "id": "recvqAvU00T62o",
-      "title": "这款屡获殊荣的全画幅相机拥有“引人注目的改进”，此前从未在索尼相机上见过——如今罕见降价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-multi-award-winning-full-frame-camera-features-headline-grabbing-improvements-we-hadnt-seen-on-a-sony-camera-before-now-it-gets-a-rare-price-cut",
-      "publish_time": "2026-07-27T20:45:48+08:00",
-      "summary": "索尼A7 V全画幅相机罕见降价，拥有此前未见的引人注目改进，专为静态照片和视频设计的旗舰级装备。",
-      "recommendation": "解析索尼A7 V罕见降价背后的技术升级，聚焦此前未见的改进细节，为静态与视频双修用户提供选购参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This multi-award-winning full-frame camera features \"headline-grabbing improvements\" we hadn't seen on a Sony camera before – now it gets a rare price cut"
-    },
-    {
-      "id": "recvqAvD1HbLPA",
-      "title": "摄影师称与灰熊近距离接触“平静”",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/photographer-calls-close-encounter-with-grizzly-bear-peaceful/",
-      "publish_time": "2026-07-27T20:42:54+08:00",
-      "summary": "野生动物摄影师与吃草的灰熊近距离接触仅几英寸，但称从未感到害怕，体验平静。",
-      "recommendation": "野生动物摄影师分享与灰熊近距离接触的平静体验，提供独特视角的拍摄技巧与心理准备，对生态摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Calls Close Encounter With Grizzly Bear ‘Peaceful’"
     }
   ]
 }
