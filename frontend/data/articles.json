@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-07T11:35:27.640157+08:00",
+    "updated_at": "2026-08-07T15:58:12.940170+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 95
+      "count": 92
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 42
+      "count": 41
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,113 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvrAZenAb95e",
+      "title": "这些照片看起来像是另一个世界。本周最佳新闻图片证明了视角、质感和叙事的力量",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/these-photos-look-like-another-world-the-top-news-photos-of-the-week-prove-the-power-of-perspective-texture-and-storytelling",
+      "publish_time": "2026-08-07T15:47:37+08:00",
+      "summary": "本周最佳新闻图片通过独特视角和质感，凸显全球性问题，展现叙事力量。",
+      "recommendation": "以新闻图片为样本，拆解视角、质感与叙事如何塑造影像冲击力，对提升摄影构图与故事表达有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These photos look like another world. The top news photos of the week prove the power of perspective, texture, and storytelling"
+    },
+    {
+      "id": "recvrAZhdBkDyg",
+      "title": "澳大利亚牧人电影感照片获大奖——视觉叙事大师课",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-cinematic-photo-of-australian-drovers-is-honored-at-a-major-awards-and-its-a-masterclass-in-visual-storytelling",
+      "publish_time": "2026-08-07T15:27:15+08:00",
+      "summary": "澳大利亚牧人电影感照片获大奖，通过罗马路上年轻牧人莱利的故事，展现视觉叙事大师课，核心价值在于场景元素完美结合完成叙事。",
+      "recommendation": "解析获奖照片的场景叙事手法，从光线、构图到人物状态拆解视觉语言，为街拍与人文摄影提供可复用的实战思路。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This cinematic photo of Australian drovers is honored at a major awards – and it’s a masterclass in visual storytelling"
+    },
+    {
+      "id": "recvrAZq5EohaY",
+      "title": "新加坡目前搜索最多的相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/07/singapores-most-googled-cameras-right-now/",
+      "publish_time": "2026-08-07T15:00:00+08:00",
+      "summary": "新加坡数码相机需求大，老式相机重获新生。通过谷歌趋势，过去一周哪些相机卖得好，本文介绍最受欢迎的相机型号。",
+      "recommendation": "谷歌趋势数据揭示新加坡市场真实需求，老式相机回潮现象值得关注。对想了解东南亚消费偏好的玩家有参考价值，但分析深度有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Singapore’s Most-Googled Cameras Right Now"
+    },
+    {
+      "id": "recvrAZkasY0iS",
+      "title": "三星Galaxy S26 FE渲染图泄露，展示全部三种配色",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/freshly_leaked_samsung_galaxy_s26_fe_renders_show_all_three_colors-news-74055.php",
+      "publish_time": "2026-08-07T14:41:01+08:00",
+      "summary": "三星Galaxy S26 FE通过FCC认证，泄露渲染图展示三种配色，采用与S26相同的椭圆形三摄设计。",
+      "recommendation": "FCC认证与渲染图揭示S26 FE三摄椭圆设计，影像爱好者可提前预判其镜头配置与配色选择，属常规新品资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Freshly leaked Samsung Galaxy S26 FE renders show all three colors"
+    },
+    {
+      "id": "recvrAZbjaEoy5",
+      "title": "索尼小贴士…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1910/",
+      "publish_time": "2026-08-07T14:15:25+08:00",
+      "summary": "索尼小贴士介绍在神圣空间使用运动相机和镜头，提及多平台优惠、无人机、曝光补偿及RX1rIII相机等，核心价值是提供摄影技巧与产品信息。",
+      "recommendation": "涵盖运动相机曝光补偿技巧及RX1rIII等新品信息，对神圣空间拍摄场景有实操参考价值，常规资讯可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvrAZn9ufeC6",
+      "title": "GTA VI 扩展实机演示将于本月晚些时候登陆 Netflix",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/gta_vi_extended_look_is_coming_later_this_month_to_netflix-news-74053.php",
+      "publish_time": "2026-08-07T13:11:02+08:00",
+      "summary": "《侠盗猎车手VI》将于11月19日发售，8月27日发布扩展预览，先在Netflix独家播出6小时，之后在其他平台提供。",
+      "recommendation": "常规资讯，可了解行业动态。GTA VI影像表现或成游戏视觉标杆，但本文未涉及具体画质技术细节，对影像爱好者参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "GTA VI extended look is coming later this month to Netflix"
+    },
+    {
+      "id": "recvrAZt4LWUaJ",
+      "title": "Caption Caddie评测：为体育摄影师打造的伦理AI",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/07/caption-caddie-review-ethical-ai-for-sports-photographers/",
+      "publish_time": "2026-08-07T12:00:00+08:00",
+      "summary": "Caption Caddie是一款为体育摄影师设计的伦理AI工具，通过自动化添加说明文字和关键词，减轻摄影师在图片上传前的繁琐工作，提高效率。",
+      "recommendation": "AI辅助体育摄影工作流，聚焦伦理设计与效率平衡，含实际场景应用案例，对关注影像行业智能化趋势的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Caption Caddie Review: Ethical AI for Sports Photographers"
+    },
     {
       "id": "recvrzaWUT1szO",
       "title": "三星Galaxy Z Fold8对比三星Galaxy Z Fold8 Ultra",
@@ -7655,117 +7762,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "His neighbors “thought him mad to spend so many hours staring into a coffin.” James Clerk Maxwell wasn’t a photographer, but he created the world’s oldest color photo with an idea still used today"
-    },
-    {
-      "id": "recvqzj7ejK0mu",
-      "title": "中画幅人像摄影须知",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/27/understanding-portrait-photography-medium-format-copy/",
-      "publish_time": "2026-07-27T15:00:00+08:00",
-      "summary": "中画幅摄影迫使摄影师以不同方式思考，其画幅远大于传统数码和胶片，带来艺术和技术上的变化，适合追求更佳人像的摄影师。",
-      "recommendation": "解析中画幅在人像中的画幅优势与拍摄思维转变，提供传感器尺寸对比数据，适合追求极致画质的影像爱好者拓展技术视野。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What to Know About Medium Format Portraits"
-    },
-    {
-      "id": "recvqziIkLLFEd",
-      "title": "索尼小贴士…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1908/",
-      "publish_time": "2026-07-27T14:43:18+08:00",
-      "summary": "索尼RX1RIII相机评测，8个月17城4国体验，附亚马逊等购物优惠及摄影技巧，探讨是否升级100mm微距镜头",
-      "recommendation": "8个月17城4国实测，提供RX1RIII长期使用体验与100mm微距升级决策参考，含亚马逊优惠信息。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvqziZY6XRbD",
-      "title": "vivo X300 E 正式发布：蔡司三摄、骁龙8 Gen 5处理器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_x300_e_is_official_with_zeissbacked_triplerear_camera_snapdragon_8_gen_5_soc-news-73884.php",
-      "publish_time": "2026-07-27T13:41:02+08:00",
-      "summary": "vivo X300 E发布，搭载骁龙8 Gen 5、蔡司三摄、6.59英寸144Hz OLED屏、5000尼特亮度及超声波指纹。",
-      "recommendation": "解析vivo X300 E蔡司三摄与骁龙8 Gen 5的影像协同，提供144Hz屏与5000尼特亮度等关键参数，适合关注手机影像硬件升级的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "vivo X300 E is official with Zeiss-backed triple-rear cameras, Snapdragon 8 Gen 5 SoC"
-    },
-    {
-      "id": "recvqxOVsbzr6x",
-      "title": "尼康Zf在2026年依然值得买吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/27/is-the-nikon-zf-still-good-in-2026/",
-      "publish_time": "2026-07-27T12:00:00+08:00",
-      "summary": "2026年尼康Zf仍值得买，性能优于佳能R3及部分高端相机，评测接近完成。",
-      "recommendation": "文章对比尼康Zf与佳能R3等机型，提供2026年性能评估，含接近完成的评测数据，适合关注全画幅复古机型的用户决策参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Nikon Zf Still Good in 2026?"
-    },
-    {
-      "id": "recvqxOQhkalpn",
-      "title": "尼康新闻周刊 #896",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/26/weekly-nikon-news-flash-896.aspx/",
-      "publish_time": "2026-07-27T09:02:39+08:00",
-      "summary": "尼康新闻周刊报道Peak Design模块化L型支架筹款近50万美元，尼康500mm f/5.6E镜头降价1600美元，Atomos Ninja TX GO监视器售价240美元。",
-      "recommendation": "Peak Design支架众筹数据、尼康500mm f/5.6E大幅降价1600美元及Atomos监视器低价信息，为器材选购提供实时行情参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #896"
-    },
-    {
-      "id": "recvqxOL0OvHDX",
-      "title": "这架复古红牛飞机自1950年代后从未飞越美国——一位艺术家用二战轰炸机上的同款复古相机记录下了这次飞行",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-vintage-red-bull-airplane-hasnt-flown-over-the-us-since-the-1950s-so-an-artist-captured-the-flight-with-an-equally-vintage-camera-from-a-wwii-bomber",
-      "publish_time": "2026-07-27T08:10:00+08:00",
-      "summary": "一架1958年制造的红牛复古飞机首次飞越美国，艺术家用二战轰炸机同款相机记录飞行，展现历史与技术的交融。",
-      "recommendation": "用二战轰炸机同款相机拍摄红牛复古飞机首飞，呈现历史装备与现代技术的影像碰撞，对胶片与航空摄影爱好者有独特参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This vintage Red Bull airplane hasn’t flown over the US since the 1950s – so an artist captured the flight with an equally vintage camera from a WWII bomber"
-    },
-    {
-      "id": "recvqxOT2iYHKZ",
-      "title": "Meike 24mm f/1.4 MIX镜头评测：一款超值广角镜头，性能超越价格",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/26/meike-24mm-f-1-4-mix-lens-review-a-budget-wide-angle-that-punches-above-its-weight.aspx/",
-      "publish_time": "2026-07-27T07:52:58+08:00",
-      "summary": "Meike 24mm f/1.4 MIX镜头评测显示，这款预算广角镜头在光学性能上超越其价位，为摄影师提供了高性价比的定焦选择。",
-      "recommendation": "实测Meike 24mm f/1.4 MIX镜头，提供超越价位的锐度与畸变控制数据，为预算有限的广角定焦用户提供真实性能参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Meike 24mm f/1.4 MIX lens review: a budget wide-angle that punches above its weight"
     }
   ]
 }
