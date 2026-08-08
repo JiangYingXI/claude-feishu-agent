@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-08T03:37:17.611830+08:00",
+    "updated_at": "2026-08-08T10:34:02.076851+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 94
+      "count": 95
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,76 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 386
+      "count": 387
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 157
+      "count": 156
     }
   ],
   "articles": [
+    {
+      "id": "recvrFwkYXGLr6",
+      "title": "谷歌新Pixel Watch视频预告片调侃竞争对手的外观",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/googles_new_pixel_watch_video_teaser_makes_fun_of_its_competitors_looks-news-74078.php",
+      "publish_time": "2026-08-08T10:02:02+08:00",
+      "summary": "谷歌发布Pixel Watch 5预告视频，调侃三星和苹果手表外观怪异，强调自家手表设计更传统，将于8月12日发布。",
+      "recommendation": "常规资讯，可了解行业动态。预告片透露Pixel Watch 5设计取向，对智能手表影像生态布局有间接参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google's new Pixel Watch video teaser makes fun of its competitors' looks"
+    },
+    {
+      "id": "recvrFwnzmEizx",
+      "title": "这就是摩托罗拉Edge 70 Neo，泄露渲染图显示四种颜色",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/this_is_the_motorola_edge_70_neo_leaked_renders_show_four_colors-news-74068.php",
+      "publish_time": "2026-08-08T05:57:02+08:00",
+      "summary": "摩托罗拉Edge 70 Neo泄露渲染图显示四种颜色，配备200MP摄像头，屏幕曲率陡峭，背面设计为2026年标准风格，但更多信息未公布。",
+      "recommendation": "200MP主摄参数与四色渲染图曝光，可提前预判中端机型影像配置趋势，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This is the Motorola Edge 70 Neo, leaked renders show four colors"
+    },
+    {
+      "id": "recvrFwirLTfDz",
+      "title": "腾龙公布今年再发布四款镜头的计划",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/tamron-lays-out-its-plan-for-four-more-releases-this-year/",
+      "publish_time": "2026-08-08T04:53:19+08:00",
+      "summary": "腾龙计划今年再发布四款镜头，目标到2026年推出十款新机型，但四款新镜头并非必然。",
+      "recommendation": "腾龙镜头路线图更新，透露2026年十款新机目标，四款待发镜头虽未明确型号，但可助用户预判产品布局与入手时机。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Tamron lays out its plan for four more releases this year"
+    },
+    {
+      "id": "recvrFwfKxhcsq",
+      "title": "富士胶片影像业务占公司利润大头",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/07/fujifilms-imaging-business-accounts-for-much-of-the-companys-profit/",
+      "publish_time": "2026-08-08T04:08:01+08:00",
+      "summary": "富士胶片公布2027财年第一季度财报，收入增长但营业收入下降，影像业务仍是利润主要来源。",
+      "recommendation": "财报揭示影像业务利润占比，助你判断富士产品线投入方向，对选购决策有参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujifilm’s Imaging Business Accounts for Much of the Company’s Profit"
+    },
     {
       "id": "recvrDOK4J3aat",
       "title": "FCC考虑追溯禁令，禁止此前允许的大疆无人机",
@@ -7705,66 +7766,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The 2027 Pirelli Calendar Will Feature an All-Indian Cast of Women"
-    },
-    {
-      "id": "recvqBE8gIWdGQ",
-      "title": "2027年摄影与视频展：你需要知道的一切",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/trade-shows/the-photography-and-video-show-2027-everything-you-need-to-know",
-      "publish_time": "2026-07-28T00:34:48+08:00",
-      "summary": "2027年摄影与视频展将于3月13日至17日在伦敦ExCel展览中心举办，为期四天，展示最新摄影与摄像技术。",
-      "recommendation": "展会时间地点与参展品牌信息明确，适合计划前往的影像爱好者获取最新器材动态，但缺乏独家展品爆料或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Photography & Video Show 2027: everything you need to know"
-    },
-    {
-      "id": "recvqBDZcnv0TW",
-      "title": "捷克总统出席F1赛事…以摄影师身份",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/czech-president-attends-f1-race-as-a-photographer/",
-      "publish_time": "2026-07-28T00:23:57+08:00",
-      "summary": "捷克总统彼得·帕维尔以摄影师身份出席F1赛事，展现其不同于特朗普打高尔夫的独特休闲爱好。",
-      "recommendation": "从国家元首的摄影爱好切入，揭示F1赛事中摄影师视角的独特拍摄技巧与设备选择，提供跨界影像灵感。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Czech President Attends F1 Race… as a Photographer"
-    },
-    {
-      "id": "recvqBEapSJZW9",
-      "title": "佳能将再次增加紧凑型相机产量——但创纪录的销量并非仅归功于PowerShot",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/canon-will-increase-compact-camera-production-again-but-the-powershot-isnt-the-only-camera-to-blame-for-record-sales",
-      "publish_time": "2026-07-28T00:23:55+08:00",
-      "summary": "佳能因创纪录销量再次提高紧凑型相机产量，但病毒式传播的PowerShot并非唯一原因。",
-      "recommendation": "解析佳能紧凑相机增产背后逻辑，揭示PowerShot并非唯一推手，提供行业销量数据与市场趋势洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon will increase compact camera production (again)  – but the PowerShot isn't the only camera to blame for record sales"
-    },
-    {
-      "id": "recvqBE1G9WX12",
-      "title": "著名设计师打造的独一无二徕卡原型机即将上市",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/one-of-a-kind-leica-lens-prototype-designed-to-be-auctioned/",
-      "publish_time": "2026-07-28T00:19:49+08:00",
-      "summary": "乔纳森·艾维与马克·纽森设计的徕卡原型机将于十月拍卖，融合独特工艺与摄影史价值",
-      "recommendation": "解析乔纳森·艾维与纽森联名设计的徕卡原型机，融合工业设计史与拍卖数据，揭示限量工艺对摄影收藏市场的独特价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "One-of-a-Kind Leica Prototype Made by Famed Designers to Hit the Market"
     }
   ]
 }
