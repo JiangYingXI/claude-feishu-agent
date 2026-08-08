@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-08T15:34:38.970379+08:00",
+    "updated_at": "2026-08-08T21:32:59.864097+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 31
+      "count": 30
     },
     {
       "key": "镜头与光学",
@@ -28,20 +28,159 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 43
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 385
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvrIbXpZQjba",
+      "title": "拍摄6×6画幅教会我的格式与规则",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/08/what-shooting-6x6-taught-me-about-formats-and-rules/",
+      "publish_time": "2026-08-08T21:01:19+08:00",
+      "summary": "作者添置6x6画幅相机，每卷十二张，方形底片意外影响其摄影视觉构思，揭示画幅形状对创作思维的重要作用。",
+      "recommendation": "6×6画幅的十二张限制如何重塑构图思维，从方形底片反推摄影视觉逻辑，为器材选择与创作突破提供实操性参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "What Shooting 6×6 Taught Me About Formats and Rules"
+    },
+    {
+      "id": "recvrIcf0ygiTw",
+      "title": "索尼100-400mm F5.6-8 OSS样张赏析：平价长焦在实拍中的表现",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/samples/sony-100-400mm-f5-6-8-oss-sample-gallery-what-the-budget-telephoto-delivers-in-the-real-world/",
+      "publish_time": "2026-08-08T21:00:00+08:00",
+      "summary": "索尼100-400mm F5.6-8 OSS镜头虽光圈小，但价格亲民、体积轻便，实拍样张显示其长焦性能均衡，适合预算有限用户。",
+      "recommendation": "实拍样张揭示平价长焦真实性能，光圈虽小但画质均衡，为预算有限用户提供具体参考依据。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony 100-400mm F5.6-8 OSS sample gallery: what the budget telephoto delivers in the real world"
+    },
+    {
+      "id": "recvrIc2KhjRPh",
+      "title": "这张图片捕捉到了深刻的人性——在反思与责任之后对连接的需求。就在几小时前，这些年轻的潜艇兵还以庄重而精准的步伐行进，向先辈们致敬",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-image-captures-something-deeply-human-the-need-for-connection-after-moments-of-reflection-and-duty-just-hours-earlier-these-young-submariners-had-marched-with-solemnity-and-precision-paying-tribute-to-those-who-had-gone-before-them",
+      "publish_time": "2026-08-08T20:30:00+08:00",
+      "summary": "纪实摄影师讲述四次获奖照片背后的故事，评委揭示其从1582件作品中脱颖而出的原因，展现深刻人性与连接需求。",
+      "recommendation": "纪实摄影获奖作品解析，含评委评选标准与拍摄幕后，对理解人文题材构图与叙事有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"This image captures something deeply human – the need for connection after moments of reflection and duty. Just hours earlier, these young submariners had marched with solemnity and precision, paying tribute to those who had gone before them\""
+    },
+    {
+      "id": "recvrIc5aTbUJC",
+      "title": "我拍摄过七次日食，而互联网改变了最后三次的一切——而且不是以好的方式！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/i-have-photographed-seven-solar-eclipses-and-it-was-the-internet-that-changed-everything-for-the-last-three-and-not-in-a-good-way",
+      "publish_time": "2026-08-08T20:00:00+08:00",
+      "summary": "作者拍摄七次日食，互联网改变了最后三次的体验，导致美国大日食变成大堵车，核心是科技对天文观测的负面影响。",
+      "recommendation": "七次日食亲历揭示科技对观测体验的冲击，独特视角引发对影像记录本质的反思，适合关注天文摄影与科技关系的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I have photographed seven solar eclipses, and it was the internet that changed everything for the last three – and not in a good way!"
+    },
+    {
+      "id": "recvrIc0ggGldA",
+      "title": "南·戈尔丁与黛安·阿勃丝作品惊艳影集巡回展出",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/08/incredible-photo-collection-featuring-works-by-nan-goldin-and-diane-arbus-goes-on-tour/",
+      "publish_time": "2026-08-08T19:00:08+08:00",
+      "summary": "一场非凡摄影展汇集黛安·阿勃丝等五位摄影师100幅作品，在美国各地博物馆巡回展出。",
+      "recommendation": "百幅原作巡展，聚焦阿勃丝与戈尔丁的纪实美学，为街拍与肖像创作者提供构图、光影及情感表达的一手参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Incredible Photo Collection Featuring Works by Nan Goldin and Diane Arbus Goes on Tour"
+    },
+    {
+      "id": "recvrIccIoaVrI",
+      "title": "促销：Galaxy S26 Ultra、iPhone 17 Pro 和小米 17 Ultra 降价",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_galaxy_s26_ultra_iphone_17_pro_and_xiaomi_17_ultra_on_sale-news-74071.php",
+      "publish_time": "2026-08-08T18:51:02+08:00",
+      "summary": "三星Galaxy S26 Ultra 512GB版在亚马逊英国降价435英镑，Galaxy S26+降100英镑，同时iPhone 17 Pro、Pixel 10a和小米17系列也有优惠。",
+      "recommendation": "旗舰影像机型降价汇总，含具体降幅与存储版本信息，适合近期有购机计划的用户参考，属常规促销资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Galaxy S26 Ultra, iPhone 17 Pro, and Xiaomi 17 Ultra on sale"
+    },
+    {
+      "id": "recvrIchnCb4hy",
+      "title": "人像摄影师访谈中的6个实用技巧",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/08/6-tips-from-portrait-photographers-weve-interviewed/",
+      "publish_time": "2026-08-08T18:00:00+08:00",
+      "summary": "人像摄影师访谈中分享6个实用技巧，核心是让被摄者感到安全，并强调这只是基础，更多建议可助提升效果。",
+      "recommendation": "从被摄者安全感切入，提供可落地的沟通与引导方法，对提升人像拍摄有直接帮助，但内容属常规经验分享。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "6 Tips From Portrait Photographers We’ve Interviewed"
+    },
+    {
+      "id": "recvrIcacBigrU",
+      "title": "佳能光学部门研发无氟镜头镀膜技术",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canons-optron-division-developing-fluorine-free-lens-coating/",
+      "publish_time": "2026-08-08T17:53:38+08:00",
+      "summary": "佳能子公司研发无氟镜头镀膜技术，替代传统含氟材料，提升环保性与光学性能，核心价值在于推动镜头制造绿色化。",
+      "recommendation": "无氟镀膜兼顾环保与光学性能，了解佳能绿色制造新动向，对关注镜头技术演进者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon’s Optron Division Developing Fluorine-Free Lens Coating"
+    },
+    {
+      "id": "recvrIc7DKoJQb",
+      "title": "史蒂夫·麦凯瑞：“我95%的时间只用这一支镜头，配一个机身，而且我已经放弃了摄影包”——传奇摄影师揭秘他当前的相机配置",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/steve-mccurry-i-use-this-one-lens-95-percent-of-the-time-with-one-camera-body-and-ive-given-up-using-a-bag-legendary-photographer-reveals-his-current-camera-setup",
+      "publish_time": "2026-08-08T17:10:00+08:00",
+      "summary": "国家地理传奇摄影师史蒂夫·麦凯瑞揭秘其当前配置：95%时间仅用一支镜头配一个机身，已放弃摄影包，颠覆传统认知。",
+      "recommendation": "传奇摄影师亲述极简配置哲学，揭秘镜头选择与拍摄思维，对器材党与纪实摄影爱好者有直接参考价值。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Steve McCurry: \"I use this one lens 95% of the time, with one camera body, and I've given up using a bag\" – Legendary photographer reveals his current camera setup"
+    },
     {
       "id": "recvrGK1w5RAWs",
       "title": "传闻中的佳能变焦镜头或让600mm F4L定焦失去意义",
@@ -7628,146 +7767,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Green Feathers WiFi Bird Box Camera review: a small, sleek and subscription-free window into the nest"
-    },
-    {
-      "id": "recvqES8IvO8Xo",
-      "title": "索尼花絮…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1909/",
-      "publish_time": "2026-07-28T14:15:22+08:00",
-      "summary": "索尼100-400mm F4.5 GM OSS被评测为新的最爱运动摄影镜头，文章还包含曝光入门、离机闪光灯学习及Meike 23mm F1.4等内容。",
-      "recommendation": "涵盖索尼100-400GM运动摄影评测、曝光入门及离机闪光灯技巧，含Meike 23mm F1.4镜头信息，适合进阶爱好者拓展技术视野。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvqESomGuaHf",
-      "title": "vivo T5e 是一款配备5500mAh电池和90Hz显示屏的预算手机",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_t5e_is_a_budget_phone_with_a_5500mah_battery_90hz_display-news-73898.php",
-      "publish_time": "2026-07-28T12:45:02+08:00",
-      "summary": "vivo在印度推出T5e预算手机，配备5500mAh电池、6.74英寸90Hz HD+ LCD屏、UniSoc T7225芯片，4GB/64GB版售价13999卢比",
-      "recommendation": "常规资讯，可了解行业动态。文章未涉及影像规格，但T5e作为百元机定位，对关注入门机影像配置的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo T5e is a budget phone with a 5,500mAh battery, 90Hz display"
-    },
-    {
-      "id": "recvqEStpnFZjV",
-      "title": "如果你拥有这支镜头，你就中大奖了",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/28/if-you-own-this-lens-you-hit-the-jackpot/",
-      "publish_time": "2026-07-28T12:00:00+08:00",
-      "summary": "老蛙105mm f2柔焦镜头虽因STF镜片损失进光量，但提供平滑虚化、迷人色彩和出色锐度，是一款特别镜头。",
-      "recommendation": "深度解析老蛙105mm f2柔焦镜头的STF光学设计，揭示其牺牲进光量换取平滑虚化与色彩表现的独特价值，含实拍样张对比数据。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "If You Own This Lens, You Hit the Jackpot"
-    },
-    {
-      "id": "recvqDwK2Nz1A3",
-      "title": "尼康Z中的Z是否只是将字母N旋转90度？",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/27/is-the-z-in-nikon-z-just-the-letter-n-rotated-at-90-degrees.aspx/",
-      "publish_time": "2026-07-28T09:05:58+08:00",
-      "summary": "文章探讨尼康Z标志是否由字母N旋转90度而成，官方解释未提及，核心价值是引发对品牌标志设计的趣味思考",
-      "recommendation": "从品牌标志设计切入，探讨N与Z的旋转关系，为影像爱好者提供趣味性视角，虽无独家数据，但引发对尼康视觉符号的深度思考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Is the Z in Nikon Z just the letter N rotated at 90 degrees?"
-    },
-    {
-      "id": "recvqDwEZEdZRz",
-      "title": "三星Galaxy S27 Pro和S27 Ultra电池容量泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php",
-      "publish_time": "2026-07-28T07:31:02+08:00",
-      "summary": "三星Galaxy S27 Pro电池容量泄露，额定5087mAh，典型5200mAh，小机身配大电池令人印象深刻。",
-      "recommendation": "电池容量数据影响影像续航，5087mAh额定值暗示小机身续航提升，对移动拍摄场景有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak"
-    },
-    {
-      "id": "recvqDwC1OKuwG",
-      "title": "即将到来！七工匠预计将很快发布新款自动对焦鱼眼镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/incoming-7artisans-expected-to-announce-new-autofocus-fisheye-lens-imminently",
-      "publish_time": "2026-07-28T06:48:00+08:00",
-      "summary": "七工匠即将发布新款自动对焦鱼眼镜头，适用于全画幅索尼、尼康和L卡口相机。",
-      "recommendation": "七工匠自动对焦鱼眼镜头适配全画幅索尼、尼康、L卡口，为广角摄影提供新选择。文章透露发布在即，但缺乏具体参数与定价，属常规资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Incoming! 7Artisans expected to announce new autofocus fisheye lens imminently"
-    },
-    {
-      "id": "recvqDwHt40DXM",
-      "title": "谷歌将允许你的Pixel手机解锁Pixel Watch",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_will_let_your_pixel_phone_unlock_your_pixel_watch-news-73894.php",
-      "publish_time": "2026-07-28T04:01:02+08:00",
-      "summary": "谷歌正开发反向解锁功能，Pixel手机解锁时自动解锁配对的Pixel Watch，可能仅限Pixel设备使用。",
-      "recommendation": "常规资讯，可了解行业动态。对影像爱好者无直接价值，但体现谷歌生态整合趋势，间接影响Pixel手机影像体验的便捷性。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google will let your Pixel phone unlock your Pixel Watch"
-    },
-    {
-      "id": "recvqBEcM0q6d2",
-      "title": "富士X-T6规格大泄露？——真相在此！",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-specs-mega-leak-here-is-the-truth/",
-      "publish_time": "2026-07-28T03:49:34+08:00",
-      "summary": "文章澄清富士X-T6泄露规格传闻，列出4000万像素传感器、8档防抖等参数，指出真相源自Fuji Rumors。",
-      "recommendation": "澄清X-T6传闻，列出4000万像素传感器、8档防抖等具体参数，源自Fuji Rumors，为关注富士新机的用户提供准确信息。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm X-T6 Specs Mega Leak? – Here is the Truth!"
-    },
-    {
-      "id": "recvqBEfofo96u",
-      "title": "我拍摄了一卷售价5000美元的稀有胶片",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/27/i-shot-a-rare-film-emulsion-that-sold-for-5000/",
-      "publish_time": "2026-07-28T03:00:00+08:00",
-      "summary": "作者回忆十年前购买并评测宝丽来180胶片相机，该相机从纽约Nippon Photo Clinic经营者处购得，翻新后功能完好，伴随作者多次旅行，现售价5000美元。",
-      "recommendation": "通过5000美元宝丽来180相机十年使用回顾，揭示稀有胶片相机的市场价值与收藏逻辑，提供独特的产品洞察与摄影美学思考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I Shot a Rare Film Emulsion That Sold for $5,000"
     }
   ]
 }
