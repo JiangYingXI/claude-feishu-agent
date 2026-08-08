@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-08T10:34:02.076851+08:00",
+    "updated_at": "2026-08-08T15:34:38.970379+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 95
+      "count": 97
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,62 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 387
+      "count": 388
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 156
+      "count": 155
     }
   ],
   "articles": [
+    {
+      "id": "recvrGK1w5RAWs",
+      "title": "传闻中的佳能变焦镜头或让600mm F4L定焦失去意义",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/08/this-reported-canon-zoom-could-make-the-600mm-f4l-prime-pointless/",
+      "publish_time": "2026-08-08T15:00:00+08:00",
+      "summary": "佳能研发新变焦镜头，可能使600mm F4L定焦失去意义，为长焦用户提供新选择。",
+      "recommendation": "变焦替代定焦的传闻若属实，将重塑长焦生态。文章提供镜头研发动向，助你评估未来器材选择，对生态摄影爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "This Reported Canon Zoom Could Make the 600mm F4L Prime Pointless"
+    },
+    {
+      "id": "recvrGJYJEdZlR",
+      "title": "煎饼镜头正式回归时尚（这都要归功于时髦的紧凑型相机）",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/pancake-lenses-are-officially-back-in-fashion-and-its-all-thanks-to-trendy-compact-cameras",
+      "publish_time": "2026-08-08T14:15:00+08:00",
+      "summary": "紧凑型相机热潮推动煎饼镜头回归，成为史上最受追捧的超小型镜头，满足时尚需求。",
+      "recommendation": "紧凑相机热潮催生煎饼镜头复兴，文章剖析其时尚化趋势与光学设计取舍，对关注小型化镜头的爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Pancake lenses are officially back in fashion (and it's all thanks to trendy compact cameras)"
+    },
+    {
+      "id": "recvrGK3XKHVoR",
+      "title": "中国Z世代疯狂抢购的6款紧凑型相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/08/6-compact-cameras-chinese-gen-z-cant-stop-buying/",
+      "publish_time": "2026-08-08T12:00:00+08:00",
+      "summary": "中国相机市场转向紧凑型，阿里巴巴热销型号多样，含日本品牌，满足Z世代需求。",
+      "recommendation": "通过阿里巴巴热销榜揭示Z世代购机偏好，含具体型号与价格数据，对关注市场趋势的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "6 Compact Cameras Chinese Gen Z Can’t Stop Buying"
+    },
     {
       "id": "recvrFwkYXGLr6",
       "title": "谷歌新Pixel Watch视频预告片调侃竞争对手的外观",
@@ -7721,51 +7768,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "I Shot a Rare Film Emulsion That Sold for $5,000"
-    },
-    {
-      "id": "recvqBDRWWDMT3",
-      "title": "阿梅莉亚·埃尔哈特的飞机还是椰子树？新探险寻求真相",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/amelia-earharts-airplane-or-a-coconut-tree-new-expedition-seeks-the-truth/",
-      "publish_time": "2026-07-28T01:57:59+08:00",
-      "summary": "阿梅莉亚·埃尔哈特失踪89年后，新探险队将用声纳和无人机在太平洋海底搜寻其飞机残骸，以解开航空史上最大谜团。",
-      "recommendation": "声纳与无人机水下搜寻技术解析，展示消费级影像设备在深海探测中的实际应用案例，非传统摄影题材但具技术参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Amelia Earhart’s Airplane or a Coconut Tree? New Expedition Seeks the Truth"
-    },
-    {
-      "id": "recvqBDUxqZJZB",
-      "title": "法国禁止15岁以下儿童使用社交媒体，欧盟首例",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/france-bans-social-media-for-kids-under-15-a-first-for-europe/",
-      "publish_time": "2026-07-28T01:15:46+08:00",
-      "summary": "法国成为欧盟首个禁止15岁以下儿童使用社交媒体的国家，旨在保护未成年人网络安全。",
-      "recommendation": "常规资讯，可了解行业动态。虽非影像领域直接相关，但社交媒体限制可能影响影像内容分享与传播生态，对关注内容分发的影像爱好者有间接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "France Bans Social Media for Kids Under 15, a First for the EU"
-    },
-    {
-      "id": "recvqBDWNpRqUO",
-      "title": "2027年倍耐力年历将全部由印度女性出演",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/27/the-2027-pirelli-calendar-will-feature-an-all-indian-cast-of-women/",
-      "publish_time": "2026-07-28T01:01:54+08:00",
-      "summary": "2027年倍耐力年历全部由印度女性出演，致敬著名摄影师拉古·拉伊的遗产",
-      "recommendation": "从影像美学角度解析倍耐力年历的印度女性主题，探讨文化叙事与摄影遗产的融合，适合关注人文摄影的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 2027 Pirelli Calendar Will Feature an All-Indian Cast of Women"
     }
   ]
 }
