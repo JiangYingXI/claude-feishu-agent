@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-09T03:14:39.038485+08:00",
+    "updated_at": "2026-08-09T10:40:27.754396+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 96
+      "count": 94
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 45
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 386
+      "count": 387
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvrLomRv1mhe",
+      "title": "野火火焰距我家前门仅一英里，但若保持安全理智，拍照机会难得",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/wildfire-flames-are-only-a-mile-from-my-front-door-but-the-photo-opportunities-are-remarkable-if-you-stay-safe-and-sensible",
+      "publish_time": "2026-08-09T08:10:00+08:00",
+      "summary": "加拿大野火拍摄22年经验，教你安全拍出震撼照片，不危及自身不扰消防，核心价值在于平衡安全与摄影。",
+      "recommendation": "22年野火拍摄经验，详解安全与摄影平衡，含独特避险策略及实拍参数，对风光及纪实爱好者有实操参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Wildfire flames are only a mile from my front door, but the photo opportunities are remarkable if you stay safe and sensible"
+    },
+    {
+      "id": "recvrLoq6M68Re",
+      "title": "Vogue摄影师尼尔·柯克：让超模动起来，捕捉她们行走、跳跃、大笑的瞬间",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/the-vogue-photographer-who-never-let-his-models-stand-still-neil-kirk-spent-decades-capturing-supermodels-mid-stride-mid-leap-and-mid-laugh",
+      "publish_time": "2026-08-09T05:20:00+08:00",
+      "summary": "新专著追溯Vogue摄影师尼尔·柯克职业生涯，强调捕捉超模真实动作而非摆拍，展现动态时尚摄影价值。",
+      "recommendation": "从Vogue摄影师视角解析动态时尚摄影技法，展示如何捕捉超模自然动作而非摆拍，对街拍与人像创作有实操启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Vogue photographer who never let his models stand still: Neil Kirk spent decades capturing supermodels mid-stride, mid-leap and mid-laugh"
+    },
+    {
+      "id": "recvrLotgQH3th",
+      "title": "谷歌Pixel 11系列与Watch 5：值得期待什么",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_series_and_watch_5_what_to_expect-news-74069.php",
+      "publish_time": "2026-08-09T05:01:02+08:00",
+      "summary": "谷歌8月12日将发布Pixel 11系列、Watch 5及首款智能追踪器，设计变化不大，新增Pixel Glow RGB LED灯功能。",
+      "recommendation": "Pixel 11系列新增RGB LED灯功能，对影像创作有实际价值，但设计变化有限，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Pixel 11 series and Watch 5: what to expect"
+    },
     {
       "id": "recvrJA5hWbNZW",
       "title": "优惠：Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8现已上市",
@@ -117,6 +162,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Typo ot leak: Nikon Z70 camera added to the Apple ProRes and ProRes RAW authorized products"
+    },
+    {
+      "id": "recvrLowJHtjV2",
+      "title": "笔误还是泄露：尼康Z70相机被列入苹果ProRes和ProRes RAW授权产品",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/08/typo-ot-leak-nikon-z70-camera-added-in-the-apple-prores-and-prores-raw-authorized-products.aspx/",
+      "publish_time": "2026-08-09T00:11:36+08:00",
+      "summary": "尼康Z70相机被列入苹果ProRes和ProRes RAW授权产品列表，疑为笔误，因尼康产品与苹果兼容需数月时间，文章首发于Nikon Rumors。",
+      "recommendation": "尼康Z70意外现身苹果ProRes授权列表，或暗示新机视频规格，对关注尼康全幅微单动向的影像爱好者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Typo or leak: Nikon Z70 camera added to the Apple ProRes and ProRes RAW authorized products"
     },
     {
       "id": "recvrJAcL9MmeJ",
@@ -7703,68 +7763,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Meta’s Partner in China Placed Thousands of Ads for Nudify Apps, Report Says"
-    },
-    {
-      "id": "recvqGfAzBL7bs",
-      "title": "Tony Northrup：人人都搞错了——索尼 vs 腾龙超广角镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/tony-northrup-everyone-gets-this-wrong-sony-vs-tamron-ultra-wide-lens/",
-      "publish_time": "2026-07-28T18:26:26+08:00",
-      "summary": "Tony Northrup测试新款Tamron 12-20mm f/2.8 FE镜头，指出索尼与腾龙超广角镜头的常见误解，预购链接已发布。",
-      "recommendation": "Tony Northrup实测对比索尼与腾龙超广角，指出常见误解，提供独家样张与数据，帮助用户理性选择。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tony Northrup: Everyone Gets This Wrong – Sony vs Tamron Ultra-Wide Lens"
-    },
-    {
-      "id": "recvqGfXJZKXfZ",
-      "title": "这款限量版50mm f/1.1镜头为徕卡M相机带来战前风格",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-limited-edition-50mm-f-1-1-lens-brings-pre-war-character-to-leica-m-cameras",
-      "publish_time": "2026-07-28T18:11:25+08:00",
-      "summary": "新50mm f/1.1镜头为徕卡M卡口带来战前Kino Plasmat风格，限量版设计",
-      "recommendation": "解析限量版50mm f/1.1镜头如何复刻战前Kino Plasmat风格，提供光学设计细节与徕卡M卡口适配性，适合追求复古影像风格的爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This limited-edition 50mm f/1.1 lens brings pre-war character to Leica M cameras"
-    },
-    {
-      "id": "recvqGg0fc4RjQ",
-      "title": "记录英国残疾人权利运动内部情况的摄影师终获认可，其档案免费开放使用",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/the-photographer-who-documented-britains-disability-rights-movement-from-the-inside-has-finally-been-recognized-and-his-archive-is-free-to-use",
-      "publish_time": "2026-07-28T18:09:30+08:00",
-      "summary": "摄影师基思·阿姆斯特朗数十年记录英国残疾人权利抗议，推动法律变革，其档案现免费开放",
-      "recommendation": "纪实摄影推动社会变革的典型案例，揭示影像如何成为立法工具。档案免费开放，含数十年抗议现场独家影像，对纪实摄影师有方法论参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The photographer who documented Britain's disability rights movement from the inside has finally been recognized, and his archive is free to use"
-    },
-    {
-      "id": "recvqHtMM6IOXT",
-      "title": "英国国家肖像画廊收藏Charli XCX摄影作品",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/uks-national-portrait-gallery-acquires-photograph-of-charli-xcx/",
-      "publish_time": "2026-07-28T18:09:13+08:00",
-      "summary": "英国国家肖像馆收藏了摄影师Harley Weir为流行歌手Charli XCX拍摄的照片",
-      "recommendation": "解析Harley Weir为Charli XCX拍摄的肖像如何被国家肖像馆收藏，探讨时尚摄影与艺术机构的审美交集，适合关注摄影社会价值的读者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "UK’s National Portrait Gallery Acquires Photograph of Charli XCX"
     }
   ]
 }
