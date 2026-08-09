@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-09T15:38:06.797860+08:00",
+    "updated_at": "2026-08-09T21:36:32.579708+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 30
+      "count": 32
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 94
+      "count": 93
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 12
+      "count": 13
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,154 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 388
+      "count": 384
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 157
     }
   ],
   "articles": [
+    {
+      "id": "recvrO3kvyqCt9",
+      "title": "纪实摄影80年：揭示英伦三岛的另一面",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/09/80-years-of-documentary-photography-reveal-the-darker-side-of-britain-and-ireland/",
+      "publish_time": "2026-08-09T21:00:20+08:00",
+      "summary": "新展览探讨80多年纪实摄影如何捕捉英伦三岛生活中更黑暗、更令人不安的一面，揭示其另一面。",
+      "recommendation": "从纪实摄影史角度剖析英伦社会暗面，提供80年影像档案的独特视角，对理解摄影的社会批判功能有启发，适合拓展美学认知。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "80 Years of Documentary Photography Reveal the Darker Side of Britain and Ireland"
+    },
+    {
+      "id": "recvrO3zqPx3UN",
+      "title": "揭秘雾中摄影：摄影师雾天拍摄指南",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/demystifying-fog-a-photographers-guide-to-shooting-in-the-mist/",
+      "publish_time": "2026-08-09T21:00:00+08:00",
+      "summary": "雾天摄影指南，强调雾气能创造独特氛围，揭示如何利用雾天光线与构图，捕捉令人回味的图像。",
+      "recommendation": "雾天拍摄光线与构图技巧详解，含独家参数建议，助你捕捉独特氛围影像。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Demystifying fog: a photographer’s guide to shooting in the mist"
+    },
+    {
+      "id": "recvrO3BRrac8F",
+      "title": "200MP手机能胜过100MP相机吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/can-a-200mp-phone-outshoot-a-100mp-camera",
+      "publish_time": "2026-08-09T20:30:00+08:00",
+      "summary": "对比1亿像素哈苏X2D II与2亿像素OPPO Find X9 Ultra，探讨手机高像素能否超越相机，核心在于传感器尺寸与算法差异。",
+      "recommendation": "对比1亿像素中画幅与2亿像素手机，直击传感器尺寸与算法差异核心，提供像素之外的成像逻辑参考，适合关注高像素实用性的玩家。",
+      "categories": [
+        "传感器硬件",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Can a 200MP phone outshoot a 100MP camera?"
+    },
+    {
+      "id": "recvrO3qJeWTyI",
+      "title": "好奇拆解：Kolarivision 对索尼 A7R IV 的完整拆机",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
+      "publish_time": "2026-08-09T20:11:10+08:00",
+      "summary": "Kolarivision拆解索尼A7R IV，指出其拆解难度与其他索尼无反相机相当，文章首发于sonyalpharumors。",
+      "recommendation": "拆解A7R IV可了解其内部结构与维修难度，对动手派玩家有参考价值，但信息常规，无独家数据。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Curiosity: Full Sony A7rIV teardown by Kolarivision"
+    },
+    {
+      "id": "recvrO3nG8X5r1",
+      "title": "近距离观察价值1亿美元的摄影史珍品：机器E",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/09/a-close-look-at-a-100m-piece-of-photographic-history-machine-e/",
+      "publish_time": "2026-08-09T20:01:19+08:00",
+      "summary": "瑞士马利镇保存着价值1亿美元的机器E，这台多层摄影涂布机曾推动众多世界顶级摄影产品问世，是摄影史珍贵实物。",
+      "recommendation": "探秘价值1亿美元的机器E，揭示摄影涂布技术如何成就顶级产品，为影像爱好者提供罕见的行业历史视角与实物细节。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "A Close Look at a $100M Piece of Photographic History: Machine E"
+    },
+    {
+      "id": "recvrO3u9QXKea",
+      "title": "每周投票：你使用功能手机吗？为什么？",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_do_you_use_a_feature_phone_why-news-74028.php",
+      "publish_time": "2026-08-09T19:03:02+08:00",
+      "summary": "功能手机正卷土重来，是对全能智能手机的抵制，但定义模糊，指故意限制功能的手机，如诺基亚AI功能手机。",
+      "recommendation": "功能手机回归趋势与影像需求形成反差，文中对诺基亚AI功能手机的定位分析，可助影像爱好者理解差异化市场。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly poll: do you use a feature phone? Why?"
+    },
+    {
+      "id": "recvrO3H3Tr7bo",
+      "title": "献给从未理解白平衡的摄影师",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/09/chart-the-look-of-film-photography-explained-in-terms-of-white-balance-copy/",
+      "publish_time": "2026-08-09T18:00:00+08:00",
+      "summary": "本文讲解白平衡原理，指出多数摄影师依赖自动模式后期修复，理解其运作可助创意调整，提升图像符合愿景的能力。",
+      "recommendation": "从原理到创意应用，解析白平衡对影像色调的深层影响，助你摆脱自动模式依赖，实现精准色彩表达。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This is For the Photographer Who Never Understood White Balance"
+    },
+    {
+      "id": "recvrO3EtWoP26",
+      "title": "全球最小可换镜头相机：小巧机械杰作",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/the-worlds-smallest-interchangeable-lens-camera-is-a-tiny-mechanical-masterpiece",
+      "publish_time": "2026-08-09T17:10:00+08:00",
+      "summary": "这款被遗忘的口袋相机是全球最小可换镜头相机，其小巧机械设计远超胶片格式限制，展现出卓越性能与核心价值。",
+      "recommendation": "揭秘被遗忘的机械杰作，详解全球最小可换镜头相机的设计突破与性能核心，为口袋机爱好者提供稀缺资料与深度技术解析。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "The world’s smallest interchangeable lens camera is a tiny mechanical masterpiece"
+    },
+    {
+      "id": "recvrO3wNXqWZf",
+      "title": "促销：Galaxy Z Flip8 首发即降价，Z Fold8 和 Z Fold8 Ultra 同步优惠",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_galaxy_z_flip8_gets_a_discount_out_of_the_gate_z_fold8_and_z_fold8_ultra_also_on_sale-news-74064.php",
+      "publish_time": "2026-08-09T16:02:02+08:00",
+      "summary": "三星Galaxy Z8折叠屏手机全球上市，Z Fold8占欧洲预购40%、韩国70%，评测见内。",
+      "recommendation": "折叠屏影像旗舰促销动态，含欧洲预购数据与市场占比，可了解折叠机影像配置趋势，常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale"
+    },
     {
       "id": "recvrMBqoC6SCG",
       "title": "如何在没有Lightroom或Photoshop的情况下编辑照片",
@@ -7625,145 +7764,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Confirmed: New Sony announcement next week on August 4!"
-    },
-    {
-      "id": "recvqHtCOPUrDo",
-      "title": "若想保护天文学，太空中的卫星不应超过10万颗",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/no-more-than-100000-satellites-in-the-sky-if-we-want-to-preserve-astronomy/",
-      "publish_time": "2026-07-28T21:33:43+08:00",
-      "summary": "天文学家警告，现有170万颗卫星的提议将毁灭性影响宇宙观测，建议太空卫星不超过10万颗以保护天文学",
-      "recommendation": "卫星数量激增威胁天文观测，直接关联星空摄影与长曝光成像质量。文章引用170万颗卫星提案与10万上限的独家数据，为影像爱好者揭示光污染新源头。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "No More Than 100,000 Satellites in the Sky if We Want to Preserve Astronomy"
-    },
-    {
-      "id": "recvqGfDmftS4E",
-      "title": "2026年那些奇怪的相机告诉我们什么关于行业",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/what-the-strange-cameras-of-2026-tell-us-about-the-industry/",
-      "publish_time": "2026-07-28T21:00:00+08:00",
-      "summary": "2026年发布的相机虽少，但每款都揭示市场趋势，如高像素、AI对焦和视频性能提升，反映行业向专业化与智能化演进。",
-      "recommendation": "通过2026年少量相机新品，解析高像素、AI对焦与视频性能三大趋势，提供行业专业化与智能化演进的深度观点，适合关注市场动向的影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What the strange cameras of 2026 tell us about the industry"
-    },
-    {
-      "id": "recvqGg5ISCAyx",
-      "title": "佳能计划将政府退税转化为客户折扣的内幕",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/28/inside-the-reported-canon-plan-to-turn-a-government-refund-into-customer-discounts/",
-      "publish_time": "2026-07-28T21:00:00+08:00",
-      "summary": "佳能作为相机市场最赚钱公司之一，市场份额最大，利润有望再次上升，财务报告显示情况向好。",
-      "recommendation": "解析佳能如何将政府退税转化为客户折扣，揭示相机巨头利润策略与市场动态，对关注价格趋势的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Inside The Reported Canon Plan to Turn a Government Refund Into Customer Discounts"
-    },
-    {
-      "id": "recvqGfNLpSU8R",
-      "title": "“最佳照片能立即抓住观众注意力，具有冲击力并引发情感共鸣”——著名摄影师Ken Crossan分享获奖自然摄影技巧",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/the-best-images-immediately-capture-the-viewers-attention-have-impact-and-elicit-an-emotional-response-renowned-photographer-ken-crossan-shares-tips-for-award-winning-nature-shots",
-      "publish_time": "2026-07-28T20:54:38+08:00",
-      "summary": "著名自然摄影师Ken Crossan分享获奖技巧，强调照片需立即抓住观众注意力，具有冲击力并引发情感共鸣。",
-      "recommendation": "Ken Crossan从获奖者视角拆解自然摄影的注意力法则与情感触发点，提供可操作的构图与光影技巧，对提升作品冲击力有直接指导价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“The best images immediately capture the viewer’s attention, have impact and elicit an emotional response” – Renowned photographer Ken Crossan shares tips for award-winning nature shots"
-    },
-    {
-      "id": "recvqGg3kyEFqL",
-      "title": "荣耀在发布前详细介绍了Robot Phone的摄像头",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_details_robot_phone_cameras_ahead_of_launch-news-73905.php",
-      "publish_time": "2026-07-28T20:42:02+08:00",
-      "summary": "荣耀在发布前详细介绍Robot Phone摄像头，与阿莱合作实现原生Log-C3视频编码、LUT色彩分级及电影模式，拥有超100项专利。",
-      "recommendation": "荣耀与阿莱合作实现原生Log-C3视频编码及LUT色彩分级，超100项专利细节揭示手机电影级影像技术突破，适合关注计算摄影与移动视频创作的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Honor details Robot Phone cameras ahead of launch"
-    },
-    {
-      "id": "recvqHu2xUtEEl",
-      "title": "Oppo Find X9 Ultra 相机评测",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/oppo-find-x9-ultra-camera-test/",
-      "publish_time": "2026-07-28T19:59:50+08:00",
-      "summary": "DXOMARK评测Oppo Find X9 Ultra相机性能，通过客观测量和感知分析评估照片、变焦和视频，总结成像表现。",
-      "recommendation": "DXOMARK客观测量与感知分析结合，提供Find X9 Ultra照片、变焦、视频的量化成像数据，适合关注旗舰手机影像性能的读者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Oppo Find X9 Ultra Camera test"
-    },
-    {
-      "id": "recvqHtFgN7b4F",
-      "title": "摄影师捕捉到近300头座头鲸聚集在同一地点",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/photographer-captures-nearly-300-humpback-whales-gathered-in-the-same-spot/",
-      "publish_time": "2026-07-28T19:35:30+08:00",
-      "summary": "南非摄影师克里斯·法洛斯去年年底在开普敦附近水域目睹近300头座头鲸聚集的超级群体，这是罕见的壮观景象",
-      "recommendation": "罕见座头鲸超级群体实拍，提供野外动物摄影的构图与时机参考，300头聚集数据对生态摄影爱好者有独特价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Captures Nearly 300 Humpback Whales Gathered in the Same Spot"
-    },
-    {
-      "id": "recvqGfQ9dXkgc",
-      "title": "这款由苹果传奇设计师Jony Ive设计的超稀有徕卡镜头原型即将拍卖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-ultra-rare-leica-lens-prototype-was-designed-by-apple-legend-jony-ive-and-now-it-is-heading-to-auction",
-      "publish_time": "2026-07-28T19:00:00+08:00",
-      "summary": "苹果传奇设计师Jony Ive设计的超稀有徕卡APO-Summicron-M 50mm f/2 ASPH RED镜头原型即将拍卖",
-      "recommendation": "文章披露Jony Ive与徕卡合作设计的50mm f/2镜头原型拍卖信息，含独特工业设计细节与稀缺性数据，适合收藏与设计爱好者了解跨界合作案例。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This ultra-rare Leica lens prototype was designed by Apple legend Jony Ive – and now it is heading to auction"
-    },
-    {
-      "id": "recvqGfSLSGTaz",
-      "title": "松下Lumix S9相机套装价格暴跌至历史最低",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-panasonic-lumix-s9-camera-bundle-just-crashed-to-its-lowest-ever-price",
-      "publish_time": "2026-07-28T18:56:15+08:00",
-      "summary": "松下Lumix S9相机套装价格暴跌至历史最低，附带镜头，创下新低价。",
-      "recommendation": "松下S9套装价格创历史新低，含镜头数据，适合预算有限的全画幅入门用户。常规价格资讯，可了解市场动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Panasonic Lumix S9 camera bundle just crashed to its LOWEST-EVER price"
     }
   ]
 }
