@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-09T21:36:32.579708+08:00",
+    "updated_at": "2026-08-10T03:17:07.116957+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 32
+      "count": 33
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 93
+      "count": 94
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,128 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 45
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 384
+      "count": 383
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 157
+      "count": 156
     }
   ],
   "articles": [
+    {
+      "id": "recvrPre8wtxav",
+      "title": "终极混合相机背包？Lowepro发布FastPack IV系列",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/the-ultimate-hybrid-camera-backpack-lowepro-unveils-the-fastpack-iv-lineup/",
+      "publish_time": "2026-08-10T02:24:52+08:00",
+      "summary": "Lowepro发布FastPack IV系列相机背包，含BP 150、250、450型号，全背开合设计，灵活内部结构可转换，环保材料，现可预订。",
+      "recommendation": "Lowepro FastPack IV系列全背开合与可转换内胆设计，对摄影背包选购具参考价值，环保材料信息可关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Ultimate Hybrid Camera Backpack? Lowepro Unveils the FastPack IV Lineup"
+    },
+    {
+      "id": "recvrPrgITi2rh",
+      "title": "代代相传的文化遗产。在塞尔希培的Lambe Sujo和Caboclinhos节庆中心，一个男孩透过其文化遗产的镜头望向世界，摄影师谈及这幅屡获殊荣的街头摄影作品。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-cultural-legacy-passed-down-from-generation-to-generation-at-the-heart-of-the-lambe-sujo-and-caboclinhos-festival-in-sergipe-a-boy-looks-out-at-the-world-through-the-lens-of-his-heritage-says-photographer-about-multi-award-winning-street-shot",
+      "publish_time": "2026-08-10T02:15:00+08:00",
+      "summary": "塞尔希培节庆中心男孩透过文化遗产望向世界，黑白照片记录巴西殖民痛苦历史，摄影师谈获奖街头摄影作品。",
+      "recommendation": "以获奖街头摄影为引，解析黑白影像如何承载殖民历史与文化记忆，对人文纪实爱好者有构图与叙事启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"A cultural legacy passed down from generation to generation. At the heart of the Lambe Sujo and Caboclinhos Festival in Sergipe, a boy looks out at the world through the lens of his heritage,\" says photographer about multi-award-winning street shot"
+    },
+    {
+      "id": "recvrProIYDBDX",
+      "title": "并非笔误：苹果已将尼康Z70从授权ProRes产品列表中移除",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/09/not-a-typo-apple-removed-the-nikon-z70-listing-from-the-authorized-prores-products.aspx/",
+      "publish_time": "2026-08-10T02:06:10+08:00",
+      "summary": "苹果从ProRes授权列表中移除尼康Z70，非笔误，引发对Z70相机发布的猜测。",
+      "recommendation": "苹果移除尼康Z70的ProRes授权，或暗示新机规格变动。对关注尼康全幅微单视频性能的影友，此细节值得追踪。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Not a typo: Apple removed the Nikon Z70 listing from the authorized ProRes products"
+    },
+    {
+      "id": "recvrPrlUTaX16",
+      "title": "Redmi K100 Pro、Galaxy S27、Pixel 11规格泄露，第32周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_k100_pro_galaxy_s27_pixel_11_specs_leak_week_32_in_review_-news-74073.php",
+      "publish_time": "2026-08-10T01:09:02+08:00",
+      "summary": "小米将发布Redmi K100 Pro及Pro Max，配置185Hz屏、骁龙8 Elite Gen 5 V芯片、9000mAh电池及潜望长焦，一加北美库存售罄。",
+      "recommendation": "汇总Redmi K100 Pro等旗舰影像配置，含潜望长焦与芯片规格，适合关注安卓旗舰影像演进的用户快速获取行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Redmi K100 Pro, Galaxy S27, Pixel 11 specs leak, Week 32 in review"
+    },
+    {
+      "id": "recvrPrjpbwuex",
+      "title": "独家：GoPro自Hero4起就梦想可换镜头，如今无反GoPro终于成真。品牌谈及ILS原型及新相机真正面向的用户",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/exclusive-gopro-has-been-dreaming-of-swappable-lenses-since-the-hero4-and-now-a-mirrorless-gopro-is-finally-happening-the-brand-talks-ils-prototypes-and-who-the-upcoming-camera-is-really-for",
+      "publish_time": "2026-08-09T23:20:00+08:00",
+      "summary": "GoPro自Hero4起梦想可换镜头，如今无反相机Mission 1 ILS成真，但非适合所有创作者，专访揭示其原型差异及目标用户群体。",
+      "recommendation": "独家专访揭示GoPro可换镜头无反原型与量产差异，剖析目标用户定位，对关注运动相机与无反跨界融合的玩家有独特参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "EXCLUSIVE: GoPro has been dreaming of swappable lenses since the Hero4, and now a mirrorless GoPro is finally happening.The brand talks ILS prototypes and who the upcoming camera is really for"
+    },
+    {
+      "id": "recvrPrrdOVHeE",
+      "title": "Fred Miranda评测：福伦达Nokton Classic 35mm f/1.4尼康Z卡口镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/09/voigtlander-nokton-classic-35mm-f-1-4-lens-for-nikon-z-mount-review-by-fred-miranda.aspx/",
+      "publish_time": "2026-08-09T23:04:08+08:00",
+      "summary": "福伦达Nokton Classic 35mm f/1.4尼康Z卡口镜头评测，强调渲染与拍摄体验优先于光学校正，在尼康生态中独树一帜。",
+      "recommendation": "评测聚焦渲染与拍摄体验，对比尼康Z卡口主流镜头，提供实拍样张与光学特性分析，适合追求个性成像的摄影爱好者参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Voigtlander Nokton Classic 35mm f/1.4 lens for Nikon Z-mount review by Fred Miranda"
+    },
+    {
+      "id": "recvrPrbehPQxJ",
+      "title": "宾得若重蹈覆辙，其单反梦想恐难成真",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/09/pentaxs-dslr-dreams-wont-come-true-if-it-does-the-same-old-thing/",
+      "publish_time": "2026-08-09T23:00:09+08:00",
+      "summary": "宾得面临挑战，母公司理光仍支持其单反业务，但市场对新单反需求低迷，恐难实现梦想。",
+      "recommendation": "剖析宾得单反困境与理光决策，提供市场数据与行业视角，助影像爱好者理解单反未来走向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Pentax’s DSLR Dreams Won’t Come True if It Does the Same Old Thing"
+    },
     {
       "id": "recvrO3kvyqCt9",
       "title": "纪实摄影80年：揭示英伦三岛的另一面",
@@ -7657,113 +7765,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Cooke SP3 & AP3 cinema lenses now available also for Nikon Z-mount"
-    },
-    {
-      "id": "recvqHtvmpNwP8",
-      "title": "GoPro的处境雪上加霜",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/things-go-from-bad-to-worse-for-gopro/",
-      "publish_time": "2026-07-28T23:21:02+08:00",
-      "summary": "GoPro发布新运动相机Mission 1 Pro，但因财务困境不符合纳斯达克上市要求，处境雪上加霜。",
-      "recommendation": "解析GoPro财务危机与新品Mission 1 Pro的冲突，揭示运动相机市场困境，提供行业财务数据与产品策略的深度关联分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Things Go From Bad to Worse for GoPro"
-    },
-    {
-      "id": "recvqGfG1Rgw4E",
-      "title": "这些全画幅单反传奇依然提供专业级画质，但价格仅为发布时的零头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/these-full-frame-dslr-legends-still-deliver-pro-level-results-but-for-a-fraction-of-the-cameras-launch-prices",
-      "publish_time": "2026-07-28T22:46:22+08:00",
-      "summary": "佳能尼康旗舰全画幅单反大幅降价，仍提供专业级画质，价格仅为发布时零头",
-      "recommendation": "提供全画幅单反降价后的性价比分析，含具体机型价格对比与画质评估，适合预算有限但追求专业画质的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These full-frame DSLR legends still deliver pro-level results, but for a fraction of the cameras' launch prices"
-    },
-    {
-      "id": "recvqGfIFSUG0W",
-      "title": "从大萧条到日裔美国人拘禁，多萝西娅·兰格的相机见证了美国历史上一些最黑暗的时刻",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/from-the-great-depression-to-japanese-american-internment-dorothea-langes-camera-bore-witness-to-some-of-the-darkest-moments-in-us-history",
-      "publish_time": "2026-07-28T22:42:05+08:00",
-      "summary": "多萝西娅·兰格回顾展纪念这位20世纪最具道德紧迫感的摄影师，其相机记录了大萧条和日裔美国人拘禁等美国历史黑暗时刻。",
-      "recommendation": "通过兰格相机见证大萧条与日裔拘禁史，解析纪实摄影的社会伦理与视觉叙事，对理解摄影的公共价值有独特启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "From the Great Depression to Japanese-American internment, Dorothea Lange's camera bore witness to some of the darkest moments in US history"
-    },
-    {
-      "id": "recvqHtxMzIk0Y",
-      "title": "佳能相机利润飙升，紧凑型相机功不可没",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/canons-camera-profits-skyrocketed-thanks-to-compact-cameras/",
-      "publish_time": "2026-07-28T22:33:41+08:00",
-      "summary": "佳能第二季度财报显示利润飙升，紧凑型相机成为主要增长动力，推动公司业绩超预期。",
-      "recommendation": "财报数据揭示紧凑型相机逆势增长，对关注市场趋势的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon’s Camera Profits Skyrocketed Thanks to Compact Cameras"
-    },
-    {
-      "id": "recvqHtAdXkbeV",
-      "title": "Xtra称正与FCC就罚款及潜在禁令进行谈判",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/xtra-says-its-in-talks-with-the-fcc-about-fines-and-potential-bans/",
-      "publish_time": "2026-07-28T22:30:35+08:00",
-      "summary": "Xtra发布声明，称正与FCC就罚款及潜在禁令谈判，并向客户保证现有产品在FCC审查后将继续获得全面支持。",
-      "recommendation": "常规资讯，可了解行业动态。涉及FCC监管对影像产品的影响，但缺乏具体罚款细节或对相机功能的直接关联。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Xtra Says It’s in Talks With the FCC About Fines and Potential Bans"
-    },
-    {
-      "id": "recvqGfLjwp92C",
-      "title": "Mission 1 Pro是有史以来最好的GoPro。但对于陷入困境的运动相机巨头来说，这可能还不够，因为它收到了第二次股市警告",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-mission-1-pro-is-the-best-gopro-yet-it-may-not-be-enough-as-struggling-action-camera-giant-gets-second-stock-market-warning",
-      "publish_time": "2026-07-28T22:06:16+08:00",
-      "summary": "GoPro推出史上最佳运动相机Mission 1 Pro，但股价持续低迷，面临第二次退市警告，若未回升可能退市甚至破产",
-      "recommendation": "文章揭示GoPro最佳产品Mission 1 Pro与股价危机的矛盾，提供运动相机行业困境的深度视角，对关注品牌动向的影像爱好者有独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Mission 1 Pro is the best GoPro yet. It may not be enough as struggling action camera giant gets second stock market warning"
-    },
-    {
-      "id": "recvqGfxFU5MkC",
-      "title": "确认：索尼下周8月4日发布新品！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/confirmed-new-sony-announcement-next-week-on-august-4/",
-      "publish_time": "2026-07-28T21:53:07+08:00",
-      "summary": "索尼确认8月4日发布新品，包括100-400mm f/5.6-8.0 FE镜头，售价899欧元，轻量化黑色设计，其他产品待定。",
-      "recommendation": "索尼100-400mm f/5.6-8.0 FE镜头定价899欧元，轻量化设计是亮点，适合长焦需求用户。常规新品预告，可关注后续规格细节。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Confirmed: New Sony announcement next week on August 4!"
     }
   ]
 }
