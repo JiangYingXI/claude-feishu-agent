@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-09T10:40:27.754396+08:00",
+    "updated_at": "2026-08-09T15:38:06.797860+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -33,7 +33,7 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 387
+      "count": 388
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,52 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvrMBqoC6SCG",
+      "title": "如何在没有Lightroom或Photoshop的情况下编辑照片",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/09/how-to-edit-your-photos-without-lightroom-or-photoshop/",
+      "publish_time": "2026-08-09T15:00:00+08:00",
+      "summary": "本文介绍无需Photoshop和Lightroom的替代照片编辑工具，提供更多选择，简化编辑流程，帮助摄影师轻松完成照片编辑。",
+      "recommendation": "针对无Adobe工具用户的实用指南，梳理多款免费替代软件，附操作流程简化建议，适合预算有限的影像爱好者拓展工作流。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "How to Edit Your Photos Without Lightroom or Photoshop"
+    },
+    {
+      "id": "recvrMBnSHAIqD",
+      "title": "徕卡SL不再是市场上最昂贵的相机。佳能、尼康和索尼都有价格与徕卡相当或更高的相机。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/the-leica-sl-is-not-the-most-expensive-camera-on-the-market-any-more-canon-nikon-and-sony-all-have-cameras-that-cost-as-much-or-more-than-a-leica",
+      "publish_time": "2026-08-09T14:15:00+08:00",
+      "summary": "徕卡SL降价，佳能、尼康、索尼有同等或更贵机型。Andrea Pacella称百万像素竞赛结束，讨论中画幅相机、M EV1及制造商联盟重要性。",
+      "recommendation": "分析徕卡SL降价后市场格局，对比佳能尼康索尼定价，提供中画幅与联盟趋势的行业洞察，助你把握高端相机价格动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"The Leica SL is not the most expensive camera on the market any more. Canon, Nikon and Sony all have cameras that cost as much or more than a Leica\""
+    },
+    {
+      "id": "recvrMBsLN4TUb",
+      "title": "黑白摄影师信赖的4款相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/09/4-cameras-black-and-white-photographers-swear-by/",
+      "publish_time": "2026-08-09T12:00:00+08:00",
+      "summary": "黑白摄影广受喜爱，能增强氛围质感。本文介绍4款深受黑白摄影师信赖的相机，涵盖人像、街头、风景等场景，突出其单色表现力与核心技术优势。",
+      "recommendation": "从单色表现力切入，解析四款相机在人像、街头、风景场景的实战优势，含传感器与算法细节，适合黑白摄影爱好者选机参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "4 Cameras Black and White Photographers Swear By"
+    },
     {
       "id": "recvrLomRv1mhe",
       "title": "野火火焰距我家前门仅一英里，但若保持安全理智，拍照机会难得",
@@ -7718,51 +7764,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "This Panasonic Lumix S9 camera bundle just crashed to its LOWEST-EVER price"
-    },
-    {
-      "id": "recvqHtHJnfQg6",
-      "title": "游客在奥斯维辛拍照后引发争议",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/viral-video-of-tourists-doing-a-photo-shoot-in-front-of-auschwitz-nazi-germany-concentration-camp-holocaustsparks-outrage/",
-      "publish_time": "2026-07-28T18:55:33+08:00",
-      "summary": "游客在奥斯维辛集中营入口拍照引发公众强烈反对，该集中营是前德国纳粹最大集中营",
-      "recommendation": "探讨集中营拍照伦理，为摄影爱好者提供历史场景拍摄的边界思考，非技术但具人文深度。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tourists Face Criticism After Photo Shoot at Auschwitz Goes Viral"
-    },
-    {
-      "id": "recvqGfVaE4g4u",
-      "title": "Harley Weir拍摄的Charli XCX肖像拒绝成为典型的流行明星照片，这正是它如今被伦敦国家肖像馆收藏的原因",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/this-charli-xcx-portrait-by-harley-weir-refuses-to-be-a-typical-pop-star-photo-and-thats-precisely-why-it-now-belongs-in-londons-national-portrait-gallery",
-      "publish_time": "2026-07-28T18:50:22+08:00",
-      "summary": "Harley Weir拍摄的Charli XCX肖像因捕捉音乐家亲密时刻而拒绝典型流行明星照片，被伦敦国家肖像馆收藏",
-      "recommendation": "解析Harley Weir如何用亲密瞬间打破流行明星肖像套路，揭示摄影美学中真实性的价值，对理解人像创作有启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Charli XCX portrait by Harley Weir refuses to be a typical pop star photo, and that's precisely why it now belongs in London's National Portrait Gallery"
-    },
-    {
-      "id": "recvqHtKhLuVlz",
-      "title": "报告称Meta在华合作伙伴为“脱衣”应用投放数千条广告",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/metas-partner-in-china-placed-thousands-of-ads-for-nudify-apps-report-says/",
-      "publish_time": "2026-07-28T18:46:15+08:00",
-      "summary": "Meta在华合作伙伴投放数千条广告推广“脱衣”应用，涉及Facebook和Instagram平台。",
-      "recommendation": "揭示Meta在华合作伙伴利用影像平台推广违规应用，对关注平台内容审核与广告合规的影像爱好者有行业警示价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Meta’s Partner in China Placed Thousands of Ads for Nudify Apps, Report Says"
     }
   ]
 }
