@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-10T03:17:07.116957+08:00",
+    "updated_at": "2026-08-10T10:47:44.664384+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 94
+      "count": 93
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 13
+      "count": 14
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,77 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 383
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 156
+      "count": 159
     }
   ],
   "articles": [
+    {
+      "id": "recvrRgSOjQnow",
+      "title": "尼康新闻周刊第898期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/09/weekly-nikon-news-flash-898.aspx/",
+      "publish_time": "2026-08-10T08:52:58+08:00",
+      "summary": "尼康新闻周刊第898期报道夏季促销，使用优惠码SUMMER25OFF可享25%折扣；思锐9月发布尼康Z卡口Saturn V2全画幅变形镜头；另有Luminar更新及尼康紧凑型全画幅相机传闻。",
+      "recommendation": "涵盖尼康促销、思锐Z卡口变形镜头及全画幅相机传闻，对关注副厂镜头与新品动态的玩家有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #898"
+    },
+    {
+      "id": "recvrRgKz3Mhsz",
+      "title": "富士胶片真实版“色彩狩猎”两天售罄——但或许能启发你组织自己的摄影探索",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/street-photography/fujifilms-real-life-color-hunt-sells-out-in-2-days-but-maybe-it-can-inspire-you-to-organize-your-own-photographic-quest",
+      "publish_time": "2026-08-10T08:10:00+08:00",
+      "summary": "富士胶片举办现实色彩狩猎活动，寻找澳大利亚最常被拍摄的颜色，两天售罄，启发个人摄影探索。",
+      "recommendation": "从富士色彩狩猎活动切入，提供组织个人摄影探索的实操思路，兼具行业观察与创作启发。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm’s real-life “color hunt” sells out in 2 days – but maybe it can inspire you to organize your own photographic quest"
+    },
+    {
+      "id": "recvrRgNegk1Lb",
+      "title": "放下一切！这些冲浪狗狗是本周世界需要的心灵治愈照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/pet-photography/drop-everything-these-surfing-dogs-are-the-feel-good-photos-the-world-needs-this-week",
+      "publish_time": "2026-08-10T05:20:00+08:00",
+      "summary": "冲浪狗狗穿着戏服享受生活，带来心灵治愈，是本周世界需要的可爱照片。",
+      "recommendation": "冲浪狗狗萌态可掬，但影像价值有限。可观察运动抓拍与戏服细节，常规资讯，了解动态即可。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Drop everything! These surfing dogs are the feel-good photos the world needs this week"
+    },
+    {
+      "id": "recvrRgQ5BSP9f",
+      "title": "HDR是富士胶片的下一个前沿。困难的部分已经完成",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/hdr-is-fujifilms-next-frontier-the-hard-part-is-already-done/",
+      "publish_time": "2026-08-10T03:57:19+08:00",
+      "summary": "富士相机已具备HDR拍摄能力，通过欠曝保护高光、10位静态图像和HLG曲线，但缺少输出文件。文章指出DR400模式欠曝两档并强制ISO，核心价值在于揭示HDR实现的最后一步。",
+      "recommendation": "深度解析富士HDR技术路径，揭示DR400欠曝与HLG曲线结合的关键缺口，对计算摄影爱好者有明确技术参考价值。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "HDR Is Fujifilm’s Next Frontier. The Hard Part Is Already Done"
+    },
     {
       "id": "recvrPre8wtxav",
       "title": "终极混合相机背包？Lowepro发布FastPack IV系列",
@@ -211,6 +273,22 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Curiosity: Full Sony A7rIV teardown by Kolarivision"
+    },
+    {
+      "id": "recvrRgHNKlTwu",
+      "title": "好奇号：Kolarivision 对索尼 A7rVI 的完整拆解",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
+      "publish_time": "2026-08-09T20:11:10+08:00",
+      "summary": "索尼A7rVI在多家商店有售，Kolarivision展示了其内部结构，拆解难度与其他索尼相机相当。",
+      "recommendation": "拆解揭示A7rVI内部结构与工艺，传感器布局和散热设计有直观呈现，适合关注相机可靠性与维护成本的影像爱好者。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Curiosity: Full Sony A7rVI teardown by Kolarivision"
     },
     {
       "id": "recvrO3nG8X5r1",
@@ -7687,84 +7765,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "\"The world's cutest collab\" –This compact camera is going to be an absolutely massive hit"
-    },
-    {
-      "id": "recvqHtUsnJai8",
-      "title": "日本7.1级地震冲击相机传感器制造核心区域，索尼、富士胶片工厂紧急疏散",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/japans-7-1-magnitude-earthquake-hit-a-key-region-for-camera-sensor-manufacturing-as-sony-fujifilm-plants-evacuate",
-      "publish_time": "2026-07-29T00:04:48+08:00",
-      "summary": "日本7.1级地震冲击图像传感器制造核心区域，索尼、富士胶片工厂紧急疏散，台积电等受影响。",
-      "recommendation": "地震冲击索尼、富士传感器核心产线，揭示相机供应链脆弱性，对关注CMOS产能与相机涨价的用户有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Japan’s 7.1-magnitude earthquake hit a key region for camera sensor manufacturing as Sony, Fujifilm plants evacuate"
-    },
-    {
-      "id": "recvqHuitaegoc",
-      "title": "富士胶片价格将于今年9月在德国再次上涨",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/28/fujifilm-prices-are-apparently-going-up-again-this-september-in-germany/",
-      "publish_time": "2026-07-29T00:00:00+08:00",
-      "summary": "富士胶片计划于今年9月在德国再次上调相机价格，受关税及芯片价格上涨影响。",
-      "recommendation": "富士胶片在德国再次涨价，受关税与芯片成本影响，为影像爱好者提供行业价格趋势参考，含具体时间与原因。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm Prices Are Apparently Going Up Again This September in Germany"
-    },
-    {
-      "id": "recvqHtsO1JEzD",
-      "title": "苹果凭借AI策略成为5万亿美元公司",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/apple-became-a-5-trillion-company-thanks-to-its-approach-to-ai/",
-      "publish_time": "2026-07-28T23:42:59+08:00",
-      "summary": "苹果凭借AI策略市值突破5万亿美元，成为全球第二家达到该里程碑的公司，仅次于英伟达。",
-      "recommendation": "分析苹果AI战略对影像计算摄影的潜在影响，提供市值突破5万亿的行业数据，适合关注手机影像技术趋势的读者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Apple Became a $5 Trillion Company Thanks to Its Approach to AI"
-    },
-    {
-      "id": "recvqHudHoWDHB",
-      "title": "DJI Osmo Pocket 4P双摄工作实录：首批样片展示",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/samples/dji-osmo-pocket-4p-sample-footage-dlog2-dual-cameras/",
-      "publish_time": "2026-07-28T23:33:02+08:00",
-      "summary": "本文展示DJI Osmo Pocket 4P双摄首批样片，使用大疆新D-Log2拍摄大量素材，突出其核心价值。",
-      "recommendation": "首批D-Log2样片展示Osmo Pocket 4P双摄实拍表现，提供动态范围与色彩还原的独家数据，适合关注口袋相机画质的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The DJI Osmo Pocket 4P’s dual cameras at work: our first sample footage"
-    },
-    {
-      "id": "recvqHubn4kstz",
-      "title": "Cooke SP3和AP3电影镜头现已推出尼康Z卡口版本",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/28/cooke-sp3-ap3-cinema-lenses-now-available-also-for-nikon-z-mount.aspx/",
-      "publish_time": "2026-07-28T23:22:54+08:00",
-      "summary": "Cooke SP3和AP3电影镜头推出尼康Z卡口版本，用户可互换卡口系统支持轻松切换，新购镜头免费获第二卡口。",
-      "recommendation": "Cooke电影镜头适配尼康Z卡口，卡口互换系统为视频创作者提供灵活方案，新购用户免费获第二卡口是独特福利。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Cooke SP3 & AP3 cinema lenses now available also for Nikon Z-mount"
     }
   ]
 }
