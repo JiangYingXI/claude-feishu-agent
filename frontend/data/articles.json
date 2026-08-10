@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-10T16:20:04.630478+08:00",
+    "updated_at": "2026-08-10T22:03:00.581352+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 33
+      "count": 32
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 93
+      "count": 94
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,149 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 159
+      "count": 158
     }
   ],
   "articles": [
+    {
+      "id": "recvrU0zJ8udxh",
+      "title": "瞬间与独特视角：2026年纯粹街头摄影奖获奖作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/fleeting-moments-and-unusual-perspectives-pure-street-photography-awards-2026-winners/",
+      "publish_time": "2026-08-10T21:23:49+08:00",
+      "summary": "2026年纯粹街头摄影奖揭晓，表彰真实、观察和人文关怀的摄影作品。",
+      "recommendation": "街头摄影奖作品展示真实瞬间与人文视角，含拍摄参数与构图解析，对提升观察力与街拍技巧有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fleeting Moments and Unusual Perspectives: Pure Street Photography Awards 2026 Winners"
+    },
+    {
+      "id": "recvrU0Ch9yYgO",
+      "title": "前后对比照片显示SpaceX火箭在月球上留下的撞击坑",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/before-and-after-photos-show-crater-left-after-spacex-rocket-crashed-into-the-moon/",
+      "publish_time": "2026-08-10T21:10:08+08:00",
+      "summary": "失控的SpaceX火箭撞击月球留下陨石坑，前后对比照片公布，展示撞击影响。",
+      "recommendation": "天基影像对比揭示撞击坑形态变化，展示轨道遥感在事件监测中的应用，对关注太空摄影与遥感技术的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Before-and-After Photos Show the Crater Left by SpaceX Rocket on the Moon"
+    },
+    {
+      "id": "recvrU0Og8zGTo",
+      "title": "富士龙XF400mm f/4.5 R LM OIS WR：迄今最精准的视野",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujinon-xf400mm-f-4-5-r-lm-ois-wr-your-most-accurate-look-yet/",
+      "publish_time": "2026-08-10T21:08:15+08:00",
+      "summary": "富士龙XF400mm f/4.5 R LM OIS WR镜头，由富士胶卷读者Hiergeist创作渲染图，展示完整镜头列表及未来概念尺寸，提供精准视野。",
+      "recommendation": "渲染图展示富士超长焦概念尺寸，为生态与体育摄影提供镜头选型参考，属常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Fujinon XF400mm f/4.5 R LM OIS WR: Your Most Accurate Look Yet"
+    },
+    {
+      "id": "recvrU0Qvf9uXe",
+      "title": "尼康600mm f6.3镜头受鸟类摄影爱好者青睐，现已停产",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/10/the-nikon-600mm-f6-3-popular-with-birders-gets-suspended/",
+      "publish_time": "2026-08-10T21:00:00+08:00",
+      "summary": "尼康600mm f6.3镜头因受鸟类摄影爱好者青睐而停产，自8月起暂停订单，原因待探。",
+      "recommendation": "长焦镜头停产动向牵动鸟摄用户，解析供需变化与行业信号，助你把握器材行情。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Nikon 600mm f6.3, Popular With Birders, Gets Suspended"
+    },
+    {
+      "id": "recvrU0EwCUdvp",
+      "title": "Meta因新墨西哥州儿童安全案被判赔5.67亿美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/meta-ordered-to-pay-567-million-in-new-mexico-child-safety-case/",
+      "publish_time": "2026-08-10T20:15:53+08:00",
+      "summary": "新墨西哥州法院判Meta支付5.67亿美元，因其平台伤害年轻人，系针对Instagram和Facebook母公司儿童安全的最大罚款。",
+      "recommendation": "常规资讯，可了解行业动态。Meta巨额罚款或影响其影像社交平台算法与青少年内容策略，间接关联手机影像分享生态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meta Ordered to Pay $567 Million in New Mexico Child Safety Case"
+    },
+    {
+      "id": "recvrU0GKabdxq",
+      "title": "英国场馆集体禁用Meta智能眼镜",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/uk-venues-ban-meta-smart-glasses-en-masse/",
+      "publish_time": "2026-08-10T18:19:27+08:00",
+      "summary": "英国多家场馆因担心Meta智能眼镜被用于秘密录制，集体宣布禁用该设备。",
+      "recommendation": "智能眼镜录制引发隐私争议，影像爱好者需关注设备使用边界与场馆新规，了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "UK Venues Ban Meta Smart Glasses En Masse"
+    },
+    {
+      "id": "recvrU0SWMoluo",
+      "title": "摄影专业服务真的浪费钱吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/10/are-photography-pro-services-really-a-waste-of-money/",
+      "publish_time": "2026-08-10T18:00:00+08:00",
+      "summary": "文章探讨摄影专业服务是否值得，作者从追求到质疑，认为保修无用，但专业服务提供维修便利，核心价值在于服务而非设备。",
+      "recommendation": "从追求到质疑，剖析摄影专业服务真实价值，指出核心在于服务而非设备，为影像爱好者提供实用消费决策参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Are Photography Pro Services Really a Waste of Money?"
+    },
+    {
+      "id": "recvrU0JglyZmw",
+      "title": "Dustin Abbott、Dpreview、PcMag 对索尼 A7rVI 的新评测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-sony-a7rvi-reviews-from-dustin-abbott-dpreview-pcmag/",
+      "publish_time": "2026-08-10T17:59:10+08:00",
+      "summary": "索尼A7rVI评测：高分辨率全画幅，动态范围出色，视频功能改进，速度更快，分辨率更高。",
+      "recommendation": "三家权威媒体联合评测，聚焦A7rVI高像素与动态范围实测数据，视频性能改进有具体对比，对高分辨率机型选购有参考价值。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "New Sony A7rVI reviews from Dustin Abbott, Dpreview, PcMag"
+    },
+    {
+      "id": "recvrU0LJ9wX6w",
+      "title": "性价比最高的无反相机又降价了，其中一款还附赠镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/the-best-value-mirrorless-cameras-just-got-even-cheaper-and-one-comes-with-a-free-lens",
+      "publish_time": "2026-08-10T17:56:59+08:00",
+      "summary": "无反相机降价，性价比高，入门仅需649英镑含镜头，适合摄影新手或换系统者。",
+      "recommendation": "常规资讯，可了解行业动态。含具体降价幅度与入门机型价格，对预算有限的摄影新手有参考价值，但缺乏独家数据与深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The best-value mirrorless cameras just got even cheaper and one comes with a free lens"
+    },
     {
       "id": "recvrSCsoUYuXR",
       "title": "iQOO Neo11 Ultra与Z11s下周发布，设计揭晓",
@@ -7624,146 +7763,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "New leak claims the Pixel 11 and Pixel 11 Pro may actually be cheaper than their predecessors"
-    },
-    {
-      "id": "recvqJo9nAIAiK",
-      "title": "荣耀即将推出的机器人手机看起来像大疆Osmo Pocket和智能手机的结合体——首款与电影巨头阿莱合作打造的智能手机即将发布",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/honors-upcoming-robot-phone-looks-like-the-dji-osmo-pocket-and-a-smartphone-had-a-baby-and-the-first-smartphone-built-with-cinema-giant-arri-is-prepping-for-launch",
-      "publish_time": "2026-07-29T04:26:01+08:00",
-      "summary": "荣耀将推机器人手机，结合大疆Osmo Pocket与智能手机，首款与阿莱合作，传感器尺寸等细节公布",
-      "recommendation": "首款与阿莱合作的手机影像系统，结合云台结构，传感器尺寸等关键参数曝光，对关注计算摄影与移动影像创新的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Honor’s upcoming Robot Phone looks like the DJI Osmo Pocket and a smartphone had a baby – and the first smartphone built with cinema giant Arri is prepping for launch"
-    },
-    {
-      "id": "recvqJnVtmWJno",
-      "title": "这款新望远镜配备编织背带，专为鸟类摄影师设计",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/these-new-binoculars-have-woven-straps-perfect-for-bird-photographers/",
-      "publish_time": "2026-07-29T04:20:36+08:00",
-      "summary": "Nocs Provisions与奥杜邦学会合作推出限量版双筒望远镜，配备鸟纹编织挂绳，专为鸟类摄影师设计，融合现代光学与保护理念。",
-      "recommendation": "鸟类摄影爱好者可了解Nocs与奥杜邦联名望远镜的鸟纹挂绳设计，融合光学与保护理念，属常规产品资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "These New Binoculars Have Woven Straps Perfect for Bird Photographers"
-    },
-    {
-      "id": "recvqJnYzJ3nRk",
-      "title": "PlantCam：一款专为植物设计的延时摄影相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/plantcam-is-a-timelapse-camera-for-you-guessed-it-your-plants/",
-      "publish_time": "2026-07-29T04:19:39+08:00",
-      "summary": "PlantCam推出紧凑型延时摄影相机和应用程序，专为监测植物生长设计，提供记录植物随时间变化的新方式。",
-      "recommendation": "聚焦植物延时摄影这一细分场景，解析PlantCam的硬件设计与应用逻辑，为影像爱好者提供记录植物生长的实用方案与设备参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "PlantCam Is a Timelapse Camera for, You Guessed It, Your Plants"
-    },
-    {
-      "id": "recvqJo6LIKqit",
-      "title": "WhatsApp Web 终于支持音频和视频通话",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/whatsapp_web_finally_gets_support_for_audio_and_video_calls-news-73910.php",
-      "publish_time": "2026-07-29T04:01:01+08:00",
-      "summary": "WhatsApp Web 新增音频和视频通话功能，无需下载，支持端到端加密、屏幕共享、消息反应及通话记录，无时间限制和费用，可跨设备转移通话。",
-      "recommendation": "常规资讯，可了解行业动态。虽非影像核心内容，但端到端加密通话与屏幕共享功能为影像创作者提供远程协作新场景。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "WhatsApp Web finally gets support for audio and video calls"
-    },
-    {
-      "id": "recvqHtqamF7xt",
-      "title": "每月12美元起，可租赁新款iPhone、iPad或Mac",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/28/you-can-lease-a-new-iphone-ipad-or-mac-starting-at-12-a-month/",
-      "publish_time": "2026-07-29T03:51:37+08:00",
-      "summary": "苹果推出Apple Upgrade租赁计划，每月12美元起可租新款iPhone、iPad或Mac，通过Klarna向美国客户提供",
-      "recommendation": "苹果租赁计划降低影像设备试用门槛，但未涉及影像性能或镜头数据，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "You Can Lease a New iPhone, iPad, or Mac Starting at $12 a Month"
-    },
-    {
-      "id": "recvqJo1lOCheq",
-      "title": "新优惠：思锐镜头、Wandrd背包和绿联配件最高可省70%",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-deals-save-up-to-70-on-sirui-lenses-save-big-on-ugreen-stuff/",
-      "publish_time": "2026-07-29T03:29:58+08:00",
-      "summary": "新优惠：思锐镜头、Wandrd背包和绿联配件最高可省70%，折扣自动应用。",
-      "recommendation": "思锐镜头、Wandrd背包及绿联配件折扣信息汇总，最高省70%，适合影像爱好者低成本补充拍摄装备，属常规促销资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New deals: Save up to 70% on Sirui lenses, Wandrd bags and Ugreen gear"
-    },
-    {
-      "id": "recvqHug2XSCjo",
-      "title": "人像摄影师三主灯指南",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/28/a-portrait-photographers-guide-to-the-three-main-lights/",
-      "publish_time": "2026-07-29T03:00:00+08:00",
-      "summary": "人像摄影师三主灯指南打破黄金时刻限制，提供正午阳光下的拍摄技巧，核心价值在于克服自然光限制，掌握多灯布光技术。",
-      "recommendation": "打破黄金时刻限制，详解正午多灯布光技术，提供克服自然光限制的实战技巧，适合人像摄影师提升全天候拍摄能力。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A Portrait Photographer’s Guide to the Three Main Lights"
-    },
-    {
-      "id": "recvqHu8GnheBj",
-      "title": "尼康Z6III相机DIY手柄",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/28/dyi-handgrip-for-nikon-z6iii-cameras.aspx/",
-      "publish_time": "2026-07-29T02:41:21+08:00",
-      "summary": "德国读者Johann F. Saba为尼康Z6III自制手柄，通过改造SmallRig笼子实现，解决了无Meike手柄替代品的问题。",
-      "recommendation": "展示尼康Z6III用户通过改造SmallRig笼子自制手柄的实操方案，提供无Meike替代品时的DIY思路与具体改造细节。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "DIY handgrip for Nikon Z6III cameras"
-    },
-    {
-      "id": "recvqHtX9oRbMD",
-      "title": "三星智能眼镜具备这一重要隐私功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsungs_smart_glasses_have_this_important_privacy_feature-news-73909.php",
-      "publish_time": "2026-07-29T02:31:02+08:00",
-      "summary": "三星AI智能眼镜搭载Android XR，配备LED指示灯，在摄像头活动时亮起，保护隐私。",
-      "recommendation": "揭示三星智能眼镜LED指示灯在摄像头活动时亮起的隐私设计，对影像爱好者了解穿戴设备拍摄伦理与隐私保护机制有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung's smart glasses have this important privacy feature"
     }
   ]
 }
