@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-11T03:38:22.370833+08:00",
+    "updated_at": "2026-08-11T10:42:06.227508+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 33
+      "count": 34
     },
     {
       "key": "镜头与光学",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 13
+      "count": 12
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,106 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 152
     }
   ],
   "articles": [
+    {
+      "id": "recvrX5WdMXhLE",
+      "title": "GoPro发布“史上最佳GoPro”，但破产风险仍在，CEO称公司正处于寻找买家的“后期阶段”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-launched-the-best-gopro-ever-but-the-risk-of-bankruptcy-remains-as-ceo-says-the-company-is-in-the-later-stages-of-looking-for-a-buyer",
+      "publish_time": "2026-08-11T07:21:30+08:00",
+      "summary": "GoPro发布史上最佳产品，但相机销量同比降38%，订阅量创纪录，CEO称公司正处寻找买家的后期阶段，破产风险仍存。",
+      "recommendation": "GoPro销量下滑与买家传闻并存，数据揭示运动相机市场困境，对关注行业走向的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "GoPro launched the “best GoPro ever,” but the risk of bankruptcy remains, as CEO says the company is in the “later stages” of looking for a buyer"
+    },
+    {
+      "id": "recvrX5Z3i9DTC",
+      "title": "突发：GoPro首款无反相机将于9月亮相——GoPro刚刚公布了Mission 1 Pro ILS的新细节",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/breaking-gopros-first-mirrorless-camera-will-debut-in-september-and-gopro-has-just-revealed-new-details-about-the-mission-1-pro-ils",
+      "publish_time": "2026-08-11T05:23:36+08:00",
+      "summary": "GoPro首款无反相机Mission 1 Pro ILS将于2026年9月上市，由CEO Nick Woodman公布，核心价值在于拓展专业摄影市场。",
+      "recommendation": "GoPro进军无反相机市场的首款产品细节曝光，含上市时间与定位分析，对关注运动相机品牌跨界动向的玩家有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "BREAKING: GoPro’s first mirrorless camera will debut in September – and GoPro has just revealed new details about the Mission 1 Pro ILS"
+    },
+    {
+      "id": "recvrX5M2IAQ3a",
+      "title": "韦伯太空望远镜助宇宙之狮咆哮生命",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/webb-space-telescope-helps-a-cosmic-lion-roar-life/",
+      "publish_time": "2026-08-11T05:01:54+08:00",
+      "summary": "韦伯太空望远镜拍摄狮子星云NGC2392新照片，展示其超越哈勃的成像能力，核心价值在于揭示宇宙生命起源。",
+      "recommendation": "韦伯新图对比哈勃，展示深空成像技术跃升，为影像爱好者提供天文摄影与传感器性能的参考数据。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Webb Space Telescope Helps a Cosmic Lion Roar Life"
+    },
+    {
+      "id": "recvrX5OJvFVRE",
+      "title": "GoPro上季度亏损5100万美元，寻求救命稻草",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/gopro-searches-for-a-lifeline-as-it-lost-51-million-last-quarter/",
+      "publish_time": "2026-08-11T05:00:14+08:00",
+      "summary": "GoPro上季度亏损5100万美元，核心数据令人担忧，公司正寻求新的增长点以扭转局面。",
+      "recommendation": "GoPro亏损数据揭示运动相机市场困境，对关注行业趋势的影像爱好者有参考价值，但缺乏独家分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "GoPro Searches for a Lifeline as It Lost $51 Million Last Quarter"
+    },
+    {
+      "id": "recvrX5RiNRUHp",
+      "title": "Sharge Disk Pro 2 旨在解决原版的所有痛点",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/the-sharge-disk-pro-2-aims-fix-every-pain-point-of-the-original/",
+      "publish_time": "2026-08-11T03:39:53+08:00",
+      "summary": "Sharge Disk Pro 2众筹即将结束，升级包括可关闭噪音风扇的开关，解决原版痛点。",
+      "recommendation": "常规资讯，可了解行业动态。文章聚焦Sharge Disk Pro 2风扇开关升级，对影像存储场景有实用参考，但缺乏深度数据与独到观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Sharge Disk Pro 2 Aims Fix Every Pain Point of the Original"
+    },
+    {
+      "id": "recvrX5TFlk2Wo",
+      "title": "索尼和台积电斥资数十亿美元制造下一代图像传感器",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
+      "publish_time": "2026-08-11T03:38:53+08:00",
+      "summary": "索尼与台积电计划2029年在日本西南部大规模生产下一代图像传感器，投资数十亿美元，旨在提升技术竞争力。",
+      "recommendation": "索尼与台积电合作细节及2029年量产时间表，揭示传感器代工格局变化，对关注影像硬件趋势者有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony and TSMC Are Spending Billions to Make Next-Gen Image Sensors"
+    },
     {
       "id": "recvrVmZ2JAIiv",
       "title": "2026年8月12日日全食将横跨西班牙——分享你的照片",
@@ -7667,99 +7758,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "DJI stock is drying up in the US, but these drone and camera deals are too good to miss!"
-    },
-    {
-      "id": "recvqM1WiUZOqe",
-      "title": "Instagram推AI视频：电影摄制组拍摄迈阿密灾难，浏览量达7亿",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/29/instagram-pushes-ai-video-of-film-crew-shooting-miami-disaster-to-700-million-views/",
-      "publish_time": "2026-07-29T19:39:05+08:00",
-      "summary": "AI生成视频在Instagram疯传，显示微缩迈阿密被巨浪摧毁及虚构摄制组拍摄，浏览量达7亿，引发对Meta推广此类内容的质疑",
-      "recommendation": "7亿浏览量案例揭示AI生成视频的传播力与争议，为影像爱好者提供计算摄影边界思考，含Meta审核机制独家数据。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Instagram Pushes AI Video of Film Crew Shooting Miami Disaster to 700 Million Views"
-    },
-    {
-      "id": "recvqM2kQFGOLx",
-      "title": "尼康D800从未被定位为专业运动相机——但下单的那一刻，它改变了我的职业生涯",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dslr-cameras/the-nikon-d800-was-never-meant-to-be-a-pro-sports-camera-but-it-changed-my-career-the-moment-i-ordered-it",
-      "publish_time": "2026-07-29T19:35:02+08:00",
-      "summary": "尼康D800虽非运动相机，但作为改变游戏规则的利器，塑造了职业体育摄影师的整个职业生涯。",
-      "recommendation": "以职业体育摄影师亲身经历，揭示D800如何突破定位限制，成为改变职业生涯的创作工具。提供非典型设备选择与实战视角，适合关注器材实战价值的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Nikon D800 was never meant to be a pro sports camera – but it changed my career the moment I ordered it"
-    },
-    {
-      "id": "recvqM267AfNoR",
-      "title": "惊人传闻：索尼计划收购腾龙？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/surprise-rumors-sony-plans-to-acquire-tamron/",
-      "publish_time": "2026-07-29T19:00:40+08:00",
-      "summary": "日本杂志《钻石》报道索尼计划以约2000亿日元收购镜头制造商腾龙，动机包括供应链防御、股东结构变化和技术协同。",
-      "recommendation": "索尼2000亿日元收购腾龙传闻，涉及供应链防御与股东结构变化，提供独家行业动态，对关注镜头市场格局的读者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Surprising rumors: Sony plans to acquire Tamron?"
-    },
-    {
-      "id": "recvqM2DbOsR3L",
-      "title": "明天在B&H Photo：尼康主办“乔·麦克纳利的人脸景观”",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/29/tomorrow-at-bh-photo-the-landscape-of-the-human-face-with-joe-mcnally-hosted-by-nikon.aspx/",
-      "publish_time": "2026-07-29T19:00:22+08:00",
-      "summary": "明天7月30日下午3:30至5:30，尼康在纽约B&H SuperStore举办乔·麦克纳利的人脸景观活动，展示人像摄影技巧。",
-      "recommendation": "尼康邀请知名摄影师乔·麦克纳利现场演示人像技巧，提供近距离学习大师构图与用光的实战机会。活动细节与时间地点明确，适合纽约地区爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tomorrow at B&H Photo: “The landscape of the human face with Joe McNally” hosted by Nikon"
-    },
-    {
-      "id": "recvqM2xSNgRhk",
-      "title": "Redmi Turbo 6 Max渲染图展示其全新设计",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmi_turbo_6_max_render_showcases_its_fresh_new_design-news-73920.php",
-      "publish_time": "2026-07-29T18:52:02+08:00",
-      "summary": "Redmi Turbo 6 Max渲染图显示全新设计，取消垂直摄像头岛，采用类似Pixel的横条设计，配备7英寸2K屏幕和10000mAh电池。",
-      "recommendation": "解析Redmi Turbo 6 Max横条相机模组设计，提供7英寸2K屏与10000mAh电池等关键参数，对关注大屏影像手机趋势的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Redmi Turbo 6 Max render showcases its fresh new design"
-    },
-    {
-      "id": "recvqM1YPKBGkE",
-      "title": "为拍完美照片冒险登山，更多年轻人获救",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/29/more-young-people-are-being-rescued-from-mountains-after-taking-risks-for-the-perfect-photo/",
-      "publish_time": "2026-07-29T18:46:14+08:00",
-      "summary": "年轻人冒险登山拍完美照片，获救案例增多，警示安全第一。",
-      "recommendation": "文章揭示登山摄影的安全隐患，提供真实救援案例数据，提醒影像爱好者平衡创作热情与风险，对户外拍摄者具警示价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "More Young People Are Being Rescued From Mountains After Taking Risks for the Perfect Photo"
     }
   ]
 }
