@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-11T15:52:58.924920+08:00",
+    "updated_at": "2026-08-11T22:03:08.816173+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 33
+      "count": 32
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 98
+      "count": 93
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,12 +23,12 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 12
+      "count": 10
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 46
+      "count": 47
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,313 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvrZQAHdh2hJ",
+      "title": "Insta360正在打造一款形状‘你从未想过’的无反相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/11/insta360-is-making-a-mirrorless-camera-with-a-shape-youve-never-even-considered/",
+      "publish_time": "2026-08-11T21:35:15+08:00",
+      "summary": "Insta360创始人暗示将推出形状前所未有的无反相机，承诺创新设计，但未透露具体参数。",
+      "recommendation": "Insta360创始人暗示颠覆性无反设计，虽无参数但提供行业创新方向线索，适合关注相机形态演变的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Insta360 Is Making a Mirrorless Camera With a Shape ‘You’ve Never Even Considered’"
+    },
+    {
+      "id": "recvrZQDHLbPyM",
+      "title": "红外相机在喜马拉雅山脉拍摄到稀有欧亚猞猁的惊人影像",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/11/trail-camera-captures-striking-image-of-rare-eurasian-lynx-in-the-himalayas/",
+      "publish_time": "2026-08-11T21:21:42+08:00",
+      "summary": "红外相机在喜马拉雅山脉拍摄到稀有欧亚猞猁，首次在印度锡金邦摄影确认，记录其穿越高海拔地区。",
+      "recommendation": "红外相机野外实测案例，展示高海拔弱光环境下的触发与成像能力，对生态影像爱好者具参考价值，含锡金邦首次摄影确认的独家记录。",
+      "categories": [
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Trail Camera Captures Striking Image of Rare Eurasian Lynx in the Himalayas"
+    },
+    {
+      "id": "recvrZReI5bYsD",
+      "title": "这是我们迄今对即将在英国上市的Lava Agni 4N的最佳官方外观",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_agni_4n_design_official_look-news-74106.php",
+      "publish_time": "2026-08-11T21:04:02+08:00",
+      "summary": "印度手机制造商Lava即将在英国推出Agni 4N，官方图片展示了其背面设计，与印度版Agni 4相似，正面可能采用平面显示屏。",
+      "recommendation": "常规资讯，可了解行业动态。官方外观图透露Lava Agni 4N背面设计，但影像规格未披露，对摄影爱好者价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's our best official look yet at the Lava Agni 4N launching in the UK soon"
+    },
+    {
+      "id": "recvrZRp7lTsSd",
+      "title": "VSCO将美国高速公路变成全国摄影展",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/11/vsco-is-turning-american-highways-into-a-nationwide-photography-exhibit/",
+      "publish_time": "2026-08-11T21:00:00+08:00",
+      "summary": "VSCO推出公开征集活动，将美国高速公路变为摄影展，帮助摄影师走红，平衡性能与覆盖面，不依赖AI发展业务。",
+      "recommendation": "VSCO将公路变影展，展示非AI驱动的摄影师扶持路径，对关注行业生态与美学传播者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "VSCO is Turning American Highways into a Nationwide Photography Exhibit"
+    },
+    {
+      "id": "recvrZQG4IPYSq",
+      "title": "著名冲浪摄影师Hank Foto去世，享年62岁",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/11/renowned-surf-photographer-hank-foto-dies-at-62/",
+      "publish_time": "2026-08-11T20:28:51+08:00",
+      "summary": "传奇冲浪摄影师汉克·福托去世，享年62岁，曾为《冲浪杂志》工作，是知名镜头大师。",
+      "recommendation": "冲浪摄影领域标志性人物离世，回顾其镜头语言与行业影响，对关注户外影像与纪实摄影的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Renowned Surf Photographer Hank Foto Dies at 62"
+    },
+    {
+      "id": "recvrZRhlQHS0W",
+      "title": "iQOO 16T 爆料：搭载 2 亿像素摄像头，配备液冷散热系统",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_16t_200mp_camera_dual_cooling_system_tipped-news-74110.php",
+      "publish_time": "2026-08-11T20:03:02+08:00",
+      "summary": "iQOO 16T爆料：配备2亿像素主摄，无潜望长焦，采用液冷与风冷结合散热系统，此前传闻将搭载高通或联发科芯片。",
+      "recommendation": "2亿像素主摄与散热系统细节值得关注，但无潜望长焦配置需权衡，常规资讯可了解行业动态。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iQOO 16T tipped to sport a 200MP camera, feature liquid-air cooling system"
+    },
+    {
+      "id": "recvrZQX8vzOlA",
+      "title": "地出：地球日背后的标志性图像是“有史以来最具影响力的环境照片”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/earthrise-the-iconic-image-behind-earth-day-is-the-most-influential-environmental-photograph-ever-taken",
+      "publish_time": "2026-08-11T19:41:56+08:00",
+      "summary": "威廉·安德斯的‘地出’照片成为地球日标志，推动环保运动，被誉为最具影响力的环境照片。",
+      "recommendation": "从影像史角度解析地出照片的构图与传播价值，揭示摄影如何影响环保运动，对理解纪实摄影社会影响力有参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Earthrise: The iconic image behind Earth Day is \"the most influential environmental photograph ever taken\""
+    },
+    {
+      "id": "recvrZQZA8xTVn",
+      "title": "徕卡M240远超时代——我至今仍每天使用",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/rangefinder-cameras/the-leica-m240-was-way-ahead-of-its-time-and-i-still-use-mine-every-day",
+      "publish_time": "2026-08-11T19:17:51+08:00",
+      "summary": "徕卡M240作为2012年发布的相机，至今仍被作者每日使用，其前瞻性设计和技术参数远超时代，成为徕卡最具前瞻性的相机之一。",
+      "recommendation": "从2012年M240的日常使用切入，剖析其前瞻性设计逻辑，为器材选择提供跨时代视角，适合关注相机生命周期与实用价值的用户。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Leica M240 was way ahead of its time – and I still use mine every day"
+    },
+    {
+      "id": "recvrZRk1cTSBD",
+      "title": "在此观看谷歌Pixel 11系列发布会直播",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/watch_the_google_pixel_11_series_announcement_live_here-news-74097.php",
+      "publish_time": "2026-08-11T19:01:02+08:00",
+      "summary": "谷歌定于8月12日举办Made by Google活动，发布Pixel 11系列和Pixel Watch 5，可在YouTube观看直播。",
+      "recommendation": "常规资讯，可了解行业动态。关注Pixel 11影像升级的用户可借此获取发布时间与直播渠道，但缺乏具体参数或深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Watch the Google Pixel 11 series announcement live here"
+    },
+    {
+      "id": "recvrZQIWIW3Qi",
+      "title": "天文学家可能被巨型反射卫星永久致盲",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/11/astronomers-could-be-permanently-blinded-by-giant-reflecting-satellites/",
+      "publish_time": "2026-08-11T18:56:22+08:00",
+      "summary": "巨型反射卫星可能永久致盲业余天文学家，专家警告需警惕其反射光危害。",
+      "recommendation": "反射卫星威胁天文观测，涉及长曝光摄影与光污染议题，对星空影像爱好者具警示价值，含专家观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Astronomers Could Be Permanently Blinded by Giant Reflecting Satellites"
+    },
+    {
+      "id": "recvrZQLW2GZ5O",
+      "title": "警方搜寻从海滩拍摄的电视摄制组偷走相机设备的嫌疑人",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/11/police-search-for-suspect-who-stole-camera-gear-from-tv-crew-filming-on-beach/",
+      "publish_time": "2026-08-11T18:51:44+08:00",
+      "summary": "警方搜寻嫌疑人，电视摄制组在英国海滩拍摄时摄影器材被盗。",
+      "recommendation": "常规资讯，可了解行业动态。报道摄制组器材失窃事件，提醒户外拍摄时注意设备安全与防盗措施。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Police Search for Suspect Who Stole Camera Gear From TV Crew Filming on Beach"
+    },
+    {
+      "id": "recvrZR2ckAhUt",
+      "title": "松下在Red争议性压缩RAW专利案中取得重大胜利",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/panasonic-scores-a-major-win-against-reds-controversial-compressed-raw-patent",
+      "publish_time": "2026-08-11T18:10:00+08:00",
+      "summary": "松下在RAW视频专利案中击败尼康旗下Red公司，取得重大胜利，改变行业格局。",
+      "recommendation": "RAW专利战改写影像行业规则，解析松下胜诉对RED压缩格式及未来相机视频功能的影响，助你预判产品趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Panasonic scores a major win against Red’s controversial compressed RAW patent"
+    },
+    {
+      "id": "recvrZRmBwL38J",
+      "title": "谷歌新视频预告Pixel 11 Pro",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_teases_the_pixel_11_pro_in_new_video-news-74103.php",
+      "publish_time": "2026-08-11T18:01:02+08:00",
+      "summary": "谷歌发布Pixel 11 Pro预告视频，强调其评分达11分，将于8月12日与Pixel Watch 5一同发布。",
+      "recommendation": "谷歌预告Pixel 11 Pro，评分11分或暗示影像算法升级。虽未披露传感器细节，但8月12日发布节奏值得关注，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google teases the Pixel 11 Pro in new video"
+    },
+    {
+      "id": "recvrZRrBTR0fX",
+      "title": "风光与人像摄影师都钟爱的摄影技巧",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/11/the-photography-technique-that-landscape-and-portrait-photographers-love/",
+      "publish_time": "2026-08-11T18:00:00+08:00",
+      "summary": "作者将索尼a7改装成全光谱红外相机，用特定滤镜模拟柯达Aerochrome胶片效果，强调保留旧相机以激发创意。",
+      "recommendation": "旧相机改装全光谱红外，模拟柯达Aerochrome胶片，提供可复现的创意改造思路，对风光与人像摄影均有启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Photography Technique that Landscape and Portrait Photographers Love"
+    },
+    {
+      "id": "recvrZQOSyxqwg",
+      "title": "VSCO 为 50 位摄影师提供作品登上广告牌的机会",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/11/vsco-is-offering-50-photographers-the-chance-to-have-their-work-on-a-billboard/",
+      "publish_time": "2026-08-11T17:28:45+08:00",
+      "summary": "VSCO为美国各州50位摄影师提供作品登上广告牌的机会，展示其编辑应用价值。",
+      "recommendation": "VSCO以广告牌曝光激励摄影师创作，展示移动编辑应用在商业场景中的价值。常规行业动态，可了解品牌营销新玩法。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "VSCO is Offering 50 Photographers the Chance to Have Their Work on a Billboard"
+    },
+    {
+      "id": "recvrZR4H3qLm9",
+      "title": "获奖紧凑型相机很少打折，但这款6100万像素全画幅机型罕见降价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/award-winning-compact-cameras-rarely-come-at-a-discount-but-this-61mp-full-frame-model-just-got-a-rare-price-cut",
+      "publish_time": "2026-08-11T17:17:09+08:00",
+      "summary": "索尼RX1R III紧凑型相机，6100万像素全画幅，罕见降价300英镑，是日常或旅行相机的理想选择。",
+      "recommendation": "6100万像素全画幅紧凑机型罕见降价，提供具体幅度与定位分析，适合关注高端便携相机的用户参考行情。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Award-winning compact cameras rarely come at a discount, but this 61MP full-frame model just got a rare price cut"
+    },
+    {
+      "id": "recvrZR7ekiD23",
+      "title": "这款“非常出色的入门级全画幅相机”现在更便宜了，并提供满足各种需求的套装",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-very-good-entry-level-full-frame-camera-is-now-cheaper-and-comes-in-bundles-for-every-need",
+      "publish_time": "2026-08-11T16:59:28+08:00",
+      "summary": "尼康Z5全画幅无反相机降价，性能出色，适合单反升级用户，提供多种套装满足需求。",
+      "recommendation": "尼康Z5降价信息汇总，含多套装对比，为单反升级用户提供实用选购参考，数据详实。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This \"very good entry-level full-frame camera\" is now cheaper and comes in bundles for every need"
+    },
+    {
+      "id": "recvrZR9Cu3eiw",
+      "title": "胶片摄影强势回归，但当下最流行的胶片风格有哪些？这份榜单给出了一些重要提示",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/analog-photography-is-back-with-a-vengeance-but-what-are-the-most-popular-film-looks-right-now-this-list-has-some-big-hints",
+      "publish_time": "2026-08-11T16:55:17+08:00",
+      "summary": "B&H发布热门胶片库存清单，揭示模拟摄影师最青睐的胶片类型，提供市场趋势参考。",
+      "recommendation": "B&H库存榜单揭示模拟摄影师真实偏好，为胶片入门者提供选购参考，数据源自市场端，比主观推荐更具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Analog photography is back with a vengeance, but what are the most popular film looks right now? This list has some big hints"
+    },
+    {
+      "id": "recvrZRc0BYxdZ",
+      "title": "日本二手市场这10款相机价格持续上涨——涨幅最高达24.1%，且是单反相机！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/these-10-cameras-are-getting-more-expensive-on-the-used-market-the-biggest-hike-is-24-1-percent-and-its-a-dslr",
+      "publish_time": "2026-08-11T16:51:28+08:00",
+      "summary": "日本二手相机市场88%机型价格上涨，涨幅最高24.1%，前十名中单反相机领涨，Minna Cameras追踪显示2026上半年价格全面上升。",
+      "recommendation": "日本二手相机价格涨幅数据详实，揭示单反逆势领涨趋势，为选购与投资提供参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "These 10 cameras are getting more expensive on the used market in Japan – the biggest hike is 24.1% and it's a DSLR!"
+    },
+    {
+      "id": "recvrZQRVstTRX",
+      "title": "新思锐 Saturn V2 全画幅变形镜头系列首批图片",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/first-images-of-the-new-sirui-saturn-v2-full-frame-anamorphic-lens-series/",
+      "publish_time": "2026-08-11T15:45:01+08:00",
+      "summary": "思锐发布Saturn V2全画幅变形镜头系列首批图片，该系列为Saturn产品线下一代，针对现代电影制作人改进设计，提升可用性。",
+      "recommendation": "思锐Saturn V2变形镜头首批官方图，展示下一代设计改进方向，对电影感影像爱好者有参考价值，但信息有限。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "First images of the new SIRUI Saturn V2 Full-Frame Anamorphic Lens Series"
+    },
     {
       "id": "recvrYm7XA9Sln",
       "title": "内存价格上涨导致第二季度智能手机市场下滑7%",
@@ -72,6 +379,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Sirui 35mm f1.4 Aurora Review: Japanese Quality for 1/4 of the Price"
+    },
+    {
+      "id": "recvrZQUKnIb8U",
+      "title": "SanDisk、ProGrade和Delkin Devices存储卡优惠购买指南",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/save-on-sandisk-prograde-and-delkin-devices-memory-cards/",
+      "publish_time": "2026-08-11T13:54:48+08:00",
+      "summary": "B&H Photo推出SanDisk、ProGrade和Delkin Devices存储卡优惠，涉及20款CFexpress、SD和microSD卡，降价一周，促销期为2026年8月9日至15日。",
+      "recommendation": "存储卡促销清单，涵盖CFexpress与SD卡，价格与型号信息实用，适合近期采购的影像用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Save on SanDisk, ProGrade and Delkin Devices Memory Cards"
     },
     {
       "id": "recvrYmaLQVaBH",
@@ -7428,335 +7750,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Cadrage Studio Combines a Bunch of Pre-Production Filmmaking Tools In One App"
-    },
-    {
-      "id": "recvqNi4vH9VQt",
-      "title": "Google Pixel Watch 5 在预期发布前现身官方应用",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_watch_5_google_health_app-news-73921.php",
-      "publish_time": "2026-07-30T02:17:02+08:00",
-      "summary": "谷歌Pixel Watch 5在官方健康应用现身，预示将于8月12日与Pixel 11系列手机一同发布。",
-      "recommendation": "智能手表影像关联有限，但可从中预判Google生态对计算摄影的整合动向，适合关注穿戴设备与手机协同的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google Pixel Watch 5 pops up in an official Google app ahead of expected launch"
-    },
-    {
-      "id": "recvqNhQDe3Cd2",
-      "title": "忘掉零食吧，这台自动售货机出售胶卷甚至便携相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/forget-the-snacks-this-vending-machine-dispenses-film-and-even-compact-cameras",
-      "publish_time": "2026-07-30T02:06:21+08:00",
-      "summary": "胶片未消亡，犹他州披萨店自动售货机出售胶卷和便携相机，方便摄影师获取。",
-      "recommendation": "胶片获取新渠道案例，展示自动售货机零售胶卷与便携相机的模式，提供行业动态参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Forget the snacks, this vending machine dispenses film and even compact cameras"
-    },
-    {
-      "id": "recvqZ1zGveKCu",
-      "title": "认为胶片已死？这台古怪的新自动售货机不这么认为，它吐出胶片、一次性相机甚至紧凑型相机，而不是零食",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/forget-the-snacks-this-vending-machine-dispenses-film-and-even-compact-cameras",
-      "publish_time": "2026-07-30T02:06:21+08:00",
-      "summary": "犹他州胶片实验室创新地将胶片、一次性相机及柯达Charmera放入自动售货机，扩展业务，挑战胶片已死观念。",
-      "recommendation": "胶片复兴的另类零售实验，展示自动售货机如何拓展影像消费场景。对关注胶片生态的爱好者有参考价值，但信息量有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Think film is dead? This quirky new vending machine says otherwise, spitting out film, disposable cameras, and even compact cameras instead of snacks"
-    },
-    {
-      "id": "recvqNhF8mCfVW",
-      "title": "Simmod 四合一PL镜头转接环：可互换RF、Z、L和E卡口",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/29/simmods-4-in-1-pl-lens-adapter-has-interchangeable-rf-z-l-and-e-mounts/",
-      "publish_time": "2026-07-30T02:02:17+08:00",
-      "summary": "Simmod发布四合一PL镜头转接环，可互换RF、Z、L和E卡口，适配四种全画幅无反系统，提升电影摄影师设备兼容性。",
-      "recommendation": "一文解析Simmod四合一PL转接环，覆盖RF/Z/L/E四大卡口，为电影镜头转接全画幅无反提供具体方案，适合关注设备兼容性的影像从业者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Simmod’s 4-in-1 PL Lens Adapter Has Interchangeable RF, Z, L, and E Mounts"
-    },
-    {
-      "id": "recvqNhSRTK3az",
-      "title": "这张照片可能是我见过构图最好的灰熊照片——但诡异的编辑全搞砸了。一堂面向所有人的数码摄影免费课……",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/this-photo-may-have-the-best-composition-of-grizzly-bears-ive-ever-seen-but-the-bizarre-edit-gets-it-all-wrong-a-free-lesson-in-digital-photography-for-us-all",
-      "publish_time": "2026-07-30T01:55:02+08:00",
-      "summary": "野生动物摄影师拍到构图极佳的灰熊照片，但奇怪编辑毁掉了这张精彩照片，文章提供免费数码摄影课程",
-      "recommendation": "通过灰熊照片的编辑失误案例，剖析构图与后期平衡的常见误区，提供免费数码摄影课程，适合摄影爱好者提升实战技巧。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This photo may have the best composition of grizzly bears I’ve ever seen – but the bizarre edit gets it all wrong. A free lesson in digital photography for us all…"
-    },
-    {
-      "id": "recvqNhV5VsnXh",
-      "title": "GoPro Mission 1 新增两大关键配件及免费固件更新（别担心，GoPro 也没忘记无反相机）",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-gopro-mission-1-just-got-two-key-accessories-and-a-free-firmware-update-and-no-gopro-hasnt-forgotten-about-the-mirrorless-camera-either",
-      "publish_time": "2026-07-30T01:15:00+08:00",
-      "summary": "GoPro推出Volta 2续航9小时、Mission 1媒体模块及免费固件更新，提升无反相机兼容性",
-      "recommendation": "文章详解GoPro Volta 2续航9小时、Mission 1媒体模块及固件更新，对运动相机用户和无反相机兼容性提升有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The GoPro Mission 1 just got two key accessories  – and a free firmware update (And no, GoPro hasn’t forgotten about the mirrorless camera either)"
-    },
-    {
-      "id": "recvqNi6SQPnEB",
-      "title": "富士龙XF400mm f/2.8、f/4.0还是f/5.6+？告诉富士你想要什么",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujinon-xf400mm-f-2-8-f-4-0-or-f-5-6-tell-fujifilm-what-you-want/",
-      "publish_time": "2026-07-30T00:33:23+08:00",
-      "summary": "富士胶片计划与X-T6一同发布XF400mm镜头，文章讨论光圈选择偏好，并提及从尼克尔镜头汲取灵感。",
-      "recommendation": "从尼克尔镜头设计切入，讨论XF400mm光圈选择，为富士用户提供产品决策参考，含独家行业观点。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujinon XF400mm f/2.8, f/4.0, or f/5.6+? Tell Fujifilm What You Want"
-    },
-    {
-      "id": "recvqNiexArAs3",
-      "title": "传索尼将收购腾龙",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/29/sony-rumored-to-acquire-tamron.aspx/",
-      "publish_time": "2026-07-30T00:27:29+08:00",
-      "summary": "据传索尼将收购腾龙，腾龙目前有十几款尼康Z卡口镜头，今年为尼康Z卡口发布的镜头比尼康还多。",
-      "recommendation": "分析索尼收购腾龙传闻，揭示腾龙为尼康Z卡口推出镜头数量超尼康自身，对关注卡口生态与镜头选择的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony rumored to acquire Tamron"
-    },
-    {
-      "id": "recvqNigNTW6OU",
-      "title": "这是富士胶片自2018年以来野生动物摄影师一直要求的镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/29/this-is-the-lens-fujifilm-wildlife-shooters-have-asked-for-since-2018/",
-      "publish_time": "2026-07-30T00:00:00+08:00",
-      "summary": "富士胶片将推出新镜头，与X-T6一同亮相，满足野生动物摄影师需求",
-      "recommendation": "解析富士长焦镜头研发历程，揭示X-T6配套新镜的规格与定位，为野生动物摄影提供器材选择参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Is the Lens Fujifilm Wildlife Shooters Have Asked for Since 2018"
-    },
-    {
-      "id": "recvqNhXtErpFS",
-      "title": "索尼FX5在24小时内就进入缺货状态，“手持好莱坞”相机大受欢迎",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/the-sony-fx5-is-on-backorder-after-just-24-hours-as-the-handheld-hollywood-camera-is-a-huge-hit",
-      "publish_time": "2026-07-29T23:11:44+08:00",
-      "summary": "索尼FX5相机因需求大幅超出预期，在24小时内缺货，交付可能延迟至9月。",
-      "recommendation": "文章揭示了索尼FX5因需求超预期导致24小时缺货的行业现象，提供交付延迟至9月的独家数据，对关注热门相机供需动态的爱好者有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony FX5 is on backorder after just 24 hours,as the \"handheld Hollywood\" camera is a huge hit"
-    },
-    {
-      "id": "recvqNhZK2d4WK",
-      "title": "索尼确认：全球最大相机传感器中心因地震停产，相机出货或延迟？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/an-earthquake-has-halted-production-at-the-worlds-largest-camera-sensor-hub-sony-confirms-could-camera-shipments-be-delayed",
-      "publish_time": "2026-07-29T23:05:36+08:00",
-      "summary": "索尼确认全球最大相机传感器中心因地震停产，可能导致相机出货延迟。",
-      "recommendation": "索尼传感器工厂停产直接影响相机供货周期，对计划购机的用户有明确参考价值。文中确认停产地点与规模，属于行业动态硬资讯。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "An earthquake has halted production at the world’s largest camera sensor hub, Sony confirms. Could camera shipments be delayed?"
-    },
-    {
-      "id": "recvqXNJsiKLPC",
-      "title": "索尼日本工厂日产400万图像传感器，地震三天后生产仍未恢复",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/an-earthquake-has-halted-production-at-the-worlds-largest-camera-sensor-hub-sony-confirms-could-camera-shipments-be-delayed",
-      "publish_time": "2026-07-29T23:05:36+08:00",
-      "summary": "索尼日本图像传感器工厂因地震停产三天，日产400万产能受影响，生产尚未恢复。",
-      "recommendation": "索尼图像传感器产能数据罕见披露，日产400万片规模直观呈现，地震影响链条对理解手机影像供应链波动有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony makes 4 million image sensors a day at this plant in Japan. Production is still halted three days after an earthquake"
-    },
-    {
-      "id": "recvqNhHu9PJTh",
-      "title": "腾龙大幅提升25-200mm f/2.8-5.6镜头的近摄性能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/29/tamron-significantly-improves-close-up-performance-of-its-25-200mm-f-2-8-5-6-lens/",
-      "publish_time": "2026-07-29T22:53:30+08:00",
-      "summary": "腾龙为25-200mm f/2.8-5.6 Di III VXD G2镜头推出固件更新，显著提升广角端近摄性能。",
-      "recommendation": "固件更新提升广角端近摄性能，对追求一镜走天涯的旅行用户有实用价值，但属常规产品资讯。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tamron Significantly Improves Close-Up Performance of its 25-200mm f/2.8-5.6 Lens"
-    },
-    {
-      "id": "recvqNi2cGjn5F",
-      "title": "Andoer L4 Pro电动滑轨评测：这款迷你三轮神器让你的手机或微单相机动起来",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/andoer-l4-pro-motorized-dolly-review",
-      "publish_time": "2026-07-29T22:43:41+08:00",
-      "summary": "Andoer L4 Pro电动滑轨评测：迷你三轮设计，支持手机微单，实现前后侧向及曲线平滑移动。",
-      "recommendation": "拆解Andoer L4 Pro电动滑轨的迷你三轮结构，实测手机与微单的运镜效果，提供前后侧向及曲线移动的独家数据，为影像创作者拓展低成本动态拍摄方案。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Andoer L4 Pro motorized dolly review: This mini three-wheeled wonder allows your smartphone or mirrorless camera to make some moves"
-    },
-    {
-      "id": "recvqM1RbpICcZ",
-      "title": "谷歌弃用将你变成表情包的AI工具",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/29/google-dumps-ai-tool-that-turned-you-into-a-meme/",
-      "publish_time": "2026-07-29T22:41:25+08:00",
-      "summary": "谷歌悄然搁置了几个月前推出的Me Meme功能，该AI工具可将用户变成表情包，曾迅速成为趋势。",
-      "recommendation": "揭示谷歌AI影像工具Me Meme被搁置的幕后原因，分析大厂在计算摄影与社交功能间的取舍，对关注AI影像落地的爱好者有行业参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Dumps AI Tool That Turned You Into a Meme"
-    },
-    {
-      "id": "recvqNhJTbVjKN",
-      "title": "索尼警告FX5可能延迟发货，因预购超出预期",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-warns-of-possible-fx5-shipment-delays-because-preorders-exceeded-expecations/",
-      "publish_time": "2026-07-29T22:29:26+08:00",
-      "summary": "索尼警告FX5因预购远超预期可能延迟发货，官方确认订单火爆。",
-      "recommendation": "索尼FX5预购超预期导致延迟发货，反映市场对这款影像设备的高需求，为关注消费级相机动态的读者提供行业供需信号。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony warns of possible FX5 shipment delays because preorders exceeded expecations"
-    },
-    {
-      "id": "recvqM1TN40bBt",
-      "title": "欧盟要求周日起对逼真AI图像加贴标签",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/29/eu-to-require-labels-on-realistic-ai-images-from-sunday/",
-      "publish_time": "2026-07-29T21:32:09+08:00",
-      "summary": "欧盟《人工智能法案》分阶段实施，周日起要求对逼真AI图像加贴标签，以标识冒充人物或真实事件的AI生成内容。",
-      "recommendation": "欧盟AI标签新规直接影响影像内容真实性，为摄影爱好者提供识别AI生成图像的法律依据，属于行业合规动态。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "EU to Require Labels on Realistic AI Images From Sunday"
-    },
-    {
-      "id": "recvqM2aRpZdWi",
-      "title": "我永远会选择变焦镜头而非定焦——不，不是成本问题，而是为了不错过拍摄瞬间",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/i-will-always-use-zoom-lenses-over-primes-and-no-its-not-about-cost-its-about-not-missing-the-shot",
-      "publish_time": "2026-07-29T21:30:13+08:00",
-      "summary": "文章主张变焦镜头优于定焦，因可避免更换镜头错过拍摄瞬间，强调实用性和效率而非成本。",
-      "recommendation": "从实战角度论证变焦镜头避免错失瞬间的实用价值，适合追求效率的摄影爱好者，观点鲜明但缺乏独家数据。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "I will ALWAYS use zoom lenses over primes – and no, it’s not about cost, it’s about not missing the shot"
-    },
-    {
-      "id": "recvqM2uKocNol",
-      "title": "华为nova 16 SE真机图泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/huawei_nova_16_se_live_images_leak-news-73924.php",
-      "publish_time": "2026-07-29T21:09:02+08:00",
-      "summary": "华为nova 16 SE真机图泄露，设计类似荣耀Power2，配备1.5K分辨率LTPS OLED屏幕，LED闪光灯位置不同，采用渐变色彩设计。",
-      "recommendation": "华为nova 16 SE真机图泄露，揭示1.5K LTPS OLED屏幕与渐变设计，虽未提及影像规格，但外观细节为产品定位提供线索。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Huawei nova 16 SE live images leak"
-    },
-    {
-      "id": "recvqM2FCUrEMf",
-      "title": "Lomomatic 110 Discomatic 注定令人失望",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/29/the-lomomatic-110-discomatic-is-bound-to-be-disappointing/",
-      "publish_time": "2026-07-29T21:02:06+08:00",
-      "summary": "Lomography推出Lomomatic 110 Discomatic相机，但作者认为其营销有趣，产品注定令人失望。",
-      "recommendation": "剖析Lomomatic 110 Discomatic的营销与产品落差，提供对胶片相机市场趋势的独特洞察，适合关注小众影像产品的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Lomomatic 110 Discomatic is Bound to be Disappointing"
-    },
-    {
-      "id": "recvqM28njSo2t",
-      "title": "索尼RX10 V全面现代化，唯独传感器未升级：这重要吗？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/sony-rx10v-studio-scene-image-quality-tests/",
-      "publish_time": "2026-07-29T21:00:00+08:00",
-      "summary": "索尼RX10 V全面升级但未换2000万像素1英寸传感器，探讨其是否重要",
-      "recommendation": "深度解析索尼RX10 V传感器未升级的争议，提供影像爱好者关于1英寸画质瓶颈与机身性能权衡的实用参考。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony RX10 V modernizes everything but its sensor. Does it matter?"
     }
   ]
 }
