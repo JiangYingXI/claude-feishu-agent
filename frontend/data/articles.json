@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-11T10:42:06.227508+08:00",
+    "updated_at": "2026-08-11T15:52:58.924920+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 34
+      "count": 33
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 97
+      "count": 98
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,82 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 46
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 378
+      "count": 377
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 152
+      "count": 150
     }
   ],
   "articles": [
+    {
+      "id": "recvrYm7XA9Sln",
+      "title": "内存价格上涨导致第二季度智能手机市场下滑7%",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_smartphone_market_dropped_by_7_in_q2_because_of_rising_memory_prices-news-74101.php",
+      "publish_time": "2026-08-11T15:39:02+08:00",
+      "summary": "FDM报告称，2026年第二季度全球智能手机出货量同比降7%，环比降3%，全年预计降12%。新兴市场跌幅更大，二手市场表现良好。",
+      "recommendation": "内存涨价间接影响手机影像硬件配置，新兴市场与二手市场数据为购机决策提供参考。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The smartphone market dropped by 7% in Q2 because of rising memory prices"
+    },
+    {
+      "id": "recvrYmdrnx1Ia",
+      "title": "思锐35mm f1.4 Aurora评测：四分之一价格，日本品质",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/11/sirui-35mm-f1-4-aurora-review-japanese-quality-for-1-4-of-the-price/",
+      "publish_time": "2026-08-11T15:00:00+08:00",
+      "summary": "思锐35mm f1.4 Aurora镜头评测，强调其以四分之一价格提供日本品质，适合徕卡SL2s等相机，核心价值在于高性价比与独特性能。",
+      "recommendation": "以四分之一价格对标日本品质，实测数据与徕卡SL2s适配性分析具参考价值，为追求高性价比的镜头用户提供独特选购视角。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sirui 35mm f1.4 Aurora Review: Japanese Quality for 1/4 of the Price"
+    },
+    {
+      "id": "recvrYmaLQVaBH",
+      "title": "全玻璃20周年纪念版iPhone已死，一位分析师认为",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_allglass_20th_anniversary_iphone_is_dead_one_analyst_thinks-news-74100.php",
+      "publish_time": "2026-08-11T13:17:03+08:00",
+      "summary": "杰富瑞分析师称全玻璃20周年纪念版iPhone已死，传闻曾预测其全玻璃机身、四曲面屏、无按钮接口及移除灵动岛，但新传闻未提具体细节。",
+      "recommendation": "常规资讯，可了解行业动态。分析iPhone设计传闻转向，对关注手机影像形态演变的用户有参考价值，但缺乏独家数据与深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The all-glass 20th anniversary iPhone is dead, one analyst thinks"
+    },
+    {
+      "id": "recvrYmfN6CWzH",
+      "title": "腾龙25-200mm镜头现在本质上是一款微距镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/11/the-tamron-25-200mm-is-essentially-a-macro-lens-now/",
+      "publish_time": "2026-08-11T12:00:00+08:00",
+      "summary": "腾龙发布25-200mm f2.8-5.6 G2镜头3.0固件更新，提升近摄能力，使其本质上成为微距镜头，评测表现优异。",
+      "recommendation": "固件升级赋予25-200mm镜头微距能力，含近摄倍率实测与样张对比，为变焦镜头用户提供实用升级参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Tamron 25-200mm is Essentially a Macro Lens Now"
+    },
     {
       "id": "recvrX5WdMXhLE",
       "title": "GoPro发布“史上最佳GoPro”，但破产风险仍在，CEO称公司正处于寻找买家的“后期阶段”",
@@ -7695,69 +7757,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "The Sony RX10 V modernizes everything but its sensor. Does it matter?"
-    },
-    {
-      "id": "recvqNhMaaUipl",
-      "title": "索尼RX10 V全面现代化，但传感器性能依旧。这重要吗？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/sony-rx10v-studio-scene-image-quality-tests/",
-      "publish_time": "2026-07-29T21:00:00+08:00",
-      "summary": "索尼RX10 V全面升级但沿用2000万像素1英寸传感器，文章探讨改进该传感器性能是否重要",
-      "recommendation": "深度解析RX10 V沿用1英寸传感器的利弊，提供传感器性能与机身升级的权衡观点，对关注长焦机迭代的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Sony RX10 V modernizes everything but its sensor performance. Does it matter?"
-    },
-    {
-      "id": "recvqM2dl3mcn4",
-      "title": "“使用模拟相机增加了活在当下的机会。”Z世代带火了一次性胶片相机，富士表示这一趋势才刚刚开始",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/using-analog-adds-an-opportunity-to-stay-present-in-the-moment-gen-z-brought-back-the-disposable-film-camera-fujifilm-says-the-trend-is-just-getting-started",
-      "publish_time": "2026-07-29T20:31:31+08:00",
-      "summary": "富士胶片称一次性胶片相机趋势非短期热潮，Z世代使用它增加活在当下的机会，该趋势才刚开始。",
-      "recommendation": "文章从Z世代视角解析一次性胶片相机复兴，提供富士官方对非短期趋势的独家判断，适合关注摄影文化变迁的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“Using analog adds an opportunity to stay present in the moment.” Gen Z brought back the disposable film camera. Fujifilm says the trend is just getting started"
-    },
-    {
-      "id": "recvqM2g1GGynU",
-      "title": "这款超紧凑相机是“地球上最锐利、最具创意的口袋相机”，它可能是我们见过的最有趣的型号——使用闪光灯拍摄胶片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-super-compact-camera-is-the-sharpest-most-creative-pocket-sized-camera-on-earth-and-it-might-be-the-most-fun-model-weve-seen-yet-it-shoots-film-with-flash",
-      "publish_time": "2026-07-29T19:58:33+08:00",
-      "summary": "110胶片相机新设计版上市，售价119美元/109英镑，被称为最锐利、最具创意的口袋相机，使用闪光灯拍摄胶片。",
-      "recommendation": "解析110胶片相机新设计，售价119美元，突出其超紧凑机身与闪光灯拍摄的创意潜力，提供锐利画质数据，适合胶片爱好者探索便携摄影新玩法。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This super compact camera is the \"sharpest, most creative pocket-sized camera on Earth,\" and it might be the most fun model we've seen yet – it shoots film with flash"
-    },
-    {
-      "id": "recvqM2ir8jWk9",
-      "title": "大疆在美国库存告急，但这些无人机和相机优惠不容错过！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/drones/dji-stock-is-drying-up-in-the-us-but-these-drone-and-camera-deals-are-too-good-to-miss",
-      "publish_time": "2026-07-29T19:56:16+08:00",
-      "summary": "大疆在美国库存告急，但热门无人机和相机仍在促销，需抓紧购买",
-      "recommendation": "大疆美国库存告急的独家动态，提供促销机型与购买窗口期信息，助影像爱好者把握最后入手机会。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI stock is drying up in the US, but these drone and camera deals are too good to miss!"
     }
   ]
 }
