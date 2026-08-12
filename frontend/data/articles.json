@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-12T16:05:53.762594+08:00",
+    "updated_at": "2026-08-12T22:06:02.198673+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 35
+      "count": 37
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 93
+      "count": 91
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,17 +23,17 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 7
+      "count": 6
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 47
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 372
+      "count": 374
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,316 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvs5HWuVhWlr",
+      "title": "游客在177英尺瀑布前拍照时坠亡",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/12/tourist-falls-to-death-while-posing-for-photo-shoot-at-177-foot-waterfall/",
+      "publish_time": "2026-08-12T21:48:47+08:00",
+      "summary": "一名20岁游客在美国州立公园177英尺瀑布顶端拍照时坠崖身亡。",
+      "recommendation": "常规资讯，提醒户外拍摄安全。瀑布场景构图技巧与风险规避对风光摄影者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tourist Falls to Death While Posing for Photo Shoot at 177-Foot Waterfall"
+    },
+    {
+      "id": "recvs5IeyGnV6q",
+      "title": "“我向所有摄影新手推荐这款相机”——这些入门级预算相机刚刚降价",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-recommend-this-camera-to-anyone-starting-their-photography-journey-these-budget-beginner-cameras-just-got-cheaper",
+      "publish_time": "2026-08-12T21:45:23+08:00",
+      "summary": "入门级预算相机降价，推荐给摄影新手，以更低价格开启摄影之旅，选购适合初学者的无反相机。",
+      "recommendation": "入门级相机降价汇总，含具体机型与价格数据，为新手选购提供实用参考，可快速了解当前市场入门无反性价比选择。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "\"I recommend this camera to anyone starting their photography journey\" – these budget beginner cameras just got cheaper"
+    },
+    {
+      "id": "recvs5HYYWu14E",
+      "title": "适马85mm f/1.2镜头即将发布",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/12/sigmas-85mm-f-1-2-lens-looks-like-its-coming-soon/",
+      "publish_time": "2026-08-12T21:34:28+08:00",
+      "summary": "Adobe Camera Raw 18.5更新支持适马85mm f/1.2 DG Art镜头，暗示该镜头即将发布，但适马尚未正式公布上市时间。",
+      "recommendation": "ACR更新泄露适马85mm f/1.2镜头发布信号，对定焦爱好者具前瞻价值，但缺乏具体参数与上市时间，常规资讯可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sigma’s 85mm f/1.2 Lens Looks Like It’s Coming Soon"
+    },
+    {
+      "id": "recvs5Iw4q3Azk",
+      "title": "谷歌Pixel 11、Pixel 11 Pro XL和Pixel 11 Pro Fold在印度的价格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_pixel_11_pro_xl_and_pixel_11_pro_fold_prices_in_india_leak-news-74136.php",
+      "publish_time": "2026-08-12T21:31:02+08:00",
+      "summary": "谷歌Pixel 11系列印度售价泄露，Pixel 11起售价89999卢比（约943美元），较上代涨10000卢比，因谷歌确认涨价。",
+      "recommendation": "Pixel 11系列涨价信息对影像用户有参考价值，可预判新机影像硬件成本与定价趋势，但缺乏具体影像规格细节，常规资讯。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google Pixel 11, Pixel 11 Pro XL, and Pixel 11 Pro Fold prices in India leak"
+    },
+    {
+      "id": "recvs5I1zNqCJQ",
+      "title": "Insta360 希望其旗舰 X6 远不止是一台 360 度相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/12/insta360-wants-its-flagship-x6-to-be-way-more-than-a-360-degree-camera/",
+      "publish_time": "2026-08-12T21:00:55+08:00",
+      "summary": "Insta360发布旗舰X6，体积更小，传感器更大，光线收集能力更强，图像质量显著提升。",
+      "recommendation": "解析X6传感器升级与体积缩减的平衡，提供光线收集能力提升的具体数据，对关注全景影像硬件迭代的爱好者有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Insta360 Wants Its Flagship X6 to be Way More Than a 360-Degree Camera"
+    },
+    {
+      "id": "recvs5ItwvS63F",
+      "title": "Insta360 X6搭载更大传感器，原生8K视频与续航提升",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/insta360-x6-360-camera-announcement/",
+      "publish_time": "2026-08-12T21:00:00+08:00",
+      "summary": "Insta360新旗舰X6搭载更大传感器，支持原生8K/50 360度视频、10位色彩与杜比视界，续航提升，成为创作者利器。",
+      "recommendation": "X6传感器升级与原生8K/50规格参数明确，10位色彩和杜比视界细节对全景创作者有参考价值，续航数据可作选购依据。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Insta360’s X6 gets bigger sensors, native 8K video and improved battery life"
+    },
+    {
+      "id": "recvs5IEIT6VIY",
+      "title": "Flashback预告新相机，作为品牌‘重置’的一部分",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/12/flashback-teases-its-next-camera-as-part-of-brand-reset/",
+      "publish_time": "2026-08-12T21:00:00+08:00",
+      "summary": "Flashback品牌创始人承认品牌现状不佳，宣布重置计划，预告新相机，旨在重振旗鼓，回归电影怀旧情怀。",
+      "recommendation": "品牌重置计划透露战略转向，新相机预告指向怀旧影像赛道，对关注行业动态的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Flashback Teases Its Next Camera as Part of Brand ‘Reset’"
+    },
+    {
+      "id": "recvs5I4hGS546",
+      "title": "首部全程使用IMAX摄影机拍摄的电影票房突破10亿美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/12/the-first-film-ever-shot-on-imax-cameras-has-surpassed-1-billion-at-the-box-office/",
+      "publish_time": "2026-08-12T20:55:11+08:00",
+      "summary": "首部全程IMAX摄影机拍摄的R级电影《奥德赛》票房破10亿美元，创下里程碑。",
+      "recommendation": "IMAX摄影机全程拍摄的商业片票房里程碑，揭示电影工业对高端影像技术的市场验证，为影像爱好者提供专业设备应用趋势参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The First Film Ever Shot on IMAX Cameras Has Surpassed $1 Billion at the Box Office"
+    },
+    {
+      "id": "recvs5Ic78LU4k",
+      "title": "佳能EOS R8 Mark II传感器信息",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-eos-r8-mark-ii-sensor-information/",
+      "publish_time": "2026-08-12T20:41:16+08:00",
+      "summary": "佳能EOS R8 Mark II传感器信息更新，分辨率与发布时间有变动，预计九月中旬或更晚推出。",
+      "recommendation": "传感器规格与发布时间变动，对关注佳能全幅微单的玩家有参考价值，可提前规划购机节奏。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Canon EOS R8 Mark II Sensor Information"
+    },
+    {
+      "id": "recvs5IyLoLjcX",
+      "title": "荣耀在中国发布机器人手机，配备2亿像素钛合金云台相机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_launches_robot_phone_in_china_with_200mp_titanium_gimbal_camera-news-74133.php",
+      "publish_time": "2026-08-12T19:30:02+08:00",
+      "summary": "荣耀在中国发布机器人手机，配备2亿像素钛合金云台相机，旗舰安卓配置，已公布完整规格、定价和上市详情。",
+      "recommendation": "2亿像素钛合金云台相机属行业罕见，文章披露完整规格与定价，对关注手机影像硬件创新的用户有直接参考价值。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Honor launches Robot Phone in China with 200MP titanium gimbal camera"
+    },
+    {
+      "id": "recvs5Ih32ZTBx",
+      "title": "胶片摄影趋势关乎无“点赞评论”的摄影——富士胶片称，即时成像胶片正流行，但并非全是Z世代的错",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/the-analog-photography-trend-is-about-photography-without-tracking-likes-and-comments-instant-film-is-trending-but-gen-z-isnt-entirely-to-blame-fujifilm-says",
+      "publish_time": "2026-08-12T19:11:10+08:00",
+      "summary": "富士胶片高管谈模拟摄影趋势，即时成像胶片流行，强调无社交点赞的摄影价值，Instax定位其中。",
+      "recommendation": "富士高管解读模拟摄影回潮，剖析Instax无社交点赞的影像价值，为胶片爱好者提供行业视角与趋势洞察。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The analog photography trend is about photography without “tracking likes and comments” –Instant film is trending, but Gen Z isn’t entirely to blame, Fujifilm says"
+    },
+    {
+      "id": "recvs5IjuWa0tS",
+      "title": "“我向所有摄影新手推荐这款相机”——这些入门级预算相机现在更便宜了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-recommend-this-camera-to-anyone-starting-their-photography-journey-these-budget-beginner-cameras-just-got-even-cheaper",
+      "publish_time": "2026-08-12T19:05:24+08:00",
+      "summary": "入门级预算相机降价，适合新手，推荐无反相机，以更低价格开启摄影之旅。",
+      "recommendation": "入门相机降价资讯，梳理当前预算机型性价比，助新手避坑选机，数据较全但无独家爆料。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "\"I recommend this camera to anyone starting their photography journey\" – these budget beginner cameras just got even cheaper"
+    },
+    {
+      "id": "recvs5IlVtAwEK",
+      "title": "DJI Osmo Pocket 4和4P在美国（官方）未上市，但Pocket 3有售——套装价格创历史新低",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-dji-osmo-pocket-4-and-4p-arent-officially-available-in-the-us-but-the-pocket-3-is-and-the-price-on-the-combo-has-never-been-lower",
+      "publish_time": "2026-08-12T18:58:13+08:00",
+      "summary": "大疆Osmo Pocket 4和4P未在美国上市，但Pocket 3套装价格创历史新低，Creator Combo售价降至最低。",
+      "recommendation": "Pocket 4缺席美国市场，Pocket 3套装降价至历史新低，含具体价格与套装配置，对持币观望的Vlog用户是实用购买参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The DJI Osmo Pocket 4 and 4P aren’t (officially) available in the US. But the Pocket 3 is – and the price on the combo has never been lower"
+    },
+    {
+      "id": "recvs5IojG4yFr",
+      "title": "“可能会有马拉多纳那样的时刻”——拍下梅西捧起世界杯经典瞬间的摄影师解释他如何故意错过其他画面以捕捉这一瞬间",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/there-could-be-this-moment-of-what-happened-with-maradona-photographer-who-captured-iconic-image-of-messi-holding-the-world-cup-explains-how-he-purposely-missed-other-images-to-get-it",
+      "publish_time": "2026-08-12T18:47:07+08:00",
+      "summary": "体育摄影师乔尔·马克伦德为捕捉梅西致敬马拉多纳的瞬间，故意错过2022年世界杯其他重大时刻，最终拍下经典照片。",
+      "recommendation": "体育摄影决策案例，揭示顶级摄影师如何取舍瞬间，对街拍与纪实爱好者有实操借鉴价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“There could be this moment of what happened with Maradona” –Photographer who captured iconic image of Messi holding the World Cup explains how he purposely missed other images to get it"
+    },
+    {
+      "id": "recvs5I6KEGni4",
+      "title": "两名女摄影师在伊朗被判处合计24年监禁",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/12/two-female-photographers-sentenced-to-combined-24-years-in-prison-in-iran/",
+      "publish_time": "2026-08-12T18:41:52+08:00",
+      "summary": "两名女摄影师在伊朗被判处合计24年监禁，包括知名摄影记者和18岁艺术家。",
+      "recommendation": "影像创作自由议题的深度案例，揭示纪实摄影在特定地区的现实风险，对关注摄影伦理与行业边界的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Two Female Photographers Sentenced to Combined 24 Years in Prison in Iran"
+    },
+    {
+      "id": "recvs5IC9JrBe3",
+      "title": "Realme 16x 搭载天玑 6300 处理器、144Hz 屏幕和 7000mAh 电池上市",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/realme_16x_features_price_sale_date-news-74132.php",
+      "publish_time": "2026-08-12T18:13:02+08:00",
+      "summary": "Realme发布16x，配备7000mAh电池、45W充电、144Hz 6.81英寸LCD屏、天玑6300处理器，支持旁路充电和6.5W反向充电。",
+      "recommendation": "关注入门机影像配置的读者可了解其天玑6300的ISP算力与LCD屏显色表现，旁路充电细节对长时录像有参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Realme 16x arrives with the Dimensity 6300 SoC, a 144Hz screen, and a 7,000 mAh battery"
+    },
+    {
+      "id": "recvs5I9pBsKkZ",
+      "title": "有影响力的旧金山摄影画廊经营52年后将关闭",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/12/influential-san-francisco-photography-gallery-to-close-after-52-years/",
+      "publish_time": "2026-08-12T18:00:45+08:00",
+      "summary": "旧金山先锋摄影画廊SF Camerawork，曾展出莎莉·曼恩等名家作品，经营52年后即将关闭。",
+      "recommendation": "画廊关闭折射影像行业变迁，回顾莎莉·曼恩等名家展览史，为摄影爱好者提供艺术市场与机构运营的观察样本。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Influential San Francisco Photography Gallery to Close After 52 Years"
+    },
+    {
+      "id": "recvs5IHoPkg7k",
+      "title": "当抑郁笼罩时，如何继续拍照",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/12/how-to-keep-taking-photos-when-depression-is-all-around-you/",
+      "publish_time": "2026-08-12T18:00:00+08:00",
+      "summary": "文章讲述作者受诗人启发，在抑郁期间通过自我疗愈和创造力克服困境，强调艺术创作在心理恢复中的价值。",
+      "recommendation": "从心理疗愈视角切入摄影创作，提供艺术对抗抑郁的实操经验，对影像爱好者拓展创作动机与情感表达有独特参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How to Keep Taking Photos When Depression is All Around You"
+    },
+    {
+      "id": "recvs5HR7b6zh4",
+      "title": "新SG-image 35mm f/1.4 APS-C E卡口自动对焦镜头首批图片曝光",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/first-images-of-the-new-sg-image-35mm-f-1-4-aps-c-e-mount-af-lens/",
+      "publish_time": "2026-08-12T17:27:08+08:00",
+      "summary": "SG-image发布35mm f/1.4 APS-C E卡口自动对焦镜头预告图，将于本月底发布，首批图片已曝光。",
+      "recommendation": "35mm f/1.4 APS-C自动对焦镜头新品预告，曝光首批外观图，为E卡口用户提供新选择。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "First images of the new SG-image 35mm f/1.4 APS-C E-mount AF lens"
+    },
+    {
+      "id": "recvs5Ir0QS59o",
+      "title": "这款14年前的富士胶片镜头，如今是日本最潮的定焦镜头之一。排名第二的镜头？那是一支更老的佳能单反镜头。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-14-year-old-fujifilm-lens-is-one-of-the-trendiest-primes-in-japan-right-now-the-second-place-lens-its-an-even-older-canon-dslr-optic",
+      "publish_time": "2026-08-12T16:56:00+08:00",
+      "summary": "日本最潮定焦镜头竟是14年前的富士胶片镜头，排名第二的是更老的佳能单反镜头。数码相机镜头未过时，使用率前十中有四款超十年。",
+      "recommendation": "日本镜头使用率榜单揭示老镜头的持久价值，含独家排名数据，为器材选购提供另类参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This 14-year-old Fujifilm lens is one of the trendiest primes in Japan right now. The second-place lens? It’s an even older Canon DSLR optic"
+    },
     {
       "id": "recvs4fZdg7g6i",
       "title": "来自我们采访过的专业人士的4个风景摄影技巧",
@@ -56,6 +366,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "4 Landscape Photography Tips From the Pros We’ve Interviewed"
+    },
+    {
+      "id": "recvs5HTU6YDdJ",
+      "title": "为什么更换我的死机MacBook Pro让我花了一大笔钱（以及为什么相机设备是下一个）",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/i-hate-this-my-2021-macbook-pro-died-and-now-i-have-to-spend-a-lot-of-because-of-the-hot-ram-chip-prices/",
+      "publish_time": "2026-08-12T14:46:45+08:00",
+      "summary": "作者因MacBook Pro损坏需更换，发现翻新机价格飙升，2021年64GB内存机型现价更高，文章指出相机设备可能面临类似涨价趋势。",
+      "recommendation": "从MacBook涨价趋势推演相机设备价格走向，为影像爱好者提供购机时机参考，观点独特但数据有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Replacing My Dead MacBook Pro Cost Me A Fortune (And Why Camera Gear Is Next)"
     },
     {
       "id": "recvs4fWiDgBzH",
@@ -7419,333 +7744,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Curiosity Photographs a ‘Sea of Polygons’ on Mars"
-    },
-    {
-      "id": "recvqTbmPyO38h",
-      "title": "被Echolens坑了？不妨考虑这些替代品",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/30/burned-by-echolens-consider-these-instead/",
-      "publish_time": "2026-07-31T03:00:00+08:00",
-      "summary": "Echolens关闭后，Phoblographer推荐多款现代紧凑型相机替代品，基于员工测试结果。",
-      "recommendation": "Echolens停运后，本文基于实测推荐多款紧凑型相机替代品，提供具体型号与对比数据，对寻找便携相机的用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Burned by Echolens? Consider These Instead"
-    },
-    {
-      "id": "recvqTb4ZzZBzY",
-      "title": "限时优惠：三阳85mm f/1.4 II FE仅售444美元",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/limited-time-deal-samyang-85mm-f-1-4-ii-fe-for-44-only/",
-      "publish_time": "2026-07-31T01:40:18+08:00",
-      "summary": "三阳85mm f/1.4 II FE镜头在亚马逊限时促销仅售444美元，比BHphoto的699美元便宜255美元，同时还有Anker产品和Vanguard碳纤维三脚架优惠。",
-      "recommendation": "提供三阳85mm f/1.4 II FE镜头限时低价信息，比常规售价低255美元，附赠Anker及三脚架优惠，适合预算有限的影像爱好者关注。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Limited time deal: Samyang 85mm f/1.4 II FE for $444 only"
-    },
-    {
-      "id": "recvqTbhLYGcjE",
-      "title": "大疆Osmo Pocket 4P全球发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/dji_osmo_pocket_4p_goes_global_-news-73941.php",
-      "publish_time": "2026-07-31T01:33:02+08:00",
-      "summary": "大疆Osmo Pocket 4P全球发布，除美国外已在多国上市。采用双镜头和1英寸主传感器，支持LOFIC技术，f/2.0光圈，20mm等效焦距，最高可录制4K视频。",
-      "recommendation": "大疆Osmo Pocket 4P双镜头与1英寸传感器结合LOFIC技术，f/2.0光圈20mm等效焦距，4K录制规格明确，为手持影像提供新选择。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI Osmo Pocket 4P goes global"
-    },
-    {
-      "id": "recvqTaRsAVDFr",
-      "title": "HoverAir Versa 是全球首款飞行口袋相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/hoverair-versa-is-the-worlds-first-flying-pocket-camera/",
-      "publish_time": "2026-07-31T01:11:22+08:00",
-      "summary": "HoverAir发布全球首款飞行口袋相机Versa，可快速转变为空中相机，自动跟随用户，适合水上拍摄。",
-      "recommendation": "解析HoverAir Versa作为首款飞行口袋相机的设计逻辑与水上拍摄场景适配性，含自动跟随算法与便携性数据，为航拍爱好者提供差异化产品洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "HoverAir Versa Is the World’s First Flying Pocket Camera"
-    },
-    {
-      "id": "recvqTb7ypIyam",
-      "title": "腾龙加大新品发布力度，尽管数码相机市场萎缩，仍以大幅优势领跑第三方镜头市场",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-doubled-down-on-launches-and-now-leads-the-third-party-lens-market-by-a-large-percentage-despite-a-shrinking-digital-camera-market",
-      "publish_time": "2026-07-31T00:47:14+08:00",
-      "summary": "腾龙在数码相机市场萎缩下仍以60%份额领跑第三方镜头市场，包括为其他品牌制造的镜头。",
-      "recommendation": "文章提供腾龙在萎缩市场中60%份额的独家数据，分析其领跑第三方镜头市场的策略，对关注镜头品牌格局的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tamron doubled down on launches – and now leads the third-party lens market by a large percentage, despite a \"shrinking digital camera market\""
-    },
-    {
-      "id": "recvqTaUclYqNG",
-      "title": "Cooke 将备受赞誉的 AP3 和 SP3 电影定焦镜头引入尼康 Z 卡口",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/cooke-brings-its-acclaimed-ap3-and-sp3-cinema-primes-to-nikon-z-mount/",
-      "publish_time": "2026-07-31T00:30:02+08:00",
-      "summary": "Cooke Optics 将 AP3 和 SP3 系列电影定焦镜头引入尼康 Z 卡口，扩展了现有卡口选项。",
-      "recommendation": "Cooke电影镜头适配尼康Z卡口，为视频创作者提供专业级光学选择。文章详述AP3与SP3系列技术参数及卡口兼容性，含独家镜头结构数据，帮助用户评估电影镜头转接方案的画质与操作差异。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Cooke Brings Its Acclaimed AP3 and SP3 Cinema Primes to Nikon Z-Mount"
-    },
-    {
-      "id": "recvqTbkiToRjN",
-      "title": "Redmi K100 Pro 泄露图曝光，采用活力红配色",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmi_k100_pro_leaks_with_vibrant_red_color-news-73939.php",
-      "publish_time": "2026-07-31T00:18:02+08:00",
-      "summary": "Redmi K100 Pro泄露图曝光，采用活力红配色，设计类似K90 Pro Max，三摄模组，可能配备Bose低音炮，樱桃红为主打色。",
-      "recommendation": "曝光Redmi K100 Pro活力红配色及三摄模组设计，提供外观细节与可能配置信息，对关注新品外观趋势的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Redmi K100 Pro leaks with vibrant red color"
-    },
-    {
-      "id": "recvqTbalqozTE",
-      "title": "尼康Z 180-600mm f/5.6-6.3 VR：填补预算长焦与专业镜头之间的空白——我的个人最爱",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-nikon-z-180-600mm-f-5-6-6-3-vr-bridges-the-gap-between-budget-teles-and-pro-grade-glass-and-its-a-personal-favorite",
-      "publish_time": "2026-07-31T00:04:59+08:00",
-      "summary": "尼康Z 180-600mm f/5.6-6.3 VR镜头物超所值，填补预算长焦与专业镜头空白，是体育和野生动物爱好者的梦想镜头。",
-      "recommendation": "深度解析尼康Z 180-600mm如何在画质、对焦与便携性间取得平衡，提供预算有限用户接近专业级长焦的实用方案。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Nikon Z 180-600mm f/5.6-6.3 VR bridges the gap between budget teles and pro-grade glass – and it’s a personal favorite"
-    },
-    {
-      "id": "recvqTbpDLQ7Zl",
-      "title": "这张图片不是AI生成的，但如果你这么想，我也不怪你",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/30/this-image-isnt-ai-but-i-wouldnt-blame-you-if-you-thought-it-was/",
-      "publish_time": "2026-07-31T00:00:00+08:00",
-      "summary": "摄影师20年经验发现，人们喜爱柔和阴影和光线，AI时代将优秀摄影提升到绘画标准，但强调该图非AI生成。",
-      "recommendation": "探讨AI时代摄影美学标准，以20年经验解析柔和光影的绘画感，提供非AI生成影像的辨识视角，对理解计算摄影与真实摄影边界有启发。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Image Isn’t AI. But I Wouldn’t Blame You if You Thought it Was"
-    },
-    {
-      "id": "recvqTaWuAqBe1",
-      "title": "尼康在与唯卓仕的专利诉讼中败诉",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/nikon-loses-its-patent-lawsuit-against-viltrox/",
-      "publish_time": "2026-07-30T23:27:20+08:00",
-      "summary": "尼康在中国起诉唯卓仕侵犯Z卡口技术知识产权，但已败诉。",
-      "recommendation": "解析尼康败诉唯卓仕的专利案，揭示Z卡口开放争议与第三方镜头市场影响，对关注卡口生态的影像用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon Loses its Patent Lawsuit Against Viltrox"
-    },
-    {
-      "id": "recvqTbcQMLj6f",
-      "title": "人们利用这个巧妙的Pixel 1漏洞来无限使用Google Photos存储——而且真的有效！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cloud-storage/people-are-using-this-ingenious-pixel-1-hack-to-exploit-unlimited-google-photos-storage-and-it-actually-works",
-      "publish_time": "2026-07-30T22:51:16+08:00",
-      "summary": "人们利用原版Pixel 1的终身无限存储漏洞，通过该手机上传照片以免费使用Google Photos，谷歌仍遵守承诺",
-      "recommendation": "揭示Pixel 1免费无限存储的实用漏洞，对影像爱好者有实际存储价值，提供操作细节与谷歌政策解读。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "People are using this ingenious Pixel 1 hack to exploit unlimited Google Photos storage – and it actually works!"
-    },
-    {
-      "id": "recvqTbfjMmFBa",
-      "title": "L型支架是一个简单的摄影配件。Peak Design证明，一个不那么简单的支架价值超过50万",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/an-l-bracket-is-a-simple-photography-accessory-peak-design-has-proved-its-worth-more-than-half-a-million-for-one-thats-not-so-simple",
-      "publish_time": "2026-07-30T22:47:33+08:00",
-      "summary": "Peak Design第17次Kickstarter众筹为模块化L型支架筹集超50万美元，证明复杂设计的高价值",
-      "recommendation": "解析Peak Design L型支架众筹超50万美元的案例，揭示高端配件设计溢价逻辑，为摄影爱好者提供产品创新与市场验证的深度参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "An L-Bracket is a simple photography accessory. Peak Design has proved it’s worth more than half a million for one that’s not so simple"
-    },
-    {
-      "id": "recvqTaZjIEhuE",
-      "title": "Viltrox推出DC-T1 5英寸手机监视器，专为移动内容创作者设计",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/viltrox-launches-dc-t1-5-inch-phone-monitor-for-mobile-content-creators/",
-      "publish_time": "2026-07-30T22:43:30+08:00",
-      "summary": "Viltrox推出DC-T1 5英寸手机监视器，通过USB-C连接提供触摸屏控制，为手机创作者利用后置摄像头自拍、直播等提供更大实时取景画面。",
-      "recommendation": "Viltrox这款5英寸监视器通过USB-C直连手机，解决后置自拍取景痛点，适合直播与移动创作。文章提供具体参数与连接方式，属实用产品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox Launches DC-T1 5-Inch Phone Monitor for Mobile Content Creators"
-    },
-    {
-      "id": "recvqRSGO73ovl",
-      "title": "富士X-T5从日本商店消失，暗示富士X-T6即将到来",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-x-t5-disappearing-from-japanese-stores-hints-at-arrival-of-fujifilm-x-t6/",
-      "publish_time": "2026-07-30T22:15:00+08:00",
-      "summary": "日本商店将富士X-T5标记为停产，暗示X-T6即将发布，传闻称X-T6和XF镜头将于9月推出。",
-      "recommendation": "从X-T5停产信号预判X-T6发布节奏，提供富士APS-C旗舰更新线索，对关注富士系统的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm X-T5 Disappearing from Japanese Stores Hints at Arrival of Fujifilm X-T6"
-    },
-    {
-      "id": "recvqRSpcRieqc",
-      "title": "他为《国家地理》悬吊在悬崖边——他的相机包里有什么",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/he-dangles-off-cliffs-for-national-geographic-heres-whats-in-his-camera-bag/",
-      "publish_time": "2026-07-30T21:54:17+08:00",
-      "summary": "社区成员Andrew Kornylak为《国家地理》悬吊悬崖边拍摄，其相机包内装备揭秘，展现从惊险高度俯瞰世界的摄影技术。",
-      "recommendation": "揭秘《国家地理》摄影师悬崖拍摄的相机包配置，含极端环境下的器材选择与防护技巧，对户外摄影爱好者有实用参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "He dangles off cliffs for National Geographic – here’s what’s in his camera bag"
-    },
-    {
-      "id": "recvqRSBwIKE7x",
-      "title": "全球Redmi Note 17设备完整规格及泄露图片曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/full_specs_for_the_global_redmi_note_17_devices_are_out_alongside_leaked_images-news-73938.php",
-      "publish_time": "2026-07-30T21:47:02+08:00",
-      "summary": "Redmi Note 17全球版曝光，6.99英寸120Hz AMOLED屏，50MP主摄，7700mAh电池配45W快充。",
-      "recommendation": "曝光Redmi Note 17影像规格：50MP主摄参数及6.99英寸屏，适合关注中端机传感器配置的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Full specs for the global Redmi Note 17 devices are out alongside leaked images"
-    },
-    {
-      "id": "recvqRSa78TwEk",
-      "title": "索尼正式尝试收购腾龙",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/sony-is-officially-trying-to-acquire-tamron/",
-      "publish_time": "2026-07-30T21:33:50+08:00",
-      "summary": "索尼正式向腾龙提出收购要约，腾龙已证实，旨在增强镜头制造能力。",
-      "recommendation": "分析索尼收购腾龙对镜头市场格局的影响，提供独家行业视角，帮助影像爱好者预判未来镜头生态变化。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony Is Officially Trying to Acquire Tamron"
-    },
-    {
-      "id": "recvqTb2fpwEmz",
-      "title": "索尼正式尝试收购腾龙",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/sony-is-officially-trying-to-acquire-tamron/",
-      "publish_time": "2026-07-30T21:33:50+08:00",
-      "summary": "索尼正式向镜头制造商腾龙提出收购要约，腾龙已证实此事，旨在增强影像业务竞争力。",
-      "recommendation": "独家披露索尼收购腾龙要约细节，解析对镜头生态与副厂格局的潜在影响，为影像用户预判未来产品策略提供关键信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Sony Is Officially Trying to Buy Tamron"
-    },
-    {
-      "id": "recvqRScyXmdYw",
-      "title": "美国都市生活与捕捉其魅力的影响摄影师",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/american-urban-life-and-the-influential-photographers-who-captured-it/",
-      "publish_time": "2026-07-30T21:05:35+08:00",
-      "summary": "一场新展览通过20世纪重要摄影师视角，记录美国城市生活快速扩张，捕捉其魅力与影响。",
-      "recommendation": "通过20世纪摄影师视角，解析美国城市扩张的视觉语言，提供街头摄影构图与光影捕捉的实战参考，适合提升纪实拍摄思维。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "American Urban Life and the Influential Photographers Who Captured It"
-    },
-    {
-      "id": "recvqRS7hhUkO3",
-      "title": "腾龙12-20mm f/2.8 FE镜头现已发货 + Christopher Frost最新评测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/tamron-12-20mm-f-2-8-fe-lens-is-now-shipping-new-review-by-christopher-frost/",
-      "publish_time": "2026-07-30T21:04:37+08:00",
-      "summary": "腾龙12-20mm f/2.8 FE镜头已发货，Christopher Frost发布新评测，该镜头为超广角变焦，恒定光圈f/2.8，适配索尼E卡口。",
-      "recommendation": "Christopher Frost评测提供超广角变焦镜头MTF曲线与实拍样张，恒定f/2.8光圈在风光、建筑摄影中的暗光表现有数据支撑。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tamron 12-20mm f/2.8 FE lens is now shipping  + new review by Christopher Frost"
-    },
-    {
-      "id": "recvqRSE7vhsJM",
-      "title": "三星Galaxy F70 Pro被线上零售商曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_f70_pro_design_teased-news-73937.php",
-      "publish_time": "2026-07-30T20:29:02+08:00",
-      "summary": "三星Galaxy F70 Pro被印度零售商Flipkart预热曝光，采用垂直摄像头设计，此前已在Geekbench出现，预计即将上市。",
-      "recommendation": "曝光三星F70 Pro垂直摄像头设计及Geekbench跑分，为影像爱好者提供新机影像硬件布局的早期线索，常规资讯可关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy F70 Pro teased by online retailer"
     }
   ]
 }
