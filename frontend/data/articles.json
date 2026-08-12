@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-12T11:11:36.494398+08:00",
+    "updated_at": "2026-08-12T16:05:53.762594+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 94
+      "count": 93
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,66 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 48
+      "count": 47
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 374
+      "count": 372
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 149
+      "count": 151
     }
   ],
   "articles": [
+    {
+      "id": "recvs4fZdg7g6i",
+      "title": "来自我们采访过的专业人士的4个风景摄影技巧",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/12/4-landscape-photography-tips-from-the-pros-weve-interviewed/",
+      "publish_time": "2026-08-12T15:00:00+08:00",
+      "summary": "风景摄影并非简单，需注重细节。专业人士提供4个技巧，帮助新手提升风景摄影水平。",
+      "recommendation": "四位专业人士的实战经验提炼，涵盖构图、光线与后期细节，对新手提升风景摄影有直接参考价值，观点务实。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "4 Landscape Photography Tips From the Pros We’ve Interviewed"
+    },
+    {
+      "id": "recvs4fWiDgBzH",
+      "title": "vivo X500、X500 Pro和X500 Pro Max设计细节、屏幕尺寸及SoC信息泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_design_details_screen_sizes_and_soc_details_leak-news-74119.php",
+      "publish_time": "2026-08-12T12:31:02+08:00",
+      "summary": "vivo下月将推X500系列三款机型，泄露显示Pro版有大尺寸居中圆形相机岛，普通版左上角小凸起，X500 Pro配6.37英寸屏。",
+      "recommendation": "X500系列相机岛设计及屏幕规格泄露，提前掌握Pro版影像硬件布局，对关注vivo旗舰迭代的玩家有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "vivo X500, X500 Pro, and X500 Pro Max design details, screen sizes, and SoC details leak"
+    },
+    {
+      "id": "recvs4g1RnKWat",
+      "title": "如何让镜头光晕为你所用",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/12/how-to-make-lens-flares-work-for-you/",
+      "publish_time": "2026-08-12T12:00:00+08:00",
+      "summary": "相机厂商尽力消除镜头光晕，但作者偏好其温暖感，文章介绍如何利用镜头光晕提升画面效果。",
+      "recommendation": "从逆光拍摄到光晕控制，文章提供实用技巧与光学原理，帮助爱好者突破常规构图，提升画面氛围感。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "How to Make Lens Flares Work For You"
+    },
     {
       "id": "recvs33LliJjbA",
       "title": "泄露显示，Fairphone 6+将升级芯片组，性能也将略有提升",
@@ -7700,54 +7746,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Samsung Galaxy F70 Pro teased by online retailer"
-    },
-    {
-      "id": "recvqRSulQsr28",
-      "title": "这怎么可能？腾龙“魔法”固件更新将镜头近摄距离缩短至半微距",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/how-is-this-possible-magic-tamron-firmware-update-improves-close-focusing-of-lens-to-half-macro",
-      "publish_time": "2026-07-30T20:29:00+08:00",
-      "summary": "腾龙25-200mm f/2.8-5.6镜头通过固件更新将近摄距离缩短至半微距，技术原理不明",
-      "recommendation": "固件更新突破物理限制，近摄距离缩短至半微距，技术原理成谜。对微距爱好者具实操价值，但缺乏官方技术解释，深度有限。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "How is this possible? \"Magic\" Tamron firmware update improves close-focusing of lens to half macro"
-    },
-    {
-      "id": "recvqRSJvhldEI",
-      "title": "腾龙25-200mm G2：一次更新近摄能力近乎翻倍",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/30/tamron-25-200mm-g2-nearly-doubles-its-close-focus-power-with-one-update/",
-      "publish_time": "2026-07-30T20:09:43+08:00",
-      "summary": "腾龙更新25-200mm f2.8-5.6 G2镜头，近摄能力近乎翻倍，以低价提供广焦距覆盖，适配索尼相机。",
-      "recommendation": "文章聚焦腾龙25-200mm G2近摄能力翻倍这一关键升级，提供广焦距覆盖与低价位信息，对索尼用户选购高性价比旅行镜头有直接参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Tamron 25-200mm G2 Nearly Doubles Its Close-Focus Power With One Update"
-    },
-    {
-      "id": "recvqRSfhg1vAB",
-      "title": "DJI Osmo Pocket 4P评测：好运能否梅开二度？",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/30/dji-osmo-pocket-4p-review-can-lightning-strike-twice/",
-      "publish_time": "2026-07-30T20:01:29+08:00",
-      "summary": "大疆Osmo Pocket 4P评测：Pocket 3广受欢迎，Pocket 4更新标准但未轰动，数月后经漫长发布推出Pocket 4P，能否再创佳绩？",
-      "recommendation": "深度解析Pocket 4P升级点，对比前代实测数据，揭示大疆产品策略与影像性能迭代逻辑。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI Osmo Pocket 4P Review: Can Lightning Strike Twice?"
     }
   ]
 }
