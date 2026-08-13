@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-13T16:12:15.183899+08:00",
+    "updated_at": "2026-08-13T22:06:24.968765+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 38
+      "count": 37
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 91
+      "count": 93
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,295 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 44
+      "count": 43
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 383
+      "count": 379
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 147
+      "count": 150
     }
   ],
   "articles": [
+    {
+      "id": "recvsbyAmziVC6",
+      "title": "意大利苹果广告：幼儿使用iPhone引发争议",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/13/italian-apple-ad-featuring-a-toddler-with-an-iphone-sparks-controversy/",
+      "publish_time": "2026-08-13T21:52:11+08:00",
+      "summary": "苹果意大利广告展示幼儿使用iPhone，引发旁观者愤怒并被提交监管机构审查。",
+      "recommendation": "常规资讯，可了解行业动态。从影像消费伦理角度切入，引发对儿童使用拍摄设备的思考，但缺乏独家数据与深度分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Italian Apple Ad Featuring a Toddler With an iPhone Sparks Controversy"
+    },
+    {
+      "id": "recvsbyDfRbQ0i",
+      "title": "科学家首次拍到海豚用贝壳捕鱼的世界级影像",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/13/scientists-capture-world-first-footage-of-dolphins-using-seashells-to-catch-fish/",
+      "publish_time": "2026-08-13T21:35:17+08:00",
+      "summary": "科学家首次拍到海豚用贝壳捕鱼影像，证明幼豚或从母豚学习此技巧。",
+      "recommendation": "野生动物行为影像的拍摄技巧与设备选择参考，揭示长焦镜头在生态记录中的关键作用，含幼豚学习行为的独家观察数据。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Scientists Capture World-First Footage of Dolphins Using Seashells to Catch Fish"
+    },
+    {
+      "id": "recvsbyVYjl1LZ",
+      "title": "苏格兰皇家艺术学院举办二百周年庆典展览，庆祝苏格兰摄影史200年",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/200-years-of-scottish-photographic-history-celebrated-as-royal-scottish-academy-throws-bicentennial-birthday-bonanza-exhibition",
+      "publish_time": "2026-08-13T21:01:45+08:00",
+      "summary": "苏格兰皇家艺术学院举办二百周年庆典摄影展，展出18世纪至今约120位艺术家作品，庆祝苏格兰摄影史200年。",
+      "recommendation": "以120位艺术家作品梳理苏格兰摄影200年脉络，提供历史语境与美学演进视角，适合关注摄影史与艺术表达的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "200 years of Scottish photographic history celebrated, as Royal Scottish Academy throws bicentennial birthday bonanza exhibition"
+    },
+    {
+      "id": "recvsbzhacPLQK",
+      "title": "这款DIY红外闪光灯让街头摄影师在不被察觉的情况下拍摄",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/13/this-diy-infrared-flash-lets-street-photographers-shoot-without-being-noticed/",
+      "publish_time": "2026-08-13T21:00:00+08:00",
+      "summary": "Reddit胶片摄影师发明DIY红外闪光灯，利用红外光不惊动被摄对象，实现低调街头摄影，核心价值在于解决闪光灯干扰问题。",
+      "recommendation": "红外闪光灯DIY方案罕见，提供低成本改装思路与实战参数，对街头摄影爱好者有直接参考价值，可拓展低干扰拍摄技巧。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This DIY Infrared Flash Lets Street Photographers Shoot Without Being Noticed"
+    },
+    {
+      "id": "recvsbyFXsjEel",
+      "title": "AI正在扼杀中国微短剧",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/13/ai-is-killing-off-chinese-microdramas/",
+      "publish_time": "2026-08-13T20:58:02+08:00",
+      "summary": "中国微短剧为智能手机制作的短竖屏视频剧集，每集不超两分钟，情节俗套且以悬念收尾，故事横跨20至100集，AI正对其产生冲击。",
+      "recommendation": "解析AI对竖屏短剧制作流程的冲击，揭示计算摄影与生成式内容在手机端的博弈，为影像创作者提供行业转型参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "AI is Killing Off Chinese Microdramas"
+    },
+    {
+      "id": "recvsbyIHtV6kK",
+      "title": "五分之一的人将相机遗留在公共场所无人看管",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/13/one-in-five-people-leave-their-camera-unattended-in-public-gen-x/",
+      "publish_time": "2026-08-13T20:41:10+08:00",
+      "summary": "调查显示超五分之一的人会将手机或相机遗留在公共场所，其中45至60岁人群最易如此。",
+      "recommendation": "调查数据揭示设备遗落习惯与年龄关联，助影像爱好者反思携带与保管策略，属常规行业观察。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "One in Five People Leave Their Camera Unattended in Public"
+    },
+    {
+      "id": "recvsbyYBbO4wV",
+      "title": "紧凑型相机凭借“极致标准”斩获第三项行业大奖——独一无二，荣膺“最佳中的最佳”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/compact-camera-wins-third-major-industry-award-for-extreme-standard-its-one-of-a-kind-and-earns-best-of-the-best",
+      "publish_time": "2026-08-13T20:10:53+08:00",
+      "summary": "全球最高分辨率紧凑型相机凭借激进设计荣获红点最佳中的最佳奖，这是其第三项行业大奖，凸显独特价值。",
+      "recommendation": "解析紧凑型相机极致设计获红点最高奖的深层逻辑，含独家技术参数与行业对比，助你理解旗舰卡片机的差异化价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Compact camera wins third major industry award for \"extreme standard\" – it's one of a kind and earns 'Best of the Best'"
+    },
+    {
+      "id": "recvsbyLk7hj7J",
+      "title": "婚礼摄影师因伴娘钱包被盗被误捕，诉讼获关键裁决",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/13/wedding-photographer-falsely-arrested-over-maid-of-honors-stolen-wallet-wins-key-ruling-in-lawsuit/",
+      "publish_time": "2026-08-13T19:52:34+08:00",
+      "summary": "婚礼摄影师起诉警方误捕，称其被错指偷伴娘钱包，损害职业声誉，案件获关键裁决推进。",
+      "recommendation": "摄影师职业风险案例，揭示行业法律盲区，对自由职业者有参考价值，常规资讯可了解动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Wedding Photographer Falsely Arrested Over Maid of Honor’s Stolen Wallet Wins Key Ruling in Lawsuit"
+    },
+    {
+      "id": "recvsbzbxXOg8R",
+      "title": "荣耀Magic9 Pro将配备两颗200MP摄像头，新传闻称",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_magic9_pro_to_have_two_200mp_cameras_new_rumor_claims-news-74156.php",
+      "publish_time": "2026-08-13T19:51:02+08:00",
+      "summary": "荣耀Magic9 Pro据传将配备两颗200MP摄像头，其中潜望式长焦采用1/1.4英寸传感器，光圈f/2.6，支持OIS，预计9月发布。",
+      "recommendation": "双200MP主摄与潜望长焦组合罕见，1/1.4英寸传感器和f/2.6光圈数据具体，对关注旗舰影像硬件迭代的爱好者有参考价值。",
+      "categories": [
+        "传感器硬件",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Honor Magic9 Pro to have two 200MP cameras, new rumor claims"
+    },
+    {
+      "id": "recvsbyNN6hBqs",
+      "title": "竖屏视频让这位摄影师抓狂",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/13/vertical-video-is-driving-this-cameraman-insane/",
+      "publish_time": "2026-08-13T19:25:33+08:00",
+      "summary": "社交媒体对摄影师是双刃剑，提供展示平台但算法决定内容曝光，竖屏视频令摄影师困扰。",
+      "recommendation": "剖析竖屏视频对摄影构图的冲击，算法与美学的矛盾点值得深思，适合关注内容创作趋势的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Vertical Video is Driving This Cameraman Insane"
+    },
+    {
+      "id": "recvsbz1315iSi",
+      "title": "“不合时宜的照片”：徕卡将俄罗斯摄影师从入围名单中移除的决定，迫使摄影界直面一些棘手问题",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/inconvenient-photographs-leicas-decision-to-pull-a-russian-from-its-awards-shortlist-is-forcing-the-photography-world-to-face-some-hard-questions",
+      "publish_time": "2026-08-13T19:23:25+08:00",
+      "summary": "徕卡因俄乌战争移除俄摄影师，引发摄影界对竞赛资格规则模糊的争议，迫使行业反思政治与艺术边界。",
+      "recommendation": "行业事件深度剖析，揭示竞赛规则模糊性与政治介入艺术边界的矛盾，对关注摄影伦理与行业动态者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"Inconvenient photographs\": Leica's decision to pull a Russian from its awards shortlist is forcing the photography world to face some hard questions"
+    },
+    {
+      "id": "recvsbz3DNOGg4",
+      "title": "“你保护的是价值数千美元的设备——更重要的是，你的视力。”日全食摄影师解释拍摄这一世界最伟大现象之一需要什么",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/youre-protecting-equipment-worth-thousands-of-dollars-and-more-importantly-your-eyesight-total-solar-eclipse-photographer-explains-what-it-takes-to-capture-one-of-the-worlds-greatest-phenomena",
+      "publish_time": "2026-08-13T19:04:04+08:00",
+      "summary": "尼康摄影师Angel Fux为8月12日日全食准备两年多，强调拍摄需保护设备和视力，并解释捕捉这一罕见现象所需条件。",
+      "recommendation": "尼康摄影师亲述日全食拍摄实战，涵盖设备防护与视力安全要点，对天文摄影爱好者有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "“You’re protecting equipment worth thousands of dollars – and more importantly, your eyesight.” Total solar eclipse photographer explains what it takes to capture one of the world’s greatest phenomena"
+    },
+    {
+      "id": "recvsbz6cSE4AF",
+      "title": "Chris Burkard 将这几款相机包历经沙尘、风暴与颠簸考验——如今这些久经沙场的包款在美国起售价不到30美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/chris-burkard-put-these-camera-bags-through-sand-storms-and-jostling-and-now-these-battle-tested-bags-start-at-under-usd30-in-the-us",
+      "publish_time": "2026-08-13T18:58:26+08:00",
+      "summary": "摄影师Chris Burkard测试Pelican Aegis包系列，历经沙尘风暴颠簸，单肩包美国售价不到30美元。",
+      "recommendation": "实地测试Pelican Aegis包系列，含沙尘风暴颠簸场景及具体售价，为户外拍摄者提供耐用性参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Chris Burkard put these camera bags through sand, storms and jostling – and now these battle-tested bags start at under $30 in the US"
+    },
+    {
+      "id": "recvsbzec0RWvy",
+      "title": "谷歌将于此时在印度推出无屏幕Fitbit Air",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/this_is_when_google_is_launching_its_screenless_fitbit_air_in_india-news-74152.php",
+      "publish_time": "2026-08-13T18:52:02+08:00",
+      "summary": "谷歌将于10月在印度推出无屏幕健身追踪器Fitbit Air，该设备于5月发布，采用Whoop推广的流行形态，供货情况在部分市场不稳定。",
+      "recommendation": "常规资讯，可了解行业动态。Fitbit Air无屏幕设计虽非影像核心，但可关注其传感器与健康监测数据，对可穿戴影像生态有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This is when Google is launching its screen-less Fitbit Air in India"
+    },
+    {
+      "id": "recvsbzjTr4del",
+      "title": "为什么你需要三脚架，是的，就是你",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/13/why-you-yes-you-need-a-tripod/",
+      "publish_time": "2026-08-13T18:00:00+08:00",
+      "summary": "相机追求轻便快速，忽视技巧，作者主张用三脚架放慢摄影节奏，强调技巧而非技术依赖。",
+      "recommendation": "反技术依赖视角，强调三脚架对摄影节奏与构图技巧的实质提升，适合追求进阶的影像爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why You, Yes You, Need a Tripod"
+    },
+    {
+      "id": "recvsbz8TqiUak",
+      "title": "Capture One CEO：我们自视为摄影公司，从未有意转型为AI公司",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/we-think-of-ourselves-as-a-photography-company-we-never-had-any-disposition-to-reinvent-ourselves-as-an-ai-company-says-capture-one-ceo",
+      "publish_time": "2026-08-13T17:34:31+08:00",
+      "summary": "Capture One CEO强调公司定位为摄影公司，非AI公司，在开发新工具时，将摄影师、创造力和图像权利置于核心。",
+      "recommendation": "CEO明确表态不转型AI，揭示Capture One产品战略与摄影师权益立场，对关注后期软件生态与行业走向的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"We think of ourselves as a photography company…we never had any disposition to reinvent ourselves as an AI company,\" says Capture One CEO"
+    },
+    {
+      "id": "recvsbyTqMS5Qr",
+      "title": "索尼FE 100-400mm f/5.6-8 OSS镜头 + 2倍增距镜评测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fe-100-400mm-f-5-6-8-oss-lens-2x-teleconverter-review/",
+      "publish_time": "2026-08-13T17:25:42+08:00",
+      "summary": "索尼FE 100-400mm f/5.6-8 OSS镜头搭配2倍增距镜，由Christopher Frost评测，预购信息已公布，核心价值在于验证小光圈搭配增距镜的可行性。",
+      "recommendation": "实测小光圈长焦配增距镜的可行性，提供样张与对焦数据，对生态摄影爱好者有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony FE 100-400mm f/5.6-8 OSS lens + 2x Teleconverter review"
+    },
+    {
+      "id": "recvsbyQuXNpha",
+      "title": "摄影师捕捉到令人惊叹的日全食",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/13/photographers-capture-stunning-total-solar-eclipse/",
+      "publish_time": "2026-08-13T16:58:05+08:00",
+      "summary": "摄影师在欧洲捕捉到令人惊叹的日全食，展示了天文奇观的壮丽景象。",
+      "recommendation": "日全食拍摄涉及曝光控制与动态范围挑战，文中或含参数设置与构图技巧，对天文摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Photographers Capture Stunning Total Solar Eclipse"
+    },
     {
       "id": "recvsa7RNdPvMJ",
       "title": "据报道，三星Galaxy S27系列不会效仿即将推出的iPhone这一功能",
@@ -7476,282 +7751,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Scientists have used AI-powered camera traps in the fight to save bees. THIS is how I want AI to be used, not to generate slop"
-    },
-    {
-      "id": "recvr4N9o52iL3",
-      "title": "2026年最佳紧凑型变焦相机",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/buying-guide-best-compact-zoom-cameras/",
-      "publish_time": "2026-08-02T00:32:19+08:00",
-      "summary": "2026年最佳紧凑型变焦相机推荐，涵盖各预算，无需换镜头即可拍出高质量照片，便携专业，核心价值在于提供全面选购指南。",
-      "recommendation": "涵盖各价位紧凑变焦相机，提供传感器尺寸、镜头参数等关键数据对比，助你快速定位适合机型，选购参考价值明确。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Best compact zoom cameras in 2026"
-    },
-    {
-      "id": "recvr3qpO6Zuom",
-      "title": "KEH幕后揭秘：无数相机与世界级维修中心",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/01/behind-the-curtain-at-keh-countless-cameras-and-a-world-class-repair-center/",
-      "publish_time": "2026-08-01T22:01:09+08:00",
-      "summary": "作者二访亚特兰大，在KEH空调仓库和零售店体验，揭示其世界级维修中心与相机服务，核心价值在于展示KEH的专业维修能力。",
-      "recommendation": "深入KEH维修中心，揭秘二手相机质检流程与专业服务，对淘二手器材的影友有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Behind the Curtain at KEH: Countless Cameras and a World-Class Repair Center"
-    },
-    {
-      "id": "recvr3qyxWi5ZI",
-      "title": "CMF Clip Pro 蓝牙耳机下周上市",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/nothing_cmf_clip_pro_launch_date-news-73972.php",
-      "publish_time": "2026-08-01T20:35:02+08:00",
-      "summary": "Nothing旗下CMF品牌预告新款CMF Clip Pro OWS耳机，将于8月4日发布，目前仅公布发布时间和外观，其他细节待揭晓。",
-      "recommendation": "常规资讯，可了解行业动态。虽非影像内容，但OWS耳机形态或影响未来影像设备音频采集设计，关注CMF品牌动向可作参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "CMF Clip Pro Bluetooth earphones are coming next week"
-    },
-    {
-      "id": "recvr3qDNMO2Ud",
-      "title": "索尼FX3与FX5对比：老将还是开放画幅？索尼电影机这样比",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sony-fx3-vs-sony-fx5",
-      "publish_time": "2026-08-01T20:30:00+08:00",
-      "summary": "索尼FX3与FX5对比，FX5采用开放画幅传感器，分辨率更高，动态范围更广，适合电影制作；FX3更轻便，性价比高，适合单兵作战。",
-      "recommendation": "FX3与FX5画幅差异及动态范围数据对比，助电影创作者权衡便携与画质，明确升级方向。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony FX3 vs FX5: Old faithful or open gate? This is how Sony's cinema cameras compare"
-    },
-    {
-      "id": "recvr3qmOCuEfQ",
-      "title": "索尼FX5评测汇总",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-fx5-reviews-woundup/",
-      "publish_time": "2026-08-01T20:00:19+08:00",
-      "summary": "索尼FX5相机及配件在多家电商有售，评测汇总文章首发于sonyalpharumors，提供购买渠道和产品信息。",
-      "recommendation": "汇总索尼FX5评测与购买渠道，提供电商在售信息，适合关注新机动态的影像爱好者快速了解市场情况。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Sony FX5 reviews roundup"
-    },
-    {
-      "id": "recvr3qJjRHZo0",
-      "title": "新加坡人都在加购的紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/01/the-compact-cameras-everyone-in-singapore-is-adding-to-their-carts/",
-      "publish_time": "2026-08-01T20:00:00+08:00",
-      "summary": "紧凑型相机因价格优势受年轻摄影师青睐，新加坡成主要市场，亚马逊上多款热销。",
-      "recommendation": "聚焦新加坡紧凑型相机热销趋势，提供亚马逊榜单数据与价格分析，助你把握年轻用户购机偏好及市场动向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Compact Cameras Everyone in Singapore Is Adding to their Carts"
-    },
-    {
-      "id": "recvr3qskkBprN",
-      "title": "摄影师耗时十年记录美国终身监禁女性囚犯的生活",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/01/photographer-spends-10-years-chronicling-women-serving-life-sentences-in-america/",
-      "publish_time": "2026-08-01T19:00:48+08:00",
-      "summary": "摄影师耗时十年记录美国终身监禁女性囚犯，挑战单一行为定义她们的观点，展现其复杂人性。",
-      "recommendation": "十年纪实摄影项目，呈现长期跟踪拍摄的叙事深度与伦理考量，对人文纪实题材的选题、信任建立及影像呈现有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Photographer Spends 10 Years Chronicling Women Serving Life Sentences in America"
-    },
-    {
-      "id": "recvr3qveZc2Av",
-      "title": "乌克兰的FPV无人机画面史无前例",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/01/the-fpv-drone-footage-from-ukraine-is-unprecedented/",
-      "publish_time": "2026-08-01T18:00:38+08:00",
-      "summary": "乌克兰前线涌现大量FPV无人机视频，展示战斗最后时刻，其震撼程度超越以往任何无人机影像，成为历史性记录。",
-      "recommendation": "FPV无人机实战影像首次大规模公开，展示第一视角战斗细节，对航拍与影像叙事爱好者具独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The FPV Drone Footage From Ukraine Is Unprecedented"
-    },
-    {
-      "id": "recvr3qBd4SG8K",
-      "title": "新研究纪要详述iPhone Air 2升级细节",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_air_2s_upgrades_detailed_in_a_new_research_note-news-73969.php",
-      "publish_time": "2026-08-01T17:33:02+08:00",
-      "summary": "新研究称iPhone Air 2将于2027年Q1发布，搭载A20 Pro芯片（台积电2nm），与iPhone 18 Pro同款，灵动岛更小。",
-      "recommendation": "聚焦2027年iPhone Air 2的A20 Pro芯片与灵动岛设计，为影像爱好者预判计算摄影性能升级，属前瞻性行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "iPhone Air 2's upgrades detailed in a new research note"
-    },
-    {
-      "id": "recvr3qGvU03Ht",
-      "title": "这张令人着迷的星系红树林图像赢得了摄影奖——它让我驻足凝视",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-mesmerizing-image-of-a-galactic-mangrove-won-a-photography-award-and-it-stopped-me-in-my-tracks",
-      "publish_time": "2026-08-01T17:10:00+08:00",
-      "summary": "日本摄影师杉浦龙平拍摄的银河下孤独红树林照片，荣获2026年红树林摄影奖，展现自然之美。",
-      "recommendation": "获奖作品揭示低光长曝与构图技法，解析红树林星野拍摄参数，对风光摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This mesmerizing image of a galactic mangrove won a photography award – and it stopped me in my tracks"
-    },
-    {
-      "id": "recvr26biuCMbf",
-      "title": "加拿大人爱不释手的紧凑型相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/01/the-compact-cameras-canadians-cant-stop-buying/",
-      "publish_time": "2026-08-01T16:00:00+08:00",
-      "summary": "全球紧凑型相机热潮中，佳能、尼康、索尼推出新型号，加拿大消费者可选购亚马逊热销选项。",
-      "recommendation": "紧凑相机热潮下的北美市场观察，盘点佳能、尼康、索尼新品及亚马逊热销数据，为选购提供参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Compact Cameras Canadians Can’t Stop Buying"
-    },
-    {
-      "id": "recvr265E9QDyK",
-      "title": "我曾以为富士胶片犯了个错误——但在使用其最新紧凑型相机数周后，我将其加入了心愿单",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/i-thought-fujifilm-made-a-mistake-but-after-spending-weeks-with-its-latest-compact-camera-i-added-one-to-my-wish-list",
-      "publish_time": "2026-08-01T14:15:00+08:00",
-      "summary": "富士X Half紧凑型相机经数周体验，尽管初有疑虑，但因其出色性能与便携性，最终被列入心愿单。",
-      "recommendation": "亲测数周揭示X Half真实表现，从疑虑到心动的转变过程，含便携性与画质平衡的深度体验，为关注紧凑相机的用户提供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I thought Fujifilm made a mistake – but after spending weeks with its latest compact camera, I added one to my wish list"
-    },
-    {
-      "id": "recvr268yEEzHb",
-      "title": "三星Galaxy S26 FE相机规格曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_camera_specs_surface-news-73959.php",
-      "publish_time": "2026-08-01T12:06:02+08:00",
-      "summary": "三星高管确认Galaxy S26 FE今年发布，相机规格曝光，与S25 FE差异不大，据Android Authority可信来源透露。",
-      "recommendation": "三星S26 FE相机规格曝光，虽与S25 FE差异不大，但可提前了解FE系列影像迭代方向，适合关注中端旗舰成像的用户。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung Galaxy S26 FE's camera specs surface"
-    },
-    {
-      "id": "recvr0XXDoruDr",
-      "title": "比视频更快：理解相机取景器",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/01/a-new-photographers-guide-to-the-camera-viewfinder-copy/",
-      "publish_time": "2026-08-01T12:00:00+08:00",
-      "summary": "本文介绍相机取景器显示的信息，帮助用户理解其功能，避免被复杂数据吓到，提升使用体验。",
-      "recommendation": "取景器数据常让新手困惑，此文以通俗视角拆解显示逻辑，助你快速上手。虽无独家数据，但梳理系统，对提升拍摄效率有实用价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Quicker Than a Video: Understanding the Camera’s Viewfinder"
-    },
-    {
-      "id": "recvr0XUv9R5SW",
-      "title": "获奖照片致敬秃鹫：自然界默默无闻的英雄",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/31/award-winning-photos-celebrate-vultures-natures-unsung-heroes/",
-      "publish_time": "2026-08-01T04:50:01+08:00",
-      "summary": "国际秃鹫意识日通过摄影比赛展示秃鹫在生态系统中的关键角色，旨在教育公众并传播正面信息。",
-      "recommendation": "以秃鹫摄影比赛切入生态影像叙事，展示自然摄影的社会价值，含拍摄技巧与生态数据，适合关注纪实题材的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Award-Winning Photos Celebrate Vultures, Nature’s Unsung Heroes"
-    },
-    {
-      "id": "recvr0Y0j4OEsL",
-      "title": "谷歌Pixel 11也流出一些全新渲染图",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_leaks_in_some_fresh_new_renders_too-news-73963.php",
-      "publish_time": "2026-08-01T04:31:02+08:00",
-      "summary": "谷歌Pixel 11渲染图流出，搭载Gemini Intelligence，设计类似Pixel 10但相机岛全宽玻璃覆盖，可能无Pixel Glow RGB LED。",
-      "recommendation": "Pixel 11相机岛设计变化值得关注，全宽玻璃覆盖或影响影像模组布局，适合追踪谷歌计算摄影路线。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 11 leaks in some fresh new renders too"
-    },
-    {
-      "id": "recvqZ1dhpPeJt",
-      "title": "Fränk 在家自动冲洗你的电影胶片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/31/frank-automatically-develops-your-motion-picture-film-at-home/",
-      "publish_time": "2026-08-01T02:13:22+08:00",
-      "summary": "Fränk是一款家用胶片处理器，支持Super 8、Double 8和16mm胶片，自动冲洗，解决手动和昂贵设备问题，尤其适合需精确温控的彩色胶片。",
-      "recommendation": "家用胶片自动冲洗设备解决温控痛点，适合Super 8等规格爱好者，提供便捷低成本方案，可了解行业新动向。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fränk Automatically Develops Your Motion Picture Film at Home"
-    },
-    {
-      "id": "recvqZ1fYdAEKK",
-      "title": "Maingear新款高性能PC隐藏线缆，彰显你的个性风格",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/31/maingears-new-powerful-pcs-hide-the-cables-and-put-your-style-on-display/",
-      "publish_time": "2026-08-01T02:05:23+08:00",
-      "summary": "Maingear推出Zero机箱，打造简洁高性能PC，满足游戏、摄影及视频编辑需求，彰显个性风格。",
-      "recommendation": "常规资讯，可了解行业动态。机箱设计影响影像工作流硬件布局，但无影像数据或深度观点，价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Maingear’s New Powerful PCs Hide the Cables and Put Your Style on Display"
     }
   ]
 }
