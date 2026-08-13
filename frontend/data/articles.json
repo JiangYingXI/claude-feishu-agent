@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-13T11:15:05.504965+08:00",
+    "updated_at": "2026-08-13T16:12:15.183899+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 90
+      "count": 91
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,143 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 45
+      "count": 44
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 379
+      "count": 383
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 150
+      "count": 147
     }
   ],
   "articles": [
+    {
+      "id": "recvsa7RNdPvMJ",
+      "title": "据报道，三星Galaxy S27系列不会效仿即将推出的iPhone这一功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsungs_galaxy_s27_series_reportedly_wont_copy_this_upcoming_iphone_feature-news-74148.php",
+      "publish_time": "2026-08-13T15:04:03+08:00",
+      "summary": "三星Galaxy S27系列将不采用可变光圈主摄像头，尽管此前传闻称其可能配备200MP可变光圈，但最终决定放弃，原因与苹果iPhone 18 Pro的传闻有关。",
+      "recommendation": "三星放弃可变光圈主摄，与苹果传闻关联，揭示旗舰影像路线分歧。对关注手机镜头技术趋势者，提供行业决策参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Samsung's Galaxy S27 series reportedly won't copy this upcoming iPhone feature"
+    },
+    {
+      "id": "recvsa836Zvxq4",
+      "title": "这些照片不仅捕捉了地表之下的景象，更揭示了我们的星球最需要我们听到的故事。随着海洋面临的压力日益增大，见证这些压力的艺术家们的重要性也随之提升。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/these-photographs-dont-just-capture-whats-beneath-the-surface-they-surface-the-stories-our-planet-most-needs-us-to-hear-as-the-pressures-on-our-ocean-grow-so-does-the-importance-of-the-artists-who-bear-witness-to-them",
+      "publish_time": "2026-08-13T15:00:00+08:00",
+      "summary": "年度海洋摄影师决赛入围者首次探索海洋最微小生物，揭示地表下故事，强调海洋压力下艺术见证的重要性。",
+      "recommendation": "海洋摄影决赛作品聚焦微距生物，展示水下摄影新视角，对微距与生态题材爱好者有技术参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "\"These photographs don't just capture what’s beneath the surface; they surface the stories our planet most needs us to hear. As the pressures on our ocean grow, so does the importance of the artists who bear witness to them\""
+    },
+    {
+      "id": "recvsa86mReBnf",
+      "title": "新加坡最受欢迎的数码单反相机揭晓",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/13/the-most-popular-dslrs-in-singapore-revealed/",
+      "publish_time": "2026-08-13T15:00:00+08:00",
+      "summary": "新加坡年轻摄影师首选数码单反相机，性价比高且功能控件优于手机，亚马逊有合适选项，详见原文。",
+      "recommendation": "聚焦新加坡市场单反选购偏好，提供当地摄影师选择视角与性价比分析，对购机决策有参考价值。常规资讯，可了解区域行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Most Popular DSLRs in Singapore Revealed"
+    },
+    {
+      "id": "recvsa7UAkvdZ9",
+      "title": "荣耀预热Magic9系列，确认9月发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_teases_magic9_series_coming_next_month-news-74143.php",
+      "publish_time": "2026-08-13T14:01:02+08:00",
+      "summary": "荣耀预告Magic9系列，确认9月发布，比Magic8提前一月，摄像头模块偏离中心，传感器环有滚花图案，类似小米17 Ultra Leica。",
+      "recommendation": "常规资讯，可了解行业动态。提前发布节奏及摄像头滚花设计细节，对关注旗舰影像迭代的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor teases Magic9 series, confirms September launch"
+    },
+    {
+      "id": "recvsa7OqD72cV",
+      "title": "荣耀发布机器人手机，内置折叠云台，宣传视频脑洞大开",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/honor-launches-its-robot-phone-with-a-built-in-folding-gimbal/",
+      "publish_time": "2026-08-13T13:57:53+08:00",
+      "summary": "荣耀发布机器人手机，内置折叠云台，宣传视频脑洞大开，目前仅在中国可用，但可能对未来移动视频拍摄领域是一个有趣的想法。",
+      "recommendation": "机器人手机内置折叠云台，为移动视频拍摄提供新思路，含产品设计细节与行业前瞻分析，适合关注影像形态创新的爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Honor launches its Robot Phone with a built-in folding gimbal and some crazy promo videos"
+    },
+    {
+      "id": "recvsa7XE7z9wN",
+      "title": "Google Pixel Buds Pro 2 新增配色及软件功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_buds_pro_2_get_a_new_color_and_a_limitedtime_price_cut-news-74145.php",
+      "publish_time": "2026-08-13T13:03:02+08:00",
+      "summary": "谷歌为Pixel Buds Pro 2新增橄榄色，售价189美元，低于原价229美元，活动至8月23日，功能与其他颜色无异。",
+      "recommendation": "常规资讯，可了解行业动态。虽非影像核心，但降价信息对关注谷歌生态的摄影用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel Buds Pro 2 get a new color and new software features"
+    },
+    {
+      "id": "recvsa80t3oCuX",
+      "title": "谷歌为Pixel和三星最新设备推出Tap to Share功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_launches_tap_to_share_for_pixels_and_samsungs_latest_devices-news-74146.php",
+      "publish_time": "2026-08-13T12:02:02+08:00",
+      "summary": "谷歌推出安卓版NameDrop功能Tap to Share，适用于Pixel 6及以上和三星Fold8等设备，通过轻触共享联系人、照片等，年底前扩展更多设备。",
+      "recommendation": "安卓版NameDrop功能上线，影像用户可快速分享照片至Pixel及三星设备。常规资讯，可了解跨设备传输新趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google launches Tap to Share for Pixels and Samsung's latest devices"
+    },
+    {
+      "id": "recvsa89DZtWap",
+      "title": "2015年最佳相机五款，2026年仍值得入手",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/13/the-5-best-cameras-from-2015-that-you-can-pick-in-2026/",
+      "publish_time": "2026-08-13T12:00:00+08:00",
+      "summary": "2015年五款最佳相机至今仍值得购买，涵盖紧凑型与可换镜头型，兼顾便携与镜头多样性，是摄影爱好者的理想选择。",
+      "recommendation": "十年旧机仍具购买价值？本文从便携性与镜头群角度复盘五款经典相机，提供跨代际选购视角，适合怀旧派与实用党参考。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The 5 Best Cameras from 2015 That You Can Pick in 2026"
+    },
     {
       "id": "recvs8VlezMrFl",
       "title": "摄影师可享额外10%优惠：KEH限时清仓特卖",
@@ -7629,128 +7752,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Maingear’s New Powerful PCs Hide the Cables and Put Your Style on Display"
-    },
-    {
-      "id": "recvqZ1iMyimey",
-      "title": "第167届全球历史最悠久摄影展的18张照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/31/18-photos-from-the-167th-edition-of-the-worlds-longest-running-photography-exhibition/",
-      "publish_time": "2026-08-01T01:34:56+08:00",
-      "summary": "皇家摄影学会第167届国际摄影展将展出48位摄影师的摄影作品，这是全球历史最悠久的摄影展，展示了摄影艺术的多样性与传承。",
-      "recommendation": "透过167届摄影展48位摄影师作品，可观察影像美学趋势与器材表现，适合摄影爱好者拓展审美视野。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "18 Photos From the 167th Edition of the World’s Longest-Running Photography Exhibition"
-    },
-    {
-      "id": "recvqZ1lKfmqqD",
-      "title": "摄影之旅必备装备精选优惠",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/31/the-top-deals-on-travel-gear-for-your-next-photography-adventure/",
-      "publish_time": "2026-08-01T01:30:00+08:00",
-      "summary": "文章介绍旅行摄影必备装备的精选优惠，强调智能配件如整理、充电和便携设备能提升旅行顺畅度，核心价值在于升级装备以优化摄影体验。",
-      "recommendation": "聚焦旅行摄影装备优惠，梳理智能配件对拍摄效率的实际提升，含具体品类与选购要点，适合近期计划升级器材的影像爱好者参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Top Deals on Travel Gear for Your Next Photography Adventure"
-    },
-    {
-      "id": "recvqZ1ov2bN4l",
-      "title": "尽管初看平平无奇，Rollei Superpan 200 实则暗藏玄机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/31/while-at-first-unimpressive-rollei-superpan-200-is-a-bag-of-tricks/",
-      "publish_time": "2026-08-01T01:17:10+08:00",
-      "summary": "Rollei Superpan 200胶片初看平平，实则技巧丰富，值得深入探究。",
-      "recommendation": "解析Rollei Superpan 200胶片的隐藏特性，提供曝光与冲洗技巧，适合追求胶片层次感的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "While At First Unimpressive, Rollei Superpan 200 Is a Bag of Tricks"
-    },
-    {
-      "id": "recvqZ1tUmLKyl",
-      "title": "我无法停止凝视这张令人惊叹的“喷火云龙”照片——而且它仅用智能手机拍摄",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/i-cant-stop-looking-at-this-astounding-photograph-of-a-fire-breathing-dragon-of-clouds-and-it-was-snapped-with-just-a-smartphone",
-      "publish_time": "2026-08-01T00:48:56+08:00",
-      "summary": "专业摄影师分享本周最佳图片，包括用智能手机拍摄的令人惊叹的喷火云龙照片，展示手机摄影潜力。",
-      "recommendation": "以专业摄影师视角解析手机抓拍动态场景的技法，展示旗舰机型极限成像潜力，附实拍样张与参数，对追求手机摄影突破的用户有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I can’t stop looking at this astounding photograph of a “fire-breathing dragon of clouds” – and it was snapped with just a smartphone"
-    },
-    {
-      "id": "recvqZ1CIo1uSj",
-      "title": "镜头滤镜如何让摄影不再乏味",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/07/31/how-lens-filters-can-make-your-photography-less-boring/",
-      "publish_time": "2026-08-01T00:00:00+08:00",
-      "summary": "镜头滤镜能在相机内直接拍出惊艳图像，无需庞大布景，是摄影师提升作品趣味性的有效方法。",
-      "recommendation": "从相机内直出角度解析滤镜实用价值，涵盖偏振、ND等类型选择与效果对比，对风光及街头摄影爱好者有直接参考意义。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How Lens Filters Can Make Your Photography Less Boring"
-    },
-    {
-      "id": "recvqZ1r8nArOT",
-      "title": "前所未有：鲸鲨视角下的海洋影像首度曝光",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/07/31/first-of-its-kind-footage-shows-the-ocean-from-a-whale-sharks-perspective/",
-      "publish_time": "2026-07-31T23:29:34+08:00",
-      "summary": "研究人员将相机附着在鲸鲨身上，首次目睹磷虾追逐场面，获得鲸鲨觅食和进食的新见解。",
-      "recommendation": "动物相机新视角，揭示鲸鲨觅食行为，为生态影像创作提供独特参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "First-of-its-Kind Footage Shows the Ocean From a Whale Shark’s Perspective"
-    },
-    {
-      "id": "recvqZ1wRDCuQy",
-      "title": "富士胶片否认X-T5停产传闻，新一代相机期待引发热议",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-x-t5-has-not-been-discontinued-says-fujifilm-as-anticipation-for-next-gen-cameras-fuels-rumors",
-      "publish_time": "2026-07-31T23:24:59+08:00",
-      "summary": "富士胶片否认X-T5停产传闻，粉丝期待新一代无反相机，核心价值在于澄清谣言并引发对下一代产品的期待。",
-      "recommendation": "澄清X-T5停产传闻，梳理富士无反产品线动向，对关注APS-C旗舰机型的用户具参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "“The X-T5 has not been discontinued,” says Fujifilm, as anticipation for next-gen cameras fuels rumors"
-    },
-    {
-      "id": "recvqZ1FCmaoQN",
-      "title": "尼康未来动向展望（2026年7月更新）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/07/31/what-to-expect-next-from-nikon-updated-july-2026.aspx/",
-      "publish_time": "2026-07-31T23:18:59+08:00",
-      "summary": "尼康未来相机传闻细节重叠，难以区分具体型号，如无取景器无反与固定镜头机型相似，文章更新于2026年7月，首发于Nikon Rumors。",
-      "recommendation": "尼康未来机型传闻混杂，本文梳理重叠信息，助你厘清产品线脉络，适合关注尼康动向的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "What to expect next from Nikon (updated July 2026)"
     }
   ]
 }
