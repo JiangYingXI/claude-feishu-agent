@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-13T03:46:55.883909+08:00",
+    "updated_at": "2026-08-13T11:15:05.504965+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 39
+      "count": 38
     },
     {
       "key": "镜头与光学",
@@ -42,6 +42,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvs8VlezMrFl",
+      "title": "摄影师可享额外10%优惠：KEH限时清仓特卖",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/12/photographers-can-save-an-extra-10-with-kehs-limited-time-overstock-sale/",
+      "publish_time": "2026-08-13T04:04:38+08:00",
+      "summary": "KEH限时清仓特卖，摄影师购买特定相机、镜头、灯光及配件可享额外5%或10%折扣，活动8月14日结束。",
+      "recommendation": "常规资讯，可了解行业动态。KEH清仓特卖为摄影器材爱好者提供限时折扣信息，但缺乏独家数据或深度观点。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographers Can Save an Extra 10% With KEH’s Limited-Time Overstock Sale"
+    },
     {
       "id": "recvs75JKqJpZa",
       "title": "Insta360确认正在研发两款“令人惊喜”的无反相机",
@@ -7736,22 +7751,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "What to expect next from Nikon (updated July 2026)"
-    },
-    {
-      "id": "recvqXNMiZidN1",
-      "title": "小米平板8S Pro即将登场，搭载小米下一代自研芯片",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_pad_8s_pro_is_on_the_way_with_xiaomis_next_chipset_at_the_helm-news-73958.php",
-      "publish_time": "2026-07-31T22:49:01+08:00",
-      "summary": "小米平板8S Pro即将发布，搭载自研Xring O3芯片，16GB内存，后置5000万像素，前置3200万，12000毫安电池，运行H系统。",
-      "recommendation": "平板影像规格披露，自研芯片与前后摄参数可参考，但缺乏实测与深度分析，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Xiaomi Pad 8S Pro is on the way with Xiaomi's next self-developed chipset at the helm"
     }
   ]
 }
