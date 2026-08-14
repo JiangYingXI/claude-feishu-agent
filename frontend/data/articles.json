@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-14T22:02:00.106115+08:00",
+    "updated_at": "2026-08-15T03:36:15.160376+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 36
+      "count": 34
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 88
+      "count": 86
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,279 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 50
+      "count": 49
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 387
+      "count": 384
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 142
+      "count": 144
     }
   ],
   "articles": [
+    {
+      "id": "recvsiKNJHPSEP",
+      "title": "胶片摄影师：这个折扣你无法抗拒",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/14/film-photographer-discount/",
+      "publish_time": "2026-08-15T03:00:00+08:00",
+      "summary": "胶片摄影师专属折扣，Phoblographer透明资金来源，通过会员福利计划支持，非依赖大品牌资金。",
+      "recommendation": "揭秘胶片摄影社区商业模式的少见角度，展示会员制如何支撑媒体独立运作，对关注行业生态的影像爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Film Photographers: You Can’t Beat This Discount"
+    },
+    {
+      "id": "recvsiKyFprf35",
+      "title": "这张星空照片不只是好看——它证明了水能在比我们想象的更严酷的太空环境中存活",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/this-starry-photo-isnt-just-pretty-its-proof-that-water-can-survive-harsher-space-environments-than-we-thought",
+      "publish_time": "2026-08-15T02:43:59+08:00",
+      "summary": "新研究发现距黑洞55光年处存在水和氧气，证明水能在更严酷太空环境存活。",
+      "recommendation": "从天文摄影视角解读太空水分子发现，关联影像设备在极端环境下的成像潜力，含黑洞距离等硬核数据，拓展星空摄影认知边界。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This starry photo isn’t just pretty – it’s proof that water can survive harsher space environments than we thought"
+    },
+    {
+      "id": "recvsiKu2LqSzx",
+      "title": "海洋揭秘：2026年度海洋摄影师大赛入围作品一览",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/ocean-photographer-of-the-year-finalists-2026/",
+      "publish_time": "2026-08-15T02:13:37+08:00",
+      "summary": "2026年度海洋摄影师大赛首次设立隐藏世界类别，聚焦海洋最微小生物，展示其独特魅力与生态价值。",
+      "recommendation": "海洋摄影大赛新设微距类别，展示水下微小生物拍摄技法与生态价值，对生态摄影爱好者有参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The ocean revealed: see the finalists for Ocean Photographer of the Year 2026"
+    },
+    {
+      "id": "recvsiKf6sa6be",
+      "title": "伊士曼柯达‘放大招’，对胶片再示爱",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/14/eastman-kodak-goes-big-and-shows-film-some-more-love/",
+      "publish_time": "2026-08-15T02:04:09+08:00",
+      "summary": "柯达发布新大画幅胶片和散装卷产品，财务业绩强劲，展示对胶片市场的持续投入。",
+      "recommendation": "柯达财报数据与胶片新品动向结合，可了解大画幅市场供给变化，对胶片玩家选材有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Eastman Kodak ‘Goes Big’ and Shows Film Some More Love"
+    },
+    {
+      "id": "recvsiKAYXPFaY",
+      "title": "感觉就像被重拳击中：FCC禁令叠加无人机关税，美国无人机摄影师面临双重打击",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/drones/drone-tariffs-on-top-of-an-fcc-ban-are-a-double-whammy-for-american-drone-photographers",
+      "publish_time": "2026-08-15T01:47:50+08:00",
+      "summary": "特朗普政府对轻型无人机加征25%关税，叠加FCC禁令，美国无人机摄影师面临双重打击，成本上升，行业受挫。",
+      "recommendation": "关税与禁令叠加的行业冲击数据，对无人机航拍玩家有直接成本参考，可了解政策风向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "I feel like I just got sucker punched: Drone tariffs on top of an FCC ban are a double whammy for American drone photographers"
+    },
+    {
+      "id": "recvsiKSRrqbhl",
+      "title": "尼康已终止与美国专业经销商的合作 *更新*",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/14/nikon-has-ended-their-relationship-with-pro-distributors-in-the-us.aspx/",
+      "publish_time": "2026-08-15T01:24:45+08:00",
+      "summary": "尼康已终止与美国专业经销商Pro Distributors的合作，该公司专注于向独立相机零售商供货，而非大型在线商店。",
+      "recommendation": "常规资讯，可了解行业动态。尼康渠道调整或影响独立零售商供货，对关注购买渠道的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon has ended their relationship with Pro Distributors in the US *UPDATED*"
+    },
+    {
+      "id": "recvsiKhR5KzTm",
+      "title": "法国最高法院推翻社交媒体儿童禁令",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/14/frances-top-court-strikes-down-social-media-ban-for-kids/",
+      "publish_time": "2026-08-15T01:10:55+08:00",
+      "summary": "法国宪法委员会否决了禁止儿童使用社交媒体的法律，使法国暂缓成为欧盟首个实施此类禁令的国家。",
+      "recommendation": "常规资讯，可了解行业动态。对影像爱好者无直接价值，但社交媒体平台是作品传播主渠道，其监管变化或影响内容分发策略。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "France’s Top Court Strikes Down Social Media Ban for Kids"
+    },
+    {
+      "id": "recvsiKkiqJsA6",
+      "title": "31张获奖照片致敬全球最暗天空之美",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/14/31-award-winning-photos-celebrate-the-beauty-of-the-worlds-darkest-skies/",
+      "publish_time": "2026-08-15T00:36:04+08:00",
+      "summary": "暗夜国际公布“捕捉黑暗2026”摄影比赛获奖名单，31张照片展现全球最暗天空之美，吸引30多国摄影师创纪录参赛。",
+      "recommendation": "31张获奖作品展现全球暗夜之美，附30多国参赛数据，为风光与长曝光摄影提供构图与参数参考，兼具美学与实用价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "31 Award-Winning Photos Celebrate the Beauty of the World’s Darkest Skies"
+    },
+    {
+      "id": "recvsiKwgpids2",
+      "title": "在世界摄影日分享你的风景照片",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/share-your-landscape-photos-for-world-photography-day/",
+      "publish_time": "2026-08-15T00:31:29+08:00",
+      "summary": "世界摄影日之际，我们通过捕捉当地风景庆祝，邀请你加入展示所在地区的风采。",
+      "recommendation": "世界摄影日主题征集，展示各地风景拍摄视角，适合爱好者交流构图与后期思路，内容偏活动性质，常规资讯可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Share your landscape photos for World Photography Day"
+    },
+    {
+      "id": "recvsiKmOaDG1w",
+      "title": "优秀的柯达Ultramax 400成为糟糕品牌定位的不幸牺牲品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/14/the-excellent-kodak-ultramax-400-is-an-unfortunate-victim-of-bad-branding/",
+      "publish_time": "2026-08-15T00:30:55+08:00",
+      "summary": "柯达Ultramax 400是性价比高的35mm彩色胶卷，但品牌定位不佳，本文评测其性能并指出其价值。",
+      "recommendation": "剖析柯达Ultramax 400性能与品牌错位，含实拍样张及市场定位分析，为胶卷爱好者提供选购参考与行业反思。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Excellent Kodak Ultramax 400 Is an Unfortunate Victim of Bad Branding"
+    },
+    {
+      "id": "recvsiKQpm12pV",
+      "title": "4本严肃肖像摄影师反复研读的摄影画册",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/14/4-photo-books-that-serious-portrait-photographers-keep-going-back-to/",
+      "publish_time": "2026-08-15T00:00:00+08:00",
+      "summary": "肖像摄影需深刻理解光线、器材、人物与构思，旨在展现人物鲜为人知的一面。本文推荐4本摄影画册，助你探索肖像摄影的多面性。",
+      "recommendation": "从光线、器材到人物构思，系统拆解肖像摄影核心。四本画册的选片视角独特，助你突破技术瓶颈，理解影像背后的深层表达。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "4 Photo Books That Serious Portrait Photographers Keep Going Back To"
+    },
+    {
+      "id": "recvsiKLrGWcyc",
+      "title": "快速一览谷歌新款 Pixel 11 系列、Pixel Watch 5 和 Fitbit Air",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/heres_a_quick_look_at_googles_new_pixel_11_series_pixel_watch_5_and_fitbit_air-news-74181.php",
+      "publish_time": "2026-08-14T23:51:02+08:00",
+      "summary": "谷歌2026年新设备系列快速上手，包括Pixel 11系列、Pixel Watch 5和Fitbit Air，其中Pixel 11基础型号改进较少但受买家欢迎。",
+      "recommendation": "聚焦Pixel 11系列影像升级细节，含传感器与算法变化，对关注计算摄影的爱好者有参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Here's a quick look at Google's new Pixel 11 series, Pixel Watch 5, and Fitbit Air"
+    },
+    {
+      "id": "recvsiKDjDhXB2",
+      "title": "佳能庆祝世界摄影日，相机设备最高直降270英镑",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canon-celebrates-world-photography-day-by-slashing-up-to-gbp270-off-its-camera-gear",
+      "publish_time": "2026-08-14T22:47:17+08:00",
+      "summary": "佳能庆祝世界摄影日，相机设备最高直降270英镑，促销活动现已开启。",
+      "recommendation": "常规促销资讯，可了解佳能当前降价幅度与优惠机型，对近期有购机计划的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Canon celebrates World Photography Day by slashing up to £270 off its camera gear"
+    },
+    {
+      "id": "recvsiKG2do4RQ",
+      "title": "Light Lens Lab为徕卡M推出雄心勃勃的新型35mm f/2复消色差镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/light-lens-lab-launches-an-ambitious-new-35mm-f-2-apochromatic-lens-for-leica-m",
+      "publish_time": "2026-08-14T22:15:00+08:00",
+      "summary": "Light Lens Lab为徕卡M推出35mm f/2 APO镜头，含四片非球面镜片，提升成像质量。",
+      "recommendation": "四片非球面镜片的APO设计参数详实，对徕卡M用户评估镜头光学素质与选购决策有直接参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Light Lens Lab launches an ambitious new 35mm f/2 Apochromatic lens for Leica M"
+    },
+    {
+      "id": "recvsiKrQ9W5d3",
+      "title": "确认：索尼FX5发货时间推迟至9月15日",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/confirmed-sony-fx5-shipment-start-is-now-september-15/",
+      "publish_time": "2026-08-14T22:03:00+08:00",
+      "summary": "索尼FX5发货日期推迟至9月15日，较原定8月18日晚28天，预购渠道包括BHphoto等。",
+      "recommendation": "索尼FX5延期28天，预购用户需调整计划。常规资讯，可了解行业动态，关注新发货日期及渠道信息。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Confirmed: Sony FX5 shipment start is now September 15"
+    },
+    {
+      "id": "recvsiKpiRIIp4",
+      "title": "适用于（几乎）所有相机的最佳长焦镜头优惠",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/14/the-best-deals-on-telephoto-lenses-for-nearly-every-camera/",
+      "publish_time": "2026-08-14T22:01:51+08:00",
+      "summary": "无反相机摄影师选购远摄镜头时选择丰富，当前多款最佳镜头正促销，涵盖各相机系统，提供高性价比方案。",
+      "recommendation": "汇总多系统长焦促销，含具体型号与价格数据，助影像爱好者快速锁定高性价比镜头，节省比价时间。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The Best Deals on Telephoto Lenses for (Nearly) Every Camera"
+    },
+    {
+      "id": "recvsiKIQ17ddU",
+      "title": "7Artisans AF 18mm f/2.0 即将上市",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/7artisans-af-18mm-f-2-0-coming-soon/",
+      "publish_time": "2026-08-14T21:59:17+08:00",
+      "summary": "7Artisans AF 18mm f/2.0镜头即将上市，此前因无AF刻字引发手动对焦质疑，现官方公告确认其自动对焦功能。",
+      "recommendation": "国产自动对焦超广角镜头新选择，官方确认AF功能，为风光与Vlog用户提供高性价比方案。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "7Artisans AF 18mm f/2.0 Coming Soon"
+    },
     {
       "id": "recvshoDSHNDsc",
       "title": "今日人像摄影师最佳相机之选：四款推荐",
@@ -7488,271 +7747,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Prominent Photographer is Shot Dead by Iranian Authorities"
-    },
-    {
-      "id": "recvrgC5pgerpm",
-      "title": "6月CIPA数据",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/03/june-cipa-numbers.aspx/",
-      "publish_time": "2026-08-04T00:08:59+08:00",
-      "summary": "日本CIPA发布2026年6月相机数据，与2025年相比增长微乎其微，整体平淡。数据由ZoetMB提供，对比年初至今，紧凑型相机2025年销量曾增长30%。",
-      "recommendation": "CIPA官方数据揭示相机市场真实走向，紧凑型相机销量变化值得关注。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "June CIPA numbers"
-    },
-    {
-      "id": "recvrgBPz9yVnV",
-      "title": "ON1 Photo RAW 2026评测：很难不喜欢这款价格实惠、功能全面的照片编辑软件",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/on1-photo-raw-2026-review-its-hard-not-to-like-this-affordable-do-it-all-photo-editing-program",
-      "publish_time": "2026-08-04T00:02:45+08:00",
-      "summary": "ON1 Photo RAW 2026评测：功能全面的多合一照片整理编辑特效工具，价格实惠，性价比高。",
-      "recommendation": "详解ON1 Photo RAW 2026多合一功能与定价策略，对比主流软件性价比，为后期处理流程优化提供实用参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "ON1 Photo RAW 2026 review: “It’s hard not to like this affordable, do-it-all photo-editing program”"
-    },
-    {
-      "id": "recvrgCisXsuXa",
-      "title": "为何人像摄影师应关注Westcott FJ100的发布",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/03/why-portrait-photographers-should-be-watching-westcotts-fj100-launch/",
-      "publish_time": "2026-08-04T00:00:00+08:00",
-      "summary": "Westcott发布新型影室闪光灯和机顶闪光灯，为肖像摄影师提供增强场景氛围的新照明技术，是影像创作者值得关注的设备。",
-      "recommendation": "Westcott FJ100发布涉及影室灯与机顶灯新技术，对肖像摄影布光有参考价值，含具体规格与场景应用分析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Why Portrait Photographers Should Be Watching Westcott’s FJ100 Launch"
-    },
-    {
-      "id": "recvrgBEUSXPsO",
-      "title": "佳能专利三组镜片设计，有望实现更快对焦",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/canon-patents-three-group-lens-designs-that-promise-faster-focus/",
-      "publish_time": "2026-08-03T23:55:59+08:00",
-      "summary": "佳能新专利采用三组镜片设计，旨在实现更快自动对焦，其意义在于技术突破而非具体镜头细节。",
-      "recommendation": "三组镜片设计专利揭示佳能对焦技术新方向，对关注镜头光学结构演进的爱好者有参考价值，但缺乏具体参数支撑，常规资讯可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon Patents Three-Group Lens Designs That Promise Faster Focus"
-    },
-    {
-      "id": "recvrgC81Mon61",
-      "title": "2026年7月NikonRumors十大热门文章",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/03/top-10-most-viewed-nikonrumors-posts-for-july-2026.aspx/",
-      "publish_time": "2026-08-03T23:54:42+08:00",
-      "summary": "2026年7月NikonRumors十大热门文章，涵盖尼康新APS-C相机、DL复活传闻、对唯卓仕专利诉讼败诉等，核心价值是汇总当月尼康资讯热点。",
-      "recommendation": "汇总尼康当月热点，含APS-C新机传闻、DL复活及专利诉讼败诉细节，为关注尼康动态的影像爱好者提供一站式资讯参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Top 10 most viewed NikonRumors posts for July 2026"
-    },
-    {
-      "id": "recvrgBSa0yYrx",
-      "title": "这张32亿像素的照片包含超过50万个星系和5万多颗恒星。薇拉·鲁宾科学家表示，这仅仅是个开始",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/this-single-3200-megapixel-photo-contains-more-than-half-a-million-galaxies-and-50-000-stars-vera-rubin-scientists-say-this-is-just-the-beginning",
-      "publish_time": "2026-08-03T23:34:45+08:00",
-      "summary": "薇拉·鲁宾天文台发布32亿像素照片，含超50万星系和5万恒星，展示最大相机能力，仅为观测开始。",
-      "recommendation": "32亿像素实拍展示最大科学相机能力，含50万星系数据，对天文摄影与传感器极限有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This single 3200-megapixel photo contains more than half a million galaxies and 50,000+ stars. Vera Rubin scientists say this is just the beginning"
-    },
-    {
-      "id": "recvrgC09qY5fG",
-      "title": "Oppo Find X10 Ultra 正在测试中，其10倍变焦摄像头配备两个大尺寸传感器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_find_x10_ultra_is_in_testing_with_two_big_sensors_for_its_10x_zoom_camera-news-73983.php",
-      "publish_time": "2026-08-03T23:31:02+08:00",
-      "summary": "Oppo Find X10 Ultra正在测试，其10倍变焦长焦摄像头将选用三星ISOCELL GNB或豪威OV51A，均为50MP、1/1.95英寸传感器，支持长焦微距，尚未最终决定。",
-      "recommendation": "独家透露Find X10 Ultra双大底长焦方案，含具体传感器型号与规格，对关注旗舰影像硬件迭代的爱好者具参考价值。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Oppo Find X10 Ultra is in testing with two big sensors for its 10x zoom camera"
-    },
-    {
-      "id": "recvrgBHySOOZY",
-      "title": "摄影画廊展出AI图像的决定引发众怒",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/photography-gallerys-decision-to-exhibit-ai-images-sparks-anger/",
-      "publish_time": "2026-08-03T23:26:57+08:00",
-      "summary": "贝尔法斯特摄影画廊展出AI图像引众怒，批评聚焦于艺术真实性，核心争议在于AI创作与传统摄影的边界。",
-      "recommendation": "AI图像与传统摄影的边界争议，触及艺术真实性核心，为影像创作者提供行业伦理思考与案例参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photography Gallery’s Decision to Exhibit AI Images Sparks Anger"
-    },
-    {
-      "id": "recvrgBKsOLUWk",
-      "title": "索尼100-400mm f/5.6-8.0镜头将于明天（或后天？）伦敦时间下午3点发布！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-100-400mm-f-5-6-8-0-lens-announcement-happening-today-or-tomorrow-at-3pm-london-time/",
-      "publish_time": "2026-08-03T23:19:05+08:00",
-      "summary": "索尼新款100-400mm f/5.6-8.0镜头预计明天或后天发布，售价899欧元，具备黑色外观、紧凑轻便、对焦限制器，发布时间可能为伦敦时间下午3点。",
-      "recommendation": "长焦镜头新品发布资讯，含售价、外观及对焦限制器配置，适合关注索尼镜头线的用户快速了解动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony 100-400mm f/5.6-8.0 lens announcement happening tomorrow (or after tomorrow?) at 3pm London time!"
-    },
-    {
-      "id": "recvrfrotrjzda",
-      "title": "这款小众紧凑型相机成为日本新晋第一——发布近7年后，二手价格常高于原零售价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-cult-compact-camera-is-japans-new-no-1-nearly-7-years-after-its-release-with-second-hand-prices-often-higher-than-its-original-retail-price",
-      "publish_time": "2026-08-03T23:11:43+08:00",
-      "summary": "佳能小众紧凑型相机发布近7年，二手价常高于原价，销量超新卡片机，因特殊原因成日本新晋第一。",
-      "recommendation": "剖析小众机型逆势涨价现象，揭示供需逻辑与市场偏好，对二手相机选购及行业趋势观察有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This cult compact camera is Japan's new No.1 – nearly 7 years after its release, with second-hand prices often higher than its original retail price"
-    },
-    {
-      "id": "recvrfr0I3qc3M",
-      "title": "警方调查被指控用Meta智能眼镜偷拍陌生人的TikTok用户",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/police-investigate-tiktoker-accused-of-secretly-filming-strangers-with-meta-smart-glasses/",
-      "publish_time": "2026-08-03T22:36:41+08:00",
-      "summary": "警方调查一名TikTok用户，其使用Meta智能眼镜偷拍陌生人并上传数百段视频，涉嫌侵犯隐私。",
-      "recommendation": "智能眼镜偷拍争议暴露影像设备隐私边界，对随身拍摄爱好者具警示价值，行业监管动态值得关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Police Investigate TikToker Accused of Secretly Filming Strangers With Meta Smart Glasses"
-    },
-    {
-      "id": "recvrfrAVO88uj",
-      "title": "iQOO Z11 泄露营销图显示类似 Pixel 的相机条",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_z11_leaked_marketing_image_shows_a_pixellike_camera_bar-news-73981.php",
-      "publish_time": "2026-08-03T22:16:02+08:00",
-      "summary": "iQOO Z11印度版泄露营销图显示全新Pixel风格相机条设计，与中马版不同，CEO暗示即将发布。",
-      "recommendation": "常规资讯，可了解行业动态。展示iQOO Z11印度版Pixel风格相机条设计，与中马版差异值得关注，但缺乏具体影像参数。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iQOO Z11 leaked marketing image shows a Pixel-like camera bar"
-    },
-    {
-      "id": "recvrfr3HV5hCU",
-      "title": "我们正生活在全景电影复兴时代",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/we-are-living-in-a-panoramic-film-renaissance/",
-      "publish_time": "2026-08-03T22:01:10+08:00",
-      "summary": "八个月内至少三款中画幅全景胶片相机上市，作者已试用并逐一评价，确认全景复兴时代来临。",
-      "recommendation": "八个月内三款中画幅全景胶片相机实测，逐一评价优缺点，为胶片与全景爱好者提供稀缺的横向参考与行业趋势判断。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "We Are Living in a Panoramic Film Renaissance"
-    },
-    {
-      "id": "recvrfr68dBcnh",
-      "title": "SG-image AF 35mm f/2.2 薄饼镜头承诺带来独特体验",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/sg-image-af-35mm-f-2-2-pancake-lens-promises-something-unique/",
-      "publish_time": "2026-08-03T21:57:37+08:00",
-      "summary": "SG-image AF 35mm f/2.2 薄饼镜头，经济型全画幅标准定焦，适用于索尼E、尼康Z及L卡口，售价低于150美元，提供独特体验。",
-      "recommendation": "低价全画幅薄饼镜头新选择，适配三大卡口，售价低于150美元。文章提供具体参数与市场定位分析，对预算有限的街拍爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "SG-image AF 35mm f/2.2 Pancake Lens Promises Something Unique"
-    },
-    {
-      "id": "recvrfr8yjsO4L",
-      "title": "谷歌地球下架AI图像生成器，因用户制作误导性图片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/google-earth-pulls-ai-image-generator-after-users-created-misleading-images/",
-      "publish_time": "2026-08-03T21:52:47+08:00",
-      "summary": "谷歌地球因用户用其AI图像生成器制作误导性图片，已下架该功能，此前报道称其新增Nano Banana AI图像生成器。",
-      "recommendation": "AI图像生成器在影像工具中的滥用风险案例，提示计算摄影技术边界，对关注AI影像伦理的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Earth Pulls AI Image Generator After Users Created Misleading Images"
-    },
-    {
-      "id": "recvrfrbiw1n7e",
-      "title": "摄像师因在世界杯期间飞无人机拍摄教堂面临一年监禁",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/videographer-is-facing-one-year-in-jail-for-flying-drone-to-film-church-during-world-cup/",
-      "publish_time": "2026-08-03T21:30:49+08:00",
-      "summary": "一名专业摄像师在2026年世界杯期间，于休斯顿无比赛日飞行无人机两分钟拍摄教堂，被联邦调查局逮捕，面临一年监禁。",
-      "recommendation": "无人机法规风险案例，提醒影像创作者注意空域合规，避免因拍摄爱好触犯法律。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Videographer is Facing One Year in Jail for Flying Drone to Film Church During World Cup"
-    },
-    {
-      "id": "recvrfredwA9K0",
-      "title": "Pergear 小巧手动对焦 50mm f/1.4 镜头价格荒谬地实惠",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/pergears-small-manual-focus-50mm-f-1-4-lens-is-absurdly-affordable/",
-      "publish_time": "2026-08-03T21:08:41+08:00",
-      "summary": "Pergear推出超平价紧凑型全画幅50mm f/1.4手动对焦定焦镜头，价格实惠，但仅支持手动对焦。",
-      "recommendation": "平价全画幅手动头新选择，解析Pergear 50mm f/1.4的性价比与手动对焦取舍，适合预算有限的街拍爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Pergear’s Small Manual Focus 50mm f/1.4 Lens Is Absurdly Affordable"
     }
   ]
 }
