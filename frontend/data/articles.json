@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-14T11:15:43.687037+08:00",
+    "updated_at": "2026-08-14T16:04:51.587822+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 91
+      "count": 90
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,45 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 384
+      "count": 382
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 142
+      "count": 143
     }
   ],
   "articles": [
+    {
+      "id": "recvsfWM3k922g",
+      "title": "这个测试将告诉你，作为摄影师，你的手是否颤抖",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/14/shaky-hands-photographer/",
+      "publish_time": "2026-08-14T15:00:00+08:00",
+      "summary": "图像稳定技术虽助拍摄，但不应替代良好姿势。摄影师常忽视此点，文章提醒自我负责，保持正确拍摄习惯。",
+      "recommendation": "从技术科普角度剖析防抖与拍摄姿势的关系，提醒影像爱好者勿依赖器材替代基本功，观点务实，适合追求稳定画质的摄影者参考。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Test Will Tell You if Your Hands are Shaky as a Photographer"
+    },
+    {
+      "id": "recvsfWONjADay",
+      "title": "见多识广的旅行摄影师给出的3条诚恳建议",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/14/3-honest-tips-from-travel-photographers-who-have-seen-it-all/",
+      "publish_time": "2026-08-14T12:00:00+08:00",
+      "summary": "旅行摄影助年轻人探索世界，无论远近。资深摄影师给出三条诚恳建议，助你提升旅行摄影技巧。",
+      "recommendation": "资深旅行摄影师的三条实战建议，聚焦构图与光线运用，含具体场景参数参考，对提升旅行出片率有直接帮助。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "3 Honest Tips From Travel Photographers Who Have Seen It All"
+    },
     {
       "id": "recvseM21PgvHF",
       "title": "Galaxy Z Fold8拆解表现平平，未给人留下深刻印象",
@@ -7721,38 +7751,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Do You Actually Know How to Meter a Scene?"
-    },
-    {
-      "id": "recvrcGGRqZWYx",
-      "title": "尼康新闻周刊第897期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/02/weekly-nikon-news-flash-897.aspx/",
-      "publish_time": "2026-08-03T09:34:41+08:00",
-      "summary": "尼康新闻周刊第897期报道Pergear推出129美元的50mm f/1.4 Z卡口手动镜头，及7Artisans AF 10mm f/2.5鱼眼镜头的预购信息。",
-      "recommendation": "涵盖两款新镜头动态，129美元Z口手动头与鱼眼预购信息，适合关注性价比镜头与Z卡口生态的爱好者。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #897"
-    },
-    {
-      "id": "recvrcGBsYU0zc",
-      "title": "性价比最高的无反相机又降价了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/the-best-value-mirrorless-cameras-just-got-even-cheaper",
-      "publish_time": "2026-08-03T08:10:00+08:00",
-      "summary": "性价比最高的无反相机降价，仅需599美元含镜头即可入门，适合摄影新手或换系统者，保留核心参数与数据，一句话概括核心价值。",
-      "recommendation": "599美元含镜头入门无反，参数与降价幅度明确，适合新手或换门用户参考，常规资讯可了解行情。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The best-value mirrorless cameras just got even cheaper"
     }
   ]
 }
