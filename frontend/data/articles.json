@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-15T10:02:26.314817+08:00",
+    "updated_at": "2026-08-15T15:13:51.991378+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 34
+      "count": 33
     },
     {
       "key": "镜头与光学",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 48
+      "count": 49
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,37 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvslAsexHRH3",
+      "title": "柯达曾是全球最大的摄影品牌，但如今其Moments业务将被出售给Cewe，它面临沦为僵尸品牌的风险",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/kodak-was-the-biggest-photo-brand-in-the-world-but-now-its-moments-business-is-being-sold-to-cewe-it-risks-becoming-a-zombie-brand",
+      "publish_time": "2026-08-15T14:15:00+08:00",
+      "summary": "柯达品牌因Moments业务售予Cewe及授权商生产低端相机，面临品牌稀释和沦为僵尸品牌的风险。",
+      "recommendation": "柯达品牌转型困境的深度剖析，揭示授权贴牌对百年影像品牌的稀释效应，对关注行业格局的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Kodak was the biggest photo brand in the world. But now its Moments business is being sold to Cewe, it risks becoming a zombie brand"
+    },
+    {
+      "id": "recvslAvDhkzB5",
+      "title": "荣耀机器人手机上手评测",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_robot_phone_handson_review-news-74184.php",
+      "publish_time": "2026-08-15T10:04:02+08:00",
+      "summary": "荣耀推出机器人手机，搭载行业首创云台技术，基于100多项专利，可伸展执行操作，为沉闷市场带来改变。",
+      "recommendation": "独家拆解荣耀机器人手机云台技术，基于百项专利实测样张，解析计算摄影与机械防抖融合方案，对影像创作具参考价值。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Honor Robot Phone hands-on review"
+    },
     {
       "id": "recvskk6Cwxd9g",
       "title": "华为非折叠宽屏手机发布时间确定",
@@ -7714,37 +7745,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The European Commission puts AI transparency rules into practice"
-    },
-    {
-      "id": "recvrgBN37c2QT",
-      "title": "2016年地震曾让相机延迟数月，如今日本再遭强震，2026年地震对摄影师的冲击有多大？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/a-2016-earthquake-delayed-cameras-for-months-another-one-just-hit-japan-this-is-how-much-the-2026-earthquake-could-impact-photographers",
-      "publish_time": "2026-08-04T00:43:55+08:00",
-      "summary": "日本强震致索尼传感器停产，影响相机供应，2026年地震对摄影师的冲击或超2016年，需关注供应链恢复。",
-      "recommendation": "对比2016年地震影响，分析索尼传感器停产对相机供应链的冲击，为影像爱好者提供购机时机与行业恢复周期的参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A 2016 earthquake delayed cameras for months. Another one just hit Japan. This is how much the 2026 earthquake could impact photographers"
-    },
-    {
-      "id": "recvrgBwRuQVo9",
-      "title": "南塔克特古董店“禁止网红”标牌激怒内容创作者",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/nantucket-antique-stores-no-influencers-sign-angers-content-creators/",
-      "publish_time": "2026-08-04T00:39:38+08:00",
-      "summary": "南塔克特古董店竖立“禁止网红”标牌，引发内容创作者不满，凸显实体店与网红营销的冲突。",
-      "recommendation": "实体店与网红冲突折射内容创作商业化困境，为影像创作者提供商业伦理与拍摄边界参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nantucket Antique Store’s ‘No Influencers’ Sign Angers Content Creators"
     }
   ]
 }
