@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-15T21:14:18.785716+08:00",
+    "updated_at": "2026-08-16T03:08:11.953815+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 33
+      "count": 32
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 85
+      "count": 84
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,12 +23,12 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 8
+      "count": 7
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 51
+      "count": 49
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,150 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 148
+      "count": 152
     }
   ],
   "articles": [
+    {
+      "id": "recvsoua4x1a5G",
+      "title": "我们被日食了：NASA摄影师分享本周太阳活动的精彩图像——至少有一个值得发现的彩蛋",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/weve-been-eclipsed-nasa-photographers-share-stellar-images-from-this-weeks-solar-event-and-theres-at-least-one-easter-egg-thats-worth-discovering",
+      "publish_time": "2026-08-16T02:15:00+08:00",
+      "summary": "NASA更新日食图库，收录本周太阳全食照片，含隐藏细节彩蛋，展示太阳活动精彩图像。",
+      "recommendation": "NASA官方日食图库更新，含隐藏彩蛋细节，为天文摄影爱好者提供太阳活动实拍参考与构图灵感，属常规资讯，可了解行业动态。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "We've been eclipsed: NASA photographers share stellar images from this week's solar event –and there's at least one Easter egg that's worth discovering"
+    },
+    {
+      "id": "recvsoueFW33i9",
+      "title": "为什么帧抓取无法取代静态摄影师——Netflix《信号》幕后：使用富士X系统拍摄剧照",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/why-frame-grabs-cant-replace-a-still-photographer-behind-the-scenes-of-netflixs-das-signal-shooting-stills-on-the-fujifilm-x-system/",
+      "publish_time": "2026-08-16T01:18:26+08:00",
+      "summary": "文章探讨帧抓取无法替代静态摄影师，以Netflix《信号》为例，展示富士X系统拍摄剧照的幕后，强调剧照摄影的独特价值与技术要求。",
+      "recommendation": "以Netflix《信号》幕后为例，剖析帧抓取与静态摄影的本质差异，展示富士X系统实战应用，为剧照爱好者提供技术参考与行业洞察。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why Frame Grabs Can’t Replace a Still Photographer – Behind the Scenes of Netflix’s »Das Signal«: Shooting Stills on the Fujifilm X-System"
+    },
+    {
+      "id": "recvsoulCGI6DL",
+      "title": "你的相机可能支持全景拍摄，为什么你还没用过？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/15/your-camera-might-be-able-to-shoot-panoramas-so-why-havent-you/",
+      "publish_time": "2026-08-16T00:00:00+08:00",
+      "summary": "全景摄影虽常与风景关联，但相机全景模式可拍更多景物。克服自动模式恐惧，尝试非山脉场景，简单操作即可实现广阔视野。",
+      "recommendation": "全景模式常被忽视，本文引导用户突破山脉场景，探索城市、室内等日常拍摄可能，提供实用操作指引，拓宽创作视野。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Your Camera Might be Able to Shoot Panoramas, so Why Haven’t You?"
+    },
+    {
+      "id": "recvsoucicp5JE",
+      "title": "一位画家将自己锁在实验室两年，试图用光创造持久影像。然后他意外打碎了一支温度计——从此永远改变了摄影",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/a-painter-locked-himself-in-a-lab-for-two-years-trying-to-create-a-lasting-image-using-light-then-he-accidentally-broke-a-thermometer-and-changed-photography-forever",
+      "publish_time": "2026-08-15T23:20:00+08:00",
+      "summary": "画家锁实验室两年，意外打碎温度计，发现用光创造持久影像的技术，将拍摄时间从数小时缩至几分钟，永久改变摄影。",
+      "recommendation": "从画家意外打碎温度计切入，还原摄影术诞生关键细节，含独家实验过程与时间数据，助你理解影像技术演进脉络。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "A painter locked himself in a lab for two years trying to create a lasting image using light. Then he accidentally broke a thermometer – and changed photography forever"
+    },
+    {
+      "id": "recvsougZvmKIk",
+      "title": "谷歌为Android 17添加大量新定制选项",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_is_adding_tons_of_new_customization_options_to_android_17-news-74193.php",
+      "publish_time": "2026-08-15T22:47:03+08:00",
+      "summary": "谷歌推送Android 17 QPR2 Beta 3，新增快速设置布局编辑器，可自定义排列开关和磁贴大小，提升个性化体验。",
+      "recommendation": "Android 17新增快速设置自定义，虽非影像核心，但磁贴布局优化可提升拍摄工作流效率。常规系统资讯，可了解移动影像生态变化。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google is adding tons of new customization options to Android 17"
+    },
+    {
+      "id": "recvsou0NzzzX0",
+      "title": "富士龙GF 19-35mm与32-90mm T3.5评测：对症下药",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/15/fujinon-gf-19-35mm-and-32-90mm-t3-5-review-the-cure-for-what-ails/",
+      "publish_time": "2026-08-15T22:01:46+08:00",
+      "summary": "评测富士龙GF 19-35mm与32-90mm T3.5镜头，针对拍摄需求提供解决方案，保留关键参数，核心价值在于对症下药。",
+      "recommendation": "针对富士中画幅用户的两款新镜实测，含具体参数与样张对比，直击拍摄痛点，提供明确选镜思路。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Fujinon GF 19-35mm and 32-90mm T3.5 Review: The Cure for What Ails"
+    },
+    {
+      "id": "recvsou7Seppdp",
+      "title": "Benj Haisch 称索尼 28-70mm f/2 GM 值得为此更换系统",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/benj-haisch-says-the-sony-28-70mm-f-2-gm-makes-it-worth-switching-systems-for/",
+      "publish_time": "2026-08-15T21:23:06+08:00",
+      "summary": "职业摄影师Benj Haisch长期评测索尼28-70mm f/2 GM镜头，称其取代所有定焦，成为婚礼和活动摄影核心，值得为此更换系统。",
+      "recommendation": "职业摄影师亲测索尼28-70mm f/2 GM，以实战视角论证其替代定焦的可行性，对婚礼及活动拍摄者选购镜头具参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Benj Haisch Says the Sony 28–70mm f/2 GM Makes It Worth Switching Systems For"
+    },
+    {
+      "id": "recvsoujiPcWZN",
+      "title": "优惠：谷歌Pixel 11系列开启预购",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_google_pixel_11_series_preorders_start-news-74183.php",
+      "publish_time": "2026-08-15T21:17:02+08:00",
+      "summary": "谷歌发布Pixel 11系列，标配256GB存储，但Pro版起步12GB内存，需选512GB以上才得16GB。",
+      "recommendation": "Pixel 11系列存储配置变化影响影像工作流，Pro版16GB内存门槛值得关注，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: Google Pixel 11 series pre-orders start"
+    },
+    {
+      "id": "recvsou3qhTMfp",
+      "title": "柯达Verita 200：这款胶片没有消费版，但我还是拍了",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/15/kodak-verita-200-no-consumer-version-of-this-film-exists-but-i-shot-it-anyway/",
+      "publish_time": "2026-08-15T21:00:31+08:00",
+      "summary": "朋友从电影行业获得柯达为《亢奋》第三季特制的Verita 200D胶片，重新卷装成35毫米供作者拍摄。该胶片无消费版，仅此途径可得。",
+      "recommendation": "独家揭秘电影特供胶片Verita 200D的实拍体验，含画质与色彩分析，为胶片爱好者提供稀缺样本。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Kodak Verita 200: No Consumer Version of This Film Exists But I Shot It Anyway"
+    },
     {
       "id": "recvsn2XMngxIP",
       "title": "盖蒂展览探索墨西哥摄影的演变",
@@ -545,6 +685,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Apple Threat Notifcation Sent to Users in 110 Countries"
+    },
+    {
+      "id": "recvsou5yIKqWt",
+      "title": "苹果向110个国家的用户发送威胁通知",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/14/apple-threat-notifcation-sent-to-users-in-110-countries/",
+      "publish_time": "2026-08-14T20:19:39+08:00",
+      "summary": "苹果向110国部分用户发威胁通知，专家提醒勿忽视，需警惕潜在安全风险。",
+      "recommendation": "常规资讯，可了解行业动态。对影像爱好者价值有限，但涉及设备安全，建议关注以防范潜在风险。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple Threat Notification Sent to Users in 110 Countries"
     },
     {
       "id": "recvsho6bjNbxv",
@@ -7590,162 +7745,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Google teases Pixel 11 Pro Fold in new official video"
-    },
-    {
-      "id": "recvrjOsZDWkzN",
-      "title": "TTArtisan 50mm f1.8 Neo评测：廉价镜头的真实代价",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/04/ttartisan-50mm-f1-8-neo-review-the-real-cost-of-cheap-lenses/",
-      "publish_time": "2026-08-04T12:00:00+08:00",
-      "summary": "TTArtisan 50mm f1.8 Neo镜头评测，对比佳能老款小痰盂，探讨廉价镜头的性能与代价，核心价值在于分析其性价比。",
-      "recommendation": "实测对比佳能小痰盂，揭示廉价镜头在锐度、色散与做工上的真实取舍，为预算有限的爱好者提供量化参考与理性选购依据。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "TTArtisan 50mm f1.8 Neo Review: The Real Cost of Cheap Lenses"
-    },
-    {
-      "id": "recvrjOdAH4CTp",
-      "title": "如何将1080p升级到4K：5款工具实测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/how-to-upscale-1080p-to-4k-5-tools-tested/",
-      "publish_time": "2026-08-04T11:57:25+08:00",
-      "summary": "本文实测5种将1080p升级至4K的工具，比较其原理、质量、工作流与易用性，指出4K时间线中1080p素材的不足，为视频创作者提供升级方案参考。",
-      "recommendation": "实测5款1080p转4K工具，对比画质与工作流，直指4K时间线中素材短板，为创作者提供可落地的升级方案与数据参考。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How to Upscale 1080p to 4K: 5 Tools Tested"
-    },
-    {
-      "id": "recvrit5twaPQi",
-      "title": "荣耀机器人手机规格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_robot_phone_specs_leak-news-73987.php",
-      "publish_time": "2026-08-04T11:11:01+08:00",
-      "summary": "荣耀机器人手机8月12日发布，泄露显示配备6.3英寸LTPO OLED屏，分辨率1216x2640，峰值亮度6800尼特，带抗反射涂层。",
-      "recommendation": "峰值亮度6800尼特及抗反射涂层是户外影像关键参数，适合关注屏幕显示效果的用户，常规资讯可了解行业动态。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor Robot Phone specs leak"
-    },
-    {
-      "id": "recvrit8LTfIWC",
-      "title": "TCL Tab A1 Plus Nxtpaper 现已在美国上市",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/tcl_tab_a1_plus_nxtpaper_is_now_available_in_the_us-news-73990.php",
-      "publish_time": "2026-08-04T09:09:02+08:00",
-      "summary": "TCL Tab A1 Plus Nxtpaper在美国上市，售价299.99美元，配备12.2英寸120Hz Nxtpaper屏幕，骁龙4 Gen 2处理器，6GB内存。",
-      "recommendation": "常规资讯，可了解行业动态。Nxtpaper类纸屏技术对阅读体验有参考价值，但影像规格未提及，摄影爱好者关注度有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "TCL Tab A1 Plus Nxtpaper is now available in the US"
-    },
-    {
-      "id": "recvritgpORkL7",
-      "title": "尼康总部获日本建筑承包商协会奖项",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/03/nikons-headquarters-received-an-award-from-the-japan-association-of-architectural-contractors.aspx/",
-      "publish_time": "2026-08-04T08:04:08+08:00",
-      "summary": "尼康总部创新中心获日本建筑承包商协会第67届BCS奖，与三菱地所设计及安藤建设合作，该中心已开始运营。",
-      "recommendation": "常规资讯，可了解行业动态。尼康总部获奖侧面反映其品牌建设投入，对影像爱好者无直接器材或技术参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon’s headquarters received an award from the Japan Association of Architectural Contractors"
-    },
-    {
-      "id": "recvrisXkot8mA",
-      "title": "这款徕卡M卡口镜头以极低价格复刻1930年代经典",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-leica-m-mount-lens-recreates-a-1930s-classic-for-a-fraction-of-the-price",
-      "publish_time": "2026-08-04T06:31:45+08:00",
-      "summary": "徕卡M卡口复古镜头复刻1930年代经典，现价或超2万美元，核心价值在于以极低价格重现历史经典。",
-      "recommendation": "复刻1930年代徕卡经典镜头，价格对比超2万美元原版，提供历史光学设计的现代体验，对M卡口玩家有独特收藏与拍摄价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Leica M-mount lens recreates a 1930s classic for a fraction of the price"
-    },
-    {
-      "id": "recvrit16kPGLg",
-      "title": "这款全画幅相机不仅能拍摄星空——还能通过可拆卸磁吸LCD屏幕告诉你正在观测哪些星星",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/this-full-frame-camera-doesnt-just-photograph-the-stars-it-tells-you-what-stars-youre-looking-at-from-a-removable-magnetic-lcd-screen",
-      "publish_time": "2026-08-04T05:27:43+08:00",
-      "summary": "ArcBlue C24全画幅天文相机，可拆卸磁吸屏识别星星，兼容现有镜头望远镜，专为星空摄影设计。",
-      "recommendation": "磁吸屏星图识别是天文摄影新玩法，兼容现有镜头降低门槛，对星空题材爱好者有实操参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This full-frame camera doesn’t just photograph the stars – it tells you what stars you’re looking at from a removable magnetic LCD screen"
-    },
-    {
-      "id": "recvritcpnxOAz",
-      "title": "谷歌Pixel 11 Pro营销材料泄露，确认部分规格",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_marketing_materials_leak_confirming_some_specs-news-73988.php",
-      "publish_time": "2026-08-04T05:22:02+08:00",
-      "summary": "谷歌Pixel 11 Pro营销材料泄露，确认其设计与Pixel 11相似，但Pro版背面配备Pixel Glow圆形RGB LED灯，摄像头凸起部分完全由玻璃覆盖。",
-      "recommendation": "泄露图确认Pixel Glow RGB灯与全玻璃摄像头盖板，Pro版影像设计细节首曝，对关注谷歌计算摄影方向者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google Pixel 11 Pro marketing materials leak confirming some specs"
-    },
-    {
-      "id": "recvrisP14oWUM",
-      "title": "这些定制相机镜头盖将你的设备变成品牌展示机会",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/these-custom-camera-caps-turn-your-gear-into-a-branding-opportunity/",
-      "publish_time": "2026-08-04T05:04:18+08:00",
-      "summary": "3D Film Parts将SignatureCap系列扩展为三卡口，为佳能RF、索尼E和尼康Z相机提供定制印刷机身和后镜头盖套装，将设备变为品牌展示机会。",
-      "recommendation": "常规资讯，可了解行业动态。文章介绍3D Film Parts为三大卡口推出定制镜头盖，对追求个性化设备的玩家有参考价值，但缺乏深度数据与独到观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "These Custom Camera Caps Turn Your Gear Into a Branding Opportunity"
-    },
-    {
-      "id": "recvrgBUUS92vH",
-      "title": "谷歌向Pixel设备推送Android 17 QPR 1 Beta 8更新",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_rolls_out_android_17_qpr_1_beta_8_to_pixel_devices-news-73982.php",
-      "publish_time": "2026-08-04T03:44:03+08:00",
-      "summary": "谷歌向Pixel设备推送Android 17 QPR 1 Beta 8更新，无新UI，聚焦修复音频失真和静电噪音，解决缓冲区管理缺陷，提升系统性能。",
-      "recommendation": "常规资讯，可了解行业动态。音频修复虽非影像核心，但缓冲区优化或间接影响视频录制稳定性，适合Pixel影像用户关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google rolls out Android 17 QPR 1 Beta 8 to Pixel devices"
     }
   ]
 }
