@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-15T15:13:51.991378+08:00",
+    "updated_at": "2026-08-15T21:14:18.785716+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 86
+      "count": 85
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,158 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 49
+      "count": 51
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 383
+      "count": 379
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 144
+      "count": 148
     }
   ],
   "articles": [
+    {
+      "id": "recvsn2XMngxIP",
+      "title": "盖蒂展览探索墨西哥摄影的演变",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/15/getty-exhibition-explores-the-evolution-of-mexican-photography/",
+      "publish_time": "2026-08-15T21:00:26+08:00",
+      "summary": "新展探讨20世纪墨西哥摄影受艺术联系与文化交流网络影响，揭示其演变历程。",
+      "recommendation": "展览揭示20世纪墨西哥摄影受艺术与文化交流网络影响的演变脉络，对理解拉美摄影美学与历史语境有独特价值，适合拓展影像文化视野。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Getty Exhibition Explores the Evolution of Mexican Photography"
+    },
+    {
+      "id": "recvsn35Dx0Ydo",
+      "title": "谷歌仍要求折叠屏买家妥协，而竞争对手比以往任何时候都更强",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/opinion/google-is-still-asking-fold-buyers-to-compromise-as-its-competitors-are-better-than-ever/",
+      "publish_time": "2026-08-15T21:00:00+08:00",
+      "summary": "谷歌Pixel 11 Pro Fold相机优于前代，但系统不如便宜1000美元的手机，折叠屏仍需妥协，竞争对手更强。",
+      "recommendation": "对比Pixel折叠屏相机与竞品，揭示系统短板与价格差异，含实测数据，助影像爱好者理性选购。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Google is still asking Fold buyers to compromise as its competitors are better than ever"
+    },
+    {
+      "id": "recvsn3cY5dOL6",
+      "title": "相机寿命即将延长",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/15/the-lifespan-of-cameras-is-about-to-get-longer/",
+      "publish_time": "2026-08-15T21:00:00+08:00",
+      "summary": "相机寿命延长至十年，索尼更新频繁成反派，但多数摄影师仍受益。",
+      "recommendation": "从寿命周期视角剖析相机行业更新节奏，索尼策略成反面案例，对持币观望者有决策参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Lifespan of Cameras is About to Get Longer"
+    },
+    {
+      "id": "recvsn387M2Nec",
+      "title": "先潜水，后拍摄：两位获奖电影制作人的水下摄影课",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/underwater-photography/dive-first-shoot-second-underwater-photography-lessons-from-two-commended-filmmakers",
+      "publish_time": "2026-08-15T20:30:00+08:00",
+      "summary": "艾美奖获奖记者Emily Rhyne与佳能探索者Nadia Aly分享水下摄影技巧，强调先掌握潜水技术再拍摄，涵盖基本技能到海洋捕食者拍摄。",
+      "recommendation": "两位获奖电影人从潜水技术切入，强调先稳后拍，分享海洋捕食者拍摄经验，对水下影像爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Dive first, shoot second: Underwater photography lessons from two commended filmmakers"
+    },
+    {
+      "id": "recvsn30kzmOYF",
+      "title": "摄影师耗时16年记录巴尔的摩废弃房屋",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/15/photographer-spends-16-years-documenting-baltimores-abandoned-homes/",
+      "publish_time": "2026-08-15T19:00:58+08:00",
+      "summary": "摄影师耗时16年记录巴尔的摩废弃房屋，途中需躲避蜱虫、毒蛇、毒贩等危险，展现城市衰败景象。",
+      "recommendation": "16年长期影像记录项目，展示纪实摄影的时间维度与坚持价值，含实地拍摄风险应对经验，对城市变迁题材创作者有参考意义。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Spends 16 Years Documenting Baltimore’s Abandoned Homes"
+    },
+    {
+      "id": "recvsn3fMRRcJK",
+      "title": "WANDRD磁吸相机背带评测：物有所值吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/15/wandrd-magnetic-camera-strap-review/",
+      "publish_time": "2026-08-15T18:00:00+08:00",
+      "summary": "WANDRD磁吸相机背带采用创新磁吸技术，突破传统肩带设计，提供独特使用体验，物有所值。",
+      "recommendation": "实测WANDRD磁吸背带承重与稳定性，对比传统肩带优缺点，为户外拍摄者提供选购参考。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "WANDRD Magnetic Camera Strap Review: Worth the Money?"
+    },
+    {
+      "id": "recvsn3aymiJnM",
+      "title": "爱丽丝·西利·哈里斯1898年蜜月时带着相机来到刚果。她拍摄的断手惨照帮助终结了历史上最大的不公之一",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/alice-seeley-harris-took-her-camera-to-the-congo-on-her-honeymoon-in-1898-her-gruesome-photograph-of-severed-hands-helped-to-end-one-of-historys-greatest-wrongs",
+      "publish_time": "2026-08-15T17:10:00+08:00",
+      "summary": "爱丽丝·西利·哈里斯1898年蜜月时带相机到刚果，拍摄断手惨照揭露暴行，帮助终结历史不公，成为首位用相机制止人权侵犯的摄影师。",
+      "recommendation": "以历史案例揭示摄影见证社会变革的力量，提供早期纪实摄影技术细节与人文价值，对理解影像社会功能有独特启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Alice Seeley Harris took her camera to the Congo on her honeymoon in 1898. Her gruesome photograph of severed hands helped to end one of history's greatest wrongs"
+    },
+    {
+      "id": "recvsn335Sm2tG",
+      "title": "谷歌现在允许你移除Gemini的可见水印",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_now_lets_you_remove_geminis_visible_watermark_-news-74188.php",
+      "publish_time": "2026-08-15T16:11:03+08:00",
+      "summary": "谷歌的Nano Banana图像生成器新增设置选项，允许用户移除生成图像的可见水印，该功能将在Gemini、Flow及谷歌搜索AI模式中提供。",
+      "recommendation": "AI图像水印移除涉及内容溯源与版权边界，对影像创作者是重要政策信号，但文章若仅报道功能更新，信息量有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Google now lets you remove Gemini's visible watermark"
+    },
+    {
+      "id": "recvsn2V5CVBT2",
+      "title": "索尼小贴士…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1912/",
+      "publish_time": "2026-08-15T14:47:48+08:00",
+      "summary": "索尼A7CR完美日常携带镜头推荐，附多平台优惠及摄影指南，强调相机选择重要性。",
+      "recommendation": "针对A7CR用户提供日常镜头搭配方案，附多平台优惠信息，兼具实用性与选购参考，适合关注轻便全画幅系统的爱好者。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
     {
       "id": "recvslAsexHRH3",
       "title": "柯达曾是全球最大的摄影品牌，但如今其Moments业务将被出售给Cewe，它面临沦为僵尸品牌的风险",
@@ -7608,143 +7746,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Google rolls out Android 17 QPR 1 Beta 8 to Pixel devices"
-    },
-    {
-      "id": "recvrgCauMn3JQ",
-      "title": "老蛙新微距镜头组合，放大倍率超越实物十倍",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/laowas-pair-of-new-macro-lenses-goes-ten-times-beyond-life-size/",
-      "publish_time": "2026-08-04T03:42:15+08:00",
-      "summary": "老蛙发布新微距镜头系列，专为极端特写设计，放大倍率超越实物十倍，提供高精度细节捕捉。",
-      "recommendation": "老蛙新微距系列放大倍率突破十倍，为极端特写提供高精度方案，含具体参数与设计思路，微距爱好者可获取独家技术细节。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Laowa’s pair of new macro lenses goes ten times beyond life-size"
-    },
-    {
-      "id": "recvrgCcYPkJBs",
-      "title": "尼康可能在对抗第三方Z卡口镜头的战斗中失利",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/nikon-may-be-losing-its-fight-against-third-party-z-mount-lenses/",
-      "publish_time": "2026-08-04T03:34:43+08:00",
-      "summary": "尼康Z卡口专利在中国被宣告无效，可能输掉对抗第三方镜头的战斗。",
-      "recommendation": "尼康Z卡口专利在华被无效，直接影响副厂镜头生态与用户选择。文章解析法律细节与行业影响，对关注镜头性价比的玩家有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon may be losing its fight against third-party Z mount lenses"
-    },
-    {
-      "id": "recvrgBmnApYtR",
-      "title": "索尼官方E卡口合作伙伴名单中有些有趣的遗漏",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/sony-list-of-official-e-mount-partners-has-some-interesting-exclusions/",
-      "publish_time": "2026-08-04T03:08:49+08:00",
-      "summary": "索尼公布E卡口许可合作伙伴名单，但遗漏了一些有趣的公司，该名单向符合资格的公司披露无反相机卡口基本规格。",
-      "recommendation": "E卡口开放名单暗藏行业博弈，从遗漏厂商可窥见镜头生态竞争格局，对器材党预判副厂动向有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony List of Official E-Mount Partners Has Some Interesting Exclusions"
-    },
-    {
-      "id": "recvrgCfUWT19L",
-      "title": "Phoblographer 订阅用户新享 VSCO One 15% 折扣",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/03/vsco-one-subscription-benefit/",
-      "publish_time": "2026-08-04T03:00:00+08:00",
-      "summary": "Phoblographer订阅用户现可享VSCO One 15%折扣，该系统含专业版、画廊、工作区等，且公司道德优于Adobe，会员计划提供折扣及更多福利。",
-      "recommendation": "VSCO One订阅折扣资讯，含会员福利细节及与Adobe的对比观点，对移动影像后期用户有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Phoblographer Subscribers New Get 15% off VSCO One"
-    },
-    {
-      "id": "recvrisU0BTnDp",
-      "title": "今日仅限B&H：适马28mm f/1.4 FE镜头直降460美元",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/today-only-at-bhphoto-460-off-on-the-sigma-28mm-f-1-4-fe/",
-      "publish_time": "2026-08-04T02:47:10+08:00",
-      "summary": "今日BHphoto促销，Sigma 28mm f/1.4 FE镜头直降460美元，同时Ugreen和Sirui产品也有大幅优惠，文章首发于sonyalpharumors。",
-      "recommendation": "适马28mm f/1.4 FE镜头降价460美元，优惠力度罕见，适合关注高性价比大光圈定焦的玩家。附Ugreen、Sirui促销信息，常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Today only at BHphoto: $460 off on the Sigma 28mm f/1.4 FE"
-    },
-    {
-      "id": "recvrgBpc7iajd",
-      "title": "这些照片致敬纽约互助的好心人",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/these-photos-celebrate-the-good-folk-of-new-york-who-help-one-another/",
-      "publish_time": "2026-08-04T02:14:15+08:00",
-      "summary": "摄影师威廉·迈耶斯新书《公民学》以25年视觉记录纽约市，展现日常公民参与、公共服务与邻里互助，体现美国民主缩影。",
-      "recommendation": "25年纽约街拍案例，展示纪实摄影如何捕捉公民互助瞬间，对人文题材构图与叙事有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These Photos Celebrate the Good Folk of New York Who Help One Another"
-    },
-    {
-      "id": "recvrgBrORAJCD",
-      "title": "PetaPixel会员现在可享Capture One八折优惠",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/petapixel-members-now-get-20-off-capture-one/",
-      "publish_time": "2026-08-04T01:31:03+08:00",
-      "summary": "PetaPixel会员新增福利，订阅Capture One年度服务可享八折优惠，提升会员价值。",
-      "recommendation": "Capture One订阅优惠对后期工作流用户有实际价值，但信息量有限，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "PetaPixel Members Now Get 20% Off Capture One"
-    },
-    {
-      "id": "recvrgBuxUnnU0",
-      "title": "执法记录仪视频显示警察在德莱尼大厅抗议活动中处理摄影师“被盗”相机包",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/03/body-camera-footage-shows-cop-handling-photographers-stolen-camera-bag-at-delaney-hall-protest/",
-      "publish_time": "2026-08-04T01:14:08+08:00",
-      "summary": "官员在诉讼压力下公布执法记录仪视频，显示警察处理摄影师被盗相机包，可能揭示事件真相。",
-      "recommendation": "执法记录仪视频揭示事件细节，对关注影像设备在公共记录中应用的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Body Camera Footage Shows Cop Handling Photographer’s ‘Stolen’ Camera Bag at Delaney Hall Protest"
-    },
-    {
-      "id": "recvrgBXvp8eZY",
-      "title": "欧盟委员会将AI透明度规则付诸实践",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_european_commission_sets_new_rules_for_transparent_ai_use-news-73986.php",
-      "publish_time": "2026-08-04T00:49:02+08:00",
-      "summary": "欧盟委员会将执行2024年《人工智能法案》的透明度规则，违规者面临高额罚款。新规要求清晰标记AI生成或操纵的内容，并推出“AI”、“AI生成”、“AI修改”图标。",
-      "recommendation": "AI生成内容标记规则落地，影像创作者需关注合规风险。文章梳理罚款细则与图标规范，对涉及AI修图的从业者有实操参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The European Commission puts AI transparency rules into practice"
     }
   ]
 }
