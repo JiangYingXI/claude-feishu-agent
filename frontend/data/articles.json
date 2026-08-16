@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-16T10:12:49.836988+08:00",
+    "updated_at": "2026-08-16T15:14:12.481968+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 85
+      "count": 87
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 48
+      "count": 49
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,57 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 151
+      "count": 149
     }
   ],
   "articles": [
+    {
+      "id": "recvsrr2DbtKN9",
+      "title": "我是相机专家。我不想说这个，但相机价格可能即将变得更糟",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/im-a-camera-expert-i-hate-to-be-the-one-to-say-this-but-camera-prices-are-probably-about-to-get-worse",
+      "publish_time": "2026-08-16T14:15:00+08:00",
+      "summary": "相机专家警告，因AI发展推高内存成本，相机价格可能继续上涨，各品牌财报显示成本压力显著。",
+      "recommendation": "AI推高内存成本致相机涨价的行业预警，含各品牌财报数据，助影像爱好者预判购机时机。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I’m a camera expert. I hate to be the one to say this, but camera prices are probably about to get worse"
+    },
+    {
+      "id": "recvsrr5eEDWAO",
+      "title": "Laowa Aksen 1-5x超微距Apo评测：高达5倍放大，当“全画幅”微距不够用时",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/laowa-aksen-1-5x-ultra-macro-apo-review",
+      "publish_time": "2026-08-16T11:20:00+08:00",
+      "summary": "老蛙Aksen 1-5倍超微距Apo镜头，支持多种卡口，实现高达5倍放大，适合全画幅微距不够用时深入探索微小细节。",
+      "recommendation": "5倍超微距实拍样张与Apo光学设计解析，提供卡口适配和放大倍率对比数据，助微距玩家突破全画幅极限。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Laowa Aksen 1-5x Ultra Macro Apo review: Up to 5x magnification for when ‘full’ macro just doesn’t cut the mustard"
+    },
+    {
+      "id": "recvsrr7ESFXFs",
+      "title": "Laowa Aksen 5-10x 超微距 Apo 评测：忘掉“全”微距——这支镜头将放大倍率一路提升至10倍以上",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/laowa-aksen-5-10x-ultra-macro-apo-review",
+      "publish_time": "2026-08-16T11:20:00+08:00",
+      "summary": "Laowa Aksen 5-10x超微距Apo镜头提供5至10倍可调放大倍率，适用于多种相机，实现超微距拍摄。",
+      "recommendation": "独家实测5-10倍超微距Apo镜头，含放大倍率、画质与操控数据，为微距爱好者提供高倍率拍摄的深度参考。",
+      "categories": [
+        "镜头与光学",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 8,
+      "language": "English",
+      "original_title": "Laowa Aksen 5-10x Ultra Macro Apo review: Forget 'full' macro – this lens ramps up magnification all the way to 10x more"
+    },
     {
       "id": "recvsqdd4FMdho",
       "title": "iQOO 16 爆料：将配备更高刷新率屏幕，采用新设计",
@@ -7699,52 +7746,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Camera Traps Reveal Secret Life of World’s Oldest Sunda Clouded Leopard"
-    },
-    {
-      "id": "recvrjOfYGltoX",
-      "title": "大多数摄影师造访古巴首都时，镜头对准的是雪佛兰和雪茄。大卫·萨克斯却另辟蹊径：捕捉模糊、阴影和无人摆拍的事物",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/most-photographers-visiting-cubas-capital-focus-on-the-chevys-and-cigars-david-saxe-took-a-very-different-approach-going-after-the-blur-the-shadows-and-the-things-nobody-poses-for",
-      "publish_time": "2026-08-04T16:55:23+08:00",
-      "summary": "古巴是生活，用颗粒、暗部和瑕疵取代明信片式的镜头，这对每位摄影师都是一个有用的教训。",
-      "recommendation": "以古巴纪实摄影为例，剖析颗粒、暗部与瑕疵的审美价值，提供反明信片式拍摄思路，对追求个性化表达的影像爱好者具实操启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Most photographers visiting Cuba's capital focus on the Chevys and cigars. David Saxe took a very different approach: going after the blur, the shadows and the things nobody poses for"
-    },
-    {
-      "id": "recvrjOiQkEuhM",
-      "title": "拍摄真正伟大的名人肖像需要什么？从拍摄艾米·怀恩豪斯到小野洋子，摄影师吉莉安·埃德尔斯坦用整个职业生涯寻找答案",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/what-does-it-take-to-take-a-truly-great-celebrity-portrait-from-shooting-amy-winehouse-to-yoko-ono-photographer-jillian-edelstein-has-spent-a-career-finding-out",
-      "publish_time": "2026-08-04T16:14:48+08:00",
-      "summary": "摄影师吉莉安·埃德尔斯坦通过拍摄名人肖像揭示人性真相，其作品在新展览中展出，展示了从艾米·怀恩豪斯到小野洋子的肖像艺术。",
-      "recommendation": "从名人肖像看人性捕捉技巧，埃德尔斯坦的拍摄方法论与作品解析，对肖像摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "What does it take to take a truly great celebrity portrait? From shooting Amy Winehouse to Yoko Ono, photographer Jillian Edelstein has spent a career finding out"
-    },
-    {
-      "id": "recvrjOlhbguHz",
-      "title": "HoverAir Versa——是无人机还是云台相机？为何不能两者兼得！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/drones/hoverair-versa-is-it-a-drone-or-is-it-a-gimbal-camera-why-not-both-at-once",
-      "publish_time": "2026-08-04T16:09:28+08:00",
-      "summary": "HoverAir Versa融合无人机与云台相机功能，挑战DJI Pocket，强调市场领导者未及此创新，核心价值在于多功能一体化设计。",
-      "recommendation": "跨界产品形态分析，对比DJI Pocket揭示市场空白，多功能一体化设计思路对影像爱好者有参考价值，但缺乏实测数据支撑。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "HoverAir Versa – is it a drone? Or is it a gimbal camera? Why not both at once!"
     }
   ]
 }
