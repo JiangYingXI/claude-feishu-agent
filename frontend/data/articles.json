@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-16T03:08:11.953815+08:00",
+    "updated_at": "2026-08-16T10:12:49.836988+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 84
+      "count": 85
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,81 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 49
+      "count": 48
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 379
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 152
+      "count": 151
     }
   ],
   "articles": [
+    {
+      "id": "recvsqdd4FMdho",
+      "title": "iQOO 16 爆料：将配备更高刷新率屏幕，采用新设计",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_16_165hz_refresh_rate_screen_tipped-news-74191.php",
+      "publish_time": "2026-08-16T08:45:02+08:00",
+      "summary": "iQOO 16预计9月发布，将配备165Hz刷新率的三星6.85英寸2K直屏，高于前代144Hz，并采用新设计，圆角和边框有所改进。",
+      "recommendation": "常规资讯，可了解行业动态。165Hz刷新率与屏幕规格对影像爱好者参考有限，但新设计细节或影响握持拍摄体验。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iQOO 16 tipped to come with a higher refresh rate screen, new design"
+    },
+    {
+      "id": "recvsqdaQpGUv2",
+      "title": "凯特·温斯莱特为拍摄李·米勒传记片，找到世界上最后一位禄来福来相机技师，并为片中搭档制作了一台复制相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/kate-winslet-tracked-down-one-of-the-worlds-last-rolleiflex-technicians-for-her-lee-miller-biopic-and-made-a-replica-camera-for-her-co-star-in-the-movie",
+      "publish_time": "2026-08-16T08:10:00+08:00",
+      "summary": "凯特·温斯莱特为拍摄李·米勒传记片，找到最后一位禄来福来相机技师，制作复制相机，揭示米勒战前双镜头相机的特质。",
+      "recommendation": "从双镜头相机细节切入，揭示李·米勒摄影生涯与禄来福来的历史关联，对胶片相机爱好者具独特参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Kate Winslet tracked down one of the world's last Rolleiflex technicians for her Lee Miller biopic – and made a replica camera for her co-star in the movie"
+    },
+    {
+      "id": "recvsqdfwgJf5V",
+      "title": "优惠：Pixel 11系列开启预售，Galaxy Z8折叠屏与S26机型降价",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_pixel_11_series_goes_on_preorder_galaxy_z8_foldables_and_s26_models_drop_prices-news-74175.php",
+      "publish_time": "2026-08-16T05:41:02+08:00",
+      "summary": "谷歌发布Pixel 11系列，标配256GB存储，但Pro版起步内存12GB，16GB需选512GB以上版本。",
+      "recommendation": "Pixel 11系列存储配置变化直接影响影像工作流，Pro版内存与存储绑定策略值得关注，适合摄影用户评估选购。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: Pixel 11 series goes on pre-order, Galaxy Z8 foldables and S26 models drop prices"
+    },
+    {
+      "id": "recvsqd8mb8LhW",
+      "title": "回看与L型支架Peak Design团队的直播交流",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/rewatch-the-live-hangout-with-the-l-bracket-peak-design-team/",
+      "publish_time": "2026-08-16T02:48:01+08:00",
+      "summary": "Peak Design直播介绍新款L型支架，Kickstarter筹款超60万美元，展示其工作原理，核心价值在于创新设计。",
+      "recommendation": "L型支架众筹超60万美元，直播详解设计逻辑，对视频创作者选购辅助工具有参考价值，含产品众筹数据与设计细节。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Rewatch the Live Hangout with the L-Bracket Peak Design team"
+    },
     {
       "id": "recvsoua4x1a5G",
       "title": "我们被日食了：NASA摄影师分享本周太阳活动的精彩图像——至少有一个值得发现的彩蛋",
@@ -7684,67 +7745,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "HoverAir Versa – is it a drone? Or is it a gimbal camera? Why not both at once!"
-    },
-    {
-      "id": "recvrlcnHELeyq",
-      "title": "Peak Design城市系列推出六款‘日常生活’包袋与背包",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/04/peak-designs-city-line-features-six-everyday-life-bags-and-backpacks/",
-      "publish_time": "2026-08-04T15:01:49+08:00",
-      "summary": "Peak Design推出City Line系列六款包袋，主打轻量化、直观收纳与简洁美学，兼顾日常实用与设计感。",
-      "recommendation": "Peak Design新包袋系列聚焦影像器材携带场景，轻量化与收纳设计对街拍爱好者有实用参考，但属常规产品资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Peak Design’s City Line Features Six ‘Everyday Life’ Bags and Backpacks"
-    },
-    {
-      "id": "recvrjOqibQxJ1",
-      "title": "DxO FilmPack 8评测：数字摄影所需的真实感",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/04/dxo-filmpack-8-review-the-authenticity-digital-photography-needs/",
-      "publish_time": "2026-08-04T15:00:00+08:00",
-      "summary": "DxO FilmPack 8评测：为数字照片提供真实胶片风格，弥补相机缺乏复古效果，实现创意愿景。",
-      "recommendation": "深度解析DxO FilmPack 8的胶片模拟算法，对比真实胶卷色彩曲线，提供实用调参建议，助数字影像实现复古质感。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DxO FilmPack 8 Review: The Authenticity Digital Photography Needs"
-    },
-    {
-      "id": "recvrjOazIq2OV",
-      "title": "索尼FX5评测汇总",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-fx5-reviews-roundup-2/",
-      "publish_time": "2026-08-04T14:34:58+08:00",
-      "summary": "索尼FX5相机及配件在多家电商有售，评测汇总文章首次发布于sonyalpharumors，提供核心参数与购买信息。",
-      "recommendation": "汇总索尼FX5核心参数与电商购买信息，便于快速了解新品动态，但缺乏独家实测数据，常规资讯可参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Sony FX5 reviews roundup"
-    },
-    {
-      "id": "recvrjOnQe22O6",
-      "title": "谷歌在新官方视频中预告 Pixel 11 Pro Fold",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_teases_pixel_11_pro_fold_in_new_official_video-news-73991.php",
-      "publish_time": "2026-08-04T13:00:03+08:00",
-      "summary": "谷歌发布Pixel 11 Pro Fold官方预告，将于8月12日亮相，视频展示轮廓和内屏，后置摄像头设计延续前代，泄露渲染图揭示更多细节。",
-      "recommendation": "谷歌官方预告确认Pixel 11 Pro Fold发布时间，泄露渲染图揭示后摄设计延续性，对关注折叠屏影像布局者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google teases Pixel 11 Pro Fold in new official video"
     }
   ]
 }
