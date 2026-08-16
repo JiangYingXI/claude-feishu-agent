@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-16T15:14:12.481968+08:00",
+    "updated_at": "2026-08-16T21:16:18.328355+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 87
+      "count": 86
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,137 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 380
+      "count": 377
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 149
+      "count": 152
     }
   ],
   "articles": [
+    {
+      "id": "recvssTXCG809x",
+      "title": "照片揭示伊朗女性如何以舞蹈作为抗争手段",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/16/photographs-reveal-how-iranian-women-have-used-dance-as-resistance/",
+      "publish_time": "2026-08-16T21:00:49+08:00",
+      "summary": "伊朗摄影师通过照片展示女性如何以舞蹈作为社会政治抗争手段，揭示舞蹈在伊朗历史中的抵抗作用。",
+      "recommendation": "以舞蹈为切入视角，解析伊朗女性影像中的社会抗争符号，提供历史脉络与拍摄手法参考，对纪实摄影爱好者有独特启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographs Reveal How Iranian Women Have Used Dance as Resistance"
+    },
+    {
+      "id": "recvssU8DUnaZm",
+      "title": "照片何时从现实转向虚构？一位传奇街头摄影师的观点",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/when-does-a-photo-move-from-reality-to-fiction-a-legendary-street-photographer-weighs-in/",
+      "publish_time": "2026-08-16T21:00:00+08:00",
+      "summary": "街头摄影师理查德·布拉姆在播客中探讨照片从现实转向虚构的瞬间，强调偶然与意图的哲学，核心在于捕捉场景转化为共鸣之物的特定时刻。",
+      "recommendation": "从街头摄影师的哲学视角剖析纪实与虚构的边界，提供创作方法论与审美启发，适合追求影像深度的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "When does a photo move from reality to fiction? A legendary street photographer weighs in"
+    },
+    {
+      "id": "recvssU3og0VSb",
+      "title": "BCNranking 7月畅销数据：索尼 ZV-E10II 成日本最畅销相机",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/bcnranking-bestseller-data-for-july-sony-zv-e10ii-is-the-best-selling-camera-in-japan/",
+      "publish_time": "2026-08-16T20:32:06+08:00",
+      "summary": "BCNranking7月数据显示，索尼ZV-E10II双变焦镜头套机黑色成为日本最畅销相机，佳能EOS R10和R50系列紧随其后。",
+      "recommendation": "BCNranking独家数据揭示日本市场真实销量，ZV-E10II登顶对Vlog用户有选机参考价值，佳能R10/R50紧随其后反映入门机竞争格局。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "BCNranking bestseller data for July: Sony ZV-E10II is the best selling camera in Japan"
+    },
+    {
+      "id": "recvssUbQeSd8N",
+      "title": "这款无取景器相机传授的课程是其他无反相机无法比拟的。如今，它凭借对暗箱起源的当代诠释赢得了著名奖项。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-viewfinder-free-camera-teaches-lessons-no-other-mirrorless-really-can-now-it-has-won-a-prestigious-award-for-its-contemporary-interpretation-of-what-began-with-the-camera-obscura",
+      "publish_time": "2026-08-16T20:15:00+08:00",
+      "summary": "这款极简无反相机凭借对暗箱起源的当代诠释，荣获红点设计奖最佳中的最佳，其激进理念在无取景器设计中独树一帜。",
+      "recommendation": "解析无取景器相机的设计哲学与暗箱渊源，独家呈现红点奖背后理念，为摄影爱好者提供器材美学新视角。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This viewfinder-free camera teaches lessons no other mirrorless really can. Now it has won a prestigious award for its \"contemporary interpretation of what began with the camera obscura\""
+    },
+    {
+      "id": "recvssU0qeCfJZ",
+      "title": "年度海洋摄影师大赛13张令人瞠目结舌的照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/16/13-jaw-dropping-photos-from-ocean-photographer-of-the-year/",
+      "publish_time": "2026-08-16T20:04:04+08:00",
+      "summary": "2026年度海洋摄影师大赛公布决赛入围名单，旨在表彰海洋的奇妙、脆弱及保护紧迫性。",
+      "recommendation": "13张决赛作品揭示水下摄影构图与光线运用技巧，附拍摄参数解析，对海洋题材创作有直接参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "13 Jaw-Dropping Photos From Ocean Photographer of the Year"
+    },
+    {
+      "id": "recvssUhqvw6YD",
+      "title": "让肖像和风景更出色的白平衡设置",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/16/how-daylight-white-balance-can-make-you-a-better-photographer-copy/",
+      "publish_time": "2026-08-16T18:00:00+08:00",
+      "summary": "本文介绍白平衡设置技巧，强调理解光线与白平衡可让任何场景拍摄可行，无需仅依赖黄金时刻，现代相机性能出色。",
+      "recommendation": "白平衡常被忽视，此文从光线本质切入，提供实用设置技巧，助你摆脱黄金时刻依赖，提升全天候拍摄成片率。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The White Balance Setting that Makes Portrait and Landscapes Better"
+    },
+    {
+      "id": "recvssU64GoyOU",
+      "title": "促销：Google Pixel 11系列现已开启预购，附赠礼品卡和以旧换新优惠",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_the_google_pixel_11_series_is_now_on_preorder_with_gift_cards_and_tradein_bonuses-news-74174.php",
+      "publish_time": "2026-08-16T17:51:02+08:00",
+      "summary": "谷歌发布Pixel 11系列，含标准版、两款Pro版和折叠屏，标配256GB存储，Pro版起步12GB内存，16GB需选512GB以上版本。",
+      "recommendation": "Pixel 11系列存储与内存配置细节明确，助影像用户按需选配，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses"
+    },
+    {
+      "id": "recvssUeMuvEin",
+      "title": "胶片摄影师至今仍痴迷于Plaubel Makina 67——事实上，这款中画幅相机如今的价值远超其新品时期！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/film-photographers-are-still-obsessed-with-the-plaubel-makina-67-this-medium-format-camera-is-worth-far-more-today-than-when-it-was-new",
+      "publish_time": "2026-08-16T17:10:00+08:00",
+      "summary": "Plaubel Makina 67中画幅胶片相机，因独特历史与性能，如今价值超新品，受摄影师痴迷。",
+      "recommendation": "解析Plaubel Makina 67历史溢价与折叠机身设计，提供中画幅胶片相机收藏与拍摄的深度视角，适合器材迷参考。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Film photographers are still obsessed with the Plaubel Makina 67 – in fact, this medium format camera is worth far more today than when it was new!"
+    },
     {
       "id": "recvsrr2DbtKN9",
       "title": "我是相机专家。我不想说这个，但相机价格可能即将变得更糟",
@@ -7623,129 +7745,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "This compact camera is perfect for street photography and vlogging – it's hard to find, but this UK retailer still has it in stock"
-    },
-    {
-      "id": "recvrlceJzU0mf",
-      "title": "苹果因iPhone照片应用中的面部识别面临325亿美元诉讼",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/04/apple-faces-32-5-billion-lawsuit-over-facial-recognition-in-iphone-photos-app/",
-      "publish_time": "2026-08-04T19:24:17+08:00",
-      "summary": "苹果因iPhone照片应用非法收集生物识别信息面临325亿美元诉讼，涉及面部识别技术，核心争议在于用户隐私权与数据安全。",
-      "recommendation": "苹果面部识别隐私诉讼的行业警示，涉及生物数据合规风险，对关注影像数据安全的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Apple Faces $32.5 Billion Lawsuit Over Facial Recognition in iPhone Photos App"
-    },
-    {
-      "id": "recvrld5MvowbY",
-      "title": "下周日食，用这款11美元滤镜和30美元双筒望远镜安全拍摄或观看",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lens-filters/photograph-or-watch-the-solar-eclipse-next-week-safely-with-this-usd11-filter-and-usd30-binoculars",
-      "publish_time": "2026-08-04T19:21:45+08:00",
-      "summary": "下周日食观测，推荐11美元相机滤镜与30美元太阳双筒望远镜，安全拍摄观看，性价比高。",
-      "recommendation": "日食拍摄门槛高，本文提供低预算安全方案，含具体滤镜与双筒型号及价格，对天文摄影入门者有实操参考价值。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photograph or watch the solar eclipse next week safely with this $11 filter and $30 binoculars"
-    },
-    {
-      "id": "recvrld9xYbEfU",
-      "title": "全球最小最轻全画幅变焦镜头再升级，另有三大超级镜头同步亮相",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/worlds-smallest-and-lightest-full-frame-compatible-zoom-just-got-better-along-with-three-other-super-lenses",
-      "publish_time": "2026-08-04T19:04:01+08:00",
-      "summary": "四款全画幅L卡口镜头获免费固件更新，新增对焦环控制等功能，提升变焦镜头性能。",
-      "recommendation": "四款L卡口镜头固件更新，新增对焦环控制功能，对变焦镜头用户有直接实用价值，但信息偏常规，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "\"World’s smallest and lightest full-frame compatible zoom\" just got better, along with three other super lenses"
-    },
-    {
-      "id": "recvrlde9SALET",
-      "title": "神牛C100透明取景相机现已开售——购买渠道一览",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-viral-godox-c100-transparent-viewfinder-camera-is-now-on-sale-heres-where-can-you-buy-it",
-      "publish_time": "2026-08-04T18:50:02+08:00",
-      "summary": "神牛C100透明取景相机已开售，本文介绍其购买渠道，突出其爆款特性，为消费者提供购买指引。",
-      "recommendation": "神牛C100透明取景相机开售信息汇总，提供购买渠道指引，对关注新品上市的影像爱好者有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The viral Godox C100 transparent viewfinder camera is now on sale –here's where can you buy it"
-    },
-    {
-      "id": "recvrlcI83gIKR",
-      "title": "Poco M8 Power 发布：配备 120Hz 屏幕、骁龙 4 Gen 4 处理器和 8000mAh 电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/poco_m8_power_features_price_sale_date-news-73995.php",
-      "publish_time": "2026-08-04T18:38:02+08:00",
-      "summary": "Poco发布M8 Power，配备8000mAh电池、6.9英寸120Hz AMOLED屏及骁龙4 Gen 4处理器，支持45W快充，续航强劲。",
-      "recommendation": "常规资讯，可了解行业动态。虽聚焦续航与性能，但影像配置未提及，对摄影爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Poco M8 Power arrives with a 120Hz screen, Snapdragon 4 Gen 4 SoC, and an 8,000 mAh battery"
-    },
-    {
-      "id": "recvrlchj0KNOc",
-      "title": "惊人高清照片显示火星上隆起的一座孤峰",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-      "publish_time": "2026-08-04T18:24:43+08:00",
-      "summary": "火星探测器拍摄到隆起孤峰的高清照片，距地球1.4亿英里，展现外星壮丽景观。",
-      "recommendation": "火星探测影像揭示1.4亿英里外孤峰细节，展现深空摄影技术极限，对天文影像爱好者具参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Amazing High-Res Photo Shows a Butte Rising From Mars"
-    },
-    {
-      "id": "recvrldkWsbmP9",
-      "title": "这是2026年最伟大的间谍相机吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/04/is-this-the-greatest-spy-camera-of-2026/",
-      "publish_time": "2026-08-04T18:00:00+08:00",
-      "summary": "Aries CharmShot Mini间谍相机形似口红，低分辨率传感器注重氛围感，独特迷人，令人好奇。",
-      "recommendation": "口红造型间谍相机颠覆传统影像逻辑，低分辨率传感器反成氛围感利器，为器材党提供另类创作视角与行业冷门洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is This the Greatest Spy Camera of 2026?"
-    },
-    {
-      "id": "recvrlcktlF4Tu",
-      "title": "相机陷阱揭示世界上最年长巽他云豹的秘密生活",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/04/camera-traps-reveal-secret-life-of-worlds-oldest-sunda-clouded-leopard/",
-      "publish_time": "2026-08-04T17:42:29+08:00",
-      "summary": "相机陷阱捕捉到八岁半雌性巽他云豹，为最年长野生记录，揭示婆罗洲雨林中此神秘猫科动物的生活。",
-      "recommendation": "相机陷阱技术实战案例，展示野外监测设备在低光环境下的部署与数据采集，对生态影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Camera Traps Reveal Secret Life of World’s Oldest Sunda Clouded Leopard"
     }
   ]
 }
