@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-17T03:02:28.597253+08:00",
+    "updated_at": "2026-08-17T10:14:31.338182+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 86
+      "count": 85
     },
     {
       "key": "ISP & 影像芯片",
@@ -38,10 +38,87 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 154
+      "count": 155
     }
   ],
   "articles": [
+    {
+      "id": "recvsw4ckJiK2u",
+      "title": "街拍摄影师会爱上的3款全画幅相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/16/3-full-frame-cameras-street-photographers-will-love/",
+      "publish_time": "2026-08-17T09:00:00+08:00",
+      "summary": "街拍摄影师需反应迅速，本文推荐3款全画幅相机，强调快速对焦与连拍性能，助你捕捉瞬间，提升街拍成功率。",
+      "recommendation": "针对街拍场景筛选全画幅机型，聚焦对焦与连拍实测数据，助你按需选机，避免参数盲区。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "3 Full Frame Cameras Street Photographers Will Love"
+    },
+    {
+      "id": "recvsw41GzbwyV",
+      "title": "这些令人惊叹的航拍照片从新视角展现气候变化",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/these-breathtaking-aerial-shots-show-climate-change-from-a-new-perspective",
+      "publish_time": "2026-08-17T08:10:00+08:00",
+      "summary": "新展览以航拍照片从新视角展现气候变化，世界级摄影师将河流、山脉和冰川转化为对全球变暖的研究，突出视觉冲击与科学价值。",
+      "recommendation": "航拍视角将气候议题转化为视觉语言，对风光摄影构图与主题表达有启发，但科学数据偏少，深度有限。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These breathtaking aerial shots show climate change from a new perspective"
+    },
+    {
+      "id": "recvsw44uu8P77",
+      "title": "为什么我认为索尼收购腾龙的影响远不止两个品牌",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/why-i-believe-sony-taking-control-of-tamron-will-affect-far-more-than-two-brands",
+      "publish_time": "2026-08-17T05:20:00+08:00",
+      "summary": "索尼收购腾龙将撼动摄影行业，改变摄影师前景，影响远超两品牌。",
+      "recommendation": "从行业格局与摄影师职业前景切入，解析收购背后的生态影响，提供超越品牌层面的深度视角，适合关注器材市场走向的影像爱好者。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Why I believe Sony taking control of Tamron will affect far more than two brands"
+    },
+    {
+      "id": "recvsw475MwSKs",
+      "title": "Pixel 11系列、荣耀机器人手机、Redmi 17正式发布，第33周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/pixel_11_series_honor_robot_phone_redmi_17_official_week_33_in_review-news-74177.php",
+      "publish_time": "2026-08-17T03:31:02+08:00",
+      "summary": "谷歌发布Pixel 11系列及Pixel Watch 5，搭载Tensor G6芯片，采用3纳米工艺，Pro版配备6.3或6.8英寸高亮屏幕，摄像头沿用前代。",
+      "recommendation": "汇总Pixel 11系列、荣耀机器人手机等新品动态，Tensor G6芯片及摄像头规格数据可供影像爱好者快速掌握行业趋势。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review"
+    },
+    {
+      "id": "recvsw49URaLl4",
+      "title": "尼康新闻周刊第899期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/16/weekly-nikon-news-flash-899.aspx/",
+      "publish_time": "2026-08-17T03:14:04+08:00",
+      "summary": "尼康新闻周刊第899期报道Peak Design模块化L型支架众筹即将结束，Adobe Creative Cloud Pro订阅优惠，多品牌镜头新品及存储卡促销信息。",
+      "recommendation": "汇总Peak Design支架众筹、Adobe订阅优惠及多品牌镜头新品，信息密集，适合关注器材配件与促销动态的影像爱好者快速浏览。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #899"
+    },
     {
       "id": "recvsujl9isFmO",
       "title": "无需机票环游世界观星：迄今最精彩的2026年英仙座流星雨照片",
@@ -7667,83 +7744,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Pentax hasn’t abandoned DSLRs – but it’s the compact camera comeback craze that’s giving Ricoh cameras a much-needed boost"
-    },
-    {
-      "id": "recvrlbXSeeBlZ",
-      "title": "专家警告家长不要带婴儿上山拍登顶照",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/04/expert-warns-parents-against-taking-babies-up-mountains-for-summit-photos/",
-      "publish_time": "2026-08-04T21:02:52+08:00",
-      "summary": "专家警告家长勿带婴儿登顶拍照，此举危险且不负责任，呼吁停止此类行为。",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦登山摄影中的安全伦理，对影像爱好者拍摄户外题材有警示价值，但缺乏独家数据与深度观点。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Expert Warns Parents Against Taking Babies Up Mountains for Summit Photos"
-    },
-    {
-      "id": "recvrlcTdH9MVv",
-      "title": "尼康从未费心为 Nikon Zf 和 Zfc 配备复古酷镜头，但多亏了福伦达，它无需如此",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/nikon-never-bothered-to-support-the-nikon-zf-and-zfc-with-retro-cool-lenses-but-thanks-to-voigtlander-it-doesnt-need-to",
-      "publish_time": "2026-08-04T21:00:00+08:00",
-      "summary": "尼康未为Zf和Zfc配复古镜头，但福伦达提供解决方案，不影响投资价值。",
-      "recommendation": "福伦达为尼康复古机身提供镜头方案，解析副厂生态价值，适合关注Zf/Zfc镜头选择的用户参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon never bothered to support the Nikon Zf and Zfc with retro-cool lenses, but thanks to Voigtlander it doesn’t need to"
-    },
-    {
-      "id": "recvrlcCxoEohn",
-      "title": "Oppo A7 Pro Max正式发布，搭载Oppo史上最大容量电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_a7_pro_max_is_official_with_oppos_biggest_battery_ever-news-74003.php",
-      "publish_time": "2026-08-04T20:47:02+08:00",
-      "summary": "Oppo发布A7 Pro Max，配备10000mAh史上最大电池，支持80W快充和27W反向充电，6.78英寸120Hz AMOLED屏，50MP摄像头，续航强劲。",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦续航与快充，影像部分仅提及50MP主摄，缺乏传感器型号与成像细节，对影像爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Oppo A7 Pro Max is official with Oppo's biggest battery ever"
-    },
-    {
-      "id": "recvrldhmDLz5J",
-      "title": "CIPA刚刚证实了所有相机品牌都害怕的事情",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/04/cipa-just-confirmed-what-every-camera-brand-was-afraid-of/",
-      "publish_time": "2026-08-04T20:46:33+08:00",
-      "summary": "CIPA最新报告证实相机行业停滞，因堆叠式传感器、全局快门等技术变革及价格上涨、材料成本挑战，导致市场持续面临多重困境。",
-      "recommendation": "CIPA官方数据揭示行业停滞真相，解析堆叠传感器与成本压力对市场的影响，助你理性判断器材升级时机。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "CIPA Just Confirmed What Every Camera Brand Was Afraid Of"
-    },
-    {
-      "id": "recvrlc2bRjPeP",
-      "title": "Wescott新款FJ100闪光灯与机顶灯：迄今最紧凑的无线灯光设备",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/04/wescotts-new-fj100-strobe-and-speedlight-are-its-most-compact-wireless-lights-yet/",
-      "publish_time": "2026-08-04T20:45:09+08:00",
-      "summary": "Westcott发布FJ100系列闪光灯，包括AC/DC和机顶款，为FJ无线系统中最紧凑设备。",
-      "recommendation": "Westcott FJ100系列主打紧凑设计，为无线闪光系统提供新选择。文章含具体型号与供电方式，适合关注便携灯光设备的影像爱好者了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Wescott’s New FJ100 Strobe and Speedlight Are its Most Compact Wireless Lights Yet"
     }
   ]
 }
