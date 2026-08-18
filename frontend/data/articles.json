@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-18T21:34:40.817454+08:00",
+    "updated_at": "2026-08-19T03:14:44.361260+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 82
+      "count": 78
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 8
+      "count": 10
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -33,15 +33,216 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 380
+      "count": 376
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 150
+      "count": 154
     }
   ],
   "articles": [
+    {
+      "id": "recvsG2YYh8DMI",
+      "title": "配备摄像头的AirPods在macOS测试版中亮相",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/camera-equipped-airpods-shown-in-action-in-macos-beta/",
+      "publish_time": "2026-08-19T02:39:31+08:00",
+      "summary": "彭博社称苹果将推出带摄像头的AirPods，或于今年发布，证据渐增。",
+      "recommendation": "苹果AirPods集成摄像头预示穿戴影像新方向，对移动影像爱好者具前瞻参考价值，但细节有限，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Camera-Equipped AirPods Shown In Action in macOS Beta"
+    },
+    {
+      "id": "recvsG3m6pVZ6v",
+      "title": "这些翻车的手机日食照片让我笑到停不下来。这就是GenAI不该进相机的原因",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/i-cant-stop-laughing-at-these-failed-viral-smartphone-eclipse-photos-this-is-why-genai-doesnt-belong-in-cameras",
+      "publish_time": "2026-08-19T02:20:46+08:00",
+      "summary": "文章指出GenAI在相机中的错误应用导致日食照片出现月亮叠影的搞笑翻车现象，强调AI不应替代真实摄影技术。",
+      "recommendation": "通过日食照片翻车案例，揭示GenAI在相机中的局限，提醒爱好者勿盲从AI，坚守真实摄影技术。观点犀利，案例直观。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "I can’t stop laughing at these failed viral smartphone eclipse photos. This is why GenAI doesn’t belong in cameras"
+    },
+    {
+      "id": "recvsG31xno7cz",
+      "title": "美国巡回法院保护民众在公共场合记录警察的权利",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/us-circuit-court-protects-peoples-right-to-record-police-in-public/",
+      "publish_time": "2026-08-19T02:07:51+08:00",
+      "summary": "美国第二巡回上诉法院首次裁定，宪法第一修正案保护个人在公共场合记录执法活动的权利。",
+      "recommendation": "公共记录权裁定直接影响街头摄影与纪实创作边界，提供法律依据，对影像从业者具实操参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "US Circuit Court Protects People’s Right to Record Police in Public"
+    },
+    {
+      "id": "recvsG3hdGQ6pj",
+      "title": "Caira评测：智能互联AI相机仍需学习很多",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/caira-review-the-clever-connected-ai-camera-still-has-a-lot-to-learn/",
+      "publish_time": "2026-08-19T01:53:25+08:00",
+      "summary": "Caira相机介于专用相机与手机配件间，具备微型四分之三卡口、1140万像素传感器和骁龙处理器，但仅有一个快门按钮，智能功能尚需改进。",
+      "recommendation": "剖析Caira相机定位与短板，提供骁龙芯片及传感器等关键参数，对关注AI相机形态的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "计算摄影 & AI 影像"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Caira review: the clever connected AI camera still has a lot to learn"
+    },
+    {
+      "id": "recvsG34ftxHK1",
+      "title": "GX-P1：由蝙蝠车设计师打造的360度全景数码相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/the-gx-p1-is-a-panoramic-digital-camera-designed-by-the-man-behind-the-batmobile/",
+      "publish_time": "2026-08-19T01:37:12+08:00",
+      "summary": "GXAce推出GX-P1全景相机，由蝙蝠车设计师打造，提供360度拍摄，即将亮相。",
+      "recommendation": "蝙蝠车设计师跨界操刀，为全景相机注入工业设计新视角。文章披露GX-P1核心规格与设计理念，对关注360度拍摄形态演进的爱好者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "The GX-P1 Is a Panoramic Digital Camera Designed By the Man Behind the Batmobile"
+    },
+    {
+      "id": "recvsG3zuh9EwF",
+      "title": "黄金时刻风景摄影技巧，人们遗忘的秘诀",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/18/landscape-photography-tricks-people-forgot/",
+      "publish_time": "2026-08-19T01:00:00+08:00",
+      "summary": "文章指出摄影师过度依赖后期修复，忽略了拍摄时的有意性，强调黄金时刻风景摄影中现场捕捉的重要性。",
+      "recommendation": "摒弃后期依赖，回归现场捕捉，重塑黄金时刻拍摄的有意性。对追求直出质感的爱好者，是值得反思的技术视角。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "The Golden Hour Landscape Photo Tricks People Forgot"
+    },
+    {
+      "id": "recvsG36FhFlBk",
+      "title": "电影制作人耗时四年追踪一头狮子的称王之路",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/filmmakers-spent-four-years-following-a-lion-on-his-journey-to-become-king/",
+      "publish_time": "2026-08-19T00:51:34+08:00",
+      "summary": "国家地理纪录片《狮子》由乔恩·费儒执导，历时四年追踪一只幼狮成长为领袖的历程，本周首播，展现其称王之路。",
+      "recommendation": "四年追踪野生动物的纪实拍摄，揭示长焦镜头与低光环境实战技巧，对自然影像创作者有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Filmmakers Spent Four Years Following a Lion On His Journey to Become King"
+    },
+    {
+      "id": "recvsG38XBrllz",
+      "title": "摄影师捕捉到海豚跃出水面的杂技瞬间",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/photographer-captures-acrobatic-dolphins-leaping-from-the-water/",
+      "publish_time": "2026-08-19T00:29:49+08:00",
+      "summary": "摄影师捕捉海豚跃出水面的杂技瞬间，并透露其拍摄技巧与方法，展示核心价值。",
+      "recommendation": "解析海豚抓拍参数与对焦技巧，含快门设置和连拍数据，对野生动物摄影爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Photographer Captures Acrobatic Dolphins Leaping From the Water"
+    },
+    {
+      "id": "recvsG3bSVU4MP",
+      "title": "Brightin Star 超薄 28mm f/2.8 镜头推出时尚银色版",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/brightin-stars-incomprehensibly-thin-28mm-f-2-8-lens-now-comes-in-stylish-silver/",
+      "publish_time": "2026-08-18T23:22:09+08:00",
+      "summary": "Brightin Star推出适用于徕卡M卡口的超薄28mm f/2.8饼干镜头液态银版，延续时尚外观，2023年黑色版后新增银色选择。",
+      "recommendation": "常规资讯，可了解行业动态。银色版为M卡口用户提供新配色选择，但缺乏光学性能或市场数据等独家信息。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Brightin Star’s Incomprehensibly-Thin 28mm f/2.8 Lens Now Comes In Stylish Silver"
+    },
+    {
+      "id": "recvsG3jDoiuNj",
+      "title": "宝丽来将宝可梦30周年纪念打造成完整的即时摄影生态系统",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/polaroid-x-pokemon-collaboration-limited-editions/",
+      "publish_time": "2026-08-18T23:00:48+08:00",
+      "summary": "宝丽来与宝可梦合作推出九件套系列，涵盖相机、胶片和配件，打造完整即时摄影生态系统，纪念宝可梦30周年。",
+      "recommendation": "宝可梦IP与即时摄影结合，九件套产品线覆盖相机、胶片与配件，为收藏型影像用户提供完整生态参考，含合作细节与产品规格。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Polaroid turns Pokémon’s 30th anniversary into a full instant-photography ecosystem"
+    },
+    {
+      "id": "recvsG3osgSUfc",
+      "title": "英国法院、酒吧甚至动漫展禁用智能相机眼镜——这项技术还能挽回声誉吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/uk-courts-pubs-and-even-comic-con-ban-smart-camera-glasses-is-it-even-possible-for-this-tech-to-salvage-its-reputation",
+      "publish_time": "2026-08-18T22:11:26+08:00",
+      "summary": "智能相机眼镜技术虽先进，但因隐私担忧被英国法院、酒吧等禁用，Meta等公司面临形象危机，需挽回声誉。",
+      "recommendation": "智能眼镜隐私争议的行业观察，揭示影像设备在公共空间的伦理边界，对关注可穿戴拍摄设备的用户有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "UK courts, pubs and even Comic-Con ban smart camera glasses – is it even possible for this tech to salvage its reputation?"
+    },
+    {
+      "id": "recvsG3tV7vkw6",
+      "title": "CMF新款无线耳机将于8月20日发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/cmfs_new_wireless_earbuds_will_be_unveiled_on_august_20-news-74221.php",
+      "publish_time": "2026-08-18T22:04:02+08:00",
+      "summary": "CMF宣布8月20日发布新款无线耳机Buds Neo，充电盒采用智能拨盘设计，并首次展示耳塞颜色。",
+      "recommendation": "常规资讯，可了解行业动态。智能拨盘设计是亮点，但缺乏影像关联数据，对摄影爱好者参考价值有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "CMF's new wireless earbuds will be unveiled on August 20"
+    },
+    {
+      "id": "recvsG3qPBX4d4",
+      "title": "好吧，我快破产了——这些宝丽来x宝可梦拍立得相机必须加入我的图鉴！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/okay-im-about-to-go-broke-these-polaroid-x-pokemon-instant-cameras-need-adding-to-my-pokedex",
+      "publish_time": "2026-08-18T21:49:00+08:00",
+      "summary": "宝丽来与宝可梦合作推出三款主题拍立得相机及胶片套装，含配件，需加入图鉴。",
+      "recommendation": "宝可梦联名拍立得套装细节与配件信息完整，适合关注跨界影像产品的玩家了解收藏价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Okay, I'm about to go broke –these Polaroid x Pokémon instant cameras NEED adding to my Pokédex!"
+    },
     {
       "id": "recvsEFzCkqDtC",
       "title": "FUJIKINA 纽约 2026 年 10 月 16 日至 18 日——立即购票，与富士胶片共庆摄影 200 周年",
@@ -56,6 +257,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "FUJIKINA New York 2026 Oct. 16 to 18 – Get Your Tickets Now and Celebrate 200 Years of Photography with Fujifilm"
+    },
+    {
+      "id": "recvsG3wHGbEKd",
+      "title": "FUJIKINA纽约站10月16日至18日——立即购票，与富士胶片共庆摄影200周年",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujikina-new-york-2026-oct-16-to-18-get-your-tickets-now-and-celebrate-200-years-of-photography-with-fujifilm/",
+      "publish_time": "2026-08-18T21:20:34+08:00",
+      "summary": "富士胶片将举办Fujikina纽约活动，时间为10月16日至18日，庆祝摄影200周年，现已开放购票。",
+      "recommendation": "摄影200周年庆典活动资讯，含具体日程与购票入口，适合纽约地区及计划参会的影像爱好者规划行程。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "FUJIKINA New York Oct. 16 to 18 – Get Your Tickets Now and Celebrate 200 Years of Photography with Fujifilm"
     },
     {
       "id": "recvsEFfoA3YJz",
@@ -87,6 +303,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Voigtlander Has Two New Lenses for Fujifilm Bokeh Lovers and Street Photographers"
+    },
+    {
+      "id": "recvsG3exfDKDy",
+      "title": "前索尼副董事长：索尼为何拒绝（M4/3？）合作伙伴",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/former-sony-vice-chairman-why-sony-rejected-micro-four-thirds-partners/",
+      "publish_time": "2026-08-18T20:40:55+08:00",
+      "summary": "前索尼副社长石塚茂树透露，索尼曾收到无反相机合作邀请，但经内部讨论后拒绝，决定自主研发。",
+      "recommendation": "前高管亲述决策内幕，揭示索尼拒绝合作、自研系统的战略逻辑，对理解相机行业格局有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Former Sony Vice Chairman: Why Sony Rejected (Micro Four Thirds?) Partners"
     },
     {
       "id": "recvsEFCLh92kC",
@@ -7508,239 +7739,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "How to plan photographing August 12's solar eclipse and Perseids meteor shower peak"
-    },
-    {
-      "id": "recvrvvMmeKeXF",
-      "title": "日本最新数据暗示：全画幅摄影师拥有镜头数量几乎是半画幅用户的两倍",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/full-frame-photographers-are-more-likely-to-have-nearly-twice-as-many-lenses-as-crop-sensor-camera-users-hints-the-latest-data-from-japan",
-      "publish_time": "2026-08-06T15:00:00+08:00",
-      "summary": "CIPA数据显示，2026年上半年全画幅摄影师平均拥有镜头数量约为半画幅用户的两倍，凸显行业趋势。",
-      "recommendation": "CIPA独家数据揭示全画幅与半画幅用户镜头持有量差距，为选购镜头群和规划预算提供量化参考，值得影像爱好者关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Full-frame photographers are more likely to have nearly twice as many lenses as crop sensor camera users, hints the latest data from Japan"
-    },
-    {
-      "id": "recvrvvWB8rVFz",
-      "title": "佳能即将停产自家RF 16mm F2.8镜头？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/06/is-canon-about-to-kill-its-own-rf-16mm-f2-8/",
-      "publish_time": "2026-08-06T15:00:00+08:00",
-      "summary": "佳能申请16mm镜头修订专利，可能停产RF 16mm F2.8，新设计或改进光学性能。",
-      "recommendation": "RF 16mm F2.8停产传闻涉及佳能专利修订细节，对关注入门超广角镜头性价比的用户有参考价值，可了解产品迭代方向。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is Canon About to Kill Its Own RF 16mm F2.8?"
-    },
-    {
-      "id": "recvrvvRpEWub1",
-      "title": "TCL P80 和 P80 Pro 渲染图、规格和价格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/tcl_p80_and_p80_pro_renders_specs_and_prices_leak-news-74031.php",
-      "publish_time": "2026-08-06T13:30:02+08:00",
-      "summary": "TCL P80和P80 Pro渲染图及规格泄露，P80配天玑7300 Elite、8GB RAM、128GB存储、5000万主摄和5000毫安电池，Pro版采用6.83英寸OLED Nxtpaper屏",
-      "recommendation": "TCL P80系列影像规格曝光，含天玑7300 Elite芯片与5000万主摄参数，可了解中端机型影像配置趋势。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "TCL P80 and P80 Pro renders, specs, and prices leak"
-    },
-    {
-      "id": "recvrvvTSJ0QfN",
-      "title": "华为发布轻如鸿毛的12英寸MatePad Pro 2026",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/huawei_launches_the_featherlight_12inch_matepad_pro_2026-news-74030.php",
-      "publish_time": "2026-08-06T12:31:02+08:00",
-      "summary": "华为发布MatePad Pro 2026平板，12英寸OLED屏，峰值亮度1600尼特，搭载麒麟T93或T93A芯片，运行鸿蒙OS 6.1，可选12GB内存及256/512GB存储，后置50MP摄像头",
-      "recommendation": "平板影像规格披露有限，但12英寸OLED屏与50MP主摄参数对移动创作有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Huawei launches the feather-light 12-inch MatePad Pro 2026"
-    },
-    {
-      "id": "recvru9Pf6CJet",
-      "title": "看看Boltt Ace 5G和Boltt Evo 4G",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/take_a_look_at_the_boltt_ace_5g_and_boltt_evo_4g-news-74033.php",
-      "publish_time": "2026-08-06T11:01:03+08:00",
-      "summary": "Fire-Boltt公布首批智能手机Boltt Ace 5G和Evo 4G将于8月25日发布，Flipkart页面展示图片，Ace有三摄，厚9.49毫米，规格未透露。",
-      "recommendation": "常规资讯，可了解行业动态。新品牌入局手机影像，三摄配置与机身厚度数据可供参考，但规格未透露，价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Take a look at the Boltt Ace 5G and Boltt Evo 4G"
-    },
-    {
-      "id": "recvru9Uk62Zvd",
-      "title": "尼康发布D6与D780单反相机新固件更新",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/05/nikon-released-new-firmware-updates-for-the-d6-d780-dslr-cameras.aspx/",
-      "publish_time": "2026-08-06T11:00:42+08:00",
-      "summary": "尼康发布D6与D780单反新固件，修复D型镜头曝光不足及自动FP高速同步快门限制问题。",
-      "recommendation": "尼康D6/D780固件更新修复D型镜头曝光与FP同步问题，对老镜头用户有实用价值，属常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon released new firmware updates for the D6 & D780 DSLR cameras"
-    },
-    {
-      "id": "recvru9MFbxltH",
-      "title": "SG-image AF 35mm f/2.2镜头现已适配L卡口相机",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/the-sg-image-af-35mm-f-2-2-lens-is-now-available-for-l-mount-cameras",
-      "publish_time": "2026-08-06T06:58:51+08:00",
-      "summary": "SG-image AF 35mm f/2.2镜头现已适配L卡口相机，价格待公布，性价比值得期待。",
-      "recommendation": "L卡口用户关注高性价比副厂镜头可留意，文章提供适配信息但缺价格与光学数据，常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The SG-image AF 35mm f/2.2 lens is now available for L-mount cameras"
-    },
-    {
-      "id": "recvru9K10zGek",
-      "title": "Viltrox‘银三剑客’为富士用户带来与机身匹配的镜头",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/viltroxs-silver-trio-gives-fujifilm-shooters-lenses-that-actually-match-their-cameras/",
-      "publish_time": "2026-08-06T06:31:16+08:00",
-      "summary": "Viltrox推出银三剑客镜头，匹配富士机身美学，提供与机身匹配的镜头，简化用户选择。",
-      "recommendation": "银三剑客适配富士机身美学，提供镜头选择思路，含产品定位与搭配建议，适合关注副厂镜头的富士用户参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Viltrox’s ‘silver trio’ gives Fujifilm shooters lenses that actually match their cameras"
-    },
-    {
-      "id": "recvru9RV6FEBN",
-      "title": "谷歌Pixel Tag发布在即，价格几何？",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/this_is_when_google_is_launching_the_pixel_tag_and_how_much_it_costs-news-74027.php",
-      "publish_time": "2026-08-06T05:31:02+08:00",
-      "summary": "谷歌Pixel Tag追踪器预计8月12日发布，售价34.99欧元，与苹果AirTag同价，仅提供浅雾色。",
-      "recommendation": "常规资讯，可了解行业动态。Pixel Tag定价与AirTag对标，对影像爱好者价值有限，但可关注其与手机生态联动对拍摄辅助的潜在影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This is when Google is launching the Pixel Tag and how much it costs"
-    },
-    {
-      "id": "recvrsi7l0Tk90",
-      "title": "我们找到了加快后期制作的方法",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/05/presets-faster/",
-      "publish_time": "2026-08-06T03:00:00+08:00",
-      "summary": "Phoblographer基于与主要相机和镜头制造商测试积累的庞大图像数据库，为Capture One和Lightroom制作预设，覆盖市面上每个品牌，以加快后期制作。",
-      "recommendation": "基于庞大测试数据库为Capture One和Lightroom制作全品牌预设，提供加速后期流程的实用方案，对多品牌用户有直接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "We’ve Got a Way to Get Through Post-Production Faster"
-    },
-    {
-      "id": "recvrshZOrLXbH",
-      "title": "7Artisans发布尼康Z卡口版AF 40mm f/2.5 LITE全画幅镜头",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/05/7artisans-released-the-nikon-z-mount-version-of-the-af-40mm-f-2-5-lite-full-frame-lens.aspx/",
-      "publish_time": "2026-08-06T02:29:56+08:00",
-      "summary": "7Artisans发布尼康Z卡口AF 40mm f/2.5 LITE全画幅镜头，重90g，STM步进马达，最近对焦0.4m，售价159美元，8月6日上市。",
-      "recommendation": "90g轻量化Z卡口镜头，159美元定价具竞争力，STM马达与0.4m近摄数据明确，适合街拍用户参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "7Artisans released the Nikon Z-mount version of the AF 40mm f/2.5 LITE full-frame lens"
-    },
-    {
-      "id": "recvrshDGviGc2",
-      "title": "既然生成式AI成了反派，Luminar正在调整其宣传口径",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/05/now-that-generative-ai-is-the-villain-luminar-is-spinning-its-messaging/",
-      "publish_time": "2026-08-06T02:25:15+08:00",
-      "summary": "Skylum调整Luminar宣传，强调人类创造力以应对AI消极态度，核心价值在于平衡技术与人文。",
-      "recommendation": "探讨AI时代影像工具的人文转向，剖析Skylum策略调整背后的行业信号，为关注计算摄影与创作伦理的爱好者提供新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Now that Generative AI Is the Villain, Luminar Is Spinning Its Messaging"
-    },
-    {
-      "id": "recvrshNE6qPaW",
-      "title": "L卡口和尼康Z用户迎来7Artisans小巧全能的40mm镜头",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/l-mount-and-nikon-z-shooters-are-getting-a-tiny-feature-packed-40mm-lens-from-7artisans/",
-      "publish_time": "2026-08-06T01:48:49+08:00",
-      "summary": "7Artisans推出40mm自动对焦超轻镜头，适配L卡口和尼康Z，小巧全能，提升便携性。",
-      "recommendation": "7Artisans新镜覆盖L卡口与尼康Z，轻巧自动对焦设计为便携拍摄提供新选择，适合关注副厂镜头性价比的用户了解。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "L-mount and Nikon Z shooters are getting a tiny, feature-packed 40mm lens from 7Artisans"
-    },
-    {
-      "id": "recvrshLiJ909V",
-      "title": "Fieldmade相机和镜头标签全场75折",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/25-off-site-wide-at-fieldmade-camera-and-lens-labels/",
-      "publish_time": "2026-08-06T01:40:40+08:00",
-      "summary": "Fieldmade相机和镜头标签全场75折，使用代码SUMMER25OFF可节省25%，信息源自sonyalpharumors。",
-      "recommendation": "常规促销资讯，提供Fieldmade相机镜头配件75折优惠码，对配件采购有实际参考价值，可顺带了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "25% off site-wide at Fieldmade camera and lens labels"
-    },
-    {
-      "id": "recvrshGtmhP2Z",
-      "title": "尼康输掉唯卓仕诉讼，索尼将收购腾龙？| PetaPixel播客",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/05/nikon-lost-its-viltrox-lawsuit-and-sony-to-buy-tamron-the-petapixel-podcast/",
-      "publish_time": "2026-08-06T01:01:29+08:00",
-      "summary": "本周PetaPixel播客中，Chris和Jordan讨论了尼康在中国法院输给Viltrox的影响，以及索尼收购腾龙的出价，并列出每个相机品牌最伟大的成就与耻辱。",
-      "recommendation": "尼康败诉唯卓仕与索尼收购腾龙传闻，涉及专利战与行业整合，对关注品牌格局的影友有参考价值。播客形式提供观点碰撞，但信息深度一般。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon Lost Its Viltrox Lawsuit and Sony to Buy Tamron? | The PetaPixel Podcast"
     }
   ]
 }
