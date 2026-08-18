@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-18T15:27:47.786978+08:00",
+    "updated_at": "2026-08-18T21:34:40.817454+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 31
+      "count": 32
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 84
+      "count": 82
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 50
+      "count": 47
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 378
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,250 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvsEFzCkqDtC",
+      "title": "FUJIKINA 纽约 2026 年 10 月 16 日至 18 日——立即购票，与富士胶片共庆摄影 200 周年",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujikina-new-york-2026-oct-16-to-18-get-your-tickets-now-and-celebrate-200-years-of-photography-with-fujifilm/",
+      "publish_time": "2026-08-18T21:20:34+08:00",
+      "summary": "富士胶片将在纽约举办Fujikina活动，庆祝摄影200周年，时间为2026年10月16日至18日，现已开放购票。",
+      "recommendation": "摄影200周年庆典活动资讯，含具体日期与购票渠道，适合关注行业动态的影像爱好者，但无独家内容。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "FUJIKINA New York 2026 Oct. 16 to 18 – Get Your Tickets Now and Celebrate 200 Years of Photography with Fujifilm"
+    },
+    {
+      "id": "recvsEFfoA3YJz",
+      "title": "宝丽来与宝可梦联手，打造宝丽来史上最大联名",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/polaroid-and-pokemon-team-up-for-polaroids-biggest-collab-ever/",
+      "publish_time": "2026-08-18T21:00:19+08:00",
+      "summary": "宝丽来与宝可梦合作庆祝其30周年，推出九款限量版产品，包括特别版即时相机，这是宝丽来史上最大联名。",
+      "recommendation": "宝丽来与宝可梦30周年联名，九款限量产品含特别版相机，展示即时摄影跨界合作细节，对收藏与影像文化爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Polaroid and Pokémon Team Up for Polaroid’s Biggest Collab Ever"
+    },
+    {
+      "id": "recvsEFUjVoTeT",
+      "title": "福伦达为富士胶片散景爱好者和街头摄影师推出两款新镜头",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/18/voigtlander-has-two-new-lenses-for-fujifilm-bokeh-lovers-and-street-photographers/",
+      "publish_time": "2026-08-18T21:00:00+08:00",
+      "summary": "福伦达为富士X卡口推出两款新定焦镜头，丰富产品线，满足散景爱好者和街头摄影师需求。",
+      "recommendation": "福伦达X卡口新镜发布，为富士用户提供更多定焦选择，含具体焦段与光圈参数，可助散景及街拍爱好者评估器材升级方案。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Voigtlander Has Two New Lenses for Fujifilm Bokeh Lovers and Street Photographers"
+    },
+    {
+      "id": "recvsEFCLh92kC",
+      "title": "这些紧凑型相机是预算级傻瓜机之王——现在它们更便宜了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/these-compact-cameras-are-budget-point-and-shoot-champions-now-theyre-even-cheaper",
+      "publish_time": "2026-08-18T20:14:45+08:00",
+      "summary": "紧凑型傻瓜相机以小巧便携和亲民价格著称，现降价更实惠，成为预算级摄影首选，兼顾趣味与性价比。",
+      "recommendation": "预算级傻瓜机降价趋势梳理，含具体机型与价格数据，适合入门用户选购参考，观点务实。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "These compact cameras are budget point-and-shoot champions – now they're even cheaper"
+    },
+    {
+      "id": "recvsEFiESZ3h2",
+      "title": "Meta无法阻止变态眼镜拍摄的内容雪崩式增长",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/meta-cant-stop-the-avalanche-of-content-filmed-on-pervert-glasses/",
+      "publish_time": "2026-08-18T20:12:02+08:00",
+      "summary": "Meta禁止智能眼镜拍摄骚扰视频的禁令未奏效，此类内容仍雪崩式增长，平台监管面临挑战。",
+      "recommendation": "智能眼镜拍摄伦理议题，揭示Meta监管失效与隐私风险，对影像创作者具警示价值，含平台审核数据与行业困境分析。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Meta Can’t Stop the Avalanche of Content Filmed on Pervert Glasses"
+    },
+    {
+      "id": "recvsEFrpZ6Hqn",
+      "title": "三星波兰官网列出Galaxy S26 FE的7个SKU",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_poland_lists_7_skus_for_the_galaxy_s26_fe-news-74219.php",
+      "publish_time": "2026-08-18T20:07:02+08:00",
+      "summary": "三星波兰官网的Samsung Care+ PDF列出了Galaxy S26 FE的7个SKU，确认了该机型的存在，但未透露更多细节。",
+      "recommendation": "常规资讯，可了解行业动态。SKU列表间接确认S26 FE存在，但无影像规格细节，对购机决策参考有限。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Poland lists 7 SKUs for the Galaxy S26 FE"
+    },
+    {
+      "id": "recvsEFFI4zNSc",
+      "title": "泄露的苹果宣传片显示，该公司通过打造一种不同的隐形摄像头——AirPods，解决了Meta的隐私问题",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/iphones/leaked-apple-promo-shows-the-company-solves-metas-privacy-problem-by-creating-a-different-kind-of-stealth-camera-airpods",
+      "publish_time": "2026-08-18T19:47:03+08:00",
+      "summary": "苹果泄露宣传片显示，其通过打造无摄像头的AirPods，以不同方式解决隐私问题，可能省略摄像头功能。",
+      "recommendation": "苹果AirPods无摄像头方案对比Meta隐私争议，揭示穿戴影像设备新思路，对关注隐私与影像融合的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Leaked Apple promo shows the company solves Meta's privacy problem by creating a different kind of stealth camera: AirPods"
+    },
+    {
+      "id": "recvsEFIkkX1ZF",
+      "title": "我刚刚发现了在售的未发布7Artisans f/2饼干镜头？我想是的……但我不会相信它",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/did-i-just-spot-the-unreleased-7artisans-f-2-pancake-lens-for-sale-i-think-so-but-i-wouldnt-trust-it",
+      "publish_time": "2026-08-18T19:32:00+08:00",
+      "summary": "亚洲媒体或已获得7Artisans f/2饼干镜头，但供应商可疑，需谨慎对待。",
+      "recommendation": "曝光疑似未发布7Artisans f/2饼干镜头，虽供应商存疑，但为镜头爱好者提供新品线索与行业动态参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Did I just spot the unreleased 7Artisans f/2 pancake lens for sale? I think so… but I wouldn’t trust it"
+    },
+    {
+      "id": "recvsEFLuClGzV",
+      "title": "“我开始尖叫，因为我知道炮击是什么样子”——海豚被拍到做出极其罕见的行为",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/i-started-screaming-because-i-know-what-shelling-looks-like-dolphin-photographed-performing-extremely-rare-behavior",
+      "publish_time": "2026-08-18T18:52:20+08:00",
+      "summary": "研究人员在澳大利亚东海岸拍摄到海豚罕见‘贝壳捕食’行为，该行为涉及将贝壳作为工具捕食，展示了海豚的高智商和学习能力。",
+      "recommendation": "罕见动物行为影像，展示野外抓拍技巧与长焦应用，对生态摄影构图有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "“I started screaming because I know what shelling looks like” –dolphin photographed performing extremely rare behavior"
+    },
+    {
+      "id": "recvsEFOaktrYP",
+      "title": "发布即登顶，当下最潮相机是“几乎无敌”的索尼——但日本十大相机榜单中不止一次令人意外的洗牌",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/released-at-1-the-trendiest-camera-right-now-is-a-virtually-unrivaled-sony-but-japans-top-ten-cameras-contain-more-than-one-surprising-shakeup",
+      "publish_time": "2026-08-18T18:47:37+08:00",
+      "summary": "索尼A7 V七个月后重登日本相机榜首，但榜单中仍有意外机型，核心价值在于揭示市场动态与竞争格局。",
+      "recommendation": "索尼A7 V登顶揭示市场风向，榜单意外洗牌暴露竞争变局。对器材党而言，可借日本市场数据校准购机决策，洞察品牌策略转向。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Released at #1, the trendiest camera right now is a \"virtually unrivaled\" Sony – but Japan’s top ten cameras contain more than one surprising shakeup"
+    },
+    {
+      "id": "recvsEFlfIi06p",
+      "title": "字节跳动与好莱坞就AI视频知识产权达成协议",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/bytedance-and-hollywood-reach-agreement-over-ai-video-ip-rights/",
+      "publish_time": "2026-08-18T17:50:59+08:00",
+      "summary": "字节跳动与美国电影协会签署协议，加强AI视频和图像模型的版权保护，确保知识产权合规。",
+      "recommendation": "AI视频版权协议将影响生成式影像工具的内容合规边界，对创作者使用相关模型有直接参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "ByteDance and Hollywood Reach Agreement Over AI Video IP Rights"
+    },
+    {
+      "id": "recvsEFoU2b1N7",
+      "title": "网红试图与鲨鱼合影，屡遭咬伤",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/18/influencers-trying-to-get-photos-with-sharks-keep-getting-bitten/",
+      "publish_time": "2026-08-18T17:27:49+08:00",
+      "summary": "网红与摄影师忽视安全警告，与鲨鱼合影屡遭咬伤，事件频发。",
+      "recommendation": "从影像安全角度切入，揭示极端拍摄场景中的风险与伦理，对水下摄影爱好者具警示价值，含事件细节与安全教训。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Influencers Trying to Get Photos With Sharks Keep Getting Bitten"
+    },
+    {
+      "id": "recvsEFR3fPoz0",
+      "title": "是时候更小心了？研究称22%的人将相机或手机放在公共场合无人看管，以拍摄自己",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/time-to-be-more-careful-research-says-22-percent-of-us-leave-our-cameras-or-phones-unattended-in-public-to-film-or-photograph-ourselves",
+      "publish_time": "2026-08-18T17:20:24+08:00",
+      "summary": "最新研究显示，22%的人将相机或手机置于公共场合无人看管以自拍，内容创作者和旅行博主是最大违规者。",
+      "recommendation": "独家数据揭示公共自拍风险，为影像创作者提供设备安全新视角，值得关注。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Time to be more careful? Research says 22% of us leave our cameras or phones unattended in public to film or photograph ourselves"
+    },
+    {
+      "id": "recvsEFuaIR4zF",
+      "title": "荣耀机器人手机现已在中国上市",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_robot_phone_is_now_available_in_china-news-74216.php",
+      "publish_time": "2026-08-18T17:02:02+08:00",
+      "summary": "荣耀机器人手机在中国开售，配备2亿像素云台摄像头，12/512GB版售价9999元，16GB/1TB版12999元。",
+      "recommendation": "2亿像素云台摄像头与定价信息明确，可了解荣耀高端影像机型配置及市场定位，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Honor Robot Phone is now available in China"
+    },
+    {
+      "id": "recvsEFXi3V84p",
+      "title": "Stroppa评测：数码相机和卡片机的最佳肩带",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/18/stroppa-review-the-best-strap-for-digicams-and-point-and-shoots/",
+      "publish_time": "2026-08-18T17:00:00+08:00",
+      "summary": "作者因市面无合适傻瓜相机颈带，请Stroppa创始人定制，历经近10年终于造出坚固舒适的肩带，满足数码相机用户需求。",
+      "recommendation": "从用户痛点切入，记录小众配件从定制到量产的十年历程，含产品设计细节与市场空白分析，对追求实用配件的影像玩家有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Stroppa Review: The Best Strap for Digicams and Point and Shoots"
+    },
+    {
+      "id": "recvsEFwWz0wDC",
+      "title": "iQOO在印度Z11和Buds TWS发布前透露更多细节",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_z11_india_iqoo_buds_tws_features-news-74215.php",
+      "publish_time": "2026-08-18T16:01:02+08:00",
+      "summary": "iQOO将于8月20日在印度推出Z11，其设计与中马版不同，配备3200万前置、5000万主摄和800万超广角，后置双摄。",
+      "recommendation": "常规资讯，可了解行业动态。文章透露iQOO Z11印度版与中马版设计不同，并给出3200万前置、5000万主摄等关键参数，对关注中端手机影像配置的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "iQOO reveals more details about the Indian Z11 and Buds TWS ahead of launch"
+    },
     {
       "id": "recvsDbsXHUV0x",
       "title": "苹果带摄像头的AirPods在泄露视频中现身",
@@ -7497,252 +7741,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Nikon Lost Its Viltrox Lawsuit and Sony to Buy Tamron? | The PetaPixel Podcast"
-    },
-    {
-      "id": "recvrshQ4heS0r",
-      "title": "Viltrox 9mm、15mm和25mm空气镜头现已推出银色版本",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/viltrox-9mm-15mm-and-25mm-air-lenses-now-available-in-silver/",
-      "publish_time": "2026-08-06T00:57:23+08:00",
-      "summary": "Viltrox为富士Air系列9mm f/2.8、15mm f/1.7和25mm f/1.7三款镜头新增银色版本，已在亚马逊销售，文章首发于Fuji Rumors。",
-      "recommendation": "富士Air系列三款镜头新增银色外观，属常规产品线更新，无光学参数变化。适合关注富士便携镜头配色选择的用户了解，内容平淡。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Viltrox 9mm, 15mm and 25mm Air Lenses Now Available in Silver"
-    },
-    {
-      "id": "recvrshIU10AkP",
-      "title": "佳能正在开发不含PFAS氟化物的镜头镀膜技术",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/05/canon-is-developing-a-lens-coating-without-pfas-laden-fluorine/",
-      "publish_time": "2026-08-06T00:32:54+08:00",
-      "summary": "佳能研发无氟光学涂层，具备与含氟涂层相同的防水性和耐久性，规避PFAS问题。",
-      "recommendation": "关注镜头环保技术动向，了解PFAS限制对光学镀膜工艺的潜在影响，适合器材党前瞻行业变化。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon Is Developing a Lens Coating Without PFAS-Laden Fluorine"
-    },
-    {
-      "id": "recvrsi2qDn0Oi",
-      "title": "eBay授权经销商尼康官方翻新机优惠（美国保修）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/05/nikon-outlet-deals-at-ebay-from-authorized-nikon-dealers-usa-warranty.aspx/",
-      "publish_time": "2026-08-06T00:23:50+08:00",
-      "summary": "尼康在eBay举办促销，精选装备最高节省30%，由授权经销商BuyDig销售，美国保修，文章列出部分商品及完整折扣列表。",
-      "recommendation": "尼康官方翻新机eBay促销信息汇总，含具体折扣幅度与授权渠道，适合预算有限的影像爱好者淘实惠。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon outlet deals at eBay from authorized dealers (USA warranty)"
-    },
-    {
-      "id": "recvrshSfgj1y9",
-      "title": "2026年过半，日本最新数据显示相机销售除这两类外均开始放缓",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/halfway-through-2026-the-latest-numbers-from-japan-show-camera-sales-starting-to-slow-in-every-category-except-these-two",
-      "publish_time": "2026-08-06T00:00:00+08:00",
-      "summary": "日本CIPA数据显示，2026年上半年无反和单反相机出货量均下滑，销售除这两类外均放缓。",
-      "recommendation": "CIPA官方数据揭示2026上半年相机市场分化，单反无反下滑但两类逆势增长，对购机决策和行业判断有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Halfway through 2026, the latest numbers from Japan show camera sales starting to slow in every category except these two"
-    },
-    {
-      "id": "recvrsi9PVXR6F",
-      "title": "这款新型Falcam电池内置Airtag",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/05/falcam-just-made-the-one-camera-accessory-every-photographer-secretly-needed/",
-      "publish_time": "2026-08-06T00:00:00+08:00",
-      "summary": "Falcam推出TagBatt，首款内置AirTag的相机电池，通过蓝牙追踪定位，解决相机丢失问题，提升设备安全性。",
-      "recommendation": "将AirTag追踪功能集成于相机电池，为器材防丢提供新思路，适合关注设备安全的影像用户了解。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This New Falcam Battery Has an Airtag in it"
-    },
-    {
-      "id": "recvrsi4RrLuER",
-      "title": "尼康发布Z50II相机小幅固件更新",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/05/nikon-released-a-minor-firmware-update-for-the-z50ii-camera.aspx/",
-      "publish_time": "2026-08-05T23:20:34+08:00",
-      "summary": "尼康发布Z50II相机固件1.11版，仅修复中文菜单名称问题，无其他功能更新。",
-      "recommendation": "常规资讯，可了解行业动态。尼康Z50II固件1.11版仅修复中文菜单显示问题，无性能提升，对影像爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 4,
-      "language": "English",
-      "original_title": "Nikon released a minor firmware update for the Z50II camera"
-    },
-    {
-      "id": "recvrshXa46vof",
-      "title": "荣耀启用新Logo及“勇敢做自己”口号，称2026年第一季度增长25%",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_adopts_new_logo_and_dare_to_be_slogan_says_it_grew_25_in_the_first_quarter_of_2026-news-74017.php",
-      "publish_time": "2026-08-05T23:09:02+08:00",
-      "summary": "荣耀更新品牌形象，启用新Logo和口号“勇敢做自己”，并推出与Arri合作的机器人手机，旨在打造AI驱动的智能设备，2026年第一季度增长25%。",
-      "recommendation": "荣耀与Arri合作机器人手机，透露影像技术新方向，含2026年增长数据，适合关注手机影像跨界合作的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor adopts new logo and \"Dare to Be\" slogan, says it grew 25% in the first quarter of 2026"
-    },
-    {
-      "id": "recvrshUt9ejWQ",
-      "title": "科学家捕捉到迄今最高分辨率太阳表面照片，揭示驱动太阳活动的“微小引擎”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/scientists-capture-highest-resolution-photos-of-the-suns-surface-ever-revealing-tiny-engines-driving-solar-activity",
-      "publish_time": "2026-08-05T23:00:00+08:00",
-      "summary": "科学家用高速摄像机捕捉到迄今最高分辨率太阳表面照片，揭示开尔文-亥姆霍兹不稳定性，或为理解太阳产热关键。",
-      "recommendation": "高速摄像技术突破至太阳观测，揭示开尔文-亥姆霍兹不稳定性，为影像爱好者提供极端动态场景拍摄思路与科学数据参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Scientists capture highest-resolution photos of the Sun’s surface ever, revealing “tiny engines” driving solar activity"
-    },
-    {
-      "id": "recvrr0oVShiI3",
-      "title": "这张照片让伦敦在夏季干旱中看起来像加州",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/05/this-photo-makes-london-look-like-california-amid-the-summer-drought/",
-      "publish_time": "2026-08-05T22:16:47+08:00",
-      "summary": "一张看似加州干旱景象的照片实为伦敦夏季干旱所致，草地被烧焦，凸显气候异常。",
-      "recommendation": "以影像视角记录气候异常，展示纪实摄影捕捉环境变迁的独特价值，附拍摄参数与调色思路，对风光爱好者有实操参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Photo Makes London Look Like California Amid the Summer Drought"
-    },
-    {
-      "id": "recvrr0RM82J9u",
-      "title": "DJI Osmo Pocket 4P评测——我们期待已久的双镜头口袋云台相机？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/dji-osmo-pocket-4p-review-the-twin-lenspocket-gimbal-camera-weve-all-been-waiting-for",
-      "publish_time": "2026-08-05T22:15:58+08:00",
-      "summary": "大疆Osmo Pocket 4P发布，双镜头口袋云台相机，保留核心技术参数，是否满足期待待评测。",
-      "recommendation": "双镜头口袋云台相机是全新形态，文章保留核心参数并给出实测方向，对关注便携影像的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DJI Osmo Pocket 4P review – the twin-lens pocket gimbal camera we've all been waiting for?"
-    },
-    {
-      "id": "recvrr1jhhJ4AX",
-      "title": "这里是观看Redmi Note 17发布的地方",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/this_is_where_you_can_watch_the_redmi_note_17_launch-news-74022.php",
-      "publish_time": "2026-08-05T22:07:02+08:00",
-      "summary": "小米宣布8月6日中午12点在印度线上发布Redmi Note 17 5G，配备8000mAh电池、120Hz AMOLED屏、5000万像素摄像头和高通处理器。",
-      "recommendation": "常规资讯，可了解行业动态。Redmi Note 17 5G确认搭载5000万像素主摄，但缺乏传感器型号与影像算法细节，对追求成像质量的用户参考有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This is where you can watch the Redmi Note 17 launch"
-    },
-    {
-      "id": "recvrr0U7Cb2KP",
-      "title": "UGREEN NASync DH4300 Plus评测：为4K视频编辑者打造的快速、智能且强大的NAS",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cloud-storage/ugreen-nasync-dh4300-plus-review",
-      "publish_time": "2026-08-05T22:00:00+08:00",
-      "summary": "UGREEN NASync DH4300 Plus是一款适合4K视频编辑的NAS，提供快速智能的文件备份和直接工作支持。",
-      "recommendation": "针对4K视频编辑场景实测NAS性能，含读写速度与工作流数据，为影像创作者提供存储方案参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "UGREEN NASync DH4300 Plus review: A quick, smart, and powerful NAS for 4K video editors"
-    },
-    {
-      "id": "recvrr0WvsAcIj",
-      "title": "这款130克预算镜头自动对焦性能再升级",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/this-130g-budget-camera-lens-just-got-better-at-autofocus",
-      "publish_time": "2026-08-05T22:00:00+08:00",
-      "summary": "SG-image AF 25mm f/1.8 M4/3镜头升级，自动对焦更快，修复视频连续对焦问题，重量仅130克。",
-      "recommendation": "130克轻量化M4/3镜头固件升级实测，聚焦自动对焦速度与视频追焦修复，含具体性能对比数据，适合小体积挂机党参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This 130g budget camera lens just got better at autofocus"
-    },
-    {
-      "id": "recvrr0PdYalyB",
-      "title": "谁是你最大的摄影灵感来源？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/who-inspires-your-photography/",
-      "publish_time": "2026-08-05T21:55:35+08:00",
-      "summary": "本文探讨摄影灵感来源，询问读者谁是其最大的摄影启发者，强调个人英雄与仰慕对象对创作的影响。",
-      "recommendation": "从灵感源头切入，引导读者反思创作动机，对摄影爱好者有启发价值。虽无独家数据，但视角独特，适合拓宽创作思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Who’s your biggest photography inspiration?"
-    },
-    {
-      "id": "recvrr0rRFjBPf",
-      "title": "演唱会摄像师称被歌手拖上台后摄影器材受损",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/05/concert-videographer-says-camera-gear-was-damaged-after-singer-elephant-man-dancehall-dragged-him-onstage/",
-      "publish_time": "2026-08-05T21:40:01+08:00",
-      "summary": "演唱会摄像师称被歌手拖上台致摄影器材受损，事件引发关注。",
-      "recommendation": "器材受损细节揭示现场拍摄风险，对演唱会摄影爱好者有实用参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Concert Videographer Says Camera Gear was Damaged After Singer Dragged Him Onstage"
-    },
-    {
-      "id": "recvrr0uchQr71",
-      "title": "七工匠159美元AF 40mm f/2.5镜头适配全画幅L卡口和Z卡口相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/05/7artisans-159-af-40mm-f-2-5-comes-to-full-frame-l-and-z-mount-cameras/",
-      "publish_time": "2026-08-05T21:33:28+08:00",
-      "summary": "七工匠将二月发布的紧凑型AF 40mm f/2.5全画幅定焦镜头引入L卡口和尼康Z卡口无反相机，售价159美元。",
-      "recommendation": "七工匠平价自动头扩展至L/Z卡口，159美元定价对全画幅用户具吸引力，可了解国产镜头卡口适配动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "7Artisans’ $159 AF 40mm f/2.5 Comes to Full-Frame L and Z-Mount Cameras"
     }
   ]
 }
