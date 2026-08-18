@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-18T10:09:15.047518+08:00",
+    "updated_at": "2026-08-18T15:27:47.786978+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 32
+      "count": 31
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 83
+      "count": 84
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,91 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 376
+      "count": 378
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 153
+      "count": 150
     }
   ],
   "articles": [
+    {
+      "id": "recvsDbsXHUV0x",
+      "title": "苹果带摄像头的AirPods在泄露视频中现身",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_airpods_with_cameras_surface_in_leaked_video-news-74214.php",
+      "publish_time": "2026-08-18T15:02:02+08:00",
+      "summary": "苹果带摄像头的AirPods在泄露视频中现身，演示了视觉智能功能，尽管此前有传言称该项目被取消。",
+      "recommendation": "苹果带摄像头AirPods泄露视频曝光，演示视觉智能功能，打破项目取消传闻。对影像爱好者而言，可提前洞察苹果空间计算与穿戴影像布局。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Apple AirPods with cameras surface in leaked video"
+    },
+    {
+      "id": "recvsDbpY10tbB",
+      "title": "索尼动态速览…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1914/",
+      "publish_time": "2026-08-18T14:07:08+08:00",
+      "summary": "索尼动态速览报道85毫米镜头优惠及Nanlite PavoSlim 360C RGBWW LED面板发布，并分享摄影技巧与学习经历。",
+      "recommendation": "涵盖85mm镜头促销与Nanlite新品，附实用摄影技巧，对镜头选购和灯光应用有参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvsDbvxYUB1n",
+      "title": "谷歌的诈骗检测功能将登陆另一家安卓设备制造商",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/googles_scam_detection_feature_is_headed_to_another_android_device_maker-news-74212.php",
+      "publish_time": "2026-08-18T12:33:02+08:00",
+      "summary": "谷歌诈骗检测功能将扩展至vivo手机，此前已支持Pixel和三星Galaxy S26系列，该功能可在通话中提醒潜在诈骗。",
+      "recommendation": "常规资讯，可了解行业动态。虽非影像核心，但谷歌AI防诈骗功能扩展至vivo，侧面反映手机端侧AI能力升级，对影像处理芯片算力有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google's Scam Detection feature is headed to another Android device maker"
+    },
+    {
+      "id": "recvsDbymycvRI",
+      "title": "vivo V80 Lite 5G预告图展示部分正面设计",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_v80_lite_teaser_image_shows_part_of_its_front_design-news-74211.php",
+      "publish_time": "2026-08-18T11:01:02+08:00",
+      "summary": "vivo V80 Lite 5G预告图展示曲面屏和中央打孔，疑为vivo S2改名版，图片经修饰。",
+      "recommendation": "曲面屏与中央打孔设计预示vivo中端影像新方向，疑为S2改名版，对关注前置镜头布局的爱好者有参考价值。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo V80 Lite 5G teaser image shows part of its front design"
+    },
+    {
+      "id": "recvsDbAU5kS32",
+      "title": "尼康发布Coolpix P1000与Z5II相机新固件更新",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/17/nikon-released-new-firmware-updates-for-the-coolpix-p1000-z5ii-cameras.aspx/",
+      "publish_time": "2026-08-18T10:58:09+08:00",
+      "summary": "尼康发布Coolpix P1000固件1.9版，修复连拍变焦时偶发停止响应问题；Z5II固件1.20版含多项修复。",
+      "recommendation": "固件更新虽属常规资讯，但P1000连拍变焦修复对超长焦用户有实操价值，Z5II多项修复亦值得关注，可了解尼康近期稳定性改进。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon released new firmware updates for the Coolpix P1000 & Z5II cameras"
+    },
     {
       "id": "recvsBT7uSylYI",
       "title": "HMD 102 4G Pro 规格泄露",
@@ -7667,83 +7743,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "7Artisans’ $159 AF 40mm f/2.5 Comes to Full-Frame L and Z-Mount Cameras"
-    },
-    {
-      "id": "recvrr0YWFgra1",
-      "title": "这款迷你遥控车配备可安装的POV摄像头，让你在客厅飞驰时捕捉第一人称视角画面",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/this-mini-rc-car-comes-with-an-attachable-pov-camera-so-you-can-capture-first-person-footage-as-you-zoom-around-your-living-room",
-      "publish_time": "2026-08-05T21:15:25+08:00",
-      "summary": "这款迷你遥控车配备可安装的720p磁性POV摄像头，让你在客厅飞驰时捕捉第一人称视角画面，是摄影爱好者的趣味礼物。",
-      "recommendation": "720p磁性摄像头与迷你遥控车结合，为影像爱好者提供低成本第一人称视角拍摄新玩法，附产品细节与场景化应用参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This mini RC car comes with an attachable POV camera, so you can capture first-person footage as you zoom around your living room"
-    },
-    {
-      "id": "recvrr0JsnlJ92",
-      "title": "大疆LOFIC传感器革命：17档动态范围，无需双增益权衡！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/djis-lofic-sensor-revolution-17-stops-without-the-dual-gain-trade-offs/",
-      "publish_time": "2026-08-05T21:15:04+08:00",
-      "summary": "大疆Osmo Pocket 4P采用LOFIC技术传感器，通过额外电容器存储溢出电荷，保留高光信息，实现16档动态范围，无需双增益权衡。",
-      "recommendation": "解析LOFIC传感器原理，揭示17档动态范围实现路径，对比双增益方案优劣，对关注计算摄影与硬件创新的玩家有参考价值。",
-      "categories": [
-        "传感器硬件"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "DJI’s LOFIC Sensor Revolution: 17 Stops Without the Dual-Gain Trade-Offs!"
-    },
-    {
-      "id": "recvrr1lOWTSB1",
-      "title": "华为nova 16 SE首发：配备8500mAh电池和6.84英寸显示屏",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/huawei_nova_16_se_debuts_with_an_8500mah_battery_and_684inch_display-news-74023.php",
-      "publish_time": "2026-08-05T21:06:02+08:00",
-      "summary": "华为发布nova 16 SE，配备8500mAh电池、6.84英寸120Hz AMOLED屏、8000尼特亮度、麒麟8020芯片，支持66W快充，最高512GB存储。",
-      "recommendation": "华为nova 16 SE参数曝光，8500mAh电池与8000尼特亮度为亮点，但影像规格未提及，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Huawei nova 16 SE debuts with an 8,500mAh battery and 6.84-inch display"
-    },
-    {
-      "id": "recvrr0wSMyR2C",
-      "title": "布鲁斯·吉尔登称他所拍摄的人为他的‘家人’",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/05/bruce-gilden-describes-the-people-he-photographs-as-his-family/",
-      "publish_time": "2026-08-05T21:04:54+08:00",
-      "summary": "布鲁斯·吉尔登以对抗性街头摄影和特写闪光灯技术闻名，虽具争议，但他称拍摄对象为家人，体现深深同理心。",
-      "recommendation": "从对抗性闪光灯技术切入，剖析其创作伦理与同理心，为街头摄影爱好者提供风格与观念的双重参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Bruce Gilden Describes the People He Photographs as His ‘Family’"
-    },
-    {
-      "id": "recvrr11kD7MO9",
-      "title": "“我们将控制权交还给摄影师”——Capture One CEO谈将哈苏工作流程带给专业人士",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/were-returning-control-to-the-photographer-capture-one-ceo-on-bringing-hasselblad-workflows-to-professionals",
-      "publish_time": "2026-08-05T21:02:07+08:00",
-      "summary": "Capture One CEO谈将哈苏工作流程带给专业人士，强调色彩科学在专业摄影中的核心地位，并解释为何摄影师长期要求支持哈苏。",
-      "recommendation": "专访揭示哈苏与Capture One合作背后的色彩科学逻辑，解析专业工作流控制权设计，对理解高端影像生态有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"We're returning control to the photographer\" – Capture One CEO on bringing Hasselblad workflows to professionals"
     }
   ]
 }
