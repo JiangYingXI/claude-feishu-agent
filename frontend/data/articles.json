@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-19T10:12:36.777787+08:00",
+    "updated_at": "2026-08-19T15:28:01.896988+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 47
+      "count": 46
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -38,10 +38,41 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 153
+      "count": 154
     }
   ],
   "articles": [
+    {
+      "id": "recvsJ2884yXHN",
+      "title": "索尼小贴士…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1915/",
+      "publish_time": "2026-08-19T14:07:07+08:00",
+      "summary": "索尼A7V用于鸟类和野生动物摄影的个人看法，附带多平台购物优惠及摄影教程链接，强调预算40mm镜头足够，无需昂贵镜头。",
+      "recommendation": "针对A7V鸟类摄影的实战观点，强调40mm镜头够用，附购物优惠与教程，适合预算有限的生态摄影爱好者参考。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvsJ2aZtY4Vm",
+      "title": "据报道，谷歌很快将终止在中国生产所有Pixel手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_reportedly_wants_to_end_all_pixel_production_in_china_very_soon-news-74223.php",
+      "publish_time": "2026-08-19T12:46:02+08:00",
+      "summary": "谷歌计划2027年停止在华生产Pixel产品，包括手机、手表和耳机，因已成功在越南和印度扩大生产，减少对华依赖。",
+      "recommendation": "常规资讯，可了解行业动态。Pixel影像算法依赖台积电代工，但生产转移不影响相机调校，关注后续供应链对Pixel相机成本的影响。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google reportedly wants to end all Pixel production in China very soon"
+    },
     {
       "id": "recvsHKvzqwuhp",
       "title": "三星Galaxy Tab S12 Ultra渲染图泄露",
@@ -7706,37 +7737,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "6 years on, these high-end full-frame DSLR cameras are getting a fresh firmware update"
-    },
-    {
-      "id": "recvrwQH4GNZeT",
-      "title": "两万次快门之后：Manny Ortiz 对索尼 A7R IV 的真实评价",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/after-20000-shots-here-is-what-manny-ortiz-really-thinks-about-the-sony-a7riv/",
-      "publish_time": "2026-08-06T18:10:21+08:00",
-      "summary": "索尼A7R IV经Manny Ortiz两万次快门重度使用后获真实评价，文章详述其性能与体验，核心价值在于提供长期使用后的客观反馈。",
-      "recommendation": "两万次快门后的长期实测，揭示A7R IV真实性能与耐用性，为高像素机型选购提供深度参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "After 20,000 shots: Here is what Manny Ortiz really thinks about the Sony A7rIV"
-    },
-    {
-      "id": "recvrwRho9ELaI",
-      "title": "这款热门尼康装备现降价高达44%",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/this-popular-nikon-gear-is-now-up-to-44-percent-off",
-      "publish_time": "2026-08-06T18:09:29+08:00",
-      "summary": "尼康热门装备现降价高达44%，涵盖经典单反机身、镜头及最新Z系列设备，提供该品牌最受欢迎装备的最佳优惠。",
-      "recommendation": "尼康全系降价幅度数据详实，覆盖单反至Z系列，为购机决策提供价格参考，属常规促销资讯，可快速了解市场行情。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This popular Nikon gear is now up to 44% off"
     }
   ]
 }
