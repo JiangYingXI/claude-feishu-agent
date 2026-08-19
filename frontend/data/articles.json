@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-19T21:34:31.090535+08:00",
+    "updated_at": "2026-08-20T03:11:12.476662+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 30
+      "count": 31
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 77
+      "count": 80
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,304 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 8
+      "count": 9
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 48
+      "count": 50
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 374
+      "count": 377
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 160
+      "count": 154
     }
   ],
   "articles": [
+    {
+      "id": "recvsLSVIB2EO1",
+      "title": "抱歉，电影制作者们——索尼FX5再次延期，且尚无确认的发布日期",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sorry-filmmakers-the-sony-fx5-was-just-delayed-again-with-no-confirmed-release-date-on-the-cards",
+      "publish_time": "2026-08-20T02:20:00+08:00",
+      "summary": "索尼FX5电影摄影机因生产问题再次延期，尚无确认发布日期，其手持好莱坞定位受影响。",
+      "recommendation": "索尼FX5延期消息牵动手持电影机市场，文中生产问题细节与档期影响分析，对关注专业影像设备动态的爱好者有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Sorry, filmmakers – the Sony FX5 was just delayed again, with NO confirmed release date on the cards"
+    },
+    {
+      "id": "recvsLSztDsJTG",
+      "title": "日本政府称数码相机行业正在复苏",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/19/japanese-government-says-the-digital-camera-industry-is-in-recovery/",
+      "publish_time": "2026-08-20T02:08:26+08:00",
+      "summary": "日本经济产业省关注数码相机市场，因日本在该行业占主导地位，现称行业正在复苏。",
+      "recommendation": "日本官方视角确认相机行业复苏信号，对关注市场趋势的影像爱好者有参考价值，但缺乏具体数据支撑，常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Japanese Government Says the Digital Camera Industry Is In Recovery"
+    },
+    {
+      "id": "recvsLTarAgPi2",
+      "title": "400-1500mm：适马刚刚为史上最疯狂的超远摄镜头申请了专利",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/19/400-1500mm-sigma-just-patented-the-wildest-super-telephoto-lens-weve-ever-seen/",
+      "publish_time": "2026-08-20T01:00:00+08:00",
+      "summary": "适马申请400-1500mm超远摄镜头专利，延续其填补市场空白的策略，该镜头规格超越现有产品，展现其技术雄心。",
+      "recommendation": "适马400-1500mm专利揭示超远摄新可能，含具体焦段与光圈数据，为长焦爱好者提供前瞻技术参考。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "400-1500mm: Sigma Just Patented the Wildest Super Telephoto Lens We’ve Ever Seen"
+    },
+    {
+      "id": "recvsLSC5gQcSI",
+      "title": "你可以在16年前的佳能单反上玩《毁灭战士》",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/19/you-can-play-doom-on-a-16-year-old-canon-dslr/",
+      "publish_time": "2026-08-20T00:50:34+08:00",
+      "summary": "摄影师通过Magic Lantern软件，在2010年的佳能EOS 550D单反上成功运行了1993年的游戏《毁灭战士》，展示了该相机改装潜力。",
+      "recommendation": "Magic Lantern改装实例，展示单反硬件潜力，对影像极客有参考价值，但游戏运行与摄影关联弱。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "You Can Play Doom On a 16-Year-Old Canon DSLR"
+    },
+    {
+      "id": "recvsLSQQuWs6N",
+      "title": "Google Pixel 11 Pro 上手评测",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_hands_on-review-2990.php",
+      "publish_time": "2026-08-20T00:47:12+08:00",
+      "summary": "Google Pixel 11 Pro评测：搭载Tensor G4芯片，配备6.7英寸120Hz OLED屏，5000万像素主摄，电池容量5000mAh，支持45W快充，AI功能强大，综合性能提升显著",
+      "recommendation": "Tensor G4影像算力实测、5000万像素主摄样张解析，AI算法与计算摄影结合是核心看点，适合关注手机摄影进化的用户。",
+      "categories": [
+        "拆机 & 实测 & 样张",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro hands-on review"
+    },
+    {
+      "id": "recvsLSON0E1IV",
+      "title": "我们测试了Pixel 11的Magic Capture和Camera Looks——以下是各自的表现",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/we-tested-the-pixel-11s-magic-capture-and-camera-looks-heres-how-the-photos-look/",
+      "publish_time": "2026-08-20T00:05:31+08:00",
+      "summary": "谷歌Pixel 11手机提供两种计算摄影方式：AI捕捉瞬间或拍摄前定义风格。真实测试显示，Magic Capture和Camera Looks各有优劣，核心价值在于用户可根据需求选择AI辅助或手动风格",
+      "recommendation": "实测对比Pixel 11双计算摄影模式，揭示AI捕捉与手动风格的取舍，为影像爱好者提供真实场景下的选择依据。",
+      "categories": [
+        "计算摄影 & AI 影像",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "We tested the Pixel 11’s Magic Capture and Camera Looks – here’s how each performs"
+    },
+    {
+      "id": "recvsLSY5mfAKo",
+      "title": "世界摄影日来临——这7款相机优惠最高可省900美元",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/world-photography-day-is-here-and-these-7-camera-deals-save-you-up-to-usd900",
+      "publish_time": "2026-08-20T00:03:06+08:00",
+      "summary": "世界摄影日来临，7款相机优惠最高可省900美元，折扣力度大，值得关注。",
+      "recommendation": "汇总世界摄影日相机促销，最高省900美元，含具体机型与折扣数据，适合近期有购机计划的爱好者比价参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "World Photography Day is here – and these 7 camera deals save you up to $900"
+    },
+    {
+      "id": "recvsLSEPDDQso",
+      "title": "谷歌Pixel 11 Pro评测：手机的一小步",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/19/google-pixel-11-pro-review-one-small-step-for-phones/",
+      "publish_time": "2026-08-20T00:00:17+08:00",
+      "summary": "谷歌Pixel 11 Pro评测指出，智能手机年度升级已趋于微小，不再有重大技术和硬件飞跃，本文探讨其核心价值。",
+      "recommendation": "深度剖析Pixel 11 Pro影像升级的边际效应，提供计算摄影趋势独家视角，助你理性看待年度迭代，避免盲目换机。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro Review: One Small Step for Phones"
+    },
+    {
+      "id": "recvsLT0DxxCGn",
+      "title": "世界摄影日：饥饿北极熊的恐怖照片仍是严峻警示",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/horrific-photograph-of-starving-polar-bear-still-stands-out-as-stark-warning-this-world-photography-day",
+      "publish_time": "2026-08-19T23:57:45+08:00",
+      "summary": "世界摄影日回顾九年前克里斯蒂娜·戈特施·米特迈尔和保罗·尼克伦拍摄的饥饿北极熊照片，该影像至今仍是气候变化严峻警示。",
+      "recommendation": "以经典生态影像为案例，剖析纪实摄影的社会影响力与伦理边界，适合关注影像叙事深度的爱好者。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Horrific photograph of starving polar bear still stands out as stark warning this World Photography Day"
+    },
+    {
+      "id": "recvsLTcUfZVOF",
+      "title": "尼康美国2026年8月优惠：全新Z6 III以旧换新计划",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/19/nikon-usa-rebates-for-august-2026-new-z6-iii-trade-in-program.aspx/",
+      "publish_time": "2026-08-19T23:45:53+08:00",
+      "summary": "尼康美国推出Z6 III以旧换新计划，提供200美元额外奖励，最高可享800美元优惠，有效期至2026年8月30日。",
+      "recommendation": "Z6 III以旧换新补贴细节明确，含200美元额外奖励及截止日期，适合近期升级全画幅机身的用户参考。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Nikon USA rebates for August 2026: new Z6 III trade-in program"
+    },
+    {
+      "id": "recvsLSHfoiCXW",
+      "title": "全球首款飞行口袋相机在Indiegogo上迅速众筹超23万美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/19/worlds-first-flying-pocket-camera-quickly-raised-over-230000-on-indiegogo/",
+      "publish_time": "2026-08-19T23:40:23+08:00",
+      "summary": "HoverAir发布全球首款飞行口袋相机Versa，在Indiegogo众筹超23万美元，距结束59天，展示独特新相机技术。",
+      "recommendation": "全球首款飞行口袋相机众筹数据与产品形态解析，含23万美元金额及59天周期，对关注便携影像创新者具参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "World’s First Flying Pocket Camera Quickly Raised Over $230,000 on Indiegogo"
+    },
+    {
+      "id": "recvsLSTrrZ17m",
+      "title": "iPhone 18 Pro Max 或成唯一配备可变光圈摄像头的机型",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iphone_18_pro_max_tipped_to_be_the_only_model_with_a_variableaperture_camera-news-74238.php",
+      "publish_time": "2026-08-19T23:11:02+08:00",
+      "summary": "iPhone 18 Pro Max 或独享可变光圈主摄像头，Pro 型号可能无缘此升级，该功能传闻仅限 Pro Max。",
+      "recommendation": "可变光圈在手机端仍属稀缺功能，本文揭示iPhone 18 Pro Max或独享此配置，对关注计算摄影与镜头进化的爱好者具参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "iPhone 18 Pro Max tipped to be the only model with a variable-aperture camera"
+    },
+    {
+      "id": "recvsLSJWURJgH",
+      "title": "Sandmarc为iPhone带来‘光学级’超级变焦",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/19/sandmarc-brings-optical-quality-superzoom-to-iphone/",
+      "publish_time": "2026-08-19T22:29:41+08:00",
+      "summary": "Sandmarc为iPhone推出96mm长焦镜头，提供光学级性能，替代数字变焦，提升远摄质量。",
+      "recommendation": "96mm光学长焦替代数字变焦，为iPhone远摄提供新方案。含镜头结构参数与实拍对比，对手机摄影配件选购有参考价值。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sandmarc Brings ‘Optical-Quality’ Superzoom to iPhone"
+    },
+    {
+      "id": "recvsLT38sQURs",
+      "title": "新发布的这款复古摄影摄像灯不仅照亮场景，还能投射36000种颜色并创造图案背景",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-lights/newly-launched-this-retro-photo-video-light-doesnt-just-light-the-scene-it-projects-36-000-colors-and-creates-patterned-backdrops",
+      "publish_time": "2026-08-19T22:05:13+08:00",
+      "summary": "Harlowe Max Spectra LED灯专为色彩和特效设计，可投射36000种颜色并创造图案背景，切换颜色时功率不损失。",
+      "recommendation": "LED灯36000色与图案投射功能，为影像创作提供新思路，数据详实，可拓展布光玩法。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Newly launched, this retro photo-video light doesn’t just light the scene. It projects 36,000 colors and creates patterned backdrops"
+    },
+    {
+      "id": "recvsLSMgGpYwE",
+      "title": "NASA图像证实月球陨石坑由SpaceX火箭撞击形成",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/19/nasa-images-confirm-moon-crater-made-by-spacex-rocket/",
+      "publish_time": "2026-08-19T22:03:12+08:00",
+      "summary": "NASA图像证实月球陨石坑由SpaceX火箭撞击形成，月球无大气层，现多一个撞击来源。",
+      "recommendation": "月球无大气层，撞击坑成因独特，为天文摄影提供新视角，常规资讯可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "NASA Images Confirm Moon Crater Made by SpaceX Rocket"
+    },
+    {
+      "id": "recvsLT5uX3CEv",
+      "title": "世界摄影日：NASA图像如何塑造我们对地球、宇宙和存在的理解",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/world-photography-day-how-nasa-imagery-has-shaped-our-understanding-of-the-earth-the-universe-and-existence",
+      "publish_time": "2026-08-19T22:00:43+08:00",
+      "summary": "世界摄影日回顾NASA标志性图像，这些图像深刻影响了我们对地球、宇宙及人类存在的理解，揭示了我们在宇宙中的位置。",
+      "recommendation": "从NASA影像看摄影如何重塑人类宇宙认知，提供航天影像技术解析与美学视角，对拓展影像创作思维有独特启发。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "World Photography Day: How NASA imagery has shaped our understanding of the Earth, the universe and existence"
+    },
+    {
+      "id": "recvsLT7VQBztO",
+      "title": "现在你可以在这款26年前的数码单反上玩《毁灭战士》了！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/gaming/now-you-can-play-doom-on-this-26-year-old-dslr",
+      "publish_time": "2026-08-19T21:54:32+08:00",
+      "summary": "26年前的佳能数码单反相机成功运行《毁灭战士》游戏，展示了其硬件潜力，核心价值在于突破传统设备限制。",
+      "recommendation": "26年前佳能单反运行《毁灭战士》，实测验证硬件潜力，为影像设备改装提供独特案例，拓展老器材玩法认知。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Now you can play Doom on this 26-year-old DSLR!"
+    },
+    {
+      "id": "recvsLSwV75PJt",
+      "title": "超越智能手机：索尼与台积电的新联盟将如何重新定义无反传感器？",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/beyond-the-smartphone-how-sony-and-tsmcs-new-alliance-will-redefine-mirrorless-sensors/",
+      "publish_time": "2026-08-19T21:34:00+08:00",
+      "summary": "索尼与台积电合作敲定，强化移动图像传感器业务，但技术进步或应用于更大传感器，如LYTIA技术可能用于APS-C和全画幅相机，重新定义无反传感器。",
+      "recommendation": "解析索尼与台积电合作对无反传感器技术路线的影响，提供LYTIA技术下放至大画幅的深度推测，助影像爱好者预判未来相机性能走向。",
+      "categories": [
+        "传感器硬件",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Beyond the Smartphone: How Sony and TSMC’s New Alliance Will Redefine Mirrorless Sensors?"
+    },
     {
       "id": "recvsKwrBwYFjv",
       "title": "与DPReview社区共庆世界摄影日：迷人风景作品赏析",
@@ -7464,281 +7743,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Freshly leaked Samsung Galaxy S26 FE renders show all three colors"
-    },
-    {
-      "id": "recvrAZbjaEoy5",
-      "title": "索尼小贴士…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1910/",
-      "publish_time": "2026-08-07T14:15:25+08:00",
-      "summary": "索尼小贴士介绍在神圣空间使用运动相机和镜头，提及多平台优惠、无人机、曝光补偿及RX1rIII相机等，核心价值是提供摄影技巧与产品信息。",
-      "recommendation": "涵盖运动相机曝光补偿技巧及RX1rIII等新品信息，对神圣空间拍摄场景有实操参考价值，常规资讯可了解行业动态。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvrAZn9ufeC6",
-      "title": "GTA VI 扩展实机演示将于本月晚些时候登陆 Netflix",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/gta_vi_extended_look_is_coming_later_this_month_to_netflix-news-74053.php",
-      "publish_time": "2026-08-07T13:11:02+08:00",
-      "summary": "《侠盗猎车手VI》将于11月19日发售，8月27日发布扩展预览，先在Netflix独家播出6小时，之后在其他平台提供。",
-      "recommendation": "常规资讯，可了解行业动态。GTA VI影像表现或成游戏视觉标杆，但本文未涉及具体画质技术细节，对影像爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "GTA VI extended look is coming later this month to Netflix"
-    },
-    {
-      "id": "recvrAZt4LWUaJ",
-      "title": "Caption Caddie评测：为体育摄影师打造的伦理AI",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/07/caption-caddie-review-ethical-ai-for-sports-photographers/",
-      "publish_time": "2026-08-07T12:00:00+08:00",
-      "summary": "Caption Caddie是一款为体育摄影师设计的伦理AI工具，通过自动化添加说明文字和关键词，减轻摄影师在图片上传前的繁琐工作，提高效率。",
-      "recommendation": "AI辅助体育摄影工作流，聚焦伦理设计与效率平衡，含实际场景应用案例，对关注影像行业智能化趋势的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Caption Caddie Review: Ethical AI for Sports Photographers"
-    },
-    {
-      "id": "recvrzaWUT1szO",
-      "title": "三星Galaxy Z Fold8对比三星Galaxy Z Fold8 Ultra",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_vs_samsung_galaxy_z_fold8_ultra-news-73985.php",
-      "publish_time": "2026-08-07T07:31:02+08:00",
-      "summary": "三星Galaxy Z Fold8新形态设计对比Fold8 Ultra成熟折叠设计，价格相近，需基于其他因素决策，探讨细节助你选择最适合的Fold。",
-      "recommendation": "折叠屏影像对比常规资讯，可了解行业动态。聚焦两代形态差异与价格决策，但缺乏实拍样张与镜头参数深度解析。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 vs. Samsung Galaxy Z Fold8 Ultra"
-    },
-    {
-      "id": "recvrDPiU78XlB",
-      "title": "三星Galaxy Z Fold8对比三星Galaxy Z Fold8 Ultra",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_vs_samsung_galaxy_z_fold8_ultra_battery_camera_price_compared-news-73985.php",
-      "publish_time": "2026-08-07T07:31:02+08:00",
-      "summary": "三星Galaxy Z Fold8新形态与Fold8 Ultra成熟折叠设计对比，价格相近，需基于其他因素决策，助你选择最适合的Fold。",
-      "recommendation": "对比Fold8与Ultra影像配置差异，含折叠形态对拍摄体验的影响分析，适合关注折叠屏拍照的用户决策参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Samsung Galaxy Z Fold8 vs. Samsung Galaxy Z Fold8 Ultra"
-    },
-    {
-      "id": "recvrzaPpf2INj",
-      "title": "松下做到了苹果、索尼和尼康未能做到的事：推翻Red Raw视频专利",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "publish_time": "2026-08-07T07:01:48+08:00",
-      "summary": "日本专利局裁定Red公司关键Raw视频专利无效，因松下挑战成功，认定其权利要求对技术人员显而易见，此判决或影响视频技术领域。",
-      "recommendation": "Red Raw专利被松下推翻，直接影响视频拍摄技术走向。文章提供专利裁定细节与行业影响分析，助影像爱好者理解技术壁垒变化。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Panasonic did what Apple, Sony and Nikon couldn’t: overturn a Red Raw video patent"
-    },
-    {
-      "id": "recvrzaRPkZPCG",
-      "title": "Flashback的“梦想工作”付你薪水在香港生活拍摄长达6个月",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/flashbacks-dream-job-pays-you-to-live-and-shoot-in-hong-kong-for-up-to-6-months/",
-      "publish_time": "2026-08-07T05:27:59+08:00",
-      "summary": "Flashback数码相机制造商提供“梦想工作”，付薪水在香港生活拍摄6个月，需提交一分钟视频、作品样本及作品集链接。",
-      "recommendation": "影像创作者可借此了解品牌营销新玩法，附申请门槛与作品要求细节，对规划职业路径有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Flashback’s “dream job” pays you to live and shoot in Hong Kong for up to 6 months"
-    },
-    {
-      "id": "recvrzapr1CWYi",
-      "title": "这位摄影师开发了一款应用，用于拍摄完美的日食照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/06/this-photographer-built-an-app-to-capture-perfect-solar-eclipse-photos/",
-      "publish_time": "2026-08-07T05:06:10+08:00",
-      "summary": "摄影师Steven Madow开发日食自动化应用Umbra，用于2026年8月12日日全食及未来日食拍摄，功能强大，确保完美照片。",
-      "recommendation": "日食拍摄自动化应用Umbra的独家开发细节，为天文摄影爱好者提供精准拍摄方案，兼具技术科普与实用价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Photographer Built An App to Capture Perfect Solar Eclipse Photos"
-    },
-    {
-      "id": "recvrzas1pWt2i",
-      "title": "太阳表面迄今最详细照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/06/the-most-detailed-photos-ever-of-the-suns-surface/",
-      "publish_time": "2026-08-07T03:54:30+08:00",
-      "summary": "科学家捕捉到迄今最详细太阳表面照片，以惊人分辨率揭示太阳活动过程，为研究太阳物理提供关键数据。",
-      "recommendation": "太阳表面影像虽非消费级设备所摄，但超高分辨率成像技术对理解计算摄影极限有参考价值，含独家观测数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Most Detailed Photos Ever of the Sun’s Surface"
-    },
-    {
-      "id": "recvrzaujFthYm",
-      "title": "Lightroom的蒙版功能大幅提升",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/06/lightroom-classics-masking-just-got-much-better/",
-      "publish_time": "2026-08-07T03:12:04+08:00",
-      "summary": "Adobe更新Lightroom全系，新增蒙版功能，大幅提升编辑效率与精准度。",
-      "recommendation": "Lightroom蒙版更新直接影响后期工作流，本文详解功能逻辑与实操价值，适合追求高效精准编辑的摄影爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Lightroom’s Masking Just Got Much Better"
-    },
-    {
-      "id": "recvrzbdf5lIQk",
-      "title": "任何摄影师现在都可以申请参加五区摄影节",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/06/5-boro-foto-fest-for-art-lovers-apply-now/",
-      "publish_time": "2026-08-07T03:00:00+08:00",
-      "summary": "五区摄影节开放申请，任何摄影师可参加，旨在让艺术爱好者与真实摄影师面对面，摒弃算法和生成内容。",
-      "recommendation": "五区摄影节开放申请，为影像爱好者提供与真实摄影师面对面交流的机会，强调反算法与反生成内容，是关注摄影本质与行业动态的常规资讯。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Any Photographer Can Now Apply for 5 Boro Foto Fest"
-    },
-    {
-      "id": "recvrzb4By2bFT",
-      "title": "富士胶片财务报告：相机研发支出上升，零部件成本攀升",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-financial-report-camera-rd-spending-rises-while-component-costs-climb/",
-      "publish_time": "2026-08-07T02:45:17+08:00",
-      "summary": "富士胶片最新季度财报显示业绩良好，得益于X-E5等相机，但半导体存储器和IT零部件价格上涨，未来预测负面，计划通过定价措施应对。",
-      "recommendation": "财报揭示相机业务盈利与零部件涨价矛盾，定价策略动向对购机决策有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujifilm Financial Report: Camera R&D Spending Rises While Component Costs Climb"
-    },
-    {
-      "id": "recvrzawPZykGV",
-      "title": "Glyph Atom EX80评测：快速且功能丰富",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/06/glyph-atom-ex80-review-fast-and-feature-rich/",
-      "publish_time": "2026-08-07T02:41:35+08:00",
-      "summary": "评测Glyph Atom EX80，强调性价比与性能，在内存成本高企下提供高附加值，快速且功能丰富。",
-      "recommendation": "存储设备评测，非影像核心，但高速读写对高码率视频工作流有参考价值，可了解存储成本趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Glyph Atom EX80 Review: Fast and Feature Rich"
-    },
-    {
-      "id": "recvrzaZvQpdYT",
-      "title": "谷歌Pixel Watch 5详细泄露，展示关键手表功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/detailed_google_pixel_watch_5_leak_shows_off_key_watch_features-news-74039.php",
-      "publish_time": "2026-08-07T01:51:02+08:00",
-      "summary": "谷歌Pixel Watch 5泄露，展示四种颜色和两种尺寸，功能细节待公布。",
-      "recommendation": "常规资讯，可了解行业动态。虽未涉及影像核心参数，但Pixel Watch 5的尺寸与配色泄露，对穿戴设备影像生态布局有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Detailed Google Pixel Watch 5 leak shows off key watch features"
-    },
-    {
-      "id": "recvrzazi6HIla",
-      "title": "这张在火星上拍摄的地球颗粒照片比看起来酷多了",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/06/this-grainy-photo-of-earth-captured-on-mars-is-way-cooler-than-it-looks/",
-      "publish_time": "2026-08-07T01:47:04+08:00",
-      "summary": "NASA毅力号火星车用Mastcam-Z拍到地球从火卫一背后经过，照片比看起来更酷，展示天体动态。",
-      "recommendation": "火星车实拍天体掩食，展示行星际摄影独特视角，对天文与影像爱好者有参考价值，含Mastcam-Z成像细节。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Grainy Photo of Earth Captured on Mars Is Way Cooler Than It Looks"
-    },
-    {
-      "id": "recvrzb70uv9Qy",
-      "title": "尼康面临成本上升，预计相机销量下滑。新相机发布在即？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/nikon-is-bracing-for-fewer-camera-sales-amid-rising-costs-is-a-new-camera-launch-on-the-horizon",
-      "publish_time": "2026-08-07T01:42:28+08:00",
-      "summary": "尼康因AI推高成本，预计相机销量下滑，新相机发布在即，核心价值在于揭示其财务与产品策略。",
-      "recommendation": "尼康因AI成本上调销量预期，新机发布前财务信号值得关注。文章揭示成本与产品策略关联，对研判未来定价和机型布局有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nikon is bracing for fewer camera sales amid rising costs. Is a new camera launch on the horizon?"
-    },
-    {
-      "id": "recvrzaMLPMhR5",
-      "title": "索尼RX10 V现已到货，美国及欧洲地区开始发货！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-rx10-v-now-in-stock-and-shipping-out-in-the-us-and-europe/",
-      "publish_time": "2026-08-07T01:32:39+08:00",
-      "summary": "索尼RX10 V已在美国和欧洲到货并发售，可在多家零售商购买，核心价值是新品上市。",
-      "recommendation": "RX10 V到货信息明确，含美欧发售渠道，适合关注长焦一体机的用户快速掌握购买时机。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New Sony RX10 V now in Stock and shipping out in the US and Europe!"
-    },
-    {
-      "id": "recvrzaUfMdA1D",
-      "title": "摄影师用购物袋替代笨重相机包",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/the-photographer-who-swapped-bulky-camera-bags-for-a-grocery-bag/",
-      "publish_time": "2026-08-07T01:20:54+08:00",
-      "summary": "摄影师戈登·普里查德用25美分的农产品袋替代笨重相机包，仅凭一台相机捕捉到惊艳镜头，展示了低成本摄影的创意价值。",
-      "recommendation": "以低成本摄影案例切入，展示器材之外的创作思路，对追求轻量化拍摄的爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The photographer who swapped bulky camera bags for a grocery bag"
     }
   ]
 }
