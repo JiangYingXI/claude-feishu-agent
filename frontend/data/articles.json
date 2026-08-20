@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-20T10:11:44.687297+08:00",
+    "updated_at": "2026-08-20T15:33:51.265284+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 81
+      "count": 82
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,97 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 51
+      "count": 49
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 376
+      "count": 377
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 154
     }
   ],
   "articles": [
+    {
+      "id": "recvsOU2PxlE48",
+      "title": "最新专利显示佳能RF 75-300mm f/4.5-5.6镜头采用浮动对焦设计",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/latest-patent-shows-a-canon-rf-75-300mm-f-4-5-5-6-with-a-floating-focus-design/",
+      "publish_time": "2026-08-20T14:42:35+08:00",
+      "summary": "佳能新专利公开RF 75-300mm f/4.5-5.6镜头设计，采用浮动对焦技术，适用于无反、广播及紧凑相机，核心价值在于对焦方式创新。",
+      "recommendation": "专利揭示佳能浮动对焦新设计，对焦技术细节具参考价值，适合关注镜头光学创新的用户。",
+      "categories": [
+        "镜头与光学",
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Latest Patent Shows a Canon RF 75-300mm f/4.5-5.6 With a Floating Focus Design"
+    },
+    {
+      "id": "recvsOUaCfX9xo",
+      "title": "徕卡制造16款相机——它是否暗中是最大的相机品牌？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/leica-makes-16-cameras-is-it-secretly-the-biggest-camera-brand-of-them-all",
+      "publish_time": "2026-08-20T14:15:00+08:00",
+      "summary": "徕卡已生产16款相机，从精品小众品牌转型为产品线丰富的品牌，但此转变鲜少被讨论。",
+      "recommendation": "梳理徕卡16款相机产品线，揭示其从精品小众向全品类扩张的转型路径，对理解品牌战略与市场定位有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Leica makes 16 cameras – is it secretly the biggest camera brand of them all?"
+    },
+    {
+      "id": "recvsOTZZB01cA",
+      "title": "索尼小贴士…",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1916/",
+      "publish_time": "2026-08-20T14:07:09+08:00",
+      "summary": "索尼小贴士汇总，含Astrhori 85mm f/1.8 II镜头评测、冬季鸟类摄影目的地、摄影技巧及Thypoch 24-50mm f2.8镜头评测等资讯。",
+      "recommendation": "涵盖两款镜头实测与鸟类摄影技巧，Astrhori与Thypoch的成像数据可供器材选购参考，冬季拍摄目的地建议具实操性。",
+      "categories": [
+        "镜头与光学",
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Sony Tidbits…"
+    },
+    {
+      "id": "recvsOU5sZvfwH",
+      "title": "小米18 Pro和小米18 Pro Max可能刚刚获得认证",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_may_have_just_been_certified-news-74247.php",
+      "publish_time": "2026-08-20T12:30:02+08:00",
+      "summary": "小米18 Pro和Pro Max获中国认证，支持100W有线充电和UWB，预计9月发布，或首发骁龙8 Elite Gen 6 Pro芯片，屏幕、摄像头等升级，标准版不参与。",
+      "recommendation": "认证信息透露充电与UWB升级，影像配置未详，但可预判旗舰趋势。常规资讯，可了解行业动态。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Xiaomi 18 Pro and Xiaomi 18 Pro Max may have just been certified"
+    },
+    {
+      "id": "recvsOU87kuURv",
+      "title": "这是Google Pixel智能手环还是新的Fitbit设备？",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/is_this_a_google_pixel_smartband_or_a_new_fitbit_device-news-74248.php",
+      "publish_time": "2026-08-20T11:02:02+08:00",
+      "summary": "谷歌发布Pixel 11系列及Pixel Watch 5，但未推新Fitbit，澳洲广告现未知手环，疑为新Fitbit设备。",
+      "recommendation": "谷歌新品动向牵动可穿戴影像生态，文中未知手环线索或预示影像功能新布局，对追踪移动拍摄设备趋势有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is this a Google Pixel smartband or a new Fitbit device?"
+    },
     {
       "id": "recvsNB2gJaWju",
       "title": "这位摄影师在保加利亚最臭名昭著的监狱中寻找人性",
@@ -7668,84 +7745,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "International Pet Photographer of the Year Has an Incredible Portfolio"
-    },
-    {
-      "id": "recvrCrlMsQcPJ",
-      "title": "印度iQOO Z11处理器正式确认，与其他型号不同",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_z11_india_processor_colors_confirmed-news-74057.php",
-      "publish_time": "2026-08-07T19:54:02+08:00",
-      "summary": "iQOO确认印度版Z11将搭载天玑7500 Turbo，成为印度首款该芯片手机，区别于中国版的天玑8500和马来西亚版的骁龙7s Gen 4。",
-      "recommendation": "常规资讯，可了解行业动态。芯片差异影响影像处理能力，但缺乏具体影像数据与深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Indian iQOO Z11's processor officially confirmed, and it's different from other models"
-    },
-    {
-      "id": "recvrCrAKjsaor",
-      "title": "尼康Z9以1/1400秒快门捕捉饥饿鹈鹕瞬间，荣获大奖认可",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/photo-of-hungry-pelican-snapped-in-the-act-at-1-1-400-sec-with-a-nikon-z9-gets-major-awards-recognition",
-      "publish_time": "2026-08-07T18:52:02+08:00",
-      "summary": "尼康Z9以1/1400秒快门捕捉鹈鹕捕食瞬间，艾玛·帕克获奖，展现高速摄影技术价值。",
-      "recommendation": "以获奖样张为引，解析尼康Z9高速快门与对焦协同实战价值，含1/1400秒参数及拍摄场景数据，供生态摄影参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photo of hungry pelican snapped in the act at 1/1,400 sec with a Nikon Z9 gets major awards recognition"
-    },
-    {
-      "id": "recvrCrI4u5irT",
-      "title": "Maven放大屈光度滤镜：让微距摄影变得经济实惠",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/07/maven-magnifying-diopter-filters-making-macro-photography-affordable/",
-      "publish_time": "2026-08-07T18:00:00+08:00",
-      "summary": "Maven放大近摄镜片提供经济实惠的微距摄影入门方案，可与现有优质镜头配合，降低微距摄影门槛。",
-      "recommendation": "以低成本方案解决微距摄影入门痛点，结合镜头适配性分析，为爱好者提供实用选购参考与器材搭配思路。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Maven Magnifying Diopter Filters: Making Macro Photography Affordable"
-    },
-    {
-      "id": "recvrCrornGl85",
-      "title": "OPPO启动ColorOS 17内测，设备名单及推送日期确认",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppo_kicks_off_coloros_17_closed_beta_testing_device_list_and_rollout_dates_in_tow-news-74052.php",
-      "publish_time": "2026-08-07T17:58:02+08:00",
-      "summary": "OPPO启动ColorOS 17内测，覆盖Oppo、OnePlus和Realme设备，基于Android 17，Realme和OnePlus未来将统一使用ColorOS，用户可抢先体验新系统。",
-      "recommendation": "ColorOS 17内测名单公布，影像爱好者可关注系统级相机算法与计算摄影优化，但文章未涉及具体影像功能细节，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Oppo kicks off ColorOS 17 Closed Beta Testing, device list and rollout dates confirmed"
-    },
-    {
-      "id": "recvrCrgQIwx9c",
-      "title": "索尼A7R V与24-70mm GM II进水紧急维修：它真的防水吗？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/emergency-repair-for-a-water-damaged-sony-a7r-v-and-24-70mm-gm-ii-is-it-actually-waterproof/",
-      "publish_time": "2026-08-07T17:49:56+08:00",
-      "summary": "索尼A7R V与24-70mm GM II进水后紧急维修成功，得益于密封设计、及时操作和好运，文章强调防水并非绝对，需谨慎使用。",
-      "recommendation": "实拍拆机展示索尼旗舰机身与GM镜头的密封结构，维修细节罕见，对户外拍摄防护有直接参考价值。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Emergency Repair for a Water-Damaged Sony A7R V and 24-70mm GM II: Is It Actually Waterproof?"
     }
   ]
 }
