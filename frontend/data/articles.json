@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-20T03:11:12.476662+08:00",
+    "updated_at": "2026-08-20T10:11:44.687297+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 31
+      "count": 32
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 80
+      "count": 81
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,98 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 50
+      "count": 51
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 377
+      "count": 376
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 154
+      "count": 155
     }
   ],
   "articles": [
+    {
+      "id": "recvsNB2gJaWju",
+      "title": "这位摄影师在保加利亚最臭名昭著的监狱中寻找人性",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/19/this-photographer-searched-for-humanity-in-bulgarias-most-infamous-prison/",
+      "publish_time": "2026-08-20T08:00:00+08:00",
+      "summary": "全球监狱人口达1150万，欧洲监狱拥挤，保加利亚密度每千居民86.2人，老年囚犯比例最高，引发医疗问题。",
+      "recommendation": "以监狱纪实摄影切入，展示极端环境下人性捕捉技巧，含全球监狱人口及保加利亚独家数据，对人文题材拍摄有参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "This Photographer Searched for Humanity in Bulgaria’s Most Infamous Prison"
+    },
+    {
+      "id": "recvsNAZymFKWh",
+      "title": "Viltrox是否即将为已不存在的相机/卡口组合发布镜头？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/is-viltrox-about-to-release-lenses-for-a-camera-mount-combo-that-no-longer-exists",
+      "publish_time": "2026-08-20T07:43:30+08:00",
+      "summary": "中国镜头品牌Viltrox发布节奏未放缓，可能为已停产的相机卡口组合推出新镜头，具体型号待官方确认。",
+      "recommendation": "Viltrox为停产卡口推新镜头的传闻，揭示小众品牌市场策略，对关注镜头兼容性与行业动态的玩家有参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "镜头与光学"
+      ],
+      "quality_score": 6,
+      "language": "English",
+      "original_title": "Is Viltrox about to release lenses for a camera/mount combo that no longer exists?"
+    },
+    {
+      "id": "recvsNB4SjqohK",
+      "title": "哈苏用户：我们的预设效果惊人",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/19/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-4-copy-3/",
+      "publish_time": "2026-08-20T05:00:00+08:00",
+      "summary": "哈苏用户预设效果惊人，Phoblographer用庞大图像数据库测试了Capture One和Lightroom预设，覆盖各相机和镜头品牌。",
+      "recommendation": "用庞大图像数据库实测两大软件预设，覆盖多品牌相机镜头，为哈苏用户提供可量化的调色参考，数据详实，具实操价值。",
+      "categories": [
+        "摄影美学 & 技术科普"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Hasselblad Users: Our Presets Do Wonders"
+    },
+    {
+      "id": "recvsNATTdQuIw",
+      "title": "两位摄影师花一年时间规划完美日食照片，成功取决于30秒",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/19/two-photographers-spent-a-year-planning-the-perfect-eclipse-photo-and-success-came-down-to-30-seconds/",
+      "publish_time": "2026-08-20T04:42:45+08:00",
+      "summary": "加拿大摄影师Liron Gertsman与Tobias Yoder花一年规划，在西班牙拍摄日全食，成功取决于30秒窗口，最终完成筹备多年的照片。",
+      "recommendation": "一年筹备、30秒窗口，揭秘日食摄影的规划逻辑与临场决策，对风光与天文题材爱好者有实操参考价值。",
+      "categories": [
+        "摄影美学 & 技术科普",
+        "拆机 & 实测 & 样张"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Two Photographers Spent a Year Planning the Perfect Eclipse Photo and Success Came Down to 30 Seconds"
+    },
+    {
+      "id": "recvsNAWVfrHv8",
+      "title": "富士GFX100II IR扩展光谱红外相机现已开放预购",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-gfx100ii-ir-extended-spectrum-infrared-camera-available-now/",
+      "publish_time": "2026-08-20T04:31:22+08:00",
+      "summary": "富士GFX100II IR红外相机现已在BHphoto开放预购，该相机于2025年发布，此前未向个人用户销售，现可购买。",
+      "recommendation": "GFX100II IR红外版首次向个人开放预购，填补消费级中画幅红外相机空白，对特殊摄影爱好者具实用参考价值。",
+      "categories": [
+        "产品洞察 & 行业资讯",
+        "传感器硬件"
+      ],
+      "quality_score": 7,
+      "language": "English",
+      "original_title": "Fujifilm GFX100II IR Extended Spectrum Infrared Camera Available for Pre-Order"
+    },
     {
       "id": "recvsLSVIB2EO1",
       "title": "抱歉，电影制作者们——索尼FX5再次延期，且尚无确认的发布日期",
@@ -7668,81 +7746,6 @@
       "quality_score": 8,
       "language": "English",
       "original_title": "Emergency Repair for a Water-Damaged Sony A7R V and 24-70mm GM II: Is It Actually Waterproof?"
-    },
-    {
-      "id": "recvrCrD5jw6wi",
-      "title": "“这太不寻常了——我的肾上腺素飙升”摄影师首次用无人机拍摄到罕见海洋事件",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/it-was-extraordinary-my-adrenaline-was-through-the-roof-says-photographer-who-captured-world-first-drone-footage-of-rare-marine-event",
-      "publish_time": "2026-08-07T17:10:00+08:00",
-      "summary": "摄影师首次用无人机拍到座头鲸分娩幼崽的罕见瞬间，肾上腺素飙升，此壮举为世界首次。",
-      "recommendation": "无人机航拍首次记录座头鲸分娩，展示消费级无人机在生态影像中的独特价值，提供罕见拍摄视角与实战经验。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "“It was extraordinary – my adrenaline was through the roof” says photographer who captured world-first drone footage of rare marine event"
-    },
-    {
-      "id": "recvrAZenAb95e",
-      "title": "这些照片看起来像是另一个世界。本周最佳新闻图片证明了视角、质感和叙事的力量",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/these-photos-look-like-another-world-the-top-news-photos-of-the-week-prove-the-power-of-perspective-texture-and-storytelling",
-      "publish_time": "2026-08-07T15:47:37+08:00",
-      "summary": "本周最佳新闻图片通过独特视角和质感，凸显全球性问题，展现叙事力量。",
-      "recommendation": "以新闻图片为样本，拆解视角、质感与叙事如何塑造影像冲击力，对提升摄影构图与故事表达有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These photos look like another world. The top news photos of the week prove the power of perspective, texture, and storytelling"
-    },
-    {
-      "id": "recvrAZhdBkDyg",
-      "title": "澳大利亚牧人电影感照片获大奖——视觉叙事大师课",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-cinematic-photo-of-australian-drovers-is-honored-at-a-major-awards-and-its-a-masterclass-in-visual-storytelling",
-      "publish_time": "2026-08-07T15:27:15+08:00",
-      "summary": "澳大利亚牧人电影感照片获大奖，通过罗马路上年轻牧人莱利的故事，展现视觉叙事大师课，核心价值在于场景元素完美结合完成叙事。",
-      "recommendation": "解析获奖照片的场景叙事手法，从光线、构图到人物状态拆解视觉语言，为街拍与人文摄影提供可复用的实战思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This cinematic photo of Australian drovers is honored at a major awards – and it’s a masterclass in visual storytelling"
-    },
-    {
-      "id": "recvrAZq5EohaY",
-      "title": "新加坡目前搜索最多的相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/07/singapores-most-googled-cameras-right-now/",
-      "publish_time": "2026-08-07T15:00:00+08:00",
-      "summary": "新加坡数码相机需求大，老式相机重获新生。通过谷歌趋势，过去一周哪些相机卖得好，本文介绍最受欢迎的相机型号。",
-      "recommendation": "谷歌趋势数据揭示新加坡市场真实需求，老式相机回潮现象值得关注。对想了解东南亚消费偏好的玩家有参考价值，但分析深度有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Singapore’s Most-Googled Cameras Right Now"
-    },
-    {
-      "id": "recvrAZkasY0iS",
-      "title": "三星Galaxy S26 FE渲染图泄露，展示全部三种配色",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/freshly_leaked_samsung_galaxy_s26_fe_renders_show_all_three_colors-news-74055.php",
-      "publish_time": "2026-08-07T14:41:01+08:00",
-      "summary": "三星Galaxy S26 FE通过FCC认证，泄露渲染图展示三种配色，采用与S26相同的椭圆形三摄设计。",
-      "recommendation": "FCC认证与渲染图揭示S26 FE三摄椭圆设计，影像爱好者可提前预判其镜头配置与配色选择，属常规新品资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Freshly leaked Samsung Galaxy S26 FE renders show all three colors"
     }
   ]
 }
