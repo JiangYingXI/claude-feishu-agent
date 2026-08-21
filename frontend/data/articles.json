@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-21T15:31:02.043320+08:00",
+    "updated_at": "2026-08-21T21:33:46.951177+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 31
+      "count": 29
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 78
+      "count": 76
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,320 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 49
+      "count": 47
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 381
+      "count": 389
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 150
+      "count": 142
     }
   ],
   "articles": [
+    {
+      "id": "recvsWcGKg9WLm",
+      "title": "12款降价全画幅镜头，风景摄影绝佳选择",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/12-discounted-full-frame-lenses-great-for-landscape-photography/",
+      "publish_time": "2026-08-21T21:16:21+08:00",
+      "summary": "风景摄影广受欢迎，无需顶级设备。本文推荐12款打折全画幅广角变焦镜头，适配佳能RF、索尼E、尼康Z及L卡口，是风景摄影师的绝佳选择。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "12 Discounted Full-Frame Lenses Great for Landscape Photography"
+    },
+    {
+      "id": "recvsWcX2gfU71",
+      "title": "Bokeh Face：宝丽来Go Gen 3——Instax Mini的劲敌还是有趣的替代品？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bokeh-face-polaroid-go-gen-3-instax-mini-beater-or-a-fun-alternative",
+      "publish_time": "2026-08-21T21:02:38+08:00",
+      "summary": "宝丽来Go Gen 3即时相机评测，探讨其与Instax Mini的竞争，分析自动对焦性能及镜头遮光罩设计优劣。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Bokeh Face: Polaroid Go Gen 3: Instax Mini beater or a fun alternative?"
+    },
+    {
+      "id": "recvsWcSXN9E1W",
+      "title": "LK Samyang AF 60-180mm F2.8 展示了平价镜头已取得的巨大进步",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/samples/lk-samyang-60-180mm-f2p8-lens-sample-gallery-and-impressions/",
+      "publish_time": "2026-08-21T21:00:00+08:00",
+      "summary": "平价长焦镜头LK Samyang AF 60-180mm F2.8展示巨大进步，适用于E卡口并即将支持L卡口，核心价值在于高性价比与先进技术。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The LK Samyang AF 60-180mm F2.8 shows just how far budget lenses have come"
+    },
+    {
+      "id": "recvsWcYTMJOm9",
+      "title": "谷歌Pixel 11 Pro Fold评测：时尚但停滞不前",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/android-phones/google-pixel-11-pro-fold-review",
+      "publish_time": "2026-08-21T21:00:00+08:00",
+      "summary": "谷歌Pixel 11 Pro Fold做工精美，软件功能巧妙，但升级有限、摄像头平平、性能较弱，难以与更具雄心的折叠屏竞品竞争。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro Fold review: Stylish and stagnant"
+    },
+    {
+      "id": "recvsWdhbrY4IY",
+      "title": "长焦镜头不适合街头摄影吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/21/are-telephoto-lenses-bad-for-street-photography/",
+      "publish_time": "2026-08-21T21:00:00+08:00",
+      "summary": "文章探讨长焦镜头在街头摄影中的适用性，指出主流观点倾向广角至标准焦距，强调接近拍摄对象的重要性，但实际选择应介于两者之间。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Are Telephoto Lenses Bad for Street Photography?"
+    },
+    {
+      "id": "recvsWdf3VqECO",
+      "title": "荣耀Turbo 5G悄然发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_turbo_5g_silently_unveiled-news-74280.php",
+      "publish_time": "2026-08-21T20:43:02+08:00",
+      "summary": "荣耀Turbo 5G正式发布，搭载骁龙6 Gen 4、6.79英寸120Hz AMOLED屏、8560mAh电池及IP69防护，起售价约411美元。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Turbo 5G silently unveiled"
+    },
+    {
+      "id": "recvsWcISYIHZ9",
+      "title": "亚历克斯·布兰登被任命为美联社首席白宫摄影师",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/alex-brandon-named-ap-chief-white-house-photographer/",
+      "publish_time": "2026-08-21T20:30:39+08:00",
+      "summary": "摄影师亚历克斯·布兰登接替埃文·武奇，被任命为美联社首席白宫摄影师。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Alex Brandon Named AP Chief White House Photographer"
+    },
+    {
+      "id": "recvsWd0WqalKj",
+      "title": "佳能触觉摄影展将帮助视障学生以“全新方式”体验摄影",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/canons-tactile-photo-exhibition-will-help-visually-impaired-students-experience-photography-in-a-completely-new-way",
+      "publish_time": "2026-08-21T20:30:00+08:00",
+      "summary": "佳能以凸起触感墨水打印视障学生肖像，在英国皇家盲人儿童协会多顿学院展出，助其以触觉体验摄影。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Canon's tactile photo exhibition will help visually impaired students experience photography in a “completely new way”"
+    },
+    {
+      "id": "recvsWd2Y8DNkF",
+      "title": "换相机系统更省钱！我对比了这些全画幅无反相机——现在它们更实惠了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/switch-camera-systems-for-less-ive-compared-these-full-frame-mirrorless-cameras-and-theyre-now-more-affordable",
+      "publish_time": "2026-08-21T19:20:00+08:00",
+      "summary": "全画幅无反相机价格更实惠，换系统更省钱，对比多款机型，保留核心参数，助您低成本升级。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Switch camera systems for less! I've compared these full-frame mirrorless cameras – and they're now more affordable"
+    },
+    {
+      "id": "recvsWd4SYsAhH",
+      "title": "网红被鲨鱼咬伤，对业余和专业摄影师都是教训",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/influencer-bitten-by-shark-is-a-lesson-to-both-casual-and-pro-photographers-alike",
+      "publish_time": "2026-08-21T19:05:00+08:00",
+      "summary": "网红被鲨鱼咬伤事件警示，人与动物冲突增加，对业余和专业摄影师均构成教训，需提高安全意识。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Influencer bitten by shark is a lesson to both casual and pro photographers alike"
+    },
+    {
+      "id": "recvsWcKWjKOcA",
+      "title": "摄影师捕捉到刚出生一天的小鹅跃出巢穴的瞬间",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/photographer-captures-day-old-goslings-leaping-from-their-nest/",
+      "publish_time": "2026-08-21T19:00:31+08:00",
+      "summary": "美国鱼类与野生动物管理局发布照片，展示六只刚出生一天的小鹅跃出巢穴的信任之举，捕捉了自然界的勇敢瞬间。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Captures Day-Old Goslings Leaping From Their Nest"
+    },
+    {
+      "id": "recvsWd6VSOqVN",
+      "title": "佳能增产一年后，这款PowerShot卡片机依然火爆，二手价格近乎新机两倍",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/a-year-after-canon-increased-production-this-powershot-compact-camera-is-still-so-viral-that-used-models-are-nearly-twice-the-new-cost",
+      "publish_time": "2026-08-21T18:53:11+08:00",
+      "summary": "佳能多次增产，但PowerShot G7 X Mark III仍难买，二手价近新机两倍，火爆持续。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A year after Canon increased production, this PowerShot compact camera is still so viral that used models are nearly twice the new cost"
+    },
+    {
+      "id": "recvsWd8YHxZhz",
+      "title": "生物学杂志摄影大赛获奖作品：可爱少女不陷困境",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/adorable-image-of-a-damsel-not-in-distress-wins-biology-journal-photography-competition",
+      "publish_time": "2026-08-21T18:25:46+08:00",
+      "summary": "生物科学摄影大赛公布2026年获奖者，橙尾沼泽镖蜻蜓好奇特写夺冠，展现自然之美。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Adorable image of a damsel not in distress wins biology journal photography competition"
+    },
+    {
+      "id": "recvsWcMUwQHkv",
+      "title": "暴露数据库中发现九百万张人脸照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/nine-million-photos-of-peoples-face-discovered-in-exposed-database/",
+      "publish_time": "2026-08-21T17:53:49+08:00",
+      "summary": "一个仅凭照片识别人员的网站，其九百万张人脸照片的数据库在网络上未受保护，存在严重隐私泄露风险。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nine Million Photos of People’s Faces Discovered in Exposed Database"
+    },
+    {
+      "id": "recvsWcV0YmHzQ",
+      "title": "佳能2025年以46%市场份额主导数码相机市场",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canon-dominates-with-46-digital-camera-marketshare-for-2025/",
+      "publish_time": "2026-08-21T17:32:38+08:00",
+      "summary": "佳能2025年以45.7%市场份额主导全球数码相机市场，销量450万台，较2024年增长2.5%，数据来自日经全球报告。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Canon Dominates With 46% Digital Camera Market Share for 2025"
+    },
+    {
+      "id": "recvsWdaVKLcnz",
+      "title": "荷兰大奖赛禁止F1观众携带除定焦镜头以外的任何相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/dutch-grand-prix-prohibits-anything-but-fixed-lens-cameras-for-f1-spectators",
+      "publish_time": "2026-08-21T17:24:22+08:00",
+      "summary": "荷兰大奖赛禁止F1观众携带除定焦镜头以外的相机，仅官方认证者可拍摄赛道活动。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Dutch Grand Prix prohibits anything but fixed-lens cameras for F1 spectators"
+    },
+    {
+      "id": "recvsWdjgVcxxZ",
+      "title": "四款相机，每个专业编辑套件中都应有它们的一席之地",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/21/4-cameras-that-have-earned-their-place-in-every-serious-editorial-kit/",
+      "publish_time": "2026-08-21T17:00:00+08:00",
+      "summary": "社论摄影师需高细节相机，本文推荐四款适合专业编辑套件的相机，强调其捕捉细节能力，以创作引人共鸣图像。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "4 Cameras That Have Earned Their Place in Every Serious Editorial Kit"
+    },
+    {
+      "id": "recvsWdcVvRjdw",
+      "title": "这款全画幅相机凭借新一代传感器技术媲美中画幅——如今价格更亲民",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-full-frame-camera-rivals-medium-format-with-next-gen-sensor-technology-now-its-cheaper",
+      "publish_time": "2026-08-21T16:24:26+08:00",
+      "summary": "索尼A7R IVA全画幅相机采用新一代传感器，画质媲美中画幅，价格更亲民，无需中画幅体积或高成本。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This full-frame camera rivals medium format with next-gen sensor technology – now it's cheaper"
+    },
+    {
+      "id": "recvsWcOVV0B08",
+      "title": "皇家海军摄影师对AI没有好话可说",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/royal-navy-photographers-dont-have-a-nice-word-to-say-about-ai/",
+      "publish_time": "2026-08-21T16:18:35+08:00",
+      "summary": "为纪念世界摄影日，英国皇家海军发布短片，展示海军摄影师工作，强调AI无法替代其独特价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Royal Navy Photographers Don’t Have a Nice Word to Say About AI"
+    },
+    {
+      "id": "recvsWcR3J83mK",
+      "title": "生产利好：索尼熊本工厂恢复满负荷运转",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/good-news-for-production-sonys-kumamoto-factory-back-to-full-capacity/",
+      "publish_time": "2026-08-21T16:16:45+08:00",
+      "summary": "索尼熊本图像传感器工厂地震受损后，于19日恢复满负荷运转，达到震前生产水平，此前7月28日地震停产，8月4日起逐步复产。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Good News for Production: Sony’s Kumamoto Factory Back to Full Capacity"
+    },
     {
       "id": "recvsUJWTAXSzM",
       "title": "佳能RF 28-135mm f/4 IS电动变焦镜头，采用内变焦设计",
@@ -7435,312 +7735,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Can a 200MP phone outshoot a 100MP camera?"
-    },
-    {
-      "id": "recvrO3qJeWTyI",
-      "title": "好奇拆解：Kolarivision 对索尼 A7R IV 的完整拆机",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
-      "publish_time": "2026-08-09T20:11:10+08:00",
-      "summary": "Kolarivision拆解索尼A7R IV，指出其拆解难度与其他索尼无反相机相当，文章首发于sonyalpharumors。",
-      "recommendation": "拆解A7R IV可了解其内部结构与维修难度，对动手派玩家有参考价值，但信息常规，无独家数据。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Curiosity: Full Sony A7rIV teardown by Kolarivision"
-    },
-    {
-      "id": "recvrRgHNKlTwu",
-      "title": "好奇号：Kolarivision 对索尼 A7rVI 的完整拆解",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
-      "publish_time": "2026-08-09T20:11:10+08:00",
-      "summary": "索尼A7rVI在多家商店有售，Kolarivision展示了其内部结构，拆解难度与其他索尼相机相当。",
-      "recommendation": "拆解揭示A7rVI内部结构与工艺，传感器布局和散热设计有直观呈现，适合关注相机可靠性与维护成本的影像爱好者。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Curiosity: Full Sony A7rVI teardown by Kolarivision"
-    },
-    {
-      "id": "recvrO3nG8X5r1",
-      "title": "近距离观察价值1亿美元的摄影史珍品：机器E",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/09/a-close-look-at-a-100m-piece-of-photographic-history-machine-e/",
-      "publish_time": "2026-08-09T20:01:19+08:00",
-      "summary": "瑞士马利镇保存着价值1亿美元的机器E，这台多层摄影涂布机曾推动众多世界顶级摄影产品问世，是摄影史珍贵实物。",
-      "recommendation": "探秘价值1亿美元的机器E，揭示摄影涂布技术如何成就顶级产品，为影像爱好者提供罕见的行业历史视角与实物细节。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A Close Look at a $100M Piece of Photographic History: Machine E"
-    },
-    {
-      "id": "recvrO3u9QXKea",
-      "title": "每周投票：你使用功能手机吗？为什么？",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/weekly_poll_do_you_use_a_feature_phone_why-news-74028.php",
-      "publish_time": "2026-08-09T19:03:02+08:00",
-      "summary": "功能手机正卷土重来，是对全能智能手机的抵制，但定义模糊，指故意限制功能的手机，如诺基亚AI功能手机。",
-      "recommendation": "功能手机回归趋势与影像需求形成反差，文中对诺基亚AI功能手机的定位分析，可助影像爱好者理解差异化市场。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly poll: do you use a feature phone? Why?"
-    },
-    {
-      "id": "recvrO3H3Tr7bo",
-      "title": "献给从未理解白平衡的摄影师",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/09/chart-the-look-of-film-photography-explained-in-terms-of-white-balance-copy/",
-      "publish_time": "2026-08-09T18:00:00+08:00",
-      "summary": "本文讲解白平衡原理，指出多数摄影师依赖自动模式后期修复，理解其运作可助创意调整，提升图像符合愿景的能力。",
-      "recommendation": "从原理到创意应用，解析白平衡对影像色调的深层影响，助你摆脱自动模式依赖，实现精准色彩表达。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This is For the Photographer Who Never Understood White Balance"
-    },
-    {
-      "id": "recvrO3EtWoP26",
-      "title": "全球最小可换镜头相机：小巧机械杰作",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/the-worlds-smallest-interchangeable-lens-camera-is-a-tiny-mechanical-masterpiece",
-      "publish_time": "2026-08-09T17:10:00+08:00",
-      "summary": "这款被遗忘的口袋相机是全球最小可换镜头相机，其小巧机械设计远超胶片格式限制，展现出卓越性能与核心价值。",
-      "recommendation": "揭秘被遗忘的机械杰作，详解全球最小可换镜头相机的设计突破与性能核心，为口袋机爱好者提供稀缺资料与深度技术解析。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "The world’s smallest interchangeable lens camera is a tiny mechanical masterpiece"
-    },
-    {
-      "id": "recvrO3wNXqWZf",
-      "title": "促销：Galaxy Z Flip8 首发即降价，Z Fold8 和 Z Fold8 Ultra 同步优惠",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_galaxy_z_flip8_gets_a_discount_out_of_the_gate_z_fold8_and_z_fold8_ultra_also_on_sale-news-74064.php",
-      "publish_time": "2026-08-09T16:02:02+08:00",
-      "summary": "三星Galaxy Z8折叠屏手机全球上市，Z Fold8占欧洲预购40%、韩国70%，评测见内。",
-      "recommendation": "折叠屏影像旗舰促销动态，含欧洲预购数据与市场占比，可了解折叠机影像配置趋势，常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale"
-    },
-    {
-      "id": "recvrMBqoC6SCG",
-      "title": "如何在没有Lightroom或Photoshop的情况下编辑照片",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/09/how-to-edit-your-photos-without-lightroom-or-photoshop/",
-      "publish_time": "2026-08-09T15:00:00+08:00",
-      "summary": "本文介绍无需Photoshop和Lightroom的替代照片编辑工具，提供更多选择，简化编辑流程，帮助摄影师轻松完成照片编辑。",
-      "recommendation": "针对无Adobe工具用户的实用指南，梳理多款免费替代软件，附操作流程简化建议，适合预算有限的影像爱好者拓展工作流。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "How to Edit Your Photos Without Lightroom or Photoshop"
-    },
-    {
-      "id": "recvrMBnSHAIqD",
-      "title": "徕卡SL不再是市场上最昂贵的相机。佳能、尼康和索尼都有价格与徕卡相当或更高的相机。",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/the-leica-sl-is-not-the-most-expensive-camera-on-the-market-any-more-canon-nikon-and-sony-all-have-cameras-that-cost-as-much-or-more-than-a-leica",
-      "publish_time": "2026-08-09T14:15:00+08:00",
-      "summary": "徕卡SL降价，佳能、尼康、索尼有同等或更贵机型。Andrea Pacella称百万像素竞赛结束，讨论中画幅相机、M EV1及制造商联盟重要性。",
-      "recommendation": "分析徕卡SL降价后市场格局，对比佳能尼康索尼定价，提供中画幅与联盟趋势的行业洞察，助你把握高端相机价格动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"The Leica SL is not the most expensive camera on the market any more. Canon, Nikon and Sony all have cameras that cost as much or more than a Leica\""
-    },
-    {
-      "id": "recvrMBsLN4TUb",
-      "title": "黑白摄影师信赖的4款相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/09/4-cameras-black-and-white-photographers-swear-by/",
-      "publish_time": "2026-08-09T12:00:00+08:00",
-      "summary": "黑白摄影广受喜爱，能增强氛围质感。本文介绍4款深受黑白摄影师信赖的相机，涵盖人像、街头、风景等场景，突出其单色表现力与核心技术优势。",
-      "recommendation": "从单色表现力切入，解析四款相机在人像、街头、风景场景的实战优势，含传感器与算法细节，适合黑白摄影爱好者选机参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "4 Cameras Black and White Photographers Swear By"
-    },
-    {
-      "id": "recvrLomRv1mhe",
-      "title": "野火火焰距我家前门仅一英里，但若保持安全理智，拍照机会难得",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/wildfire-flames-are-only-a-mile-from-my-front-door-but-the-photo-opportunities-are-remarkable-if-you-stay-safe-and-sensible",
-      "publish_time": "2026-08-09T08:10:00+08:00",
-      "summary": "加拿大野火拍摄22年经验，教你安全拍出震撼照片，不危及自身不扰消防，核心价值在于平衡安全与摄影。",
-      "recommendation": "22年野火拍摄经验，详解安全与摄影平衡，含独特避险策略及实拍参数，对风光及纪实爱好者有实操参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Wildfire flames are only a mile from my front door, but the photo opportunities are remarkable if you stay safe and sensible"
-    },
-    {
-      "id": "recvrLoq6M68Re",
-      "title": "Vogue摄影师尼尔·柯克：让超模动起来，捕捉她们行走、跳跃、大笑的瞬间",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/the-vogue-photographer-who-never-let-his-models-stand-still-neil-kirk-spent-decades-capturing-supermodels-mid-stride-mid-leap-and-mid-laugh",
-      "publish_time": "2026-08-09T05:20:00+08:00",
-      "summary": "新专著追溯Vogue摄影师尼尔·柯克职业生涯，强调捕捉超模真实动作而非摆拍，展现动态时尚摄影价值。",
-      "recommendation": "从Vogue摄影师视角解析动态时尚摄影技法，展示如何捕捉超模自然动作而非摆拍，对街拍与人像创作有实操启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Vogue photographer who never let his models stand still: Neil Kirk spent decades capturing supermodels mid-stride, mid-leap and mid-laugh"
-    },
-    {
-      "id": "recvrLotgQH3th",
-      "title": "谷歌Pixel 11系列与Watch 5：值得期待什么",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_series_and_watch_5_what_to_expect-news-74069.php",
-      "publish_time": "2026-08-09T05:01:02+08:00",
-      "summary": "谷歌8月12日将发布Pixel 11系列、Watch 5及首款智能追踪器，设计变化不大，新增Pixel Glow RGB LED灯功能。",
-      "recommendation": "Pixel 11系列新增RGB LED灯功能，对影像创作有实际价值，但设计变化有限，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 11 series and Watch 5: what to expect"
-    },
-    {
-      "id": "recvrJA5hWbNZW",
-      "title": "优惠：Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8现已上市",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_the_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_are_now_available-news-74059.php",
-      "publish_time": "2026-08-09T02:31:02+08:00",
-      "summary": "三星Galaxy Z8折叠屏手机及智能手表全球上市，Z Fold8占欧洲预购40%、韩国70%，评测见内。",
-      "recommendation": "折叠屏影像旗舰预购数据揭示市场偏好，Z Fold8占比数据对关注折叠形态拍摄体验的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Deals: the Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 are now available"
-    },
-    {
-      "id": "recvrJAad2e8gS",
-      "title": "徕卡发布6款相机新固件——包含重要的关机故障修复",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/leica-releases-new-firmware-for-6-cameras-including-an-important-shutdown-bug-fix",
-      "publish_time": "2026-08-09T02:15:00+08:00",
-      "summary": "徕卡发布6款相机新固件，包含修复意外关机问题的补丁，提升稳定性。",
-      "recommendation": "固件更新常被忽视，但关机故障修复直接影响拍摄可靠性。本文汇总6款机型更新细节，对徕卡用户有实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leica releases new firmware for 6 cameras – including an important shutdown bug fix"
-    },
-    {
-      "id": "recvrJA7OvGlg0",
-      "title": "思锐土星V2变形镜头即将推出，配备可旋转光学结构",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/sirui-saturn-v2-anamorphic-lenses-coming-soon-with-rotatable-optical-structure/",
-      "publish_time": "2026-08-09T02:06:21+08:00",
-      "summary": "思锐在上海P&I展展示Saturn V2变形镜头，含35mm、50mm、75mm T2.9版本，将推出X卡口，9月发布，配备可旋转光学结构。",
-      "recommendation": "思锐V2系列新增X卡口与可旋转光学结构，对变形镜头爱好者是实用升级信息，但细节有限，常规资讯可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sirui Saturn V2 Anamorphic Lenses Coming Soon with Rotatable Optical Structure"
-    },
-    {
-      "id": "recvrJAfwFcuyc",
-      "title": "日本知识产权高等法院维持RED关键压缩RAW视频专利无效判决",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/08/japanese-ip-high-court-upholds-invalidation-of-reds-key-compressed-raw-video-patent.aspx/",
-      "publish_time": "2026-08-09T01:35:08+08:00",
-      "summary": "日本知识产权高等法院维持RED压缩RAW视频专利无效判决，该专利涉及2008年申请的压缩RAW传感器数据技术，松下挑战成功。",
-      "recommendation": "了解RED压缩RAW专利无效案，可洞察RAW视频技术专利格局，对关注相机视频录制与专利战的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Japanese IP High Court upholds invalidation of RED’s key compressed RAW video patent"
-    },
-    {
-      "id": "recvrJAi9vWipA",
-      "title": "笔误还是泄露：尼康Z70相机出现在苹果ProRes和ProRes RAW授权产品列表中",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/08/typo-ot-leak-nikon-z70-camera-added-in-the-apple-prores-and-prores-raw-authorized-products.aspx/",
-      "publish_time": "2026-08-09T00:11:36+08:00",
-      "summary": "尼康Z70相机意外出现在苹果ProRes和ProRes RAW授权产品列表中，疑为笔误，因尼康产品通常需数月才能与苹果兼容，文章首发于Nikon Rumors。",
-      "recommendation": "尼康新机意外现身苹果授权列表，或提前泄露Z70存在。对关注尼康产品线及视频性能的用户有参考价值，属行业动态速递。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Typo ot leak: Nikon Z70 camera added to the Apple ProRes and ProRes RAW authorized products"
-    },
-    {
-      "id": "recvrLowJHtjV2",
-      "title": "笔误还是泄露：尼康Z70相机被列入苹果ProRes和ProRes RAW授权产品",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/08/typo-ot-leak-nikon-z70-camera-added-in-the-apple-prores-and-prores-raw-authorized-products.aspx/",
-      "publish_time": "2026-08-09T00:11:36+08:00",
-      "summary": "尼康Z70相机被列入苹果ProRes和ProRes RAW授权产品列表，疑为笔误，因尼康产品与苹果兼容需数月时间，文章首发于Nikon Rumors。",
-      "recommendation": "尼康Z70意外现身苹果ProRes授权列表，或暗示新机视频规格，对关注尼康全幅微单动向的影像爱好者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Typo or leak: Nikon Z70 camera added to the Apple ProRes and ProRes RAW authorized products"
-    },
-    {
-      "id": "recvrJAcL9MmeJ",
-      "title": "20年来，人们都以为凯特·莫斯在楼梯上喝醉了。拍摄这张照片的格雷格·布伦南说，她只是在等车从派对回家",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/books/for-20-years-everyone-assumed-kate-moss-was-drunk-on-that-staircase-greg-brennan-who-took-the-photo-says-she-was-just-waiting-for-a-car-home-from-a-party",
-      "publish_time": "2026-08-08T23:20:00+08:00",
-      "summary": "资深摄影师格雷格·布伦南新书揭示，凯特·莫斯楼梯照实为等车回家，非醉酒，强调照片背后故事的重要性。",
-      "recommendation": "摄影师亲述经典照片幕后，揭示纪实摄影中叙事与真相的张力，对街拍与肖像创作者有启发，附新书独家视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "For 20 years, everyone assumed Kate Moss was drunk on that staircase. Greg Brennan, who took the photo, says she was just waiting for a car home from a party"
     }
   ]
 }
