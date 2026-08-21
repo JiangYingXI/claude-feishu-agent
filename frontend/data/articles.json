@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-21T21:33:46.951177+08:00",
+    "updated_at": "2026-08-22T03:13:07.135029+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 29
+      "count": 27
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 76
+      "count": 74
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,235 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 10
+      "count": 8
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 47
+      "count": 46
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 389
+      "count": 396
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 142
+      "count": 136
     }
   ],
   "articles": [
+    {
+      "id": "recvsXAkmxm6SN",
+      "title": "索尼传感器工厂在地震后全面恢复运营",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/sonys-sensor-factory-is-back-to-full-operation-after-major-earthquake/",
+      "publish_time": "2026-08-22T02:10:37+08:00",
+      "summary": "日本熊本县6.8级地震后，索尼半导体工厂疏散近一个月，现已恢复全面运营。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony’s Sensor Factory Is Back to Full Operation After Major Earthquake"
+    },
+    {
+      "id": "recvsXAJQK8tBO",
+      "title": "旅行摄影师，这正是你入门所需的一切",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/21/travel-photographers-this-is-exactly-what-you-need-to-get-started/",
+      "publish_time": "2026-08-22T01:00:00+08:00",
+      "summary": "旅行摄影需充分准备，本文提供入门必备事项，涵盖技术要点与实用建议，助你高效开启旅程。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Travel Photographers, This is Exactly What You Need to Get Started"
+    },
+    {
+      "id": "recvsXAmnywhKo",
+      "title": "柯达Ektapan 100胶片：细腻、锐利且细节精美",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/kodak-ektapan-100-is-a-smooth-sharp-and-beautifully-detailed-film/",
+      "publish_time": "2026-08-22T00:42:34+08:00",
+      "summary": "柯达Ektapan 100胶片，即TMax 100，属于TMax系列，以细腻、锐利和细节精美著称，适合高精度黑白摄影。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Kodak Ektapan 100 Is a Smooth, Sharp, and Beautifully Detailed Film"
+    },
+    {
+      "id": "recvsXAsBAdfOA",
+      "title": "Peak Design 为富士 X-T5 和 X100V / X100VI 推出 Field Bracket，现已在 BHphoto 开启预订",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/peak-design-field-bracket-available-for-fujifilm-x-t5-and-x100v-x100vi/",
+      "publish_time": "2026-08-22T00:40:31+08:00",
+      "summary": "Peak Design为富士X-T5、X100V/X100VI推出Field Bracket，现已在BHphoto预订，Kickstarter众筹近70万美元。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Peak Design Field Bracket for Fujifilm X-T5 and X100V / X100VI Pre-order at BHphoto"
+    },
+    {
+      "id": "recvsXAoHUfDGc",
+      "title": "尼康日本限定版尼克尔Z木质镜头支架美轮美奂",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/nikons-japan-exclusive-nikkor-z-wooden-lens-stand-is-gorgeous/",
+      "publish_time": "2026-08-21T23:42:39+08:00",
+      "summary": "尼康日本直销推出尼克尔Z镜头木质展示架，设计精美，引发美国用户羡慕，文章抱怨日本市场商品选择更优。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon’s Japan-Exclusive Nikkor Z Wooden Lens Stand Is Gorgeous"
+    },
+    {
+      "id": "recvsXAydqno1p",
+      "title": "富士胶片病毒式传播将尼康挤出相机品牌前三——但这并非日本最新相机品牌排名中唯一的变动",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/fujifilms-viral-status-has-pushed-nikon-out-of-the-top-three-camera-makers-but-thats-not-the-only-shakeup-in-the-latest-camera-brand-ranking-from-japan",
+      "publish_time": "2026-08-21T23:35:21+08:00",
+      "summary": "富士胶片超越尼康成为日本第三大相机制造商，尼康跌至第四，这是日本相机品牌排名的最新变动。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm’s viral status has pushed Nikon out of the top three camera makers – but that’s not the only shakeup in the latest camera brand ranking from Japan"
+    },
+    {
+      "id": "recvsXAuyvmBQK",
+      "title": "NiSi NC UV滤镜II发布，49mm前螺纹适配富士X100系列相机",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/nisi-nc-uv-filter-ii-with-49mm-front-thread-for-fujifilm-x100-line-cameras-launched/",
+      "publish_time": "2026-08-21T23:16:03+08:00",
+      "summary": "NiSi发布NC UV滤镜II，适配富士X100系列，带49mm前螺纹，黑银两色可选，作为保护性UV滤镜，信息首发于Fuji Rumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "NiSi NC UV Filter II with 49mm Front Thread for Fujifilm X100 Line Cameras Launched"
+    },
+    {
+      "id": "recvsXAqAco7Wl",
+      "title": "你绝对可以在美国买到“被禁”的大疆Osmo Pocket 4相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/you-can-definitely-buy-a-banned-dji-osmo-pocket-4-camera-in-the-us/",
+      "publish_time": "2026-08-21T22:40:15+08:00",
+      "summary": "大疆Osmo Pocket 4及4P云台相机虽未在美国正式发布，但美国人仍可通过其他渠道购买到这些产品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "You Can Definitely Buy a ‘Banned’ DJI Osmo Pocket 4 Camera In the US"
+    },
+    {
+      "id": "recvsXAwAKANeO",
+      "title": "AtomOS 12.7.3 为富士 GFX Eterna 55 新增 F-Log2C 支持和 EL 分区",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/atomos-12-7-3-adds-f-log2c-support-and-el-zone-for-fujifilm-gfx-eterna-55/",
+      "publish_time": "2026-08-21T22:05:12+08:00",
+      "summary": "AtomOS 12.7.3为富士GFX Eterna 55新增F-Log2C支持和EL Zone，并支持索尼FX5 Raw处理，提供校准伽马选项。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "AtomOS 12.7.3 Adds F-Log2C Support and EL Zone for Fujifilm GFX Eterna 55"
+    },
+    {
+      "id": "recvsXAi04dbWt",
+      "title": "日经报道：索尼相机市场份额已下滑3.9%",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/nikkei-reports-sony-has-lost-39-of-the-camera-market-share/",
+      "publish_time": "2026-08-21T21:40:43+08:00",
+      "summary": "日经产业地图2027显示，2025年全球相机市场佳能居首，索尼份额下滑3.9%至24.6%，富士胶片增长2.8%至11.8%，尼康等紧随其后。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikkei reports Sony has lost 3,9% of the camera market share"
+    },
+    {
+      "id": "recvsXAzUnAh4y",
+      "title": "智能手机摧毁了相机行业。摄影终于开始复苏——但视频呢？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/the-smartphone-decimated-the-camera-industry-photography-is-finally-starting-to-recover-but-what-about-video",
+      "publish_time": "2026-08-21T21:40:00+08:00",
+      "summary": "日本报告显示相机行业复苏，视频功能消失，摄影复兴但视频前景未明。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The smartphone decimated the camera industry. Photography is finally starting to recover –but what about video?"
+    },
+    {
+      "id": "recvsXADqU2jL7",
+      "title": "谷歌Pixel 11相机测试",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/google-pixel-11-camera-test/",
+      "publish_time": "2026-08-21T21:32:09+08:00",
+      "summary": "谷歌Pixel 11相机通过DXOMARK测试，评估照片、变焦和视频性能，主摄4800万像素，提供成像性能结构化摘要。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel 11 Camera test"
+    },
+    {
+      "id": "recvsXAFpnLsQL",
+      "title": "谷歌Pixel 11 Pro XL自拍测试",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/google-pixel-11-pro-xl-selfie-test/",
+      "publish_time": "2026-08-21T21:31:49+08:00",
+      "summary": "谷歌Pixel 11 Pro XL在DXOMARK自拍测试中表现优异，照片和视频得分均高，尤其在低光环境下表现出色，核心价值在于提供专业级自拍体验。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro XL Selfie test"
+    },
+    {
+      "id": "recvsXAHCzdUy6",
+      "title": "谷歌Pixel 11 Pro XL相机测试",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/google-pixel-11-pro-xl-camera-test/",
+      "publish_time": "2026-08-21T21:31:33+08:00",
+      "summary": "谷歌Pixel 11 Pro XL相机经DXOMARK测试，评估照片、变焦和视频性能，提供实验室测量与感知分析摘要，核心价值在于客观评估成像性能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro XL Camera test"
+    },
     {
       "id": "recvsWcGKg9WLm",
       "title": "12款降价全画幅镜头，风景摄影绝佳选择",
@@ -1436,6 +1646,21 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Now you can play Doom on this 26-year-old DSLR!"
+    },
+    {
+      "id": "recvsXABFxnnwZ",
+      "title": "现在你可以在这台16年前的数码单反上玩《毁灭战士》了！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/gaming/now-you-can-play-doom-on-this-26-year-old-dslr",
+      "publish_time": "2026-08-19T21:54:32+08:00",
+      "summary": "16年前的佳能数码单反相机成功运行经典游戏《毁灭战士》，展示了其硬件潜力，核心价值在于跨界技术验证。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Now you can play Doom on this 16-year-old DSLR!"
     },
     {
       "id": "recvsLSwV75PJt",
@@ -7504,237 +7729,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "5 Street Photography Books That Will Change How You See a Sidewalk"
-    },
-    {
-      "id": "recvrSCxY8bfGa",
-      "title": "徕卡SL2s发布六年后迎来固件更新",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/10/leica-sl2s-firmware-630-update/",
-      "publish_time": "2026-08-10T12:00:00+08:00",
-      "summary": "徕卡SL2s发布六年后获固件更新，印证其相机虽贵但寿命长，其他品牌少见。",
-      "recommendation": "六年固件更新案例揭示高端相机生命周期价值，为预算有限的爱好者提供耐用性参考，行业少见的数据点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The 6-Year Old Leica SL2s Got a Firmware Update"
-    },
-    {
-      "id": "recvrRgSOjQnow",
-      "title": "尼康新闻周刊第898期",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/09/weekly-nikon-news-flash-898.aspx/",
-      "publish_time": "2026-08-10T08:52:58+08:00",
-      "summary": "尼康新闻周刊第898期报道夏季促销，使用优惠码SUMMER25OFF可享25%折扣；思锐9月发布尼康Z卡口Saturn V2全画幅变形镜头；另有Luminar更新及尼康紧凑型全画幅相机传闻。",
-      "recommendation": "涵盖尼康促销、思锐Z卡口变形镜头及全画幅相机传闻，对关注副厂镜头与新品动态的玩家有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #898"
-    },
-    {
-      "id": "recvrRgKz3Mhsz",
-      "title": "富士胶片真实版“色彩狩猎”两天售罄——但或许能启发你组织自己的摄影探索",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/street-photography/fujifilms-real-life-color-hunt-sells-out-in-2-days-but-maybe-it-can-inspire-you-to-organize-your-own-photographic-quest",
-      "publish_time": "2026-08-10T08:10:00+08:00",
-      "summary": "富士胶片举办现实色彩狩猎活动，寻找澳大利亚最常被拍摄的颜色，两天售罄，启发个人摄影探索。",
-      "recommendation": "从富士色彩狩猎活动切入，提供组织个人摄影探索的实操思路，兼具行业观察与创作启发。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm’s real-life “color hunt” sells out in 2 days – but maybe it can inspire you to organize your own photographic quest"
-    },
-    {
-      "id": "recvrRgNegk1Lb",
-      "title": "放下一切！这些冲浪狗狗是本周世界需要的心灵治愈照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/pet-photography/drop-everything-these-surfing-dogs-are-the-feel-good-photos-the-world-needs-this-week",
-      "publish_time": "2026-08-10T05:20:00+08:00",
-      "summary": "冲浪狗狗穿着戏服享受生活，带来心灵治愈，是本周世界需要的可爱照片。",
-      "recommendation": "冲浪狗狗萌态可掬，但影像价值有限。可观察运动抓拍与戏服细节，常规资讯，了解动态即可。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Drop everything! These surfing dogs are the feel-good photos the world needs this week"
-    },
-    {
-      "id": "recvrRgQ5BSP9f",
-      "title": "HDR是富士胶片的下一个前沿。困难的部分已经完成",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/hdr-is-fujifilms-next-frontier-the-hard-part-is-already-done/",
-      "publish_time": "2026-08-10T03:57:19+08:00",
-      "summary": "富士相机已具备HDR拍摄能力，通过欠曝保护高光、10位静态图像和HLG曲线，但缺少输出文件。文章指出DR400模式欠曝两档并强制ISO，核心价值在于揭示HDR实现的最后一步。",
-      "recommendation": "深度解析富士HDR技术路径，揭示DR400欠曝与HLG曲线结合的关键缺口，对计算摄影爱好者有明确技术参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "HDR Is Fujifilm’s Next Frontier. The Hard Part Is Already Done"
-    },
-    {
-      "id": "recvrPre8wtxav",
-      "title": "终极混合相机背包？Lowepro发布FastPack IV系列",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/the-ultimate-hybrid-camera-backpack-lowepro-unveils-the-fastpack-iv-lineup/",
-      "publish_time": "2026-08-10T02:24:52+08:00",
-      "summary": "Lowepro发布FastPack IV系列相机背包，含BP 150、250、450型号，全背开合设计，灵活内部结构可转换，环保材料，现可预订。",
-      "recommendation": "Lowepro FastPack IV系列全背开合与可转换内胆设计，对摄影背包选购具参考价值，环保材料信息可关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Ultimate Hybrid Camera Backpack? Lowepro Unveils the FastPack IV Lineup"
-    },
-    {
-      "id": "recvrPrgITi2rh",
-      "title": "代代相传的文化遗产。在塞尔希培的Lambe Sujo和Caboclinhos节庆中心，一个男孩透过其文化遗产的镜头望向世界，摄影师谈及这幅屡获殊荣的街头摄影作品。",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-cultural-legacy-passed-down-from-generation-to-generation-at-the-heart-of-the-lambe-sujo-and-caboclinhos-festival-in-sergipe-a-boy-looks-out-at-the-world-through-the-lens-of-his-heritage-says-photographer-about-multi-award-winning-street-shot",
-      "publish_time": "2026-08-10T02:15:00+08:00",
-      "summary": "塞尔希培节庆中心男孩透过文化遗产望向世界，黑白照片记录巴西殖民痛苦历史，摄影师谈获奖街头摄影作品。",
-      "recommendation": "以获奖街头摄影为引，解析黑白影像如何承载殖民历史与文化记忆，对人文纪实爱好者有构图与叙事启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"A cultural legacy passed down from generation to generation. At the heart of the Lambe Sujo and Caboclinhos Festival in Sergipe, a boy looks out at the world through the lens of his heritage,\" says photographer about multi-award-winning street shot"
-    },
-    {
-      "id": "recvrProIYDBDX",
-      "title": "并非笔误：苹果已将尼康Z70从授权ProRes产品列表中移除",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/09/not-a-typo-apple-removed-the-nikon-z70-listing-from-the-authorized-prores-products.aspx/",
-      "publish_time": "2026-08-10T02:06:10+08:00",
-      "summary": "苹果从ProRes授权列表中移除尼康Z70，非笔误，引发对Z70相机发布的猜测。",
-      "recommendation": "苹果移除尼康Z70的ProRes授权，或暗示新机规格变动。对关注尼康全幅微单视频性能的影友，此细节值得追踪。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Not a typo: Apple removed the Nikon Z70 listing from the authorized ProRes products"
-    },
-    {
-      "id": "recvrPrlUTaX16",
-      "title": "Redmi K100 Pro、Galaxy S27、Pixel 11规格泄露，第32周回顾",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmi_k100_pro_galaxy_s27_pixel_11_specs_leak_week_32_in_review_-news-74073.php",
-      "publish_time": "2026-08-10T01:09:02+08:00",
-      "summary": "小米将发布Redmi K100 Pro及Pro Max，配置185Hz屏、骁龙8 Elite Gen 5 V芯片、9000mAh电池及潜望长焦，一加北美库存售罄。",
-      "recommendation": "汇总Redmi K100 Pro等旗舰影像配置，含潜望长焦与芯片规格，适合关注安卓旗舰影像演进的用户快速获取行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Redmi K100 Pro, Galaxy S27, Pixel 11 specs leak, Week 32 in review"
-    },
-    {
-      "id": "recvrPrjpbwuex",
-      "title": "独家：GoPro自Hero4起就梦想可换镜头，如今无反GoPro终于成真。品牌谈及ILS原型及新相机真正面向的用户",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/exclusive-gopro-has-been-dreaming-of-swappable-lenses-since-the-hero4-and-now-a-mirrorless-gopro-is-finally-happening-the-brand-talks-ils-prototypes-and-who-the-upcoming-camera-is-really-for",
-      "publish_time": "2026-08-09T23:20:00+08:00",
-      "summary": "GoPro自Hero4起梦想可换镜头，如今无反相机Mission 1 ILS成真，但非适合所有创作者，专访揭示其原型差异及目标用户群体。",
-      "recommendation": "独家专访揭示GoPro可换镜头无反原型与量产差异，剖析目标用户定位，对关注运动相机与无反跨界融合的玩家有独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "EXCLUSIVE: GoPro has been dreaming of swappable lenses since the Hero4, and now a mirrorless GoPro is finally happening.The brand talks ILS prototypes and who the upcoming camera is really for"
-    },
-    {
-      "id": "recvrPrrdOVHeE",
-      "title": "Fred Miranda评测：福伦达Nokton Classic 35mm f/1.4尼康Z卡口镜头",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/09/voigtlander-nokton-classic-35mm-f-1-4-lens-for-nikon-z-mount-review-by-fred-miranda.aspx/",
-      "publish_time": "2026-08-09T23:04:08+08:00",
-      "summary": "福伦达Nokton Classic 35mm f/1.4尼康Z卡口镜头评测，强调渲染与拍摄体验优先于光学校正，在尼康生态中独树一帜。",
-      "recommendation": "评测聚焦渲染与拍摄体验，对比尼康Z卡口主流镜头，提供实拍样张与光学特性分析，适合追求个性成像的摄影爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Voigtlander Nokton Classic 35mm f/1.4 lens for Nikon Z-mount review by Fred Miranda"
-    },
-    {
-      "id": "recvrPrbehPQxJ",
-      "title": "宾得若重蹈覆辙，其单反梦想恐难成真",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/09/pentaxs-dslr-dreams-wont-come-true-if-it-does-the-same-old-thing/",
-      "publish_time": "2026-08-09T23:00:09+08:00",
-      "summary": "宾得面临挑战，母公司理光仍支持其单反业务，但市场对新单反需求低迷，恐难实现梦想。",
-      "recommendation": "剖析宾得单反困境与理光决策，提供市场数据与行业视角，助影像爱好者理解单反未来走向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Pentax’s DSLR Dreams Won’t Come True if It Does the Same Old Thing"
-    },
-    {
-      "id": "recvrO3kvyqCt9",
-      "title": "纪实摄影80年：揭示英伦三岛的另一面",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/09/80-years-of-documentary-photography-reveal-the-darker-side-of-britain-and-ireland/",
-      "publish_time": "2026-08-09T21:00:20+08:00",
-      "summary": "新展览探讨80多年纪实摄影如何捕捉英伦三岛生活中更黑暗、更令人不安的一面，揭示其另一面。",
-      "recommendation": "从纪实摄影史角度剖析英伦社会暗面，提供80年影像档案的独特视角，对理解摄影的社会批判功能有启发，适合拓展美学认知。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "80 Years of Documentary Photography Reveal the Darker Side of Britain and Ireland"
-    },
-    {
-      "id": "recvrO3zqPx3UN",
-      "title": "揭秘雾中摄影：摄影师雾天拍摄指南",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/demystifying-fog-a-photographers-guide-to-shooting-in-the-mist/",
-      "publish_time": "2026-08-09T21:00:00+08:00",
-      "summary": "雾天摄影指南，强调雾气能创造独特氛围，揭示如何利用雾天光线与构图，捕捉令人回味的图像。",
-      "recommendation": "雾天拍摄光线与构图技巧详解，含独家参数建议，助你捕捉独特氛围影像。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Demystifying fog: a photographer’s guide to shooting in the mist"
-    },
-    {
-      "id": "recvrO3BRrac8F",
-      "title": "200MP手机能胜过100MP相机吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/can-a-200mp-phone-outshoot-a-100mp-camera",
-      "publish_time": "2026-08-09T20:30:00+08:00",
-      "summary": "对比1亿像素哈苏X2D II与2亿像素OPPO Find X9 Ultra，探讨手机高像素能否超越相机，核心在于传感器尺寸与算法差异。",
-      "recommendation": "对比1亿像素中画幅与2亿像素手机，直击传感器尺寸与算法差异核心，提供像素之外的成像逻辑参考，适合关注高像素实用性的玩家。",
-      "categories": [
-        "传感器硬件",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Can a 200MP phone outshoot a 100MP camera?"
     }
   ]
 }
