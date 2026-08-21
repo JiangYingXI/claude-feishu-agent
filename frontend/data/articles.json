@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-21T03:18:30.223982+08:00",
+    "updated_at": "2026-08-21T10:18:04.743656+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 79
+      "count": 78
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,110 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 52
+      "count": 50
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 376
+      "count": 380
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 155
+      "count": 151
     }
   ],
   "articles": [
+    {
+      "id": "recvsTtafwQlqy",
+      "title": "每位胶片摄影师在装下一卷胶卷前应拥有的5本摄影书",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/20/5-photo-books-every-film-photographer-should-own-before-they-load-another-roll/",
+      "publish_time": "2026-08-21T09:00:00+08:00",
+      "summary": "胶片摄影虽成本高但能创作独特图像，相比数码有优势。本文推荐5本摄影书助你提升技艺。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "5 Photo Books Every Film Photographer Should Own Before They Load Another Roll"
+    },
+    {
+      "id": "recvsTt3c0yHvM",
+      "title": "SmallRig与Potato Jet合作的Tribex三脚架现在也可用作独脚架",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/20/smallrigs-tribex-tripod-collab-with-potato-jet-is-now-also-a-monopod/",
+      "publish_time": "2026-08-21T05:17:57+08:00",
+      "summary": "SmallRig发布Potato Jet Tribex Pro单脚架，采用Tribex三脚架的单手柄离合器机构，适用于摄影或摄像。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "SmallRig’s Tribex Tripod Collab with Potato Jet is Now Also a Monopod"
+    },
+    {
+      "id": "recvsTt8yp7o72",
+      "title": "尽管演示视频泄露，苹果带摄像头的AirPods仍预计于2027年发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/despite_leaked_demo_apples_cameraequipped_airpods_still_reportedly_set_for_2027_launch-news-74255.php",
+      "publish_time": "2026-08-21T05:02:02+08:00",
+      "summary": "苹果带摄像头的AirPods预计2027年发布，尽管演示视频泄露，但彭博社称计划不变，可能下月亮相。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Despite leaked demo, Apple's camera-equipped AirPods still reportedly set for 2027 launch"
+    },
+    {
+      "id": "recvsTtc7nag1C",
+      "title": "五区摄影节：以人为本，而非AI",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/20/5-boro-foto-fest-for-art-lovers-humans-over-ai/",
+      "publish_time": "2026-08-21T05:00:00+08:00",
+      "summary": "五区摄影节旨在庆祝人类摄影师，提供无AI、无算法的真实摄影空间，让艺术爱好者与摄影师面对面交流。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The 5 Boro Foto Fest Puts Humans Over AI"
+    },
+    {
+      "id": "recvsTt14CuAxK",
+      "title": "今日闪购：BH摄影器材店WD硬盘、Nanuk防护箱及Vangard三脚架特惠",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/todays-flash-deals-on-wd-disk-nanuk-cases-and-vangard-tripod-at-bh/",
+      "publish_time": "2026-08-21T04:41:18+08:00",
+      "summary": "BHphoto今日闪购WD外置硬盘5TB优惠120美元，Vanguard三脚架优惠460美元，Nanuk硬壳箱最高优惠360美元，另有索尼E卡口相机镜头及Sigma优惠。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Today’s Flash Deals on WD disk, Nanuk cases and Vangard tripod at BH"
+    },
+    {
+      "id": "recvsTt6C1nNzv",
+      "title": "这款口红大小的紧凑相机，配备旋转镜头和复古滤镜，仍可拍摄1600万像素照片和2K视频",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/this-compact-camera-is-the-size-of-a-lipstick-but-it-still-shoots-16mp-photos-and-2k-videos-with-a-rotating-lens-and-retro-filters",
+      "publish_time": "2026-08-21T03:51:32+08:00",
+      "summary": "SNYP口袋相机重量轻于高尔夫球，虽小但配备旋转镜头和复古滤镜，可拍摄1600万像素照片和2K视频。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This compact camera is the size of a lipstick, but it still shoots 16MP photos and 2K videos with a rotating lens and retro filters"
+    },
     {
       "id": "recvsRL8Rpf1Q4",
       "title": "铭匠光学99美元自动对焦85mm F1.8镜头，为索尼E和尼康Z用户提供可定制色彩的肖像镜头",
@@ -288,6 +378,21 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "This DPReview member’s minimalist black-and-white photos find beauty in candid moments"
+    },
+    {
+      "id": "recvsTt50ESks7",
+      "title": "这位DPReview会员的极简黑白照片在自然瞬间中捕捉趣味",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/this-dpreview-members-minimalist-black-and-white-photos-find-beauty-in-simplicity/",
+      "publish_time": "2026-08-20T22:12:06+08:00",
+      "summary": "DPReview会员Johan O E在新西兰拍摄极简黑白照片，捕捉自然瞬间的趣味，展现摄影艺术价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This DPReview member’s minimalist black-and-white photos find intrigue in candid moments"
     },
     {
       "id": "recvsRL1CrSHtR",
@@ -7637,114 +7742,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "What Shooting 6×6 Taught Me About Formats and Rules"
-    },
-    {
-      "id": "recvrIcf0ygiTw",
-      "title": "索尼100-400mm F5.6-8 OSS样张赏析：平价长焦在实拍中的表现",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/samples/sony-100-400mm-f5-6-8-oss-sample-gallery-what-the-budget-telephoto-delivers-in-the-real-world/",
-      "publish_time": "2026-08-08T21:00:00+08:00",
-      "summary": "索尼100-400mm F5.6-8 OSS镜头虽光圈小，但价格亲民、体积轻便，实拍样张显示其长焦性能均衡，适合预算有限用户。",
-      "recommendation": "实拍样张揭示平价长焦真实性能，光圈虽小但画质均衡，为预算有限用户提供具体参考依据。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony 100-400mm F5.6-8 OSS sample gallery: what the budget telephoto delivers in the real world"
-    },
-    {
-      "id": "recvrJA03hN9hS",
-      "title": "索尼FX5新评测（含过热测试）",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-fx5-reviews-with-overheating-test/",
-      "publish_time": "2026-08-08T20:31:55+08:00",
-      "summary": "索尼FX5评测含过热测试，预购信息及配件在多家电商有售，文章首发于sonyalpharumors，核心价值在于提供新机性能与散热表现。",
-      "recommendation": "针对FX5过热表现提供实测数据，弥补官方参数缺失，适合关注视频机散热与长期拍摄稳定性的用户参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "New Sony FX5 reviews (with overheating test)"
-    },
-    {
-      "id": "recvrIc2KhjRPh",
-      "title": "这张图片捕捉到了深刻的人性——在反思与责任之后对连接的需求。就在几小时前，这些年轻的潜艇兵还以庄重而精准的步伐行进，向先辈们致敬",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-image-captures-something-deeply-human-the-need-for-connection-after-moments-of-reflection-and-duty-just-hours-earlier-these-young-submariners-had-marched-with-solemnity-and-precision-paying-tribute-to-those-who-had-gone-before-them",
-      "publish_time": "2026-08-08T20:30:00+08:00",
-      "summary": "纪实摄影师讲述四次获奖照片背后的故事，评委揭示其从1582件作品中脱颖而出的原因，展现深刻人性与连接需求。",
-      "recommendation": "纪实摄影获奖作品解析，含评委评选标准与拍摄幕后，对理解人文题材构图与叙事有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"This image captures something deeply human – the need for connection after moments of reflection and duty. Just hours earlier, these young submariners had marched with solemnity and precision, paying tribute to those who had gone before them\""
-    },
-    {
-      "id": "recvrIc5aTbUJC",
-      "title": "我拍摄过七次日食，而互联网改变了最后三次的一切——而且不是以好的方式！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/i-have-photographed-seven-solar-eclipses-and-it-was-the-internet-that-changed-everything-for-the-last-three-and-not-in-a-good-way",
-      "publish_time": "2026-08-08T20:00:00+08:00",
-      "summary": "作者拍摄七次日食，互联网改变了最后三次的体验，导致美国大日食变成大堵车，核心是科技对天文观测的负面影响。",
-      "recommendation": "七次日食亲历揭示科技对观测体验的冲击，独特视角引发对影像记录本质的反思，适合关注天文摄影与科技关系的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I have photographed seven solar eclipses, and it was the internet that changed everything for the last three – and not in a good way!"
-    },
-    {
-      "id": "recvrIc0ggGldA",
-      "title": "南·戈尔丁与黛安·阿勃丝作品惊艳影集巡回展出",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/08/incredible-photo-collection-featuring-works-by-nan-goldin-and-diane-arbus-goes-on-tour/",
-      "publish_time": "2026-08-08T19:00:08+08:00",
-      "summary": "一场非凡摄影展汇集黛安·阿勃丝等五位摄影师100幅作品，在美国各地博物馆巡回展出。",
-      "recommendation": "百幅原作巡展，聚焦阿勃丝与戈尔丁的纪实美学，为街拍与肖像创作者提供构图、光影及情感表达的一手参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Incredible Photo Collection Featuring Works by Nan Goldin and Diane Arbus Goes on Tour"
-    },
-    {
-      "id": "recvrIccIoaVrI",
-      "title": "促销：Galaxy S26 Ultra、iPhone 17 Pro 和小米 17 Ultra 降价",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_galaxy_s26_ultra_iphone_17_pro_and_xiaomi_17_ultra_on_sale-news-74071.php",
-      "publish_time": "2026-08-08T18:51:02+08:00",
-      "summary": "三星Galaxy S26 Ultra 512GB版在亚马逊英国降价435英镑，Galaxy S26+降100英镑，同时iPhone 17 Pro、Pixel 10a和小米17系列也有优惠。",
-      "recommendation": "旗舰影像机型降价汇总，含具体降幅与存储版本信息，适合近期有购机计划的用户参考，属常规促销资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: Galaxy S26 Ultra, iPhone 17 Pro, and Xiaomi 17 Ultra on sale"
-    },
-    {
-      "id": "recvrIchnCb4hy",
-      "title": "人像摄影师访谈中的6个实用技巧",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/08/6-tips-from-portrait-photographers-weve-interviewed/",
-      "publish_time": "2026-08-08T18:00:00+08:00",
-      "summary": "人像摄影师访谈中分享6个实用技巧，核心是让被摄者感到安全，并强调这只是基础，更多建议可助提升效果。",
-      "recommendation": "从被摄者安全感切入，提供可落地的沟通与引导方法，对提升人像拍摄有直接帮助，但内容属常规经验分享。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "6 Tips From Portrait Photographers We’ve Interviewed"
     }
   ]
 }
