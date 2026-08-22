@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-22T21:15:45.687292+08:00",
+    "updated_at": "2026-08-23T03:04:49.123676+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 26
+      "count": 25
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 66
+      "count": 65
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,150 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 401
+      "count": 402
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 131
+      "count": 129
     }
   ],
   "articles": [
+    {
+      "id": "recvt3p5xTJuvC",
+      "title": "富士胶片相机Shutter+远程控制应用",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/shutter-remote-app-for-fujifilm-cameras/",
+      "publish_time": "2026-08-23T02:55:25+08:00",
+      "summary": "Shutter+是适用于iPhone/iPad的富士相机遥控应用，提供波形图、斑马纹、Apple Watch控制、间隔拍摄等功能，部分为富士XApp所不具备。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Shutter+ Remote App for Fujifilm Cameras"
+    },
+    {
+      "id": "recvt3p0oTNbeO",
+      "title": "“Mission 1 期待已久”——GoPro 称新款 Mission 1 是粉丝们自这款标志性 Hero 以来一直要求的相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/mission-1-has-been-a-long-time-coming-gopro-says-the-new-mission-1-is-the-camera-that-fans-have-been-asking-for-since-this-iconic-hero",
+      "publish_time": "2026-08-23T02:15:00+08:00",
+      "summary": "GoPro称新款Mission 1 Pro是自2018年以来粉丝们期待的相机，Pablo Lema在独家采访中透露，该产品是继Hero后的标志性升级。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "“Mission 1 has been a long time coming” –GoPro says the new Mission 1 is the camera that fans have been asking for since this iconic Hero"
+    },
+    {
+      "id": "recvt3p7i4KheS",
+      "title": "vivo T5 5G发布前预热：配备3D曲面屏",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_t5_5g_coming_soon-news-74295.php",
+      "publish_time": "2026-08-23T02:05:02+08:00",
+      "summary": "vivo T5 5G即将在印度发布，主打3D曲面屏、超薄机身和GenAI就绪NPU，采用横向设计。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo T5 5G teased with a 3D curved display ahead of launch"
+    },
+    {
+      "id": "recvt3p24eFPfN",
+      "title": "旅行社区、非法狂欢与反战抗议：摄影展揭示塑造英国亚文化的内部视角",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/the-traveling-community-illegal-raves-and-anti-war-protests-photography-exhibition-reveals-insiders-view-of-the-subcultures-that-shaped-the-uk",
+      "publish_time": "2026-08-23T01:20:00+08:00",
+      "summary": "摄影记者艾伦·洛奇自70年代起记录英国亚文化，展览揭示旅行社区、非法狂欢与反战抗议如何塑造社会格局。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The traveling community, illegal raves and anti-war protests: Photography exhibition reveals insider’s view of the subcultures that shaped the UK"
+    },
+    {
+      "id": "recvt3pb0BN2Iy",
+      "title": "当今商业摄影师最值得入手的5款相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/22/the-5-best-cameras-for-commercial-photographers-today/",
+      "publish_time": "2026-08-23T01:00:00+08:00",
+      "summary": "商业摄影师选相机需兼顾画质与操控，本文推荐五款兼具锐利成像与出色操控性的型号，助您高效完成日常拍摄。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The 5 Best Cameras for Commercial Photographers Today"
+    },
+    {
+      "id": "recvt3oYDowxt9",
+      "title": "Godox P100：新款便携式彩色照片打印机",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/godox-p100-is-a-new-portable-color-photo-printer/",
+      "publish_time": "2026-08-22T23:44:29+08:00",
+      "summary": "Godox发布新款便携式彩色照片打印机P100，已在亚马逊上架，消息源自sonyalpharumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Godox P100 is a new Portable Color Photo Printer"
+    },
+    {
+      "id": "recvt3p3Ifk6oJ",
+      "title": "我一直只买原厂镜头——但这个习惯可能即将改变",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/ive-always-exclusively-bought-first-party-lenses-but-that-might-be-about-to-change",
+      "publish_time": "2026-08-22T23:20:00+08:00",
+      "summary": "唯卓仕AF 16mm f/1.8镜头凭借出色性能，挑战了作者对原厂镜头的长期忠诚，可能改变其购镜习惯。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "I’ve always exclusively bought first-party lenses – but that might be about to change"
+    },
+    {
+      "id": "recvt3p930D5Dh",
+      "title": "Pixel 11 Pro Fold耐用性测试显示谷歌连续四次犯同样的错误",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_fold_durability_test-news-74296.php",
+      "publish_time": "2026-08-22T23:05:02+08:00",
+      "summary": "JerryRigEverything对谷歌Pixel 11 Pro Fold进行耐用性测试，发现其在弯曲测试中失败，连续第四次犯同样设计错误。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Pixel 11 Pro Fold's durability test shows Google made the same mistake four times in a row"
+    },
+    {
+      "id": "recvt3oWw1uBiH",
+      "title": "斯科斯比松德暗夜降临：捕捉高北极地区的日全食",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/22/lights-out-in-scoresby-sund-capturing-a-total-eclipse-in-the-high-arctic/",
+      "publish_time": "2026-08-22T22:00:32+08:00",
+      "summary": "摄影师韦恩在斯科斯比松德捕捉高北极日全食，称其为一生的史诗之作，展现自然奇观与摄影技术的完美结合。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lights Out in Scoresby Sund: Capturing a Total Eclipse in the High Arctic"
+    },
     {
       "id": "recvt1YTjE9Y2T",
       "title": "《寡妇湾》摄影师揭秘如何打造该剧独特视觉风格",
@@ -7581,144 +7716,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "GoPro launched the “best GoPro ever,” but the risk of bankruptcy remains, as CEO says the company is in the “later stages” of looking for a buyer"
-    },
-    {
-      "id": "recvrX5Z3i9DTC",
-      "title": "突发：GoPro首款无反相机将于9月亮相——GoPro刚刚公布了Mission 1 Pro ILS的新细节",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/breaking-gopros-first-mirrorless-camera-will-debut-in-september-and-gopro-has-just-revealed-new-details-about-the-mission-1-pro-ils",
-      "publish_time": "2026-08-11T05:23:36+08:00",
-      "summary": "GoPro首款无反相机Mission 1 Pro ILS将于2026年9月上市，由CEO Nick Woodman公布，核心价值在于拓展专业摄影市场。",
-      "recommendation": "GoPro进军无反相机市场的首款产品细节曝光，含上市时间与定位分析，对关注运动相机品牌跨界动向的玩家有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "BREAKING: GoPro’s first mirrorless camera will debut in September – and GoPro has just revealed new details about the Mission 1 Pro ILS"
-    },
-    {
-      "id": "recvs1egYhERso",
-      "title": "全球最紧凑的无反相机竟来自意想不到的品牌。9月发布，目前关于GoPro无反相机的已知信息汇总",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/breaking-gopros-first-mirrorless-camera-will-debut-in-september-and-gopro-has-just-revealed-new-details-about-the-mission-1-pro-ils",
-      "publish_time": "2026-08-11T05:23:36+08:00",
-      "summary": "GoPro将于2026年9月推出全球最紧凑的无反相机Mission 1 Pro ILS，由CEO Nick Woodman透露，主打便携与高性能。",
-      "recommendation": "GoPro跨界首款无反相机，独家披露紧凑机身与高性能定位，对关注便携影像装备的爱好者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The world’s most compact mirrorless camera is coming from an unlikely source. Launching in September, this is what we know so far about GoPro’s mirrorless camera"
-    },
-    {
-      "id": "recvrX5M2IAQ3a",
-      "title": "韦伯太空望远镜助宇宙之狮咆哮生命",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/webb-space-telescope-helps-a-cosmic-lion-roar-life/",
-      "publish_time": "2026-08-11T05:01:54+08:00",
-      "summary": "韦伯太空望远镜拍摄狮子星云NGC2392新照片，展示其超越哈勃的成像能力，核心价值在于揭示宇宙生命起源。",
-      "recommendation": "韦伯新图对比哈勃，展示深空成像技术跃升，为影像爱好者提供天文摄影与传感器性能的参考数据。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Webb Space Telescope Helps a Cosmic Lion Roar Life"
-    },
-    {
-      "id": "recvrX5OJvFVRE",
-      "title": "GoPro上季度亏损5100万美元，寻求救命稻草",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/gopro-searches-for-a-lifeline-as-it-lost-51-million-last-quarter/",
-      "publish_time": "2026-08-11T05:00:14+08:00",
-      "summary": "GoPro上季度亏损5100万美元，核心数据令人担忧，公司正寻求新的增长点以扭转局面。",
-      "recommendation": "GoPro亏损数据揭示运动相机市场困境，对关注行业趋势的影像爱好者有参考价值，但缺乏独家分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "GoPro Searches for a Lifeline as It Lost $51 Million Last Quarter"
-    },
-    {
-      "id": "recvrX5RiNRUHp",
-      "title": "Sharge Disk Pro 2 旨在解决原版的所有痛点",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/the-sharge-disk-pro-2-aims-fix-every-pain-point-of-the-original/",
-      "publish_time": "2026-08-11T03:39:53+08:00",
-      "summary": "Sharge Disk Pro 2众筹即将结束，升级包括可关闭噪音风扇的开关，解决原版痛点。",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦Sharge Disk Pro 2风扇开关升级，对影像存储场景有实用参考，但缺乏深度数据与独到观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Sharge Disk Pro 2 Aims Fix Every Pain Point of the Original"
-    },
-    {
-      "id": "recvrX5TFlk2Wo",
-      "title": "索尼和台积电斥资数十亿美元制造下一代图像传感器",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
-      "publish_time": "2026-08-11T03:38:53+08:00",
-      "summary": "索尼与台积电计划2029年在日本西南部大规模生产下一代图像传感器，投资数十亿美元，旨在提升技术竞争力。",
-      "recommendation": "索尼与台积电合作细节及2029年量产时间表，揭示传感器代工格局变化，对关注影像硬件趋势者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony and TSMC Are Spending Billions to Make Next-Gen Image Sensors"
-    },
-    {
-      "id": "recvrVmZ2JAIiv",
-      "title": "2026年8月12日日全食将横跨西班牙——分享你的照片",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/total-solar-eclipse-to-cross-spain-on-august-12-2026-share-your-photos/",
-      "publish_time": "2026-08-11T02:48:03+08:00",
-      "summary": "2026年8月12日西班牙将现日全食，诚邀公众分享拍摄照片，记录天文奇观。",
-      "recommendation": "日全食拍摄需提前规划参数与设备，本文提供西班牙观测时机及公众投稿渠道，对天文摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Total solar eclipse to cross Spain on August 12, 2026 – Share your photos"
-    },
-    {
-      "id": "recvrVnh8XiA05",
-      "title": "Godox C100 拥有复古未来外观，但它值得让人头疼吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/10/godox-c100-review-debunking-an-influencer/",
-      "publish_time": "2026-08-11T02:34:30+08:00",
-      "summary": "Godox C100以复古未来外观吸引眼球，但文章质疑其是否值得购买。尽管低像素相机市场兴起，C100是否满足需求仍存疑，需权衡其价值与麻烦。",
-      "recommendation": "剖析Godox C100复古外观与实用性的矛盾，探讨低像素相机市场定位，为影像爱好者提供选购权衡视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Godox C100 has Retro-Future Looks. Is it Worth the Frustration?"
-    },
-    {
-      "id": "recvrVmGYEZ1ku",
-      "title": "富士胶片直言不讳：相机内存危机即将来临",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/fujifilm-says-the-quiet-part-out-loud-the-memory-crisis-is-coming-for-cameras/",
-      "publish_time": "2026-08-11T02:26:30+08:00",
-      "summary": "富士胶片警告相机内存危机，内存价格上涨推高运营成本，公司计划调整策略应对。",
-      "recommendation": "富士胶片罕见预警内存涨价对相机成本的冲击，为购机决策提供前瞻参考，行业动态一手信息。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm Says the Quiet Part Out Loud: The Memory Crisis Is Coming for Cameras"
     }
   ]
 }
