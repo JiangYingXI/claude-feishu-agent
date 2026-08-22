@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-22T10:06:13.886261+08:00",
+    "updated_at": "2026-08-22T15:14:33.859893+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 73
+      "count": 72
     },
     {
       "key": "ISP & 影像芯片",
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvt0wmKs4err",
+      "title": "人人都抱怨Lumix L10作为紧凑型相机太大——但尺寸完美的Lumix紧凑型相机早已存在",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/everyone-bitched-that-the-lumix-l10-is-too-big-for-a-compact-camera-but-the-perfect-sized-lumix-compact-already-exists",
+      "publish_time": "2026-08-22T14:15:00+08:00",
+      "summary": "松下推出尺寸完美的紧凑型相机，满足用户对更小Lumix L10的期待，保留核心技术参数。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Everyone bitched that the Lumix L10 is too big for a compact camera –but the perfect-sized Lumix compact already exists"
+    },
+    {
+      "id": "recvt0wkPDAsLC",
+      "title": "vivo V70 Lite 4G发布：配备8100mAh电池和IP69防护等级",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_v70_lite_4g_arrives_with_8100mah_battery_and_ip69_rating-news-74288.php",
+      "publish_time": "2026-08-22T12:02:02+08:00",
+      "summary": "vivo V70 Lite 4G发布，搭载紫光展锐T7300芯片，8GB内存，128/256GB存储，8100mAh电池，44W快充，6.83英寸120Hz AMOLED屏，IP69防护。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo V70 Lite 4G arrives with 8,100mAh battery and IP69 rating"
+    },
     {
       "id": "recvsZgHWiTn03",
       "title": "20岁小伙手工打造全景相机，耗时三年",
@@ -7695,37 +7725,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Fleeting Moments and Unusual Perspectives: Pure Street Photography Awards 2026 Winners"
-    },
-    {
-      "id": "recvrU0Ch9yYgO",
-      "title": "前后对比照片显示SpaceX火箭在月球上留下的撞击坑",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/before-and-after-photos-show-crater-left-after-spacex-rocket-crashed-into-the-moon/",
-      "publish_time": "2026-08-10T21:10:08+08:00",
-      "summary": "失控的SpaceX火箭撞击月球留下陨石坑，前后对比照片公布，展示撞击影响。",
-      "recommendation": "天基影像对比揭示撞击坑形态变化，展示轨道遥感在事件监测中的应用，对关注太空摄影与遥感技术的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Before-and-After Photos Show the Crater Left by SpaceX Rocket on the Moon"
-    },
-    {
-      "id": "recvrU0Og8zGTo",
-      "title": "富士龙XF400mm f/4.5 R LM OIS WR：迄今最精准的视野",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujinon-xf400mm-f-4-5-r-lm-ois-wr-your-most-accurate-look-yet/",
-      "publish_time": "2026-08-10T21:08:15+08:00",
-      "summary": "富士龙XF400mm f/4.5 R LM OIS WR镜头，由富士胶卷读者Hiergeist创作渲染图，展示完整镜头列表及未来概念尺寸，提供精准视野。",
-      "recommendation": "渲染图展示富士超长焦概念尺寸，为生态与体育摄影提供镜头选型参考，属常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Fujinon XF400mm f/4.5 R LM OIS WR: Your Most Accurate Look Yet"
     }
   ]
 }
