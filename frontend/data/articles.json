@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-22T03:13:07.135029+08:00",
+    "updated_at": "2026-08-22T10:06:13.886261+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 74
+      "count": 73
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,140 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 46
+      "count": 45
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 396
+      "count": 397
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 136
+      "count": 134
     }
   ],
   "articles": [
+    {
+      "id": "recvsZgHWiTn03",
+      "title": "20岁小伙手工打造全景相机，耗时三年",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/21/how-a-20-year-old-has-spent-3-years-building-panoramic-cameras-by-hand/",
+      "publish_time": "2026-08-22T09:00:00+08:00",
+      "summary": "20岁小伙耗时三年手工打造全景相机，延续早期摆动镜头技术，实现宽广视野，展现摄影创新精神。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How a 20-Year-Old Has Spent 3 Years Building Panoramic Cameras by Hand"
+    },
+    {
+      "id": "recvsZguRmp3uF",
+      "title": "看起来HoverAir的飞行云台相机在美国已被禁售",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/it-looks-like-hover-airs-flying-gimbal-camera-already-got-banned-in-the-u-s/",
+      "publish_time": "2026-08-22T07:57:55+08:00",
+      "summary": "HoverAir Versa飞行云台相机因宣传为全球首款飞行口袋相机，或涉无人机禁令，已在美国下架。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "It Looks Like HoverAir’s Flying Gimbal Camera Already Got Banned in the U.S."
+    },
+    {
+      "id": "recvsZgDyMOllq",
+      "title": "荣耀机器人手机云台相机损坏，维修费用一览",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/heres_how_much_youll_pay_if_you_break_the_honor_robot_phones_gimbal_camera-news-74289.php",
+      "publish_time": "2026-08-22T05:59:02+08:00",
+      "summary": "荣耀机器人手机云台相机损坏，更换费用高达3079元人民币，约457美元，维修价格已公布。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's how much you'll pay if you break the Honor Robot Phone's gimbal camera"
+    },
+    {
+      "id": "recvsZgJZszucI",
+      "title": "会员享受7工匠折扣",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/21/modern-journalism-phoblographer-copy-3-copy-4-copy-4-copy-3/",
+      "publish_time": "2026-08-22T05:00:00+08:00",
+      "summary": "Phoblographer为会员提供7工匠折扣，强调其独立于大型品牌，通过会员福利计划获得资金支持。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Members Get a 7artisans Discount"
+    },
+    {
+      "id": "recvsZgx9ZrHuA",
+      "title": "Aphera：为‘追逐感觉而非公式’的摄影师打造的RAW编辑器",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/aphera-is-a-raw-editor-for-photographers-who-chase-feeling-over-formula/",
+      "publish_time": "2026-08-22T04:42:07+08:00",
+      "summary": "Aphera是macOS原生RAW编辑器，主打速度与手工编辑，简化复杂性，为追求感觉而非公式的摄影师设计。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Aphera Is a RAW Editor for Photographers Who ‘Chase Feeling Over Formula’"
+    },
+    {
+      "id": "recvsZgFLxkrch",
+      "title": "三星Galaxy S26 FE开箱视频泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_leaks_in_unboxing_video-news-74285.php",
+      "publish_time": "2026-08-22T04:31:02+08:00",
+      "summary": "三星Galaxy S26 FE开箱视频泄露，显示包装仅含手机、文档、SIM卡工具和USB-C线，无保护壳和充电器。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy S26 FE leaks in unboxing video"
+    },
+    {
+      "id": "recvsZgBmUNN6z",
+      "title": "这款口袋相机可变焦至2000mm，自动追踪野生动物",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/this-pocket-sized-camera-zooms-to-2000mm-and-tracks-wildlife-on-its-own/",
+      "publish_time": "2026-08-22T03:31:45+08:00",
+      "summary": "RocXZoom口袋相机结合50倍混合变焦与AI跟踪，可识别300多种鸟类，变焦至2000mm，便携机身实现长焦拍摄。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This pocket-sized camera zooms to 2000mm and tracks wildlife on its own"
+    },
+    {
+      "id": "recvsZgzcuKmO1",
+      "title": "又一场摄影比赛，自食其果陷入争议",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/21/another-photo-contest-falls-victim-to-a-controversy-of-its-own-making/",
+      "publish_time": "2026-08-22T02:15:09+08:00",
+      "summary": "国际暗夜协会2026年摄影比赛展示美丽夜空照片，但获奖者揭晓后引发争议。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Another Photo Contest Falls Victim to a Controversy of its Own Making"
+    },
     {
       "id": "recvsXAkmxm6SN",
       "title": "索尼传感器工厂在地震后全面恢复运营",
@@ -7606,129 +7726,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Fujinon XF400mm f/4.5 R LM OIS WR: Your Most Accurate Look Yet"
-    },
-    {
-      "id": "recvrU0Qvf9uXe",
-      "title": "尼康600mm f6.3镜头受鸟类摄影爱好者青睐，现已停产",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/10/the-nikon-600mm-f6-3-popular-with-birders-gets-suspended/",
-      "publish_time": "2026-08-10T21:00:00+08:00",
-      "summary": "尼康600mm f6.3镜头因受鸟类摄影爱好者青睐而停产，自8月起暂停订单，原因待探。",
-      "recommendation": "长焦镜头停产动向牵动鸟摄用户，解析供需变化与行业信号，助你把握器材行情。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Nikon 600mm f6.3, Popular With Birders, Gets Suspended"
-    },
-    {
-      "id": "recvrU0EwCUdvp",
-      "title": "Meta因新墨西哥州儿童安全案被判赔5.67亿美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/meta-ordered-to-pay-567-million-in-new-mexico-child-safety-case/",
-      "publish_time": "2026-08-10T20:15:53+08:00",
-      "summary": "新墨西哥州法院判Meta支付5.67亿美元，因其平台伤害年轻人，系针对Instagram和Facebook母公司儿童安全的最大罚款。",
-      "recommendation": "常规资讯，可了解行业动态。Meta巨额罚款或影响其影像社交平台算法与青少年内容策略，间接关联手机影像分享生态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meta Ordered to Pay $567 Million in New Mexico Child Safety Case"
-    },
-    {
-      "id": "recvrU0GKabdxq",
-      "title": "英国场馆集体禁用Meta智能眼镜",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/10/uk-venues-ban-meta-smart-glasses-en-masse/",
-      "publish_time": "2026-08-10T18:19:27+08:00",
-      "summary": "英国多家场馆因担心Meta智能眼镜被用于秘密录制，集体宣布禁用该设备。",
-      "recommendation": "智能眼镜录制引发隐私争议，影像爱好者需关注设备使用边界与场馆新规，了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "UK Venues Ban Meta Smart Glasses En Masse"
-    },
-    {
-      "id": "recvrU0SWMoluo",
-      "title": "摄影专业服务真的浪费钱吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/10/are-photography-pro-services-really-a-waste-of-money/",
-      "publish_time": "2026-08-10T18:00:00+08:00",
-      "summary": "文章探讨摄影专业服务是否值得，作者从追求到质疑，认为保修无用，但专业服务提供维修便利，核心价值在于服务而非设备。",
-      "recommendation": "从追求到质疑，剖析摄影专业服务真实价值，指出核心在于服务而非设备，为影像爱好者提供实用消费决策参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Are Photography Pro Services Really a Waste of Money?"
-    },
-    {
-      "id": "recvrU0JglyZmw",
-      "title": "Dustin Abbott、Dpreview、PcMag 对索尼 A7rVI 的新评测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-sony-a7rvi-reviews-from-dustin-abbott-dpreview-pcmag/",
-      "publish_time": "2026-08-10T17:59:10+08:00",
-      "summary": "索尼A7rVI评测：高分辨率全画幅，动态范围出色，视频功能改进，速度更快，分辨率更高。",
-      "recommendation": "三家权威媒体联合评测，聚焦A7rVI高像素与动态范围实测数据，视频性能改进有具体对比，对高分辨率机型选购有参考价值。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "New Sony A7rVI reviews from Dustin Abbott, Dpreview, PcMag"
-    },
-    {
-      "id": "recvrU0LJ9wX6w",
-      "title": "性价比最高的无反相机又降价了，其中一款还附赠镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/the-best-value-mirrorless-cameras-just-got-even-cheaper-and-one-comes-with-a-free-lens",
-      "publish_time": "2026-08-10T17:56:59+08:00",
-      "summary": "无反相机降价，性价比高，入门仅需649英镑含镜头，适合摄影新手或换系统者。",
-      "recommendation": "常规资讯，可了解行业动态。含具体降价幅度与入门机型价格，对预算有限的摄影新手有参考价值，但缺乏独家数据与深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The best-value mirrorless cameras just got even cheaper and one comes with a free lens"
-    },
-    {
-      "id": "recvrSCsoUYuXR",
-      "title": "iQOO Neo11 Ultra与Z11s下周发布，设计揭晓",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_neo11_ultra_and_z11s_to_launch_next_week_design_revealed-news-74085.php",
-      "publish_time": "2026-08-10T15:00:02+08:00",
-      "summary": "iQOO确认Neo11 Ultra和Z11s将于8月18日在中国发布，前者配2K屏和9100mAh电池，后者为品牌首款10000mAh电池手机。",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦iQOO新机电池与屏幕参数，未涉及影像配置细节，对影像爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "iQOO Neo11 Ultra and Z11s to launch next week, design revealed"
-    },
-    {
-      "id": "recvrSCvcvYFJv",
-      "title": "5本街头摄影书籍，将改变你对人行道的看法",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/10/5-street-photography-books-that-will-change-how-you-see-a-sidewalk/",
-      "publish_time": "2026-08-10T15:00:00+08:00",
-      "summary": "街头摄影需把握时机、预见与耐心，本文推荐五本摄影集助你提升技巧，改变对街道的看法。",
-      "recommendation": "五本摄影集拆解街头抓拍时机与构图逻辑，含具体场景分析，助你提升观察力与预见性，适合街拍进阶者参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "5 Street Photography Books That Will Change How You See a Sidewalk"
     }
   ]
 }
