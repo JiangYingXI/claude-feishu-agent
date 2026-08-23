@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-23T15:16:04.471897+08:00",
+    "updated_at": "2026-08-23T21:17:39.421420+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 24
+      "count": 23
     },
     {
       "key": "镜头与光学",
@@ -33,15 +33,180 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 404
+      "count": 406
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 128
+      "count": 125
     }
   ],
   "articles": [
+    {
+      "id": "recvt7Q7pkwEPl",
+      "title": "华为Pura X View预览，更多iPhone 18 Pro泄露，第34周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_pura_x_view_previewed_more_iphone_18_pro_leaks_week_34_in_review-news-74283.php",
+      "publish_time": "2026-08-23T21:02:02+08:00",
+      "summary": "华为Pura X View预览，配备6.39英寸OLED屏，16:9.5宽高比，7000mAh电池，四种颜色可选，主打沉浸式体验。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review"
+    },
+    {
+      "id": "recvt7Q1TVK4w6",
+      "title": "展览揭示美国百年驱逐运动历史照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/23/exhibition-uncovers-historical-photos-from-a-century-of-us-deportation-campaigns/",
+      "publish_time": "2026-08-23T21:00:19+08:00",
+      "summary": "新展览展示美国百年驱逐行动照片，针对墨西哥移民及公民，记录历史。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Exhibition Uncovers Historical Photos From a Century of US Deportation Campaigns"
+    },
+    {
+      "id": "recvt7QgGWlqqL",
+      "title": "凡士林滤镜值得一试吗？柔焦效果实测",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/23/is-this-diy-hack-for-soft-focus-worth-your-time/",
+      "publish_time": "2026-08-23T21:00:00+08:00",
+      "summary": "本文介绍凡士林滤镜DIY技巧，通过涂抹凡士林于镜头实现柔焦效果，成本低且能拍出完美照片，值得一试。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Is a Vaseline Filter Worth Trying for Soft Focus?"
+    },
+    {
+      "id": "recvt7QaYOyXAh",
+      "title": "如何拍摄8月27-28日96%的‘血月’月食",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/how-to-photograph-the-96-percent-blood-moon-lunar-eclipse-on-august-27-28",
+      "publish_time": "2026-08-23T20:30:00+08:00",
+      "summary": "北美、英国和欧洲天文摄影师将在日全食两周后迎来8月27-28日96%血月月食，本文提供拍摄指南，强调保留核心参数与数据，一句话概括拍摄价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How to photograph this week's 96% 'blood moon' lunar eclipse on August 27-28"
+    },
+    {
+      "id": "recvt7PZOwY2Js",
+      "title": "康泰时 Mirotar 1000mm f/5.6 德国版在索尼 A7rV 上的测试",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/contax-mirotar-1000mm-f-5-6-germany-tested-on-the-sony-a7rv/",
+      "publish_time": "2026-08-23T20:12:12+08:00",
+      "summary": "Mapcamera在索尼A7rV上测试了罕见的康泰时Mirotar 1000mm f/5.6镜头，重16.5公斤，f/5.6光圈对1000mm镜头异常快速，文章首次发布于sonyalpharumors",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Contax Mirotar 1000mm f/5.6 Germany tested on the Sony A7rV"
+    },
+    {
+      "id": "recvt7Q3KNSXsk",
+      "title": "FCC给了Insta360一个推翻大疆霸主地位的大好机会",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/23/the-fcc-has-given-insta360-a-big-chance-to-dethrone-the-dominant-dji/",
+      "publish_time": "2026-08-23T20:00:54+08:00",
+      "summary": "日本BCN排名显示大疆上月占据最畅销摄像机前十，但美国市场受法律问题和竞争对手威胁，FCC给Insta360提供挑战机会。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The FCC Has Given Insta360 a Big Chance to Dethrone the Dominant DJI"
+    },
+    {
+      "id": "recvt7Qd0F7U2e",
+      "title": "3 Legged Thing Wes 三脚架套件评测：为旅途而生，这款面向混合拍摄者的高端碳纤维旅行三脚架，配备内置调平底座和下一代液压云台",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/tripods/3-legged-thing-wes-tripod-kit-review",
+      "publish_time": "2026-08-23T19:00:00+08:00",
+      "summary": "3 Legged Thing Wes碳纤维旅行三脚架套装，轻便小巧，内置调平底座和液压云台，为混合拍摄提供稳固支撑。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "3 Legged Thing Wes tripod kit review: one for the road, this high-end carbon fiber travel tripod for hybrid shooters comes complete with built-in leveling base and next-gen fluid head"
+    },
+    {
+      "id": "recvt7Q5A8ixXc",
+      "title": "2026年低光拍摄最佳运动相机是哪款？",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/what-is-the-best-action-camera-for-low-light-shooting-in-2026/",
+      "publish_time": "2026-08-23T17:23:08+08:00",
+      "summary": "文章探讨2026年低光拍摄最佳运动相机，指出运动相机在弱光下传感器局限明显，需关注低光性能，核心价值在于为夜间或室内探险选择合适设备。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What Is the Best Action Camera for Low-Light Shooting in 2026?"
+    },
+    {
+      "id": "recvt7QeM4TBvm",
+      "title": "瑞士制表师意外打造出全球最古怪的相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/the-swiss-watchmakers-who-accidentally-built-the-worlds-most-eccentric-camera",
+      "publish_time": "2026-08-23T17:10:00+08:00",
+      "summary": "瑞士制表师意外打造出全球最古怪的相机，这款经典阿尔帕相机拥有两种完全不同的对焦方式，融合制表工艺与摄影技术，成为独特创新之作。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Swiss watchmakers who accidentally built the world’s most eccentric camera"
+    },
+    {
+      "id": "recvt7Q9hYi1mR",
+      "title": "优惠：Pixel 11系列开售，Galaxy Z Fold8 Ultra降价，Oppo Reno16系列促销",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_pixel_11_series_available_galaxy_z_fold8_ultra_price_drop_oppo_reno16_series_on_sale-news-74287.php",
+      "publish_time": "2026-08-23T17:01:02+08:00",
+      "summary": "三星Galaxy Z Fold8 Ultra基础版降至1810欧元，比Fold8更便宜，降价410欧元，亚马逊德国站有售。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: Pixel 11 series available, Galaxy Z Fold8 Ultra price drop, Oppo Reno16 series on sale"
+    },
+    {
+      "id": "recvt7QizOQVI4",
+      "title": "手动对焦镜头如何让每个人成为更好的摄影师",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/23/why-you-should-use-more-manual-focus-lenses-in-2021-copy/",
+      "publish_time": "2026-08-23T17:00:00+08:00",
+      "summary": "手动对焦镜头能提升摄影技能，因自动对焦让人忘记对焦技巧，而手动对焦促使批判性思考场景，从而成为更好的摄影师。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How Manual Focus Lenses Make Everyone Better Photographers"
+    },
     {
       "id": "recvt6neUncoxb",
       "title": "“仍是最佳选择之一”，这款2023年紧凑型无反相机在日本新机和二手销量榜上均占据主导地位",
@@ -7543,173 +7708,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "VSCO is Turning American Highways into a Nationwide Photography Exhibit"
-    },
-    {
-      "id": "recvrZQG4IPYSq",
-      "title": "著名冲浪摄影师Hank Foto去世，享年62岁",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/renowned-surf-photographer-hank-foto-dies-at-62/",
-      "publish_time": "2026-08-11T20:28:51+08:00",
-      "summary": "传奇冲浪摄影师汉克·福托去世，享年62岁，曾为《冲浪杂志》工作，是知名镜头大师。",
-      "recommendation": "冲浪摄影领域标志性人物离世，回顾其镜头语言与行业影响，对关注户外影像与纪实摄影的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Renowned Surf Photographer Hank Foto Dies at 62"
-    },
-    {
-      "id": "recvrZRhlQHS0W",
-      "title": "iQOO 16T 爆料：搭载 2 亿像素摄像头，配备液冷散热系统",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_16t_200mp_camera_dual_cooling_system_tipped-news-74110.php",
-      "publish_time": "2026-08-11T20:03:02+08:00",
-      "summary": "iQOO 16T爆料：配备2亿像素主摄，无潜望长焦，采用液冷与风冷结合散热系统，此前传闻将搭载高通或联发科芯片。",
-      "recommendation": "2亿像素主摄与散热系统细节值得关注，但无潜望长焦配置需权衡，常规资讯可了解行业动态。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "iQOO 16T tipped to sport a 200MP camera, feature liquid-air cooling system"
-    },
-    {
-      "id": "recvrZQX8vzOlA",
-      "title": "地出：地球日背后的标志性图像是“有史以来最具影响力的环境照片”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/earthrise-the-iconic-image-behind-earth-day-is-the-most-influential-environmental-photograph-ever-taken",
-      "publish_time": "2026-08-11T19:41:56+08:00",
-      "summary": "威廉·安德斯的‘地出’照片成为地球日标志，推动环保运动，被誉为最具影响力的环境照片。",
-      "recommendation": "从影像史角度解析地出照片的构图与传播价值，揭示摄影如何影响环保运动，对理解纪实摄影社会影响力有参考意义。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Earthrise: The iconic image behind Earth Day is \"the most influential environmental photograph ever taken\""
-    },
-    {
-      "id": "recvrZQZA8xTVn",
-      "title": "徕卡M240远超时代——我至今仍每天使用",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/rangefinder-cameras/the-leica-m240-was-way-ahead-of-its-time-and-i-still-use-mine-every-day",
-      "publish_time": "2026-08-11T19:17:51+08:00",
-      "summary": "徕卡M240作为2012年发布的相机，至今仍被作者每日使用，其前瞻性设计和技术参数远超时代，成为徕卡最具前瞻性的相机之一。",
-      "recommendation": "从2012年M240的日常使用切入，剖析其前瞻性设计逻辑，为器材选择提供跨时代视角，适合关注相机生命周期与实用价值的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Leica M240 was way ahead of its time – and I still use mine every day"
-    },
-    {
-      "id": "recvrZRk1cTSBD",
-      "title": "在此观看谷歌Pixel 11系列发布会直播",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/watch_the_google_pixel_11_series_announcement_live_here-news-74097.php",
-      "publish_time": "2026-08-11T19:01:02+08:00",
-      "summary": "谷歌定于8月12日举办Made by Google活动，发布Pixel 11系列和Pixel Watch 5，可在YouTube观看直播。",
-      "recommendation": "常规资讯，可了解行业动态。关注Pixel 11影像升级的用户可借此获取发布时间与直播渠道，但缺乏具体参数或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Watch the Google Pixel 11 series announcement live here"
-    },
-    {
-      "id": "recvrZQIWIW3Qi",
-      "title": "天文学家可能被巨型反射卫星永久致盲",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/astronomers-could-be-permanently-blinded-by-giant-reflecting-satellites/",
-      "publish_time": "2026-08-11T18:56:22+08:00",
-      "summary": "巨型反射卫星可能永久致盲业余天文学家，专家警告需警惕其反射光危害。",
-      "recommendation": "反射卫星威胁天文观测，涉及长曝光摄影与光污染议题，对星空影像爱好者具警示价值，含专家观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Astronomers Could Be Permanently Blinded by Giant Reflecting Satellites"
-    },
-    {
-      "id": "recvrZQLW2GZ5O",
-      "title": "警方搜寻从海滩拍摄的电视摄制组偷走相机设备的嫌疑人",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/police-search-for-suspect-who-stole-camera-gear-from-tv-crew-filming-on-beach/",
-      "publish_time": "2026-08-11T18:51:44+08:00",
-      "summary": "警方搜寻嫌疑人，电视摄制组在英国海滩拍摄时摄影器材被盗。",
-      "recommendation": "常规资讯，可了解行业动态。报道摄制组器材失窃事件，提醒户外拍摄时注意设备安全与防盗措施。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Police Search for Suspect Who Stole Camera Gear From TV Crew Filming on Beach"
-    },
-    {
-      "id": "recvrZR2ckAhUt",
-      "title": "松下在Red争议性压缩RAW专利案中取得重大胜利",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/panasonic-scores-a-major-win-against-reds-controversial-compressed-raw-patent",
-      "publish_time": "2026-08-11T18:10:00+08:00",
-      "summary": "松下在RAW视频专利案中击败尼康旗下Red公司，取得重大胜利，改变行业格局。",
-      "recommendation": "RAW专利战改写影像行业规则，解析松下胜诉对RED压缩格式及未来相机视频功能的影响，助你预判产品趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Panasonic scores a major win against Red’s controversial compressed RAW patent"
-    },
-    {
-      "id": "recvrZRmBwL38J",
-      "title": "谷歌新视频预告Pixel 11 Pro",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_teases_the_pixel_11_pro_in_new_video-news-74103.php",
-      "publish_time": "2026-08-11T18:01:02+08:00",
-      "summary": "谷歌发布Pixel 11 Pro预告视频，强调其评分达11分，将于8月12日与Pixel Watch 5一同发布。",
-      "recommendation": "谷歌预告Pixel 11 Pro，评分11分或暗示影像算法升级。虽未披露传感器细节，但8月12日发布节奏值得关注，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google teases the Pixel 11 Pro in new video"
-    },
-    {
-      "id": "recvrZRrBTR0fX",
-      "title": "风光与人像摄影师都钟爱的摄影技巧",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/11/the-photography-technique-that-landscape-and-portrait-photographers-love/",
-      "publish_time": "2026-08-11T18:00:00+08:00",
-      "summary": "作者将索尼a7改装成全光谱红外相机，用特定滤镜模拟柯达Aerochrome胶片效果，强调保留旧相机以激发创意。",
-      "recommendation": "旧相机改装全光谱红外，模拟柯达Aerochrome胶片，提供可复现的创意改造思路，对风光与人像摄影均有启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Photography Technique that Landscape and Portrait Photographers Love"
-    },
-    {
-      "id": "recvrZQOSyxqwg",
-      "title": "VSCO 为 50 位摄影师提供作品登上广告牌的机会",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/vsco-is-offering-50-photographers-the-chance-to-have-their-work-on-a-billboard/",
-      "publish_time": "2026-08-11T17:28:45+08:00",
-      "summary": "VSCO为美国各州50位摄影师提供作品登上广告牌的机会，展示其编辑应用价值。",
-      "recommendation": "VSCO以广告牌曝光激励摄影师创作，展示移动编辑应用在商业场景中的价值。常规行业动态，可了解品牌营销新玩法。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "VSCO is Offering 50 Photographers the Chance to Have Their Work on a Billboard"
     }
   ]
 }
