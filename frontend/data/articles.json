@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-23T21:17:39.421420+08:00",
+    "updated_at": "2026-08-24T03:03:42.916013+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -28,20 +28,95 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 42
+      "count": 41
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 406
+      "count": 407
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 125
+      "count": 124
     }
   ],
   "articles": [
+    {
+      "id": "recvt9fmAlz9S0",
+      "title": "盖蒂最新展览聚焦墨西哥最伟大的影像创作者——他们如何在友谊与竞争中构建了一个世纪的作品",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/gettys-latest-show-turns-the-spotlight-on-mexicos-greatest-image-makers-and-how-they-built-a-century-of-work-through-friendship-and-rivalry",
+      "publish_time": "2026-08-24T02:20:00+08:00",
+      "summary": "盖蒂展览聚焦13位墨西哥摄影师，展示友谊与竞争如何塑造该国百年视觉历史，揭示共同主题与师徒关系对艺术发展的核心影响。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Getty's latest show turns the spotlight on Mexico's greatest image-makers – and how they built a century of work through friendship and rivalry"
+    },
+    {
+      "id": "recvt9fosXzv07",
+      "title": "Photomator评测：AI驱动的照片编辑快捷方式打造数字暗房",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/photomator-review",
+      "publish_time": "2026-08-24T01:00:00+08:00",
+      "summary": "AI驱动的照片编辑应用，快速精准选择编辑特定主体颜色色调，打造数字暗房。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photomator review: A digital darkroom with AI-powered photo-editing shortcuts"
+    },
+    {
+      "id": "recvt9fqdf6meL",
+      "title": "什么？不到100美元的全画幅f/1.8定焦镜头？铭匠光学刚刚发布了最便宜的85mm镜头！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/what-a-full-frame-f-1-8-prime-for-less-than-us-usd100-ttartisan-just-released-the-cheapest-85mm-out-there",
+      "publish_time": "2026-08-23T23:20:00+08:00",
+      "summary": "铭匠光学发布最便宜的85mm f/1.8全画幅定焦镜头，价格不到100美元，虽基础但性价比高，适合追求实惠快速定焦的用户。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What? A full-frame f/1.8 prime for less than US$100? TTArtisan just released the cheapest 85mm out there!"
+    },
+    {
+      "id": "recvt9fkEmSBjf",
+      "title": "运动相机现在真的比传统旅行相机更好吗？",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/are-action-cameras-actually-better-than-traditional-travel-cameras-now/",
+      "publish_time": "2026-08-23T23:06:22+08:00",
+      "summary": "旅行摄影因运动相机而变革，其轻便、稳定、防水特性优于传统相机，但需权衡画质与便携性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Are Action Cameras Actually Better Than Traditional Travel Cameras Now?"
+    },
+    {
+      "id": "recvt9fiqN7M8k",
+      "title": "摄影师打造‘最佳照片终获应有观众’平台",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/23/photographer-builds-place-your-best-photo-finally-gets-the-audience-it-deserves/",
+      "publish_time": "2026-08-23T23:00:33+08:00",
+      "summary": "获奖摄影师Greg Boratyn利用软件开发背景，推出以照片为重心的数字平台grid.photo，为热情摄影师提供Instagram替代品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Builds ‘Place Your Best Photo Finally Gets the Audience it Deserves’"
+    },
     {
       "id": "recvt7Q7pkwEPl",
       "title": "华为Pura X View预览，更多iPhone 18 Pro泄露，第34周回顾",
@@ -7632,82 +7707,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Leaked Redmi Note 17 Pro Max details promise a new chipset, a bigger battery and faster charging"
-    },
-    {
-      "id": "recvrZQAHdh2hJ",
-      "title": "Insta360正在打造一款形状‘你从未想过’的无反相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/insta360-is-making-a-mirrorless-camera-with-a-shape-youve-never-even-considered/",
-      "publish_time": "2026-08-11T21:35:15+08:00",
-      "summary": "Insta360创始人暗示将推出形状前所未有的无反相机，承诺创新设计，但未透露具体参数。",
-      "recommendation": "Insta360创始人暗示颠覆性无反设计，虽无参数但提供行业创新方向线索，适合关注相机形态演变的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Insta360 Is Making a Mirrorless Camera With a Shape ‘You’ve Never Even Considered’"
-    },
-    {
-      "id": "recvs1dS9CnngZ",
-      "title": "是的，索尼FX5发货可能因一些质量控制问题而延迟",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/yes-sony-fx5-shipment-start-could-be-delayed-because-of-some-quality-control-issues/",
-      "publish_time": "2026-08-11T21:25:45+08:00",
-      "summary": "索尼FX5相机因质量控制问题可能延迟发货，荷兰相机店已确认延迟，消息源自sonyalpharumors。",
-      "recommendation": "索尼FX5因品控延迟发货，消息源自sonyalpharumors并经荷兰经销商确认，为购机决策提供时效性参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Yes, Sony FX5 shipment start could be delayed because of some quality control issues"
-    },
-    {
-      "id": "recvrZQDHLbPyM",
-      "title": "红外相机在喜马拉雅山脉拍摄到稀有欧亚猞猁的惊人影像",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/trail-camera-captures-striking-image-of-rare-eurasian-lynx-in-the-himalayas/",
-      "publish_time": "2026-08-11T21:21:42+08:00",
-      "summary": "红外相机在喜马拉雅山脉拍摄到稀有欧亚猞猁，首次在印度锡金邦摄影确认，记录其穿越高海拔地区。",
-      "recommendation": "红外相机野外实测案例，展示高海拔弱光环境下的触发与成像能力，对生态影像爱好者具参考价值，含锡金邦首次摄影确认的独家记录。",
-      "categories": [
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Trail Camera Captures Striking Image of Rare Eurasian Lynx in the Himalayas"
-    },
-    {
-      "id": "recvrZReI5bYsD",
-      "title": "这是我们迄今对即将在英国上市的Lava Agni 4N的最佳官方外观",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/lava_agni_4n_design_official_look-news-74106.php",
-      "publish_time": "2026-08-11T21:04:02+08:00",
-      "summary": "印度手机制造商Lava即将在英国推出Agni 4N，官方图片展示了其背面设计，与印度版Agni 4相似，正面可能采用平面显示屏。",
-      "recommendation": "常规资讯，可了解行业动态。官方外观图透露Lava Agni 4N背面设计，但影像规格未披露，对摄影爱好者价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Here's our best official look yet at the Lava Agni 4N launching in the UK soon"
-    },
-    {
-      "id": "recvrZRp7lTsSd",
-      "title": "VSCO将美国高速公路变成全国摄影展",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/11/vsco-is-turning-american-highways-into-a-nationwide-photography-exhibit/",
-      "publish_time": "2026-08-11T21:00:00+08:00",
-      "summary": "VSCO推出公开征集活动，将美国高速公路变为摄影展，帮助摄影师走红，平衡性能与覆盖面，不依赖AI发展业务。",
-      "recommendation": "VSCO将公路变影展，展示非AI驱动的摄影师扶持路径，对关注行业生态与美学传播者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "VSCO is Turning American Highways into a Nationwide Photography Exhibit"
     }
   ]
 }
