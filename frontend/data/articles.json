@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-23T03:04:49.123676+08:00",
+    "updated_at": "2026-08-23T10:15:49.505018+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 65
+      "count": 62
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 45
+      "count": 43
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 402
+      "count": 404
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,126 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvt59EH7PH5d",
+      "title": "实地技巧：规划一次成功的观虎之旅",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/22/field-tips-planning-a-successful-tiger-safari.aspx/",
+      "publish_time": "2026-08-23T09:33:10+08:00",
+      "summary": "本文由Des Ong撰写，介绍规划成功虎豹之旅的实地技巧，强调印度拥有全球超75%野生虎，是观赏首选地，提供核心摄影与旅行规划建议。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Field tips: planning a successful tiger safari"
+    },
+    {
+      "id": "recvt59x3t6YAq",
+      "title": "每周投票结果：谷歌Pixel 11系列中明显的最爱脱颖而出",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_results_a_clear_favorite_emerges_from_the_google_pixel_11_family-news-74267.php",
+      "publish_time": "2026-08-23T09:07:01+08:00",
+      "summary": "谷歌Pixel 11系列投票显示，多数人无意购买，价格是主因；有意者偏爱Pro版，票数接近标准版与Pro XL之和，Pro XL次之，折叠屏票数最少。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly poll results: a clear favorite emerges from the Google Pixel 11 family"
+    },
+    {
+      "id": "recvt59GnNOlMn",
+      "title": "事实：拍摄户外人像的最佳时机就是现在",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/22/useful-photography-tip-188-the-best-time-of-day-to-take-outdoor-portraits-is-anytime-copy/",
+      "publish_time": "2026-08-23T09:00:00+08:00",
+      "summary": "拍摄户外人像的最佳时机是现在，强光下也能通过创意和调整场景拍出好作品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fact: The Best Time to Take Outdoor Portraits is Now"
+    },
+    {
+      "id": "recvt59AMToDCZ",
+      "title": "被遗忘的摄影师：他将一位美国总统送入白宫，并开创了摄影品牌塑造的先河",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/portrait-photography/the-forgotten-photographer-who-put-a-us-president-in-the-white-house-and-pioneered-photographic-branding",
+      "publish_time": "2026-08-23T08:10:00+08:00",
+      "summary": "小约翰·普拉姆比拍摄了现存最古老的美国总统在任照片，并开创了至今仍被摄影工作室使用的品牌推广实践。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The forgotten photographer who put a US president in the White House – and pioneered photographic branding"
+    },
+    {
+      "id": "recvt59v74wG5s",
+      "title": "用AI垃圾内容卖相机，我永远无法理解",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/22/using-ai-slop-to-sell-camera-equipment-will-never-make-sense-to-me/",
+      "publish_time": "2026-08-23T07:39:32+08:00",
+      "summary": "两家公司周末发布生成式AI垃圾内容卖相机，作者不解，核心价值在于批判AI营销滥用。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Using AI Slop to Sell Cameras Will Never Make Sense to Me"
+    },
+    {
+      "id": "recvt59yZSBlnq",
+      "title": "优惠：Pixel 11系列现已开售，Galaxy Z8折叠屏送礼品卡",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_the_pixel_11_series_is_now_on_sale_the_galaxy_z8_foldables_come_with_gift_cards-news-74286.php",
+      "publish_time": "2026-08-23T05:33:02+08:00",
+      "summary": "谷歌Pixel 11系列开售，亚马逊预购优惠含礼品卡和以旧换新奖励，标准版324美元，Pro及折叠屏425美元，高于上周。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: the Pixel 11 series is now on sale, the Galaxy Z8 foldables come with gift cards"
+    },
+    {
+      "id": "recvt59CLoPQ3V",
+      "title": "中国品牌如今生产最令人惊艳的拍照手机——是时候让爱好者抛弃苹果和三星了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phones/chinese-brands-now-produce-the-most-impressive-camera-phones-its-time-enthusiasts-ditched-apple-and-samsung",
+      "publish_time": "2026-08-23T05:07:30+08:00",
+      "summary": "中国品牌Oppo最新旗舰手机相机系统令人印象深刻，三个月使用体验表明，其拍照性能已超越苹果和三星，值得爱好者更换。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Chinese brands now produce the most impressive camera phones - it's time enthusiasts ditched Apple and Samsung"
+    },
+    {
+      "id": "recvt59t3cDAR0",
+      "title": "松下推出带有索尼Alpha标志的水瓶",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/panasonic-launches-a-water-bottle-with-sony-alpha-logo/",
+      "publish_time": "2026-08-23T03:30:50+08:00",
+      "summary": "松下发布印有索尼Alpha标志的新旗舰水瓶，具备5轴图像稳定功能，自动对焦性能不佳，文章调侃其设计并提及来源。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Panasonic launches a water bottle with Sony Alpha Logo"
+    },
     {
       "id": "recvt3p5xTJuvC",
       "title": "富士胶片相机Shutter+远程控制应用",
@@ -7593,129 +7713,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Analog photography is back with a vengeance, but what are the most popular film looks right now? This list has some big hints"
-    },
-    {
-      "id": "recvrZRc0BYxdZ",
-      "title": "日本二手市场这10款相机价格持续上涨——涨幅最高达24.1%，且是单反相机！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/these-10-cameras-are-getting-more-expensive-on-the-used-market-the-biggest-hike-is-24-1-percent-and-its-a-dslr",
-      "publish_time": "2026-08-11T16:51:28+08:00",
-      "summary": "日本二手相机市场88%机型价格上涨，涨幅最高24.1%，前十名中单反相机领涨，Minna Cameras追踪显示2026上半年价格全面上升。",
-      "recommendation": "日本二手相机价格涨幅数据详实，揭示单反逆势领涨趋势，为选购与投资提供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "These 10 cameras are getting more expensive on the used market in Japan – the biggest hike is 24.1% and it's a DSLR!"
-    },
-    {
-      "id": "recvrZQRVstTRX",
-      "title": "新思锐 Saturn V2 全画幅变形镜头系列首批图片",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/first-images-of-the-new-sirui-saturn-v2-full-frame-anamorphic-lens-series/",
-      "publish_time": "2026-08-11T15:45:01+08:00",
-      "summary": "思锐发布Saturn V2全画幅变形镜头系列首批图片，该系列为Saturn产品线下一代，针对现代电影制作人改进设计，提升可用性。",
-      "recommendation": "思锐Saturn V2变形镜头首批官方图，展示下一代设计改进方向，对电影感影像爱好者有参考价值，但信息有限。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "First images of the new SIRUI Saturn V2 Full-Frame Anamorphic Lens Series"
-    },
-    {
-      "id": "recvrYm7XA9Sln",
-      "title": "内存价格上涨导致第二季度智能手机市场下滑7%",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_smartphone_market_dropped_by_7_in_q2_because_of_rising_memory_prices-news-74101.php",
-      "publish_time": "2026-08-11T15:39:02+08:00",
-      "summary": "FDM报告称，2026年第二季度全球智能手机出货量同比降7%，环比降3%，全年预计降12%。新兴市场跌幅更大，二手市场表现良好。",
-      "recommendation": "内存涨价间接影响手机影像硬件配置，新兴市场与二手市场数据为购机决策提供参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The smartphone market dropped by 7% in Q2 because of rising memory prices"
-    },
-    {
-      "id": "recvrYmdrnx1Ia",
-      "title": "思锐35mm f1.4 Aurora评测：四分之一价格，日本品质",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/11/sirui-35mm-f1-4-aurora-review-japanese-quality-for-1-4-of-the-price/",
-      "publish_time": "2026-08-11T15:00:00+08:00",
-      "summary": "思锐35mm f1.4 Aurora镜头评测，强调其以四分之一价格提供日本品质，适合徕卡SL2s等相机，核心价值在于高性价比与独特性能。",
-      "recommendation": "以四分之一价格对标日本品质，实测数据与徕卡SL2s适配性分析具参考价值，为追求高性价比的镜头用户提供独特选购视角。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sirui 35mm f1.4 Aurora Review: Japanese Quality for 1/4 of the Price"
-    },
-    {
-      "id": "recvrZQUKnIb8U",
-      "title": "SanDisk、ProGrade和Delkin Devices存储卡优惠购买指南",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/save-on-sandisk-prograde-and-delkin-devices-memory-cards/",
-      "publish_time": "2026-08-11T13:54:48+08:00",
-      "summary": "B&H Photo推出SanDisk、ProGrade和Delkin Devices存储卡优惠，涉及20款CFexpress、SD和microSD卡，降价一周，促销期为2026年8月9日至15日。",
-      "recommendation": "存储卡促销清单，涵盖CFexpress与SD卡，价格与型号信息实用，适合近期采购的影像用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Save on SanDisk, ProGrade and Delkin Devices Memory Cards"
-    },
-    {
-      "id": "recvrYmaLQVaBH",
-      "title": "全玻璃20周年纪念版iPhone已死，一位分析师认为",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_allglass_20th_anniversary_iphone_is_dead_one_analyst_thinks-news-74100.php",
-      "publish_time": "2026-08-11T13:17:03+08:00",
-      "summary": "杰富瑞分析师称全玻璃20周年纪念版iPhone已死，传闻曾预测其全玻璃机身、四曲面屏、无按钮接口及移除灵动岛，但新传闻未提具体细节。",
-      "recommendation": "常规资讯，可了解行业动态。分析iPhone设计传闻转向，对关注手机影像形态演变的用户有参考价值，但缺乏独家数据与深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The all-glass 20th anniversary iPhone is dead, one analyst thinks"
-    },
-    {
-      "id": "recvrYmfN6CWzH",
-      "title": "腾龙25-200mm镜头现在本质上是一款微距镜头",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/11/the-tamron-25-200mm-is-essentially-a-macro-lens-now/",
-      "publish_time": "2026-08-11T12:00:00+08:00",
-      "summary": "腾龙发布25-200mm f2.8-5.6 G2镜头3.0固件更新，提升近摄能力，使其本质上成为微距镜头，评测表现优异。",
-      "recommendation": "固件升级赋予25-200mm镜头微距能力，含近摄倍率实测与样张对比，为变焦镜头用户提供实用升级参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Tamron 25-200mm is Essentially a Macro Lens Now"
-    },
-    {
-      "id": "recvrX5WdMXhLE",
-      "title": "GoPro发布“史上最佳GoPro”，但破产风险仍在，CEO称公司正处于寻找买家的“后期阶段”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-launched-the-best-gopro-ever-but-the-risk-of-bankruptcy-remains-as-ceo-says-the-company-is-in-the-later-stages-of-looking-for-a-buyer",
-      "publish_time": "2026-08-11T07:21:30+08:00",
-      "summary": "GoPro发布史上最佳产品，但相机销量同比降38%，订阅量创纪录，CEO称公司正处寻找买家的后期阶段，破产风险仍存。",
-      "recommendation": "GoPro销量下滑与买家传闻并存，数据揭示运动相机市场困境，对关注行业走向的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "GoPro launched the “best GoPro ever,” but the risk of bankruptcy remains, as CEO says the company is in the “later stages” of looking for a buyer"
     }
   ]
 }
