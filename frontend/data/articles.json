@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-24T03:03:42.916013+08:00",
+    "updated_at": "2026-08-24T10:16:27.922295+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 23
+      "count": 22
     },
     {
       "key": "镜头与光学",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 41
+      "count": 40
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,81 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvtb0kHAk95r",
+      "title": "尼康新闻周刊第900期",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/23/weekly-nikon-news-flash-900.aspx/",
+      "publish_time": "2026-08-24T09:20:58+08:00",
+      "summary": "尼康新闻周刊第900期报道，在Foto Erhardt购买尼康相机满990欧元赠索尼128GB存储卡，购Z镜头满501欧元赠B+W滤镜，全球免费配送，源自Nikon Rumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #900"
+    },
+    {
+      "id": "recvtb0gRdlmXM",
+      "title": "花卉摄影不只是美丽的玫瑰：这个新系列中的摄影师从混凝土中的杂草和蓝晒印相中的幽灵中发现了美",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/books/flower-photography-isnt-just-about-pretty-roses-photographers-in-this-new-collection-found-beauty-from-weeds-in-concrete-and-ghosts-in-cyanotype",
+      "publish_time": "2026-08-24T08:10:00+08:00",
+      "summary": "Shutter Hub新书《Flora》展示花卉摄影新视角，从混凝土杂草到蓝晒印相，发现意外之美，证明其仍具惊喜能力。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Flower photography isn't just about pretty roses: photographers in this new collection found beauty from weeds in concrete and ghosts in cyanotype"
+    },
+    {
+      "id": "recvtb0iLDEWYt",
+      "title": "体育摄像师称“竖屏视频让我抓狂”，而开放门也不一定是答案……",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/vertical-video-is-driving-me-insane-says-sports-videographer-and-no-open-gate-isnt-necessarily-the-answer",
+      "publish_time": "2026-08-24T05:20:00+08:00",
+      "summary": "专业摄像师称竖屏视频令人抓狂，同时拍摄横竖屏难获最佳效果，开放门也非解决方案。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "“Vertical video is driving me INSANE” says sports videographer. And no, open gate isn’t necessarily the answer…"
+    },
+    {
+      "id": "recvtb0eQDhWjn",
+      "title": "别再拍地标了，开始拍旅途吧",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/photography/stop-photographing-the-landmark-start-photographing-the-trip/",
+      "publish_time": "2026-08-24T04:46:53+08:00",
+      "summary": "文章强调拍摄旅途而非地标，核心价值在于记录个人独特视角，而非追求普遍性镜头。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Stop photographing the landmark. Start photographing the trip"
+    },
+    {
+      "id": "recvtb0mTdFuDP",
+      "title": "又来？有人猜测陆逊梯卡大量持有尼康股份是收购的跳板（来源：雅虎日本）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/23/not-again-some-believe-that-luxotticas-large-holding-of-nikon-shares-is-a-stepping-stone-to-an-acquisition-source-yahoo-japan.aspx/",
+      "publish_time": "2026-08-24T03:48:30+08:00",
+      "summary": "日媒再提陆逊梯卡收购尼康猜测，因尼康2026财年巨亏并重组，其大量持股被视为收购跳板。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Not again: “some believe that Luxottica’s large holding of Nikon shares is a stepping stone to an acquisition” (source: Yahoo Japan)"
+    },
     {
       "id": "recvt9fmAlz9S0",
       "title": "盖蒂最新展览聚焦墨西哥最伟大的影像创作者——他们如何在友谊与竞争中构建了一个世纪的作品",
@@ -7630,83 +7705,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "How to Load Unlimited Fujifilm Recipes on Your Camera – FAST and FREE"
-    },
-    {
-      "id": "recvs1e75iKasC",
-      "title": "谷歌Pixel 11 Pro XL现身Geekbench，Pro版上手图泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_xl_appears_on_geekbench_as_handson_images_of_the_pro_leak-news-74108.php",
-      "publish_time": "2026-08-11T23:09:03+08:00",
-      "summary": "谷歌Pixel 11 Pro XL现身Geekbench，搭载Tensor G6芯片，7核CPU，最高主频4.11GHz，配备16GB内存，Pro版上手图泄露。",
-      "recommendation": "Tensor G6芯片与16GB内存规格曝光，Pro版上手图泄露，为关注Pixel影像算力升级的用户提供一手硬件数据。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google Pixel 11 Pro XL appears on Geekbench as hands-on images of the Pro leak"
-    },
-    {
-      "id": "recvs1eeqC3K8E",
-      "title": "B&H 大幅降价，部分最佳相机直降高达 1000 美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/b-and-h-just-slashed-up-to-usd1-000-off-some-of-the-best-cameras-you-can-buy",
-      "publish_time": "2026-08-11T23:09:03+08:00",
-      "summary": "B&H大幅降价，佳能、索尼、尼康和OM System相机最高直降1000美元，性价比极高。",
-      "recommendation": "四大品牌旗舰机型降价幅度明确，含具体型号与价格数据，适合近期购机者比价参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "B&H just slashed up to $1,000 off some of the best cameras you can buy"
-    },
-    {
-      "id": "recvs1dZIDTIOi",
-      "title": "史上最大2D宇宙地图：耗时13年，由263,407张照片拼接而成",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/biggest-2d-map-of-the-universe-took-13-years-and-263407-photos-to-make/",
-      "publish_time": "2026-08-11T22:54:51+08:00",
-      "summary": "科学家用NSF NOIRLab望远镜历时13年，创建了迄今最大2D宇宙地图，覆盖四分之三天空，含近40亿天体。",
-      "recommendation": "263,407张照片拼接的宇宙地图，展示天文影像处理极限，对星空摄影爱好者有数据参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Biggest 2D Map of the Universe Took 13 Years and 263,407 Photos to Make"
-    },
-    {
-      "id": "recvs1e2eEBjRU",
-      "title": "徕卡将俄罗斯摄影师从奥斯卡·巴纳克奖中除名",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/11/leica-removes-russian-photographer-from-oskar-barnack-awards/",
-      "publish_time": "2026-08-11T22:14:27+08:00",
-      "summary": "徕卡将俄罗斯摄影师从2026年奥斯卡·巴纳克奖12名入围者中移除，该奖为世界最负盛名摄影奖项之一，PetaPixel独家披露。",
-      "recommendation": "独家披露徕卡将俄摄影师移出奥斯卡·巴纳克奖，揭示国际摄影奖项政治化趋势，对关注行业动态的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica Removes Russian Photographer From Oskar Barnack Award"
-    },
-    {
-      "id": "recvs1e9FNwLB5",
-      "title": "红米Note 17 Pro Max泄露细节：新芯片、更大电池和更快充电",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/leaked_redmi_note_17_pro_max_details_promise_a_new_chipset_a_bigger_battery_and_faster_charging-news-74112.php",
-      "publish_time": "2026-08-11T22:07:02+08:00",
-      "summary": "小米推出红米Note 17系列，全球版电池略小，配800万像素超广角，部分版本省略该镜头。",
-      "recommendation": "红米Note 17 Pro Max参数泄露，含芯片、电池及超广角镜头配置变化，对关注千元机影像配置的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leaked Redmi Note 17 Pro Max details promise a new chipset, a bigger battery and faster charging"
     }
   ]
 }
