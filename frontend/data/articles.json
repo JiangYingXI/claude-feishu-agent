@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-24T21:37:54.245395+08:00",
+    "updated_at": "2026-08-25T03:16:29.208957+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 20
+      "count": 16
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 58
+      "count": 56
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,270 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 416
+      "count": 417
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 114
+      "count": 110
     }
   ],
   "articles": [
+    {
+      "id": "recvtf8FGSKnAP",
+      "title": "1970年代的奇葩康泰时1000mm f/5.6镜头如今表现如何",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/how-the-absurd-contax-1000mm-f-5-6-lens-from-the-1970s-performs-today/",
+      "publish_time": "2026-08-25T01:56:04+08:00",
+      "summary": "日本Map Camera测试了1970年代康泰时Mirotar 1000mm f/5.6镜头，评估其现代表现，保留核心参数，揭示其独特价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How the Absurd Contax 1000mm f/5.6 Lens From the 1970s Performs Today"
+    },
+    {
+      "id": "recvtf8VOzadmX",
+      "title": "杰伊·梅塞尔去世，享年95岁，其“光线、色彩、姿态”理念影响了数代摄影师",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/jay-maisel-iconic-photographer-dies-95/",
+      "publish_time": "2026-08-25T01:38:28+08:00",
+      "summary": "杰伊·梅塞尔去世，享年95岁，其光线、色彩、姿态理念影响数代摄影师，从专辑封面到640名学员，影响力远超想象。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Jay Maisel, whose ‘light, color, gesture’ philosophy shaped generations of photographers, dies at 95"
+    },
+    {
+      "id": "recvtf8XrMObw0",
+      "title": "为何我认为徕卡Q3 43改变了高端便携相机市场，并让其他厂商侧目",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/why-i-think-the-leica-q3-43-changed-the-premium-compact-camera-market-and-made-others-take-notice",
+      "publish_time": "2026-08-25T01:13:54+08:00",
+      "summary": "徕卡Q3 43以43mm镜头和先进技术满足摄影师需求，引发业界关注，重塑高端便携相机市场格局。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Why I think the Leica Q3 43 changed the premium compact camera market and made others take notice"
+    },
+    {
+      "id": "recvtf8Z3Rd1tY",
+      "title": "Technaxx TX-164 延时摄影相机评测：为长期拍摄而设计的平价延时方案",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/technaxx-tx-164-time-lapse-camera-review-budget-friendly-time-lapse-designed-for-the-long-haul",
+      "publish_time": "2026-08-25T01:09:37+08:00",
+      "summary": "Technaxx TX-164延时摄影相机以长电池续航和防水性能为卖点，适合长期拍摄项目，性价比高。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Technaxx TX-164 time-lapse camera review: budget-friendly time-lapse designed for the long-haul"
+    },
+    {
+      "id": "recvtf9aeOT78C",
+      "title": "2026年佳能摄影师最佳旅行装备选择指南",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/24/the-best-travel-kit-for-canon-photographers-to-choose-in-2026/",
+      "publish_time": "2026-08-25T01:00:00+08:00",
+      "summary": "旅行摄影师首选佳能R6 III配24-105mm f4镜头，兼顾画质与便携，是2026年理想装备。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Best Travel Kit for Canon Photographers To Choose in 2026"
+    },
+    {
+      "id": "recvtf90NuTRFD",
+      "title": "存储卡价格飞涨……幸好我的相机还在用SD卡！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/memory-cards/memory-cards-have-become-so-expensive-im-glad-my-camera-still-takes-an-sd-card",
+      "publish_time": "2026-08-25T00:21:08+08:00",
+      "summary": "SD卡虽过时，但存储危机下成摄影师救生圈，价格飞涨仍受青睐。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Memory cards have become so expensive… I’m glad my camera still takes an SD card!"
+    },
+    {
+      "id": "recvtf8HFQGW8x",
+      "title": "十年磨一剑，哈苏无反相机豪赌终获巨大回报",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/10-years-later-hasselblads-mirrorless-gamble-has-paid-off-in-a-huge-way/",
+      "publish_time": "2026-08-25T00:20:00+08:00",
+      "summary": "哈苏最新财报显示公司复兴，其无反中画幅相机决策精明且时机恰当，获得巨大回报。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "10 Years Later, Hasselblad’s Mirrorless Gamble Has Paid Off In a Huge Way"
+    },
+    {
+      "id": "recvtf8SqYfpvA",
+      "title": "佳能EOS R8 Mark II将于9月15日发布",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/the-canon-eos-r8-mark-ii-is-coming-on-september-15/",
+      "publish_time": "2026-08-24T23:56:49+08:00",
+      "summary": "佳能EOS R8 Mark II将于9月15日发布，标题图片可能由AI生成，但过去此类图片准确，实物尚未验证。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Canon EOS R8 Mark II is Coming on September 15"
+    },
+    {
+      "id": "recvtf8Jrh8Lx2",
+      "title": "伊朗相机陷阱记录到难以捉摸的帕拉斯猫",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/elusive-pallass-cat-recorded-by-camera-traps-in-iran/",
+      "publish_time": "2026-08-24T23:37:44+08:00",
+      "summary": "伊朗野生动物摄影师用相机陷阱捕捉到罕见的帕拉斯猫，记录了这一难以捉摸物种的珍贵影像。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Elusive Pallas’s Cat Recorded by Camera Traps in Iran"
+    },
+    {
+      "id": "recvtf92KFVqQJ",
+      "title": "很少有相机能在如此多的领域保持一贯的高性能——但这款全画幅无反相机做到了，而且现在更便宜了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/few-cameras-are-so-consistently-capable-across-so-many-genres-but-this-full-frame-mirrorless-is-and-now-its-cheaper",
+      "publish_time": "2026-08-24T23:01:50+08:00",
+      "summary": "索尼A7 III全画幅无反相机降价，性能全面，实际表现出色，优惠不容错过。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Few cameras are so consistently capable across so many genres – but this full-frame mirrorless is, and now it's cheaper"
+    },
+    {
+      "id": "recvtf8UeaTBBZ",
+      "title": "关于即将推出的入门级PowerShot相机，我们所知道的一切",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/what-we-know-about-the-entry-level-powershot-camera/",
+      "publish_time": "2026-08-24T22:45:15+08:00",
+      "summary": "佳能将在未来6个月内推出新的PowerShot相机，其中G7 X Mark III后续机型备受期待，但高端型号信息尚未公开。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What We Know About the Coming Entry-Level PowerShot Camera"
+    },
+    {
+      "id": "recvtf8L82usIS",
+      "title": "尼康推出其吉祥物可爱毛绒钥匙扣",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/nikon-is-selling-an-adorable-plushie-keychain-of-its-mascot/",
+      "publish_time": "2026-08-24T22:28:33+08:00",
+      "summary": "尼康在日本独家发售吉祥物Nikon-chan毛绒钥匙扣，可爱设计，仅限日本市场。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon is Selling an Adorable Plushie Keychain of its Mascot"
+    },
+    {
+      "id": "recvtf94nmYyBq",
+      "title": "Lomo MC-A 刚刚被评为 2026-2027 年度最佳胶片相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/the-lomo-mc-a-has-just-been-crowned-best-film-camera-of-2026-2027",
+      "publish_time": "2026-08-24T22:18:31+08:00",
+      "summary": "Lomo MC-A获EISA 2026-2027年度模拟相机奖，对胶片摄影师是利好消息，彰显其技术实力与市场认可。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Lomo MC-A has just been crowned best film camera of 2026-2027"
+    },
+    {
+      "id": "recvtf96miwK7N",
+      "title": "Lava Virat V1 Pro 5G发布：120Hz屏幕、6000mAh电池，价格低廉",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_virat_v1_pro_5g_launches_with_120hz_screen_6000_mah_battery_low_price-news-74307.php",
+      "publish_time": "2026-08-24T22:06:02+08:00",
+      "summary": "Lava在印度发布Virat V1 Pro 5G，配备6.75英寸120Hz屏幕、5000万像素主摄、6000mAh电池，搭载紫光展锐T8200处理器，6GB RAM+128GB存储，运行纯净Andr",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lava Virat V1 Pro 5G launches with 120Hz screen, 6,000 mAh battery, low price"
+    },
+    {
+      "id": "recvtf8MUgbARu",
+      "title": "Moment T-Series II 镜头对 iPhone 来说究竟有多好？",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/just-how-good-are-moments-t-series-ii-lenses-for-iphone/",
+      "publish_time": "2026-08-24T22:01:38+08:00",
+      "summary": "Moment T-Series II镜头组可能改变iPhone相机使用习惯，其性能与价值值得关注。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Just How Good Are Moment’s T-Series II Lenses for iPhone?"
+    },
+    {
+      "id": "recvtf8Ozk1Kos",
+      "title": "索尼在全球图像传感器市场占据绝对主导地位",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/sony-is-utterly-dominating-the-global-image-sensor-market/",
+      "publish_time": "2026-08-24T21:52:15+08:00",
+      "summary": "索尼在全球图像传感器市场占据绝对主导地位，年度日经产业地图分析了包括数字图像传感器在内的多个行业全球市场份额，突显其市场领导力。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony Is Utterly Dominating the Global Image Sensor Market"
+    },
+    {
+      "id": "recvtf8QzwPqO7",
+      "title": "传闻：适马即将发布多达三款E卡口新镜头！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sigma-is-rumored-to-soon-announced-up-to-three-new-e-mount-lenses/",
+      "publish_time": "2026-08-24T21:50:24+08:00",
+      "summary": "传闻适马将发布三款E卡口新镜头，包括85mm f/1.2、一款变焦及可能是世界最大光圈的65mm镜头。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sigma is rumored to soon announced up to three new E-mount lenses!"
+    },
     {
       "id": "recvtdLu843wbh",
       "title": "依视路陆逊梯卡欲收购尼康的猜测再度浮现",
@@ -4724,6 +4979,21 @@
       "original_title": "New Sony FX5 reviews"
     },
     {
+      "id": "recvtf98sRz4Rb",
+      "title": "智能眼镜相机基准测试：人像与低光性能",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/smart-glasses-camera-comparison/",
+      "publish_time": "2026-08-17T17:02:28+08:00",
+      "summary": "智能眼镜成像系统受限于小模块和固定位置，文章基准测试其低光与人像性能，揭示与传统手机的差距及优化方向。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Smartglasses Camera Benchmark: Portrait and Low-Light Performance"
+    },
+    {
       "id": "recvsyO3cZtLf3",
       "title": "我试图重拾富士胶片相机的黄金岁月",
       "source": "ThePhoBlographer",
@@ -7419,285 +7689,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Google’s new Pixel 11 phones have the camera upgrades that count"
-    },
-    {
-      "id": "recvs75GLMnH0p",
-      "title": "哈曼凤凰彩色胶片浴火重生，新ISO值亮相",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/harmans-phoenix-color-film-rises-from-the-ashes-with-a-new-iso/",
-      "publish_time": "2026-08-12T21:58:58+08:00",
-      "summary": "哈曼公司推出新款凤凰彩色胶卷，感光度为125，继Phoenix 200和Phoenix II后再次创新。",
-      "recommendation": "彩色胶片市场罕见新作，凤凰系列迭代细节与ISO 125参数值得关注，对胶片玩家具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Harman’s Phoenix Color Film Rises From the Ashes With a New ISO"
-    },
-    {
-      "id": "recvs5HWuVhWlr",
-      "title": "游客在177英尺瀑布前拍照时坠亡",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/tourist-falls-to-death-while-posing-for-photo-shoot-at-177-foot-waterfall/",
-      "publish_time": "2026-08-12T21:48:47+08:00",
-      "summary": "一名20岁游客在美国州立公园177英尺瀑布顶端拍照时坠崖身亡。",
-      "recommendation": "常规资讯，提醒户外拍摄安全。瀑布场景构图技巧与风险规避对风光摄影者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tourist Falls to Death While Posing for Photo Shoot at 177-Foot Waterfall"
-    },
-    {
-      "id": "recvs5IeyGnV6q",
-      "title": "“我向所有摄影新手推荐这款相机”——这些入门级预算相机刚刚降价",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-recommend-this-camera-to-anyone-starting-their-photography-journey-these-budget-beginner-cameras-just-got-cheaper",
-      "publish_time": "2026-08-12T21:45:23+08:00",
-      "summary": "入门级预算相机降价，推荐给摄影新手，以更低价格开启摄影之旅，选购适合初学者的无反相机。",
-      "recommendation": "入门级相机降价汇总，含具体机型与价格数据，为新手选购提供实用参考，可快速了解当前市场入门无反性价比选择。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "\"I recommend this camera to anyone starting their photography journey\" – these budget beginner cameras just got cheaper"
-    },
-    {
-      "id": "recvs5HYYWu14E",
-      "title": "适马85mm f/1.2镜头即将发布",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/sigmas-85mm-f-1-2-lens-looks-like-its-coming-soon/",
-      "publish_time": "2026-08-12T21:34:28+08:00",
-      "summary": "Adobe Camera Raw 18.5更新支持适马85mm f/1.2 DG Art镜头，暗示该镜头即将发布，但适马尚未正式公布上市时间。",
-      "recommendation": "ACR更新泄露适马85mm f/1.2镜头发布信号，对定焦爱好者具前瞻价值，但缺乏具体参数与上市时间，常规资讯可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sigma’s 85mm f/1.2 Lens Looks Like It’s Coming Soon"
-    },
-    {
-      "id": "recvs5Iw4q3Azk",
-      "title": "谷歌Pixel 11、Pixel 11 Pro XL和Pixel 11 Pro Fold在印度的价格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_pixel_11_pro_xl_and_pixel_11_pro_fold_prices_in_india_leak-news-74136.php",
-      "publish_time": "2026-08-12T21:31:02+08:00",
-      "summary": "谷歌Pixel 11系列印度售价泄露，Pixel 11起售价89999卢比（约943美元），较上代涨10000卢比，因谷歌确认涨价。",
-      "recommendation": "Pixel 11系列涨价信息对影像用户有参考价值，可预判新机影像硬件成本与定价趋势，但缺乏具体影像规格细节，常规资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 11, Pixel 11 Pro XL, and Pixel 11 Pro Fold prices in India leak"
-    },
-    {
-      "id": "recvs75oI1TRPD",
-      "title": "Adobe Camera RAW 现已正式支持尚未发布的适马 85mm f/1.2 FE 新镜头！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/adobe-camera-raw-now-officially-supports-the-yet-unreleased-new-sigma-85mm-f-1-2-fe-lens/",
-      "publish_time": "2026-08-12T21:03:02+08:00",
-      "summary": "Adobe Camera RAW已正式支持未发布的适马85mm f/1.2 FE镜头，预示其即将发布，已在BHphoto上架，预计9月发货。",
-      "recommendation": "适马85mm f/1.2 FE虽未发布，但ACR提前支持预示上市临近，对等待大光圈人像镜头的用户有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Adobe Camera RAW now officially supports the yet unreleased new Sigma 85mm f/1.2 FE lens!"
-    },
-    {
-      "id": "recvs5I1zNqCJQ",
-      "title": "Insta360 希望其旗舰 X6 远不止是一台 360 度相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/insta360-wants-its-flagship-x6-to-be-way-more-than-a-360-degree-camera/",
-      "publish_time": "2026-08-12T21:00:55+08:00",
-      "summary": "Insta360发布旗舰X6，体积更小，传感器更大，光线收集能力更强，图像质量显著提升。",
-      "recommendation": "解析X6传感器升级与体积缩减的平衡，提供光线收集能力提升的具体数据，对关注全景影像硬件迭代的爱好者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360 Wants Its Flagship X6 to be Way More Than a 360-Degree Camera"
-    },
-    {
-      "id": "recvs5ItwvS63F",
-      "title": "Insta360 X6搭载更大传感器，原生8K视频与续航提升",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/insta360-x6-360-camera-announcement/",
-      "publish_time": "2026-08-12T21:00:00+08:00",
-      "summary": "Insta360新旗舰X6搭载更大传感器，支持原生8K/50 360度视频、10位色彩与杜比视界，续航提升，成为创作者利器。",
-      "recommendation": "X6传感器升级与原生8K/50规格参数明确，10位色彩和杜比视界细节对全景创作者有参考价值，续航数据可作选购依据。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360’s X6 gets bigger sensors, native 8K video and improved battery life"
-    },
-    {
-      "id": "recvs5IEIT6VIY",
-      "title": "Flashback预告新相机，作为品牌‘重置’的一部分",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/12/flashback-teases-its-next-camera-as-part-of-brand-reset/",
-      "publish_time": "2026-08-12T21:00:00+08:00",
-      "summary": "Flashback品牌创始人承认品牌现状不佳，宣布重置计划，预告新相机，旨在重振旗鼓，回归电影怀旧情怀。",
-      "recommendation": "品牌重置计划透露战略转向，新相机预告指向怀旧影像赛道，对关注行业动态的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Flashback Teases Its Next Camera as Part of Brand ‘Reset’"
-    },
-    {
-      "id": "recvs5I4hGS546",
-      "title": "首部全程使用IMAX摄影机拍摄的电影票房突破10亿美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/the-first-film-ever-shot-on-imax-cameras-has-surpassed-1-billion-at-the-box-office/",
-      "publish_time": "2026-08-12T20:55:11+08:00",
-      "summary": "首部全程IMAX摄影机拍摄的R级电影《奥德赛》票房破10亿美元，创下里程碑。",
-      "recommendation": "IMAX摄影机全程拍摄的商业片票房里程碑，揭示电影工业对高端影像技术的市场验证，为影像爱好者提供专业设备应用趋势参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The First Film Ever Shot on IMAX Cameras Has Surpassed $1 Billion at the Box Office"
-    },
-    {
-      "id": "recvs5Ic78LU4k",
-      "title": "佳能EOS R8 Mark II传感器信息",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canon-eos-r8-mark-ii-sensor-information/",
-      "publish_time": "2026-08-12T20:41:16+08:00",
-      "summary": "佳能EOS R8 Mark II传感器信息更新，分辨率与发布时间有变动，预计九月中旬或更晚推出。",
-      "recommendation": "传感器规格与发布时间变动，对关注佳能全幅微单的玩家有参考价值，可提前规划购机节奏。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Canon EOS R8 Mark II Sensor Information"
-    },
-    {
-      "id": "recvs5IyLoLjcX",
-      "title": "荣耀在中国发布机器人手机，配备2亿像素钛合金云台相机",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_launches_robot_phone_in_china_with_200mp_titanium_gimbal_camera-news-74133.php",
-      "publish_time": "2026-08-12T19:30:02+08:00",
-      "summary": "荣耀在中国发布机器人手机，配备2亿像素钛合金云台相机，旗舰安卓配置，已公布完整规格、定价和上市详情。",
-      "recommendation": "2亿像素钛合金云台相机属行业罕见，文章披露完整规格与定价，对关注手机影像硬件创新的用户有直接参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Honor launches Robot Phone in China with 200MP titanium gimbal camera"
-    },
-    {
-      "id": "recvs5Ih32ZTBx",
-      "title": "胶片摄影趋势关乎无“点赞评论”的摄影——富士胶片称，即时成像胶片正流行，但并非全是Z世代的错",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/instant-cameras/the-analog-photography-trend-is-about-photography-without-tracking-likes-and-comments-instant-film-is-trending-but-gen-z-isnt-entirely-to-blame-fujifilm-says",
-      "publish_time": "2026-08-12T19:11:10+08:00",
-      "summary": "富士胶片高管谈模拟摄影趋势，即时成像胶片流行，强调无社交点赞的摄影价值，Instax定位其中。",
-      "recommendation": "富士高管解读模拟摄影回潮，剖析Instax无社交点赞的影像价值，为胶片爱好者提供行业视角与趋势洞察。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The analog photography trend is about photography without “tracking likes and comments” –Instant film is trending, but Gen Z isn’t entirely to blame, Fujifilm says"
-    },
-    {
-      "id": "recvs5IjuWa0tS",
-      "title": "“我向所有摄影新手推荐这款相机”——这些入门级预算相机现在更便宜了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/i-recommend-this-camera-to-anyone-starting-their-photography-journey-these-budget-beginner-cameras-just-got-even-cheaper",
-      "publish_time": "2026-08-12T19:05:24+08:00",
-      "summary": "入门级预算相机降价，适合新手，推荐无反相机，以更低价格开启摄影之旅。",
-      "recommendation": "入门相机降价资讯，梳理当前预算机型性价比，助新手避坑选机，数据较全但无独家爆料。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "\"I recommend this camera to anyone starting their photography journey\" – these budget beginner cameras just got even cheaper"
-    },
-    {
-      "id": "recvs5IlVtAwEK",
-      "title": "DJI Osmo Pocket 4和4P在美国（官方）未上市，但Pocket 3有售——套装价格创历史新低",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-dji-osmo-pocket-4-and-4p-arent-officially-available-in-the-us-but-the-pocket-3-is-and-the-price-on-the-combo-has-never-been-lower",
-      "publish_time": "2026-08-12T18:58:13+08:00",
-      "summary": "大疆Osmo Pocket 4和4P未在美国上市，但Pocket 3套装价格创历史新低，Creator Combo售价降至最低。",
-      "recommendation": "Pocket 4缺席美国市场，Pocket 3套装降价至历史新低，含具体价格与套装配置，对持币观望的Vlog用户是实用购买参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The DJI Osmo Pocket 4 and 4P aren’t (officially) available in the US. But the Pocket 3 is – and the price on the combo has never been lower"
-    },
-    {
-      "id": "recvs5IojG4yFr",
-      "title": "“可能会有马拉多纳那样的时刻”——拍下梅西捧起世界杯经典瞬间的摄影师解释他如何故意错过其他画面以捕捉这一瞬间",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/there-could-be-this-moment-of-what-happened-with-maradona-photographer-who-captured-iconic-image-of-messi-holding-the-world-cup-explains-how-he-purposely-missed-other-images-to-get-it",
-      "publish_time": "2026-08-12T18:47:07+08:00",
-      "summary": "体育摄影师乔尔·马克伦德为捕捉梅西致敬马拉多纳的瞬间，故意错过2022年世界杯其他重大时刻，最终拍下经典照片。",
-      "recommendation": "体育摄影决策案例，揭示顶级摄影师如何取舍瞬间，对街拍与纪实爱好者有实操借鉴价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“There could be this moment of what happened with Maradona” –Photographer who captured iconic image of Messi holding the World Cup explains how he purposely missed other images to get it"
-    },
-    {
-      "id": "recvs5I6KEGni4",
-      "title": "两名女摄影师在伊朗被判处合计24年监禁",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/two-female-photographers-sentenced-to-combined-24-years-in-prison-in-iran/",
-      "publish_time": "2026-08-12T18:41:52+08:00",
-      "summary": "两名女摄影师在伊朗被判处合计24年监禁，包括知名摄影记者和18岁艺术家。",
-      "recommendation": "影像创作自由议题的深度案例，揭示纪实摄影在特定地区的现实风险，对关注摄影伦理与行业边界的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Two Female Photographers Sentenced to Combined 24 Years in Prison in Iran"
-    },
-    {
-      "id": "recvs5IC9JrBe3",
-      "title": "Realme 16x 搭载天玑 6300 处理器、144Hz 屏幕和 7000mAh 电池上市",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/realme_16x_features_price_sale_date-news-74132.php",
-      "publish_time": "2026-08-12T18:13:02+08:00",
-      "summary": "Realme发布16x，配备7000mAh电池、45W充电、144Hz 6.81英寸LCD屏、天玑6300处理器，支持旁路充电和6.5W反向充电。",
-      "recommendation": "关注入门机影像配置的读者可了解其天玑6300的ISP算力与LCD屏显色表现，旁路充电细节对长时录像有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Realme 16x arrives with the Dimensity 6300 SoC, a 144Hz screen, and a 7,000 mAh battery"
     }
   ]
 }
