@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-25T21:37:36.604067+08:00",
+    "updated_at": "2026-08-26T03:17:52.232171+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 12
+      "count": 10
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 53
+      "count": 50
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,215 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 37
+      "count": 34
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 421
+      "count": 427
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 102
+      "count": 98
     }
   ],
   "articles": [
+    {
+      "id": "recvtkZPPCSuxK",
+      "title": "尼康影像空间被判死刑。这是下载照片的时间——以及尼康将用什么取代它",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cloud-storage/nikon-image-space-just-got-a-death-sentence-this-is-when-to-download-photos-by-and-what-nikon-is-replacing-it-with",
+      "publish_time": "2026-08-26T02:50:09+08:00",
+      "summary": "尼康影像空间将于10月15日关闭，批量下载服务持续至次年4月15日，用户需及时下载照片，尼康将推出替代服务。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Image Space just got a death sentence. This is when to download photos by  – and what Nikon is replacing it with"
+    },
+    {
+      "id": "recvtl00wAXgPs",
+      "title": "尼康用户坏消息：今年预期的大部分产品可能延期",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/25/bad-news-for-nikon-shooters-almost-everything-expected-this-year-may-get-delayed/",
+      "publish_time": "2026-08-26T01:00:00+08:00",
+      "summary": "尼康因与唯卓仕诉讼及财报问题，预计其相机和镜头发布将延期，具体等待时间未知。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Bad News for Nikon Shooters: Almost Everything Expected This Year May Get Delayed"
+    },
+    {
+      "id": "recvtkZWPKYE31",
+      "title": "苹果发布M6与M5 Ultra芯片",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_m6_and_m5_ultra_chips_announced-news-74332.php",
+      "publish_time": "2026-08-26T00:09:02+08:00",
+      "summary": "苹果发布M6与M5 Ultra芯片，面向专业用户，满足AI建模、3D渲染等高性能需求。M6采用2nm工艺，12核CPU，含2个超级核心、4个性能核心和6个能效核心。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple M6 and M5 Ultra chips announced"
+    },
+    {
+      "id": "recvtkZREdM3dK",
+      "title": "RIP Jay Maisel：拍摄史上最具标志性专辑封面之一的纽约摄影师，他精通光影与色彩的运用，并乐于将自己的知识传授给他人",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/rip-jay-maisel-the-new-york-photographer-who-shot-one-of-historys-most-iconic-album-covers-made-masterful-use-of-light-and-color-and-loved-to-pass-on-his-knowledge-to-others",
+      "publish_time": "2026-08-25T23:55:18+08:00",
+      "summary": "摄影师Jay Maisel去世，他曾为迈尔斯·戴维斯专辑《Kind of Blue》拍摄封面，精通光影色彩，并乐于传授知识。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "RIP Jay Maisel: the New York photographer who shot one of history's most iconic album covers, made masterful use of light and color, and loved to pass on his knowledge to others"
+    },
+    {
+      "id": "recvtkZGE9av0R",
+      "title": "康泰时G2的炒作实至名归：这款相机太棒了",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/the-contax-g2-hype-is-warranted-this-camera-rocks/",
+      "publish_time": "2026-08-25T23:00:53+08:00",
+      "summary": "作者在KEH购入成色极佳的康泰时G2，验证其热议是否属实，结论是这款相机确实出色，炒作实至名归。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Contax G2 Hype is Warranted: This Camera Rocks"
+    },
+    {
+      "id": "recvtl02mKVCET",
+      "title": "尼康影像空间不再，尼康影像云将增强至5GB图像存储",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/25/nikon-image-space-is-no-more-nikon-imaging-cloud-will-be-enhanced-with-5gb-of-image-storage.aspx/",
+      "publish_time": "2026-08-25T22:31:59+08:00",
+      "summary": "尼康宣布Nikon Image Space将于2026年10月15日终止服务，同时Nikon Imaging Cloud将增强至5GB图像存储和共享功能，但一年后Nikon Authenticity ",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Image Space is no more, Nikon Imaging Cloud will be enhanced with 5GB of image storage"
+    },
+    {
+      "id": "recvtkZIHXqCd6",
+      "title": "苹果发布迄今最强Mac mini",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/apple-announces-its-most-powerful-mac-mini-yet/",
+      "publish_time": "2026-08-25T22:14:05+08:00",
+      "summary": "苹果发布新一代Mac mini，搭载全新M6及M5 Pro芯片，性能大幅提升，是迄今最强Mac mini。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple Announces Its Most Powerful Mac Mini Yet"
+    },
+    {
+      "id": "recvtkZKqfPOtM",
+      "title": "苹果新款Mac Studio支持最高512GB统一内存",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/apples-new-mac-studio-supports-up-to-512gb-of-unified-memory/",
+      "publish_time": "2026-08-25T22:11:12+08:00",
+      "summary": "苹果发布M5 Ultra芯片及新款Mac Studio，支持最高512GB统一内存，性能超强。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple’s New Mac Studio Supports Up to 512GB of Unified Memory"
+    },
+    {
+      "id": "recvtkZYRbsjoS",
+      "title": "Boltt Ace 5G与Evo 4G发布：配备6000mAh电池，价格亲民",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/boltt_ace_5g_and_evo_4g_debut_with_6000mah_batteries_and_affordable_prices-news-74323.php",
+      "publish_time": "2026-08-25T22:05:02+08:00",
+      "summary": "Fire-Boltt进军手机市场，推出Boltt Ace 5G和Evo 4G，配备6000mAh电池，运行Android 16，Ace 5G有6.79英寸120Hz屏，Unisoc T8200芯片，最",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Boltt Ace 5G and Evo 4G debut with 6,000mAh batteries and affordable prices"
+    },
+    {
+      "id": "recvtkZTnEXHAL",
+      "title": "ZWO升级旗舰Seestar智能望远镜，新增光学元件与双4K传感器",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/optics/telescopes/zwo-upgrades-flagship-seestar-smart-telescope-adding-new-optics-and-twin-4k-sensors",
+      "publish_time": "2026-08-25T22:00:00+08:00",
+      "summary": "ZWO升级旗舰Seestar智能望远镜，新增光学元件与双4K传感器，提升光学系统、双4K相机、新传感器和更宽视场。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "ZWO upgrades flagship Seestar smart telescope, adding new optics and twin 4K sensors"
+    },
+    {
+      "id": "recvtkZO1iSj4S",
+      "title": "森养AF 60-180mm F2.8为L卡口用户带来实惠轻便的长焦选择",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/lk-samyang-60-180mm-2p8-l-mount-announcement/",
+      "publish_time": "2026-08-25T21:47:12+08:00",
+      "summary": "森养推出AF 60-180mm F2.8镜头，为L卡口用户提供轻便实惠的长焦选择，优于Lumix和Sigma同类产品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samyang’s AF 60-180mm F2.8 brings affordable, lightweight reach to L-mount shooters"
+    },
+    {
+      "id": "recvtkZV2mrmmO",
+      "title": "徕卡M相机七十年拒绝改变——这或许正是它最大的优势",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/rangefinder-cameras/the-leica-m-camera-refused-to-change-for-seven-decades-and-that-might-be-its-greatest-strength",
+      "publish_time": "2026-08-25T21:45:15+08:00",
+      "summary": "徕卡M相机七十年坚持不彻底改造，保持核心设计，证明无需改变也能持续重要，其最大优势在于拒绝改变。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Leica M camera refused to change for seven decades – and that might be its greatest strength"
+    },
+    {
+      "id": "recvtkZMcSdab9",
+      "title": "苹果发布首款2纳米芯片M6，以及性能极为强大的M5 Ultra",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/apple-unveils-m6-its-first-2-nanometer-chip-and-the-extremely-powerful-m5-ultra/",
+      "publish_time": "2026-08-25T21:32:02+08:00",
+      "summary": "苹果发布首款2纳米芯片M6及性能强大的M5 Ultra，搭载于新款Mac mini和Mac Studio，提升性能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple Unveils M6, its First 2-Nanometer Chip, and the Extremely Powerful M5 Ultra"
+    },
     {
       "id": "recvtjBU8A1qNr",
       "title": "游客在巴厘岛“静默日”拍摄视频被判一年监禁",
@@ -7471,207 +7666,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "This is when Google is launching its screen-less Fitbit Air in India"
-    },
-    {
-      "id": "recvscVLO9q1p5",
-      "title": "苹果iPhone 17相机测试",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/apple-iphone-17-camera-test/",
-      "publish_time": "2026-08-13T18:27:24+08:00",
-      "summary": "苹果iPhone 17相机经DXOMARK测试，通过客观测量和感知分析评估照片、变焦及视频性能，主摄48MP，文章提供实验室测量与感知分析的结构化摘要。",
-      "recommendation": "DXOMARK实验室数据结合感知分析，48MP主摄实测覆盖拍照、变焦与视频，为购机决策提供量化参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple iPhone 17 Camera test"
-    },
-    {
-      "id": "recvscVOiWZQzD",
-      "title": "三星Galaxy S26相机测试",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/samsung-galaxy-s26-camera-test/",
-      "publish_time": "2026-08-13T18:23:18+08:00",
-      "summary": "三星Galaxy S26相机经DXOMARK测试，评估照片、变焦和视频性能，主摄50MP，提供客观测量与感知分析摘要。",
-      "recommendation": "DXOMARK客观数据解析S26主摄50MP实际表现，含变焦与视频专项评估，适合关注旗舰影像基准的爱好者。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Samsung galaxy S26 Camera test"
-    },
-    {
-      "id": "recvsbzjTr4del",
-      "title": "为什么你需要三脚架，是的，就是你",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/13/why-you-yes-you-need-a-tripod/",
-      "publish_time": "2026-08-13T18:00:00+08:00",
-      "summary": "相机追求轻便快速，忽视技巧，作者主张用三脚架放慢摄影节奏，强调技巧而非技术依赖。",
-      "recommendation": "反技术依赖视角，强调三脚架对摄影节奏与构图技巧的实质提升，适合追求进阶的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Why You, Yes You, Need a Tripod"
-    },
-    {
-      "id": "recvsbz8TqiUak",
-      "title": "Capture One CEO：我们自视为摄影公司，从未有意转型为AI公司",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/we-think-of-ourselves-as-a-photography-company-we-never-had-any-disposition-to-reinvent-ourselves-as-an-ai-company-says-capture-one-ceo",
-      "publish_time": "2026-08-13T17:34:31+08:00",
-      "summary": "Capture One CEO强调公司定位为摄影公司，非AI公司，在开发新工具时，将摄影师、创造力和图像权利置于核心。",
-      "recommendation": "CEO明确表态不转型AI，揭示Capture One产品战略与摄影师权益立场，对关注后期软件生态与行业走向的影像爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"We think of ourselves as a photography company…we never had any disposition to reinvent ourselves as an AI company,\" says Capture One CEO"
-    },
-    {
-      "id": "recvsbyTqMS5Qr",
-      "title": "索尼FE 100-400mm f/5.6-8 OSS镜头 + 2倍增距镜评测",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-fe-100-400mm-f-5-6-8-oss-lens-2x-teleconverter-review/",
-      "publish_time": "2026-08-13T17:25:42+08:00",
-      "summary": "索尼FE 100-400mm f/5.6-8 OSS镜头搭配2倍增距镜，由Christopher Frost评测，预购信息已公布，核心价值在于验证小光圈搭配增距镜的可行性。",
-      "recommendation": "实测小光圈长焦配增距镜的可行性，提供样张与对焦数据，对生态摄影爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony FE 100-400mm f/5.6-8 OSS lens + 2x Teleconverter review"
-    },
-    {
-      "id": "recvsbyQuXNpha",
-      "title": "摄影师捕捉到令人惊叹的日全食",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/13/photographers-capture-stunning-total-solar-eclipse/",
-      "publish_time": "2026-08-13T16:58:05+08:00",
-      "summary": "摄影师在欧洲捕捉到令人惊叹的日全食，展示了天文奇观的壮丽景象。",
-      "recommendation": "日全食拍摄涉及曝光控制与动态范围挑战，文中或含参数设置与构图技巧，对天文摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographers Capture Stunning Total Solar Eclipse"
-    },
-    {
-      "id": "recvsa7RNdPvMJ",
-      "title": "据报道，三星Galaxy S27系列不会效仿即将推出的iPhone这一功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsungs_galaxy_s27_series_reportedly_wont_copy_this_upcoming_iphone_feature-news-74148.php",
-      "publish_time": "2026-08-13T15:04:03+08:00",
-      "summary": "三星Galaxy S27系列将不采用可变光圈主摄像头，尽管此前传闻称其可能配备200MP可变光圈，但最终决定放弃，原因与苹果iPhone 18 Pro的传闻有关。",
-      "recommendation": "三星放弃可变光圈主摄，与苹果传闻关联，揭示旗舰影像路线分歧。对关注手机镜头技术趋势者，提供行业决策参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung's Galaxy S27 series reportedly won't copy this upcoming iPhone feature"
-    },
-    {
-      "id": "recvsa836Zvxq4",
-      "title": "这些照片不仅捕捉了地表之下的景象，更揭示了我们的星球最需要我们听到的故事。随着海洋面临的压力日益增大，见证这些压力的艺术家们的重要性也随之提升。",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/these-photographs-dont-just-capture-whats-beneath-the-surface-they-surface-the-stories-our-planet-most-needs-us-to-hear-as-the-pressures-on-our-ocean-grow-so-does-the-importance-of-the-artists-who-bear-witness-to-them",
-      "publish_time": "2026-08-13T15:00:00+08:00",
-      "summary": "年度海洋摄影师决赛入围者首次探索海洋最微小生物，揭示地表下故事，强调海洋压力下艺术见证的重要性。",
-      "recommendation": "海洋摄影决赛作品聚焦微距生物，展示水下摄影新视角，对微距与生态题材爱好者有技术参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"These photographs don't just capture what’s beneath the surface; they surface the stories our planet most needs us to hear. As the pressures on our ocean grow, so does the importance of the artists who bear witness to them\""
-    },
-    {
-      "id": "recvsa86mReBnf",
-      "title": "新加坡最受欢迎的数码单反相机揭晓",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/13/the-most-popular-dslrs-in-singapore-revealed/",
-      "publish_time": "2026-08-13T15:00:00+08:00",
-      "summary": "新加坡年轻摄影师首选数码单反相机，性价比高且功能控件优于手机，亚马逊有合适选项，详见原文。",
-      "recommendation": "聚焦新加坡市场单反选购偏好，提供当地摄影师选择视角与性价比分析，对购机决策有参考价值。常规资讯，可了解区域行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Most Popular DSLRs in Singapore Revealed"
-    },
-    {
-      "id": "recvsa7UAkvdZ9",
-      "title": "荣耀预热Magic9系列，确认9月发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_teases_magic9_series_coming_next_month-news-74143.php",
-      "publish_time": "2026-08-13T14:01:02+08:00",
-      "summary": "荣耀预告Magic9系列，确认9月发布，比Magic8提前一月，摄像头模块偏离中心，传感器环有滚花图案，类似小米17 Ultra Leica。",
-      "recommendation": "常规资讯，可了解行业动态。提前发布节奏及摄像头滚花设计细节，对关注旗舰影像迭代的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor teases Magic9 series, confirms September launch"
-    },
-    {
-      "id": "recvsa7OqD72cV",
-      "title": "荣耀发布机器人手机，内置折叠云台，宣传视频脑洞大开",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/honor-launches-its-robot-phone-with-a-built-in-folding-gimbal/",
-      "publish_time": "2026-08-13T13:57:53+08:00",
-      "summary": "荣耀发布机器人手机，内置折叠云台，宣传视频脑洞大开，目前仅在中国可用，但可能对未来移动视频拍摄领域是一个有趣的想法。",
-      "recommendation": "机器人手机内置折叠云台，为移动视频拍摄提供新思路，含产品设计细节与行业前瞻分析，适合关注影像形态创新的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Honor launches its Robot Phone with a built-in folding gimbal and some crazy promo videos"
-    },
-    {
-      "id": "recvsa7XE7z9wN",
-      "title": "Google Pixel Buds Pro 2 新增配色及软件功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_buds_pro_2_get_a_new_color_and_a_limitedtime_price_cut-news-74145.php",
-      "publish_time": "2026-08-13T13:03:02+08:00",
-      "summary": "谷歌为Pixel Buds Pro 2新增橄榄色，售价189美元，低于原价229美元，活动至8月23日，功能与其他颜色无异。",
-      "recommendation": "常规资讯，可了解行业动态。虽非影像核心，但降价信息对关注谷歌生态的摄影用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google Pixel Buds Pro 2 get a new color and new software features"
-    },
-    {
-      "id": "recvsa80t3oCuX",
-      "title": "谷歌为Pixel和三星最新设备推出Tap to Share功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_launches_tap_to_share_for_pixels_and_samsungs_latest_devices-news-74146.php",
-      "publish_time": "2026-08-13T12:02:02+08:00",
-      "summary": "谷歌推出安卓版NameDrop功能Tap to Share，适用于Pixel 6及以上和三星Fold8等设备，通过轻触共享联系人、照片等，年底前扩展更多设备。",
-      "recommendation": "安卓版NameDrop功能上线，影像用户可快速分享照片至Pixel及三星设备。常规资讯，可了解跨设备传输新趋势。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google launches Tap to Share for Pixels and Samsung's latest devices"
     }
   ]
 }
