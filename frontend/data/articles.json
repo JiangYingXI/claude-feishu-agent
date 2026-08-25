@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-25T03:16:29.208957+08:00",
+    "updated_at": "2026-08-25T10:14:26.000922+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 16
+      "count": 13
     },
     {
       "key": "镜头与光学",
@@ -23,12 +23,12 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 8
+      "count": 6
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 40
+      "count": 38
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,126 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvtgQluEXT10",
+      "title": "富士X-T2十年后为何依然能打",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/24/this-fuji-camera-from-2016-brought-vibes/",
+      "publish_time": "2026-08-25T09:00:00+08:00",
+      "summary": "富士X-T2发布十年后仍受好评，评测者称其为很棒相机，保留核心参数，文章回顾其持久价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Why the Fujifilm X-T2 Still Holds Up 10 Years Later"
+    },
+    {
+      "id": "recvtgQjnBJ3DH",
+      "title": "尼康荣获四项EISA摄影大奖",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/24/nikon-received-four-eisa-photography-awards.aspx/",
+      "publish_time": "2026-08-25T07:31:47+08:00",
+      "summary": "尼康仅发布两款新镜头却获四项EISA摄影奖，奖项包括年度相机索尼Alpha 7 V等，文章列出获奖名单并提及适马镜头测试。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon received four EISA photography awards"
+    },
+    {
+      "id": "recvtgQeQgTJxf",
+      "title": "索尼RX10 V评测：他们如何评价这台全能选手？",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/sony-rx10-v-review/",
+      "publish_time": "2026-08-25T07:30:00+08:00",
+      "summary": "索尼RX10 V评测：十年技术集于1英寸长焦便携相机，全能表现获赞。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony RX10 V review: what do they say about a jack of all trades?"
+    },
+    {
+      "id": "recvtgQh8PConI",
+      "title": "鹈鹕35L相机背包解决了携带相机旅行时令人沮丧的问题",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/pelicans-35l-camera-backpack-fixes-a-frustrating-part-of-traveling-with-cameras/",
+      "publish_time": "2026-08-25T07:13:19+08:00",
+      "summary": "鹈鹕35L相机背包通过加垫内衬设计，实现硬壳保护与便携切换，解决旅行携带相机的困扰。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Pelican’s 35L camera backpack fixes a frustrating part of traveling with cameras"
+    },
+    {
+      "id": "recvtgQcBwPbpH",
+      "title": "Gemini 现在可以为你的 Pixel 11 设备进行故障排查",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/gemini_can_now_troubleshoot_your_pixel_11_device-news-74313.php",
+      "publish_time": "2026-08-25T06:31:02+08:00",
+      "summary": "谷歌为Pixel 11测试Gemini驱动的设备帮助工具，用户可与Gemini对话排查故障，目前为有限测试。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Gemini can now troubleshoot your Pixel 11 device"
+    },
+    {
+      "id": "recvtgQnHC69Hk",
+      "title": "85mm镜头使用技巧，人类爱读的那种",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/24/tips-85mm-lens-for-humans/",
+      "publish_time": "2026-08-25T05:00:00+08:00",
+      "summary": "85mm镜头不仅适合人像，也适用于体育、街头和活动摄影。文章探讨其使用技巧，强调即使不缩小光圈也能拍出出色作品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tips on Using an 85mm Lens That Humans Will Enjoy Reading"
+    },
+    {
+      "id": "recvtgQ7EG1sLx",
+      "title": "Pelican新款相机背包，弥合背包与硬箱之间的差距",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/pelicans-new-camera-backpack-bridges-the-gap-between-bags-and-hard-cases/",
+      "publish_time": "2026-08-25T04:59:55+08:00",
+      "summary": "Pelican推出PX35 Aegis 35L Creator Pack相机背包，融合传统背包与硬壳箱优势，提供35升容量，兼顾保护性与便携性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Pelican’s New Camera Backpack Bridges the Gap Between Bags and Hard Cases"
+    },
+    {
+      "id": "recvtgQaeCikpe",
+      "title": "Metabones称其新款EF-X转接环带来前所未有的自动对焦性能",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/24/metabones-says-its-new-ef-x-adapters-deliver-autofocus-performance-never-seen-before/",
+      "publish_time": "2026-08-25T03:47:19+08:00",
+      "summary": "Metabones发布EF-X Speed Boosters和Smart Adapters更新版，宣称带来前所未有的自动对焦性能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Metabones Says its New EF-X Adapters Deliver Autofocus Performance Never Seen Before"
+    },
     {
       "id": "recvtf8FGSKnAP",
       "title": "1970年代的奇葩康泰时1000mm f/5.6镜头如今表现如何",
@@ -7562,133 +7682,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Sports Photographer Has Instagram Account Wrongfully Banned by Meta Over ‘Sexualization of Children’"
-    },
-    {
-      "id": "recvs75ysexg04",
-      "title": "谷歌Pixel 11 Pro Fold相机不如基础款Pixel 11",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/google-pixel-11-pro-folds-cameras-arent-as-good-as-the-base-pixel-11/",
-      "publish_time": "2026-08-12T22:45:09+08:00",
-      "summary": "谷歌发布Pixel 11系列，其中折叠屏Pixel 11 Pro Fold相机配置低于基础款，虽时尚但拍照性能妥协。",
-      "recommendation": "折叠屏旗舰相机配置反降，揭示谷歌产品策略取舍，对关注折叠屏影像性能的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google Pixel 11 Pro Fold’s Cameras Aren’t As Good as the Base Pixel 11"
-    },
-    {
-      "id": "recvs76jUCQlRa",
-      "title": "谷歌Pixel 11搭载Tensor G6芯片，充电速度更快",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_google_pixel_11_arrives_with_tensor_g6_and_faster_charging-news-74137.php",
-      "publish_time": "2026-08-12T22:33:02+08:00",
-      "summary": "谷歌Pixel 11搭载台积电2nm工艺的Tensor G6芯片，功耗优化，充电更快，定位中端，配备简化三摄和基础显示屏。",
-      "recommendation": "Tensor G6芯片功耗优化或间接提升影像处理能效，但文章聚焦充电与中端定位，影像信息有限。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Google Pixel 11 arrives with Tensor G6 and faster charging"
-    },
-    {
-      "id": "recvs76mwOQPim",
-      "title": "谷歌发布Pixel 11 Pro和11 Pro XL，新款Pixel 11 Pro Fold加入其中",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_unveils_the_pixel_11_pro_and_11_pro_xl_the_new_pixel_11_pro_fold_joins_them-news-74139.php",
-      "publish_time": "2026-08-12T22:13:02+08:00",
-      "summary": "谷歌发布Pixel 11 Pro、Pro XL及Fold，新增HiLight功能，利用AI在屏幕朝下时通过LED提醒优先联系人和Gemini对话，重振通知LED。",
-      "recommendation": "解析Pixel 11系列影像升级，HiLight功能将LED通知与AI结合，对手机摄影交互创新有参考价值，可了解谷歌计算摄影新动向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google unveils the Pixel 11 Pro and 11 Pro XL, the new Pixel 11 Pro Fold joins them"
-    },
-    {
-      "id": "recvs75BlfrSZB",
-      "title": "谷歌Pixel 11 Pro：专为创作者打造的四大亮点功能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/google-pixel-11-pro-the-top-four-creator-focused-features/",
-      "publish_time": "2026-08-12T22:03:14+08:00",
-      "summary": "谷歌Pixel 11 Pro为创作者推出四大亮点功能，包括摄影和摄像优化，具体参数未提及，核心价值在于提升创作体验。",
-      "recommendation": "聚焦Pixel 11 Pro创作者向功能，虽缺具体参数，但梳理四大亮点可助影像爱好者预判谷歌计算摄影新方向，行业动态参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Google Pixel 11 Pro: The Top Four Creator-Focused Features"
-    },
-    {
-      "id": "recvs765Fr79aR",
-      "title": "谷歌Pixel 11发布，搭载“Pixel史上最佳相机”——48MP摄像头配备更大传感器，感光度提升高达56%",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/google-pixel-11-is-here-with-pixels-best-camera-yet-promising-up-to-56-percent-more-light-sensitivity-on-its-48mp-cameras-with-larger-sensors",
-      "publish_time": "2026-08-12T22:01:27+08:00",
-      "summary": "谷歌Pixel 11发布，搭载48MP摄像头，传感器更大，感光度提升56%，新增单次滑动魔法拍摄模式，但效果因人而异。",
-      "recommendation": "Pixel 11相机升级数据具体，感光度提升56%及魔法拍摄模式实测观点，助影像爱好者评估新机实用价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google Pixel 11 is here with \"Pixel’s best camera yet\" –promising up to 56% more light sensitivity on its 48MP cameras with larger sensors"
-    },
-    {
-      "id": "recvs75DIR4J6n",
-      "title": "谷歌重新设计的Pixel 11手机主打重大相机升级",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/googles-redesigned-pixel-11-phones-features-major-camera-upgrades/",
-      "publish_time": "2026-08-12T22:00:30+08:00",
-      "summary": "谷歌发布第11代Pixel手机，三款机型均承诺显著相机升级并集成最新Gemini功能。",
-      "recommendation": "解析Pixel 11三机型相机升级细节与Gemini集成，提供计算摄影新方向参考，适合关注手机影像趋势的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google’s Redesigned Pixel 11 Phones Features Major Camera Upgrades"
-    },
-    {
-      "id": "recvs75RaYrbyn",
-      "title": "谷歌Pixel 11 Pro Fold在相机上仍有妥协",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/google-pixel-11-pro-fold-announcement/",
-      "publish_time": "2026-08-12T22:00:00+08:00",
-      "summary": "谷歌Pixel 11 Pro Fold作为最精致折叠屏，主摄更优，但价格创新高，相机仍有妥协。",
-      "recommendation": "折叠屏影像旗舰的取舍分析，直指Pixel 11 Pro Fold主摄升级但长焦与价格妥协的细节，适合关注折叠机拍摄性能的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Google Pixel 11 Pro Fold still makes camera compromises"
-    },
-    {
-      "id": "recvs75TuvTlBx",
-      "title": "谷歌新Pixel 11手机带来关键相机升级",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/google-pixel-11-pro-announcement-camera-improvements/",
-      "publish_time": "2026-08-12T22:00:00+08:00",
-      "summary": "谷歌新Pixel 11手机修复主线Pixel问题，并升级Pro版摄像头，提升拍摄性能。",
-      "recommendation": "聚焦Pixel 11 Pro摄像头硬件升级与主线修复，提供传感器规格及拍摄性能改进细节，适合关注谷歌影像策略的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google’s new Pixel 11 phones have the camera upgrades that count"
     }
   ]
 }
