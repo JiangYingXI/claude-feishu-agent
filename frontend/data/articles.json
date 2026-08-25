@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-25T15:33:12.462496+08:00",
+    "updated_at": "2026-08-25T21:37:36.604067+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 13
+      "count": 12
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 56
+      "count": 53
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,280 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 6
+      "count": 5
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 38
+      "count": 37
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 417
+      "count": 421
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 110
+      "count": 102
     }
   ],
   "articles": [
+    {
+      "id": "recvtjBU8A1qNr",
+      "title": "游客在巴厘岛“静默日”拍摄视频被判一年监禁",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/tourist-sentenced-to-one-year-in-jail-in-bali-for-filming-video-during-day-of-silence/",
+      "publish_time": "2026-08-25T21:22:30+08:00",
+      "summary": "一名游客在巴厘岛拍摄静默日视频，被判一年监禁，凸显当地文化禁忌的严格性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tourist Sentenced to One Year in Jail in Bali for Filming Video During ‘Day of Silence’"
+    },
+    {
+      "id": "recvtjBWfN5ijU",
+      "title": "“新”索尼Xperia 10 VIII基本是同一款手机，价格却更高",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/the-new-sony-xperia-10-viii-is-basically-the-same-phone-at-a-higher-price/",
+      "publish_time": "2026-08-25T21:05:25+08:00",
+      "summary": "索尼发布中端新机Xperia 10 VIII，与去年11月的Mark VII设计相似，但价格大幅上涨。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The ‘New’ Sony Xperia 10 VIII Is Basically the Same Phone At a Higher Price"
+    },
+    {
+      "id": "recvtjC6MFCzD7",
+      "title": "RF 85mm f/1.2L V2要来了？佳能专利曝光双马达对焦设计",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/is-the-rf-85mm-f-1-2l-v2-coming-canon-patent-details-dual-motor-focus-design/",
+      "publish_time": "2026-08-25T21:04:54+08:00",
+      "summary": "佳能专利曝光RF 85mm f/1.2L V2双马达对焦设计，暗示新镜头将采用更先进的对焦系统，替代旧环形USM，提升性能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Is the RF 85mm f/1.2L V2 Coming? Canon Patent Details Dual-Motor Focus Design"
+    },
+    {
+      "id": "recvtjChH490Nj",
+      "title": "可变光圈镜头的问题及解决方案",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/25/the-problem-with-variable-aperture-lenses-and-the-solution/",
+      "publish_time": "2026-08-25T21:00:00+08:00",
+      "summary": "可变光圈镜头并非不好，只需调整曝光设置即可解决，多数摄影师因自动模式忽略此点，其性能不逊于恒定光圈镜头。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Problem with Variable Aperture Lenses, and the Solution"
+    },
+    {
+      "id": "recvtjCaxLgQW3",
+      "title": "三只巴布亚企鹅在1931年废弃的南极捕鲸站废墟中重归自然——摄影师捕捉到野生动物重返黑暗工业遗迹的瞬间",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/three-gentoo-penguins-reclaim-their-place-in-nature-among-the-ruins-of-an-antarctic-whaling-station-abandoned-in-1931-photographer-captures-wildlife-returning-to-the-relics-of-a-dark-industry",
+      "publish_time": "2026-08-25T20:59:20+08:00",
+      "summary": "获奖摄影师捕捉到巴布亚企鹅重返南极废弃捕鲸站废墟的瞬间，展现野生动物与工业历史的难忘相遇，入围年度海洋摄影师决赛。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Three gentoo penguins reclaim their place in nature among the ruins of an Antarctic whaling station abandoned in 1931 – photographer captures wildlife returning to the relics of a dark industry"
+    },
+    {
+      "id": "recvtjCcfhnh55",
+      "title": "自然爱好者拍到罕见的暴躁野猫——但看到它那张愤怒的小脸，我忍不住笑了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/nature-lover-captures-rare-grumpy-wild-cat-on-camera-but-i-cant-help-smiling-at-how-cute-its-little-angry-face-is",
+      "publish_time": "2026-08-25T20:49:15+08:00",
+      "summary": "伊朗爱好者拍到帕拉斯猫，其暴躁表情显可爱，核心价值在于罕见影像记录。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nature lover captures rare grumpy wild cat on camera – but I can’t help smiling at how cute its little angry face is"
+    },
+    {
+      "id": "recvtjBY5PWwvW",
+      "title": "松下更新四款镜头，其中三款为M4/3系统设计",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/panasonic-refreshes-four-lenses-including-three-for-micro-four-thirds/",
+      "publish_time": "2026-08-25T20:28:53+08:00",
+      "summary": "松下发布四款Lumix镜头，三款适配M4/3系统，一款适配全画幅L-Mount系统，更新产品线。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Panasonic Refreshes Four Lenses, Including Three for Micro Four Thirds"
+    },
+    {
+      "id": "recvtjC8xrHpIp",
+      "title": "Oppo A7 Pro现身产品列表",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_a7_pro_emerges_in_listing_-news-74320.php",
+      "publish_time": "2026-08-25T20:07:02+08:00",
+      "summary": "Oppo A7 Pro现身巴西认证列表，型号CPH2931，采用水平摄像头遮阳板设计，此前已在泰国和马来西亚获认证。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo A7 Pro emerges in listing"
+    },
+    {
+      "id": "recvtjBZXogKGu",
+      "title": "摄影师揭秘：如何捕捉图帕克·沙库尔生命最后时刻",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/photographer-reveals-how-he-captured-tupac-shakurs-final-moments/",
+      "publish_time": "2026-08-25T20:01:39+08:00",
+      "summary": "摄影师揭秘拍摄图帕克·沙库尔生命最后时刻照片的细节，该照片摄于其遭枪击前片刻，近30年后仍引发关注。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Reveals How He Captured Tupac Shakur’s Final Moments"
+    },
+    {
+      "id": "recvtjC1Idifrk",
+      "title": "摄影师起诉艺术家，将其拍摄的英国摇滚乐队绿洲照片变成价值200万美元的画作",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/photographer-sues-artist-for-turning-his-photo-of-british-rock-band-oasis-into-2-million-painting/",
+      "publish_time": "2026-08-25T19:32:23+08:00",
+      "summary": "摄影师起诉艺术家，因其将绿洲乐队照片改编成画作，售价近200万美元。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Sues Artist for Turning His Photo of British Rock Band Oasis Into $2 Million Painting"
+    },
+    {
+      "id": "recvtjCe2j3yia",
+      "title": "发布仅数月，即获年度便携相机桂冠——带取景器的卡片机荣获行业大奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/just-released-months-ago-and-already-crowned-as-the-compact-camera-of-the-year-point-and-shoot-model-with-viewfinder-now-honored-with-industry-award",
+      "publish_time": "2026-08-25T18:59:57+08:00",
+      "summary": "这款微型四分之三相机配备内置徕卡DC Vario-Summilux 3.1倍光学变焦镜头，是广受欢迎且长期售罄的富士X100VI的绝佳替代品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Just released months ago, and already crowned as the compact camera of the year – point-and-shoot model WITH viewfinder now honored with industry award"
+    },
+    {
+      "id": "recvtjCjzyYo1R",
+      "title": "这款新Pelican背包可在软背负与硬壳之间秒速切换",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/25/this-new-pelican-backpack-switches-between-soft-carry-and-hard-case-in-seconds/",
+      "publish_time": "2026-08-25T18:54:49+08:00",
+      "summary": "Pelican新款PX35 Aegis 35L创作者背包，专为旅行和无人机摄影师设计，可将Pelican箱体相机部分拆卸放入，实现软背负与硬壳秒速切换。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This New Pelican Backpack Switches Between Soft Carry and Hard Case in Seconds"
+    },
+    {
+      "id": "recvtjClkUut9E",
+      "title": "松下发布四款新镜头，适用于全画幅和M4/3画幅用户",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/25/panasonic-announces-four-new-lenses-for-full-frame-and-micro-four-thirds-shooters/",
+      "publish_time": "2026-08-25T18:53:03+08:00",
+      "summary": "松下推出四款新镜头，覆盖全画幅和M4/3系统，包括受欢迎的50mm f1.4和35-100mm f2.8型号，扩展产品线，提升拍摄选择。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Panasonic Announces Four New Lenses for Full-Frame and Micro Four Thirds Shooters"
+    },
+    {
+      "id": "recvtjCfV00qOj",
+      "title": "Insta360 Luna Ultra 云台相机评测——它来了，它看到了，它征服了",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/insta360-luna-ultra-review",
+      "publish_time": "2026-08-25T18:45:00+08:00",
+      "summary": "Insta360 Luna Ultra云台相机评测，设计大胆，测试成功，核心价值在于其创新设计与卓越性能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Insta360 Luna Ultra gimbal camera review – it came, it saw, it conquered"
+    },
+    {
+      "id": "recvtjC3jjMsSe",
+      "title": "摄影师琳达·麦卡特尼获美国邮政总局邮票系列致敬",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/photographer-linda-mccartney-honored-with-usps-stamp-collection/",
+      "publish_time": "2026-08-25T17:46:01+08:00",
+      "summary": "美国邮政总局发行邮票系列，致敬摄影师琳达·麦卡特尼，展示其自然与静物摄影作品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Linda McCartney Celebrated With USPS Stamp Collection"
+    },
+    {
+      "id": "recvtjCnb72KCN",
+      "title": "2026年，你还会用GameBoy相机吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/25/should-you-use-a-gameboy-camera-in-2026/",
+      "publish_time": "2026-08-25T17:00:00+08:00",
+      "summary": "十年前评测的Bit Boy产品可将图像存SD卡而非即时打印，虽有趣但小众。2026年是否仍会使用存疑，核心在于其存储功能与即时打印的取舍。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Should You Use a GameBoy Camera in 2026?"
+    },
+    {
+      "id": "recvtjC52F2qIs",
+      "title": "英国最稀有鸟类巢穴位置保密，以防野生动物摄影师打扰",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/uks-rarest-bird-nests-kept-secret-to-keep-wildlife-photographers-away/",
+      "publish_time": "2026-08-25T16:36:12+08:00",
+      "summary": "英国最稀有猛禽连续第二年在秘密地点成功繁殖，以避开野生动物摄影师，巢穴位置保密。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "UK’s Rarest Bird Nests Kept Secret to Keep Wildlife Photographers Away"
+    },
     {
       "id": "recvti8ByIQyKj",
       "title": "印度Realme C100i包装盒曝光，规格及发布日期同步揭晓",
@@ -7417,271 +7672,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Google launches Tap to Share for Pixels and Samsung's latest devices"
-    },
-    {
-      "id": "recvsa89DZtWap",
-      "title": "2015年最佳相机五款，2026年仍值得入手",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/13/the-5-best-cameras-from-2015-that-you-can-pick-in-2026/",
-      "publish_time": "2026-08-13T12:00:00+08:00",
-      "summary": "2015年五款最佳相机至今仍值得购买，涵盖紧凑型与可换镜头型，兼顾便携与镜头多样性，是摄影爱好者的理想选择。",
-      "recommendation": "十年旧机仍具购买价值？本文从便携性与镜头群角度复盘五款经典相机，提供跨代际选购视角，适合怀旧派与实用党参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The 5 Best Cameras from 2015 That You Can Pick in 2026"
-    },
-    {
-      "id": "recvs8VlezMrFl",
-      "title": "摄影师可享额外10%优惠：KEH限时清仓特卖",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/photographers-can-save-an-extra-10-with-kehs-limited-time-overstock-sale/",
-      "publish_time": "2026-08-13T04:04:38+08:00",
-      "summary": "KEH限时清仓特卖，摄影师购买特定相机、镜头、灯光及配件可享额外5%或10%折扣，活动8月14日结束。",
-      "recommendation": "常规资讯，可了解行业动态。KEH清仓特卖为摄影器材爱好者提供限时折扣信息，但缺乏独家数据或深度观点。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Photographers Can Save an Extra 10% With KEH’s Limited-Time Overstock Sale"
-    },
-    {
-      "id": "recvs75JKqJpZa",
-      "title": "Insta360确认正在研发两款“令人惊喜”的无反相机",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/insta360-confirms-its-working-on-two-surprising-mirrorless-cameras/",
-      "publish_time": "2026-08-13T03:18:03+08:00",
-      "summary": "运动相机品牌Insta360确认正研发两款无反相机，其中一款外形设计将突破现有可换镜头相机模板，承诺带来惊喜。",
-      "recommendation": "运动相机巨头跨界无反，确认研发及突破性设计信息，为关注影像行业跨界动态的爱好者提供前瞻线索。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360 confirms it’s working on two “surprising” mirrorless cameras"
-    },
-    {
-      "id": "recvs75r9DpzZX",
-      "title": "荣耀AI驱动、配备云台的机器人手机在中国发布，外观狂野",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/honors-ai-powered-gimbal-equipped-robot-phone-just-launched-in-china-and-it-looks-wild/",
-      "publish_time": "2026-08-13T03:13:11+08:00",
-      "summary": "荣耀在中国发布配备云台的机器人手机，该产品从原型走向市场，具备AI驱动和云台技术，核心价值在于将概念转化为实际产品。",
-      "recommendation": "云台机器人手机从原型走向量产，揭示AI防抖与光学模组融合趋势，对关注手机影像形态创新的爱好者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Honor’s AI-Powered, Gimbal-Equipped Robot Phone Just Launched in China and it Looks Wild"
-    },
-    {
-      "id": "recvs768piFv2Y",
-      "title": "索尼半导体与台积电联手打造下一代影像处理器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/sony_semiconductor_and_tsmc_join_forces_to_make_nextgen_imaging_processors-news-74135.php",
-      "publish_time": "2026-08-13T03:07:01+08:00",
-      "summary": "索尼半导体与台积电合资生产智能手机图像传感器，索尼控股，2029年量产，出资4650亿日元。",
-      "recommendation": "索尼与台积电合资造传感器，2029年量产，4650亿日元投资细节首次披露，对关注手机影像硬件走向的爱好者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony Semiconductor and TSMC join forces to make next-gen imaging processors"
-    },
-    {
-      "id": "recvs76oVZDJP9",
-      "title": "BHphoto 促销：Adobe Creative Cloud Pro 12个月订阅立减350美元",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/350-off-on-the-adobe-creative-cloud-pro-12-months-subscription-at-bhphoto/",
-      "publish_time": "2026-08-13T03:00:34+08:00",
-      "summary": "BHphoto促销Adobe Creative Cloud Pro 12个月订阅，立减350美元，优惠信息源自Fuji Rumors。",
-      "recommendation": "Adobe订阅降价350美元，对依赖后期处理的影像爱好者是直接利好。常规促销资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "$350 off on the Adobe Creative Cloud Pro 12 months subscription at BHphoto"
-    },
-    {
-      "id": "recvs76u0b475w",
-      "title": "这些预设兼容老款和新款相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/12/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-4-copy-2/",
-      "publish_time": "2026-08-13T03:00:00+08:00",
-      "summary": "本文介绍Phoblographer基于庞大图像数据库，为各品牌相机和镜头制作预设，兼容老款和新款，并提及奥林巴斯EM5评测应用新预设。",
-      "recommendation": "预设兼容新旧机型，基于庞大图像数据库制作，对跨代设备用户有实用参考价值，含奥林巴斯EM5应用实例。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These Presets Work with Retro and New Cameras"
-    },
-    {
-      "id": "recvs75WkJXDbx",
-      "title": "我用包里最便宜的镜头之一，将北极光和英仙座流星雨拍进了同一画面",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/i-photographed-the-northern-lights-and-a-perseid-meteor-in-the-same-frame-and-i-used-one-of-the-cheapest-lenses-in-my-bag",
-      "publish_time": "2026-08-13T02:00:12+08:00",
-      "summary": "用廉价镜头同时捕捉北极光与英仙座流星雨，展示低成本摄影技巧，核心价值在于证明器材非限制创意。",
-      "recommendation": "廉价镜头挑战极光与流星雨同框，实测参数与拍摄参数全公开，证明器材门槛可突破，对风光摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I photographed the Northern Lights and a Perseid meteor in the same frame – and I used one of the cheapest lenses in my bag"
-    },
-    {
-      "id": "recvs75MnROOJp",
-      "title": "Skylum 普及了 AI 换天技术，如今它表示 AI 不应掩盖摄影师的光芒",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/the-app-that-made-ai-sky-replacement-popular-now-wants-to-sell-you-on-authentic/",
-      "publish_time": "2026-08-13T01:58:43+08:00",
-      "summary": "Skylum更新Luminar提升性能并重设计界面，但其创意优先理念与AI换天和Body AI工具集矛盾，强调AI不应掩盖摄影师光芒。",
-      "recommendation": "剖析Skylum在AI工具与创作理念间的矛盾，揭示计算摄影时代工具与摄影师角色的平衡，对关注AI影像趋势者具参考价值。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Skylum popularized AI sky replacement. Now it says AI shouldn’t overshadow photographers"
-    },
-    {
-      "id": "recvs75tDh13Mj",
-      "title": "摄影师注意，英仙座流星雨今晚达到峰值",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/12/heads-up-photographers-the-perseids-meteor-shower-peaks-tonight/",
-      "publish_time": "2026-08-13T01:58:05+08:00",
-      "summary": "英仙座流星雨今晚达峰值，北半球及南半球最北部可见，虽欧洲部分地区有日全食，但流星雨仍值得观赏。",
-      "recommendation": "流星雨拍摄时机与参数指南，含南北半球可见范围及日全食干扰分析，对天文摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Heads Up, Photographers, the Perseids Meteor Shower Peaks Tonight"
-    },
-    {
-      "id": "recvs75OBeuVry",
-      "title": "谁启发了我们社区的摄影？从安塞尔·亚当斯到家人和朋友",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/who-inspired-our-communitys-photography-from-ansel-adams-to-family-and-friends/",
-      "publish_time": "2026-08-13T01:18:15+08:00",
-      "summary": "文章探讨社区摄影灵感来源，从安塞尔·亚当斯到家人朋友，强调灵感多元，并邀请读者分享自己的启发者。",
-      "recommendation": "从安塞尔·亚当斯到亲友，剖析灵感多元性，助你拓宽摄影视角，挖掘个人创作脉络。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Who inspires our community’s photography? From Ansel Adams to family and friends"
-    },
-    {
-      "id": "recvs75mh1EPG4",
-      "title": "BHphoto促销：Adobe Creative Cloud Pro 12个月订阅立减350美元",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/350-off-on-the-adobe-creative-cloud-pro-12-months-subscription-at-bhphoto-click-here/",
-      "publish_time": "2026-08-13T01:09:30+08:00",
-      "summary": "BHphoto促销Adobe Creative Cloud Pro 12个月订阅立减350美元，另有Ugreen产品最高30%折扣、联想电脑额外15%折扣、SanDisk 4TB固态硬盘优惠300美元",
-      "recommendation": "Adobe全家桶降价对后期工作流成本敏感者实用，附存储与电脑优惠，可作影像装备采购参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "$350 off on the Adobe Creative Cloud Pro 12 months subscription at BHphoto"
-    },
-    {
-      "id": "recvs75YN7V4Sd",
-      "title": "VSCO以广告牌风格复兴胶片摄影——你的照片有望登上广告牌！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/vsco-is-bringing-print-photography-back-in-billboard-style-and-your-image-could-feature-on-one",
-      "publish_time": "2026-08-13T01:01:33+08:00",
-      "summary": "VSCO为50位摄影师提供在其家乡州广告牌展示作品的机会，以广告牌风格复兴胶片摄影，核心价值在于让摄影作品获得线下曝光。",
-      "recommendation": "VSCO以广告牌形式为50位摄影师提供线下曝光，展示胶片美学复兴趋势。对关注作品展示渠道的爱好者有参考价值，但缺乏独家数据，属常规行业资讯。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "VSCO is bringing print photography back in billboard style – and your image could feature on one!"
-    },
-    {
-      "id": "recvs76rtUiyiT",
-      "title": "Meike AF 25mm f/1.7 即将发布",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/meike-af-25mm-f-1-7-coming-soon/",
-      "publish_time": "2026-08-13T00:58:20+08:00",
-      "summary": "美科AF 25mm f/1.7镜头将于8月14日发布，适用于富士X卡口，具备自动对焦、APS-C画幅、9组12片镜片、f/1.7-16光圈、9片光圈叶片、0.14倍放大倍率、0.25米最近对焦距离等规",
-      "recommendation": "常规资讯，可了解行业动态。美科这款APS-C画幅自动对焦镜头规格完整，适合富士X卡口用户关注性价比副厂镜头选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Meike AF 25mm f/1.7 Coming Soon"
-    },
-    {
-      "id": "recvs7613es5sk",
-      "title": "手机摄影师冒险接近罕见毒蛇——这正是野生动物摄影适合长焦镜头的原因",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/smartphone-photographer-gets-dangerously-close-to-rare-venomous-snake-which-is-why-wildlife-is-best-suited-to-long-lenses",
-      "publish_time": "2026-08-13T00:02:15+08:00",
-      "summary": "新加坡手机摄影师冒险接近罕见蓝颈脊蛇，凸显长焦镜头对野生动物摄影安全的重要性。",
-      "recommendation": "以毒蛇摄影案例解析长焦对安全拍摄的关键作用，提供实战距离数据与构图思路，适合野生动物题材爱好者参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Smartphone photographer gets dangerously close to rare venomous snake – which is why wildlife is best suited to long lenses"
-    },
-    {
-      "id": "recvs76bB8oZqT",
-      "title": "谷歌Pixel Tag正式发布：支持UWB，续航一年",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_tag_is_official_with_uwb_support_and_oneyear_battery_life-news-74142.php",
-      "publish_time": "2026-08-13T00:01:03+08:00",
-      "summary": "谷歌正式发布Pixel Tag，采用不锈钢材质，支持蓝牙和UWB，具备IP67防水，续航一年，通过Find Hub网络追踪物品。",
-      "recommendation": "常规资讯，可了解行业动态。UWB与Find Hub生态对手机影像工作流中的配件追踪有间接参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google Pixel Tag is official with UWB support and one-year battery life"
-    },
-    {
-      "id": "recvs76wtvAbb7",
-      "title": "Camp Snap 2 强势回归，带你重返90年代",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/12/the-camp-snap-2-just-bought-the-90s-back-so-hard/",
-      "publish_time": "2026-08-13T00:00:00+08:00",
-      "summary": "Camp Snap 2回归，无屏幕轻便数字相机，模拟魅力，新增90年代风格色彩，满足Z世代需求。",
-      "recommendation": "无屏相机复古风潮再起，解析Camp Snap 2的90年代色彩调校与Z世代消费逻辑，为影像爱好者提供复古设备市场新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Camp Snap 2 Just Bought the 90s Back so Hard"
     }
   ]
 }
