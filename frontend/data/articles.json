@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-26T03:17:52.232171+08:00",
+    "updated_at": "2026-08-26T10:23:23.032774+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 10
+      "count": 9
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 50
+      "count": 49
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,210 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 427
+      "count": 431
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 98
+      "count": 93
     }
   ],
   "articles": [
+    {
+      "id": "recvtmIKur9TdK",
+      "title": "三星为Galaxy S26系列推送One UI 9 Beta 6更新",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_launches_one_ui_9_beta_6_for_the_galaxy_s26_series-news-74334.php",
+      "publish_time": "2026-08-26T10:03:02+08:00",
+      "summary": "三星为Galaxy S26系列推送One UI 9 Beta 6更新，含851MB更新包和2026年8月5日安全补丁，修复显示错误，已在多国推出。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung launches One UI 9 beta 6 for the Galaxy S26 series"
+    },
+    {
+      "id": "recvtmJ87x5CeQ",
+      "title": "黄金时刻人像摄影技巧，这些被遗忘的秘诀",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/25/golden-hour-portraits-people-forgot/",
+      "publish_time": "2026-08-26T09:00:00+08:00",
+      "summary": "本文强调人像摄影应从相机内开始，而非依赖后期编辑，并分享黄金时刻拍摄技巧，以提升照片质量。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Golden Hour Portrait Photo Tricks Everyone Forgot"
+    },
+    {
+      "id": "recvtmIWnA1e3Q",
+      "title": "追忆DPReview前科学编辑Rishi Sanyal——科学家、摄影师、电影制作人的罕见结合",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/remembering-rishi-sanyal-dpreviews-former-science-editor-a-rare-mix-of-scientist-photographer-filmmaker/",
+      "publish_time": "2026-08-26T08:34:52+08:00",
+      "summary": "追忆DPReview前科学编辑Rishi Sanyal，其从内到外理解相机的理念影响了DPReview及行业对图像质量的思考，涵盖ISO不变性与计算摄影。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Remembering Rishi Sanyal, DPReview’s former Science Editor — a rare mix of scientist, photographer, filmmaker"
+    },
+    {
+      "id": "recvtmJ284Z5FD",
+      "title": "从一段不寻常的友谊到豹子的笨拙动作：世界顶级野生动物摄影大赛抢先揭晓今年非凡作品",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/from-an-unlikely-friendship-to-a-leopards-clumsy-maneuver-the-worlds-leading-wildlife-photography-competition-reveals-a-sneak-peek-of-this-years-extraordinary-images",
+      "publish_time": "2026-08-26T07:05:00+08:00",
+      "summary": "年度野生动物摄影师大赛2026届收到创纪录投稿，展示全球摄影师作品，涵盖不寻常友谊与豹子动作等非凡瞬间。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "From an unlikely friendship to a leopard’s clumsy maneuver: the world’s leading wildlife photography competition reveals a sneak peek of this year's extraordinary images"
+    },
+    {
+      "id": "recvtmIMzn47gv",
+      "title": "全新高清CAD渲染图，一睹三星Galaxy S27 Ultra风采",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/take_a_look_at_the_samsung_galaxy_s27_ultra_in_some_fresh_highquality_cad_renders-news-74333.php",
+      "publish_time": "2026-08-26T07:02:02+08:00",
+      "summary": "三星Galaxy S27 Ultra高清CAD渲染图泄露，显示相机岛重新设计为类似苹果的大矩形，尺寸163.76x78.25x7.97毫米。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Take a look at the Samsung Galaxy S27 Ultra in some fresh high-quality CAD renders"
+    },
+    {
+      "id": "recvtmIIjdwyV2",
+      "title": "蝴蝶险象环生，入围年度野生动物摄影师决赛",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/25/butterflys-narrow-escape-among-wildlife-photographer-of-the-year-finalists/",
+      "publish_time": "2026-08-26T07:01:38+08:00",
+      "summary": "自然历史博物馆2026年度野生动物摄影师大赛提前揭晓15位入围者，角逐大奖，蝴蝶作品险象环生入围。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Butterfly’s Narrow Escape Among Wildlife Photographer of the Year Finalists"
+    },
+    {
+      "id": "recvtmJ0ioqM9n",
+      "title": "年度野生动物摄影师大赛抢先公布2026年杰出作品",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/photography/wildlife-photographer-of-the-year-offers-a-first-look-at-its-standout-2026-images/",
+      "publish_time": "2026-08-26T07:01:00+08:00",
+      "summary": "自然历史博物馆在年度野生动物摄影师大赛类别获奖者公布前，展出15张高度推荐照片，展示竞赛规模，参赛作品创纪录。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Wildlife Photographer of the Year offers a first look at its standout 2026 images"
+    },
+    {
+      "id": "recvtmIOy5j5tv",
+      "title": "小米获EISA智能手机大奖，荣耀、OPPO和三星也获好评",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_wins_eisa_smartphone_award_honor_oppo_and_samsung_get_awards_too-news-74329.php",
+      "publish_time": "2026-08-26T05:31:03+08:00",
+      "summary": "EISA公布2026-2027年度智能手机奖项，小米17T Pro凭借相机、显示屏、旗舰芯片和长续航电池获智能手机大奖，荣耀Magic V6等也获好评。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi wins EISA Smartphone award, Honor, Oppo, and Samsung get some love as well"
+    },
+    {
+      "id": "recvtmJ9SNDUHD",
+      "title": "人行横道：街头摄影新手的绝佳拍摄地",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/25/crosswalk-best-new-street-photographers-doing-street-photography/",
+      "publish_time": "2026-08-26T05:00:00+08:00",
+      "summary": "本文介绍利用人行横道提升街头摄影技巧，为新手提供绝佳拍摄地点建议，核心价值在于指导实践。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Crosswalk: The Best Place for New Street Photographers"
+    },
+    {
+      "id": "recvtmISDNkcRT",
+      "title": "三星更新Smart Switch：更易用，可复制更多数据",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsungs_updated_smart_switch_is_easier_to_use_and_copies_more_data-news-74326.php",
+      "publish_time": "2026-08-26T04:02:02+08:00",
+      "summary": "三星更新Smart Switch，简化换机流程，无需在iPhone安装应用，扫码即可，并能复制更多数据。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung's updated Smart Switch is easier to use and copies more data"
+    },
+    {
+      "id": "recvtmIUsLZH7g",
+      "title": "等待富士GFX180？看看现在的GFX能做什么",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/waiting-for-the-fujifilm-gfx180-heres-what-gfx-can-do-today/",
+      "publish_time": "2026-08-26T03:52:15+08:00",
+      "summary": "富士GFX摄影师期待GFX180释放GF镜头潜力，但需等待。文章探讨当前GFX系统能力，强调未来传感器潜力。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Waiting for the Fujifilm GFX180? Here’s What GFX Can Do Today"
+    },
+    {
+      "id": "recvtmJ3T6MwPT",
+      "title": "大疆“出色的首款360相机”才发布一年多，第二代已在酝酿中",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/360-cameras/djis-brilliant-first-360-camera-only-launched-a-little-over-a-year-ago-dji-is-already-teasing-the-second-generation",
+      "publish_time": "2026-08-26T03:35:22+08:00",
+      "summary": "大疆Osmo 360 II将于9月3日发布，官方预告暗示，尽管原版仅推出约一年。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DJI's \"brilliant first 360-camera\" only launched a little over a year ago. DJI is already teasing the second generation"
+    },
+    {
+      "id": "recvtmJ5QtF4Vg",
+      "title": "尼康在加拿大推出新镜头返现优惠",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/25/new-nikon-lens-rebates-launched-in-canada.aspx/",
+      "publish_time": "2026-08-26T03:27:55+08:00",
+      "summary": "尼康加拿大推出新镜头返现优惠，截止9月10日，详情见Camera Canada列表，首发于Nikon Rumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Nikon lens rebates launched in Canada"
+    },
     {
       "id": "recvtkZPPCSuxK",
       "title": "尼康影像空间被判死刑。这是下载照片的时间——以及尼康将用什么取代它",
@@ -7468,204 +7663,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Scientists Capture World-First Footage of Dolphins Using Seashells to Catch Fish"
-    },
-    {
-      "id": "recvscVlahZIjC",
-      "title": "索尼未来一两个月内没有计划发布新相机公告。",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-has-no-new-camera-announcements-planned-within-the-next-one-or-two-months/",
-      "publish_time": "2026-08-13T21:21:24+08:00",
-      "summary": "索尼未来一两个月内无新相机发布计划，此前注册的WW679475对应FX5，WW721795和WW308784对应RX10V。",
-      "recommendation": "常规资讯，可了解行业动态。但注册机型对应信息对关注索尼FX系列和RX系列的用户有参考价值，可提前规划购机预期。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony has no new camera announcements planned within the next one or two months."
-    },
-    {
-      "id": "recvsbyVYjl1LZ",
-      "title": "苏格兰皇家艺术学院举办二百周年庆典展览，庆祝苏格兰摄影史200年",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/200-years-of-scottish-photographic-history-celebrated-as-royal-scottish-academy-throws-bicentennial-birthday-bonanza-exhibition",
-      "publish_time": "2026-08-13T21:01:45+08:00",
-      "summary": "苏格兰皇家艺术学院举办二百周年庆典摄影展，展出18世纪至今约120位艺术家作品，庆祝苏格兰摄影史200年。",
-      "recommendation": "以120位艺术家作品梳理苏格兰摄影200年脉络，提供历史语境与美学演进视角，适合关注摄影史与艺术表达的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "200 years of Scottish photographic history celebrated, as Royal Scottish Academy throws bicentennial birthday bonanza exhibition"
-    },
-    {
-      "id": "recvsbzhacPLQK",
-      "title": "这款DIY红外闪光灯让街头摄影师在不被察觉的情况下拍摄",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/13/this-diy-infrared-flash-lets-street-photographers-shoot-without-being-noticed/",
-      "publish_time": "2026-08-13T21:00:00+08:00",
-      "summary": "Reddit胶片摄影师发明DIY红外闪光灯，利用红外光不惊动被摄对象，实现低调街头摄影，核心价值在于解决闪光灯干扰问题。",
-      "recommendation": "红外闪光灯DIY方案罕见，提供低成本改装思路与实战参数，对街头摄影爱好者有直接参考价值，可拓展低干扰拍摄技巧。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This DIY Infrared Flash Lets Street Photographers Shoot Without Being Noticed"
-    },
-    {
-      "id": "recvsbyFXsjEel",
-      "title": "AI正在扼杀中国微短剧",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/13/ai-is-killing-off-chinese-microdramas/",
-      "publish_time": "2026-08-13T20:58:02+08:00",
-      "summary": "中国微短剧为智能手机制作的短竖屏视频剧集，每集不超两分钟，情节俗套且以悬念收尾，故事横跨20至100集，AI正对其产生冲击。",
-      "recommendation": "解析AI对竖屏短剧制作流程的冲击，揭示计算摄影与生成式内容在手机端的博弈，为影像创作者提供行业转型参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "AI is Killing Off Chinese Microdramas"
-    },
-    {
-      "id": "recvsbyIHtV6kK",
-      "title": "五分之一的人将相机遗留在公共场所无人看管",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/13/one-in-five-people-leave-their-camera-unattended-in-public-gen-x/",
-      "publish_time": "2026-08-13T20:41:10+08:00",
-      "summary": "调查显示超五分之一的人会将手机或相机遗留在公共场所，其中45至60岁人群最易如此。",
-      "recommendation": "调查数据揭示设备遗落习惯与年龄关联，助影像爱好者反思携带与保管策略，属常规行业观察。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "One in Five People Leave Their Camera Unattended in Public"
-    },
-    {
-      "id": "recvsbyYBbO4wV",
-      "title": "紧凑型相机凭借“极致标准”斩获第三项行业大奖——独一无二，荣膺“最佳中的最佳”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/compact-camera-wins-third-major-industry-award-for-extreme-standard-its-one-of-a-kind-and-earns-best-of-the-best",
-      "publish_time": "2026-08-13T20:10:53+08:00",
-      "summary": "全球最高分辨率紧凑型相机凭借激进设计荣获红点最佳中的最佳奖，这是其第三项行业大奖，凸显独特价值。",
-      "recommendation": "解析紧凑型相机极致设计获红点最高奖的深层逻辑，含独家技术参数与行业对比，助你理解旗舰卡片机的差异化价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Compact camera wins third major industry award for \"extreme standard\" – it's one of a kind and earns 'Best of the Best'"
-    },
-    {
-      "id": "recvsbyLk7hj7J",
-      "title": "婚礼摄影师因伴娘钱包被盗被误捕，诉讼获关键裁决",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/13/wedding-photographer-falsely-arrested-over-maid-of-honors-stolen-wallet-wins-key-ruling-in-lawsuit/",
-      "publish_time": "2026-08-13T19:52:34+08:00",
-      "summary": "婚礼摄影师起诉警方误捕，称其被错指偷伴娘钱包，损害职业声誉，案件获关键裁决推进。",
-      "recommendation": "摄影师职业风险案例，揭示行业法律盲区，对自由职业者有参考价值，常规资讯可了解动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Wedding Photographer Falsely Arrested Over Maid of Honor’s Stolen Wallet Wins Key Ruling in Lawsuit"
-    },
-    {
-      "id": "recvsbzbxXOg8R",
-      "title": "荣耀Magic9 Pro将配备两颗200MP摄像头，新传闻称",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_magic9_pro_to_have_two_200mp_cameras_new_rumor_claims-news-74156.php",
-      "publish_time": "2026-08-13T19:51:02+08:00",
-      "summary": "荣耀Magic9 Pro据传将配备两颗200MP摄像头，其中潜望式长焦采用1/1.4英寸传感器，光圈f/2.6，支持OIS，预计9月发布。",
-      "recommendation": "双200MP主摄与潜望长焦组合罕见，1/1.4英寸传感器和f/2.6光圈数据具体，对关注旗舰影像硬件迭代的爱好者有参考价值。",
-      "categories": [
-        "传感器硬件",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Honor Magic9 Pro to have two 200MP cameras, new rumor claims"
-    },
-    {
-      "id": "recvsbyNN6hBqs",
-      "title": "竖屏视频让这位摄影师抓狂",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/13/vertical-video-is-driving-this-cameraman-insane/",
-      "publish_time": "2026-08-13T19:25:33+08:00",
-      "summary": "社交媒体对摄影师是双刃剑，提供展示平台但算法决定内容曝光，竖屏视频令摄影师困扰。",
-      "recommendation": "剖析竖屏视频对摄影构图的冲击，算法与美学的矛盾点值得深思，适合关注内容创作趋势的影像爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Vertical Video is Driving This Cameraman Insane"
-    },
-    {
-      "id": "recvsbz1315iSi",
-      "title": "“不合时宜的照片”：徕卡将俄罗斯摄影师从入围名单中移除的决定，迫使摄影界直面一些棘手问题",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/inconvenient-photographs-leicas-decision-to-pull-a-russian-from-its-awards-shortlist-is-forcing-the-photography-world-to-face-some-hard-questions",
-      "publish_time": "2026-08-13T19:23:25+08:00",
-      "summary": "徕卡因俄乌战争移除俄摄影师，引发摄影界对竞赛资格规则模糊的争议，迫使行业反思政治与艺术边界。",
-      "recommendation": "行业事件深度剖析，揭示竞赛规则模糊性与政治介入艺术边界的矛盾，对关注摄影伦理与行业动态者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "\"Inconvenient photographs\": Leica's decision to pull a Russian from its awards shortlist is forcing the photography world to face some hard questions"
-    },
-    {
-      "id": "recvsbz3DNOGg4",
-      "title": "“你保护的是价值数千美元的设备——更重要的是，你的视力。”日全食摄影师解释拍摄这一世界最伟大现象之一需要什么",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/youre-protecting-equipment-worth-thousands-of-dollars-and-more-importantly-your-eyesight-total-solar-eclipse-photographer-explains-what-it-takes-to-capture-one-of-the-worlds-greatest-phenomena",
-      "publish_time": "2026-08-13T19:04:04+08:00",
-      "summary": "尼康摄影师Angel Fux为8月12日日全食准备两年多，强调拍摄需保护设备和视力，并解释捕捉这一罕见现象所需条件。",
-      "recommendation": "尼康摄影师亲述日全食拍摄实战，涵盖设备防护与视力安全要点，对天文摄影爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“You’re protecting equipment worth thousands of dollars – and more importantly, your eyesight.” Total solar eclipse photographer explains what it takes to capture one of the world’s greatest phenomena"
-    },
-    {
-      "id": "recvsbz6cSE4AF",
-      "title": "Chris Burkard 将这几款相机包历经沙尘、风暴与颠簸考验——如今这些久经沙场的包款在美国起售价不到30美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/chris-burkard-put-these-camera-bags-through-sand-storms-and-jostling-and-now-these-battle-tested-bags-start-at-under-usd30-in-the-us",
-      "publish_time": "2026-08-13T18:58:26+08:00",
-      "summary": "摄影师Chris Burkard测试Pelican Aegis包系列，历经沙尘风暴颠簸，单肩包美国售价不到30美元。",
-      "recommendation": "实地测试Pelican Aegis包系列，含沙尘风暴颠簸场景及具体售价，为户外拍摄者提供耐用性参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Chris Burkard put these camera bags through sand, storms and jostling – and now these battle-tested bags start at under $30 in the US"
-    },
-    {
-      "id": "recvsbzec0RWvy",
-      "title": "谷歌将于此时在印度推出无屏幕Fitbit Air",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/this_is_when_google_is_launching_its_screenless_fitbit_air_in_india-news-74152.php",
-      "publish_time": "2026-08-13T18:52:02+08:00",
-      "summary": "谷歌将于10月在印度推出无屏幕健身追踪器Fitbit Air，该设备于5月发布，采用Whoop推广的流行形态，供货情况在部分市场不稳定。",
-      "recommendation": "常规资讯，可了解行业动态。Fitbit Air无屏幕设计虽非影像核心，但可关注其传感器与健康监测数据，对可穿戴影像生态有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This is when Google is launching its screen-less Fitbit Air in India"
     }
   ]
 }
