@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-26T21:54:57.943403+08:00",
+    "updated_at": "2026-08-27T04:48:08.241128+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 44
+      "count": 43
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,170 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 28
+      "count": 26
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 437
+      "count": 440
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 84
+      "count": 79
     }
   ],
   "articles": [
+    {
+      "id": "recvtrd2E5jEDj",
+      "title": "三星Galaxy S27 CAD渲染图泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_cadbased_renders_leak-news-74351.php",
+      "publish_time": "2026-08-27T03:01:02+08:00",
+      "summary": "三星Galaxy S27 CAD渲染图泄露，标准版与Ultra设计不同，前者沿用S26的椭圆形相机凸起设计。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 CAD-based renders leak"
+    },
+    {
+      "id": "recvtrd9A6FK6Z",
+      "title": "“真正的工程奇迹”，这款102MP复古紧凑型相机现已包揽全球三大设计奖项",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/a-genuine-marvel-of-engineering-this-102mp-retro-compact-camera-has-now-swept-all-three-of-the-worlds-biggest-design-awards",
+      "publish_time": "2026-08-27T03:00:00+08:00",
+      "summary": "富士胶片102MP中画幅紧凑型相机获IDEA 2026铜奖，包揽全球三大设计奖项，被誉为真正的工程奇迹。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "“A genuine marvel of engineering,” this 102MP retro compact camera has now swept all three of the world’s biggest design awards"
+    },
+    {
+      "id": "recvtrdbqoLfGO",
+      "title": "这家公司80年前创造了最广泛使用的云台设计之一，如今宣布关闭",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/tripods/this-company-created-one-of-the-most-widely-used-tripod-head-designs-80-years-ago-now-the-company-is-shutting-down",
+      "publish_time": "2026-08-27T02:18:47+08:00",
+      "summary": "由流体三脚架云台发明者创立的澳大利亚公司Miller Camera Support Equipment，因创始人退休而关闭，其80年前的设计曾广泛使用。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This company created one of the most widely used tripod head designs 80 years ago. Now, the company is shutting down"
+    },
+    {
+      "id": "recvtrdg2yqFg7",
+      "title": "7artisans 发布适用于尼康 Z 卡口的全新 AF 10mm f/2.5 MAX 全画幅鱼眼镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/26/new-7artisans-af-10mm-f-2-5-max-full-frame-fisheye-lens-for-nikon-z-mount-released.aspx/",
+      "publish_time": "2026-08-27T01:28:17+08:00",
+      "summary": "7artisans发布尼康Z卡口AF 10mm f/2.5 MAX全画幅鱼眼镜头，现已开售，可用代码RUMORS享折扣，B&H后续上架。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New 7artisans AF 10mm f/2.5 MAX full-frame fisheye lens for Nikon Z-mount released"
+    },
+    {
+      "id": "recvtrcWD2AYQ2",
+      "title": "真正独立后，OM System 希望更具竞争力",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/26/now-truly-independent-om-system-wants-to-be-more-competitive/",
+      "publish_time": "2026-08-27T01:02:43+08:00",
+      "summary": "奥林巴斯影像业务独立后，管理层从JIP手中购回控股权，旨在提升竞争力。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Now Truly Independent, OM System Wants to Be More Competitive"
+    },
+    {
+      "id": "recvtrdi2KiQqx",
+      "title": "关于新款宝丽来宝可梦版相机的一切须知",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/26/everything-to-know-about-the-new-polaroid-pokemon-edition-cameras/",
+      "publish_time": "2026-08-27T01:00:00+08:00",
+      "summary": "宝丽来与宝可梦合作推出新款即时相机，今日起预订。此营销策略旨在吸引庞大但小众的用户群，扩大品牌影响力。文章介绍了该相机的核心特点与期待内容。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Everything to Know About the New Polaroid Pokémon Edition Cameras"
+    },
+    {
+      "id": "recvtrddFj5FuV",
+      "title": "尼康首款紧凑型电影摄影机荣获EISA大奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/nikons-first-compact-cinema-camera-takes-gold-at-eisa-awards",
+      "publish_time": "2026-08-27T00:51:51+08:00",
+      "summary": "尼康首款紧凑型电影摄影机ZR获EISA 2026-2027年度摄影/视频相机大奖，功能众多，被赞独一无二。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon’s first compact cinema camera takes gold at EISA Awards"
+    },
+    {
+      "id": "recvtrcYNjaorv",
+      "title": "伊士曼柯达为其更名后的胶片在英国找到经销商",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/26/eastman-kodak-gets-a-uk-distributor-for-its-rebranded-films/",
+      "publish_time": "2026-08-27T00:15:32+08:00",
+      "summary": "伊士曼柯达电影发行复苏，与英国Dupli签约，后者成为其电影在英国的官方经销商。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Eastman Kodak Gets a UK Distributor for its Rebranded Films"
+    },
+    {
+      "id": "recvtrd0uknhzj",
+      "title": "Meta与29州就儿童伤害诉讼达成近170亿美元和解",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/26/meta-settles-child-harm-lawsuit-with-29-states-for-nearly-17-billion/",
+      "publish_time": "2026-08-26T23:46:52+08:00",
+      "summary": "Meta就29州儿童伤害诉讼达成近170亿美元和解，指控其平台致儿童上瘾并造成伤害。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meta Settles Child Harm Lawsuit With 29 States for Nearly $17 Billion"
+    },
+    {
+      "id": "recvtrd7iLP0Do",
+      "title": "富士X-T6原定9月4日发布——那么XF400mmF4.5和XF50-140mm MKII会怎样？",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-was-set-for-september-4-so-what-happens-to-the-xf400mmf4-5-and-xf50-140mm-mkii/",
+      "publish_time": "2026-08-26T22:29:21+08:00",
+      "summary": "富士X-T6原定9月4日发布，但延期。文章探讨其延期对XF400mmF4.5和XF50-140mm MKII镜头发布的影响。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm X-T6 Was Set for September 4 — So What Happens to the XF400mmF4.5 and XF50-140mm MKII?"
+    },
     {
       "id": "recvtpwxldqMUK",
       "title": "GoPro Mission 1 Pro ILS评测：有点令人费解",
@@ -761,6 +911,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "RIP Jay Maisel: the New York photographer who shot one of history's most iconic album covers, made masterful use of light and color, and loved to pass on his knowledge to others"
+    },
+    {
+      "id": "recvtrd4Ssmw6g",
+      "title": "谷歌Pixel 11 Pro XL相机测试视频增强",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/google-pixel-11-pro-xl-camera-test-video-boost/",
+      "publish_time": "2026-08-25T23:43:02+08:00",
+      "summary": "谷歌Pixel 11 Pro XL经DXOMARK严格测试，评估照片、视频和变焦质量，突出其性能表现，为消费者提供客观参考。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro XL Camera Test Video Boost"
     },
     {
       "id": "recvtkZGE9av0R",
@@ -7477,176 +7642,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Wait… Nikon’s rumored 'ZR-style' stills camera could have a viewfinder after all?"
-    },
-    {
-      "id": "recvshoaZEeagV",
-      "title": "AI编辑平台称，四分之三的摄影师不信任AI编辑",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/three-quarters-of-photographers-dont-trust-an-ai-edit-says-ai-editing-platform",
-      "publish_time": "2026-08-14T19:58:28+08:00",
-      "summary": "调查显示，四分之三摄影师不信任AI编辑，因AI图像常显不自然，多数人偏好真实而非完美。",
-      "recommendation": "调查揭示摄影师对AI编辑的普遍不信任，数据直观，助你理解行业审美分歧，权衡真实与算法修饰的取舍。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Three quarters of photographers don’t trust an AI edit, says AI-editing platform"
-    },
-    {
-      "id": "recvshodoCxqxH",
-      "title": "性价比最高的无反相机刚刚降价了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/the-best-value-mirrorless-cameras-have-just-dropped-in-price",
-      "publish_time": "2026-08-14T19:54:57+08:00",
-      "summary": "无反相机降价，含变焦镜头仅548英镑，性价比最高，适合入门或换系统。",
-      "recommendation": "无反相机含镜头降至548英镑，为入门或换系统用户提供明确价格参考，数据具体，可助决策。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The best-value mirrorless cameras have just dropped in price"
-    },
-    {
-      "id": "recvshog6CLt5n",
-      "title": "截至目前，2026年日本最畅销相机竟是三年前的APS-C无反，还带些不寻常的拍摄模式",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/so-far-japans-1-best-selling-camera-in-2026-is-a-3-year-old-aps-c-mirrorless-with-some-unusual-shooting-modes",
-      "publish_time": "2026-08-14T19:20:54+08:00",
-      "summary": "日本2026年相机销售榜意外显示，三年前APS-C无反居首，新型全画幅仅第八，凸显市场对实用机型偏好。",
-      "recommendation": "日本销量榜揭示市场对实用机型的偏好，三年前APS-C反超新全画幅，数据视角独特，助你洞察消费趋势与产品生命周期。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "So far, Japan's #1 best-selling camera in 2026 is a 3-year-old APS-C mirrorless with some unusual shooting modes"
-    },
-    {
-      "id": "recvshoj6NxtjS",
-      "title": "这些入门级预算相机刚刚降价——\"我向所有摄影新手推荐这款相机\"",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/these-budget-beginner-cameras-just-got-cheaper-i-recommend-this-camera-to-anyone-starting-their-photography-journey",
-      "publish_time": "2026-08-14T19:16:33+08:00",
-      "summary": "入门级预算相机降价，推荐适合新手的无反相机，以更低成本开启摄影之旅，保留核心参数与数据。",
-      "recommendation": "入门相机降价资讯，含具体机型与参数，适合新手选购参考，但缺乏独家数据与深度分析，常规资讯可了解市场动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These budget beginner cameras just got cheaper – \"I recommend this camera to anyone starting their photography journey\""
-    },
-    {
-      "id": "recvshombCswWH",
-      "title": "“Mission 1在阵容中有一席之地，Hero类产品也有一席之地”——Mission 1 Pro是迄今为止最好的GoPro，但就连GoPro也承认Hero13在该类别中仍是王者",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/theres-a-spot-for-mission-1-in-the-lineup-and-theres-a-spot-for-hero-like-products-the-mission-1-pro-is-the-finest-gopro-yet-but-even-gopro-says-the-hero13-is-still-king-for-this-category",
-      "publish_time": "2026-08-14T18:55:51+08:00",
-      "summary": "GoPro推出Mission 1 Pro，虽为迄今最佳，但官方承认Hero13仍是王者，两者各有定位。",
-      "recommendation": "GoPro官方罕见承认Hero13仍是王者，Mission 1 Pro定位互补。文章提供双机型对比视角，助你厘清运动相机选购逻辑。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“There's a spot for Mission 1 in the lineup, and there's a spot for Hero-like products” –The Mission 1 Pro is the finest GoPro yet, but even GoPro says the Hero13 is still king for this category"
-    },
-    {
-      "id": "recvshopczOGyT",
-      "title": "相机陷阱再次在保护大型猫科动物中发挥关键作用，这次历史性的珍稀动物目击事件",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/trail-cameras/camera-traps-once-again-play-pivotal-role-in-the-fight-to-protect-big-cats-with-this-historic-rare-animal-sighting",
-      "publish_time": "2026-08-14T18:50:33+08:00",
-      "summary": "相机陷阱再次在保护大型猫科动物中发挥关键作用，这次历史性的珍稀动物目击事件，欧亚猞猁第二次在喜马拉雅东部地区被拍到。",
-      "recommendation": "相机陷阱技术应用实例，展示野外监测设备在珍稀动物记录中的实战价值，含猞猁目击数据，对生态影像爱好者有参考意义。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Camera traps once again play pivotal role in the fight to protect big cats, with this historic rare animal sighting"
-    },
-    {
-      "id": "recvshosaLXhBj",
-      "title": "地出：阿波罗8号宇航员如何无意中给地球上每位摄影师上了最重要的一堂准备课",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/earthrise-how-the-apollo-8-astronauts-inadvertently-gave-every-photographer-on-the-planet-the-most-important-lesson-in-preparation-ever",
-      "publish_time": "2026-08-14T18:40:52+08:00",
-      "summary": "阿波罗8号宇航员因缺乏规划而抢拍地出照片，成为摄影史上重要一课，强调准备与机遇并存。",
-      "recommendation": "从阿波罗8号抢拍地出事件切入，剖析准备与机遇的辩证关系，对摄影爱好者的临场决策有实操启发，历史细节独特。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Earthrise: How the Apollo 8 astronauts inadvertently gave every photographer on the planet the most important lesson in preparation ever"
-    },
-    {
-      "id": "recvshnY3IWhbm",
-      "title": "科技大佬抓取反AI照片应用Cara数据，随后沾沾自喜",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/14/tech-bro-scrapes-anti-ai-photo-app-cara-then-gloats-about-it/",
-      "publish_time": "2026-08-14T18:39:20+08:00",
-      "summary": "科技大佬抓取反AI照片应用Cara数据，该应用旨在保护摄影师作品免受AI抓取，但所有内容已被恶意抓取。",
-      "recommendation": "反AI抓取平台反被恶意抓取，揭示数据保护困境，对关注AI与摄影版权冲突的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Tech Bro Scrapes Anti-AI Photo App Cara, Then Gloats About It"
-    },
-    {
-      "id": "recvshoGyPzGJG",
-      "title": "这个方法帮助街头摄影师对抗脑腐",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/14/useful-photography-tip-68-using-a-manual-focus-lens-for-street-photography-copy/",
-      "publish_time": "2026-08-14T18:00:00+08:00",
-      "summary": "街头摄影师对抗脑腐的方法：手动设置相机，如晴天ISO 1600、F8、对焦六英尺、白平衡日光、快门1/1000，专注理解场景。",
-      "recommendation": "手动预设参数可提升街头抓拍效率，文中具体参数组合与对焦策略具实操性，为厌倦自动模式的摄影者提供对抗创作麻木的新思路。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Method Helps Street Photographers With Brain Rot"
-    },
-    {
-      "id": "recvshnSSrnX9t",
-      "title": "7artisans预告推出新款18mm f/2.0 APS-C E卡口饼干镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/7artisans-teases-the-launch-of-a-new-18mm-f-2-0-aps-c-e-mount-pancake-lens/",
-      "publish_time": "2026-08-14T17:52:00+08:00",
-      "summary": "7artisans预告推出18mm f/2.0 APS-C E卡口饼干镜头，重108克，金属机身，等效27mm，适配索尼E、尼康Z、富士X卡口。",
-      "recommendation": "轻量化饼干头参数齐全，108克金属机身适合街拍，但缺乏实拍样张与光学表现数据，常规资讯可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "7artisans teases the launch of a new 18mm f/2.0 APS-C E-mount pancake lens"
-    },
-    {
-      "id": "recvsho0r1WppO",
-      "title": "听这只鸟完美模仿拍立得相机的声音",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/14/listen-to-this-bird-perfectly-imitate-a-polaroid-camera/",
-      "publish_time": "2026-08-14T17:46:09+08:00",
-      "summary": "游客在阿德莱德动物园听到拍立得相机声，发现是鸟在模仿，令人惊奇。",
-      "recommendation": "拍立得相机声效被鸟类模仿，揭示声音在影像文化中的独特印记。常规趣味资讯，可了解相机文化传播的意外维度。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Listen to This Bird Perfectly Imitate a Polaroid Camera"
     }
   ]
 }
