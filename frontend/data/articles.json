@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-26T10:23:23.032774+08:00",
+    "updated_at": "2026-08-26T15:40:14.784682+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -28,20 +28,50 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 34
+      "count": 33
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 431
+      "count": 432
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 93
+      "count": 92
     }
   ],
   "articles": [
+    {
+      "id": "recvto0RMhh2Hj",
+      "title": "谷歌Pixel 11 Pro XL拆解视频测试抗弯性能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/see_if_the_google_pixel_11_pro_xl_bends_in_this_teardown_video-news-74336.php",
+      "publish_time": "2026-08-26T14:51:02+08:00",
+      "summary": "谷歌Pixel 11 Pro XL拆解视频测试抗弯性能，展示刮擦、明火和弯曲测试，并拆解手机供观赏。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Google Pixel 11 Pro XL bending resistance tested in teardown video"
+    },
+    {
+      "id": "recvto0TYemWiQ",
+      "title": "vivo V80 Lite 5G首发搭载天玑7360芯片，配备7050mAh电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_v80_lite_5g_launches_with_dimensity_7360_chipset_7050_mah_battery-news-74337.php",
+      "publish_time": "2026-08-26T13:48:02+08:00",
+      "summary": "vivo在巴基斯坦推出V80 Lite 5G，配备6.83英寸曲面POLED屏、天玑7360-Turbo芯片、7050mAh电池，后置5000万像素主摄，与印度版设计不同。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo V80 Lite 5G debuts with Dimensity 7360 chipset, 7,050 mAh battery"
+    },
     {
       "id": "recvtmIKur9TdK",
       "title": "三星为Galaxy S26系列推送One UI 9 Beta 6更新",
@@ -221,6 +251,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "DJI's \"brilliant first 360-camera\" only launched a little over a year ago. DJI is already teasing the second generation"
+    },
+    {
+      "id": "recvto0VQA3p5b",
+      "title": "大疆“出色的首款360相机”发布仅一年多，第二代已在酝酿中",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/360-cameras/djis-brilliant-first-360-camera-only-launched-a-little-over-a-year-ago-dji-is-already-teasing-the-second-generation",
+      "publish_time": "2026-08-26T03:35:22+08:00",
+      "summary": "大疆Osmo 360 II将于9月3日发布，距首款360相机仅一年多，官方预告暗示新品即将推出。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DJI's \"brilliant first 360 camera\" only launched a little over a year ago. DJI is already teasing the second generation"
     },
     {
       "id": "recvtmJ5QtF4Vg",
@@ -7617,52 +7662,6 @@
       "quality_score": 8,
       "language": "English",
       "original_title": "Shot from nearly a mile away with two stacked 600mm lenses, the photographer had just 84 seconds to nail this eclipse shot after nine months of planning"
-    },
-    {
-      "id": "recvscVAY5MH5c",
-      "title": "DIY徕卡维修比以往更便宜，但值得冒相机风险吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/rangefinder-cameras/diy-leica-servicing-is-cheaper-than-ever-but-is-it-worth-the-risk-to-your-camera",
-      "publish_time": "2026-08-13T22:48:54+08:00",
-      "summary": "DIY徕卡维修套件虽便宜，但风险高，需权衡成本与相机损坏风险。",
-      "recommendation": "拆解DIY徕卡维修套件的成本与风险，提供权衡思路，对动手派玩家有实操参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "DIY Leica servicing is cheaper than ever, but is it worth the risk to your camera?"
-    },
-    {
-      "id": "recvsbyAmziVC6",
-      "title": "意大利苹果广告：幼儿使用iPhone引发争议",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/13/italian-apple-ad-featuring-a-toddler-with-an-iphone-sparks-controversy/",
-      "publish_time": "2026-08-13T21:52:11+08:00",
-      "summary": "苹果意大利广告展示幼儿使用iPhone，引发旁观者愤怒并被提交监管机构审查。",
-      "recommendation": "常规资讯，可了解行业动态。从影像消费伦理角度切入，引发对儿童使用拍摄设备的思考，但缺乏独家数据与深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Italian Apple Ad Featuring a Toddler With an iPhone Sparks Controversy"
-    },
-    {
-      "id": "recvsbyDfRbQ0i",
-      "title": "科学家首次拍到海豚用贝壳捕鱼的世界级影像",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/13/scientists-capture-world-first-footage-of-dolphins-using-seashells-to-catch-fish/",
-      "publish_time": "2026-08-13T21:35:17+08:00",
-      "summary": "科学家首次拍到海豚用贝壳捕鱼影像，证明幼豚或从母豚学习此技巧。",
-      "recommendation": "野生动物行为影像的拍摄技巧与设备选择参考，揭示长焦镜头在生态记录中的关键作用，含幼豚学习行为的独家观察数据。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Scientists Capture World-First Footage of Dolphins Using Seashells to Catch Fish"
     }
   ]
 }
