@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-28T06:40:36.795046+08:00",
+    "updated_at": "2026-08-28T19:53:11.718463+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 34
+      "count": 33
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,225 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 457
+      "count": 464
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 59
+      "count": 50
     }
   ],
   "articles": [
+    {
+      "id": "recvtAJxoWwBKH",
+      "title": "彼得·马洛宁静的大教堂照片背后，是数月与教堂司事的通话、潦草的曝光笔记，以及仪表盘上的一叠晾干的宝丽来照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/behind-peter-marlows-serene-cathedral-photographs-lay-months-of-calls-to-vergers-scrawled-exposure-notes-and-a-stack-of-drying-polaroids-on-the-dashboard",
+      "publish_time": "2026-08-28T19:30:51+08:00",
+      "summary": "伦敦南华克大教堂展览揭示彼得·马洛巨幅教堂照片背后的规划工作，包括数月通话、曝光笔记和宝丽来照片，体现其核心价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Behind Peter Marlow's serene cathedral photographs lay months of calls to vergers, scrawled exposure notes & a stack of drying Polaroids on the dashboard"
+    },
+    {
+      "id": "recvtAJfX8nHCQ",
+      "title": "英国发布“误导性”指南，暗示摄影师在公共场合拍照可能被逮捕",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/28/uk-publishes-misleading-guidance-suggesting-photographers-could-be-arrested-for-taking-pictures-in-public/",
+      "publish_time": "2026-08-28T18:39:22+08:00",
+      "summary": "英国政府发布误导性指南，暗示公共场合拍照可能被逮捕，引发争议。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "UK Publishes ‘Misleading’ Guidance Suggesting Photographers Could Be Arrested for Taking Pictures in Public"
+    },
+    {
+      "id": "recvtAJi98NopZ",
+      "title": "小熊轻咬摄影师靴子",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/28/baby-bear-nibbles-on-photographers-boot/",
+      "publish_time": "2026-08-28T18:27:28+08:00",
+      "summary": "一只小熊因好奇轻咬摄影师靴子，摄影师未受伤，事件被记录并分享。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Baby Bear Nibbles on Photographer’s Boot"
+    },
+    {
+      "id": "recvtAJzhgHMW2",
+      "title": "“世界上最差的摄影师”刚刚发布了她的照片供我们观赏——让我们来分析一下这些冰岛照片为何糟糕，以及如何改进它们",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/the-worlds-worst-photographer-just-released-her-images-for-us-all-to-see-lets-break-down-why-these-photos-of-iceland-suck-and-how-they-could-be-improved",
+      "publish_time": "2026-08-28T18:16:05+08:00",
+      "summary": "冰岛航空招募“最差摄影师”，法国女子布兰奇·莫特马尔应征，其糟糕冰岛照片将展出，文章点评照片并给出改进建议。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The \"World’s Worst Photographer\" just released her images for us all to see – let’s break down why these photos of Iceland suck and how they could be improved"
+    },
+    {
+      "id": "recvtAJk1xYGUS",
+      "title": "研究人员在废弃房屋中放置红外相机，捕捉到猛禽之间的罕见互动",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/28/researchers-leave-trail-camera-in-abandoned-house-capture-rare-interactions-between-birds-of-prey/",
+      "publish_time": "2026-08-28T17:50:41+08:00",
+      "summary": "研究人员在废弃房屋放置红外相机，首次记录到不同猛禽物种间的罕见互动，为理解其行为生态提供新数据。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Researchers Leave Trail Camera in Abandoned House, Capture Rare Interactions Between Birds of Prey"
+    },
+    {
+      "id": "recvtAJm4IbbR4",
+      "title": "摄影师的作品如何卷入美加贸易战",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/28/how-photographers-images-are-getting-caught-up-in-the-trade-war-between-the-us-and-canada/",
+      "publish_time": "2026-08-28T17:13:57+08:00",
+      "summary": "摄影师作品卷入美加贸易战，秃鹰踩鹅照片成白宫首选，揭示美加关系冷淡，文章探讨照片来源与作者。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How Photographers’ Images Are Getting Caught Up in the Trade War Between the US and Canada"
+    },
+    {
+      "id": "recvtAJB0igZla",
+      "title": "相机陷阱捕捉到山猫与响尾蛇的史诗对决",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/trail-cameras/camera-trap-captures-epic-battle-between-bobcat-and-rattlesnake",
+      "publish_time": "2026-08-28T17:10:00+08:00",
+      "summary": "相机陷阱捕捉到山猫与响尾蛇的史诗对决，为科学调查拍摄的图像描绘了大型猫科动物与粗壮蛇类的激烈交锋。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Camera trap captures epic battle between bobcat and rattlesnake"
+    },
+    {
+      "id": "recvtAJtLPgXES",
+      "title": "新加坡人实际在买的5款胶片相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/28/5-film-cameras-everyone-is-actually-buying-in-singapore/",
+      "publish_time": "2026-08-28T17:00:00+08:00",
+      "summary": "胶片相机在新加坡受年轻人青睐，本文介绍当地热门的5款机型，含技术参数，助你选购。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "5 Film Cameras Everyone Is Actually Buying in Singapore"
+    },
+    {
+      "id": "recvtAJnSFaNhc",
+      "title": "vivo X500 Pro Max 屏幕细节曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x500_pro_max_display_details_revealed-news-74381.php",
+      "publish_time": "2026-08-28T16:22:02+08:00",
+      "summary": "vivo X500 Pro Max将采用全球首款BOE Q11面板，配备6.85英寸2K AMOLED屏，滚动时运动模糊减少93%，色彩表现提升。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo X500 Pro Max display details revealed"
+    },
+    {
+      "id": "recvtAJpUF5hwG",
+      "title": "Lava Agni 4N英国开售日期揭晓",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_agni_4n_uk_sale_date-news-74382.php",
+      "publish_time": "2026-08-28T15:21:01+08:00",
+      "summary": "印度Lava Agni 4N将于9月4日在英国亚马逊开售，采用金属机身和大猩猩玻璃5显示屏，价格未公布。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lava Agni 4N's UK sale date revealed"
+    },
+    {
+      "id": "recvtAJCQveSGN",
+      "title": "“摄影师的福音”，这款复古紧凑型无反相机刚刚斩获重大科技奖项——但富士胶片也凭借一款平价相机获奖",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/a-photographers-delight-this-retro-compact-mirrorless-just-won-a-major-tech-award-but-fujifilm-also-took-the-award-for-a-budget-camera-too",
+      "publish_time": "2026-08-28T15:00:00+08:00",
+      "summary": "富士X-E5和X-T30 III获EISA奖项，复古紧凑设计，价格差异大，均提供高性价比。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A “photographer’s delight,” this retro compact mirrorless just won a major tech award – but Fujifilm also took the award for a budget camera too"
+    },
+    {
+      "id": "recvtAJEPN0lSh",
+      "title": "尼康仅一款机型入围日本7月相机畅销榜——但这并不意味着索尼和佳能更胜一筹",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/only-one-nikon-model-made-japans-july-camera-bestseller-list-but-heres-why-that-doesnt-mean-sony-and-canon-are-better",
+      "publish_time": "2026-08-28T14:15:00+08:00",
+      "summary": "尼康仅一款机型入围日本7月畅销榜，但因其商业模式不同，不能简单认为其质量逊于索尼佳能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Only one Nikon model made Japan’s July camera bestseller list – but here’s why that DOESN’T mean Sony and Canon are better"
+    },
+    {
+      "id": "recvtAJrWrgQez",
+      "title": "三星Galaxy S27 Pro渲染图泄露，新设计亮相",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_renders_leak-news-74379.php",
+      "publish_time": "2026-08-28T13:17:02+08:00",
+      "summary": "三星Galaxy S27 Pro渲染图泄露，新设计亮相，继承S27 Ultra相机岛设计，受苹果iPhone 17 Pro启发，无S Pen，为S27 Ultra较小版本。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 Pro renders leak, new design is in"
+    },
+    {
+      "id": "recvtAJvF1V6df",
+      "title": "秋季鸟类摄影必知的6件事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/27/6-things-every-bird-photographer-should-know-this-fall/",
+      "publish_time": "2026-08-28T09:00:00+08:00",
+      "summary": "秋季鸟类摄影需知六件事，因全球变暖可见罕见鸟类，AI场景检测功能提升摄影体验，是亲近自然的好方法。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "6 Things Every Bird Photographer Should Know This Fall"
+    },
     {
       "id": "recvtxvWQyfX5H",
       "title": "尼康Z卡口新镜头腾龙12-20mm f/2.8现已到货",
@@ -7411,219 +7621,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "How Photographers Can Turn ‘Bad’ Weather Into Better Landscape Images"
-    },
-    {
-      "id": "recvsujf4aikkF",
-      "title": "每周投票：你会购买哪款谷歌 Pixel 11 机型？",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/weekly_poll_which_google_pixel_11_model_would_you_buy-news-74157.php",
-      "publish_time": "2026-08-17T00:03:02+08:00",
-      "summary": "谷歌发布Pixel 11系列，预购已开启，8月20日上市。取消128GB版本，Pro和Pro XL的256GB型号配备12GB RAM而非16GB，价格对比复杂化。",
-      "recommendation": "Pixel 11系列存储与RAM配置调整影响影像工作流，256GB+12GB组合对高像素拍摄存储需求有参考价值，适合关注谷歌计算摄影的用户。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Weekly poll: which Google Pixel 11 model would you buy?"
-    },
-    {
-      "id": "recvsujqUE8Dp0",
-      "title": "旅行摄影师会爱上这4款相机",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/16/travel-photographers-will-adore-these-4-cameras/",
-      "publish_time": "2026-08-17T00:00:00+08:00",
-      "summary": "旅行摄影流行，疫情后摄影师重拾行囊。本文推荐4款适合旅行摄影的相机型号，强调其便携性与性能，为摄影爱好者提供选购参考。",
-      "recommendation": "针对旅行场景筛选四款便携机型，结合性能与实拍体验对比，为选购提供具体参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Travel Photographers Will Adore These 4 Cameras"
-    },
-    {
-      "id": "recvsujokIv5O8",
-      "title": "2025年最上镜的10种犬类——我不敢相信斗牛犬竟被这些家伙挤掉了！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/pet-photography/these-are-the-10-most-photographed-dog-breeds-of-2025-i-cant-believe-bulldogs-got-muscled-out-by-these-guys",
-      "publish_time": "2026-08-16T23:20:00+08:00",
-      "summary": "新研究列出2025年最上镜的10种犬类，斗牛犬意外落榜，强调宠物拍摄趋势变化。",
-      "recommendation": "从宠物摄影美学切入，解析犬类上镜趋势变化，为宠物影像创作提供选材参考与数据支撑。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These are the 10 most photographed dog breeds of 2025 –I can't believe bulldogs got muscled out by these guys!"
-    },
-    {
-      "id": "recvsujhM16b57",
-      "title": "富士胶片价格即将上涨——9月1日前值得购买的5款相机",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-prices-are-going-up-5-cameras-to-buy-before-september-1/",
-      "publish_time": "2026-08-16T23:12:26+08:00",
-      "summary": "富士胶片相机因内存组件成本飙升将于9月1日提价，影响全球市场，文章推荐5款相机供购买。",
-      "recommendation": "富士胶片因内存成本上调相机价格，本文梳理9月1日前值得入手的5款机型，含具体型号与购买时机建议，对近期有购机计划的影像爱好者具实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "FUJIFILM PRICES ARE GOING UP — 5 Cameras to Buy Before September 1"
-    },
-    {
-      "id": "recvsujcb1cL85",
-      "title": "2026欧洲摄影奖获奖作品：看世界的多种方式",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/16/2026-european-photography-awards-winners-offer-many-ways-of-seeing-the-world/",
-      "publish_time": "2026-08-16T23:00:48+08:00",
-      "summary": "2026欧洲摄影奖获奖作品通过独特视角和瞬间捕捉，展现世界多样面貌，邀请观众重新审视熟悉场景，体验视觉新意。",
-      "recommendation": "获奖作品解析构图与瞬间捕捉技巧，助你提升观察力；附评委视角与拍摄参数，适合摄影进阶者参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "2026 European Photography Awards Winners Offer Many Ways of Seeing the World"
-    },
-    {
-      "id": "recvssTXCG809x",
-      "title": "照片揭示伊朗女性如何以舞蹈作为抗争手段",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/16/photographs-reveal-how-iranian-women-have-used-dance-as-resistance/",
-      "publish_time": "2026-08-16T21:00:49+08:00",
-      "summary": "伊朗摄影师通过照片展示女性如何以舞蹈作为社会政治抗争手段，揭示舞蹈在伊朗历史中的抵抗作用。",
-      "recommendation": "以舞蹈为切入视角，解析伊朗女性影像中的社会抗争符号，提供历史脉络与拍摄手法参考，对纪实摄影爱好者有独特启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographs Reveal How Iranian Women Have Used Dance as Resistance"
-    },
-    {
-      "id": "recvssU8DUnaZm",
-      "title": "照片何时从现实转向虚构？一位传奇街头摄影师的观点",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/when-does-a-photo-move-from-reality-to-fiction-a-legendary-street-photographer-weighs-in/",
-      "publish_time": "2026-08-16T21:00:00+08:00",
-      "summary": "街头摄影师理查德·布拉姆在播客中探讨照片从现实转向虚构的瞬间，强调偶然与意图的哲学，核心在于捕捉场景转化为共鸣之物的特定时刻。",
-      "recommendation": "从街头摄影师的哲学视角剖析纪实与虚构的边界，提供创作方法论与审美启发，适合追求影像深度的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "When does a photo move from reality to fiction? A legendary street photographer weighs in"
-    },
-    {
-      "id": "recvssU3og0VSb",
-      "title": "BCNranking 7月畅销数据：索尼 ZV-E10II 成日本最畅销相机",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/bcnranking-bestseller-data-for-july-sony-zv-e10ii-is-the-best-selling-camera-in-japan/",
-      "publish_time": "2026-08-16T20:32:06+08:00",
-      "summary": "BCNranking7月数据显示，索尼ZV-E10II双变焦镜头套机黑色成为日本最畅销相机，佳能EOS R10和R50系列紧随其后。",
-      "recommendation": "BCNranking独家数据揭示日本市场真实销量，ZV-E10II登顶对Vlog用户有选机参考价值，佳能R10/R50紧随其后反映入门机竞争格局。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "BCNranking bestseller data for July: Sony ZV-E10II is the best selling camera in Japan"
-    },
-    {
-      "id": "recvssUbQeSd8N",
-      "title": "这款无取景器相机传授的课程是其他无反相机无法比拟的。如今，它凭借对暗箱起源的当代诠释赢得了著名奖项。",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-viewfinder-free-camera-teaches-lessons-no-other-mirrorless-really-can-now-it-has-won-a-prestigious-award-for-its-contemporary-interpretation-of-what-began-with-the-camera-obscura",
-      "publish_time": "2026-08-16T20:15:00+08:00",
-      "summary": "这款极简无反相机凭借对暗箱起源的当代诠释，荣获红点设计奖最佳中的最佳，其激进理念在无取景器设计中独树一帜。",
-      "recommendation": "解析无取景器相机的设计哲学与暗箱渊源，独家呈现红点奖背后理念，为摄影爱好者提供器材美学新视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This viewfinder-free camera teaches lessons no other mirrorless really can. Now it has won a prestigious award for its \"contemporary interpretation of what began with the camera obscura\""
-    },
-    {
-      "id": "recvssU0qeCfJZ",
-      "title": "年度海洋摄影师大赛13张令人瞠目结舌的照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/16/13-jaw-dropping-photos-from-ocean-photographer-of-the-year/",
-      "publish_time": "2026-08-16T20:04:04+08:00",
-      "summary": "2026年度海洋摄影师大赛公布决赛入围名单，旨在表彰海洋的奇妙、脆弱及保护紧迫性。",
-      "recommendation": "13张决赛作品揭示水下摄影构图与光线运用技巧，附拍摄参数解析，对海洋题材创作有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "13 Jaw-Dropping Photos From Ocean Photographer of the Year"
-    },
-    {
-      "id": "recvssUhqvw6YD",
-      "title": "让肖像和风景更出色的白平衡设置",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/16/how-daylight-white-balance-can-make-you-a-better-photographer-copy/",
-      "publish_time": "2026-08-16T18:00:00+08:00",
-      "summary": "本文介绍白平衡设置技巧，强调理解光线与白平衡可让任何场景拍摄可行，无需仅依赖黄金时刻，现代相机性能出色。",
-      "recommendation": "白平衡常被忽视，此文从光线本质切入，提供实用设置技巧，助你摆脱黄金时刻依赖，提升全天候拍摄成片率。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The White Balance Setting that Makes Portrait and Landscapes Better"
-    },
-    {
-      "id": "recvssU64GoyOU",
-      "title": "促销：Google Pixel 11系列现已开启预购，附赠礼品卡和以旧换新优惠",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_the_google_pixel_11_series_is_now_on_preorder_with_gift_cards_and_tradein_bonuses-news-74174.php",
-      "publish_time": "2026-08-16T17:51:02+08:00",
-      "summary": "谷歌发布Pixel 11系列，含标准版、两款Pro版和折叠屏，标配256GB存储，Pro版起步12GB内存，16GB需选512GB以上版本。",
-      "recommendation": "Pixel 11系列存储与内存配置细节明确，助影像用户按需选配，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses"
-    },
-    {
-      "id": "recvssUeMuvEin",
-      "title": "胶片摄影师至今仍痴迷于Plaubel Makina 67——事实上，这款中画幅相机如今的价值远超其新品时期！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/film-photographers-are-still-obsessed-with-the-plaubel-makina-67-this-medium-format-camera-is-worth-far-more-today-than-when-it-was-new",
-      "publish_time": "2026-08-16T17:10:00+08:00",
-      "summary": "Plaubel Makina 67中画幅胶片相机，因独特历史与性能，如今价值超新品，受摄影师痴迷。",
-      "recommendation": "解析Plaubel Makina 67历史溢价与折叠机身设计，提供中画幅胶片相机收藏与拍摄的深度视角，适合器材迷参考。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Film photographers are still obsessed with the Plaubel Makina 67 – in fact, this medium format camera is worth far more today than when it was new!"
-    },
-    {
-      "id": "recvsrr2DbtKN9",
-      "title": "我是相机专家。我不想说这个，但相机价格可能即将变得更糟",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/im-a-camera-expert-i-hate-to-be-the-one-to-say-this-but-camera-prices-are-probably-about-to-get-worse",
-      "publish_time": "2026-08-16T14:15:00+08:00",
-      "summary": "相机专家警告，因AI发展推高内存成本，相机价格可能继续上涨，各品牌财报显示成本压力显著。",
-      "recommendation": "AI推高内存成本致相机涨价的行业预警，含各品牌财报数据，助影像爱好者预判购机时机。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I’m a camera expert. I hate to be the one to say this, but camera prices are probably about to get worse"
     }
   ]
 }
