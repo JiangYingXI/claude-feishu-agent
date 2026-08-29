@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-29T06:44:28.770145+08:00",
+    "updated_at": "2026-08-29T15:35:10.630629+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 29
+      "count": 27
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,7 +28,7 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 17
+      "count": 16
     },
     {
       "key": "产品洞察 & 行业资讯",
@@ -42,6 +42,81 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvtFxcEm7LIA",
+      "title": "相机公司翻新旧理念而非创新，令人沮丧",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/im-frustrated-that-camera-companies-are-recycling-old-ideas-instead-of-coming-up-with-new-ones",
+      "publish_time": "2026-08-29T14:15:00+08:00",
+      "summary": "如果过去有效，现在也会有效；这就是目前大多数相机公司研发的总和。这是纯粹的懒惰，还是承认技术已经达到顶峰？",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "I’m frustrated that camera companies are recycling old ideas instead of coming up with new ones"
+    },
+    {
+      "id": "recvtFx6W9Yk5J",
+      "title": "优惠：Galaxy S26 FE 开启预售，但 S26+ 更便宜——多款 Poco 机型也更实惠",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_the_galaxy_s26_fe_is_on_preorder_but_the_s26_is_cheaper__several_pocos_are_cheaper_too-news-74388.php",
+      "publish_time": "2026-08-29T13:07:02+08:00",
+      "summary": "三星Galaxy S26 FE预售，9月4日开售，8/128GB版700欧元，8/256GB版800欧元，但S26+更便宜且配置更好，多款Poco机型也更实惠。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too"
+    },
+    {
+      "id": "recvtFx9imnMUH",
+      "title": "OPPO Reno17系列或将支持增距镜，新传闻称",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_reno17_series_could_get_teleconverter_support_new_rumor_claims-news-74396.php",
+      "publish_time": "2026-08-29T10:31:02+08:00",
+      "summary": "Oppo Reno17系列或支持增距镜配件，提升变焦能力。Reno16 Pro已有5000万像素潜望式长焦，支持3.5倍光学变焦，新系列将进一步提升。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo Reno17 series could get teleconverter support, new rumor claims"
+    },
+    {
+      "id": "recvtFxew8xupW",
+      "title": "给Instagram一代教摄影是什么体验",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/28/what-it-is-like-teaching-photography-to-an-instagram-generation/",
+      "publish_time": "2026-08-29T09:00:00+08:00",
+      "summary": "教授Z世代学生摄影时，发现他们虽经讲座和作业仍困惑于曝光参数，揭示了下一代摄影师面临的挑战。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What It is Like Teaching Photography to An Instagram Generation"
+    },
+    {
+      "id": "recvtFxb23nmeI",
+      "title": "三星Galaxy S26 FE评测中",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_in_for_review-news-74391.php",
+      "publish_time": "2026-08-29T08:02:02+08:00",
+      "summary": "三星Galaxy S26 FE与前代规格几乎相同，包括6.7英寸屏幕、三摄、电池和充电，被称Galaxy S25 FE第二部分。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy S26 FE in for review"
+    },
     {
       "id": "recvtDn6jbFLnx",
       "title": "WhatCable：为抽屉里塞满USB-C线缆的摄影师打造的免费Mac应用",
@@ -7532,84 +7607,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Sony Declined an Invite to Work With Another Camera Company"
-    },
-    {
-      "id": "recvsAcQ6Xn33t",
-      "title": "佳能美国补货翻新设备，包括R5 Mark II、RF 200-800等",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/canon-usa-restocks-refurbished-gear-including-r5-mark-ii-rf-200-800-and-more/",
-      "publish_time": "2026-08-17T23:36:05+08:00",
-      "summary": "佳能美国补货翻新设备，包括R5 Mark II、RF 200-800等热门相机镜头，RF 100-400mm和RF 200-800mm镜头现可购买，库存有限，欲购从速。",
-      "recommendation": "翻新设备补货信息实用，涵盖R5 Mark II及长焦镜头，适合预算有限的影像爱好者，但无独家数据，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon USA Restocks Refurbished Gear Including R5 Mark II, RF 200-800 and more"
-    },
-    {
-      "id": "recvsAcVsJh31M",
-      "title": "小米Redmi Watch 6 Lite和Redmi Watch 6 Active再次泄露，规格和价格曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_redmi_watch_6_lite_and_redmi_watch_6_active_leak_again_with_specs_and_pricing-news-74206.php",
-      "publish_time": "2026-08-17T23:31:02+08:00",
-      "summary": "小米Redmi Watch 6 Lite和Active在匈牙利价格追踪网站泄露，Lite配备1.96英寸OLED屏、470mAh电池，续航18天，支持5ATM防水，尺寸39.4x44.5x9.9毫米。",
-      "recommendation": "常规资讯，可了解行业动态。泄露数据含屏幕尺寸、电池容量及防水等级，对关注穿戴设备影像联动功能的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Xiaomi Redmi Watch 6 Lite and Redmi Watch 6 Active leak again with specs and pricing"
-    },
-    {
-      "id": "recvsAd7fbJm3J",
-      "title": "Insta360 X6评测：这款全景相机能否终结DJI Pocket和GoPro？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/360-cameras/insta360-x6-review",
-      "publish_time": "2026-08-17T23:20:00+08:00",
-      "summary": "Insta360 X6评测：360度相机代际改进，号称三合一高端选项，需证明能否终结DJI Pocket和GoPro。",
-      "recommendation": "全景相机代际对比实测，含三机横评数据与场景样张，助你判断X6是否真能替代Pocket与GoPro。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Insta360 X6 review – is this the 360-degree camera that can kill the DJI Pocket and the GoPro?"
-    },
-    {
-      "id": "recvsAdcycVFgX",
-      "title": "福伦达Nokton 35mm f/1.2银色版发布",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/voigtlander-nokton-35mm-f-1-2-silver-released/",
-      "publish_time": "2026-08-17T23:07:25+08:00",
-      "summary": "福伦达发布Nokton 35mm f/1.2银色版，适用于X卡口，带电子触点，已在CameraQuest等渠道销售。",
-      "recommendation": "福伦达X卡口35mm f/1.2银色版，带电子触点，适合富士用户关注。常规发布资讯，可了解镜头兼容性与购买渠道。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Voigtländer Nokton 35mm f/1.2 Silver Released"
-    },
-    {
-      "id": "recvsBTdUAlKAL",
-      "title": "福伦达Nokton 23mm f/1.2和35mm f/1.2银色版发布",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/voigtlander-nokton-35mm-f-1-2-silver-released/",
-      "publish_time": "2026-08-17T23:07:25+08:00",
-      "summary": "确善能发布福伦达Nokton 23mm f/1.2和35mm f/1.2银色版，通过CameraQuest销售，文章首发于Fuji Rumors。",
-      "recommendation": "福伦达两款f/1.2大光圈镜头银色版发布，提供具体规格与销售渠道，适合关注副厂镜头和APS-C画幅的用户了解新品动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Voigtländer Nokton 23mm f/1.2 and 35mm f/1.2 Silver Released"
     }
   ]
 }
