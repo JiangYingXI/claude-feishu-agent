@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-30T01:00:20.847342+08:00",
+    "updated_at": "2026-08-30T05:13:16.724072+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 27
+      "count": 26
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,12 +28,12 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 16
+      "count": 14
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 471
+      "count": 472
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvtIRaqw8sJa",
+      "title": "雾件美学证明尼康影像深度胜过富士",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/29/the-vaporware-aesthetic-proves-nikons-image-depth-beats-fujifilms/",
+      "publish_time": "2026-08-30T05:00:00+08:00",
+      "summary": "尼康新推出的Vaporware Aesthetic配置文件证明其相机能拍出富士和LUMIX无法实现的交叉处理效果，展现尼康影像深度优势。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Vaporware Aesthetic Proves Nikon’s Image Depth Beats Fujifilm’s"
+    },
+    {
+      "id": "recvtIR8lcsZWG",
+      "title": "优惠：Galaxy S26 FE即将到来，Galaxy S26系列开售，Nothing Phone (3)也有折扣",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/deals_the_galaxy_s26_fe_is_coming_galaxy_s26_series_on_sale_nothing_phone_3_also_discounted-news-74384.php",
+      "publish_time": "2026-08-30T04:09:02+08:00",
+      "summary": "三星发布Galaxy S26 FE，搭载Exynos 2500和Android 17/One UI 9，价格高于前代，9月4日开售，目前仅可注册通知。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted"
+    },
+    {
+      "id": "recvtIRc349bAB",
+      "title": "今日旅行摄影师的最佳尼康套件",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/29/the-best-nikon-kit-for-travel-photographers-of-today/",
+      "publish_time": "2026-08-30T01:00:00+08:00",
+      "summary": "旅行摄影受认可，尼康Z5 II配Z24-120mm f4 S镜头是理想组合，适合多数场景。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Best Nikon Kit for Travel Photographers of Today"
+    },
     {
       "id": "recvtHPrVHL42e",
       "title": "新品：尼康F卡口镜头+FTZ转接环装饰盖",
@@ -7555,53 +7600,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "This Dumb but Fun App Sends Photos to Your Friends at the Speed of Bird"
-    },
-    {
-      "id": "recvsBSYoXFxCi",
-      "title": "荣耀机器人手机上手体验：这不是噱头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/honor-robot-phone-hands-on-this-isnt-a-gimmick/",
-      "publish_time": "2026-08-18T03:58:57+08:00",
-      "summary": "荣耀机器人手机在中国上市，后置摄像头内置电动云台，工程上成功且有效，非噱头，是实用创新。",
-      "recommendation": "独家实测电动云台摄像头，验证工程可行性与实拍效果，为手机影像防抖提供新思路，含样张数据，值得影像玩家关注。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Honor Robot Phone Hands-On: This Isn’t a Gimmick"
-    },
-    {
-      "id": "recvsBTaGj5ezA",
-      "title": "三星Galaxy S26 FE上手视频亮相",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_stars_in_a_handson_video-news-74204.php",
-      "publish_time": "2026-08-18T03:39:02+08:00",
-      "summary": "三星Galaxy S26 FE已通过FCC认证，预计9月初与Tab S12发布，上手视频显示运行Android 17和One UI 9。",
-      "recommendation": "S26 FE通过FCC认证并曝光Android 17界面，影像配置虽未提及，但可从中预判三星中端机型影像策略，适合关注产品迭代的爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Samsung Galaxy S26 FE stars in a hands-on video"
-    },
-    {
-      "id": "recvsAcXDXDbs0",
-      "title": "思锐Aurora 85mm f/1.4评测：一支本身就如画般美丽的人像镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/sirui-aurora-85mm-f-1-4-review",
-      "publish_time": "2026-08-18T03:00:00+08:00",
-      "summary": "思锐Aurora 85mm f/1.4镜头外观精美，做工无可挑剔，价格物有所值，是优秀的人像镜头选择。",
-      "recommendation": "实测思锐85mm f/1.4人像镜头，含外观做工细节与样张数据，为选购国产大光圈镜头提供参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sirui Aurora 85mm f/1.4 review: a portrait lens that’s pretty as a picture in its own right"
     }
   ]
 }
