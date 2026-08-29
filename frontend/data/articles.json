@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-29T15:35:10.630629+08:00",
+    "updated_at": "2026-08-30T01:00:20.847342+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -23,7 +23,7 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 5
+      "count": 4
     },
     {
       "key": "拆机 & 实测 & 样张",
@@ -38,10 +38,190 @@
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 40
+      "count": 36
     }
   ],
   "articles": [
+    {
+      "id": "recvtHPrVHL42e",
+      "title": "新品：尼康F卡口镜头+FTZ转接环装饰盖",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/29/new-nikon-f-mount-lenses-ftz-decorative-adapter-covers.aspx/",
+      "publish_time": "2026-08-30T00:18:08+08:00",
+      "summary": "云朵工坊为尼康F卡口镜头配FTZ转接环推出装饰盖，解决镜头直径小导致的外观不协调问题。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New: Nikon F-mount lenses + FTZ adapter decorative covers"
+    },
+    {
+      "id": "recvtHPmLk0yRl",
+      "title": "当摄影比赛出错时，没有“坏人”——只有遵守规则的摄影师被背后捅刀",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/when-photo-competitions-get-it-wrong-there-are-no-bad-guys-just-the-rule-abiding-photographers-that-get-stabbed-in-the-back",
+      "publish_time": "2026-08-29T23:20:00+08:00",
+      "summary": "摄影比赛获奖作品违规，虽无坏人，但守规者质疑规则执行，核心价值在于揭示规则公平性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "When photo competitions get it wrong, there are no \"bad guys\" – just the rule-abiding photographers that get stabbed in the back"
+    },
+    {
+      "id": "recvtHPbSkknzh",
+      "title": "柯尼卡IIA：永恒技术的璀璨典范",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/29/the-konica-iia-is-a-shining-example-of-timeless-technology/",
+      "publish_time": "2026-08-29T22:01:29+08:00",
+      "summary": "柯尼卡IIA相机作为永恒技术典范，其核心价值在于精湛工艺与可靠性能，匿名赠送凸显其收藏与实用双重魅力。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Konica IIA Is a Shining Example of Timeless Technology"
+    },
+    {
+      "id": "recvtHPe0lUaZC",
+      "title": "OM System推出第二款为摄影师设计的包装餐食Ragù",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/29/om-system-now-makes-ragu-its-second-packaged-meal-for-photographers/",
+      "publish_time": "2026-08-29T21:58:33+08:00",
+      "summary": "OM System继户外怪物咖喱后，在日本推出第二款包装餐食肉酱面，延续其跨界美食策略，旨在再次打造美味佳肴。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "OM System Now Makes Ragù, its Second Packaged Meal for Photographers"
+    },
+    {
+      "id": "recvtHPkUckehK",
+      "title": "参观车展让我对摄影的未来感到更乐观",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/opinion/how-visiting-a-car-show-made-me-feel-better-about-the-future-of-photography/",
+      "publish_time": "2026-08-29T21:00:00+08:00",
+      "summary": "参观车展无需摄影技巧，却让人对摄影未来更乐观，核心在于人人皆可创作，技术门槛降低。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How visiting a car show made me feel better about the future of photography"
+    },
+    {
+      "id": "recvtHPtLXuNJ2",
+      "title": "面对AI生成图像，这些摄影工作室脱颖而出",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/29/old-school-photography-studios-copy/",
+      "publish_time": "2026-08-29T21:00:00+08:00",
+      "summary": "AI生成图像冲击摄影行业，促使摄影师改变做法，部分工作室已重视并脱颖而出。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "In the Face of AI Generated Images, These Photo Studios are Standing Out"
+    },
+    {
+      "id": "recvtHPosQvuB4",
+      "title": "伦纳德·杰斐逊没有使用专业相机，与说唱歌手图帕克·沙库尔也只是略有交集，却拍下了现代音乐史上最具标志性的照片之一",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/leonard-jefferson-wasnt-using-a-professional-camera-and-only-knew-the-rapper-tupac-shakur-slightly-yet-he-captured-one-of-the-most-iconic-images-in-modern-music-history",
+      "publish_time": "2026-08-29T20:30:00+08:00",
+      "summary": "伦纳德·杰斐逊未用专业相机，仅与图帕克略有交集，却拍下其遇害前最后一张照片，成为现代音乐史标志性作品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Leonard Jefferson wasn't using a professional camera and only knew the rapper Tupac Shakur slightly, yet he captured one of the most iconic images in modern music history"
+    },
+    {
+      "id": "recvtHPhw8ndw2",
+      "title": "Alex Barrera对比适马35mm f/1.2与f/1.4：真的存在明显差异吗？",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/alex-barrera-compares-sigma-35mm-f-1-2-vs-f-1-4-is-there-really-a-visible-difference/",
+      "publish_time": "2026-08-29T19:27:40+08:00",
+      "summary": "Alex Barrera对比适马35mm f/1.2与f/1.4，图像质量差异极小，多花500美元购买f/1.2不划算，因其更大更重。f/1.4版本在多家商店有售。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Alex Barrera compares Sigma 35mm f/1.2 vs f/1.4: Is there really a visible difference?"
+    },
+    {
+      "id": "recvtHPjc0Eayn",
+      "title": "华为Mate XT 2三折叠下月发布，内折设计最新外观曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_mate_xt_2_design-news-74403.php",
+      "publish_time": "2026-08-29T19:09:02+08:00",
+      "summary": "华为将于9月7日发布Mate XT 2三折叠手机，采用内折U形设计，配备6英寸屏幕，搭载HarmonyOS 7。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's our best look yet at the inward-folding Huawei Mate XT 2 tri-fold launching next month"
+    },
+    {
+      "id": "recvtHPfI1hkpc",
+      "title": "摄影师发现被遗忘的19世纪日本照片，并以今日视角重新构想",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/29/photographer-discovers-forgotten-19th-century-photos-of-japan-and-reimagines-them-today/",
+      "publish_time": "2026-08-29T19:00:05+08:00",
+      "summary": "摄影师在老宅发现被遗忘的19世纪日本照片，以此为灵感创作现代肖像，新书展现历史与当代的对话。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Discovers Forgotten 19th-Century Photos of Japan and Reimagines Them Today"
+    },
+    {
+      "id": "recvtHPqcMtBvq",
+      "title": "日本创纪录的全画幅无反相机再度荣获年度相机大奖——一款为挑剔摄影师打造的可靠高性能相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/japans-record-breaking-full-frame-mirrorless-wins-its-second-camera-of-the-year-award-a-reliable-and-high-performance-camera-for-discerning-photographers",
+      "publish_time": "2026-08-29T17:10:00+08:00",
+      "summary": "索尼全画幅无反相机创日本销售纪录，获EISA年度大奖，为挑剔摄影师提供可靠高性能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Japan's record-breaking full-frame mirrorless wins its second Camera of the Year award – a \"reliable and high-performance camera for discerning photographers\""
+    },
+    {
+      "id": "recvtHPvSCsgOp",
+      "title": "赛义德·曼苏尔：记录阿尔及利亚希拉克抗议活动的摄影师",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/29/said-manseur-the-photographer-who-documented-algerias-hirak-protests/",
+      "publish_time": "2026-08-29T17:00:00+08:00",
+      "summary": "赛义德·曼苏尔记录阿尔及利亚希拉克抗议活动，展现历史重演时刻，强调摄影见证社会变革的核心价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Said Manseur: The Photographer Who Documented Algeria’s Hirak Protests"
+    },
     {
       "id": "recvtFxcEm7LIA",
       "title": "相机公司翻新旧理念而非创新，令人沮丧",
@@ -7422,191 +7602,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Sirui Aurora 85mm f/1.4 review: a portrait lens that’s pretty as a picture in its own right"
-    },
-    {
-      "id": "recvsBT1xA0s5j",
-      "title": "BHphoto将于9月4日发货您的索尼FX5预订单",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/bhphoto-will-ship-out-your-sony-fx5-preorder-on-september-4/",
-      "publish_time": "2026-08-18T02:52:14+08:00",
-      "summary": "BHphoto通知索尼FX5预购订单将于9月4日发货，同时美国亚马逊已停止该相机机身及套装预购，其他零售商仍有售。",
-      "recommendation": "常规资讯，可了解行业动态。发货时间与渠道库存信息对预订用户有参考价值，但缺乏独家数据或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "BHphoto will ship out your Sony FX5 preorder on September 4"
-    },
-    {
-      "id": "recvsHKsN6vPaS",
-      "title": "更新：BHphoto将（不）于9月4日发货您的索尼FX5预订单",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/bhphoto-will-ship-out-your-sony-fx5-preorder-on-september-4/",
-      "publish_time": "2026-08-18T02:52:14+08:00",
-      "summary": "BHphoto通知索尼FX5预订单9月4日发货，但更新称非最终日期，索尼仅表示9月发货，美国亚马逊已停止预订。",
-      "recommendation": "索尼FX5发货日期变动，涉及BHphoto与亚马逊渠道差异，对持币待购者具时效参考价值，但信息有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "UPDATE: BHphoto will (NOT) ship out your Sony FX5 preorder on September 4"
-    },
-    {
-      "id": "recvsAd0cCNbIm",
-      "title": "透明科技卷土重来？这款平价无屏复古卡片机以经典Y2K风格上市",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/is-transparent-tech-making-a-comeback-this-affordable-screen-free-retro-compact-camera-is-now-launching-in-a-classic-y2k-look",
-      "publish_time": "2026-08-18T02:45:00+08:00",
-      "summary": "Camp Snap 2傻瓜相机推出Y2K风格半透明紫色版，平价无屏复古卡片机，经典设计回归。",
-      "recommendation": "剖析无屏复古相机回归现象，解读Y2K美学与实用拍摄的平衡，为关注小众影像设备的玩家提供选型参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is transparent tech making a comeback? This affordable screen-free retro compact camera is now launching in a classic Y2K look"
-    },
-    {
-      "id": "recvsAcu78kyKr",
-      "title": "二手数码相机普遍廉价的时代一去不复返",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/gone-are-the-days-of-universally-cheap-used-digital-cameras/",
-      "publish_time": "2026-08-18T01:59:08+08:00",
-      "summary": "传统相机降价观念被打破，特定二手数码相机价格随时间上涨，甚至超过全新价，即使较新机型也如此。",
-      "recommendation": "颠覆二手相机贬值常识，以价格走势数据揭示特定机型逆势升值现象，为选购与投资提供独特参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 8,
-      "language": "English",
-      "original_title": "Gone Are the Days of Universally Cheap Used Digital Cameras"
-    },
-    {
-      "id": "recvsAcwqIovD4",
-      "title": "柯达已超越富士胶片，成为日本首选胶片品牌",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/kodak-has-overtaken-fujifilm-as-japans-film-brand-of-choice/",
-      "publish_time": "2026-08-18T01:22:15+08:00",
-      "summary": "日本首次全面胶片使用调查显示，柯达已超越富士胶片成为首选品牌，调查涵盖使用习惯与品牌偏好，为行业提供关键数据。",
-      "recommendation": "日本市场胶片品牌偏好首次反转，独家调查数据揭示柯达超越富士的消费趋势，对关注胶片复兴的玩家具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Kodak Has Overtaken Fujifilm as Japan’s Film Brand of Choice"
-    },
-    {
-      "id": "recvsAd2B0iDFR",
-      "title": "富士胶片Fujikina即将登陆美国，将纽约变成“活画廊空间”，并带来摄影漫步、工作坊和讲座",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/trade-shows/fujifilm-fujikina-is-coming-to-the-us-turning-nyc-into-a-living-gallery-space-along-with-photo-walks-workshops-and-talks",
-      "publish_time": "2026-08-18T01:13:13+08:00",
-      "summary": "富士胶片Fujikina摄影节2026年10月重返美国纽约下东区，将举办摄影漫步、工作坊和讲座等活动。",
-      "recommendation": "富士Fujikina摄影节重返纽约，提供摄影漫步、工作坊等线下活动，对街拍爱好者是难得的交流机会。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm Fujikina is coming to the US, turning NYC into “a living gallery space,” along with photo walks, workshops, and talks"
-    },
-    {
-      "id": "recvsAdfwxOE9N",
-      "title": "2026年富士X-T2还值得买吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/17/fujifilm-x-t2-2026-review-update/",
-      "publish_time": "2026-08-18T01:00:00+08:00",
-      "summary": "2016年发布的富士X-T2作为旗舰无反相机，作者使用近10年后，探讨其是否仍值得购买。",
-      "recommendation": "十年旗舰老机实战复盘，从对焦性能、画质到镜头生态逐一验证，为怀旧党与预算有限的用户提供真实购买决策参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Fujifilm X-T2 Worth Buying in 2026?"
-    },
-    {
-      "id": "recvsAd4U9eU4C",
-      "title": "“从来不是让AI取代创造力”——Skylum CEO重申Luminar对摄影师的承诺",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/it-has-never-been-about-asking-ai-to-replace-creativity-skylum-ceo-reaffirms-luminars-commitment-to-photographers",
-      "publish_time": "2026-08-18T00:59:34+08:00",
-      "summary": "Skylum CEO重申Luminar承诺，AI驱动编辑但不取代摄影师创造力，强调作者身份优先。",
-      "recommendation": "专访揭示Skylum对AI与作者权平衡的立场，为后期软件选择提供决策参考，观点鲜明。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“It has never been about asking AI to replace creativity” – Skylum CEO reaffirms Luminar’s commitment to photographers"
-    },
-    {
-      "id": "recvsAcSIlNib1",
-      "title": "新截图和视频展示三星One UI 9.5实际运行效果",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/new_screenshots_and_videos_show_samsungs_one_ui_95_in_action-news-74207.php",
-      "publish_time": "2026-08-18T00:49:02+08:00",
-      "summary": "三星One UI 9.5新截图视频展示，动画流畅度超三星标准，开箱即用，仅第二个内部版本。",
-      "recommendation": "One UI 9.5动画流畅度实测，展示系统级影像交互优化潜力。对关注手机拍摄体验者，可了解系统底层调度对相机启动与连拍响应的影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New screenshots and videos show Samsung’s One UI 9.5 in action"
-    },
-    {
-      "id": "recvsAcyMixukk",
-      "title": "富士胶片纽约Fujikina活动门票售价10美元，现已开售",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/tickets-for-fujifilms-new-york-fujikina-event-cost-10-and-are-on-sale-now/",
-      "publish_time": "2026-08-18T00:07:25+08:00",
-      "summary": "富士胶片纽约Fujikina活动门票10美元开售，含主题演讲、工作坊、摄影漫步等，名额有限。",
-      "recommendation": "10美元门票的富士官方活动，含工作坊与摄影漫步，适合纽约地区影像爱好者获取现场体验与器材接触机会。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tickets for Fujifilm’s New York Fujikina Event Cost $10 and Are on Sale Now"
-    },
-    {
-      "id": "recvsAcNECYUPC",
-      "title": "ON1重建降噪功能，瞄准不愿订阅的野生动物和天文摄影用户",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/on1-nonoise-ai-2027-announcement/",
-      "publish_time": "2026-08-18T00:02:24+08:00",
-      "summary": "ON1 2027版重建AI，新增主体感知模型与去模糊，坚持一次性购买，区别于订阅制，面向野生动物和天文摄影用户。",
-      "recommendation": "针对野生动物与天文摄影的降噪需求，解析ON1 2027版重建AI与主体感知模型，对比订阅制，提供一次性购买选项的深度行业洞察。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "ON1’s rebuilt noise reduction targets wildlife and astrophotography shooters who don’t want a subscription"
-    },
-    {
-      "id": "recvsAcBdV4Yyi",
-      "title": "索尼婉拒与另一家相机公司合作邀请",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/sony-declined-an-invite-to-work-with-another-camera-company/",
-      "publish_time": "2026-08-17T23:48:55+08:00",
-      "summary": "索尼前副主席透露，公司曾拒绝市场领导者的合作邀请，独立发展无反相机业务，最终成为行业重要力量。",
-      "recommendation": "索尼高管亲述拒绝合作内幕，揭示无反战略抉择逻辑，对理解相机行业格局演变有独特参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony Declined an Invite to Work With Another Camera Company"
     }
   ]
 }
