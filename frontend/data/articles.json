@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-30T13:50:46.239863+08:00",
+    "updated_at": "2026-08-30T20:22:01.753827+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 6
+      "count": 5
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 24
+      "count": 23
     },
     {
       "key": "ISP & 影像芯片",
@@ -42,6 +42,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvtMxMLO6uKG",
+      "title": "英国不了解自己的街头摄影法律？真是令人惊讶",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/30/the-uk-doesnt-know-its-own-street-photography-laws-quelle-surprise/",
+      "publish_time": "2026-08-30T20:00:30+08:00",
+      "summary": "文章指出英国街头摄影法律存在模糊性，公众和摄影者常误解其规定，呼吁明确法律以保护摄影权利。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The UK Doesn’t Know Its Own Street Photography Laws? Quelle Surprise"
+    },
+    {
+      "id": "recvtMxTexqS9k",
+      "title": "NASA将天文广角镜头送入太空——南希·格雷斯·罗曼望远镜将捕捉到什么，它与詹姆斯·韦伯和哈勃有何不同？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/nasa-launches-astronomical-wide-angle-lens-into-space-what-will-the-nancy-grace-roman-telescope-capture-and-how-does-it-differ-from-james-webb-and-hubble",
+      "publish_time": "2026-08-30T18:30:00+08:00",
+      "summary": "NASA发射罗曼望远镜，视野比哈勃大百倍，拍摄广域夜空，助解暗能量与系外行星之谜。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "NASA launches astronomical wide-angle lens into space – what will the Nancy Grace Roman Telescope capture, and how does it differ from James Webb and Hubble?"
+    },
+    {
+      "id": "recvtMxP7W2lBi",
+      "title": "2026年徒步与登山最佳相机推荐",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/what-is-the-best-camera-for-backpacking-and-hiking-in-2026/",
+      "publish_time": "2026-08-30T17:59:43+08:00",
+      "summary": "本文推荐2026年徒步登山相机，强调重量、电池、耐候性及镜头尺寸等关键因素，指出大型专业相机虽画质好但非山路最佳选择。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What Is the Best Camera for Backpacking and Hiking in 2026?"
+    },
+    {
+      "id": "recvtMxUSbVjtM",
+      "title": "30年前，这款怪兽级未来主义徕卡相机拍摄的数字照片分辨率比竞争对手高出20多倍——但有一个问题",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/30-years-ago-this-monster-futuristic-leica-camera-shot-digital-photos-at-a-resolution-that-was-over-20-times-better-than-its-rivals-but-there-was-a-catch",
+      "publish_time": "2026-08-30T17:10:00+08:00",
+      "summary": "30年前，徕卡推出重达8磅的未来主义相机，拍摄一张照片需3分钟，但分辨率比竞争对手高20多倍，展现了超前技术。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "30 years ago, this monster futuristic Leica camera shot digital photos at a resolution that was over 20 times better than its rivals – but there was a catch"
+    },
+    {
+      "id": "recvtMxYxlmKOI",
+      "title": "这台90岁的蔡司相机用乐高拍摄Instax胶片",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/30/zeiss-camera-lego-instax-hack/",
+      "publish_time": "2026-08-30T17:00:00+08:00",
+      "summary": "文章介绍了一台90岁蔡司相机通过乐高改装拍摄InstaX胶片，展示改装乐趣，强调摄影不必严肃，核心价值在于创意改造。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This 90 Year Old Zeiss Camera Shoots Instax Using Legos"
+    },
+    {
+      "id": "recvtMxReN3ezc",
+      "title": "每周投票：你会购买三星Galaxy S26 FE吗？",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370.php",
+      "publish_time": "2026-08-30T16:06:02+08:00",
+      "summary": "三星Galaxy S26 FE发布，相比S25 FE升级了Exynos 2400芯片、4900mAh电池、45W快充、12MP前置摄像头和装甲铝机身，但文章核心是询问读者是否愿意购买。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly poll: will you buy the Samsung Galaxy S26 FE?"
+    },
+    {
+      "id": "recvtMxWFSjo1q",
+      "title": "20世纪墨西哥工人被围捕遣返的照片凸显美国大规模驱逐并非新鲜事",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/these-20th-century-photos-of-mexican-workers-being-rounded-up-and-sent-back-highlight-how-mass-deportations-from-the-usa-are-nothing-new",
+      "publish_time": "2026-08-30T14:15:00+08:00",
+      "summary": "新展览揭示20世纪30至50年代墨西哥工人被围捕遣返，凸显美国大规模驱逐历史非新事。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "These 20th century photos of Mexican workers being rounded up and sent back highlight how mass deportations from the USA are nothing new"
+    },
     {
       "id": "recvtKXhHR01v4",
       "title": "每周投票结果：荣耀机器人手机凭借其相机功能吸引众多用户",
@@ -7489,113 +7594,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Stroppa Review: The Best Strap for Digicams and Point and Shoots"
-    },
-    {
-      "id": "recvsEFwWz0wDC",
-      "title": "iQOO在印度Z11和Buds TWS发布前透露更多细节",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iqoo_z11_india_iqoo_buds_tws_features-news-74215.php",
-      "publish_time": "2026-08-18T16:01:02+08:00",
-      "summary": "iQOO将于8月20日在印度推出Z11，其设计与中马版不同，配备3200万前置、5000万主摄和800万超广角，后置双摄。",
-      "recommendation": "常规资讯，可了解行业动态。文章透露iQOO Z11印度版与中马版设计不同，并给出3200万前置、5000万主摄等关键参数，对关注中端手机影像配置的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "iQOO reveals more details about the Indian Z11 and Buds TWS ahead of launch"
-    },
-    {
-      "id": "recvsDbsXHUV0x",
-      "title": "苹果带摄像头的AirPods在泄露视频中现身",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/apple_airpods_with_cameras_surface_in_leaked_video-news-74214.php",
-      "publish_time": "2026-08-18T15:02:02+08:00",
-      "summary": "苹果带摄像头的AirPods在泄露视频中现身，演示了视觉智能功能，尽管此前有传言称该项目被取消。",
-      "recommendation": "苹果带摄像头AirPods泄露视频曝光，演示视觉智能功能，打破项目取消传闻。对影像爱好者而言，可提前洞察苹果空间计算与穿戴影像布局。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Apple AirPods with cameras surface in leaked video"
-    },
-    {
-      "id": "recvsDbpY10tbB",
-      "title": "索尼动态速览…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1914/",
-      "publish_time": "2026-08-18T14:07:08+08:00",
-      "summary": "索尼动态速览报道85毫米镜头优惠及Nanlite PavoSlim 360C RGBWW LED面板发布，并分享摄影技巧与学习经历。",
-      "recommendation": "涵盖85mm镜头促销与Nanlite新品，附实用摄影技巧，对镜头选购和灯光应用有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvsDbvxYUB1n",
-      "title": "谷歌的诈骗检测功能将登陆另一家安卓设备制造商",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/googles_scam_detection_feature_is_headed_to_another_android_device_maker-news-74212.php",
-      "publish_time": "2026-08-18T12:33:02+08:00",
-      "summary": "谷歌诈骗检测功能将扩展至vivo手机，此前已支持Pixel和三星Galaxy S26系列，该功能可在通话中提醒潜在诈骗。",
-      "recommendation": "常规资讯，可了解行业动态。虽非影像核心，但谷歌AI防诈骗功能扩展至vivo，侧面反映手机端侧AI能力升级，对影像处理芯片算力有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google's Scam Detection feature is headed to another Android device maker"
-    },
-    {
-      "id": "recvsDbymycvRI",
-      "title": "vivo V80 Lite 5G预告图展示部分正面设计",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_v80_lite_teaser_image_shows_part_of_its_front_design-news-74211.php",
-      "publish_time": "2026-08-18T11:01:02+08:00",
-      "summary": "vivo V80 Lite 5G预告图展示曲面屏和中央打孔，疑为vivo S2改名版，图片经修饰。",
-      "recommendation": "曲面屏与中央打孔设计预示vivo中端影像新方向，疑为S2改名版，对关注前置镜头布局的爱好者有参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo V80 Lite 5G teaser image shows part of its front design"
-    },
-    {
-      "id": "recvsDbAU5kS32",
-      "title": "尼康发布Coolpix P1000与Z5II相机新固件更新",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/17/nikon-released-new-firmware-updates-for-the-coolpix-p1000-z5ii-cameras.aspx/",
-      "publish_time": "2026-08-18T10:58:09+08:00",
-      "summary": "尼康发布Coolpix P1000固件1.9版，修复连拍变焦时偶发停止响应问题；Z5II固件1.20版含多项修复。",
-      "recommendation": "固件更新虽属常规资讯，但P1000连拍变焦修复对超长焦用户有实操价值，Z5II多项修复亦值得关注，可了解尼康近期稳定性改进。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon released new firmware updates for the Coolpix P1000 & Z5II cameras"
-    },
-    {
-      "id": "recvsBT7uSylYI",
-      "title": "HMD 102 4G Pro 规格泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/hmd_102_4g_pro_specs_leak-news-74209.php",
-      "publish_time": "2026-08-18T09:03:02+08:00",
-      "summary": "HMD 102 4G Pro规格泄露，配备2英寸QQVGA屏、0.3MP摄像头、Unisoc 8910FF芯片、24MB RAM、48MB存储、1200mAh电池，支持IP52。",
-      "recommendation": "常规资讯，可了解行业动态。该机定位入门，0.3MP摄像头与2英寸屏参数对影像爱好者参考价值有限，但Unisoc芯片与IP52数据可供低端市场研究。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "HMD 102 4G Pro specs leak"
     }
   ]
 }
