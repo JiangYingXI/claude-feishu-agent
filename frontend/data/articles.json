@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-30T20:22:01.753827+08:00",
+    "updated_at": "2026-08-31T01:07:09.061733+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,7 +8,7 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 5
+      "count": 4
     },
     {
       "key": "镜头与光学",
@@ -28,20 +28,110 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 13
+      "count": 12
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 474
+      "count": 475
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 34
+      "count": 33
     }
   ],
   "articles": [
+    {
+      "id": "recvtNHFVFkuyz",
+      "title": "英国最稀有鸟类有了新的绝密巢穴——但这里你可以去拍摄它们，尽管需要“极度”小心",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/the-uks-rarest-bird-has-a-new-top-secret-nest-but-heres-where-you-can-go-to-photograph-them-albeit-with-extreme-caution",
+      "publish_time": "2026-08-30T23:20:00+08:00",
+      "summary": "英国最稀有猛禽蒙塔古鹞在秘密地点筑巢，但西班牙可在极度谨慎下拍摄，保护组织提醒注意安全。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The UK’s rarest bird has a new top-secret nest – but here’s where you can go to photograph them, albeit with “extreme” caution"
+    },
+    {
+      "id": "recvtNHCqdciPd",
+      "title": "这位摄影师如何将对地方的热爱转化为职业生涯",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/30/how-this-photographer-turned-a-love-of-places-into-his-career/",
+      "publish_time": "2026-08-30T22:00:08+08:00",
+      "summary": "摄影师Jon Kreye用八年多时间为全球旅游和住宿公司拍摄，将地方热爱转化为职业，强调叙事、光线和忠于创作声音的重要性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How This Photographer Turned a Love of Places Into His Career"
+    },
+    {
+      "id": "recvtNHE5inXar",
+      "title": "新书致敬19世纪至今的‘危险’女性摄影师",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/30/new-book-celebrates-dangerous-women-photographers-from-the-19th-century-to-the-present/",
+      "publish_time": "2026-08-30T21:00:46+08:00",
+      "summary": "新书聚焦19世纪至今60多位女性摄影师，展示其非凡作品，致敬摄影史中的‘危险’女性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Book Celebrates ‘Dangerous’ Women Photographers From the 19th Century to the Present"
+    },
+    {
+      "id": "recvtNHJ8Tikcr",
+      "title": "6位摄影师分享他们庆幸犯过的错误",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/photography/6-photographers-share-the-mistakes-theyre-glad-they-made/",
+      "publish_time": "2026-08-30T21:00:00+08:00",
+      "summary": "六位摄影师分享失焦、过度曝光等错误如何意外带来好结果，强调失误可转化为创作机遇。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "6 photographers share the mistakes they’re glad they made"
+    },
+    {
+      "id": "recvtNHKYdUVKW",
+      "title": "摄影师们，能不能别再讨厌三脚架了？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/30/can-photographers-stop-hating-tripods-please/",
+      "publish_time": "2026-08-30T21:00:00+08:00",
+      "summary": "摄影师被误导认为公共场合用三脚架违法，导致长期避免使用，但实际需许可证，文章呼吁重新认识三脚架价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Can Photographers Stop Hating Tripods, Please?"
+    },
+    {
+      "id": "recvtNHHGPuL7m",
+      "title": "劣质相机因所谓的“真实”输出而兴起。我以评测相机为生，但包括制造商在内，我们是否一直追求了错误的目标？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/crap-cameras-are-on-the-rise-because-of-supposedly-authentic-output-i-review-cameras-for-a-living-but-have-we-and-manufacturers-alike-chased-the-wrong-goals-all-along",
+      "publish_time": "2026-08-30T20:30:00+08:00",
+      "summary": "相机制造商追求最佳图像质量，但Z世代却热衷低端数码相机的“真实”输出，质疑行业目标是否错误。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Crap cameras are on the rise because of supposedly ‘authentic’ output. I review cameras for a living but have we, and manufacturers alike, chased the wrong goals all along?"
+    },
     {
       "id": "recvtMxMLO6uKG",
       "title": "英国不了解自己的街头摄影法律？真是令人惊讶",
@@ -56,6 +146,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "The UK Doesn’t Know Its Own Street Photography Laws? Quelle Surprise"
+    },
+    {
+      "id": "recvtNHAqhokOX",
+      "title": "索尼28-70mm f/2.0 GM深度评测 by Math Photographer：最佳标准变焦镜头！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-28-70mm-f-2-0-gm-in-depth-review-by-math-photographer-the-very-best-standard-zoom/",
+      "publish_time": "2026-08-30T19:26:08+08:00",
+      "summary": "索尼28-70mm f/2.0 GM被评测者誉为E卡口最佳标准变焦镜头，具备f/2.0大光圈，适合多种拍摄场景，现已在各大零售商有售。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony 28-70mm f/2.0 GM in depth review by Math Photographer: The very best standard zoom!"
     },
     {
       "id": "recvtMxTexqS9k",
@@ -7487,113 +7592,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "“I started screaming because I know what shelling looks like” –dolphin photographed performing extremely rare behavior"
-    },
-    {
-      "id": "recvsEFOaktrYP",
-      "title": "发布即登顶，当下最潮相机是“几乎无敌”的索尼——但日本十大相机榜单中不止一次令人意外的洗牌",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/released-at-1-the-trendiest-camera-right-now-is-a-virtually-unrivaled-sony-but-japans-top-ten-cameras-contain-more-than-one-surprising-shakeup",
-      "publish_time": "2026-08-18T18:47:37+08:00",
-      "summary": "索尼A7 V七个月后重登日本相机榜首，但榜单中仍有意外机型，核心价值在于揭示市场动态与竞争格局。",
-      "recommendation": "索尼A7 V登顶揭示市场风向，榜单意外洗牌暴露竞争变局。对器材党而言，可借日本市场数据校准购机决策，洞察品牌策略转向。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Released at #1, the trendiest camera right now is a \"virtually unrivaled\" Sony – but Japan’s top ten cameras contain more than one surprising shakeup"
-    },
-    {
-      "id": "recvsKw55PPP9E",
-      "title": "发布即登顶，当下最潮相机不难猜——但日本顶级相机榜单中，一些名字却蹊跷缺席",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/released-at-1-the-trendiest-camera-right-now-is-a-virtually-unrivaled-sony-but-japans-top-ten-cameras-contain-more-than-one-surprising-shakeup",
-      "publish_time": "2026-08-18T18:47:37+08:00",
-      "summary": "索尼A7 V使用七个月后登顶日本顶级相机榜首，但榜单中一些知名品牌缺席，引发关注。",
-      "recommendation": "七个月长测揭示A7 V真实表现，日本榜单缺席品牌名单暗藏行业风向，对购机决策有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Released at No. 1, the trendiest camera right now is easy to guess – but some names are suspiciously missing from Japan's top cameras"
-    },
-    {
-      "id": "recvsEFlfIi06p",
-      "title": "字节跳动与好莱坞就AI视频知识产权达成协议",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/bytedance-and-hollywood-reach-agreement-over-ai-video-ip-rights/",
-      "publish_time": "2026-08-18T17:50:59+08:00",
-      "summary": "字节跳动与美国电影协会签署协议，加强AI视频和图像模型的版权保护，确保知识产权合规。",
-      "recommendation": "AI视频版权协议将影响生成式影像工具的内容合规边界，对创作者使用相关模型有直接参考价值。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "ByteDance and Hollywood Reach Agreement Over AI Video IP Rights"
-    },
-    {
-      "id": "recvsEFoU2b1N7",
-      "title": "网红试图与鲨鱼合影，屡遭咬伤",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/influencers-trying-to-get-photos-with-sharks-keep-getting-bitten/",
-      "publish_time": "2026-08-18T17:27:49+08:00",
-      "summary": "网红与摄影师忽视安全警告，与鲨鱼合影屡遭咬伤，事件频发。",
-      "recommendation": "从影像安全角度切入，揭示极端拍摄场景中的风险与伦理，对水下摄影爱好者具警示价值，含事件细节与安全教训。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Influencers Trying to Get Photos With Sharks Keep Getting Bitten"
-    },
-    {
-      "id": "recvsEFR3fPoz0",
-      "title": "是时候更小心了？研究称22%的人将相机或手机放在公共场合无人看管，以拍摄自己",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/time-to-be-more-careful-research-says-22-percent-of-us-leave-our-cameras-or-phones-unattended-in-public-to-film-or-photograph-ourselves",
-      "publish_time": "2026-08-18T17:20:24+08:00",
-      "summary": "最新研究显示，22%的人将相机或手机置于公共场合无人看管以自拍，内容创作者和旅行博主是最大违规者。",
-      "recommendation": "独家数据揭示公共自拍风险，为影像创作者提供设备安全新视角，值得关注。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Time to be more careful? Research says 22% of us leave our cameras or phones unattended in public to film or photograph ourselves"
-    },
-    {
-      "id": "recvsEFuaIR4zF",
-      "title": "荣耀机器人手机现已在中国上市",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_robot_phone_is_now_available_in_china-news-74216.php",
-      "publish_time": "2026-08-18T17:02:02+08:00",
-      "summary": "荣耀机器人手机在中国开售，配备2亿像素云台摄像头，12/512GB版售价9999元，16GB/1TB版12999元。",
-      "recommendation": "2亿像素云台摄像头与定价信息明确，可了解荣耀高端影像机型配置及市场定位，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor Robot Phone is now available in China"
-    },
-    {
-      "id": "recvsEFXi3V84p",
-      "title": "Stroppa评测：数码相机和卡片机的最佳肩带",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/18/stroppa-review-the-best-strap-for-digicams-and-point-and-shoots/",
-      "publish_time": "2026-08-18T17:00:00+08:00",
-      "summary": "作者因市面无合适傻瓜相机颈带，请Stroppa创始人定制，历经近10年终于造出坚固舒适的肩带，满足数码相机用户需求。",
-      "recommendation": "从用户痛点切入，记录小众配件从定制到量产的十年历程，含产品设计细节与市场空白分析，对追求实用配件的影像玩家有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Stroppa Review: The Best Strap for Digicams and Point and Shoots"
     }
   ]
 }
