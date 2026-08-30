@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-31T01:07:09.061733+08:00",
+    "updated_at": "2026-08-31T05:35:09.486654+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 23
+      "count": 22
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,120 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 475
+      "count": 476
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 33
+      "count": 31
     }
   ],
   "articles": [
+    {
+      "id": "recvtONcqp42Lm",
+      "title": "我最喜欢的人像摄影技巧之一",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/30/favorite-portrait-photography-hacks/",
+      "publish_time": "2026-08-31T05:00:00+08:00",
+      "summary": "文章介绍将美人碟改装到小型闪光灯上的方法，强调实心金属碟的独特反射效果，但连接闪光灯仍有困难。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "One of My Favorite Hacks for Portrait Photography"
+    },
+    {
+      "id": "recvtON5JsLpWs",
+      "title": "Google Pixel 11 Pro 评测中",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_in_for_review-news-74392.php",
+      "publish_time": "2026-08-31T04:42:02+08:00",
+      "summary": "评测Pixel 11 Pro与Pixel 11，对比Pro版多花200欧元是否值得，Pro版有更亮LTPO OLED屏、16GB内存及高级外观。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pixel 11 Pro in for review"
+    },
+    {
+      "id": "recvtON93yRJps",
+      "title": "非洲最佳夜间野生动物观赏地，亦是天文摄影师的梦想之地",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/africas-best-night-safari-destinations-could-also-be-dream-locations-for-astrophotographers",
+      "publish_time": "2026-08-31T02:10:00+08:00",
+      "summary": "新研究排名非洲夜间野生动物观赏地，同时揭示摄影师可避开光污染捕捉繁星的地点。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Africa's best night-safari destinations could also be dream locations for astrophotographers"
+    },
+    {
+      "id": "recvtON3Q3IlNZ",
+      "title": "NASA新型3亿像素南希·格雷斯·罗曼太空望远镜发射升空",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/30/nasas-new-300-megapixel-space-telescope-launches-into-space/",
+      "publish_time": "2026-08-31T02:05:42+08:00",
+      "summary": "NASA南希·格蕾丝·罗曼太空望远镜搭载SpaceX猎鹰重型火箭发射，将飞行百万英里，研究暗能量与宇宙起源，配备3亿像素相机。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "NASA’s New 300-Megapixel Nancy Grace Roman Space Telescope Launches Into Space"
+    },
+    {
+      "id": "recvtONaJo4jhC",
+      "title": "一场又一场煎饼对决：测试富士胶片最小的镜头",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/one-pancake-battle-after-another-testing-fujifilms-smallest-lenses/",
+      "publish_time": "2026-08-31T01:29:55+08:00",
+      "summary": "文章回顾作者对薄饼镜头的热爱，测试富士最小镜头，对比其性能与便携性，强调其作为日常拍摄的实用价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "One Pancake Battle After Another: Testing Fujifilm’s Smallest Lenses"
+    },
+    {
+      "id": "recvtON7v9n4wZ",
+      "title": "Xperia 10 VIII、Galaxy S26 FE正式发布，Poco F9 Pro和Ultra即将到来，第35周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xperia_10_viii_galaxy_s26_fe_are_official_poco_f9_pro_and_ultra_coming_week_35_in_review-news-74394.php",
+      "publish_time": "2026-08-31T01:19:02+08:00",
+      "summary": "索尼发布Xperia 10 VIII，骁龙6 Gen 4，6.1英寸OLED，5000mAh电池，5000万像素，600美元起。三星发布Galaxy S26 FE，新芯片，One UI 9，AI功能，",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xperia 10 VIII, Galaxy S26 FE are official, Poco F9 Pro and Ultra coming, Week 35 in review"
+    },
+    {
+      "id": "recvtONec9UCCu",
+      "title": "我们的预设是街头摄影师的扣篮之作！",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/30/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-4-copy/",
+      "publish_time": "2026-08-31T01:00:00+08:00",
+      "summary": "Phoblographer基于多年测试各大品牌相机和镜头的庞大图像数据库，为Capture One和Lightroom制作了覆盖所有相机和镜头品牌的预设，确保用户获得精准匹配的调色方案。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Our Presets are a Slam Dunk for Street Photographers!"
+    },
     {
       "id": "recvtNHFVFkuyz",
       "title": "英国最稀有鸟类有了新的绝密巢穴——但这里你可以去拍摄它们，尽管需要“极度”小心",
@@ -7485,113 +7590,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Voigtlander Has Two New Lenses for Fujifilm Bokeh Lovers and Street Photographers"
-    },
-    {
-      "id": "recvsG3exfDKDy",
-      "title": "前索尼副董事长：索尼为何拒绝（M4/3？）合作伙伴",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/former-sony-vice-chairman-why-sony-rejected-micro-four-thirds-partners/",
-      "publish_time": "2026-08-18T20:40:55+08:00",
-      "summary": "前索尼副社长石塚茂树透露，索尼曾收到无反相机合作邀请，但经内部讨论后拒绝，决定自主研发。",
-      "recommendation": "前高管亲述决策内幕，揭示索尼拒绝合作、自研系统的战略逻辑，对理解相机行业格局有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Former Sony Vice Chairman: Why Sony Rejected (Micro Four Thirds?) Partners"
-    },
-    {
-      "id": "recvsEFCLh92kC",
-      "title": "这些紧凑型相机是预算级傻瓜机之王——现在它们更便宜了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/these-compact-cameras-are-budget-point-and-shoot-champions-now-theyre-even-cheaper",
-      "publish_time": "2026-08-18T20:14:45+08:00",
-      "summary": "紧凑型傻瓜相机以小巧便携和亲民价格著称，现降价更实惠，成为预算级摄影首选，兼顾趣味与性价比。",
-      "recommendation": "预算级傻瓜机降价趋势梳理，含具体机型与价格数据，适合入门用户选购参考，观点务实。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These compact cameras are budget point-and-shoot champions – now they're even cheaper"
-    },
-    {
-      "id": "recvsEFiESZ3h2",
-      "title": "Meta无法阻止变态眼镜拍摄的内容雪崩式增长",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/meta-cant-stop-the-avalanche-of-content-filmed-on-pervert-glasses/",
-      "publish_time": "2026-08-18T20:12:02+08:00",
-      "summary": "Meta禁止智能眼镜拍摄骚扰视频的禁令未奏效，此类内容仍雪崩式增长，平台监管面临挑战。",
-      "recommendation": "智能眼镜拍摄伦理议题，揭示Meta监管失效与隐私风险，对影像创作者具警示价值，含平台审核数据与行业困境分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Meta Can’t Stop the Avalanche of Content Filmed on Pervert Glasses"
-    },
-    {
-      "id": "recvsEFrpZ6Hqn",
-      "title": "三星波兰官网列出Galaxy S26 FE的7个SKU",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_poland_lists_7_skus_for_the_galaxy_s26_fe-news-74219.php",
-      "publish_time": "2026-08-18T20:07:02+08:00",
-      "summary": "三星波兰官网的Samsung Care+ PDF列出了Galaxy S26 FE的7个SKU，确认了该机型的存在，但未透露更多细节。",
-      "recommendation": "常规资讯，可了解行业动态。SKU列表间接确认S26 FE存在，但无影像规格细节，对购机决策参考有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Poland lists 7 SKUs for the Galaxy S26 FE"
-    },
-    {
-      "id": "recvsEFFI4zNSc",
-      "title": "泄露的苹果宣传片显示，该公司通过打造一种不同的隐形摄像头——AirPods，解决了Meta的隐私问题",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/iphones/leaked-apple-promo-shows-the-company-solves-metas-privacy-problem-by-creating-a-different-kind-of-stealth-camera-airpods",
-      "publish_time": "2026-08-18T19:47:03+08:00",
-      "summary": "苹果泄露宣传片显示，其通过打造无摄像头的AirPods，以不同方式解决隐私问题，可能省略摄像头功能。",
-      "recommendation": "苹果AirPods无摄像头方案对比Meta隐私争议，揭示穿戴影像设备新思路，对关注隐私与影像融合的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Leaked Apple promo shows the company solves Meta's privacy problem by creating a different kind of stealth camera: AirPods"
-    },
-    {
-      "id": "recvsEFIkkX1ZF",
-      "title": "我刚刚发现了在售的未发布7Artisans f/2饼干镜头？我想是的……但我不会相信它",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/did-i-just-spot-the-unreleased-7artisans-f-2-pancake-lens-for-sale-i-think-so-but-i-wouldnt-trust-it",
-      "publish_time": "2026-08-18T19:32:00+08:00",
-      "summary": "亚洲媒体或已获得7Artisans f/2饼干镜头，但供应商可疑，需谨慎对待。",
-      "recommendation": "曝光疑似未发布7Artisans f/2饼干镜头，虽供应商存疑，但为镜头爱好者提供新品线索与行业动态参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Did I just spot the unreleased 7Artisans f/2 pancake lens for sale? I think so… but I wouldn’t trust it"
-    },
-    {
-      "id": "recvsEFLuClGzV",
-      "title": "“我开始尖叫，因为我知道炮击是什么样子”——海豚被拍到做出极其罕见的行为",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/i-started-screaming-because-i-know-what-shelling-looks-like-dolphin-photographed-performing-extremely-rare-behavior",
-      "publish_time": "2026-08-18T18:52:20+08:00",
-      "summary": "研究人员在澳大利亚东海岸拍摄到海豚罕见‘贝壳捕食’行为，该行为涉及将贝壳作为工具捕食，展示了海豚的高智商和学习能力。",
-      "recommendation": "罕见动物行为影像，展示野外抓拍技巧与长焦应用，对生态摄影构图有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "“I started screaming because I know what shelling looks like” –dolphin photographed performing extremely rare behavior"
     }
   ]
 }
