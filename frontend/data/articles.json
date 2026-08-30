@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-30T05:13:16.724072+08:00",
+    "updated_at": "2026-08-30T13:50:46.239863+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 7
+      "count": 6
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 26
+      "count": 24
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,125 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 14
+      "count": 13
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 472
+      "count": 474
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 36
+      "count": 34
     }
   ],
   "articles": [
+    {
+      "id": "recvtKXhHR01v4",
+      "title": "每周投票结果：荣耀机器人手机凭借其相机功能吸引众多用户",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php",
+      "publish_time": "2026-08-30T13:07:02+08:00",
+      "summary": "上周投票显示，荣耀机器人手机因摄像头和AI功能受关注，主要因摄像头。暂不考虑可用性，价格难忽视。若未来采用此形态，可能赢得新粉丝。当前型号完成吸引注意力的任务。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities"
+    },
+    {
+      "id": "recvtKXtscYZod",
+      "title": "尼康欧洲推出新优惠活动",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/08/30/new-nikon-savings-launched-in-europe.aspx/",
+      "publish_time": "2026-08-30T12:39:22+08:00",
+      "summary": "尼康在欧洲推出新优惠活动，同时尼康加拿大返现9月10日结束，尼康美国返现明天结束。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Nikon savings launched in Europe"
+    },
+    {
+      "id": "recvtKXpDfhIZj",
+      "title": "DPReview迷你挑战赛9月1日启动，庆祝保存照片月",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/dpreview-mini-challenge-begins-on-september-1-for-save-your-photos-month/",
+      "publish_time": "2026-08-30T12:00:00+08:00",
+      "summary": "DPReview于9月1日启动迷你挑战赛，每日公布新主题，庆祝保存照片月，参与者有机会被选入特别聚焦文章。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DPReview mini-challenge begins on September 1 to celebrate Save Your Photos Month"
+    },
+    {
+      "id": "recvtKXjTN9T7h",
+      "title": "“我们每年与数千名摄影师交流”：Capture One 如何通过提供“几乎消失的技术”构建专业工作流程的未来",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/we-speak-to-thousands-of-photographers-every-year-how-capture-one-builds-the-future-of-professional-workflows-by-providing-technology-that-almost-seems-to-melt-away",
+      "publish_time": "2026-08-30T11:20:00+08:00",
+      "summary": "Capture One CEO称，与全球摄影师交流塑造产品，联机拍摄对专业拍摄仍关键，丹麦小团队影响全球摄影。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "\"We speak to thousands of photographers every year\": How Capture One builds the future of professional workflows by providing \"technology that almost seems to melt away\""
+    },
+    {
+      "id": "recvtKXrxSwHX3",
+      "title": "摄影师：在黄金时刻尝试这些拍摄技巧",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/29/12-weekend-photo-projects-golden-hour-copy/",
+      "publish_time": "2026-08-30T09:00:00+08:00",
+      "summary": "摄影师在黄金时刻拍摄易感无聊，本文提供多样拍摄技巧，尝试后或可学到新方法，核心价值在于激发创意。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographers: Try These Things During the Golden Hour"
+    },
+    {
+      "id": "recvtKXnNqdNDK",
+      "title": "2天后：富士胶片价格上调——10%镜头返利即将结束！",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/in-2-days-fujifilm-prices-go-up-10-lens-rebate-ends/",
+      "publish_time": "2026-08-30T06:11:43+08:00",
+      "summary": "富士胶片相机将于9月1日全球涨价，德国零售商已发布清单，美国是否受影响未知，同时10%镜头返利即将结束。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "IN 2 DAYS: Fujifilm Prices Go Up — 10% Lens Rebate Ends!"
+    },
+    {
+      "id": "recvtKXlSoWxal",
+      "title": "GoPro Mission 1 与 GoPro Mission 1 Pro：哪款运动相机最值得购买？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-mission-1-vs-gopro-mission-1-pro-which-action-camera-is-the-best-buy",
+      "publish_time": "2026-08-30T05:20:00+08:00",
+      "summary": "对比GoPro Mission 1与Pro版，解析差异，助选最值运动相机，含核心参数。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "GoPro Mission 1 vs GoPro Mission 1 Pro: Which action camera is the best buy?"
+    },
     {
       "id": "recvtIRaqw8sJa",
       "title": "雾件美学证明尼康影像深度胜过富士",
@@ -7491,115 +7596,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "HMD 102 4G Pro specs leak"
-    },
-    {
-      "id": "recvsBTkAeDjyv",
-      "title": "索尼a7V如何证明入门级全画幅相机需求旺盛",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/17/how-the-sony-a7v-is-proving-entry-level-full-frame-is-in-demand/",
-      "publish_time": "2026-08-18T09:00:00+08:00",
-      "summary": "索尼a7V等入门级全画幅相机需求旺盛，销量领先，富士胶片紧随其后，购买新相机可考虑这些选项。",
-      "recommendation": "通过销量数据剖析入门全画幅市场格局，为选购新机提供参考，含索尼与富士的竞争态势分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "How The Sony a7V is Proving Entry Level Full Frame is in Demand"
-    },
-    {
-      "id": "recvsBThgUPbnT",
-      "title": "尼康Z卡口7Artisans AF 135mm f/1.8镜头野生动物摄影：不同视角",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/17/wildlife-photography-with-the-7artisans-af-135mm-f-1-8-lens-for-nikon-z-mount-a-different-perspective.aspx/",
-      "publish_time": "2026-08-18T08:33:46+08:00",
-      "summary": "西班牙摄影师Francis De Andrés在秘鲁马努国家公园用7Artisans AF 135mm f/1.8尼康Z卡口镜头拍摄野生动物，展示其独特视角。",
-      "recommendation": "以135mm f/1.8镜头在秘鲁雨林拍野生动物，展示长焦大光圈生态摄影新视角，含实拍参数与场景适配分析，对生态摄影爱好者有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Wildlife photography with the 7Artisans AF 135mm f/1.8 lens for Nikon Z-mount: a different perspective"
-    },
-    {
-      "id": "recvsBT4qpPvlK",
-      "title": "谷歌Pixel 11 Pro XL正式亮相——开箱评测，欢迎提问",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/googles-pixel-11-pro-xl-is-here-unboxed-and-open-for-your-questions/",
-      "publish_time": "2026-08-18T06:23:35+08:00",
-      "summary": "谷歌Pixel 11 Pro XL正式亮相，开箱评测视频已发布，欢迎提问。核心价值在于展示新机并收集用户问题。",
-      "recommendation": "Pixel 11 Pro XL开箱展示真机细节，但缺乏影像样张与实测数据。常规资讯，可了解行业动态。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google’s Pixel 11 Pro XL is here – unboxed, and open for your questions"
-    },
-    {
-      "id": "recvsBSP36JwAJ",
-      "title": "Adaptalux 想让微距摄影照明变得简单",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/adaptalux-wants-to-make-macro-lighting-easy/",
-      "publish_time": "2026-08-18T06:12:44+08:00",
-      "summary": "Adaptalux推出Pod Mini 2.0，简化微距摄影照明，提升便携性与易用性。",
-      "recommendation": "微距布光新方案解析，Pod Mini 2.0便携性提升对入门用户友好，含产品迭代细节，常规资讯可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Adaptalux Wants to Make Macro Lighting Easy"
-    },
-    {
-      "id": "recvsBSSxxDd37",
-      "title": "大疆在“中国军事公司”认定法律战中取得部分胜利",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/dji-lands-partial-win-in-legal-fight-over-chinese-military-company-designation/",
-      "publish_time": "2026-08-18T05:14:52+08:00",
-      "summary": "美国上诉法院部分推翻大疆被列为中国军事公司的裁决，发回重审，大疆取得法律战部分胜利。",
-      "recommendation": "涉大疆合规风险，影响无人机影像设备选购与行业格局。含法律细节，助你判断品牌前景。常规资讯，可了解动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "DJI Lands Partial Win in Legal Fight Over ‘Chinese Military Company’ Designation"
-    },
-    {
-      "id": "recvsBToG7ogTv",
-      "title": "Insta360能否重振M4/3画幅市场？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/17/could-insta360-revive-the-micro-four-thirds-segment/",
-      "publish_time": "2026-08-18T05:00:00+08:00",
-      "summary": "Insta360拟进军数码相机市场，或影响日本竞争对手，其技术优势可能重振M4/3画幅市场。",
-      "recommendation": "剖析Insta360进军相机市场对M4/3生态的潜在影响，含技术路线与竞品格局分析，为影像爱好者提供行业前瞻视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Could Insta360 Revive the Micro Four Thirds Segment?"
-    },
-    {
-      "id": "recvsBSVoXjr1b",
-      "title": "这个笨拙但有趣的应用程序以鸟的速度向朋友发送照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/17/this-dumb-but-fun-app-sends-photos-to-your-friends-at-the-speed-of-bird/",
-      "publish_time": "2026-08-18T04:48:30+08:00",
-      "summary": "新型vibe-coded iOS慢消息应用Carrier Pidge以鸟速传照片，创作者承认其无实际意义，但趣味性十足。",
-      "recommendation": "常规资讯，可了解行业动态。以鸟速传照片的创意虽有趣，但缺乏影像技术深度，对摄影爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Dumb but Fun App Sends Photos to Your Friends at the Speed of Bird"
     }
   ]
 }
