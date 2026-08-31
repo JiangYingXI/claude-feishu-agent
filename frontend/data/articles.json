@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-31T22:28:40.761092+08:00",
+    "updated_at": "2026-09-01T07:12:18.154048+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 4
+      "count": 3
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 17
+      "count": 15
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,335 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 11
+      "count": 9
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 482
+      "count": 488
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 24
+      "count": 14
     }
   ],
   "articles": [
+    {
+      "id": "recvtV1TBDsMvv",
+      "title": "荣耀Magic9 Pro据称将成首款配备方形自拍传感器的安卓手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_magic9_pro_said_to_be_the_first_android_phone_with_a_square_selfie_sensor-news-74418.php",
+      "publish_time": "2026-09-01T05:31:02+08:00",
+      "summary": "荣耀Magic9 Pro据称将成首款配备方形自拍传感器的安卓手机，预计9月发布，搭载骁龙8 Elite Gen 6 Pro芯片组。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Magic9 Pro said to be the first Android phone with a square selfie sensor"
+    },
+    {
+      "id": "recvtV1Z0wsVQV",
+      "title": "AI电影奖项实至名归，还是为抄袭他人作品正名？伦敦AI电影颁奖礼引发思考",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/are-ai-filmmaking-awards-deserved-or-do-they-legitimize-ripping-off-others-work-london-ai-movie-ceremony-has-me-thinking",
+      "publish_time": "2026-09-01T05:20:00+08:00",
+      "summary": "第二届AI电影奖将举行，认可AI创造力，但平台未经付费使用版权内容，引发抄袭争议。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Are AI filmmaking awards deserved, or do they legitimize ripping off others' work? London AI movie ceremony has me thinking"
+    },
+    {
+      "id": "recvtV1zFDgJh4",
+      "title": "我在古董店仅花5美元就找到了一位著名摄影师的早期作品",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/i-found-a-famous-photographers-early-print-for-just-5-in-an-antique-store/",
+      "publish_time": "2026-09-01T05:18:53+08:00",
+      "summary": "一张5美元照片揭示著名摄影师76年早期职业生涯，展现其艺术起点与价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "I Found a Famous Photographer’s Early Print for Just $5 in an Antique Store"
+    },
+    {
+      "id": "recvtV2b15uOBz",
+      "title": "叫上你最好的摄影师朋友，试试这个",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/31/photowalking-best-friends/",
+      "publish_time": "2026-09-01T05:00:00+08:00",
+      "summary": "摄影师可在摄影漫步中相互学习启发，提升技艺。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Grab Your Best Photographer Friend, and Try This"
+    },
+    {
+      "id": "recvtV1BFSSPce",
+      "title": "OmniCore是一款全闪存NAS，利用AI搜索你的照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/omnicore-is-an-all-flash-nas-that-uses-ai-to-search-your-photos/",
+      "publish_time": "2026-09-01T03:27:05+08:00",
+      "summary": "OmniCore是一款模块化全闪存NAS，利用AI搜索照片，为创意人士提供快速智能文件控制。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "OmniCore Is An All-Flash NAS That Uses AI to Search Your Photos"
+    },
+    {
+      "id": "recvtV1VpqOEem",
+      "title": "三星Galaxy S27 Ultra新长焦相机细节曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_ultras_new_telephoto_camera_detailed-news-74417.php",
+      "publish_time": "2026-09-01T03:21:02+08:00",
+      "summary": "三星Galaxy S27 Ultra将配备三摄，用1/1.9英寸传感器新长焦取代两颗长焦，提升拍摄性能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 Ultra's new telephoto camera detailed"
+    },
+    {
+      "id": "recvtV1Do8nLXu",
+      "title": "Godox推出可定制像素艺术灯，可安装在相机上",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/godox-unveils-a-customizable-pixel-art-light-you-put-on-your-camera/",
+      "publish_time": "2026-09-01T02:35:36+08:00",
+      "summary": "Godox发布可定制像素艺术灯，可安装相机或佩戴，与LE600R RGB LED单灯一同推出，面向电影制作人和内容创作者。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Godox Unveils a Customizable Pixel Art Light You Put On Your Camera"
+    },
+    {
+      "id": "recvtV20RWG6Sq",
+      "title": "“这款主力镜头总在我的包里。”摄影师Chris Burkard出门必带这支索尼变焦镜头，但这还不是他的最爱",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-workhorse-is-always-in-my-bag-photographer-chris-burkard-doesnt-head-out-without-this-sony-zoom-but-thats-not-even-his-favorite",
+      "publish_time": "2026-09-01T02:17:46+08:00",
+      "summary": "摄影师Chris Burkard在视频中介绍其户外摄影精简装备，重点推荐索尼变焦镜头，虽非最爱但必带，强调实用与便携性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "“This workhorse is always in my bag.” Photographer Chris Burkard doesn’t head out without this Sony zoom, but that’s not even his favorite"
+    },
+    {
+      "id": "recvtV22tqzMU5",
+      "title": "皇家海军摄影师在新史诗特辑《镜头下的生活》中表示：“AI无法做到我们所做的事”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/ai-cant-replicate-what-we-do-it-cant-go-out-on-the-ground-it-cant-search-out-human-interest-stories-say-royal-navy-photographers-in-epic-new-featurette-life-through-the-lens",
+      "publish_time": "2026-09-01T02:10:00+08:00",
+      "summary": "皇家海军摄影师称AI无法捕捉人性故事，新片《镜头下的生活》展示其工作，强调人类视角的独特价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "\"AI can't do what we do,\" say Royal Navy photographers in epic new featurette, 'Life Through The Lens'"
+    },
+    {
+      "id": "recvtV1Mx4Q2tC",
+      "title": "刚刚发布：三星P7和P9固态硬盘为摄影师带来USB4速度",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/just-announced-samsung-p7-and-p9-ssds-bring-usb4-speed-to-photographers/",
+      "publish_time": "2026-09-01T02:07:26+08:00",
+      "summary": "三星发布P7和P9便携固态硬盘，提供USB4速度，容量1TB至8TB，P7轻巧耐摔，适合摄影师日常使用。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Just Announced: Samsung P7 and P9 SSDs Bring USB4 Speed to Photographers"
+    },
+    {
+      "id": "recvtV1RQLB6Wu",
+      "title": "扎克·斯奈德新片聚焦毒品、暴力与摄影",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/zach-snyders-new-movie-is-about-drugs-violence-and-photography/",
+      "publish_time": "2026-09-01T01:44:26+08:00",
+      "summary": "扎克·斯奈德新片《最后一张照片》预告片中的相机细节被关注，影片聚焦毒品、暴力与摄影主题。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Zach Snyder’s new movie is about drugs, violence and photography"
+    },
+    {
+      "id": "recvtV27IdOtk5",
+      "title": "NiSi 26mm f/0.7 与 NiSi 50mm T/1 即将登陆富士 GFX 系统",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/nisi-26mm-f-0-7-and-nisi-50mm-t-1-coming-for-fujifilm-gfx/",
+      "publish_time": "2026-09-01T01:38:10+08:00",
+      "summary": "NiSi将推出26mm f/0.7和50mm T/1两款镜头，支持富士GFX系统，覆盖GFX传感器尺寸，文章首发于Fuji Rumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "NiSi 26mm f/0.7 and NiSi 50mm T/1 Coming for Fujifilm GFX"
+    },
+    {
+      "id": "recvtV1F1dLrIQ",
+      "title": "获奖纪录片致敬开创性黑人摄影师",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/award-winning-documentary-celebrates-pioneering-black-photographers/",
+      "publish_time": "2026-09-01T01:08:06+08:00",
+      "summary": "32岁电影制作人迈克尔·布莱克希尔制作纪录片，致敬芝加哥八十多岁的先驱黑人摄影师，展现其开创性贡献。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Award-Winning Documentary Celebrates Pioneering Black Photographers"
+    },
+    {
+      "id": "recvtV2cWmK4l6",
+      "title": "这可能是你扫描胶片看起来奇怪的原因",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/31/theory-behind-youre-not-getting-scanned-film-copy/",
+      "publish_time": "2026-09-01T01:00:00+08:00",
+      "summary": "文章解释胶片扫描结果异常的原因，指出扫描仪性能限制是主因，并提及大画幅相机扫描的优势。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This Could Be Why Your Scanned Film Looks Weird"
+    },
+    {
+      "id": "recvtV1GOqZZOZ",
+      "title": "无人机摄影师意外拍到尼泊尔致命泥石流",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/drone-photographer-accidentally-captures-devastating-nepal-mudslide/",
+      "publish_time": "2026-09-01T00:49:58+08:00",
+      "summary": "尼泊尔无人机摄影师意外拍到喜马拉雅冰川崩塌引发的致命泥石流，记录灾害瞬间，凸显无人机在灾害监测中的价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Drone Photographer Accidentally Captures Devastating Nepal Mudslide"
+    },
+    {
+      "id": "recvtV1IRTDZh0",
+      "title": "前大疆工程师为‘全球首款机器人超远摄相机’筹集25万美元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/former-dji-engineers-raise-250000-for-worlds-first-robotic-extreme-zoom-camera/",
+      "publish_time": "2026-09-01T00:11:58+08:00",
+      "summary": "前大疆工程师创立的FarseerTech为全球首款机器人超远摄相机RocXZoom众筹25万美元，该相机集50倍混合变焦、电动云台与AI识别于一体，专为野生动物拍摄设计。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Former DJI Engineers Raise $250,000 for ‘World’s First Robotic Extreme Zoom Camera’"
+    },
+    {
+      "id": "recvtV1KAIOmpK",
+      "title": "婚礼摄影师指责第二摄影师偷懒并引发混乱",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/wedding-photographer-accuses-second-shooter-of-goofing-off-and-causing-a-scene/",
+      "publish_time": "2026-08-31T23:46:34+08:00",
+      "summary": "婚礼摄影师在Facebook上公开指责第二摄影师偷懒，引发混乱争执，迅速传播，凸显职业素养问题。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Wedding Photographer Accuses Second Shooter of Goofing Off and Causing a Scene"
+    },
+    {
+      "id": "recvtV24g86Z5z",
+      "title": "我最喜欢的复古镜头滤镜，如今变成了数字滑块。Adobe悄然推出全新“辉光”滑块，我已深深着迷",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/my-favorite-retro-lens-filter-for-a-film-like-look-is-now-a-digital-slider-adobe-has-sneak-launched-a-new-glow-slider-and-im-already-obsessed",
+      "publish_time": "2026-08-31T23:23:41+08:00",
+      "summary": "Adobe Camera RAW新增“辉光”滑块，模拟复古胶片镜头漫射效果，成为作者最爱。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "My favorite retro lens filter for a film-like look is now a digital slider. Adobe has sneak-launched a new “glow” slider, and I’m already obsessed"
+    },
+    {
+      "id": "recvtV261UYS5r",
+      "title": "“我们都说不清具体是什么，但都觉得它很特别”——《蜘蛛侠：崭新一日》摄影指导谈大画幅相机拍摄、原型镜头与漫画风格LUT",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/neither-of-us-could-quite-put-our-finger-on-it-but-we-both-agreed-there-was-something-special-spider-man-brand-new-day-cinematographer-talks-shooting-with-a-large-format-camera-prototype-lenses-and-comic-book-inspired-luts",
+      "publish_time": "2026-08-31T23:20:00+08:00",
+      "summary": "新蜘蛛侠电影用大画幅相机、定制镜头和漫画风格LUT拍摄，灵感源自角色早期漫画形象，突出独特视觉体验。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "\"Neither of us could quite put our finger on it, but we both agreed there was something special\" –Spider-Man: Brand New Day cinematographer talks shooting with a large-format camera, prototype lenses and comic book-inspired LUTs"
+    },
+    {
+      "id": "recvtV1QdDznlB",
+      "title": "佳能新款高端PowerShot将与PowerShot G7 X Mark III有所不同",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/canons-new-higher-end-powershot-will-be-different-than-the-powershot-g7-x-mark-iii/",
+      "publish_time": "2026-08-31T22:50:59+08:00",
+      "summary": "佳能重返紧凑相机市场，推出新款高端PowerShot，与G7 X Mark III不同，基于8年前机型，注重视频功能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Canon’s New Higher End PowerShot Will Be Different Than the PowerShot G7 X Mark III"
+    },
+    {
+      "id": "recvtV1Xm1tMV6",
+      "title": "vivo T5 5G相机规格在发布前曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_t5_5g_camera_specs_revealed_ahead_of_launch-news-74412.php",
+      "publish_time": "2026-08-31T22:23:02+08:00",
+      "summary": "vivo T5 5G即将在印度发布，确认配备5000万像素主摄，支持四轴OIS，采用索尼IMX882传感器。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo T5 5G camera specs revealed ahead of launch"
+    },
     {
       "id": "recvtSTTnsWTtx",
       "title": "YouTube明星兼电影制作人Markiplier成为GoPro最大股东",
@@ -86,6 +401,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Used camera gear is one of the most popular sellers on eBay Japan, second only to this category"
+    },
+    {
+      "id": "recvtV1OrJaPmG",
+      "title": "索尼新款2600万像素全堆栈式传感器：将应用于FX30 II和A6900？",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sonys-new-26mp-fully-stacked-sensor-coming-to-the-fx30-ii-and-a6900/",
+      "publish_time": "2026-08-31T21:20:34+08:00",
+      "summary": "索尼新款26MP APS-C全堆叠式传感器，具备124fps帧率、3.76μm像素、全局快门及DCG-HDR技术，可能用于FX30 II和A6900。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony’s New 26MP fully Stacked Sensor: Coming to the FX30 II and A6900?"
     },
     {
       "id": "recvtSUmim3Jiu",
@@ -266,6 +596,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Tilta Price Increases are Coming on September 1"
+    },
+    {
+      "id": "recvtV29sHj9yu",
+      "title": "智能手机防抖实拍：旗舰机如何应对运动与弱光场景",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/smartphone-photo-stabilization-in-action-how-flagships-handle-motion-and-low-light/",
+      "publish_time": "2026-08-31T16:47:45+08:00",
+      "summary": "文章实测旗舰手机在运动与弱光场景下的防抖性能，指出光照和运动类型影响成像，低光长曝光易致模糊，核心价值在于指导用户选择适合的拍摄模式。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Smartphone photo stabilization in action : How flagships handle motion and low light"
     },
     {
       "id": "recvtSU6hC1CXc",
@@ -7227,360 +7572,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "Beyond the Smartphone: How Sony and TSMC’s New Alliance Will Redefine Mirrorless Sensors?"
-    },
-    {
-      "id": "recvsKwrBwYFjv",
-      "title": "与DPReview社区共庆世界摄影日：迷人风景作品赏析",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/splendid-dpreview-community-landscapes-for-world-photography-day/",
-      "publish_time": "2026-08-19T21:24:57+08:00",
-      "summary": "庆祝世界摄影日，展示社区成员拍摄的多样地方风光照片，体现摄影艺术魅力。",
-      "recommendation": "从社区实拍作品看不同地域的光影表达，附拍摄参数与构图思路，对风光摄影爱好者有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Celebrating World Photography Day with captivating landscapes from the DPReview community"
-    },
-    {
-      "id": "recvsKvRIDNMsX",
-      "title": "松下要放弃M4/3？这位YouTuber认为APS-C画幅L卡口相机可能正在酝酿中——这可能意味着MFT的终结",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/is-panasonic-ditching-micro-four-thirds-this-youtuber-thinks-that-an-aps-c-l-mount-camera-might-be-on-the-cards-and-it-could-spell-the-end-for-mft",
-      "publish_time": "2026-08-19T21:23:24+08:00",
-      "summary": "松下停产多款M4/3镜头，引发用户对其放弃该系统的担忧。有YouTuber推测，松下可能正酝酿APS-C画幅L卡口相机，这或预示MFT系统终结。",
-      "recommendation": "针对松下M4/3系统存废的行业猜测，梳理停产镜头线索与L卡口APS-C机型传闻，为持机用户提供换门决策参考，观点具前瞻性。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is Panasonic ditching Micro Four Thirds? This YouTuber thinks that an APS-C L-Mount camera might be on the cards – and it could spell the end for MFT"
-    },
-    {
-      "id": "recvsKwmDHffqX",
-      "title": "美国新关税将如何永久改变航拍行业",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/19/heres-how-the-new-us-tariffs-will-change-aerial-photography-forever/",
-      "publish_time": "2026-08-19T21:00:00+08:00",
-      "summary": "美国对进口无人机征收新关税，将提高摄影成本，影响航拍行业，摄影师需应对价格上涨。",
-      "recommendation": "关税政策直接影响航拍设备采购成本，本文提供行业影响分析与应对思路，助你规划器材预算。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Here’s How the New US Tariffs Will Change Aerial Photography Forever"
-    },
-    {
-      "id": "recvsKvCD24OPH",
-      "title": "远程相机首次帮助研究人员估算密歇根州狼群数量",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/remote-cameras-help-researchers-estimate-michigans-wolf-population-for-first-time-ever/",
-      "publish_time": "2026-08-19T20:37:17+08:00",
-      "summary": "研究人员首次利用远程相机估算密歇根州狼群数量，该技术提供更精确数据，助力野生动物保护与管理。",
-      "recommendation": "远程相机技术首次用于狼群普查，展示影像设备在生态监测中的新应用，提供技术跨界参考，数据方法具启发性。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Remote Cameras Help Researchers Estimate Michigan’s Wolf Population for First Time Ever"
-    },
-    {
-      "id": "recvsKvF4N4EJ1",
-      "title": "年度修图师大赛征集你的照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/retoucher-of-the-year-competition-wants-your-photos/",
-      "publish_time": "2026-08-19T20:26:17+08:00",
-      "summary": "年度修图师大赛公开征集摄影师提交照片，参赛者需不介意他人编辑作品，核心价值在于提供作品被专业修图师再创作的机会。",
-      "recommendation": "提供作品被专业修图师再创作的机会，展现影像后期创作新视角，对摄影爱好者有独特参与价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Retoucher of the Year Competition Wants Your Photos"
-    },
-    {
-      "id": "recvsKvUH3AOix",
-      "title": "日本“新”#1紧凑型相机多年来一直很受欢迎——但真正的傻瓜相机英雄紧随其后，仅售99美元，外观复古",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-new-1-compact-camera-in-japan-has-been-popular-for-years-but-the-real-point-and-shoot-hero-sits-close-behind-at-just-us-usd99-with-a-retro-look",
-      "publish_time": "2026-08-19T20:03:15+08:00",
-      "summary": "日本最受欢迎紧凑型相机历史悠久，但柯达复古Pixpro系列以99美元低价和复古外观销量领先，成为真正傻瓜相机英雄。",
-      "recommendation": "对比日本热门机型与柯达99美元复古机，揭示低价傻瓜相机市场趋势，提供消费级影像产品差异化视角。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The \"new\" #1 compact camera in Japan has been popular for years – but the real point-and-shoot hero sits close behind at just US$99 with a retro look"
-    },
-    {
-      "id": "recvsKwaBgkYbV",
-      "title": "OPPO宽屏手机或搭载2亿像素摄像头",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/oppos_widescreen_phone_tipped_to_feature_a_200mp_camera-news-74241.php",
-      "publish_time": "2026-08-19T20:01:02+08:00",
-      "summary": "据传Oppo研发宽屏手机Reno X，可能搭载2亿像素主摄和潜望式长焦，或与Find X10系列一同发布。",
-      "recommendation": "2亿像素主摄与潜望长焦组合，预示手机影像新方向。虽为传闻，但可助爱好者提前预判硬件趋势。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Oppo's wide-screen phone tipped to feature a 200MP camera"
-    },
-    {
-      "id": "recvsKvXHaMwaK",
-      "title": "近4000幅参赛作品筛选至仅4幅——2026年温斯顿·泰勒人像摄影奖入围名单公布",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/almost-4-000-entries-whittled-down-to-just-4-the-winston-taylor-photo-portrait-prize-2026-shortlist-has-been-announced",
-      "publish_time": "2026-08-19T19:54:29+08:00",
-      "summary": "温斯顿·泰勒人像摄影奖公布入围名单，近4000幅作品筛选至4幅，决赛者将角逐15000英镑大奖。",
-      "recommendation": "从近4000幅作品看人像摄影审美趋势，解析评委筛选标准与获奖作品技术细节，对提升构图与叙事能力有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Almost 4,000 entries whittled down to just 4 – the Winston Taylor Photo Portrait Prize 2026 shortlist has been announced"
-    },
-    {
-      "id": "recvsKvHwKcv1l",
-      "title": "体育摄影师因诈骗130个家庭被捕，警方未找到其照片或摄影器材",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/sports-photographer-arrested-for-scamming-130-families-as-cops-fail-to-find-her-photos-or-camera-gear/",
-      "publish_time": "2026-08-19T19:40:13+08:00",
-      "summary": "体育摄影师涉嫌诈骗130个家庭被捕，警方调查一年未找到其照片或摄影器材。",
-      "recommendation": "行业信任警示：揭露摄影接单诈骗手法，提醒从业者核查客户资质，保护作品版权与器材安全。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sports Photographer Arrested for Scamming 130 Families as Cops Fail to Find Her Photos or Camera Gear"
-    },
-    {
-      "id": "recvsKvK7J7zmU",
-      "title": "摄影师相机在眼皮底下被盗",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/photographer-has-his-camera-stolen-from-under-his-nose/",
-      "publish_time": "2026-08-19T19:14:52+08:00",
-      "summary": "摄影师在英国拍摄时，相机包在转身几秒内被盗，提醒摄影器材需随身看管。",
-      "recommendation": "真实案例警示器材防盗，附现场细节与防范建议，对常外出拍摄者具实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Photographer Has His Camera Stolen From Under His Nose"
-    },
-    {
-      "id": "recvsKwdPKEm2d",
-      "title": "重磅泄露揭示Galaxy S26 FE的新渲染图、规格和功能",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/mega_leak_reveals_new_renders_specs_and_features_of_the_galaxy_s26_fe-news-74237.php",
-      "publish_time": "2026-08-19T18:04:02+08:00",
-      "summary": "三星Galaxy S26 FE新泄露曝光26张营销图，揭示蓝莓、石墨、开心果三色及关键规格功能。",
-      "recommendation": "26张营销图泄露，提前掌握S26 FE三配色及影像规格，对关注三星中端机型拍摄性能者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Mega leak reveals new renders, specs, and features of the Galaxy S26 FE"
-    },
-    {
-      "id": "recvsKw0ibEGms",
-      "title": "这款f/0.9镜头打造惊艳虚化，让人像脱颖而出，是有史以来最快的镜头之一——现在售价更低",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/this-f-0-9-lens-creates-gorgeous-bokeh-that-makes-portraits-pop-and-is-one-of-the-fastest-lenses-ever-made-now-available-for-less",
-      "publish_time": "2026-08-19T18:03:19+08:00",
-      "summary": "福伦达Nokton 35mm f/0.9镜头，富士X卡口，超快光圈，迷人散景，手动对焦，售价1199美元，性价比高。",
-      "recommendation": "f/0.9超快光圈实属罕见，文章解析其虚化与人像表现，并给出1199美元售价，对追求极致散景的富士用户具参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This f/0.9 lens creates gorgeous bokeh that makes portraits pop and is one of the fastest lenses ever made – now available for less"
-    },
-    {
-      "id": "recvsKw2BLG6tL",
-      "title": "这些紧凑型相机是预算级傻瓜机之王，现在它们更便宜了",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/these-compact-cameras-are-budget-point-and-shoot-champions-and-now-theyre-even-cheaper",
-      "publish_time": "2026-08-19T17:48:34+08:00",
-      "summary": "紧凑型傻瓜相机以小巧机身和亲民价格成为预算级首选，现价格更低，兼具便携与趣味性。",
-      "recommendation": "预算级傻瓜机价格走低，文章梳理选购要点与市场行情，提供具体机型对比数据，适合入门玩家参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "These compact cameras are budget point-and-shoot champions and now they're even cheaper"
-    },
-    {
-      "id": "recvsKvA55UvJQ",
-      "title": "Viltrox 新款 26mm f/2.8 镜头，提供银色和钛金属饰面",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/viltrox-new-26mm-f-2-8-in-silver-and-titanium-finish/",
-      "publish_time": "2026-08-19T17:37:22+08:00",
-      "summary": "Viltrox在摄影展上展示26mm f/2.8 FE饼干镜头的新银色和钛金色版本，预购时间未定。",
-      "recommendation": "常规资讯，可了解行业动态。Viltrox 26mm f/2.8 FE饼干镜头新增银色与钛金色饰面，对颜值党有参考价值，但预购时间未定，缺乏关键参数与实测数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Viltrox new 26mm f/2.8 in Silver and Titanium finish"
-    },
-    {
-      "id": "recvsKvMK9kyG7",
-      "title": "幸运无人机飞行员捕捉尼亚加拉大瀑布迷人画面",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/lucky-drone-pilot-captures-mesmerizing-footage-of-niagara-falls/",
-      "publish_time": "2026-08-19T17:24:42+08:00",
-      "summary": "FPV无人机飞行员携GoPro Mission 1 Pro相机在尼亚加拉大瀑布进行惊险飞行，捕捉迷人画面，展示极限航拍技术。",
-      "recommendation": "GoPro Mission 1 Pro极限航拍实战，展示FPV无人机在尼亚加拉大瀑布的操控技巧与画质表现，提供独特飞行视角和拍摄参数参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Lucky Drone Pilot Captures Mesmerizing Footage of Niagara Falls"
-    },
-    {
-      "id": "recvsKwh1DtQqn",
-      "title": "vivo Y31t发布：搭载骁龙4 Gen 2处理器，配备7200mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_y31t_launches_with_snapdragon_4_gen_2_soc_7200_mah_battery-news-74236.php",
-      "publish_time": "2026-08-19T17:03:02+08:00",
-      "summary": "vivo Y31t正式发布，配备6.75英寸120Hz屏幕，骁龙4 Gen 2处理器，7200mAh电池，44W快充，后置5000万像素主摄，提供三种存储配置。",
-      "recommendation": "常规资讯，可了解行业动态。文章聚焦Y31t的7200mAh电池与骁龙4 Gen 2，但影像部分仅提及5000万像素主摄，缺乏传感器型号、光圈及实拍样张等关键数据，对影像爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo Y31t launches with Snapdragon 4 Gen 2 SoC, 7,200 mAh battery"
-    },
-    {
-      "id": "recvsKvP4AOebO",
-      "title": "Capture One 为移动端带来 4 项备受期待的功能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/capture-one-brings-4-highly-requested-features-to-mobile/",
-      "publish_time": "2026-08-19T17:00:00+08:00",
-      "summary": "Capture One Mobile 4.0发布，为iPhone和iPad带来4项桌面级编辑功能，提升移动端专业修图体验。",
-      "recommendation": "Capture One Mobile 4.0新增4项桌面级编辑功能，详解移动端专业修图升级，对iPhone/iPad用户有直接参考价值，含具体功能与操作细节。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Capture One Brings 4 Highly-Requested Features to Mobile"
-    },
-    {
-      "id": "recvsKwpfO7JLf",
-      "title": "老款三星相机没那么差，只是RAW文件太糟糕",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/19/old-samsung-cameras-werent-so-bad-their-raw-files-just-sucked/",
-      "publish_time": "2026-08-19T17:00:00+08:00",
-      "summary": "记者回顾2014年测试三星NX30和50-150mm镜头，认为三星镜头出色但相机落后，多年后才明白原因在于RAW文件质量糟糕。",
-      "recommendation": "复盘三星NX30的RAW画质短板，揭示老相机性能瓶颈的深层原因，对二手器材选购和RAW后期有参考价值。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Old Samsung Cameras Weren’t So Bad. Their RAW Files Just Sucked"
-    },
-    {
-      "id": "recvsKwk0d4dqp",
-      "title": "Redmi M100正式发布：配备7900mAh电池与骁龙4 Gen 5处理器",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/redmi_m100_goes_official_with_7900_mah_battery_snapdragon_4_gen_5_soc-news-74235.php",
-      "publish_time": "2026-08-19T16:01:02+08:00",
-      "summary": "Redmi M100在中国发布，配备6.9英寸720p 120Hz LCD屏，骁龙4 Gen 5，7900mAh电池，45W快充，1300万后摄，500万前摄，HyperOS 3，重232克，提供荒野",
-      "recommendation": "常规资讯，可了解行业动态。影像配置仅1300万后摄，非主打卖点，但7900mAh续航与骁龙4 Gen 5组合对入门机市场有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Redmi M100 goes official with a 7,900 mAh battery, Snapdragon 4 Gen 5 SoC"
-    },
-    {
-      "id": "recvsJ2884yXHN",
-      "title": "索尼小贴士…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1915/",
-      "publish_time": "2026-08-19T14:07:07+08:00",
-      "summary": "索尼A7V用于鸟类和野生动物摄影的个人看法，附带多平台购物优惠及摄影教程链接，强调预算40mm镜头足够，无需昂贵镜头。",
-      "recommendation": "针对A7V鸟类摄影的实战观点，强调40mm镜头够用，附购物优惠与教程，适合预算有限的生态摄影爱好者参考。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvsJ2aZtY4Vm",
-      "title": "据报道，谷歌很快将终止在中国生产所有Pixel手机",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_reportedly_wants_to_end_all_pixel_production_in_china_very_soon-news-74223.php",
-      "publish_time": "2026-08-19T12:46:02+08:00",
-      "summary": "谷歌计划2027年停止在华生产Pixel产品，包括手机、手表和耳机，因已成功在越南和印度扩大生产，减少对华依赖。",
-      "recommendation": "常规资讯，可了解行业动态。Pixel影像算法依赖台积电代工，但生产转移不影响相机调校，关注后续供应链对Pixel相机成本的影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Google reportedly wants to end all Pixel production in China very soon"
-    },
-    {
-      "id": "recvsHKvzqwuhp",
-      "title": "三星Galaxy Tab S12 Ultra渲染图泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_render_leaks-news-74234.php",
-      "publish_time": "2026-08-19T09:01:01+08:00",
-      "summary": "三星Galaxy Tab S12 Ultra渲染图泄露，预计9月初发布，支持S Pen和双后置摄像头，与前代相似。",
-      "recommendation": "常规资讯，可了解行业动态。渲染图泄露仅展示外观，缺乏影像规格细节，对平板摄影爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy Tab S12 Ultra render leaks"
-    },
-    {
-      "id": "recvsHKGjo2niI",
-      "title": "6个街头摄影技巧：专业人士在采访中分享给我们的建议",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/18/6-street-photography-tips-pros-shared-with-us-in-an-interview/",
-      "publish_time": "2026-08-19T09:00:00+08:00",
-      "summary": "街头摄影需常练技巧，捕捉日常奇迹，核心在于观察与快速反应。",
-      "recommendation": "六位专业街拍摄影师的实战经验浓缩，聚焦观察力与反应速度训练，含具体构图时机和光线判断技巧，对提升日常抓拍能力有直接参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "6 Street Photography Tips Pros Shared With Us in an Interview"
     }
   ]
 }
