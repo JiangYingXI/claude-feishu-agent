@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-31T14:17:15.498061+08:00",
+    "updated_at": "2026-08-31T22:28:40.761092+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 21
+      "count": 17
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,295 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 4
+      "count": 2
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 12
+      "count": 11
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 476
+      "count": 482
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 30
+      "count": 24
     }
   ],
   "articles": [
+    {
+      "id": "recvtSTTnsWTtx",
+      "title": "YouTube明星兼电影制作人Markiplier成为GoPro最大股东",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/youtube-star-and-filmmaker-markiplier-just-became-gopros-biggest-shareholder/",
+      "publish_time": "2026-08-31T22:06:01+08:00",
+      "summary": "YouTube明星Markiplier收购GoPro 8.5%股份，成为最大股东，看好公司使命。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "YouTube Star and Filmmaker Markiplier Just Became GoPro’s Biggest Shareholder"
+    },
+    {
+      "id": "recvtSTVIAHUEf",
+      "title": "我是如何延时拍摄日食的（以及我学到的所有不该做的事）",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/how-i-timelapsed-the-solar-eclipse-and-everything-i-learned-not-to-do/",
+      "publish_time": "2026-08-31T22:01:01+08:00",
+      "summary": "作者赴西班牙北部拍摄日全食延时摄影，分享拍摄技巧与失败教训，强调捕捉全过程而非单一照片，提供实用参数与经验。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How I Timelapsed the Solar Eclipse (and Everything I Learned Not To Do)"
+    },
+    {
+      "id": "recvtSU7LcVlQw",
+      "title": "二手相机设备是日本eBay上最畅销的商品之一，仅次于这一类别",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/used-camera-gear-is-one-of-the-most-popular-sellers-on-ebay-japan-second-only-to-this-category",
+      "publish_time": "2026-08-31T21:35:26+08:00",
+      "summary": "新报告显示，相机是eBay日本卖家出口的第二大最受欢迎的二手商品，仅次于其他类别。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Used camera gear is one of the most popular sellers on eBay Japan, second only to this category"
+    },
+    {
+      "id": "recvtSUmim3Jiu",
+      "title": "相机先于鸡蛋诞生的奇妙故事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/31/the-curious-story-of-how-the-camera-came-before-the-egg/",
+      "publish_time": "2026-08-31T21:00:00+08:00",
+      "summary": "相机最初坚固耐用，但玻璃幻灯片脆弱需小心处理。安塞尔·亚当斯能携带设备在崎岖地形拍摄。后来相机变得精致如蛋，人类开始像对待鸡蛋一样对待它们。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Curious Story of How the Camera Came Before the Egg"
+    },
+    {
+      "id": "recvtSU9tJdrU1",
+      "title": "紧凑型和APS-C画幅无反是唯二增长的相机品类——这是否证明价格和便携性胜过画质？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compacts-and-aps-c-mirrorless-are-the-only-growing-camera-categories-does-this-prove-that-price-and-portability-beat-picture-quality",
+      "publish_time": "2026-08-31T20:30:00+08:00",
+      "summary": "尽管全画幅和中画幅相机性能卓越，但需求下降，紧凑型和APS-C画幅无反成为唯二增长品类，表明价格和便携性比画质更重要。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Compacts and APS-C mirrorless are the only growing camera categories – does this prove that price and portability beat picture quality?"
+    },
+    {
+      "id": "recvtSUiBDsSNy",
+      "title": "疑似vivo X500 Pro Max真机照及上手视频曝光，巨大相机岛设计亮相",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/alleged_vivo_x500_pro_max_photo_and_handson_video_reveal_a_massive_camera_island-news-74409.php",
+      "publish_time": "2026-08-31T20:17:02+08:00",
+      "summary": "vivo X500 Pro Max真机照曝光，巨大相机岛设计，宽度与手机相当，配备旋转摄像头环，显示vivo在影像技术上持续突破。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Alleged vivo X500 Pro Max photo and hands-on video reveal a massive camera island"
+    },
+    {
+      "id": "recvtSTXptn4uh",
+      "title": "“世界最差摄影师”发布她在冰岛拍摄的照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/worlds-worst-photographer-publishes-her-images-from-iceland/",
+      "publish_time": "2026-08-31T20:10:59+08:00",
+      "summary": "“世界最差摄影师”凭糟糕照片赢得5万美元和冰岛10日游，现已公开在冰岛拍摄的照片。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "‘World’s Worst Photographer’ Publishes Her Images From Iceland"
+    },
+    {
+      "id": "recvtSUb84DE1N",
+      "title": "简单的相机角度蕴含力量。从多莉·帕顿到自然灾害，本周最佳新闻照片凸显构图的力量",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/theres-power-in-a-simple-camera-angle-from-dolly-parton-to-natural-disasters-the-best-news-photos-this-week-highlight-the-power-of-composition",
+      "publish_time": "2026-08-31T19:40:09+08:00",
+      "summary": "本周最佳新闻照片展示构图与拍摄角度作为叙事工具的威力，从多莉·帕顿到自然灾害，凸显简单角度蕴含的力量。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "There’s power in a simple camera angle. From Dolly Parton to natural disasters, the best news photos this week highlight the power of composition"
+    },
+    {
+      "id": "recvtSTZa7XEjt",
+      "title": "Uber将允许家长通过司机的自拍摄像头查看青少年",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/uber-will-let-parents-watch-teens-through-drivers-selfie-cameras/",
+      "publish_time": "2026-08-31T19:25:02+08:00",
+      "summary": "优步推出新功能，允许家长在青少年乘车时实时查看司机自拍摄像头视频，以增强安全监控。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Uber Will Let Parents Watch Teens Through Drivers’ Selfie Cameras"
+    },
+    {
+      "id": "recvtSUcSCaZr8",
+      "title": "MorningBlues T2评测：展示照片并播放音乐的画框",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/digital-photo-frames/morningblues-t2-review",
+      "publish_time": "2026-08-31T19:20:00+08:00",
+      "summary": "MorningBlues T2是一款大型艺术画框，内置经典艺术库，能超高清展示图像并播放音乐，核心价值在于将艺术展示与音频功能结合。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "MorningBlues T2 review: an art frame that displays photos and plays tunes"
+    },
+    {
+      "id": "recvtSU0Xo0K1s",
+      "title": "摄影师在品质旅馆停车场拍摄血月",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/photographer-captures-blood-moon-from-the-parking-lot-of-a-quality-inn/",
+      "publish_time": "2026-08-31T18:53:50+08:00",
+      "summary": "摄影师安德鲁·麦卡锡在品质旅馆停车场巧妙利用环境，成功拍摄血月月食，证明好照片关键在于充分利用所在之处。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Captures Blood Moon From the Parking Lot of a Quality Inn"
+    },
+    {
+      "id": "recvtSU2FCwIZJ",
+      "title": "最后一天：亚马逊精选佳能装备享10%返现",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/last-day-10-cashback-on-select-canon-gear-at-amazon/",
+      "publish_time": "2026-08-31T17:10:38+08:00",
+      "summary": "亚马逊精选佳能EOS R相机和RF镜头享10% Prime Card返现，今日截止，可与其它优惠叠加。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Last Day: 10% Cashback on Select Canon Gear at Amazon"
+    },
+    {
+      "id": "recvtSUeMlnUm7",
+      "title": "在北极冰层钻出相邻孔洞八小时后，这位摄影师终于捕捉到一头北极熊直视他的单反镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/eight-hours-after-drilling-an-adjacent-hole-in-the-arctic-ice-this-photographer-finally-captured-a-polar-bear-staring-straight-into-his-dslr-lens",
+      "publish_time": "2026-08-31T17:10:00+08:00",
+      "summary": "挪威摄影师奥顿·里卡德森在北极冰层钻相邻孔洞等待八小时，捕捉到北极熊直视镜头的非凡画面，该作品获世界顶级野生动物摄影大赛重点展示。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Eight hours after drilling an adjacent hole in the Arctic ice, this photographer finally captured a polar bear staring straight into his DSLR lens"
+    },
+    {
+      "id": "recvtSUo4C6pyQ",
+      "title": "2026年，尼康F2还值得购买吗？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/31/is-the-nikon-f2-still-worth-buying-in-2026/",
+      "publish_time": "2026-08-31T17:00:00+08:00",
+      "summary": "2023年收到尼康F2作为礼物，至今仍在使用。该相机曾经历战区，被摄影记者广泛使用，功能多样，今年初还用于胶片摄影评测。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Is the Nikon F2 Still Worth Buying in 2026?"
+    },
+    {
+      "id": "recvtSU4v3CKbq",
+      "title": "Tilta 产品价格将于9月1日上调",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/tilta-increasing-prices-on-lots-of-products/",
+      "publish_time": "2026-08-31T16:59:27+08:00",
+      "summary": "Tilta宣布9月1日起上调Nucleus自动对焦系列、Boulder Cart和Hydra Alien Mini系列产品价格，反映相机行业普遍涨价趋势。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tilta Price Increases are Coming on September 1"
+    },
+    {
+      "id": "recvtSU6hC1CXc",
+      "title": "雨天和恶劣天气下拍摄，哪款相机最合适？",
+      "source": "CanonRumors",
+      "source_url": "https://www.canonrumors.com/which-camera-is-best-for-shooting-in-rain-and-bad-weather/",
+      "publish_time": "2026-08-31T15:50:01+08:00",
+      "summary": "雨天拍摄需防水相机，推荐具备防尘防滴溅的机型，如奥林巴斯OM-D E-M5 III，其IP53防护等级和五轴防抖确保恶劣天气下稳定成像。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Which Camera Is Best for Shooting in Rain and Bad Weather?"
+    },
+    {
+      "id": "recvtSUkvkeF4W",
+      "title": "华为Mate XT 2配色与存储版本曝光，现已开启预售",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huawei_mate_xt_2_colors_and_storage_variants_revealed_preorders_now_live-news-74406.php",
+      "publish_time": "2026-08-31T14:15:02+08:00",
+      "summary": "华为Mate XT 2三折叠手机开启预售，提供暗黑、纯白、锦紫三色及16GB/512GB和16GB/1TB两配置，将于9月7日发布。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Huawei Mate XT 2 colors and storage variants revealed, pre-orders now live"
+    },
+    {
+      "id": "recvtSUgAheg5q",
+      "title": "1919年，安德鲁·克洛梅林和查尔斯·戴维森拍摄的照片证明了爱因斯坦关于宇宙的理论是正确的。那么，为什么历史只记住了亚瑟·爱丁顿的名字？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/andrew-crommelin-and-charles-davidson-took-the-photograph-that-proved-einstein-right-about-the-universe-in-1919-so-why-does-history-only-remember-arthur-eddingtons-name",
+      "publish_time": "2026-08-31T14:15:00+08:00",
+      "summary": "1919年日食照片由克洛梅林和戴维森拍摄，证实爱因斯坦理论，但历史只记爱丁顿，揭示荣誉归属不公。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Andrew Crommelin and Charles Davidson took the photograph that proved Einstein right about the universe in 1919. So why does history only remember Arthur Eddington's name?"
+    },
     {
       "id": "recvtQUwuASQov",
       "title": "可换镜头GoPro终于来了——现可预购，售价699.99美元",
@@ -7311,283 +7581,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "6 Street Photography Tips Pros Shared With Us in an Interview"
-    },
-    {
-      "id": "recvsHKB5JPbIh",
-      "title": "GXAce正在打造一款“专为摄影而生”的全景相机，并分享其研发历程",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/gx-ace-gx-p1-fixed-camera-teaser-behind-the-scenes-announcement/",
-      "publish_time": "2026-08-19T07:59:00+08:00",
-      "summary": "GXAce研发全景相机GX-P1，固定镜头，拍摄65:24比例图像，灵感源自XPan，专为摄影设计。",
-      "recommendation": "独家披露GX-P1固定镜头与65:24画幅设计，源自XPan灵感，为全景摄影提供新思路，值得关注。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "GXAce is making a panoramic camera “built specifically for photography” and sharing the journey"
-    },
-    {
-      "id": "recvsHKLL4rlJh",
-      "title": "二手尼康AF-S 500mm f/4G ED VR还是现代尼康Z 180-600mm f/5.6-6.3 VR镜头：真实世界对比，你该选哪个？",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/18/should-you-buy-a-used-nikon-af-s-nikkor-500mm-f-4g-ed-vr-or-go-modern-with-the-nikon-nikkor-z-180-600mm-f-5-6-6-3-vr-lens-a-real-world-comparison.aspx/",
-      "publish_time": "2026-08-19T07:38:30+08:00",
-      "summary": "摄影师Gergely对比二手尼康500mm f/4G ED VR（1750美元）与现代Z 180-600mm f/5.6-6.3 VR（2096美元），分析性能与性价比，助你选择。",
-      "recommendation": "对比二手旗舰长焦与新款超长焦变焦，含实拍样张与价格分析，为生态摄影预算分配提供具体参考。",
-      "categories": [
-        "镜头与光学",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Should you buy a used Nikon AF-S Nikkor 500mm f/4G ED VR or go modern with the Nikon Nikkor Z 180-600mm f/5.6-6.3 VR lens: a real‑world comparison"
-    },
-    {
-      "id": "recvsHKyrf9L8Z",
-      "title": "YouTube调整视频观看次数计算方式",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/youtube_revises_view_count_format-news-74225.php",
-      "publish_time": "2026-08-19T07:31:02+08:00",
-      "summary": "YouTube宣布自8月24日起，视频观看次数将在播放开始时立即计入，与Shorts及TikTok等平台一致，以统一指标，消除混淆。",
-      "recommendation": "观看计数规则调整虽非影像技术，但影响创作者数据解读。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "YouTube revises view counting"
-    },
-    {
-      "id": "recvsHKpeCNIHf",
-      "title": "BH新优惠：Macbook Pro最高直降400美元",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-deal-at-bh-up-to-400-off-on-macbook-pros/",
-      "publish_time": "2026-08-19T05:08:23+08:00",
-      "summary": "BHphoto推出Macbook Pro最高直降400美元优惠，同时索尼、适马、腾龙、唯卓仕镜头在BHphoto、Amazon、Adorama等平台大幅降价。",
-      "recommendation": "MacBook Pro降价对视频剪辑用户是实用信息，镜头促销覆盖主流品牌，可作采购参考。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "New deal at BH: up to $400 off on Macbook Pros"
-    },
-    {
-      "id": "recvsHKJ6Q5z03",
-      "title": "保持相机功能正常的最省钱方法",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/18/cheapest-way-keep-camera-working/",
-      "publish_time": "2026-08-19T05:00:00+08:00",
-      "summary": "通过摄影护理计划，以低成本保护相机，针对制造商保修不覆盖的防风雨问题，确保设备安全。",
-      "recommendation": "摄影护理计划可低成本应对防风雨保修盲区，对户外拍摄者实用。文中成本对比与方案细节具参考价值，属常规资讯，可了解设备维护动态。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Cheapest Way to Keep Your Camera Functional"
-    },
-    {
-      "id": "recvsHKDzwYIFd",
-      "title": "新调查显示，柯达超越富士胶片成为摄影师最常用的胶片品牌",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/kodak-overtakes-fujifilm-as-the-most-used-film-brand-among-photographers-in-new-survey",
-      "publish_time": "2026-08-19T03:20:00+08:00",
-      "summary": "新调查显示，柯达超越富士胶片成为摄影师最常用胶片品牌，因拍摄成本上升，柯达重夺榜首。",
-      "recommendation": "胶片市场格局生变，柯达重夺榜首背后是成本与情怀的博弈。数据揭示品牌份额变化，为胶片爱好者选购与收藏提供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Kodak overtakes Fujifilm as the most-used film brand among photographers in new survey"
-    },
-    {
-      "id": "recvsG2YYh8DMI",
-      "title": "配备摄像头的AirPods在macOS测试版中亮相",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/camera-equipped-airpods-shown-in-action-in-macos-beta/",
-      "publish_time": "2026-08-19T02:39:31+08:00",
-      "summary": "彭博社称苹果将推出带摄像头的AirPods，或于今年发布，证据渐增。",
-      "recommendation": "苹果AirPods集成摄像头预示穿戴影像新方向，对移动影像爱好者具前瞻参考价值，但细节有限，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Camera-Equipped AirPods Shown In Action in macOS Beta"
-    },
-    {
-      "id": "recvsG3m6pVZ6v",
-      "title": "这些翻车的手机日食照片让我笑到停不下来。这就是GenAI不该进相机的原因",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/artificial-intelligence/i-cant-stop-laughing-at-these-failed-viral-smartphone-eclipse-photos-this-is-why-genai-doesnt-belong-in-cameras",
-      "publish_time": "2026-08-19T02:20:46+08:00",
-      "summary": "文章指出GenAI在相机中的错误应用导致日食照片出现月亮叠影的搞笑翻车现象，强调AI不应替代真实摄影技术。",
-      "recommendation": "通过日食照片翻车案例，揭示GenAI在相机中的局限，提醒爱好者勿盲从AI，坚守真实摄影技术。观点犀利，案例直观。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "I can’t stop laughing at these failed viral smartphone eclipse photos. This is why GenAI doesn’t belong in cameras"
-    },
-    {
-      "id": "recvsG31xno7cz",
-      "title": "美国巡回法院保护民众在公共场合记录警察的权利",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/us-circuit-court-protects-peoples-right-to-record-police-in-public/",
-      "publish_time": "2026-08-19T02:07:51+08:00",
-      "summary": "美国第二巡回上诉法院首次裁定，宪法第一修正案保护个人在公共场合记录执法活动的权利。",
-      "recommendation": "公共记录权裁定直接影响街头摄影与纪实创作边界，提供法律依据，对影像从业者具实操参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "US Circuit Court Protects People’s Right to Record Police in Public"
-    },
-    {
-      "id": "recvsG3hdGQ6pj",
-      "title": "Caira评测：智能互联AI相机仍需学习很多",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/caira-review-the-clever-connected-ai-camera-still-has-a-lot-to-learn/",
-      "publish_time": "2026-08-19T01:53:25+08:00",
-      "summary": "Caira相机介于专用相机与手机配件间，具备微型四分之三卡口、1140万像素传感器和骁龙处理器，但仅有一个快门按钮，智能功能尚需改进。",
-      "recommendation": "剖析Caira相机定位与短板，提供骁龙芯片及传感器等关键参数，对关注AI相机形态的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Caira review: the clever connected AI camera still has a lot to learn"
-    },
-    {
-      "id": "recvsG34ftxHK1",
-      "title": "GX-P1：由蝙蝠车设计师打造的360度全景数码相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/the-gx-p1-is-a-panoramic-digital-camera-designed-by-the-man-behind-the-batmobile/",
-      "publish_time": "2026-08-19T01:37:12+08:00",
-      "summary": "GXAce推出GX-P1全景相机，由蝙蝠车设计师打造，提供360度拍摄，即将亮相。",
-      "recommendation": "蝙蝠车设计师跨界操刀，为全景相机注入工业设计新视角。文章披露GX-P1核心规格与设计理念，对关注360度拍摄形态演进的爱好者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The GX-P1 Is a Panoramic Digital Camera Designed By the Man Behind the Batmobile"
-    },
-    {
-      "id": "recvsG3zuh9EwF",
-      "title": "黄金时刻风景摄影技巧，人们遗忘的秘诀",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/18/landscape-photography-tricks-people-forgot/",
-      "publish_time": "2026-08-19T01:00:00+08:00",
-      "summary": "文章指出摄影师过度依赖后期修复，忽略了拍摄时的有意性，强调黄金时刻风景摄影中现场捕捉的重要性。",
-      "recommendation": "摒弃后期依赖，回归现场捕捉，重塑黄金时刻拍摄的有意性。对追求直出质感的爱好者，是值得反思的技术视角。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Golden Hour Landscape Photo Tricks People Forgot"
-    },
-    {
-      "id": "recvsG36FhFlBk",
-      "title": "电影制作人耗时四年追踪一头狮子的称王之路",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/filmmakers-spent-four-years-following-a-lion-on-his-journey-to-become-king/",
-      "publish_time": "2026-08-19T00:51:34+08:00",
-      "summary": "国家地理纪录片《狮子》由乔恩·费儒执导，历时四年追踪一只幼狮成长为领袖的历程，本周首播，展现其称王之路。",
-      "recommendation": "四年追踪野生动物的纪实拍摄，揭示长焦镜头与低光环境实战技巧，对自然影像创作者有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Filmmakers Spent Four Years Following a Lion On His Journey to Become King"
-    },
-    {
-      "id": "recvsG38XBrllz",
-      "title": "摄影师捕捉到海豚跃出水面的杂技瞬间",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/photographer-captures-acrobatic-dolphins-leaping-from-the-water/",
-      "publish_time": "2026-08-19T00:29:49+08:00",
-      "summary": "摄影师捕捉海豚跃出水面的杂技瞬间，并透露其拍摄技巧与方法，展示核心价值。",
-      "recommendation": "解析海豚抓拍参数与对焦技巧，含快门设置和连拍数据，对野生动物摄影爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Photographer Captures Acrobatic Dolphins Leaping From the Water"
-    },
-    {
-      "id": "recvsG3bSVU4MP",
-      "title": "Brightin Star 超薄 28mm f/2.8 镜头推出时尚银色版",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/18/brightin-stars-incomprehensibly-thin-28mm-f-2-8-lens-now-comes-in-stylish-silver/",
-      "publish_time": "2026-08-18T23:22:09+08:00",
-      "summary": "Brightin Star推出适用于徕卡M卡口的超薄28mm f/2.8饼干镜头液态银版，延续时尚外观，2023年黑色版后新增银色选择。",
-      "recommendation": "常规资讯，可了解行业动态。银色版为M卡口用户提供新配色选择，但缺乏光学性能或市场数据等独家信息。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Brightin Star’s Incomprehensibly-Thin 28mm f/2.8 Lens Now Comes In Stylish Silver"
-    },
-    {
-      "id": "recvsG3jDoiuNj",
-      "title": "宝丽来将宝可梦30周年纪念打造成完整的即时摄影生态系统",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/polaroid-x-pokemon-collaboration-limited-editions/",
-      "publish_time": "2026-08-18T23:00:48+08:00",
-      "summary": "宝丽来与宝可梦合作推出九件套系列，涵盖相机、胶片和配件，打造完整即时摄影生态系统，纪念宝可梦30周年。",
-      "recommendation": "宝可梦IP与即时摄影结合，九件套产品线覆盖相机、胶片与配件，为收藏型影像用户提供完整生态参考，含合作细节与产品规格。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Polaroid turns Pokémon’s 30th anniversary into a full instant-photography ecosystem"
-    },
-    {
-      "id": "recvsG3osgSUfc",
-      "title": "英国法院、酒吧甚至动漫展禁用智能相机眼镜——这项技术还能挽回声誉吗？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/uk-courts-pubs-and-even-comic-con-ban-smart-camera-glasses-is-it-even-possible-for-this-tech-to-salvage-its-reputation",
-      "publish_time": "2026-08-18T22:11:26+08:00",
-      "summary": "智能相机眼镜技术虽先进，但因隐私担忧被英国法院、酒吧等禁用，Meta等公司面临形象危机，需挽回声誉。",
-      "recommendation": "智能眼镜隐私争议的行业观察，揭示影像设备在公共空间的伦理边界，对关注可穿戴拍摄设备的用户有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "UK courts, pubs and even Comic-Con ban smart camera glasses – is it even possible for this tech to salvage its reputation?"
-    },
-    {
-      "id": "recvsG3tV7vkw6",
-      "title": "CMF新款无线耳机将于8月20日发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/cmfs_new_wireless_earbuds_will_be_unveiled_on_august_20-news-74221.php",
-      "publish_time": "2026-08-18T22:04:02+08:00",
-      "summary": "CMF宣布8月20日发布新款无线耳机Buds Neo，充电盒采用智能拨盘设计，并首次展示耳塞颜色。",
-      "recommendation": "常规资讯，可了解行业动态。智能拨盘设计是亮点，但缺乏影像关联数据，对摄影爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "CMF's new wireless earbuds will be unveiled on August 20"
     }
   ]
 }
