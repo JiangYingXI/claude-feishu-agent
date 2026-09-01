@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-02T00:57:58.254954+08:00",
+    "updated_at": "2026-09-02T05:21:12.383553+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 1
+      "count": 0
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 7
+      "count": 3
     },
     {
       "key": "ISP & 影像芯片",
@@ -33,15 +33,210 @@
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 496
+      "count": 499
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 3
+      "count": 0
     }
   ],
   "articles": [
+    {
+      "id": "recvu0qpzxgv8J",
+      "title": "当前所有E卡口优惠概览",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/overview-of-all-current-e-mount-deals/",
+      "publish_time": "2026-09-02T04:42:38+08:00",
+      "summary": "E卡口相机和镜头在BHphoto、Amazon、Adorama等平台有大幅优惠，涵盖索尼、适马、腾龙、唯卓仕、蔡司、福伦达等品牌，原文首发于sonyalpharumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Overview of all current E-mount deals"
+    },
+    {
+      "id": "recvu0qzjcKq4c",
+      "title": "尼康镜头保暖颈圈？这些FTZ转接环保护套让单反镜头在现代微单相机上焕发新生",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/neck-warmers-for-nikon-lenses-these-ftz-adapter-covers-give-dslr-lenses-a-glow-up-when-used-on-modern-mirrorless-cameras",
+      "publish_time": "2026-09-02T04:20:00+08:00",
+      "summary": "中国厂商推出FTZ转接环保护套，隐藏尼康旧镜头与Z卡口间缝隙，提升美观度。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Neck warmers for Nikon lenses? These FTZ adapter covers give DSLR lenses a glow-up when used on modern mirrorless cameras"
+    },
+    {
+      "id": "recvu0qJI3xxcX",
+      "title": "DxO PhotoLab 10 发布（含优惠码）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/01/dxo-photolab-10-launched-coupon-code-included.aspx/",
+      "publish_time": "2026-09-02T03:17:14+08:00",
+      "summary": "DxO发布PhotoLab 10，引入深度遮罩和增强AI主体检测，识别精细面部细节，并扩展U Point技术新增控制画笔，提升局部调整精度。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DxO PhotoLab 10 launched (coupon code included)"
+    },
+    {
+      "id": "recvu0qjbdPntX",
+      "title": "摄影师最忠实且最色彩斑斓的朋友——ColorChecker色卡迎来50周年",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/the-colorchecker-a-photographers-best-and-most-colorful-friend-turns-50-years-old/",
+      "publish_time": "2026-09-02T02:54:37+08:00",
+      "summary": "Calibrite ColorChecker色卡50年来助摄影师准确捕捉色彩，24色块确保照片色彩准确性，从家庭照到杂志封面、广告牌和博物馆展品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The ColorChecker, a Photographer’s Best and Most Colorful Friend, Turns 50 Years Old"
+    },
+    {
+      "id": "recvu0qrDTffyu",
+      "title": "谷歌相册打印商店迎来富士胶片升级，新选项即将推出",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/the-google-photos-print-store-just-got-a-fujifilm-upgrade-with-new-options-coming-soon/",
+      "publish_time": "2026-09-02T02:43:17+08:00",
+      "summary": "谷歌相册打印服务由富士胶片运营，扩展实体照片查看方式，新增选项即将推出。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Google Photos print store just got a Fujifilm upgrade, with new options coming soon"
+    },
+    {
+      "id": "recvu0qlGPykZ3",
+      "title": "蒂姆·库克担任苹果CEO的三大成功",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/tim-cooks-three-biggest-successes-as-apple-ceo/",
+      "publish_time": "2026-09-02T02:12:23+08:00",
+      "summary": "蒂姆·库克卸任苹果CEO，任期内公司市值从3470亿增至4.6万亿美元，增长近13.3倍。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Tim Cook’s Three Biggest Successes As Apple CEO"
+    },
+    {
+      "id": "recvu0quef5pur",
+      "title": "Galaxy Z8的My FanCam功能团队揭秘：该功能如何运作及灵感来源",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432.php",
+      "publish_time": "2026-09-02T02:07:03+08:00",
+      "summary": "三星Galaxy Z Fold8等新机推出My FanCam功能，可自动追踪单人并生成视频剪辑，团队分享灵感与目标，解决粉丝手动编辑痛点。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The team behind Galaxy Z8's My FanCam explains how the feature works and what inspired it"
+    },
+    {
+      "id": "recvu0qwRqjRqA",
+      "title": "富士胶片超越巨头：无反相机产量增长97%，佳能仅增17%，索尼增18%——接下来要挑战尼康？",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-outgrows-the-giants-97-mirrorless-production-vs-canons-17-and-sonys-18-now-coming-for-nikon/",
+      "publish_time": "2026-09-02T01:38:30+08:00",
+      "summary": "富士胶片无反相机产量增长97%，超越佳能17%和索尼18%，已超过尼康成为全球第三大数码相机品牌，正挑战尼康地位。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm Outgrows the Giants: +97% Mirrorless Production vs Canon’s +17% and Sony’s +18% — Now Coming for Nikon?"
+    },
+    {
+      "id": "recvu0qnCeVER6",
+      "title": "光学公司Starman以2.85亿美元收购GoPro，计划进军AI、国防和国家安全领域",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/optical-company-starman-buys-gopro-for-285-million-plans-move-into-ai-defense-and-national-security/",
+      "publish_time": "2026-09-02T01:32:14+08:00",
+      "summary": "GoPro被Starman以2.85亿美元收购，结束财务困境，Starman计划进军AI、国防和国家安全领域。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Optical Company Starman Buys GoPro for $285 Million, Plans Move Into AI, Defense, and National Security"
+    },
+    {
+      "id": "recvu0qBHXouxj",
+      "title": "如果没有X100VI，富士胶片会有多受欢迎？日本最新排名暗示，紧凑型相机并非唯一值得关注的相机趋势",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/how-popular-would-fujifilm-be-without-the-x100vi-new-rankings-from-japan-hint-compact-cameras-arent-the-only-camera-trend-to-watch",
+      "publish_time": "2026-09-02T01:15:00+08:00",
+      "summary": "最新排名显示富士胶片在无反相机领域仍落后于尼康，未推紧凑型相机，但紧凑型并非唯一趋势。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "How popular would Fujifilm be without the X100VI? New rankings from Japan hint compact cameras aren’t the only camera trend to watch"
+    },
+    {
+      "id": "recvu0qLDdul5h",
+      "title": "Godox发布新款MA2柔性微距双灯",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/01/godox-released-a-new-ma2-flexible-macro-twin-light.aspx/",
+      "publish_time": "2026-09-02T01:05:04+08:00",
+      "summary": "Godox发布MA2柔性微距双灯及MF-T76微距双闪，兼容尼康、佳能、索尼相机，另有LT1创意像素LED灯，核心价值在于扩展微距摄影照明方案。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Godox released a new MA2 flexible macro twin light"
+    },
+    {
+      "id": "recvu0qHJWTLoL",
+      "title": "三星Galaxy S27 Ultra的2亿像素相机缺少了什么？",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/01/whats-missing-from-the-samsung-galaxy-s27-ultras-200mp-camera/",
+      "publish_time": "2026-09-02T01:00:00+08:00",
+      "summary": "三星Galaxy S27 Ultra将搭载1/1.31英寸2亿像素ISOCELL HP6传感器，但传感器尺寸远小于专为高分辨率摄影设计的像素机器，文章质疑其摄像头伪装本质。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What’s Missing From the Samsung Galaxy S27 Ultra’s 200MP Camera"
+    },
+    {
+      "id": "recvu0qDFL4Izs",
+      "title": "Visa pour l'Image摄影节失去创始人：让-弗朗索瓦·勒鲁瓦的离世对新闻摄影是巨大损失",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/visa-pour-limage-photography-festival-loses-its-founder-why-jean-francois-leroys-passing-is-a-huge-loss-to-photojournalism",
+      "publish_time": "2026-09-02T00:54:09+08:00",
+      "summary": "全球最大新闻摄影节Visa pour l'Image创始人让-弗朗索瓦·勒鲁瓦去世，享年69岁，对新闻摄影是巨大损失。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Visa pour l'Image photography festival loses its founder: why Jean-François Leroy's passing is a huge loss to photojournalism"
+    },
     {
       "id": "recvtZlWOPhWnt",
       "title": "库存摄影师对Alamy供稿合同变更不满",
@@ -86,6 +281,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "BREAKING: GoPro will save its action cameras with a merger that expands the camera-maker into AI data centers to create  “a leading American imaging and optical solutions company”"
+    },
+    {
+      "id": "recvu0qFwIzXts",
+      "title": "GoPro 欲借 AI 转型拯救其运动相机免于破产。GoPro 已同意与美国一家为数据中心构建技术的公司合并。",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-will-save-its-action-cameras-with-a-straman-optical-merger",
+      "publish_time": "2026-09-01T22:38:06+08:00",
+      "summary": "GoPro与美国Starman Optical合并，后者为AI数据中心制造高速收发器，此举旨在借AI转型拯救运动相机业务免于破产。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "GoPro wants to save its action cameras from bankruptcy with an AI pivot. GoPro has agreed to merge with a US company that builds tech for data centers"
     },
     {
       "id": "recvtZm0nw1FIY",
@@ -7335,221 +7545,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The TTArtisan 85mm f1.8 Neo is just $99 with Autofocus and More."
-    },
-    {
-      "id": "recvsRLpIF0D31",
-      "title": "荣耀700系列细节泄露，同时曝光Magic9、Win2和Power3相关信息",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/honor_700_series_details_leak_along_with_the_magic9_win2_and_power3-news-74264.php",
-      "publish_time": "2026-08-21T00:47:02+08:00",
-      "summary": "荣耀即将发布多款新品：Magic9 Pro配双200MP摄像头及Arri功能，Win2系列有2K纯平屏和10000mAh电池，Power3配备7英寸屏和业界最大电池。",
-      "recommendation": "荣耀多款新品影像配置集中曝光，双200MP主摄与Arri调色值得关注，但信息多为参数汇总，缺乏深度实测。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Honor 700 series details leak alongside information about the Magic9, Win2, and Power3"
-    },
-    {
-      "id": "recvsRKWxuKVT0",
-      "title": "佳能进一步扩大其在数码相机市场的巨大领先优势",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/canon-has-increased-its-massive-digital-camera-market-share-lead/",
-      "publish_time": "2026-08-20T23:58:03+08:00",
-      "summary": "佳能凭借CIPA数据及日经产业地图，进一步扩大其在数码相机市场的领先优势，核心价值在于提供制造商出货量数据。",
-      "recommendation": "基于CIPA出货量数据剖析佳能市场优势，为影像爱好者提供客观行业格局参考，数据详实，可辅助购机决策。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Canon Has Increased Its Massive Digital Camera Market Share Lead"
-    },
-    {
-      "id": "recvsRLiodRobl",
-      "title": "这张壮丽的银河照片“颂扬了澳大利亚黑暗天空的非凡清晰度，在那里，多种天体现象可以同时出现在标志性的内陆景观之上”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/this-majestic-milky-way-photograph-celebrates-the-remarkable-clarity-of-australias-dark-skies-where-multiple-celestial-phenomena-can-be-experienced-together-above-an-iconic-outback-landscape",
-      "publish_time": "2026-08-20T23:56:25+08:00",
-      "summary": "2026年黑暗摄影大赛获奖作品展现澳大利亚内陆夜空，极光与银河同框，凸显黑暗天空的清晰度与天体现象共现的壮丽。",
-      "recommendation": "获奖作品展示极光与银河同框，解析暗夜摄影参数与构图技巧，为星空爱好者提供实战参考。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This majestic Milky Way photograph “celebrates the remarkable clarity of Australia’s dark skies, where multiple celestial phenomena can be experienced together above an iconic outback landscape”"
-    },
-    {
-      "id": "recvsRLx9rdBAw",
-      "title": "TTartisan AF 85mm f/1.8 Neo镜头现已适配尼康Z卡口，售价99美元，全球免运费",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/20/ttartisan-af-85mm-f-1-8-neo-lens-for-nikon-z-mount-is-now-available-for-99-and-free-worldwide-shipping.aspx/",
-      "publish_time": "2026-08-20T23:09:26+08:00",
-      "summary": "TTartisan发布尼康Z卡口AF 85mm f/1.8 Neo镜头，重332-338克，售价99美元，全球免运费，主打轻便实惠。",
-      "recommendation": "尼康Z卡口用户关注高性价比人像镜头可参考，99美元定价与332克轻量化是核心卖点，常规资讯，可了解行业动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "TTartisan AF 85mm f/1.8 Neo lens for Nikon Z-mount is now available for $99 and with free worldwide shipping"
-    },
-    {
-      "id": "recvsRKZ5k84NN",
-      "title": "11张获奖照片展示科学在行动",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/11-award-winning-photos-show-science-in-action/",
-      "publish_time": "2026-08-20T23:00:03+08:00",
-      "summary": "2026年度BMC生态与进化及动物学摄影大赛，以视觉艺术展示野外研究项目，庆祝艺术与科学交汇。",
-      "recommendation": "以获奖作品解析野外研究摄影的构图与叙事技巧，展示科学影像的独特视角，对自然生态题材拍摄者有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "11 Award-Winning Photos Show Science in Action"
-    },
-    {
-      "id": "recvsRLuCojazt",
-      "title": "富士胶片超越尼康，跃居全球第三——尽管遭遇严重缺货年",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-dethrones-nikon-claims-3-worldwide-despite-a-brutal-shortage-year/",
-      "publish_time": "2026-08-20T22:50:43+08:00",
-      "summary": "富士胶片超越尼康成为全球第三大相机品牌，尽管遭遇严重缺货，其X-E5型号引领了这一成就。",
-      "recommendation": "富士胶片缺货下逆袭尼康，X-E5成关键变量。行业排名变动数据直观，助你把握市场格局与缺货对购机的影响。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm Dethrones Nikon, Claims #3 Worldwide — Despite a Brutal Shortage Year"
-    },
-    {
-      "id": "recvsRL6rJkFcI",
-      "title": "Meike的大惊喜：自动对焦变焦镜头和快速f/1.2定焦镜头即将到来！",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/meikes-big-surprise-autofocus-zooms-and-fast-f-1-2-primes-are-on-the-way/",
-      "publish_time": "2026-08-20T22:20:47+08:00",
-      "summary": "Meike公布自动对焦镜头开发计划，包括首款全画幅变焦AF 24-70mm F2.8、GFX中画幅AF 65mm F1.4和AF 110mm F1.8、全画幅AF 50mm F1.2 VCM及AF 7",
-      "recommendation": "Meike自动对焦镜头路线图曝光，含全画幅变焦与GFX中画幅定焦，参数具体，对副厂镜头用户具参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Meike’s Big Surprise: Autofocus Zooms and Fast f/1.2 Primes Are on the Way!"
-    },
-    {
-      "id": "recvsRLdyKNKdV",
-      "title": "这位DPReview会员的极简黑白照片在自然瞬间中发现美",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/this-dpreview-members-minimalist-black-and-white-photos-find-beauty-in-simplicity/",
-      "publish_time": "2026-08-20T22:12:06+08:00",
-      "summary": "DPReview会员Johan O E在新西兰以极简黑白摄影捕捉自然瞬间之美，其作品展现光影与形态的纯粹，核心价值在于通过简化视觉元素凸显自然本质。",
-      "recommendation": "通过极简黑白案例解析构图减法与光影捕捉技巧，对提升摄影审美有实操参考价值，观点聚焦自然瞬间的视觉提炼。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "This DPReview member’s minimalist black-and-white photos find beauty in candid moments"
-    },
-    {
-      "id": "recvsTt50ESks7",
-      "title": "这位DPReview会员的极简黑白照片在自然瞬间中捕捉趣味",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/this-dpreview-members-minimalist-black-and-white-photos-find-beauty-in-simplicity/",
-      "publish_time": "2026-08-20T22:12:06+08:00",
-      "summary": "DPReview会员Johan O E在新西兰拍摄极简黑白照片，捕捉自然瞬间的趣味，展现摄影艺术价值。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This DPReview member’s minimalist black-and-white photos find intrigue in candid moments"
-    },
-    {
-      "id": "recvsRL1CrSHtR",
-      "title": "老照片揭示空调影院如何催生暑期大片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/old-photos-show-how-air-conditioned-movie-theaters-birthed-the-summer-blockbuster/",
-      "publish_time": "2026-08-20T22:02:58+08:00",
-      "summary": "1940年照片显示空调影院以凉爽吸引观众，催生了暑期大片传统，揭示了夏季电影季的起源。",
-      "recommendation": "从影像史角度追溯暑期档起源，为创作者理解观影场景与视觉呈现提供历史参照，属行业冷知识，常规资讯可了解动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Old Photos Show How Air Conditioned Movie Theaters Birthed the Summer Blockbuster"
-    },
-    {
-      "id": "recvsRL42k0TKW",
-      "title": "Godox新款电动吸盘让摄影师将灯光置于不寻常位置",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/godoxs-new-electric-suction-cup-lets-photographers-put-lights-in-unusual-places/",
-      "publish_time": "2026-08-20T21:45:31+08:00",
-      "summary": "Godox推出电动吸盘配件，非灯，但可让摄影师将灯光安装于不寻常位置，提升布光灵活性。",
-      "recommendation": "Godox电动吸盘拓宽布光安装思路，对追求灵活灯位的影像创作者有实用参考价值。常规产品资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Godox’s New Electric Suction Cup Lets Photographers Put Lights In Unusual Places"
-    },
-    {
-      "id": "recvsRLkAJVaRr",
-      "title": "佳能要进军智能手机市场？这项新专利申请引发了这种可能性",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/is-canon-getting-into-the-smartphone-game-this-new-patent-application-has-raised-the-possibility",
-      "publish_time": "2026-08-20T21:37:53+08:00",
-      "summary": "佳能申请了专为微型智能手机传感器设计的相机镜头专利，暗示可能进军智能手机市场。",
-      "recommendation": "佳能专利揭示微型传感器镜头设计，或为手机影像布局信号。解析专利细节与市场影响，助你前瞻行业动向。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is Canon getting into the smartphone game? This new patent application has raised the possibility"
-    },
-    {
-      "id": "recvsRLsbaIoKX",
-      "title": "华为Pura X View发布：16:9.5宽屏显示，7000mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/huaweis_nonfolding_widescreen_phone_design_and_key_specs_leak-news-74261.php",
-      "publish_time": "2026-08-20T21:24:03+08:00",
-      "summary": "华为发布Pura X View，全球首款宽屏非折叠手机，采用16:9.5纵横比，分辨率2232×1313，配备7000mAh电池。",
-      "recommendation": "宽屏非折叠设计或影响影像构图体验，7000mAh电池保障长时拍摄，但缺乏影像硬件细节，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Huawei Pura X View unveiled with a 16:9.5 wide display, 7,000mAh battery"
-    },
-    {
-      "id": "recvsQms2w319r",
-      "title": "铭匠光学超平价全画幅85mm f/1.8镜头仅售99美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/ttartisans-ultra-affordable-full-frame-85mm-f-1-8-lens-costs-just-99/",
-      "publish_time": "2026-08-20T21:09:29+08:00",
-      "summary": "铭匠光学发布TTArtisan AF 85mm f/1.8 Neo镜头，适用于索尼和尼康无反相机，全画幅人像定焦，售价仅99美元，性价比极高。",
-      "recommendation": "99美元全画幅自动对焦85mm f/1.8，价格冲击力强，适合预算有限的索尼/尼康用户，可快速了解入门人像镜头新选择。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "TTArtisan’s Ultra-Affordable Full-Frame 85mm f/1.8 Lens Costs Just $99"
     }
   ]
 }
