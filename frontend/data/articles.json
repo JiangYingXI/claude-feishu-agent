@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-01T07:12:18.154048+08:00",
+    "updated_at": "2026-09-01T13:40:18.869068+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 3
+      "count": 2
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 15
+      "count": 14
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,110 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 9
+      "count": 8
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 488
+      "count": 489
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 14
+      "count": 13
     }
   ],
   "articles": [
+    {
+      "id": "recvtWBIYAbhdj",
+      "title": "适马会津Prime电影镜头系列变得更加多功能",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/08/31/sigmas-aizu-prime-cine-lens-lineup-just-became-much-more-versatile/",
+      "publish_time": "2026-09-01T13:00:59+08:00",
+      "summary": "适马发布三款新Aizu Prime电影镜头，21mm、100mm和125mm T1.3 LF，使该系列增至11款，覆盖更广焦距范围。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sigma’s Aizu Prime Cine Lens Lineup Just Became Much More Versatile"
+    },
+    {
+      "id": "recvtWBKRka4Qh",
+      "title": "Sigma 正在完善其高端大画幅电影镜头系列，向更广和更长焦段拓展",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/sigma-is-filling-out-its-series-of-high-end-large-format-cinema-lenses-going-wider-and-longer/",
+      "publish_time": "2026-09-01T13:00:00+08:00",
+      "summary": "Sigma扩展Aizu Prime高端大画幅电影镜头系列，新增三款产品，覆盖更广和更长焦段，完善产品线。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sigma is filling out its series of high-end large format cinema lenses, going wider and longer"
+    },
+    {
+      "id": "recvtWBMqvnsg1",
+      "title": "DJI Osmo Pocket 3 和 Pocket 4 相机的最佳配件",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/gimbals/best-accessories-for-the-dji-osmo-pocket-3-and-pocket-4-cameras",
+      "publish_time": "2026-09-01T11:20:00+08:00",
+      "summary": "本文推荐DJI Osmo Pocket 3和Pocket 4的最佳配件，包括备用电池和夜间拍摄增强设备，以提升拍摄体验和画质。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Best accessories for the DJI Osmo Pocket 3 and Pocket 4 cameras"
+    },
+    {
+      "id": "recvtWBTmgd8R8",
+      "title": "索尼最奇特的镜头之一，也能拍出美丽的照片",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/08/31/one-of-sonys-oddest-lenses-also-makes-beautiful-photographs/",
+      "publish_time": "2026-09-01T09:00:00+08:00",
+      "summary": "索尼85mm f1.4 G大师镜头二代评测，对比原版和85mm f1.8 FE，认为f1.8性价比高，但原版成像更自然，无AI处理感。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "One of Sony’s Oddest Lenses Also Makes Beautiful Photographs"
+    },
+    {
+      "id": "recvtWBPMkAwwz",
+      "title": "HMD Asha 305 Pro 即将到来，营销图片和规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/hmd_asha_305_pro_is_on_the_way_marketing_images_and_specs_leak-news-74419.php",
+      "publish_time": "2026-09-01T08:12:02+08:00",
+      "summary": "HMD将推出Asha 305 Pro，配备5英寸FWVGA屏幕、500万像素后置摄像头、200万像素前置摄像头、2GB RAM和32GB存储，是Asha 305的升级版。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "HMD Asha 305 Pro is on the way, marketing images and specs leak"
+    },
+    {
+      "id": "recvtWBO42tGBN",
+      "title": "GoPro Mission 1 Pro vs DJI Osmo Action 6 vs Insta360 Ace Pro 2：哪款运动相机值得你掏钱？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-mission-1-pro-vs-dji-osmo-action-6-vs-insta360-ace-pro-2-which-action-camera-deserves-your-cash",
+      "publish_time": "2026-09-01T08:10:00+08:00",
+      "summary": "对比GoPro Mission 1 Pro、DJI Osmo Action 6与Insta360 Ace Pro 2，从画质、防抖、续航等核心参数评测，助你选购运动相机。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "GoPro Mission 1 Pro vs DJI Osmo Action 6 vs Insta360 Ace Pro 2: Which action camera deserves your cash?"
+    },
     {
       "id": "recvtV1TBDsMvv",
       "title": "荣耀Magic9 Pro据称将成首款配备方形自拍传感器的安卓手机",
@@ -221,6 +311,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "NiSi 26mm f/0.7 and NiSi 50mm T/1 Coming for Fujifilm GFX"
+    },
+    {
+      "id": "recvtWBRuoTy6A",
+      "title": "NiSi 50mm T/1 镜头即将登陆富士 GFX 系统",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/nisi-26mm-f-0-7-and-nisi-50mm-t-1-coming-for-fujifilm-gfx/",
+      "publish_time": "2026-09-01T01:38:10+08:00",
+      "summary": "NiSi即将推出50mm T/1镜头，可通过转接环覆盖富士GFX传感器，另有26mm镜头在研，但仅概念阶段，覆盖能力未知。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "NiSi NiSi 50mm T/1 Coming for Fujifilm GFX"
     },
     {
       "id": "recvtV1F1dLrIQ",
@@ -7464,114 +7569,6 @@
       "quality_score": 7,
       "language": "English",
       "original_title": "iPhone 18 Pro Max tipped to be the only model with a variable-aperture camera"
-    },
-    {
-      "id": "recvsLSJWURJgH",
-      "title": "Sandmarc为iPhone带来‘光学级’超级变焦",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/sandmarc-brings-optical-quality-superzoom-to-iphone/",
-      "publish_time": "2026-08-19T22:29:41+08:00",
-      "summary": "Sandmarc为iPhone推出96mm长焦镜头，提供光学级性能，替代数字变焦，提升远摄质量。",
-      "recommendation": "96mm光学长焦替代数字变焦，为iPhone远摄提供新方案。含镜头结构参数与实拍对比，对手机摄影配件选购有参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sandmarc Brings ‘Optical-Quality’ Superzoom to iPhone"
-    },
-    {
-      "id": "recvsLT38sQURs",
-      "title": "新发布的这款复古摄影摄像灯不仅照亮场景，还能投射36000种颜色并创造图案背景",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/video-lights/newly-launched-this-retro-photo-video-light-doesnt-just-light-the-scene-it-projects-36-000-colors-and-creates-patterned-backdrops",
-      "publish_time": "2026-08-19T22:05:13+08:00",
-      "summary": "Harlowe Max Spectra LED灯专为色彩和特效设计，可投射36000种颜色并创造图案背景，切换颜色时功率不损失。",
-      "recommendation": "LED灯36000色与图案投射功能，为影像创作提供新思路，数据详实，可拓展布光玩法。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Newly launched, this retro photo-video light doesn’t just light the scene. It projects 36,000 colors and creates patterned backdrops"
-    },
-    {
-      "id": "recvsLSMgGpYwE",
-      "title": "NASA图像证实月球陨石坑由SpaceX火箭撞击形成",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/nasa-images-confirm-moon-crater-made-by-spacex-rocket/",
-      "publish_time": "2026-08-19T22:03:12+08:00",
-      "summary": "NASA图像证实月球陨石坑由SpaceX火箭撞击形成，月球无大气层，现多一个撞击来源。",
-      "recommendation": "月球无大气层，撞击坑成因独特，为天文摄影提供新视角，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "NASA Images Confirm Moon Crater Made by SpaceX Rocket"
-    },
-    {
-      "id": "recvsLT5uX3CEv",
-      "title": "世界摄影日：NASA图像如何塑造我们对地球、宇宙和存在的理解",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/world-photography-day-how-nasa-imagery-has-shaped-our-understanding-of-the-earth-the-universe-and-existence",
-      "publish_time": "2026-08-19T22:00:43+08:00",
-      "summary": "世界摄影日回顾NASA标志性图像，这些图像深刻影响了我们对地球、宇宙及人类存在的理解，揭示了我们在宇宙中的位置。",
-      "recommendation": "从NASA影像看摄影如何重塑人类宇宙认知，提供航天影像技术解析与美学视角，对拓展影像创作思维有独特启发。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "World Photography Day: How NASA imagery has shaped our understanding of the Earth, the universe and existence"
-    },
-    {
-      "id": "recvsLT7VQBztO",
-      "title": "现在你可以在这款26年前的数码单反上玩《毁灭战士》了！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/gaming/now-you-can-play-doom-on-this-26-year-old-dslr",
-      "publish_time": "2026-08-19T21:54:32+08:00",
-      "summary": "26年前的佳能数码单反相机成功运行《毁灭战士》游戏，展示了其硬件潜力，核心价值在于突破传统设备限制。",
-      "recommendation": "26年前佳能单反运行《毁灭战士》，实测验证硬件潜力，为影像设备改装提供独特案例，拓展老器材玩法认知。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Now you can play Doom on this 26-year-old DSLR!"
-    },
-    {
-      "id": "recvsXABFxnnwZ",
-      "title": "现在你可以在这台16年前的数码单反上玩《毁灭战士》了！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/gaming/now-you-can-play-doom-on-this-26-year-old-dslr",
-      "publish_time": "2026-08-19T21:54:32+08:00",
-      "summary": "16年前的佳能数码单反相机成功运行经典游戏《毁灭战士》，展示了其硬件潜力，核心价值在于跨界技术验证。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Now you can play Doom on this 16-year-old DSLR!"
-    },
-    {
-      "id": "recvsLSwV75PJt",
-      "title": "超越智能手机：索尼与台积电的新联盟将如何重新定义无反传感器？",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/beyond-the-smartphone-how-sony-and-tsmcs-new-alliance-will-redefine-mirrorless-sensors/",
-      "publish_time": "2026-08-19T21:34:00+08:00",
-      "summary": "索尼与台积电合作敲定，强化移动图像传感器业务，但技术进步或应用于更大传感器，如LYTIA技术可能用于APS-C和全画幅相机，重新定义无反传感器。",
-      "recommendation": "解析索尼与台积电合作对无反传感器技术路线的影响，提供LYTIA技术下放至大画幅的深度推测，助影像爱好者预判未来相机性能走向。",
-      "categories": [
-        "传感器硬件",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Beyond the Smartphone: How Sony and TSMC’s New Alliance Will Redefine Mirrorless Sensors?"
     }
   ]
 }
