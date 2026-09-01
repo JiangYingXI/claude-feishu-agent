@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-01T20:11:07.292351+08:00",
+    "updated_at": "2026-09-02T00:57:58.254954+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 12
+      "count": 7
     },
     {
       "key": "ISP & 影像芯片",
@@ -28,20 +28,320 @@
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 4
+      "count": 1
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 492
+      "count": 496
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 10
+      "count": 3
     }
   ],
   "articles": [
+    {
+      "id": "recvtZlWOPhWnt",
+      "title": "库存摄影师对Alamy供稿合同变更不满",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/stock-photographers-unhappy-with-changes-to-alamy-contributor-contract/",
+      "publish_time": "2026-09-01T23:58:12+08:00",
+      "summary": "库存照片机构Alamy调整支付方式，摄影师预计收入减少。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Stock Photographers Unhappy With Changes to Alamy Contributor Contract"
+    },
+    {
+      "id": "recvtZlYGO2Wv0",
+      "title": "戴森499美元电动牙刷内置摄像头 可观察你的牙齿",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/dysons-499-electric-toothbrush-has-a-camera-that-watches-your-teeth/",
+      "publish_time": "2026-09-01T22:55:01+08:00",
+      "summary": "戴森推出499美元内置摄像头电动牙刷，可观察牙齿清洁牙缝，提升口腔护理效果。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Dyson’s $499 Electric Toothbrush Has a Camera That Watches Your Teeth"
+    },
+    {
+      "id": "recvtZmfpGoPxg",
+      "title": "突发：GoPro将通过合并拯救其运动相机业务，扩展至AI数据中心，打造“美国领先的成像和光学解决方案公司”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/gopro-will-save-its-action-cameras-with-a-straman-optical-merger",
+      "publish_time": "2026-09-01T22:38:06+08:00",
+      "summary": "GoPro与Starman Optical合并，转向AI数据中心高速收发器，打造美国领先成像光学公司。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "BREAKING: GoPro will save its action cameras with a merger that expands the camera-maker into AI data centers to create  “a leading American imaging and optical solutions company”"
+    },
+    {
+      "id": "recvtZm0nw1FIY",
+      "title": "世界领先新闻摄影节创始人让-弗朗索瓦·勒鲁瓦逝世",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/jean-francois-leroy-founder-of-worlds-leading-photojournalism-festival-dies/",
+      "publish_time": "2026-09-01T22:06:12+08:00",
+      "summary": "世界领先新闻摄影节Visa pour l'Image创始人让-弗朗索瓦·勒鲁瓦逝世，该节在法国佩皮尼昂举办，他作为摄影师创办了这一重要活动。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Jean-François Leroy, Founder of World’s Leading Photojournalism Festival, Dies"
+    },
+    {
+      "id": "recvtZm2m6B24a",
+      "title": "富士胶片并未真正超越尼康的无反相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/the-data-was-misleading-fujifilm-didnt-actually-jump-ahead-of-nikon-in-mirrorless/",
+      "publish_time": "2026-09-01T22:00:25+08:00",
+      "summary": "日经产业地图显示富士胶片超越尼康，但讨论忽略关键细节，需审视地位互换的真实意义。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm Didn’t Actually Jump Ahead of Nikon in Mirrorless"
+    },
+    {
+      "id": "recvtZm41iu3wV",
+      "title": "富士胶片与谷歌合作推出全新Google Photos打印商店",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/fujifilm-and-google-launch-new-google-photos-print-store/",
+      "publish_time": "2026-09-01T21:58:30+08:00",
+      "summary": "富士胶片与谷歌合作推出全新Google Photos打印商店，为用户提供实体照片打印服务。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm and Google Launch New Google Photos Print Store"
+    },
+    {
+      "id": "recvtZmpzhWGSG",
+      "title": "iQOO 16独特后置摄像头模组设计泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/iqoo_16s_unique_rear_camera_module_design_leaked-news-74431.php",
+      "publish_time": "2026-09-01T21:58:03+08:00",
+      "summary": "iQOO 16可能本月发布，爆料称其将采用带大圆角的方形后置摄像头模组，内含三摄，按连接布局排列。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iQOO 16’s unique rear camera module design leaked"
+    },
+    {
+      "id": "recvtZmh3OFrt4",
+      "title": "尼康热门相机装备降价：单反最高降35%，微单及镜头最高降30%",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/this-popular-nikon-camera-gear-is-now-cheaper-up-to-35-percent-off-dslrs-and-30-percent-off-mirrorless-cameras-and-lenses",
+      "publish_time": "2026-09-01T21:45:18+08:00",
+      "summary": "尼康热门相机装备降价，单反最高降35%，微单及镜头最高降30%，涵盖经典单反机身、镜头及Z系列设备。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This popular Nikon camera gear is now cheaper: up to 35% off DSLRs and 30% off mirrorless cameras and lenses"
+    },
+    {
+      "id": "recvtZm5S8ovgI",
+      "title": "Poco新机F9 Ultra：影像、游戏与续航全面升级",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/pocos-new-f9-ultra-goes-big-on-cameras-gaming-and-battery-life/",
+      "publish_time": "2026-09-01T21:19:43+08:00",
+      "summary": "Poco发布F9系列，旗舰F9 Ultra搭载骁龙8 Elite Gen 5、VisionBoost D8芯片、2亿像素主摄、5倍潜望长焦及8050mAh电池，影像游戏续航全面升级。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Poco’s New F9 Ultra Goes Big on Cameras, Gaming, and Battery Life"
+    },
+    {
+      "id": "recvtZm7BEZvfc",
+      "title": "韦伯拍摄到宇宙中最令人费解的星系之一",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/webb-photographs-one-of-the-most-puzzling-galaxies-in-the-universe/",
+      "publish_time": "2026-09-01T21:19:34+08:00",
+      "summary": "韦伯望远镜捕捉到不规则星系Arp 263的红外图像，展示星系合并的奇特最终阶段，揭示宇宙演化奥秘。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Webb Photographs One of the Most Puzzling Galaxies in the Universe"
+    },
+    {
+      "id": "recvtZmiQiYgvN",
+      "title": "DxO发布“迄今最强大的RAW编辑器”PhotoLab 10",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/dxo-launches-most-powerful-raw-editor-yet-with-photolab-10",
+      "publish_time": "2026-09-01T21:11:01+08:00",
+      "summary": "DxO发布PhotoLab 10，号称迄今最强大的RAW编辑器，新增AI遮罩、色彩分级及Affinity支持，提升照片编辑效率与精度。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DxO launches “most powerful RAW editor yet” with PhotoLab 10"
+    },
+    {
+      "id": "recvtZmrdOXZuY",
+      "title": "DxO PhotoLab 10发布：新增深度蒙版、高级调色及扩展AI工具",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/dxo-photolab-10-launched-with-depth-masks-advanced-color-grading-and-expanded-ai-powered-tools/",
+      "publish_time": "2026-09-01T21:01:35+08:00",
+      "summary": "DxO PhotoLab 10发布，新增深度蒙版、高级调色和扩展AI工具，并推出Film Pack 8、PureRAW 6等配套软件，提升图像处理效率。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DxO PhotoLab 10 Launched with Depth Masks, Advanced Color Grading, and Expanded AI-powered Tools"
+    },
+    {
+      "id": "recvtZm9bvPZzW",
+      "title": "DxO PhotoLab 10 上手体验：处处发现深度",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/dxo-photolab-10-hands-on-finding-depth-all-over-the-place/",
+      "publish_time": "2026-09-01T21:01:23+08:00",
+      "summary": "DxO PhotoLab 10上手体验，无需月付，一次购买长期使用，升级需付费约半价。第10版进步不大，但修补了其他版本漏洞，核心价值在于性价比与完善。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DxO PhotoLab 10 Hands-On: Finding Depth All Over the Place"
+    },
+    {
+      "id": "recvtZmaZSmDok",
+      "title": "DxO发布PhotoLab 10：新增AI插件、蒙版和调色更新",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/dxo-releases-photolab-10-with-ai-add-ons-masking-and-color-grading-updates/",
+      "publish_time": "2026-09-01T21:00:48+08:00",
+      "summary": "DxO发布PhotoLab 10，新增AI插件、蒙版和调色更新，强化RAW图像处理与AI驱动遮罩，优化工作流程。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "DxO Releases PhotoLab 10 With AI Add-Ons, Masking, and Color Grading Updates"
+    },
+    {
+      "id": "recvtZmcy3sdRT",
+      "title": "DxO最新版Adobe替代品引入AI深度遮罩——无需订阅",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/dxo-photolab-10-announcement/",
+      "publish_time": "2026-09-01T21:00:00+08:00",
+      "summary": "DxO PhotoLab 10引入AI深度遮罩，无需订阅，含蒙版更新、自动传感器污点去除及新调色轮。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The latest version of DxO’s Adobe alternative brings AI depth masking – no subscription required"
+    },
+    {
+      "id": "recvtZmt6INabx",
+      "title": "您的蔡司镜头现在可由KEH维修",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/01/your-zeiss-lenses-can-now-be-repaired-by-keh/",
+      "publish_time": "2026-09-01T21:00:00+08:00",
+      "summary": "KEH成为蔡司北美独家维修中心，解决早期镜头如Loxia系列光圈随机变化问题，提升维修便利性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Your Zeiss Lenses Can Now be Repaired by KEH"
+    },
+    {
+      "id": "recvtZmdN1dx3i",
+      "title": "小米Poco F9 Ultra：超高像素与超大电池",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/xiaomis-poco-f9-ultra-has-megapixels-and-a-mega-battery/",
+      "publish_time": "2026-09-01T20:45:00+08:00",
+      "summary": "小米Poco F9 Ultra作为系列首款，特定条件下可拍200MP照片，配备超大电池，主打超高像素与长续航。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi’s Poco F9 Ultra has megapixels and a mega battery"
+    },
+    {
+      "id": "recvtZmksnuKnB",
+      "title": "曾称马丁·帕尔照片为背叛的海滨小镇，即将把他的脸画上建筑大小的壁画",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/street-photography/the-seaside-town-that-once-called-martin-parrs-photographs-a-betrayal-is-about-to-put-his-face-on-a-mural-the-size-of-a-building",
+      "publish_time": "2026-09-01T20:22:38+08:00",
+      "summary": "新布莱顿曾批评马丁·帕尔照片为背叛，现筹款为其建建筑大小永久壁画，纪念这位已故街头摄影师。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The seaside town that once called Martin Parr's photographs a betrayal is about to put his face on a mural the size of a building"
+    },
+    {
+      "id": "recvtZmv046AMz",
+      "title": "索尼a6900或将搭载全局快门",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/01/the-sony-a6900-is-likely-to-feature-a-global-shutter/",
+      "publish_time": "2026-09-01T20:05:12+08:00",
+      "summary": "索尼a6900或将采用堆叠式传感器，具备24fps读取速度，可能沿用a9 III的全局快门技术，消除滚动快门效应，对APS-C相机用户意义重大。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Sony a6900 is Likely to Feature a Global Shutter"
+    },
+    {
+      "id": "recvtZmm4bBTug",
+      "title": "2026年9月天文摄影：准备好相机，捕捉春分极光与银河系核心的最后一眼",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/astrophotography-in-september-2026-get-your-camera-ready-for-the-equinox-auroras-and-a-final-glimpse-of-the-milky-ways-core",
+      "publish_time": "2026-09-01T20:00:00+08:00",
+      "summary": "2026年9月天文摄影指南，涵盖春分极光与银河系核心观测，提供拍摄目标、时间窗口及技术参数，助你捕捉夜空奇观。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Astrophotography in September 2026: get your camera ready for the equinox auroras and a final glimpse of the Milky Way’s core"
+    },
     {
       "id": "recvtYbZDYzwmE",
       "title": "以真实摄影师为主角的电影并非总能精准呈现，但Netflix新片《H for Hawk》却将舰队街传奇人物Alisdair Macdonald刻画得入木三分",
@@ -1691,6 +1991,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Japan's record-breaking full-frame mirrorless wins its second Camera of the Year award – a \"reliable and high-performance camera for discerning photographers\""
+    },
+    {
+      "id": "recvtZmnIgNLeR",
+      "title": "这款全画幅无反相机打破日本销售纪录，如今再获年度相机大奖——凭借“尖端摄影技术”，成为“眼光独到的摄影师的可靠高性能相机”",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/japans-record-breaking-full-frame-mirrorless-wins-its-second-camera-of-the-year-award-a-reliable-and-high-performance-camera-for-discerning-photographers",
+      "publish_time": "2026-08-29T17:10:00+08:00",
+      "summary": "索尼全画幅无反相机发布后连续数月居日本销售榜首，获EISA 2026-2027年度相机大奖，凭借尖端摄影技术成为眼光独到摄影师的高性能选择。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This full-frame mirrorless broke sales records in Japan and now wins its second Camera of the Year award – featuring \"cutting-edge photographic technology,\" it's a \"reliable and high-performance camera for discerning photographers\""
     },
     {
       "id": "recvtHPvSCsgOp",
@@ -7235,332 +7550,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "TTArtisan’s Ultra-Affordable Full-Frame 85mm f/1.8 Lens Costs Just $99"
-    },
-    {
-      "id": "recvsQmuysq9T7",
-      "title": "Insta360 Luna Pro云台相机旨在击败Osmo Pocket 4",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/the-insta360-luna-pro-gimbal-camera-aims-to-take-down-the-osmo-pocket-4/",
-      "publish_time": "2026-08-20T21:04:59+08:00",
-      "summary": "Insta360发布Luna Pro，为Luna Ultra的轻薄单摄版，保留可拆卸屏幕，瞄准DJI Osmo Pocket 3和4的低端市场。",
-      "recommendation": "对比Osmo Pocket系列定位，解析Luna Pro轻薄单摄策略，含可拆卸屏幕设计细节，助你判断口袋云台选购方向。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Insta360 Luna Pro Gimbal Camera Aims to Take Down the Osmo Pocket 4"
-    },
-    {
-      "id": "recvsQmZJUbU6k",
-      "title": "2026年徕卡M6还值得买吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/20/is-the-leica-m6-worth-buying-in-2026/",
-      "publish_time": "2026-08-20T21:00:00+08:00",
-      "summary": "徕卡M6是传奇相机，作者使用近十年仍常用，制造商仍维修老产品，核心价值在于其耐用性和品牌支持。",
-      "recommendation": "十年使用体验揭示M6耐用性与徕卡售后支持，为胶片机爱好者提供长期持有价值的真实参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Is the Leica M6 Worth Buying in 2026?"
-    },
-    {
-      "id": "recvsQmI5dS7uR",
-      "title": "“在历史被书写之前，它已被拍摄”——25年后，30多位摄影师将齐聚一堂，谈论拍摄9/11",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/before-history-was-written-it-was-photographed-25-years-later-more-than-30-photographers-will-come-together-to-talk-about-photographing-9-11",
-      "publish_time": "2026-08-20T20:56:17+08:00",
-      "summary": "25周年纪念日前，30多位摄影师将齐聚，讲述拍摄9/11事件的故事，强调历史被拍摄的瞬间。",
-      "recommendation": "30余位摄影师口述9/11拍摄经历，呈现纪实摄影在历史现场的决策与伦理，对新闻摄影爱好者具参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "“Before history was written, it was photographed” – 25 years later, more than 30 photographers will come together to talk about photographing 9/11"
-    },
-    {
-      "id": "recvsQmWBHgkS8",
-      "title": "谷歌Pixel 11系列现已开售",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_google_pixel_11_series_is_now_on_sale-news-74266.php",
-      "publish_time": "2026-08-20T20:47:02+08:00",
-      "summary": "谷歌Pixel 11系列正式开售，覆盖澳大利亚、加拿大、日本等23个国家地区，提供新机型购买。",
-      "recommendation": "常规资讯，可了解行业动态。文章仅提及Pixel 11系列开售国家与机型，未涉及影像规格、计算摄影升级或独家数据，对追求画质细节的爱好者参考价值有限。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Google Pixel 11 series is now on sale"
-    },
-    {
-      "id": "recvsQmwVsNimF",
-      "title": "马丁·帕尔将在其拍摄《最后的度假胜地》的标志性地点创作壁画",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/martin-parr-mural-planned-at-iconic-location-where-he-photographed-the-last-resort/",
-      "publish_time": "2026-08-20T20:43:27+08:00",
-      "summary": "为纪念已故摄影师马丁·帕尔，计划在其创作《最后的度假胜地》的标志性地点绘制永久壁画。",
-      "recommendation": "从纪实摄影地标切入，解析马丁·帕尔色彩美学与英国社会观察的关联，对街拍爱好者理解构图叙事有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Martin Parr Mural Planned at Iconic Location Where He Photographed ‘The Last Resort’"
-    },
-    {
-      "id": "recvsQmKNaVL4m",
-      "title": "我们对比了这些全画幅无反相机——换系统省钱的最佳选择之一",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/weve-compared-these-full-frame-mirrorless-cameras-some-of-the-best-options-for-switching-systems-for-less",
-      "publish_time": "2026-08-20T19:59:43+08:00",
-      "summary": "本文对比多款全画幅无反相机，指出它们是在不超支情况下更换系统的最佳选择之一，强调性价比与核心参数优势。",
-      "recommendation": "多款全画幅无反横向对比，聚焦换系统成本与核心参数，提供性价比决策参考，适合预算敏感型影像爱好者。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "We've compared these full-frame mirrorless cameras – some of the best options for switching systems for less"
-    },
-    {
-      "id": "recvsQmzwwB9LD",
-      "title": "Reddit用户曾抓取摄影师反AI应用数据，如今改变心意",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/redditor-who-scraped-photographers-anti-ai-app-has-change-of-heart/",
-      "publish_time": "2026-08-20T19:56:59+08:00",
-      "summary": "Reddit用户曾抓取反AI应用Cara的数据，尽管其明确反对，但故事有圆满结局，现改变心意。",
-      "recommendation": "从反AI抓取争议到态度转变，揭示创作者与数据伦理博弈，对关注AI影像版权者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Redditor Who Scraped Photographer’s Anti-AI App Has Change of Heart"
-    },
-    {
-      "id": "recvsQmNIyc9wh",
-      "title": "日本最流行的紧凑型相机中近半数具备这一功能——其中一款重量超1000克，甚至算不上“紧凑”",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/nearly-half-of-the-trendiest-compact-cameras-in-japan-have-this-one-feature-and-one-of-them-isnt-even-compact-at-over-1-000g",
-      "publish_time": "2026-08-20T19:02:00+08:00",
-      "summary": "索尼RX10 V上市一天即入日本前十，显示变焦相机热度，但超1000克重量不符紧凑定义。",
-      "recommendation": "日本市场变焦相机热度数据揭示，索尼RX10 V千克重量与紧凑定位矛盾，提供行业趋势参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Nearly half of the trendiest compact cameras in Japan have this one feature – and one of them isn’t even “compact” at over 1,000g"
-    },
-    {
-      "id": "recvsQmQBNxDUj",
-      "title": "一只出生一周的夏威夷僧海豹幼崽在繁忙的威基基海滩上依偎在母亲身旁——这位摄影师在不打扰它们的情况下捕捉到了这一罕见瞬间",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/a-week-old-hawaiian-monk-seal-pup-rests-on-its-mother-at-a-busy-waikiki-beach-and-this-photographer-captured-the-rare-moment-without-disturbing-them",
-      "publish_time": "2026-08-20T18:31:59+08:00",
-      "summary": "摄影师在不打扰的情况下，捕捉到夏威夷僧海豹幼崽在威基基海滩依偎母亲身边的罕见瞬间，该照片入围著名摄影奖。",
-      "recommendation": "长焦拍摄与生态摄影伦理的实战案例，展示如何在干扰最小化下捕捉罕见瞬间，对野生动物题材拍摄者具参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "A week-old Hawaiian monk seal pup rests on its mother at a busy Waikīkī beach – and this photographer captured the rare moment without disturbing them"
-    },
-    {
-      "id": "recvsQmTyeYz16",
-      "title": "尼康新固件“解冻”Coolpix P1000长焦相机，提升Z5 II实用性",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/firmware/new-nikon-firmware-unfreezes-the-coolpix-p1000-bridge-camera-and-bolsters-the-nikon-z5-iis-practicality",
-      "publish_time": "2026-08-20T17:58:15+08:00",
-      "summary": "尼康发布Coolpix P1000固件1.9修复死机错误，1.20版提升实用性，增强Z5 II性能。",
-      "recommendation": "P1000固件修复死机问题，Z5 II性能提升细节值得关注，长焦用户可参考升级。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "New Nikon firmware “unfreezes” the Coolpix P1000 bridge camera and bolsters the Nikon Z5 II's practicality"
-    },
-    {
-      "id": "recvsQmpt2H0ac",
-      "title": "TTArtisan推出市场上最实惠的全画幅自动对焦85mm镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/ttartisan-launched-the-most-affordable-full-frame-autofocus-85mm-lenses-on-the-market/",
-      "publish_time": "2026-08-20T17:34:16+08:00",
-      "summary": "TTArtisan发布最实惠的全画幅自动对焦85mm镜头，售价99美元，F1.8光圈，11片圆形叶片，轻便，适合人像街拍旅行。",
-      "recommendation": "99美元全画幅自动对焦85mm F1.8刷新价格底线，11片光圈叶片与轻便设计兼顾人像街拍，预算有限者可重点关注。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "TTArtisan launched the most affordable full‑frame autofocus 85mm lenses on the market."
-    },
-    {
-      "id": "recvsQn2Lrif6K",
-      "title": "佳能80D已问世十年，如今还有人关注吗？",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/20/the-canon-80d-is-10-years-old-now-should-anyone-care/",
-      "publish_time": "2026-08-20T17:00:00+08:00",
-      "summary": "佳能80D发布十年，回顾其评测，指出其虽受欢迎但未跟上无反潮流，文章探讨其历史地位与现状。",
-      "recommendation": "十年单反生命周期复盘，剖析80D未跟上无反潮流的技术与市场因素，为选购二手及理解行业转型提供参考。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "The Canon 80D is 10 Years Old Now. Should Anyone Care?"
-    },
-    {
-      "id": "recvsQmBY2PKFH",
-      "title": "《纽约时报》记者震惊发现VHS婚恋服务录像带系伪造",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/nyt-reporter-shocked-to-discover-vhs-dating-service-tapes-were-faked/",
-      "publish_time": "2026-08-20T16:50:34+08:00",
-      "summary": "《纽约时报》记者赴洛杉矶调查VHS婚恋服务录像带，发现系演员伪造，账户运营者承认造假。",
-      "recommendation": "揭露VHS婚恋录像造假内幕，提醒影像爱好者警惕复古媒介内容真实性，提供行业造假案例与调查细节，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "NYT Reporter Shocked to Discover VHS Dating Service Tapes Were Faked"
-    },
-    {
-      "id": "recvsQmF57JXV0",
-      "title": "荷兰大奖赛是F1赛历中摄像头政策最严格的赛事之一",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/the-dutch-gp-has-one-of-the-strictest-camera-policies-on-the-f1-calendar/",
-      "publish_time": "2026-08-20T15:34:55+08:00",
-      "summary": "荷兰大奖赛对相机限制严格，是F1赛历中最严赛事之一，观众需提前了解政策。",
-      "recommendation": "赛事相机政策罕见被系统梳理，对计划携带器材观赛的影像爱好者有直接参考价值，但缺乏独家数据，常规资讯可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The Dutch GP Has One of the Strictest Camera Policies on the F1 Calendar"
-    },
-    {
-      "id": "recvsOU2PxlE48",
-      "title": "最新专利显示佳能RF 75-300mm f/4.5-5.6镜头采用浮动对焦设计",
-      "source": "CanonRumors",
-      "source_url": "https://www.canonrumors.com/latest-patent-shows-a-canon-rf-75-300mm-f-4-5-5-6-with-a-floating-focus-design/",
-      "publish_time": "2026-08-20T14:42:35+08:00",
-      "summary": "佳能新专利公开RF 75-300mm f/4.5-5.6镜头设计，采用浮动对焦技术，适用于无反、广播及紧凑相机，核心价值在于对焦方式创新。",
-      "recommendation": "专利揭示佳能浮动对焦新设计，对焦技术细节具参考价值，适合关注镜头光学创新的用户。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Latest Patent Shows a Canon RF 75-300mm f/4.5-5.6 With a Floating Focus Design"
-    },
-    {
-      "id": "recvsOUaCfX9xo",
-      "title": "徕卡制造16款相机——它是否暗中是最大的相机品牌？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/leica-makes-16-cameras-is-it-secretly-the-biggest-camera-brand-of-them-all",
-      "publish_time": "2026-08-20T14:15:00+08:00",
-      "summary": "徕卡已生产16款相机，从精品小众品牌转型为产品线丰富的品牌，但此转变鲜少被讨论。",
-      "recommendation": "梳理徕卡16款相机产品线，揭示其从精品小众向全品类扩张的转型路径，对理解品牌战略与市场定位有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Leica makes 16 cameras – is it secretly the biggest camera brand of them all?"
-    },
-    {
-      "id": "recvsOTZZB01cA",
-      "title": "索尼小贴士…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1916/",
-      "publish_time": "2026-08-20T14:07:09+08:00",
-      "summary": "索尼小贴士汇总，含Astrhori 85mm f/1.8 II镜头评测、冬季鸟类摄影目的地、摄影技巧及Thypoch 24-50mm f2.8镜头评测等资讯。",
-      "recommendation": "涵盖两款镜头实测与鸟类摄影技巧，Astrhori与Thypoch的成像数据可供器材选购参考，冬季拍摄目的地建议具实操性。",
-      "categories": [
-        "镜头与光学",
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
-    },
-    {
-      "id": "recvsOU5sZvfwH",
-      "title": "小米18 Pro和小米18 Pro Max可能刚刚获得认证",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_may_have_just_been_certified-news-74247.php",
-      "publish_time": "2026-08-20T12:30:02+08:00",
-      "summary": "小米18 Pro和Pro Max获中国认证，支持100W有线充电和UWB，预计9月发布，或首发骁龙8 Elite Gen 6 Pro芯片，屏幕、摄像头等升级，标准版不参与。",
-      "recommendation": "认证信息透露充电与UWB升级，影像配置未详，但可预判旗舰趋势。常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Xiaomi 18 Pro and Xiaomi 18 Pro Max may have just been certified"
-    },
-    {
-      "id": "recvsOU87kuURv",
-      "title": "这是Google Pixel智能手环还是新的Fitbit设备？",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/is_this_a_google_pixel_smartband_or_a_new_fitbit_device-news-74248.php",
-      "publish_time": "2026-08-20T11:02:02+08:00",
-      "summary": "谷歌发布Pixel 11系列及Pixel Watch 5，但未推新Fitbit，澳洲广告现未知手环，疑为新Fitbit设备。",
-      "recommendation": "谷歌新品动向牵动可穿戴影像生态，文中未知手环线索或预示影像功能新布局，对追踪移动拍摄设备趋势有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is this a Google Pixel smartband or a new Fitbit device?"
-    },
-    {
-      "id": "recvsNB2gJaWju",
-      "title": "这位摄影师在保加利亚最臭名昭著的监狱中寻找人性",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/19/this-photographer-searched-for-humanity-in-bulgarias-most-infamous-prison/",
-      "publish_time": "2026-08-20T08:00:00+08:00",
-      "summary": "全球监狱人口达1150万，欧洲监狱拥挤，保加利亚密度每千居民86.2人，老年囚犯比例最高，引发医疗问题。",
-      "recommendation": "以监狱纪实摄影切入，展示极端环境下人性捕捉技巧，含全球监狱人口及保加利亚独家数据，对人文题材拍摄有参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "This Photographer Searched for Humanity in Bulgaria’s Most Infamous Prison"
-    },
-    {
-      "id": "recvsNAZymFKWh",
-      "title": "Viltrox是否即将为已不存在的相机/卡口组合发布镜头？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/is-viltrox-about-to-release-lenses-for-a-camera-mount-combo-that-no-longer-exists",
-      "publish_time": "2026-08-20T07:43:30+08:00",
-      "summary": "中国镜头品牌Viltrox发布节奏未放缓，可能为已停产的相机卡口组合推出新镜头，具体型号待官方确认。",
-      "recommendation": "Viltrox为停产卡口推新镜头的传闻，揭示小众品牌市场策略，对关注镜头兼容性与行业动态的玩家有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "镜头与光学"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Is Viltrox about to release lenses for a camera/mount combo that no longer exists?"
     }
   ]
 }
