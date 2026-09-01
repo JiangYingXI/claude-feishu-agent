@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-01T13:40:18.869068+08:00",
+    "updated_at": "2026-09-01T20:11:07.292351+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -8,12 +8,12 @@
     {
       "key": "传感器硬件",
       "label": "传感器硬件",
-      "count": 2
+      "count": 1
     },
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 14
+      "count": 12
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,25 +23,235 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 2
+      "count": 1
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 8
+      "count": 4
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 489
+      "count": 492
     },
     {
       "key": "摄影美学 & 技术科普",
       "label": "摄影美学 & 技术科普",
-      "count": 13
+      "count": 10
     }
   ],
   "articles": [
+    {
+      "id": "recvtYbZDYzwmE",
+      "title": "以真实摄影师为主角的电影并非总能精准呈现，但Netflix新片《H for Hawk》却将舰队街传奇人物Alisdair Macdonald刻画得入木三分",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photojournalism/movies-featuring-real-life-photographers-dont-always-hit-the-right-notes-but-new-netflix-movie-h-for-hawk-gets-fleet-street-legend-alisdair-macdonald-spot-on",
+      "publish_time": "2026-09-01T19:43:40+08:00",
+      "summary": "Netflix新片《H for Hawk》精准刻画舰队街传奇摄影师Alisdair Macdonald，布伦丹·格里森饰演真实枪击案凶手，克莱尔·福伊主演，真实照片为剧集提供依据。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Movies featuring real-life photographers don't always hit the right notes, but new Netflix movie H for Hawk gets Fleet Street legend Alisdair Macdonald spot on"
+    },
+    {
+      "id": "recvtYbSps7zKi",
+      "title": "水下无人机寻沉船，却找到洗衣机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/underwater-drone-looks-for-shipwreck-finds-washing-machines-instead/",
+      "publish_time": "2026-09-01T19:30:26+08:00",
+      "summary": "NOAA发布2017年水下无人机探险视频，原寻沉船却意外发现洗衣机，展示技术意外发现的价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Underwater Drone Looks for Shipwreck, Finds Washing Machines Instead"
+    },
+    {
+      "id": "recvtYc1gwTvfS",
+      "title": "尼康热门器材大促：单反与微单相机及镜头最高直降44%",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/popular-nikon-gear-is-now-up-to-44-percent-off-across-dslr-and-mirrorless-cameras-and-lenses",
+      "publish_time": "2026-09-01T19:24:36+08:00",
+      "summary": "尼康热门器材大促，单反与微单相机及镜头最高直降44%，涵盖经典单反机身、镜头及最新Z系列设备，提供最佳优惠。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Popular Nikon gear is now up to 44% off across DSLR and mirrorless cameras and lenses"
+    },
+    {
+      "id": "recvtYbUn7IixE",
+      "title": "扎克·施奈德的《最后的照片》终于首映并发布完整预告片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/zack-snyders-the-last-photograph-finally-gets-debut-and-full-trailer/",
+      "publish_time": "2026-09-01T18:30:43+08:00",
+      "summary": "扎克·施奈德新片《最后的照片》发布预告，将在多伦多国际电影节首映，展现其独特摄影风格。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Zack Snyder’s ‘The Last Photograph’ Finally Gets Debut and Full Trailer"
+    },
+    {
+      "id": "recvtYbXX0DLfC",
+      "title": "索尼RX10V新评测",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/new-sony-rx10v-reviews/",
+      "publish_time": "2026-09-01T18:26:03+08:00",
+      "summary": "索尼RX10V在多家零售商有售，评测首发于sonyalpharumors，核心价值在于提供新机型购买渠道及评测信息。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Sony RX10V reviews"
+    },
+    {
+      "id": "recvtYc31fQnbd",
+      "title": "所有获奖摄影师都有起点——这10个摄影比赛9月可参加",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/all-award-winning-photographers-started-somewhere-these-are-the-10-photo-contests-to-enter-this-september",
+      "publish_time": "2026-09-01T18:18:06+08:00",
+      "summary": "国际摄影比赛面向各水平摄影师开放，9月有10个可参加，助你展示作品并获奖。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "All award-winning photographers started somewhere – these are the 10 photo contests to enter this September"
+    },
+    {
+      "id": "recvtYchxmvPX3",
+      "title": "在影棚使用柯达Tri-X胶片需知的4件事",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/01/tutorial-working-with-kodak-tri-x-in-the-studio-copy/",
+      "publish_time": "2026-09-01T17:00:00+08:00",
+      "summary": "柯达Tri-X 400胶片宽容度高，适合影棚人造光拍摄，新胶片摄影师可灵活使用获得出色效果。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "4 Things to Know About Using Kodak Tri-X in the Studio"
+    },
+    {
+      "id": "recvtYc4zwl021",
+      "title": "爱普生A3照片打印机：6色墨深度结合紧凑一体设计，价格意外实惠",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/printers/6-ink-color-depth-meets-compact-all-in-one-design-in-epsons-surprisingly-affordable-a3-photo-printer",
+      "publish_time": "2026-09-01T16:56:50+08:00",
+      "summary": "爱普生XP-980照片打印机以实惠价格，结合6色墨与紧凑设计，旨在重燃家庭照片打印热情。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "6-ink color depth meets compact all-in-one design in Epson’s surprisingly affordable A3 photo printer"
+    },
+    {
+      "id": "recvtYc6lvejU3",
+      "title": "摄影师凭借包含海鹦戏剧性瞬间和可爱狐狸肖像的野生动物作品集，赢得梦寐以求的《加拿大地理》工作机会",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/photographer-wins-dream-canadian-geographic-gig-for-wildlife-portfolio-including-dramatic-shot-of-puffin-and-cute-fox-portrait",
+      "publish_time": "2026-09-01T16:55:26+08:00",
+      "summary": "纽芬兰摄影师大卫·斯特奇凭借海鹦与狐狸作品获2026年加拿大年度野生动物摄影奖，并获加拿大地理杂志两年摄影师任期。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer wins dream Canadian Geographic gig for wildlife portfolio including dramatic shot of puffin and cute fox portrait"
+    },
+    {
+      "id": "recvtYc87QOMow",
+      "title": "晕船、晒伤、尘土、洪水，有时还有恐惧，都是其中的一部分，但拍到照片意味着任何困难都会被迅速遗忘”——野生动物摄影师克里斯·法洛斯谈他拍摄的壮观鲸鱼照片",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/being-seasick-sunburnt-dusty-flooded-and-sometimes-scared-are-all-part-of-it-but-getting-the-shot-means-any-hardship-is-quickly-forgotten-wildlife-photographer-chris-fallows-on-his-spectacular-shots-of-whales",
+      "publish_time": "2026-09-01T16:49:58+08:00",
+      "summary": "获奖摄影师克里斯·法洛斯一天拍摄299头座头鲸创世界纪录，分享克服晕船、晒伤等困难的方法，强调照片价值超越艰辛。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "\"Being seasick, sunburnt, dusty, flooded and sometimes scared are all part of it, but getting the shot means any hardship is quickly forgotten\" – wildlife photographer Chris Fallows on his spectacular shots of whales"
+    },
+    {
+      "id": "recvtYc9JI2b6p",
+      "title": "这块彩虹色卡让专业摄影师校准了50年——ColorChecker迎来大寿，虚拟博物馆庆生",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/this-rainbow-chart-has-been-keeping-pro-photographers-in-check-for-50-years-colorchecker-is-celebrating-its-big-birthday-with-a-virtual-museum",
+      "publish_time": "2026-09-01T16:00:00+08:00",
+      "summary": "为庆祝ColorChecker问世50周年，制造商推出在线历史，展示这款校准工具的标志性发展历程。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This rainbow chart has been keeping pro photographers in check for 50 years – ColorChecker is celebrating its big birthday with a virtual museum"
+    },
+    {
+      "id": "recvtYcbOXwyiW",
+      "title": "Lava携Agni 4N首次登陆英国市场",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/lava_agni_4n_features_price_sale_date-news-74423.php",
+      "publish_time": "2026-09-01T15:53:02+08:00",
+      "summary": "印度手机制造商Lava携Agni 4N首次进入英国市场，该机以亲民价格提供旗舰体验，配备6.67英寸AMOLED屏、120Hz刷新率、2400尼特亮度及金属机身。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Lava makes its UK debut with the launch of Agni 4N"
+    },
+    {
+      "id": "recvtYbWc8rKaW",
+      "title": "Instagram终于意识到，人们不喜欢被AI创作者欺骗",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/01/instagram-is-waking-up-to-the-fact-that-people-dont-like-being-tricked-by-ai-creators/",
+      "publish_time": "2026-09-01T15:13:40+08:00",
+      "summary": "Instagram应对AI生成内容冒充真人创作者激增，采取措施保护用户免受欺骗，强调真实互动价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Instagram is Waking Up to the Fact That People Don’t Like Being Tricked by AI Creators"
+    },
+    {
+      "id": "recvtYcdMGlxLx",
+      "title": "爆料者称，一加16的最终相机规格已确定",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/here_are_the_finalized_camera_specs_for_the_oneplus_16_claims_tipster-news-74422.php",
+      "publish_time": "2026-09-01T14:30:02+08:00",
+      "summary": "爆料称一加16将配备200MP主摄，传感器1/1.4英寸，较一加15的50MP大幅提升，预计10月发布。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "These are the finalized camera specs for the OnePlus 16, claims tipster"
+    },
     {
       "id": "recvtWBIYAbhdj",
       "title": "适马会津Prime电影镜头系列变得更加多功能",
@@ -326,6 +536,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "NiSi NiSi 50mm T/1 Coming for Fujifilm GFX"
+    },
+    {
+      "id": "recvtYcfF0FC3m",
+      "title": "NiSi 50mm T/1 镜头即将登陆富士 GFX 系统",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/nisi-26mm-f-0-7-and-nisi-50mm-t-1-coming-for-fujifilm-gfx/",
+      "publish_time": "2026-09-01T01:38:10+08:00",
+      "summary": "NiSi即将推出50mm T/1镜头，可通过转接环覆盖富士GFX传感器，另有26mm镜头在开发中，但仅处于概念阶段，是否支持GFX未知。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "NiSi 50mm T/1 Coming for Fujifilm GFX"
     },
     {
       "id": "recvtV1F1dLrIQ",
@@ -7336,239 +7561,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "Is Viltrox about to release lenses for a camera/mount combo that no longer exists?"
-    },
-    {
-      "id": "recvsNB4SjqohK",
-      "title": "哈苏用户：我们的预设效果惊人",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/19/get-the-look-of-retro-digital-cameras-easily-copy-copy-3-copy-2-copy-4-copy-3/",
-      "publish_time": "2026-08-20T05:00:00+08:00",
-      "summary": "哈苏用户预设效果惊人，Phoblographer用庞大图像数据库测试了Capture One和Lightroom预设，覆盖各相机和镜头品牌。",
-      "recommendation": "用庞大图像数据库实测两大软件预设，覆盖多品牌相机镜头，为哈苏用户提供可量化的调色参考，数据详实，具实操价值。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Hasselblad Users: Our Presets Do Wonders"
-    },
-    {
-      "id": "recvsNATTdQuIw",
-      "title": "两位摄影师花一年时间规划完美日食照片，成功取决于30秒",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/two-photographers-spent-a-year-planning-the-perfect-eclipse-photo-and-success-came-down-to-30-seconds/",
-      "publish_time": "2026-08-20T04:42:45+08:00",
-      "summary": "加拿大摄影师Liron Gertsman与Tobias Yoder花一年规划，在西班牙拍摄日全食，成功取决于30秒窗口，最终完成筹备多年的照片。",
-      "recommendation": "一年筹备、30秒窗口，揭秘日食摄影的规划逻辑与临场决策，对风光与天文题材爱好者有实操参考价值。",
-      "categories": [
-        "摄影美学 & 技术科普",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Two Photographers Spent a Year Planning the Perfect Eclipse Photo and Success Came Down to 30 Seconds"
-    },
-    {
-      "id": "recvsNAWVfrHv8",
-      "title": "富士GFX100II IR扩展光谱红外相机现已开放预购",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-gfx100ii-ir-extended-spectrum-infrared-camera-available-now/",
-      "publish_time": "2026-08-20T04:31:22+08:00",
-      "summary": "富士GFX100II IR红外相机现已在BHphoto开放预购，该相机于2025年发布，此前未向个人用户销售，现可购买。",
-      "recommendation": "GFX100II IR红外版首次向个人开放预购，填补消费级中画幅红外相机空白，对特殊摄影爱好者具实用参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "传感器硬件"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Fujifilm GFX100II IR Extended Spectrum Infrared Camera Available for Pre-Order"
-    },
-    {
-      "id": "recvsLSVIB2EO1",
-      "title": "抱歉，电影制作者们——索尼FX5再次延期，且尚无确认的发布日期",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/sorry-filmmakers-the-sony-fx5-was-just-delayed-again-with-no-confirmed-release-date-on-the-cards",
-      "publish_time": "2026-08-20T02:20:00+08:00",
-      "summary": "索尼FX5电影摄影机因生产问题再次延期，尚无确认发布日期，其手持好莱坞定位受影响。",
-      "recommendation": "索尼FX5延期消息牵动手持电影机市场，文中生产问题细节与档期影响分析，对关注专业影像设备动态的爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Sorry, filmmakers – the Sony FX5 was just delayed again, with NO confirmed release date on the cards"
-    },
-    {
-      "id": "recvsLSztDsJTG",
-      "title": "日本政府称数码相机行业正在复苏",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/japanese-government-says-the-digital-camera-industry-is-in-recovery/",
-      "publish_time": "2026-08-20T02:08:26+08:00",
-      "summary": "日本经济产业省关注数码相机市场，因日本在该行业占主导地位，现称行业正在复苏。",
-      "recommendation": "日本官方视角确认相机行业复苏信号，对关注市场趋势的影像爱好者有参考价值，但缺乏具体数据支撑，常规资讯，可了解行业动态。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Japanese Government Says the Digital Camera Industry Is In Recovery"
-    },
-    {
-      "id": "recvsLTarAgPi2",
-      "title": "400-1500mm：适马刚刚为史上最疯狂的超远摄镜头申请了专利",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/19/400-1500mm-sigma-just-patented-the-wildest-super-telephoto-lens-weve-ever-seen/",
-      "publish_time": "2026-08-20T01:00:00+08:00",
-      "summary": "适马申请400-1500mm超远摄镜头专利，延续其填补市场空白的策略，该镜头规格超越现有产品，展现其技术雄心。",
-      "recommendation": "适马400-1500mm专利揭示超远摄新可能，含具体焦段与光圈数据，为长焦爱好者提供前瞻技术参考。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "400-1500mm: Sigma Just Patented the Wildest Super Telephoto Lens We’ve Ever Seen"
-    },
-    {
-      "id": "recvsLSC5gQcSI",
-      "title": "你可以在16年前的佳能单反上玩《毁灭战士》",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/you-can-play-doom-on-a-16-year-old-canon-dslr/",
-      "publish_time": "2026-08-20T00:50:34+08:00",
-      "summary": "摄影师通过Magic Lantern软件，在2010年的佳能EOS 550D单反上成功运行了1993年的游戏《毁灭战士》，展示了该相机改装潜力。",
-      "recommendation": "Magic Lantern改装实例，展示单反硬件潜力，对影像极客有参考价值，但游戏运行与摄影关联弱。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "You Can Play Doom On a 16-Year-Old Canon DSLR"
-    },
-    {
-      "id": "recvsLSQQuWs6N",
-      "title": "Google Pixel 11 Pro 上手评测",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/google_pixel_11_pro_hands_on-review-2990.php",
-      "publish_time": "2026-08-20T00:47:12+08:00",
-      "summary": "Google Pixel 11 Pro评测：搭载Tensor G4芯片，配备6.7英寸120Hz OLED屏，5000万像素主摄，电池容量5000mAh，支持45W快充，AI功能强大，综合性能提升显著",
-      "recommendation": "Tensor G4影像算力实测、5000万像素主摄样张解析，AI算法与计算摄影结合是核心看点，适合关注手机摄影进化的用户。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google Pixel 11 Pro hands-on review"
-    },
-    {
-      "id": "recvsLSON0E1IV",
-      "title": "我们测试了Pixel 11的Magic Capture和Camera Looks——以下是各自的表现",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/we-tested-the-pixel-11s-magic-capture-and-camera-looks-heres-how-the-photos-look/",
-      "publish_time": "2026-08-20T00:05:31+08:00",
-      "summary": "谷歌Pixel 11手机提供两种计算摄影方式：AI捕捉瞬间或拍摄前定义风格。真实测试显示，Magic Capture和Camera Looks各有优劣，核心价值在于用户可根据需求选择AI辅助或手动风格",
-      "recommendation": "实测对比Pixel 11双计算摄影模式，揭示AI捕捉与手动风格的取舍，为影像爱好者提供真实场景下的选择依据。",
-      "categories": [
-        "计算摄影 & AI 影像",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "We tested the Pixel 11’s Magic Capture and Camera Looks – here’s how each performs"
-    },
-    {
-      "id": "recvsLSY5mfAKo",
-      "title": "世界摄影日来临——这7款相机优惠最高可省900美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/world-photography-day-is-here-and-these-7-camera-deals-save-you-up-to-usd900",
-      "publish_time": "2026-08-20T00:03:06+08:00",
-      "summary": "世界摄影日来临，7款相机优惠最高可省900美元，折扣力度大，值得关注。",
-      "recommendation": "汇总世界摄影日相机促销，最高省900美元，含具体机型与折扣数据，适合近期有购机计划的爱好者比价参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "World Photography Day is here – and these 7 camera deals save you up to $900"
-    },
-    {
-      "id": "recvsLSEPDDQso",
-      "title": "谷歌Pixel 11 Pro评测：手机的一小步",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/google-pixel-11-pro-review-one-small-step-for-phones/",
-      "publish_time": "2026-08-20T00:00:17+08:00",
-      "summary": "谷歌Pixel 11 Pro评测指出，智能手机年度升级已趋于微小，不再有重大技术和硬件飞跃，本文探讨其核心价值。",
-      "recommendation": "深度剖析Pixel 11 Pro影像升级的边际效应，提供计算摄影趋势独家视角，助你理性看待年度迭代，避免盲目换机。",
-      "categories": [
-        "产品洞察 & 行业资讯",
-        "拆机 & 实测 & 样张"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Google Pixel 11 Pro Review: One Small Step for Phones"
-    },
-    {
-      "id": "recvsLT0DxxCGn",
-      "title": "世界摄影日：饥饿北极熊的恐怖照片仍是严峻警示",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/horrific-photograph-of-starving-polar-bear-still-stands-out-as-stark-warning-this-world-photography-day",
-      "publish_time": "2026-08-19T23:57:45+08:00",
-      "summary": "世界摄影日回顾九年前克里斯蒂娜·戈特施·米特迈尔和保罗·尼克伦拍摄的饥饿北极熊照片，该影像至今仍是气候变化严峻警示。",
-      "recommendation": "以经典生态影像为案例，剖析纪实摄影的社会影响力与伦理边界，适合关注影像叙事深度的爱好者。",
-      "categories": [
-        "摄影美学 & 技术科普"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Horrific photograph of starving polar bear still stands out as stark warning this World Photography Day"
-    },
-    {
-      "id": "recvsLTcUfZVOF",
-      "title": "尼康美国2026年8月优惠：全新Z6 III以旧换新计划",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/19/nikon-usa-rebates-for-august-2026-new-z6-iii-trade-in-program.aspx/",
-      "publish_time": "2026-08-19T23:45:53+08:00",
-      "summary": "尼康美国推出Z6 III以旧换新计划，提供200美元额外奖励，最高可享800美元优惠，有效期至2026年8月30日。",
-      "recommendation": "Z6 III以旧换新补贴细节明确，含200美元额外奖励及截止日期，适合近期升级全画幅机身的用户参考。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Nikon USA rebates for August 2026: new Z6 III trade-in program"
-    },
-    {
-      "id": "recvsLSHfoiCXW",
-      "title": "全球首款飞行口袋相机在Indiegogo上迅速众筹超23万美元",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/19/worlds-first-flying-pocket-camera-quickly-raised-over-230000-on-indiegogo/",
-      "publish_time": "2026-08-19T23:40:23+08:00",
-      "summary": "HoverAir发布全球首款飞行口袋相机Versa，在Indiegogo众筹超23万美元，距结束59天，展示独特新相机技术。",
-      "recommendation": "全球首款飞行口袋相机众筹数据与产品形态解析，含23万美元金额及59天周期，对关注便携影像创新者具参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "World’s First Flying Pocket Camera Quickly Raised Over $230,000 on Indiegogo"
-    },
-    {
-      "id": "recvsLSTrrZ17m",
-      "title": "iPhone 18 Pro Max 或成唯一配备可变光圈摄像头的机型",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_18_pro_max_tipped_to_be_the_only_model_with_a_variableaperture_camera-news-74238.php",
-      "publish_time": "2026-08-19T23:11:02+08:00",
-      "summary": "iPhone 18 Pro Max 或独享可变光圈主摄像头，Pro 型号可能无缘此升级，该功能传闻仅限 Pro Max。",
-      "recommendation": "可变光圈在手机端仍属稀缺功能，本文揭示iPhone 18 Pro Max或独享此配置，对关注计算摄影与镜头进化的爱好者具参考价值。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "iPhone 18 Pro Max tipped to be the only model with a variable-aperture camera"
     }
   ]
 }
