@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-02T05:21:12.383553+08:00",
+    "updated_at": "2026-09-02T13:08:00.743772+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -13,7 +13,7 @@
     {
       "key": "镜头与光学",
       "label": "镜头与光学",
-      "count": 3
+      "count": 1
     },
     {
       "key": "ISP & 影像芯片",
@@ -23,17 +23,17 @@
     {
       "key": "计算摄影 & AI 影像",
       "label": "计算摄影 & AI 影像",
-      "count": 1
+      "count": 0
     },
     {
       "key": "拆机 & 实测 & 样张",
       "label": "拆机 & 实测 & 样张",
-      "count": 1
+      "count": 0
     },
     {
       "key": "产品洞察 & 行业资讯",
       "label": "产品洞察 & 行业资讯",
-      "count": 499
+      "count": 500
     },
     {
       "key": "摄影美学 & 技术科普",
@@ -42,6 +42,96 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvu2ketOTXae",
+      "title": "vivo X500 Pro系列发布前预热视频功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x500_pro_series_video_capabilities_teased_ahead_of_launch-news-74435.php",
+      "publish_time": "2026-09-02T09:31:02+08:00",
+      "summary": "vivo预热X500 Pro系列，确认Pro和Pro Max支持4K 240fps慢动作视频，配备定制Phantom 900传感器，由索尼与vivo蓝图影像团队开发。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo X500 Pro series video capabilities teased ahead of launch"
+    },
+    {
+      "id": "recvu2kg9De3qF",
+      "title": "Google Pics 上线，可在 Google Docs、Slides 和 Drive 中创建和编辑图片",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/google_pics_launches_to_create_and_edit_images_in_google_docs_slides_and_drive-news-74439.php",
+      "publish_time": "2026-09-02T07:29:02+08:00",
+      "summary": "谷歌推出Google Pics新服务，提供精细编辑功能，可生成和精确编辑图像，独立于Gemini，使用Nano Banana技术。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google Pics launches to create and edit images in Google Docs, Slides, and Drive"
+    },
+    {
+      "id": "recvu2k9sQV3KQ",
+      "title": "Adobe Camera Raw 18.6 新增光晕工具，支持扩散、辉光和光晕效果——适用于 Raw 图像",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/adobe-adds-glow-to-camera-raw/",
+      "publish_time": "2026-09-02T07:07:20+08:00",
+      "summary": "Adobe Camera Raw 18.6新增光晕工具，支持扩散、辉光和光晕效果，可全局或蒙版应用，但Lightroom不提供此功能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Adobe Camera Raw 18.6 adds a Glow tool with diffusion, bloom and halation – applied to Raw images"
+    },
+    {
+      "id": "recvu2kbapwzzv",
+      "title": "富士胶片用户现在可以通过iPhone将胶片模拟发送到相机",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/fujifilm-users-can-now-send-film-simulations-to-their-camera-from-their-iphone/",
+      "publish_time": "2026-09-02T06:18:42+08:00",
+      "summary": "富士胶片推出两款应用，用户可通过iPhone将胶片模拟配方发送至相机，便于管理单个或系列食谱，提升拍摄体验。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm users can now send film simulations to their camera from their iPhone"
+    },
+    {
+      "id": "recvu2kcPzqAMh",
+      "title": "摄影界最重要的24色块——ColorChecker，迎来50周年",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "publish_time": "2026-09-02T05:26:16+08:00",
+      "summary": "Calibrite以虚拟博物馆纪念ColorChecker五十周年，该24色块是摄影界色彩校准核心工具，其历史与价值在此回顾。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The ColorChecker, photography’s most important 24 squares, turns 50"
+    },
+    {
+      "id": "recvu2khSw6tBT",
+      "title": "尼康仍位居第三（2025年无反相机产量排名）",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/01/nikon-is-still-at-the-3-spot-2025-mirrorless-camera-production-volume-ranking.aspx/",
+      "publish_time": "2026-09-02T05:18:50+08:00",
+      "summary": "2025年无反相机产量排名中尼康仍居第三，富士胶片因紧凑型相机需求激增市场份额大涨，数据含X-half玩具相机及Instax产品线。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon is still at the #3 spot (2025 mirrorless camera production volume ranking)"
+    },
     {
       "id": "recvu0qpzxgv8J",
       "title": "当前所有E卡口优惠概览",
@@ -7452,99 +7542,6 @@
       "quality_score": 6,
       "language": "English",
       "original_title": "The Godox P100 is a Portable Color Printer That Fits in Your Pocket"
-    },
-    {
-      "id": "recvsRLbe2rhNM",
-      "title": "Pixel 11 Pro 相机样张：全分辨率 50MP Raw 文件，以及 Magic Capture 和 Camera Looks",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/samples/pixel-11-pro-camera-samples-full-res-50mp-raw-files-plus-magic-capture-and-camer/",
-      "publish_time": "2026-08-21T02:35:52+08:00",
-      "summary": "谷歌Pixel 11 Pro相机样张展示50MP Raw文件，评测AI驱动的Magic Capture及Camera Looks，便于对比处理效果。",
-      "recommendation": "50MP Raw样张直出，可对比Magic Capture与Camera Looks处理效果，为计算摄影爱好者提供一手素材与调校参考。",
-      "categories": [
-        "拆机 & 实测 & 样张",
-        "计算摄影 & AI 影像"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Pixel 11 Pro camera samples: full-res 50MP Raw files, plus Magic Capture and Camera Looks"
-    },
-    {
-      "id": "recvsRKRQdxWg1",
-      "title": "Brightin Star 奢华新作：35mm f/1.7 M卡口镜头即将问世",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/brightin-stars-luxurious-new-35mm-f-1-7-m-mount-lens-is-coming-soon/",
-      "publish_time": "2026-08-21T02:30:09+08:00",
-      "summary": "Brightin Star在CP+展会发布徕卡M卡口APO 35mm f/1.7 ASPH镜头，现可订购，首发于Kickstarter。",
-      "recommendation": "M卡口APO 35mm f/1.7镜头参数与Kickstarter首发信息，对徕卡用户和手动头玩家有参考价值，但缺乏实测数据。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "Brightin Star’s Luxurious New 35mm f/1.7 M-Mount Lens Is Coming Soon"
-    },
-    {
-      "id": "recvsRKU8x01re",
-      "title": "大疆还是影石，谁赢了？特邀 Becca Farsace | PetaPixel 播客",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/20/so-who-won-dji-or-insta360-featuring-becca-farsace-the-petapixel-podcast/",
-      "publish_time": "2026-08-21T02:02:10+08:00",
-      "summary": "本周PetaPixel播客讨论大疆与影石竞争，索尼FX5延期，柯达盈利，前索尼高管透露曾有公司建议合作而非单打独斗。",
-      "recommendation": "大疆与影石竞争格局解析，含索尼FX5延期及柯达盈利等独家行业动态，为影像爱好者提供多品牌战略对比视角。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "So Who Won, DJI or Insta360? Featuring Becca Farsace | The PetaPixel Podcast"
-    },
-    {
-      "id": "recvsRLn78znK3",
-      "title": "美国三大运营商免费提供部分Pixel 11机型，你需要了解这些",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_big_three_us_carriers_are_offering_some_pixel_11_models_for_free_here_is_what_you_need_to_know-news-74260.php",
-      "publish_time": "2026-08-21T02:02:02+08:00",
-      "summary": "谷歌Pixel 11系列上市，美国三大运营商提供优惠，T-Mobile免费提供三款非折叠机型，需新线或折抵旧设备并注册特定套餐，优惠1300美元。",
-      "recommendation": "常规资讯，可了解行业动态。文中提及Pixel 11影像升级与运营商补贴策略，对关注购机成本的用户有参考价值，但缺乏独家影像数据或深度分析。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The big three US carriers are offering some Pixel 11 models for free, here is what you need to know"
-    },
-    {
-      "id": "recvsRLg9JlclS",
-      "title": "灰狼可能不再濒危于美国这一州——由1311台野外相机组成的网络捕捉到超过200万张图像，正助力证实这一点",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/trail-cameras/gray-wolves-may-no-longer-be-endangered-in-this-us-state-and-a-network-of-1-311-trail-cameras-capturing-more-than-2-million-images-is-helping-to-prove-it",
-      "publish_time": "2026-08-21T01:05:00+08:00",
-      "summary": "密歇根州首次用1311台野外相机网络捕捉超200万张图像，成功追踪灰狼种群全年健康状况，助力证实其可能不再濒危。",
-      "recommendation": "1311台野外相机网络与超200万张图像，展示大规模生态监测中影像技术的实战应用，对野生动物摄影与相机部署爱好者有参考价值。",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 7,
-      "language": "English",
-      "original_title": "Gray wolves may no longer be endangered in this US state – and a network of 1,311 trail cameras capturing more than 2 million images is helping to prove it"
-    },
-    {
-      "id": "recvsRLzsgeSwj",
-      "title": "TTArtisan 85mm f1.8 Neo 仅需99美元，配备自动对焦及更多功能。",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/20/the-ttartisan-85mm-f1-8-neo-is-just-99-with-autofocus-and-more/",
-      "publish_time": "2026-08-21T01:00:00+08:00",
-      "summary": "TTArtisan推出85mm f1.8 Neo镜头，售价99美元，配备自动对焦，适合人像摄影，性价比高，值得关注。",
-      "recommendation": "99美元自动对焦85mm镜头刷新价格底线，为预算有限的人像爱好者提供新选择，可了解入门级镜头市场动态。",
-      "categories": [
-        "镜头与光学",
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 6,
-      "language": "English",
-      "original_title": "The TTArtisan 85mm f1.8 Neo is just $99 with Autofocus and More."
     }
   ]
 }
