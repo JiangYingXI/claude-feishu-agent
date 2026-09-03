@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-03T05:18:55.665519+08:00",
+    "updated_at": "2026-09-03T13:01:15.476755+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvu896BPRkjt",
+      "title": "尼康发布Coolpix P1100 125倍超长焦相机新固件更新v1.1",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/02/nikon-released-a-new-firmware-update-v1-1-for-the-coolpix-p1100-125x-super-zoom-camera.aspx/",
+      "publish_time": "2026-09-03T10:32:18+08:00",
+      "summary": "尼康发布Coolpix P1100 125倍超长焦相机固件更新v1.1，修复连拍变焦卡顿及视频时间戳错误问题。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon released a new firmware update v1.1 for the Coolpix P1100 125x-super-zoom camera"
+    },
     {
       "id": "recvu6gIIEm3tJ",
       "title": "无广告的Phoblographer每年仅需25美元。这为何重要",
@@ -7526,21 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "How a 20-Year-Old Has Spent 3 Years Building Panoramic Cameras by Hand"
-    },
-    {
-      "id": "recvsZguRmp3uF",
-      "title": "看起来HoverAir的飞行云台相机在美国已被禁售",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/21/it-looks-like-hover-airs-flying-gimbal-camera-already-got-banned-in-the-u-s/",
-      "publish_time": "2026-08-22T07:57:55+08:00",
-      "summary": "HoverAir Versa飞行云台相机因宣传为全球首款飞行口袋相机，或涉无人机禁令，已在美国下架。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "It Looks Like HoverAir’s Flying Gimbal Camera Already Got Banned in the U.S."
     }
   ]
 }
