@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-05T00:38:23.036820+08:00",
+    "updated_at": "2026-09-05T05:03:31.468385+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -43,6 +43,111 @@
   ],
   "articles": [
     {
+      "id": "recvuhTPmTn7ME",
+      "title": "富士XApp实测：终于有一款配得上富士相机的应用了",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/fujifilms-xapp-tested-its-finally-the-app-your-fujifilm-camera-deserves/",
+      "publish_time": "2026-09-05T03:43:21+08:00",
+      "summary": "富士XApp实测：用X-T5测试其图像传输与相机备份功能，虽可靠但仍有不完善之处，是配得上富士相机的应用。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm’s XApp tested: It’s finally the app your Fujifilm camera deserves"
+    },
+    {
+      "id": "recvuhTHQisbK0",
+      "title": "摄影师自制镜头重燃热情，随后创立光学公司",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/04/a-photographer-reignited-his-passion-by-building-a-custom-lens-then-he-founded-an-optics-company/",
+      "publish_time": "2026-09-05T03:30:28+08:00",
+      "summary": "摄影师Thomas Spicher创立Adapted Optics，用3D打印机身和回收的一次性相机镜头打造“日常镜头”，融合胶片特色与现代制造质量控制。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A Photographer Reignited His Passion By Building a Custom Lens, Then He Founded an Optics Company"
+    },
+    {
+      "id": "recvuhTJtAJEpk",
+      "title": "Vimeo可单方面更改你的套餐并强制你多付5倍费用",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/04/vimeo-can-decide-to-change-your-plan-and-force-you-to-pay-5x-more/",
+      "publish_time": "2026-09-05T02:59:55+08:00",
+      "summary": "Vimeo单方面将部分用户切换到价格高5倍的新订阅层级，无视用户自主选择权，引发争议。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Vimeo Can Decide To Change Your Plan and Force You to Pay 5x More"
+    },
+    {
+      "id": "recvuhTL5uz9zD",
+      "title": "柯达金胶卷：既广受欢迎，又未获充分赏识",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/04/kodak-gold-is-somehow-both-very-popular-and-underappreciated/",
+      "publish_time": "2026-09-05T01:09:58+08:00",
+      "summary": "柯达金200胶卷广受欢迎但未获充分赏识，本文聚焦其技术参数与核心价值，揭示其独特魅力。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Kodak Gold is Somehow Both Very Popular and Underappreciated"
+    },
+    {
+      "id": "recvuhTTz6fOqc",
+      "title": "街头摄影大师谈光线与人像",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/04/greg-turners-candid-street-portraits-light-master/",
+      "publish_time": "2026-09-05T01:00:00+08:00",
+      "summary": "街头摄影师格雷格·特纳在Phoblographer档案文章中，探讨了光线、情感与街头摄影向人像摄影的自然演变，强调互动与克服恐惧，核心价值在于指导摄影师通过光线捕捉情感。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A Street Photography Master Talks About Light and Portraiture"
+    },
+    {
+      "id": "recvuhTMqM7Hwb",
+      "title": "曼富图为其ONE系统新增专用视频三脚架",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/04/manfrotto-adds-a-dedicated-video-tripod-to-its-one-system/",
+      "publish_time": "2026-09-05T00:54:05+08:00",
+      "summary": "曼富图推出ONE Video，为其ONE系统三脚架系列新增专业视频专用选项，满足视频拍摄需求。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Manfrotto Adds a Dedicated Video Tripod to Its ONE System"
+    },
+    {
+      "id": "recvuhTQGYWRoT",
+      "title": "真香：Blackmagic部分相机降价超1000美元",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/this-is-refreshing-blackmagic-is-making-some-of-its-cameras-over-1000-cheaper/",
+      "publish_time": "2026-09-05T00:43:19+08:00",
+      "summary": "Blackmagic Design宣布全画幅Cinema Camera 6K和Pyxis 6K降价超1000美元，因零部件成本降低，为消费者带来实惠。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This is refreshing: Blackmagic is making some of its cameras over $1000 cheaper"
+    },
+    {
       "id": "recvugOKjTWwjx",
       "title": "SmallRig Nano移动电源配备相机套件安装点",
       "source": "PetaPixel",
@@ -56,6 +161,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "SmallRig Nano Power Banks Have Mounting Points for Camera Rigs"
+    },
+    {
+      "id": "recvuhTNSLGwIC",
+      "title": "智能手机摄像头中的可变光圈：它在哪些方面产生影响？",
+      "source": "DXOMARK",
+      "source_url": "https://www.dxomark.com/variable-aperture-in-smartphone-cameras-where-does-it-make-a-difference/",
+      "publish_time": "2026-09-04T23:35:09+08:00",
+      "summary": "可变光圈从专业相机进入智能手机，随大传感器兴起而精密化。固定光圈宽大以增光，可变光圈则灵活调节，提升成像质量与景深控制。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Variable aperture in smartphone cameras: where does it make a difference?"
     },
     {
       "id": "recvugP42A0cDd",
@@ -611,6 +731,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "“Lightweight, compact, powerful.” Fujifilm’s new 400mm f/4.5 takes on sports and wildlife as a brighter, lighter alternative to zooms for X-Mount cameras"
+    },
+    {
+      "id": "recvuhTS6kwsaV",
+      "title": "富士胶片发布“FUJINON镜头XF400mmF4.5 R LM OIS WR”",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/fujifilm-launches-fujinon-lens-xf400mmf4-5-r-lm-ois-wr/",
+      "publish_time": "2026-09-04T11:52:42+08:00",
+      "summary": "富士胶片发布FUJINON镜头XF400mmF4.5 R LM OIS WR，已在多国商店有售，该消息源自Fuji Rumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm Launches “FUJINON Lens XF400mmF4.5 R LM OIS WR”"
     },
     {
       "id": "recvue07SCkqjg",
@@ -7406,141 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Nikon received four EISA photography awards"
-    },
-    {
-      "id": "recvtgQeQgTJxf",
-      "title": "索尼RX10 V评测：他们如何评价这台全能选手？",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/reviews/sony-rx10-v-review/",
-      "publish_time": "2026-08-25T07:30:00+08:00",
-      "summary": "索尼RX10 V评测：十年技术集于1英寸长焦便携相机，全能表现获赞。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sony RX10 V review: what do they say about a jack of all trades?"
-    },
-    {
-      "id": "recvtgQh8PConI",
-      "title": "鹈鹕35L相机背包解决了携带相机旅行时令人沮丧的问题",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/pelicans-35l-camera-backpack-fixes-a-frustrating-part-of-traveling-with-cameras/",
-      "publish_time": "2026-08-25T07:13:19+08:00",
-      "summary": "鹈鹕35L相机背包通过加垫内衬设计，实现硬壳保护与便携切换，解决旅行携带相机的困扰。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pelican’s 35L camera backpack fixes a frustrating part of traveling with cameras"
-    },
-    {
-      "id": "recvtgQcBwPbpH",
-      "title": "Gemini 现在可以为你的 Pixel 11 设备进行故障排查",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/gemini_can_now_troubleshoot_your_pixel_11_device-news-74313.php",
-      "publish_time": "2026-08-25T06:31:02+08:00",
-      "summary": "谷歌为Pixel 11测试Gemini驱动的设备帮助工具，用户可与Gemini对话排查故障，目前为有限测试。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Gemini can now troubleshoot your Pixel 11 device"
-    },
-    {
-      "id": "recvtgQnHC69Hk",
-      "title": "85mm镜头使用技巧，人类爱读的那种",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/24/tips-85mm-lens-for-humans/",
-      "publish_time": "2026-08-25T05:00:00+08:00",
-      "summary": "85mm镜头不仅适合人像，也适用于体育、街头和活动摄影。文章探讨其使用技巧，强调即使不缩小光圈也能拍出出色作品。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tips on Using an 85mm Lens That Humans Will Enjoy Reading"
-    },
-    {
-      "id": "recvtgQ7EG1sLx",
-      "title": "Pelican新款相机背包，弥合背包与硬箱之间的差距",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/24/pelicans-new-camera-backpack-bridges-the-gap-between-bags-and-hard-cases/",
-      "publish_time": "2026-08-25T04:59:55+08:00",
-      "summary": "Pelican推出PX35 Aegis 35L Creator Pack相机背包，融合传统背包与硬壳箱优势，提供35升容量，兼顾保护性与便携性。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Pelican’s New Camera Backpack Bridges the Gap Between Bags and Hard Cases"
-    },
-    {
-      "id": "recvtgQaeCikpe",
-      "title": "Metabones称其新款EF-X转接环带来前所未有的自动对焦性能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/24/metabones-says-its-new-ef-x-adapters-deliver-autofocus-performance-never-seen-before/",
-      "publish_time": "2026-08-25T03:47:19+08:00",
-      "summary": "Metabones发布EF-X Speed Boosters和Smart Adapters更新版，宣称带来前所未有的自动对焦性能。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Metabones Says its New EF-X Adapters Deliver Autofocus Performance Never Seen Before"
-    },
-    {
-      "id": "recvtf8FGSKnAP",
-      "title": "1970年代的奇葩康泰时1000mm f/5.6镜头如今表现如何",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/08/24/how-the-absurd-contax-1000mm-f-5-6-lens-from-the-1970s-performs-today/",
-      "publish_time": "2026-08-25T01:56:04+08:00",
-      "summary": "日本Map Camera测试了1970年代康泰时Mirotar 1000mm f/5.6镜头，评估其现代表现，保留核心参数，揭示其独特价值。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "How the Absurd Contax 1000mm f/5.6 Lens From the 1970s Performs Today"
-    },
-    {
-      "id": "recvtf8VOzadmX",
-      "title": "杰伊·梅塞尔去世，享年95岁，其“光线、色彩、姿态”理念影响了数代摄影师",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/jay-maisel-iconic-photographer-dies-95/",
-      "publish_time": "2026-08-25T01:38:28+08:00",
-      "summary": "杰伊·梅塞尔去世，享年95岁，其光线、色彩、姿态理念影响数代摄影师，从专辑封面到640名学员，影响力远超想象。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Jay Maisel, whose ‘light, color, gesture’ philosophy shaped generations of photographers, dies at 95"
-    },
-    {
-      "id": "recvtf8XrMObw0",
-      "title": "为何我认为徕卡Q3 43改变了高端便携相机市场，并让其他厂商侧目",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/why-i-think-the-leica-q3-43-changed-the-premium-compact-camera-market-and-made-others-take-notice",
-      "publish_time": "2026-08-25T01:13:54+08:00",
-      "summary": "徕卡Q3 43以43mm镜头和先进技术满足摄影师需求，引发业界关注，重塑高端便携相机市场格局。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Why I think the Leica Q3 43 changed the premium compact camera market and made others take notice"
     }
   ]
 }
