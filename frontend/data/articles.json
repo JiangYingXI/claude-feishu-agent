@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-04T05:19:48.908025+08:00",
+    "updated_at": "2026-09-04T13:03:23.456406+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvue07SCkqjg",
+      "title": "尼康在中国注册新相机N2528：目前共有三款即将发布的新相机",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/03/nikon-registered-a-new-n2528-camera-in-china-we-now-have-a-total-of-three-upcoming-new-cameras.aspx/",
+      "publish_time": "2026-09-04T09:05:23+08:00",
+      "summary": "尼康在中国注册新相机N2528，现共有三款即将发布的新相机，均支持5.1GHz WLAN和蓝牙，批准日期分别为2026年4月7日、4月24日和8月24日。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon registered a new N2528 camera in China: we now have a total of three upcoming new cameras"
+    },
+    {
+      "id": "recvue09y1cjaM",
+      "title": "2026年7月CIPA数据",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/03/july-2026-cipa-numbers.aspx/",
+      "publish_time": "2026-09-04T06:21:36+08:00",
+      "summary": "2026年7月CIPA数据显示，单反相机出货量同比骤降76%，无反相机数据未完全披露，整体市场表现不佳，该数据由ZoetMB提供并首发于Nikon Rumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "July 2026 CIPA numbers"
+    },
+    {
+      "id": "recvue02S11UfT",
+      "title": "现在你可以使用Gemini Spark管理你的Google相册",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/03/you-can-now-use-gemini-spark-to-manage-your-google-photos/",
+      "publish_time": "2026-09-04T05:44:08+08:00",
+      "summary": "谷歌宣布Gemini Spark与Google Photos集成，AI Pro和Ultra订阅用户可通过提示词管理、编辑和分享照片。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "You Can Now Use Gemini Spark to Manage Your Google Photos"
+    },
     {
       "id": "recvuc7gubG7UL",
       "title": "B&H和Adorama推出新的劳动节优惠活动",
@@ -116,6 +161,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "The View-Master wasn’t a toy. It was a Kodachrome stereo photography system"
+    },
+    {
+      "id": "recvue04yCu9zp",
+      "title": "View-Master 是为摄影师而非儿童设计的，却没人告诉我们",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/photography/the-view-master-wasnt-a-toy-it-was-a-kodachrome-stereo-photography-system/",
+      "publish_time": "2026-09-04T02:50:05+08:00",
+      "summary": "View-Master最初面向摄影师，非儿童，曾与明信片同售，1952年可购相机自制胶卷，作者儿时不知此情。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The View-Master was built for photographers, not children, and nobody told us"
     },
     {
       "id": "recvuc7lBazkwL",
@@ -221,6 +281,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "A Kathmandu photographer’s quiet search for the stories others overlook"
+    },
+    {
+      "id": "recvue06by5eoi",
+      "title": "尼泊尔加德满都摄影师静默探寻被忽视的故事",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/articles/a-kathmandu-photographers-quiet-search-for-the-stories-others-overlook/",
+      "publish_time": "2026-09-03T23:37:01+08:00",
+      "summary": "阿夫扎尔·汗为寻求宁静转向摄影，成为他与家乡加德满都的情感纽带，静默探寻被忽视的故事。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A Kathmandu, Nepal photographer’s quiet search for the stories others overlook"
     },
     {
       "id": "recvuaZLaydJjO",
@@ -761,6 +836,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "US$500 Dyson toothbrush puts a 100,000-pixel camera in your mouth so you can jet wash your teeth"
+    },
+    {
+      "id": "recvue0b1QoKNF",
+      "title": "戴森牙刷内置10万像素摄像头，让你能像高压水枪一样冲洗牙齿",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/camera-accessories/us-usd500-dyson-toothbrush-puts-a-100-000-pixel-camera-in-your-mouth-so-you-can-jet-wash-your-teeth",
+      "publish_time": "2026-09-03T14:45:00+08:00",
+      "summary": "戴森牙刷内置10万像素摄像头和闪光灯，精准定位牙菌斑，实现高压水枪式冲洗效果。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "A Dyson toothbrush puts a 100,000-pixel camera in your mouth so you can jet wash your teeth"
     },
     {
       "id": "recvu9LDUIwqJT",
@@ -7451,96 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Flower photography isn't just about pretty roses: photographers in this new collection found beauty from weeds in concrete and ghosts in cyanotype"
-    },
-    {
-      "id": "recvtb0iLDEWYt",
-      "title": "体育摄像师称“竖屏视频让我抓狂”，而开放门也不一定是答案……",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/sports-photography/vertical-video-is-driving-me-insane-says-sports-videographer-and-no-open-gate-isnt-necessarily-the-answer",
-      "publish_time": "2026-08-24T05:20:00+08:00",
-      "summary": "专业摄像师称竖屏视频令人抓狂，同时拍摄横竖屏难获最佳效果，开放门也非解决方案。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "“Vertical video is driving me INSANE” says sports videographer. And no, open gate isn’t necessarily the answer…"
-    },
-    {
-      "id": "recvtb0eQDhWjn",
-      "title": "别再拍地标了，开始拍旅途吧",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/photography/stop-photographing-the-landmark-start-photographing-the-trip/",
-      "publish_time": "2026-08-24T04:46:53+08:00",
-      "summary": "文章强调拍摄旅途而非地标，核心价值在于记录个人独特视角，而非追求普遍性镜头。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Stop photographing the landmark. Start photographing the trip"
-    },
-    {
-      "id": "recvtb0mTdFuDP",
-      "title": "又来？有人猜测陆逊梯卡大量持有尼康股份是收购的跳板（来源：雅虎日本）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/23/not-again-some-believe-that-luxotticas-large-holding-of-nikon-shares-is-a-stepping-stone-to-an-acquisition-source-yahoo-japan.aspx/",
-      "publish_time": "2026-08-24T03:48:30+08:00",
-      "summary": "日媒再提陆逊梯卡收购尼康猜测，因尼康2026财年巨亏并重组，其大量持股被视为收购跳板。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Not again: “some believe that Luxottica’s large holding of Nikon shares is a stepping stone to an acquisition” (source: Yahoo Japan)"
-    },
-    {
-      "id": "recvt9fmAlz9S0",
-      "title": "盖蒂最新展览聚焦墨西哥最伟大的影像创作者——他们如何在友谊与竞争中构建了一个世纪的作品",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/gettys-latest-show-turns-the-spotlight-on-mexicos-greatest-image-makers-and-how-they-built-a-century-of-work-through-friendship-and-rivalry",
-      "publish_time": "2026-08-24T02:20:00+08:00",
-      "summary": "盖蒂展览聚焦13位墨西哥摄影师，展示友谊与竞争如何塑造该国百年视觉历史，揭示共同主题与师徒关系对艺术发展的核心影响。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Getty's latest show turns the spotlight on Mexico's greatest image-makers – and how they built a century of work through friendship and rivalry"
-    },
-    {
-      "id": "recvt9fosXzv07",
-      "title": "Photomator评测：AI驱动的照片编辑快捷方式打造数字暗房",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/photomator-review",
-      "publish_time": "2026-08-24T01:00:00+08:00",
-      "summary": "AI驱动的照片编辑应用，快速精准选择编辑特定主体颜色色调，打造数字暗房。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Photomator review: A digital darkroom with AI-powered photo-editing shortcuts"
-    },
-    {
-      "id": "recvt9fqdf6meL",
-      "title": "什么？不到100美元的全画幅f/1.8定焦镜头？铭匠光学刚刚发布了最便宜的85mm镜头！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/what-a-full-frame-f-1-8-prime-for-less-than-us-usd100-ttartisan-just-released-the-cheapest-85mm-out-there",
-      "publish_time": "2026-08-23T23:20:00+08:00",
-      "summary": "铭匠光学发布最便宜的85mm f/1.8全画幅定焦镜头，价格不到100美元，虽基础但性价比高，适合追求实惠快速定焦的用户。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "What? A full-frame f/1.8 prime for less than US$100? TTArtisan just released the cheapest 85mm out there!"
     }
   ]
 }
