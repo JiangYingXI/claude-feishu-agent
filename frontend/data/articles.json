@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-09T05:27:33.454361+08:00",
+    "updated_at": "2026-09-09T13:12:37.896790+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvuHh1xQo24r",
+      "title": "我治疗归来——别担心，索尼长焦镜头即将到来！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/im-back-from-my-treatment-and-dont-worry-the-sony-telephoto-lens-is-coming-soon/",
+      "publish_time": "2026-09-09T11:49:01+08:00",
+      "summary": "作者治疗归来，确认索尼长焦镜头将在未来一到两周内发布，此前因治疗离线未能及时更新。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "I’m back from my treatment—and don’t worry, the Sony telephoto lens is coming soon!"
+    },
+    {
+      "id": "recvuHh317Dvjn",
+      "title": "Oppo A7 Pro正式发布，配备8000mAh大电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oppo_a7_pro_is_now_official_with_an_8000_mah_battery-news-74520.php",
+      "publish_time": "2026-09-09T11:01:02+08:00",
+      "summary": "Oppo A7 Pro发布，9月11日中国上市，配备6.57英寸120Hz OLED屏、5000万主摄、8000mAh电池。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Oppo A7 Pro is now official with an 8,000 mAh battery"
+    },
+    {
+      "id": "recvuHgXQL00Ha",
+      "title": "宾得单反的当前篇章正式落幕",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/08/the-current-chapter-of-pentax-dslrs-is-officially-over/",
+      "publish_time": "2026-09-09T10:38:43+08:00",
+      "summary": "理光映像宣布宾得K系列数码单反相机全部停产，标志其单反篇章落幕，但新篇章正在酝酿中。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Current Chapter of Pentax DSLRs Is Officially Over"
+    },
+    {
+      "id": "recvuHh4Cp3imV",
+      "title": "联发科天玑9600 Pro SoC正式发布日期确定",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/mediateks_dimensity_9600_pro_soc_now_has_an_official_launch_date-news-74521.php",
+      "publish_time": "2026-09-09T07:57:02+08:00",
+      "summary": "联发科宣布天玑9600 Pro SoC将于9月15日在中国发布，支持4K 240fps慢动作视频，主打专业影像与游戏体验。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "MediaTek's Dimensity 9600 Pro SoC now has an official launch date"
+    },
+    {
+      "id": "recvuHh6rOBteO",
+      "title": "新报告称，苹果曾想让iPhone Ultra售价达1999美元",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_wanted_the_iphone_ultra_to_cost_1999_new_report_says-news-74523.php",
+      "publish_time": "2026-09-09T07:02:01+08:00",
+      "summary": "苹果将于9月9日发布iPhone Ultra，或为首款可折叠手机，研发近十年，原计划售价1999美元，因内存芯片短缺及涨价，售价可能调整。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple wanted the iPhone Ultra to cost $1,999, new report says"
+    },
+    {
+      "id": "recvuHgZMYWcEM",
+      "title": "认识Lexar Muse：信用卡大小的iPhone固态硬盘",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/08/meet-lexar-muse-the-credit-card-sized-ssd-for-your-iphone/",
+      "publish_time": "2026-09-09T06:20:44+08:00",
+      "summary": "Lexar Muse是全球最薄的信用卡大小便携式SSD，厚度仅1毫米，重40克，可存储海量数据并支持iPhone ProRes视频捕捉，薄至可放入卡套。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meet Lexar Muse, the Credit Card-Sized SSD for Your iPhone"
+    },
+    {
+      "id": "recvuHh8eGGFqJ",
+      "title": "iOS相机应用将获得一些专业附加功能，暗示支持可变光圈",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/ios_camera_app_will_get_some_pro_addons_hints_at_variable_aperture_support-news-74524.php",
+      "publish_time": "2026-09-09T05:22:02+08:00",
+      "summary": "苹果iOS 27相机应用将新增专业功能，包括曝光直方图和波形工具，支持RGB精细控制，暗示可变光圈支持。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iOS camera app will get some pro add-ons, hints at variable aperture support"
+    },
     {
       "id": "recvuFnPl6gYok",
       "title": "人工智能聊天机器人的困境",
@@ -7436,111 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "vivo X500 Pro Max display details revealed"
-    },
-    {
-      "id": "recvtAJpUF5hwG",
-      "title": "Lava Agni 4N英国开售日期揭晓",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/lava_agni_4n_uk_sale_date-news-74382.php",
-      "publish_time": "2026-08-28T15:21:01+08:00",
-      "summary": "印度Lava Agni 4N将于9月4日在英国亚马逊开售，采用金属机身和大猩猩玻璃5显示屏，价格未公布。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Lava Agni 4N's UK sale date revealed"
-    },
-    {
-      "id": "recvtAJCQveSGN",
-      "title": "“摄影师的福音”，这款复古紧凑型无反相机刚刚斩获重大科技奖项——但富士胶片也凭借一款平价相机获奖",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/a-photographers-delight-this-retro-compact-mirrorless-just-won-a-major-tech-award-but-fujifilm-also-took-the-award-for-a-budget-camera-too",
-      "publish_time": "2026-08-28T15:00:00+08:00",
-      "summary": "富士X-E5和X-T30 III获EISA奖项，复古紧凑设计，价格差异大，均提供高性价比。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A “photographer’s delight,” this retro compact mirrorless just won a major tech award – but Fujifilm also took the award for a budget camera too"
-    },
-    {
-      "id": "recvtAJEPN0lSh",
-      "title": "尼康仅一款机型入围日本7月相机畅销榜——但这并不意味着索尼和佳能更胜一筹",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/only-one-nikon-model-made-japans-july-camera-bestseller-list-but-heres-why-that-doesnt-mean-sony-and-canon-are-better",
-      "publish_time": "2026-08-28T14:15:00+08:00",
-      "summary": "尼康仅一款机型入围日本7月畅销榜，但因其商业模式不同，不能简单认为其质量逊于索尼佳能。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Only one Nikon model made Japan’s July camera bestseller list – but here’s why that DOESN’T mean Sony and Canon are better"
-    },
-    {
-      "id": "recvtAJrWrgQez",
-      "title": "三星Galaxy S27 Pro渲染图泄露，新设计亮相",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_renders_leak-news-74379.php",
-      "publish_time": "2026-08-28T13:17:02+08:00",
-      "summary": "三星Galaxy S27 Pro渲染图泄露，新设计亮相，继承S27 Ultra相机岛设计，受苹果iPhone 17 Pro启发，无S Pen，为S27 Ultra较小版本。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy S27 Pro renders leak, new design is in"
-    },
-    {
-      "id": "recvtAJvF1V6df",
-      "title": "秋季鸟类摄影必知的6件事",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/08/27/6-things-every-bird-photographer-should-know-this-fall/",
-      "publish_time": "2026-08-28T09:00:00+08:00",
-      "summary": "秋季鸟类摄影需知六件事，因全球变暖可见罕见鸟类，AI场景检测功能提升摄影体验，是亲近自然的好方法。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "6 Things Every Bird Photographer Should Know This Fall"
-    },
-    {
-      "id": "recvtxvWQyfX5H",
-      "title": "尼康Z卡口新镜头腾龙12-20mm f/2.8现已到货",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/08/27/the-new-tamron-12-20mm-f-2-8-lens-for-nikon-z-mount-is-now-in-stock.aspx/",
-      "publish_time": "2026-08-28T06:28:55+08:00",
-      "summary": "尼康Z卡口新腾龙12-20mm f/2.8镜头已到货，可在美、德、英、加商家购买，全画幅，适合风光摄影。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The new Tamron 12-20mm f/2.8 lens for Nikon Z-mount is now in stock"
-    },
-    {
-      "id": "recvtxvziXx5sA",
-      "title": "GoPro Mission 1 Pro 发布仅数月，现已降至599.99美元",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-gopro-mission-1-pro-is-only-months-old-yet-it-has-already-fallen-to-usd599-99",
-      "publish_time": "2026-08-28T05:44:58+08:00",
-      "summary": "GoPro Mission 1 Pro运动相机发布数月即降价100美元，现售价599.99美元，性价比提升。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The GoPro Mission 1 Pro is only months old, yet it has already fallen to $599.99"
     }
   ]
 }
