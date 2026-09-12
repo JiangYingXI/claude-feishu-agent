@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-12T23:50:16.078747+08:00",
+    "updated_at": "2026-09-13T04:53:02.215410+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvv2DoPhArvh",
+      "title": "“这该进博物馆！”摄影师试用印第安纳·琼斯现实中的紧凑型胶片相机",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/that-belongs-in-a-museum-photographer-tries-out-indiana-jones-real-world-compact-film-camera",
+      "publish_time": "2026-09-13T02:25:00+08:00",
+      "summary": "《夺宝奇兵：古老之圈》虚构相机原型为现实35毫米古董胶片相机，摄影师试用后称其应进博物馆，凸显紧凑型胶片相机的历史价值。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "“That belongs in a museum!” Photographer tries out Indiana Jones’ real-world compact film camera"
+    },
+    {
+      "id": "recvv2DqAkUVnK",
+      "title": "Insta360的简洁命名“Luna Pro”似乎正在改变摄影的语言规则。当你无视其他所有人时，会发生什么？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/video-cameras/insta360s-simple-name-luna-pro-seems-to-be-changing-the-linguistic-rules-of-photography-what-happens-when-you-ignore-everyone-else",
+      "publish_time": "2026-09-13T02:17:48+08:00",
+      "summary": "Insta360发布第二款口袋云台相机Luna Pro，名为Pro实为精简版，核心是探讨其缺失功能与命名策略。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Insta360's simple name – \"Luna Pro\" –seems to be changing the linguistic rules of photography. What happens when you ignore everyone else"
+    },
+    {
+      "id": "recvv2DslCBEP1",
+      "title": "走进Lenne Chai对新加坡酷儿群体的怀旧视角",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/12/inside-lenne-chais-nostalgic-vision-of-a-queer-singapore/",
+      "publish_time": "2026-09-13T01:00:00+08:00",
+      "summary": "Lenne Chai以怀旧视角拍摄新加坡酷儿群体，照片不靠震惊，而是轻触思绪，唤起共情，想象更友善的边缘世界。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Inside Lenne Chai’s Nostalgic Vision of a Queer Singapore"
+    },
     {
       "id": "recvv1p4lLbpwb",
       "title": "威廉·埃格尔斯顿的照片曾被评为年度最令人厌恶之作——但这场新回顾展证明批评家错得有多离谱",
@@ -7496,51 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "DxO PhotoLab 10 Hands-On: Finding Depth All Over the Place"
-    },
-    {
-      "id": "recvtZmaZSmDok",
-      "title": "DxO发布PhotoLab 10：新增AI插件、蒙版和调色更新",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/01/dxo-releases-photolab-10-with-ai-add-ons-masking-and-color-grading-updates/",
-      "publish_time": "2026-09-01T21:00:48+08:00",
-      "summary": "DxO发布PhotoLab 10，新增AI插件、蒙版和调色更新，强化RAW图像处理与AI驱动遮罩，优化工作流程。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "DxO Releases PhotoLab 10 With AI Add-Ons, Masking, and Color Grading Updates"
-    },
-    {
-      "id": "recvtZmcy3sdRT",
-      "title": "DxO最新版Adobe替代品引入AI深度遮罩——无需订阅",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/dxo-photolab-10-announcement/",
-      "publish_time": "2026-09-01T21:00:00+08:00",
-      "summary": "DxO PhotoLab 10引入AI深度遮罩，无需订阅，含蒙版更新、自动传感器污点去除及新调色轮。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The latest version of DxO’s Adobe alternative brings AI depth masking – no subscription required"
-    },
-    {
-      "id": "recvtZmt6INabx",
-      "title": "您的蔡司镜头现在可由KEH维修",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/09/01/your-zeiss-lenses-can-now-be-repaired-by-keh/",
-      "publish_time": "2026-09-01T21:00:00+08:00",
-      "summary": "KEH成为蔡司北美独家维修中心，解决早期镜头如Loxia系列光圈随机变化问题，提升维修便利性。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Your Zeiss Lenses Can Now be Repaired by KEH"
     }
   ]
 }
