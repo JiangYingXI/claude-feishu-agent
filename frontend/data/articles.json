@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-17T01:22:39.329512+08:00",
+    "updated_at": "2026-09-17T05:40:23.927402+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvvqdnMjDJXE",
+      "title": "新报告称Meta正在研发一款无摄像头的智能眼镜",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/meta_is_working_on_a_pair_of_smart_glasses_without_a_camera_new_report_claims-news-74643.php",
+      "publish_time": "2026-09-17T04:01:03+08:00",
+      "summary": "新报告称Meta正研发无摄像头智能眼镜Luna，预计9月23-24日开发者大会亮相，10月发货，满足不需摄像头用户需求。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meta is working on a pair of smart glasses without a camera, new report claims"
+    },
+    {
+      "id": "recvvqdjeH3YJv",
+      "title": "依尔福‘非常限量’新款黑白35mm胶片更锐利，动态范围更佳",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/16/ilfords-very-limited-new-black-and-white-35mm-film-is-sharper-and-has-better-dynamic-range/",
+      "publish_time": "2026-09-17T03:04:50+08:00",
+      "summary": "依尔福推出限量版黑白35mm胶片Delta 400专业收藏家版，更锐利，动态范围更佳。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Ilford’s ‘Very Limited’ New Black-and-White 35mm Film Is Sharper and Has Better Dynamic Range"
+    },
+    {
+      "id": "recvvqdpkbE7tj",
+      "title": "九月Pixel更新改进VIP联系人小部件，新增哈利·波特主题",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_september_pixel_drop_improves_the_vip_contacts_widget_adds_harry_potter_themes-news-74638.php",
+      "publish_time": "2026-09-17T02:47:02+08:00",
+      "summary": "九月Pixel更新改进VIP联系人小部件，增强防诈骗，扩展Pause Point至Pixel 6系列，新增哈利·波特主题，除平板外均获更新，分阶段推送。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The September Pixel Drop improves the VIP contacts widget, adds Harry Potter themes"
+    },
+    {
+      "id": "recvvqdkTIZXU2",
+      "title": "OM System 称你从未见过这样的鸟类照片",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/16/om-system-says-youve-never-seen-birds-like-this-before/",
+      "publish_time": "2026-09-17T01:38:19+08:00",
+      "summary": "OM System赞助《野鸟揭秘》新季，展示蒂姆和拉塞尔·拉曼拍摄的惊艳鸟类照片，致敬野生动物摄影师。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "OM System Says You’ve Never Seen Birds Like This Before"
+    },
+    {
+      "id": "recvvqdqUWDKcw",
+      "title": "三星相册云同步应用在放弃OneDrive之际新增谷歌相册支持",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsungs_gallery_cloud_sync_app_adds_google_photos_support_just_as_it_drops_onedrive-news-74644.php",
+      "publish_time": "2026-09-17T01:31:02+08:00",
+      "summary": "三星相册云同步v1.6.09.31新增谷歌相册支持，10月1日上线，接替次日停止的OneDrive，配合6个月Google AI Pro试用含5TB云存储。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung's Gallery Cloud Sync app adds Google Photos support just as it drops OneDrive"
+    },
+    {
+      "id": "recvvqdmfhOqmO",
+      "title": "Meta可能即将发布无摄像头智能眼镜",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/16/meta-might-be-about-to-release-smart-glasses-without-a-camera/",
+      "publish_time": "2026-09-17T01:16:34+08:00",
+      "summary": "Meta因现有摄像头智能眼镜遭审查，正筹备无摄像头新款智能眼镜。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Meta Might Be About to Release Smart Glasses Without a Camera"
+    },
+    {
+      "id": "recvvqdstepikd",
+      "title": "仅限今日BH：Lexar 256GB SD卡立减140美元！",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/today-only-at-bh-140-off-on-lexar-256gb-sd-card/",
+      "publish_time": "2026-09-17T01:16:04+08:00",
+      "summary": "仅限今日，BHphoto的Lexar 256GB SD卡减140美元。索尼存储卡最高省800美元，MacBook Pro最高减400美元，均即将结束。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Today only at BH: $140 off on Lexar 256GB SD card!"
+    },
     {
       "id": "recvvpap7b5VUh",
       "title": "低光环境下拍摄的最佳演唱会摄影镜头",
@@ -1676,6 +1781,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Fujifilm Instax Link Wide 2 Printer Review: For When Your Images Mean Something"
+    },
+    {
+      "id": "recvvqdu1GnmMn",
+      "title": "富士给我寄来了它最新的复古紧凑型相机。打开时我惊呆了。Instax Pal 2 是最可爱的微型相机——但这还不是最棒的部分",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/fujifilm-sent-me-its-newest-retro-compact-camera-i-may-have-screamed-when-i-opened-it-the-instax-pal-2-is-the-cutest-tiny-camera-but-thats-not-even-the-best-part",
+      "publish_time": "2026-09-15T10:00:00+08:00",
+      "summary": "富士发布Instax Pal 2复古紧凑相机，仅1000万像素，小巧可爱，集齐爆款潮流元素，核心价值在于微型设计。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm sent me its newest retro compact camera. My jaw dropped when I opened it. The Instax Pal 2 is the cutest tiny camera – but that’s not even the best part"
     },
     {
       "id": "recvvgn03ZNqeC",
@@ -7421,126 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Fujifilm’s XApp tested: It’s finally the app your Fujifilm camera deserves"
-    },
-    {
-      "id": "recvuhTHQisbK0",
-      "title": "摄影师自制镜头重燃热情，随后创立光学公司",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/04/a-photographer-reignited-his-passion-by-building-a-custom-lens-then-he-founded-an-optics-company/",
-      "publish_time": "2026-09-05T03:30:28+08:00",
-      "summary": "摄影师Thomas Spicher创立Adapted Optics，用3D打印机身和回收的一次性相机镜头打造“日常镜头”，融合胶片特色与现代制造质量控制。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A Photographer Reignited His Passion By Building a Custom Lens, Then He Founded an Optics Company"
-    },
-    {
-      "id": "recvuhTJtAJEpk",
-      "title": "Vimeo可单方面更改你的套餐并强制你多付5倍费用",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/04/vimeo-can-decide-to-change-your-plan-and-force-you-to-pay-5x-more/",
-      "publish_time": "2026-09-05T02:59:55+08:00",
-      "summary": "Vimeo单方面将部分用户切换到价格高5倍的新订阅层级，无视用户自主选择权，引发争议。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Vimeo Can Decide To Change Your Plan and Force You to Pay 5x More"
-    },
-    {
-      "id": "recvuhTL5uz9zD",
-      "title": "柯达金胶卷：既广受欢迎，又未获充分赏识",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/04/kodak-gold-is-somehow-both-very-popular-and-underappreciated/",
-      "publish_time": "2026-09-05T01:09:58+08:00",
-      "summary": "柯达金200胶卷广受欢迎但未获充分赏识，本文聚焦其技术参数与核心价值，揭示其独特魅力。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Kodak Gold is Somehow Both Very Popular and Underappreciated"
-    },
-    {
-      "id": "recvuhTTz6fOqc",
-      "title": "街头摄影大师谈光线与人像",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/09/04/greg-turners-candid-street-portraits-light-master/",
-      "publish_time": "2026-09-05T01:00:00+08:00",
-      "summary": "街头摄影师格雷格·特纳在Phoblographer档案文章中，探讨了光线、情感与街头摄影向人像摄影的自然演变，强调互动与克服恐惧，核心价值在于指导摄影师通过光线捕捉情感。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A Street Photography Master Talks About Light and Portraiture"
-    },
-    {
-      "id": "recvuhTMqM7Hwb",
-      "title": "曼富图为其ONE系统新增专用视频三脚架",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/04/manfrotto-adds-a-dedicated-video-tripod-to-its-one-system/",
-      "publish_time": "2026-09-05T00:54:05+08:00",
-      "summary": "曼富图推出ONE Video，为其ONE系统三脚架系列新增专业视频专用选项，满足视频拍摄需求。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Manfrotto Adds a Dedicated Video Tripod to Its ONE System"
-    },
-    {
-      "id": "recvuhTQGYWRoT",
-      "title": "真香：Blackmagic部分相机降价超1000美元",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/this-is-refreshing-blackmagic-is-making-some-of-its-cameras-over-1000-cheaper/",
-      "publish_time": "2026-09-05T00:43:19+08:00",
-      "summary": "Blackmagic Design宣布全画幅Cinema Camera 6K和Pyxis 6K降价超1000美元，因零部件成本降低，为消费者带来实惠。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This is refreshing: Blackmagic is making some of its cameras over $1000 cheaper"
-    },
-    {
-      "id": "recvugOKjTWwjx",
-      "title": "SmallRig Nano移动电源配备相机套件安装点",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/04/smallrig-nano-power-banks-have-mounting-points-for-camera-rigs/",
-      "publish_time": "2026-09-05T00:11:20+08:00",
-      "summary": "SmallRig发布Nano移动电源系列，体积更小，外观类似UGreen或Anker，但带安装点，更适合摄影师和摄像师使用。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "SmallRig Nano Power Banks Have Mounting Points for Camera Rigs"
-    },
-    {
-      "id": "recvuhTNSLGwIC",
-      "title": "智能手机摄像头中的可变光圈：它在哪些方面产生影响？",
-      "source": "DXOMARK",
-      "source_url": "https://www.dxomark.com/variable-aperture-in-smartphone-cameras-where-does-it-make-a-difference/",
-      "publish_time": "2026-09-04T23:35:09+08:00",
-      "summary": "可变光圈从专业相机进入智能手机，随大传感器兴起而精密化。固定光圈宽大以增光，可变光圈则灵活调节，提升成像质量与景深控制。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Variable aperture in smartphone cameras: where does it make a difference?"
     }
   ]
 }
