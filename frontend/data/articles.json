@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-18T19:47:31.301040+08:00",
+    "updated_at": "2026-09-19T00:45:42.735582+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,261 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvvAI95u8FwT",
+      "title": "这段2.5小时的徕卡修复视频，对胶片摄影师来说简直就是相机ASMR",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/this-2-5-hour-leica-restoration-video-is-basically-camera-asmr-for-film-photogra/",
+      "publish_time": "2026-09-19T00:23:51+08:00",
+      "summary": "2.5小时视频实时记录经典徕卡机身拆解、清洁与重装全程，无剪辑、解说和配乐，为胶片摄影师提供相机ASMR式修复参考。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This 2.5-hour Leica restoration video is basically camera ASMR for film photographers"
+    },
+    {
+      "id": "recvvAIioyUXOl",
+      "title": "尼康Z5IIC相机在网上泄露",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/18/nikon-z5iic-camera-leaked-online.aspx/",
+      "publish_time": "2026-09-18T23:04:01+08:00",
+      "summary": "尼康德国泄露Z5IIC相机信息，该机下周发布，消息已删除。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Z5IIC camera leaked online"
+    },
+    {
+      "id": "recvvAI5FNABad",
+      "title": "vivo X500 Pro Max 再获认证，主要规格同步曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675.php",
+      "publish_time": "2026-09-18T23:01:02+08:00",
+      "summary": "vivo X500 Pro Max获认证，9月21日发布。配6.85英寸144Hz LTPO屏、天玑9600 Pro、7000mAh电池、90W有线充、索尼Lytia 910主摄及3度OIS。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo X500 Pro Max's main specs are out just as it receives another certification"
+    },
+    {
+      "id": "recvvAHW3ARvXr",
+      "title": "NASA照片展示月球上大规模小行星撞击前后对比",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/18/nasa-photos-show-before-and-after-of-massive-asteroid-impact-on-the-moon/",
+      "publish_time": "2026-09-18T23:00:06+08:00",
+      "summary": "NASA发布月球新陨石坑对比照片，清晰展示大型物体撞击表面过程，为研究撞击机制提供关键视觉证据。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "NASA Photos Show Before and After of Massive Asteroid Impact on the Moon"
+    },
+    {
+      "id": "recvvAIaEunJZa",
+      "title": "神牛C100评测：一款新奇相机，但更适合当测光表用",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/reviews/godox-c100-review-a-novelty-camera-that-works-better-as-a-light-meter/",
+      "publish_time": "2026-09-18T22:42:42+08:00",
+      "summary": "神牛C100评测：作为相机不适合所有人，但测光模式实用。核心价值是它更适合当测光表用。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Godox C100 review: A novelty camera that works better as a light meter"
+    },
+    {
+      "id": "recvvAHXPK73AL",
+      "title": "摄影师愤怒：AI重度编辑照片赢得州博览会摄影比赛",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/18/photographers-outraged-after-heavily-ai-edited-image-wins-state-fair-photo-competition/",
+      "publish_time": "2026-09-18T22:10:45+08:00",
+      "summary": "一张AI重度编辑照片在州博览会摄影比赛获奖引争议，主办方因此修改明年规则。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographers Outraged After Heavily AI-Edited Image Wins State Fair Photo Competition"
+    },
+    {
+      "id": "recvvAIdJY06G8",
+      "title": "iPhone 18 Pro接管Apple TV《周五棒球夜》，深入传统转播摄像机无法触及的角落，这会改变比赛吗？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/iphones/iphone-18-pro-takes-over-friday-night-baseball-for-apple-tv-and-goes-to-the-places-that-traditional-broadcast-cameras-cannot-will-it-change-the-game",
+      "publish_time": "2026-09-18T21:50:20+08:00",
+      "summary": "iPhone 18 Pro接管Apple TV《周五棒球夜》转播，深入传统摄像机无法触及的角落，首日即成MLB焦点，或改变比赛观看方式。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "iPhone 18 Pro takes over Friday Night Baseball for Apple TV and goes to the places that traditional broadcast cameras cannot. Will it change the game?"
+    },
+    {
+      "id": "recvvAI440UlZd",
+      "title": "索尼FX5发货开始时间：欧洲10月22日，美国10月15日",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-shipment-start-is-now-oct-22-in-europe-and-oct-15-in-the-usa/",
+      "publish_time": "2026-09-18T21:43:21+08:00",
+      "summary": "索尼FX5发货推迟，欧洲10月22日、美国10月15日，用户盼确定日期。预购平台含BHphoto、Amazon、Adorama等。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony FX5 shipment start is now Oct 22 in Europe and Oct 15 in the USA"
+    },
+    {
+      "id": "recvvAHZoegpMl",
+      "title": "这15款无反相机可省数百元",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/18/save-hundreds-on-these-15-mirrorless-cameras/",
+      "publish_time": "2026-09-18T21:32:42+08:00",
+      "summary": "秋季摄影佳季，15款无反相机优惠，涵盖微四分之三到全画幅，可省数百元。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Save Hundreds on These 15 Mirrorless Cameras"
+    },
+    {
+      "id": "recvvAI7msW3QA",
+      "title": "一加16主要规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php",
+      "publish_time": "2026-09-18T21:31:02+08:00",
+      "summary": "一加16曝光：骁龙8 Elite Gen 6 Pro，165Hz屏游戏可至185Hz，9000mAh电池配100W有线与50W无线充，后置200MP主摄。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "OnePlus 16's main specs leak"
+    },
+    {
+      "id": "recvvAIcaYcwDD",
+      "title": "回放：本周发布的所有相机和镜头",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/september-17-2026-camera-roundup-week-r8-ii-sony-lenses-panasonic-20mm/",
+      "publish_time": "2026-09-18T21:00:00+08:00",
+      "summary": "本周摄影界发布多款相机与镜头，本文汇总回顾，助你快速掌握新品核心参数与动态，不错过任何重要发布。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The rewind: all the cameras and lenses launched this week"
+    },
+    {
+      "id": "recvvAIlxSjmyY",
+      "title": "最适合黑白摄影的尼康相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/18/the-best-nikon-camera-for-black-and-white-photography/",
+      "publish_time": "2026-09-18T21:00:00+08:00",
+      "summary": "黑白摄影凸显色调层次，尼康相机表现突出。本文介绍最适合黑白摄影的尼康机型，涵盖核心技术参数，助你选择合适相机。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Best Nikon Camera for Black and White Photography"
+    },
+    {
+      "id": "recvvAI0VdfCYn",
+      "title": "摄影师躲在岩石后，400头野生驯鹿向他冲来",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/18/photographer-hides-behind-rock-as-herd-of-400-wild-reindeer-comes-charging-toward-him/",
+      "publish_time": "2026-09-18T20:31:15+08:00",
+      "summary": "自然摄影师躲岩石后，拍下400头野生驯鹿冲来的非凡时刻，展现野生动物大迁徙的震撼画面。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Hides Behind Rock as Herd of 400 Wild Reindeer Comes Charging at Him"
+    },
+    {
+      "id": "recvvAIfdWzoa1",
+      "title": "这些热门全画幅相机现已降价——以下是我的推荐",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/these-popular-full-frame-cameras-now-available-for-less-a-heres-my-pick",
+      "publish_time": "2026-09-18T20:29:59+08:00",
+      "summary": "佳能、尼康、索尼三款热门全画幅无反相机降价，最高省350美元，升级轻松。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "These popular full-frame cameras are now available for less – here's my pick"
+    },
+    {
+      "id": "recvvAIgOdvaD5",
+      "title": "焦外之美：尼康跌出日本“三巨头”！谁将与佳能、索尼并肩？",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/bokeh-face-nikon-drops-out-of-big-three-in-japan-who-joins-canon-and-sony",
+      "publish_time": "2026-09-18T20:21:52+08:00",
+      "summary": "日本数据显示尼康跌出相机三巨头，佳能索尼领先。文章还介绍两款新适马镜头，并探讨海外购机是否值得。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Bokeh Face: Nikon drops out of 'Big Three' in Japan! Who joins Canon and Sony?"
+    },
+    {
+      "id": "recvvAIjWN1VDy",
+      "title": "突发：尼康 Z5IIC 相机下周发布",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/18/nikon-z5iic-camera-announcement-next-week.aspx/",
+      "publish_time": "2026-09-18T20:09:57+08:00",
+      "summary": "尼康下周发布Z5IIC，对标索尼a7c，全画幅2400万像素，机身防抖，基于Z5II，无取景器凸起，全新视频功能。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Breaking: Nikon Z5IIC camera announcement next week"
+    },
+    {
+      "id": "recvvAI2oDkbJ1",
+      "title": "摄影师意外将婚礼照片与自家猫狗照片双重曝光",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/18/photographer-accidentally-double-exposes-wedding-photos-with-pictures-of-her-dog-and-cat/",
+      "publish_time": "2026-09-18T20:02:47+08:00",
+      "summary": "胶片摄影易出错，一摄影师意外将婚礼照片与自家猫狗照片双重曝光，产生意想不到的效果。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Photographer Accidentally Double-Exposes Wedding Photos With Pictures of Her Dog and Cat"
+    },
     {
       "id": "recvvzuWiIwv0w",
       "title": "大英博物馆在重磅展览开幕数日后禁止拍摄历史性‘贝叶挂毯’",
@@ -7286,261 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Xiaomi 18 Fold is here with the Xring O3 SoC, a wide format, and a cherry red colorway"
-    },
-    {
-      "id": "recvuzCMhgSF9K",
-      "title": "泄露：适马20-60mm f/2.8-4.0规格及图片",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/leaked-sigma-20-60mm-f-2-8-4-0-specs-and-images/",
-      "publish_time": "2026-09-08T02:34:55+08:00",
-      "summary": "适马20-60mm f/2.8-4.0镜头规格泄露，13组15片，67mm滤镜，最近对焦20cm，最大放大1:2.3，售价849美元，无按钮设计。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Leaked: Sigma 20-60mm f/2.8-4.0 Specs and Images"
-    },
-    {
-      "id": "recvuzCNSAxWEd",
-      "title": "来自400mm和600mm GM镜头测试者的一些信息……",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/some-info-from-a-400-and-600mm-gm-lens-tester/",
-      "publish_time": "2026-09-08T02:26:42+08:00",
-      "summary": "消息称400mm和600mm GM镜头外观类似300mm GM，无后置滤镜槽，价格相近且实惠，测试者后悔早买300mm。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Some info from a 400 and 600mm GM lens tester…"
-    },
-    {
-      "id": "recvuzCPBLDDGc",
-      "title": "今日截止：B&H、亚马逊和Adorama的劳工节促销",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/new-labour-day-deals-launched-at-bhphoto-and-adorama-2/",
-      "publish_time": "2026-09-08T02:25:37+08:00",
-      "summary": "今日截止，B&H、亚马逊和Adorama的劳工节促销即将结束，索尼、适马、腾龙、唯卓仕等E卡口相机和镜头均有大幅折扣。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Ending today: Labor Day Deals at BHphoto, Amazon and Adorama"
-    },
-    {
-      "id": "recvuzCHd0q2pf",
-      "title": "超酷DIY数码即时相机：可在可重复使用墨盒上‘打印’照片",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/07/super-cool-diy-digital-instant-camera-prints-photos-on-reusable-cartridges/",
-      "publish_time": "2026-09-08T01:38:39+08:00",
-      "summary": "奇异发明实验室设计定制拍立得相机，采用全彩电子纸显示屏作为数字胶片，效果惊艳。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Super-Cool DIY Digital Instant Camera ‘Prints’ Photos On Reusable Cartridges"
-    },
-    {
-      "id": "recvuzD2udJ506",
-      "title": "2026年索尼用户最佳旅行摄影装备",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/09/07/the-best-travel-photography-kit-for-sony-users-in-2026/",
-      "publish_time": "2026-09-08T01:00:00+08:00",
-      "summary": "2026年索尼旅行摄影装备推荐，强调小型相机与变焦镜头组合，具备防尘防滴溅性能，适合旅行摄影。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Best Travel Photography Kit For Sony Users in 2026"
-    },
-    {
-      "id": "recvuzCZnRVEGb",
-      "title": "Meike AF 65mm f/1.4 和 110mm f/1.8 即将登陆 GFX 卡口",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/meike-af-65mm-f-1-4-and-110mm-f-1-8-coming-for-gfx/",
-      "publish_time": "2026-09-08T00:10:39+08:00",
-      "summary": "美科将推出AF 65mm f/1.4和110mm f/1.8镜头，适配GFX卡口，此消息修正自早前传闻，原报道来自Fuji Rumors。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Meike AF 65mm f/1.4 and 110mm f/1.8 Coming for GFX"
-    },
-    {
-      "id": "recvuzCUvbd2LJ",
-      "title": "我是相机专家：摄影师称APS-C与全画幅是“不同的观感”，这彻底改变了我的看法",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/im-a-camera-expert-photographer-calls-aps-c-vs-full-frame-different-looks-and-it-changed-my-whole-perspective",
-      "publish_time": "2026-09-07T23:57:32+08:00",
-      "summary": "摄影师认为APS-C与全画幅是不同观感的创作工具，而非优劣之争，此观点可改变拍摄方式。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "I’m a camera expert: Photographer calls APS-C vs full-frame “different looks,” and it changed my whole perspective"
-    },
-    {
-      "id": "recvuzCSXSXnrO",
-      "title": "Poco C95 Pro 规格和渲染图泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/poco_c95_pro_specs_and_renders_leak-news-74496.php",
-      "publish_time": "2026-09-07T23:17:02+08:00",
-      "summary": "Poco C95 Pro 4G渲染图及规格泄露，搭载Helio G91 Ultra芯片，6.9英寸120Hz屏幕，5000万主摄，7500mAh电池。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Poco C95 Pro specs and renders leak"
-    },
-    {
-      "id": "recvuzCIXbu3pV",
-      "title": "这位摄影师拍摄的自家狗狗的图库照片如何成为病毒式传播的梗",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/07/how-this-photographers-stock-images-of-her-dog-became-a-viral-meme/",
-      "publish_time": "2026-09-07T22:00:00+08:00",
-      "summary": "摄影师Iryna Kalamurza在工作室间隙以自家狗Maya为模特练习布光，其图库照片意外成为病毒式传播的梗。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "How This Photographer’s Stock Images of Her Dog Became a Viral Meme"
-    },
-    {
-      "id": "recvuzCW45WEVJ",
-      "title": "Insta360 预告下一代相机——那么当你戳出 Luna 的一只眼睛时会发生什么？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/gimbals/insta360-teases-its-next-camera-so-what-happens-when-you-poke-out-one-of-lunas-eyes",
-      "publish_time": "2026-09-07T21:29:42+08:00",
-      "summary": "Insta360预告下一代相机，旨在与DJI Pocket竞争，强调新功能，但未提及具体参数。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Insta360 teases its next camera – so what happens when you poke out one of Luna's eyes?"
-    },
-    {
-      "id": "recvuzCKz6JTRx",
-      "title": "这款即将推出的EufyMake打印机可将照片印在织物上",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/07/this-upcoming-eufymake-printer-puts-your-photos-onto-fabric/",
-      "publish_time": "2026-09-07T21:17:15+08:00",
-      "summary": "Anker将于2027年第一季度推出EufyMake织物打印机，可在衣物上直接打印全彩纹理图案，支持照片，为摄影师提供新创意表达方式。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Upcoming EufyMake Printer Puts Your Photos Onto Fabric"
-    },
-    {
-      "id": "recvuzCXArKTf1",
-      "title": "隐藏摄像头探测器漏检近60%的摄像头——但一个7美元的AI手机壳或许能解决这个问题，方法如下……",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/security-cameras/hidden-camera-detectors-miss-nearly-60-percent-of-cameras-but-a-usd7-ai-phone-case-could-solve-that-and-heres-how",
-      "publish_time": "2026-09-07T21:15:00+08:00",
-      "summary": "隐藏摄像头探测器漏检近60%，但7美元AI手机壳或可解决，利用AI技术提高检测率，为旅行者提供更安全的环境。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Hidden camera detectors miss nearly 60% of cameras –but a $7 AI phone case could solve that, and here's how..."
-    },
-    {
-      "id": "recvuzD4e5WgPz",
-      "title": "如何不用Photoshop制作复古数码风格图片",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/09/07/how-to-make-images-that-look-like-theyre-retro-digital-without-photoshop/",
-      "publish_time": "2026-09-07T21:00:00+08:00",
-      "summary": "文章讲述作者回归2000年代末复古数码摄影风格，因相机过度自动化而改变拍摄方式，并分享如何拍摄的方法。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "How to Make Images That Look Like They’re Retro Digital Without Photoshop"
-    },
-    {
-      "id": "recvuxu81KLvay",
-      "title": "史上首张照片时隔200年首次返回法国",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/the-first-ever-photograph-is-returning-home-to-france-for-first-time-in-200-years",
-      "publish_time": "2026-09-07T20:15:41+08:00",
-      "summary": "史上首张照片时隔200年首次返回法国，约瑟夫·尼塞福尔·尼埃普斯的八分钟曝光作品将赴勃艮第参加摄影术诞生200周年庆祝活动。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The first-ever photograph is returning home to France for first time in 200 years"
-    },
-    {
-      "id": "recvuxu1I6lF5S",
-      "title": "三星Galaxy A07s发布：6.7英寸屏幕，5000mAh电池",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/samsung_galaxy_a07s_debuts_with_a_67inch_screen_5000mah_battery-news-74494.php",
-      "publish_time": "2026-09-07T18:33:02+08:00",
-      "summary": "三星Galaxy A07s悄然推出，搭载6nm MediaTek G99+芯片，6.7英寸90Hz屏幕，5000mAh电池，最高6GB RAM和128GB存储。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Samsung Galaxy A07s debuts with a 6.7-inch screen, 5,000mAh battery"
-    },
-    {
-      "id": "recvuxua744I2L",
-      "title": "获奖自然摄影师在基拉韦厄火山喷发前于哈莱马乌马乌火山口侦察等待10天，捕捉到白尾热带鸟飞越火山气体和红色熔岩的瞬间",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/i-spent-10-days-scouting-and-waiting-at-the-halemaumau-crater-before-the-kilauea-volcano-erupted-says-award-winning-nature-photographer-who-captured-a-white-tailed-tropicbird-rising-above-volcanic-gases-and-red-lava",
-      "publish_time": "2026-09-07T18:32:35+08:00",
-      "summary": "获奖自然摄影师在基拉韦厄火山喷发前于哈莱马乌马乌火山口侦察等待10天，捕捉到白尾热带鸟飞越火山气体和红色熔岩的瞬间，该照片在奥杜邦摄影奖鸟类与风景类别中获最高奖。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "\"I spent 10 days scouting and waiting at the Halema'uma'u Crater before the Kīlauea volcano erupted,\" says award-winning nature photographer who captured a white-tailed tropicbird rising above volcanic gases and red lava"
-    },
-    {
-      "id": "recvuxuceL8rXd",
-      "title": "这款坚固耐用的拍照手机很容易让人联想到詹姆斯·邦德的装备，Xsnap 7 Pro在IFA 2026上获奖。那么它在哪里呢？",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/phones/its-easy-to-picture-this-rugged-camera-phone-in-james-bonds-toolkit-and-the-xsnap-7-pro-earned-itself-an-award-at-ifa-2026-so-where-is-it",
-      "publish_time": "2026-09-07T18:30:21+08:00",
-      "summary": "Xsnap 7 Pro结合坚固手机与POV相机，获IFA 2026奖，但未上市，核心价值在于探索两细分市场融合的可能性。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "It's easy to picture this rugged camera phone in James Bond's toolkit, and the Xsnap 7 Pro earned itself an award at IFA 2026. So where is it?"
     }
   ]
 }
