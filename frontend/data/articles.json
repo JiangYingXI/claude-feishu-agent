@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-21T00:36:45.067089+08:00",
+    "updated_at": "2026-09-21T05:07:37.265371+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvvNtjkFTlEE",
+      "title": "用了15年Photoshop后我彻底放弃，转用Affinity五个月，完全不想再回Adobe",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/photo-editing/i-ditched-photoshop-after-15-years-now-with-5-months-of-using-affinity-i-have-absolutely-no-desire-to-go-back-to-adobe",
+      "publish_time": "2026-09-21T02:10:00+08:00",
+      "summary": "用Photoshop15年后转Affinity五个月，作者称完全不想回Adobe。Affinity免费、功能渐强且将登iPad，值得摄影师关注。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "I ditched Photoshop after 15 years – now, with 5 months of using Affinity, I have absolutely no desire to go back to Adobe"
+    },
+    {
+      "id": "recvvNtkS0sQ0X",
+      "title": "富士粉丝基本上就想要 X Pro 3 的最佳功能",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/20/fujifilm-fans-basically-want-the-x-pro-3s-best-feature/",
+      "publish_time": "2026-09-21T01:00:00+08:00",
+      "summary": "富士X Pro 3隐藏式LCD屏幕曾遭摄影师抱怨，但近10年后用户反而想要这一功能，以专注取景器拍摄。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fujifilm Fans Basically Want the X Pro 3’s Best Feature"
+    },
+    {
+      "id": "recvvNtg3oVCtJ",
+      "title": "索尼欧洲发布了这份FX5指南……但我们仍然拿不到相机……",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-europe-published-this-fx5-guide-but-we-still-cant-get-the-camera/",
+      "publish_time": "2026-09-21T00:52:08+08:00",
+      "summary": "索尼欧洲发布FX5指南，但相机仍未上市。FX5及DVF-EL1取景器、XLR-H2手柄在BHphoto、Amazon、Adorama等多家欧美零售商处接受预订。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony Europe published this FX5 guide….but we still can’t get the camera…"
+    },
     {
       "id": "recvvMn1IlpbOM",
       "title": "Pixel 11 与 Pixel 11 Pro 对比",
@@ -656,6 +701,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Apple iPhone 18 Pro Camera test"
+    },
+    {
+      "id": "recvvNthIfN2hz",
+      "title": "理光30周年限量版GR IV将于10月上市，售价1799美元",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/ricohs-limited-30th-anniversary-edition-gr-iv-is-coming-in-october/",
+      "publish_time": "2026-09-19T05:50:48+08:00",
+      "summary": "理光30周年限量版GR IV相机10月上市，售价1799美元，含特殊饰面机身、背带和收藏版徽章。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Ricoh’s limited 30th anniversary edition GR IV is coming in October for $1799"
     },
     {
       "id": "recvvBOgWX64GJ",
@@ -7481,66 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Poco C95 Pro videos show it in three colors, pricing is out too"
-    },
-    {
-      "id": "recvuFo1kDvoa5",
-      "title": "亲爱的索尼：请简化你的菜单系统吧",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/09/08/dear-sony-simplify-your-menu-system-already/",
-      "publish_time": "2026-09-09T01:00:00+08:00",
-      "summary": "索尼相机菜单系统自2010年代初改版后，项目位置变动、层级加深且需精确点击，导致操作不便，成为作者未购买后续机型的主因。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Dear Sony: Simplify Your Menu System Already"
-    },
-    {
-      "id": "recvuEiJgVBMWU",
-      "title": "我们的Google Pixel 11电池续航与充电测试已准备就绪",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513.php",
-      "publish_time": "2026-09-09T00:11:02+08:00",
-      "summary": "谷歌Pixel 11电池容量4,985mAh，优化硬件降低功耗，续航测试成功，较前代Pixel 10的4,970mAh有所改进。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Our Google Pixel 11 battery life and charging tests are ready"
-    },
-    {
-      "id": "recvuEiOqrdLO0",
-      "title": "富士X-T6：首张草图曝光，揭示重大变革",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujifilm-x-t6-first-sketched-look-reveals-a-big-change/",
-      "publish_time": "2026-09-08T23:06:10+08:00",
-      "summary": "富士X-T6首张草图曝光，基于真实相机，展示正面设计，预示重大变革，文章首发于Fuji Rumors。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm X-T6: First Sketched Look Reveals a Big Change"
-    },
-    {
-      "id": "recvuEiPRtGFFd",
-      "title": "索尼FE 8-14mm f/3.5鱼眼G镜头评测：小巧镜头，宏大视角",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/sony-fe-8-14mm-f-3-5-fisheye-g-review",
-      "publish_time": "2026-09-08T22:15:00+08:00",
-      "summary": "索尼FE 8-14mm f/3.5鱼眼G镜头评测：小巧镜头，宏大视角。该镜头体积小巧，却能拍出独特图像，与E卡口其他镜头形成鲜明对比。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sony FE 8-14mm f/3.5 Fisheye G review: a tiny lens with a huge perspective"
     }
   ]
 }
