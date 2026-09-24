@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-24T05:47:01.039415+08:00",
+    "updated_at": "2026-09-24T13:20:06.856204+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "recvw70ODBCkzD",
+      "title": "小米平板9 Pro和Pad 9发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/xiaomi_pad_9_pro_and_pad_9_announced-news-74740.php",
+      "publish_time": "2026-09-24T13:05:01+08:00",
+      "summary": "小米发布Pad 9 Pro和Pad 9，前者配12.5英寸144Hz 3.2K屏、骁龙8 Gen 5、最高12GB RAM和256GB存储及5000万像素主摄。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Xiaomi Pad 9 Pro and Pad 9 announced"
+    },
+    {
+      "id": "recvw70S4ZYsVB",
+      "title": "尼康Z5IIC相机正式发布",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/09/24/nikon-z5iic-camera-officially-announced.aspx/",
+      "publish_time": "2026-09-24T12:08:19+08:00",
+      "summary": "尼康Z5IIC正式发布，2450万像素全画幅，14fps RAW连拍，强防抖，主打低光性能，已开启预购。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Z5IIC camera officially announced"
+    },
+    {
+      "id": "recvw70JkOLLv1",
+      "title": "尼康Z5 IIC评测：更小、更漂亮、性能均衡",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/23/nikon-z5-iic-review-smaller-prettier-and-mostly-capable/",
+      "publish_time": "2026-09-24T12:01:15+08:00",
+      "summary": "尼康Z5 IIC售价1399美元，比Z5 II更小更实惠，但取消电子取景器，性能均衡。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Z5 IIC Review: Smaller, Prettier, and Mostly Capable"
+    },
+    {
+      "id": "recvw70TJJ6SIP",
+      "title": "尼康 Z5 II C 评测：他们又造了一台街头摄影相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/09/24/nikon-z5-ii-c-review/",
+      "publish_time": "2026-09-24T12:01:00+08:00",
+      "summary": "尼康Z5 II C评测：无取景器设计，适合街头区域对焦，被官方定位为街头摄影相机，编辑部好奇其表现。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon Z5 II C Review: They Made Another Street Photography Camera"
+    },
+    {
+      "id": "recvw70LdXtJiP",
+      "title": "尼康 Z5 IIC：更简单但更便宜的全画幅创作者相机",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/09/23/the-nikon-z5-iic-is-a-simpler-but-cheaper-full-frame-creator-camera/",
+      "publish_time": "2026-09-24T12:00:04+08:00",
+      "summary": "尼康Z5 IIC为Z5 II简化版，取消电子取景器、降级后置屏、去双卡槽和自动对焦摇杆，降价450美元，适合预算有限的创作者。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Nikon Z5 IIC Is a Simpler but Cheaper Full-Frame Creator Camera"
+    },
+    {
+      "id": "recvw70QodHMAy",
+      "title": "尼康最新相机有点可疑！新款尼康Z5IIC是一款紧凑型全画幅无反相机，无取景器，视频性能出色，还全新加入水下模式……",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/theres-something-fishy-about-nikons-latest-camera-the-new-nikon-z5iic-is-a-compact-full-frame-mirrorless-with-no-viewfinder-great-video-credentials-and-an-all-new-aquatic-mode",
+      "publish_time": "2026-09-24T12:00:00+08:00",
+      "summary": "尼康发布Z5IIC紧凑全画幅无反，取消取景器，视频性能出色，新增水下模式，疑似Z5II无取景器版。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "There’s something fishy about Nikon’s latest camera! The new Nikon Z5IIC is a compact, full-frame mirrorless with no viewfinder, great video credentials, and an all-new aquatic mode…"
+    },
+    {
+      "id": "recvw70MT44FWn",
+      "title": "对比与比较：完整规格对比功能回归",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/site-news/compare-and-contrast-full-specs-comparisons-are-back/",
+      "publish_time": "2026-09-24T06:33:42+08:00",
+      "summary": "网站改版重新上线完整规格对比功能，支持产品参数逐项比较，帮助用户直观对比差异。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Compare and contrast: full specs comparisons are back"
+    },
     {
       "id": "recvw5aPq2PMpe",
       "title": "iPhone 18 Pro 相机评测出炉，摄影师需要了解这些",
@@ -7436,111 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Samsung Galaxy A08 retailer listing gives us specs and official images"
-    },
-    {
-      "id": "recvuWSaMm3JYv",
-      "title": "Atomos 新款 Shinobi 7 II 是其迄今最亮的 Shinobi 监视器",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/11/atomos-new-shinobi-7-ii-is-its-brightest-shinobi-monitor-yet/",
-      "publish_time": "2026-09-12T04:00:59+08:00",
-      "summary": "Atomos在IBC 2026发布Shinobi 7 II，为其迄今最亮Shinobi监视器，核心价值是提升户外监看亮度。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Atomos’ New Shinobi 7 II Is its Brightest Shinobi Monitor Yet"
-    },
-    {
-      "id": "recvuWSeAFUn28",
-      "title": "亚马逊上大量索尼和电子新品优惠",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/a-ton-of-new-sony-and-electronic-deals-at-amazon/",
-      "publish_time": "2026-09-12T03:39:03+08:00",
-      "summary": "亚马逊官方页面推出大量电子产品及索尼优惠，涵盖E卡口相机镜头，可在BHphoto、Amazon、Adorama购买索尼、适马、腾龙享大幅折扣。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A ton of new Sony and Electronic deals at Amazon"
-    },
-    {
-      "id": "recvuWSfWIF0bf",
-      "title": "慢动作之王深入解析快门、闪光灯等更多技术",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/videos/the-king-of-slow-motion-has-done-a-deep-dives-on-shutters-flashes-and-more/",
-      "publish_time": "2026-09-12T02:30:24+08:00",
-      "summary": "慢动作之王深入解析快门、闪光灯等技术，助你超肉眼极限理解相机工作原理。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The king of slow-motion has done a deep dives on shutters, flashes and more"
-    },
-    {
-      "id": "recvuWScSGEe2x",
-      "title": "CineStill超人气800T胶片获得热烈好评",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/11/a-glowing-endorsement-of-cinestills-super-popular-800t-film/",
-      "publish_time": "2026-09-12T01:26:52+08:00",
-      "summary": "本周胶片星期五评测CineStill旗舰胶片800T，它是该品牌最受欢迎的产品。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "A Glowing Endorsement of CineStill’s Super Popular 800T Film"
-    },
-    {
-      "id": "recvuWShr96frn",
-      "title": "本周摄影器材：你可能错过的那些新品发布",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/this-week-in-photo-gear-the-launches-you-may-have-missed/",
-      "publish_time": "2026-09-12T01:25:21+08:00",
-      "summary": "本周摄影器材新品：测距仪式M43机身、苹果首款可变光圈手机摄像头及多款新镜头发布，一文汇总所有看点。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This week in photo gear: The launches you may have missed"
-    },
-    {
-      "id": "recvuVMz2KNwpt",
-      "title": "新款PEN相机让你心动了吗？另外苹果新增Aperture功能 | PetaPixel播客",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/11/did-the-new-pen-impress-you-plus-apple-adds-aperture-the-petapixel-podcast/",
-      "publish_time": "2026-09-12T00:01:16+08:00",
-      "summary": "PetaPixel播客讨论OM System新款PEN相机，并前往Apple Park与Jason Vong及The Verge的Allison Johnson探讨苹果新增Aperture功能。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Did the New PEN Impress You? Plus Apple Adds Aperture | The PetaPixel Podcast"
-    },
-    {
-      "id": "recvuVMJ7Fg3yq",
-      "title": "这款24英寸相机专为8万英尺高空侦察而打造",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/photography/this-24-inch-camera-was-built-to-photograph-from-80-000-feet/",
-      "publish_time": "2026-09-11T23:01:12+08:00",
-      "summary": "圣地亚哥航空航天博物馆拆箱一台洛克希德A-12侦察机配套的未使用24英寸相机，可在8万英尺高空拍摄六英尺长底片，展现冷战高空侦察核心技术。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This 24-inch camera was built to spy from 80,000 feet"
     }
   ]
 }
