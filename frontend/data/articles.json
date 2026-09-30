@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-30T06:38:50.749847+08:00",
+    "updated_at": "2026-09-30T13:59:49.361022+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28HdyLplNkS",
+      "title": "vivo V80印度价格及完整规格泄露",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/vivo_v80_price_in_india_leaks_along_with_full_specs-news-74821.php",
+      "publish_time": "2026-09-30T12:31:02+08:00",
+      "summary": "vivo V80于10月6日在印度发布，爆料称128GB售63000卢比、256GB售70000卢比、512GB售80000卢比，配6.59英寸1.5K 144Hz LTPS OLED屏。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "vivo V80 price in India leaks along with full specs"
+    },
+    {
+      "id": "reczz28HdyUVJpPq",
+      "title": "荣耀Life S3是一款3.7英寸电子书阅读器，可通过磁吸方式吸附在手机背面",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/the_honor_life_s3_is_a_37_ebook_reader_that_attaches_to_the_back_of_your_phone_with_magnets-news-74816.php",
+      "publish_time": "2026-09-30T09:31:02+08:00",
+      "summary": "荣耀Life S3是3.68英寸259ppi电子墨水屏阅读器，厚5.6毫米重61克，磁吸手机背面，需手机或壳带磁铁。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Honor Life S3 is a 3.7\" ebook reader that attaches to the back of your phone with magnets"
+    },
     {
       "id": "reczz28HWQKbOHQg",
       "title": "独一无二的老蛙24mm f/2移轴镜头即将问世",
@@ -7511,36 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Galaxy Z Fold8 sales in Korea pick up after the announcement of the iPhone Duo"
-    },
-    {
-      "id": "recvvtK1sogD9W",
-      "title": "抱歉，我要拍下这片天空！NASA宇航员从国际空间站拍下极光亲吻地球弧线的‘紫色迷雾’，简直令人叹为观止",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/photography/astrophotography/excuse-me-while-i-snap-the-sky-nasa-astronauts-purple-haze-photograph-of-aurora-kissing-the-curvature-of-the-earth-was-taken-from-the-iss-and-is-simply-jaw-dropping",
-      "publish_time": "2026-09-17T17:20:00+08:00",
-      "summary": "NASA宇航员在距地255英里的国际空间站，拍到绿紫色极光沿地球弧线延伸，景象震撼。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Excuse me while I snap the sky! NASA astronaut’s ‘Purple Haze’ photograph of aurora kissing the curvature of the Earth was taken from the ISS and is simply jaw-dropping"
-    },
-    {
-      "id": "recvvtJWobkQ4R",
-      "title": "多重曝光人像摄影的乐趣",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/09/17/the-fun-in-multiple-exposure-portraits/",
-      "publish_time": "2026-09-17T17:00:00+08:00",
-      "summary": "标准摄影无聊且AI可替代，应转向实验性多重曝光人像摄影，运用头脑而非无脑按快门。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Fun in Multiple Exposure Portraits"
     }
   ]
 }
