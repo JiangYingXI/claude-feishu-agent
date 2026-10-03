@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-03T06:34:39.900506+08:00",
+    "updated_at": "2026-10-03T13:41:40.410068+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28IpGesnoVw",
+      "title": "荣耀大折叠屏手机据传将于此时发布",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/heres_when_honors_wide_foldable_is_now_rumored_to_launch-news-74886.php",
+      "publish_time": "2026-10-03T09:03:02+08:00",
+      "summary": "荣耀宽折叠屏手机原传年底发布，新传闻称改至1月，将配丰富配件生态，被视为重要产品。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Here's when Honor's wide foldable is now rumored to launch"
+    },
     {
       "id": "reczz28IhzVEw75i",
       "title": "你的相机传感器在哪个光圈下能获得最锐利的图像？",
@@ -7526,21 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Canon’s Problem with the Flagship R3"
-    },
-    {
-      "id": "recvvRpDMWiIII",
-      "title": "索尼趣闻…",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sony-tidbits-1917/",
-      "publish_time": "2026-09-21T14:03:58+08:00",
-      "summary": "索尼花絮汇总：7Artisans AF 135mm f/1.8 Max镜头评测，多平台优惠，街头与婚礼摄影技巧，腾龙12-20mm超广角变焦。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sony Tidbits…"
     }
   ]
 }
