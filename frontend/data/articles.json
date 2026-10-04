@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-04T05:45:20.232417+08:00",
+    "updated_at": "2026-10-04T14:18:27.297333+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28JEQeoKbNR",
+      "title": "想尝试担任摄影比赛评委吗？在这场大型单色摄影比赛中投出你的一票",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/fancy-trying-your-hand-at-judging-a-photography-competition-cast-your-vote-in-this-major-monochrome-contest",
+      "publish_time": "2026-10-04T11:20:00+08:00",
+      "summary": "Exposure One年度摄影师大赛2026年赛事开启公众投票，邀你欣赏黑白影像并投票，还可尝试担任评委。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Fancy trying your hand at judging a photography competition? Cast your vote in this major monochrome contest"
+    },
+    {
+      "id": "reczz28JEQXtOySD",
+      "title": "荣耀Magic9系列正式发布，摩托罗拉宽屏折叠机将至，第40周回顾",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/honor_magic9_series_is_official_motorolas_wide_foldable_coming_week_40_in_review-news-74882.php",
+      "publish_time": "2026-10-04T08:31:02+08:00",
+      "summary": "荣耀发布Magic9系列：标准版配6.37英寸120Hz屏、8000mAh电池、骁龙8 Elite Gen 5及双200MP加潜望镜头；超级版11000mAh电池加30000rpm风扇；Pro Max",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Honor Magic9 series is official, Motorola's wide foldable coming, Week 40 in review"
+    },
     {
       "id": "reczz28J5gCKPXyO",
       "title": "谷歌Pixel 10a涨价100美元",
@@ -7511,36 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Photographer Captures Lightning Striking Mountain in Storm That Killed 19-Year-Old Hiker"
-    },
-    {
-      "id": "recvvTAgdTYt5J",
-      "title": "Brevitē为创作者推出新款服装，暗藏麦克风口袋和镜头布",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/09/21/brevites-new-apparel-for-creators-has-hidden-mic-pockets-and-lens-cloths/",
-      "publish_time": "2026-09-21T22:50:49+08:00",
-      "summary": "Brevitē以相机背包闻名，现众筹创作者服饰，含麦克风口袋和镜头布，首次进军服装领域。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Brevitē’s New Apparel for Creators Has Hidden Mic Pockets and Lens Cloths"
-    },
-    {
-      "id": "recvvTAApS6cbb",
-      "title": "佳能想把指纹传感器直接集成到相机手柄中。问题是为什么？！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/canon-wants-to-build-fingerprint-sensors-right-into-camera-grips-the-question-is-why",
-      "publish_time": "2026-09-21T22:32:16+08:00",
-      "summary": "佳能专利将指纹传感器集成到无反相机手柄，旨在提升安全与个性化操作，但实际必要性存疑。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Canon wants to build fingerprint sensors right into camera grips. The question is why?!"
     }
   ]
 }
