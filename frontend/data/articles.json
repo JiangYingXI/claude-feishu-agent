@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-05T05:54:45.218229+08:00",
+    "updated_at": "2026-10-05T14:11:46.105027+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28JcqhGcVBF",
+      "title": "福伦达Nokton 23mm F1.2与35mm F1.2银色版开启预售",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/voigtlander-nokton-23mmf1-2-and-35mmf1-2-silver-version-available-for-preorder/",
+      "publish_time": "2026-10-05T09:52:25+08:00",
+      "summary": "福伦达Nokton 23mm F1.2和35mm F1.2银色版现已开启预售，可在BHphoto及亚马逊CameraQuest店铺购买。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Voigtlander Nokton 23mmF1.2 and 35mmF1.2 Silver Version Available for Preorder"
+    },
     {
       "id": "reczz28JUMlhBlhE",
       "title": "每周投票：你对vivo X Fold6感兴趣吗？",
@@ -7526,21 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Unpopular opinion: I’m not sure that the Canon EOS R8 Mark II is really a “retro camera,” but I love the new design anyways for two key reasons…"
-    },
-    {
-      "id": "recvvWXQ7egCLF",
-      "title": "vivo V80关键规格、配色及发布日期曝光",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_v80_key_specs_colors_design_launch_date-news-74706.php",
-      "publish_time": "2026-09-22T16:21:02+08:00",
-      "summary": "vivo V80将于10月6日在印度发布，配6.59英寸1.5K 144Hz屏、5000尼特峰值亮度、7200mAh电池、90W充电及蔡司四摄，支持4K 60fps OIS视频。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo V80's key specs, colors, and launch date revealed"
     }
   ]
 }
