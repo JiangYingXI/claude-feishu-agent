@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-15T06:00:06.754937+08:00",
+    "updated_at": "2026-10-15T13:07:58.103721+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28NZ6Vf0tZU",
+      "title": "Getty Images 将私有化：ShutterStock 交易破裂与 AI 崛起之后",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/getty-images-going-private-following-collapse-of-shutterstock-deal-and-rise-of-ai/",
+      "publish_time": "2026-10-15T08:43:35+08:00",
+      "summary": "Getty Images将私有化，盖蒂家族与科赫投资获全部所有权，此前ShutterStock交易破裂且AI崛起，编辑和库存图片社照常运营。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Getty Images going private, following collapse of ShutterStock deal and rise of AI"
+    },
     {
       "id": "reczz28NRmkQSuJS",
       "title": "尼康最新日本限定周边让我恨不得多谈几笔生意",
@@ -7526,21 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "These are the best Amazon camera deals across the Amazon Big Deal Days sale"
-    },
-    {
-      "id": "reczz28IhxvYxuPe",
-      "title": "这座为摄影师建造的华丽住宅，100万美元即可拥有",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/02/this-gorgeous-home-built-for-a-photographer-could-be-yours-for-1-million/",
-      "publish_time": "2026-10-02T23:23:56+08:00",
-      "summary": "一座为摄影师建造的梦幻住宅，以略高于100万美元挂牌，成为美国浏览量最高房源。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This Gorgeous Home Built for a Photographer Could Be Yours for $1 Million"
     }
   ]
 }
