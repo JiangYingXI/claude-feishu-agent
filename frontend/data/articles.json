@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-17T05:40:01.888165+08:00",
+    "updated_at": "2026-10-17T12:56:16.697037+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28OLyOsdRPs",
+      "title": "内置摄像头的奇葩却出色的牙刷入选《时代》2026年度最佳发明榜单",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/digital-cameras/bizarre-but-brilliant-toothbrush-with-built-in-camera-makes-times-best-inventions-of-2026-list",
+      "publish_time": "2026-10-17T10:20:00+08:00",
+      "summary": "戴森CameraJet电动牙刷内置10万像素微型摄像头，凭这一奇葩设计入选《时代》2026年度最佳发明榜单，展现创新刷牙体验。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Bizarre but brilliant toothbrush with built-in camera makes TIME’s Best Inventions of 2026 list"
+    },
     {
       "id": "reczz28OEXRUmscY",
       "title": "相机价格高企并不能证明相机制造商贪婪",
@@ -7526,21 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Imaging World Show Moves to Cologne in 2027 To Pick Up Where Photokina Left Off"
-    },
-    {
-      "id": "reczz28JmAcmA89R",
-      "title": "适马50-120mm F2.8 APS-C镜头即将发布",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/sigma-50-120mmf2-8-aps-c-lens-coming-soon/",
-      "publish_time": "2026-10-05T21:02:58+08:00",
-      "summary": "适马将发布50-120mm F2.8 APS-C镜头，主打紧凑，与10-18mm F2.8、18-50mm F2.8组成富士X卡口三剑客。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sigma 50-120mmF2.8 APS-C Lens Coming Soon"
     }
   ]
 }
