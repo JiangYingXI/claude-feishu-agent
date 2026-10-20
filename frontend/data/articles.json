@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-20T06:40:43.685303+08:00",
+    "updated_at": "2026-10-20T13:14:37.532859+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,51 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28PXt9dbheV",
+      "title": "尼康发布新固件更新：Z9 v5.33 和 Z8 v3.12",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/10/19/nikon-released-new-firmware-updates-z9-v5-33-and-z8-v3-12.aspx/",
+      "publish_time": "2026-10-20T10:29:24+08:00",
+      "summary": "尼康发布Z9 v5.33和Z8 v3.12固件更新，均修复特定镜头下相机停止响应问题。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon released new firmware updates: Z9 v5.33 and Z8 v3.12"
+    },
+    {
+      "id": "reczz28PXsvYgjY1",
+      "title": "Realme新机发布前上架，配置与价格曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118.php",
+      "publish_time": "2026-10-20T10:01:02+08:00",
+      "summary": "Realme C01提前上架越南零售商，曝光6.8英寸720x1520 120Hz LCD屏、900尼特亮度、紫光展锐T7250芯片及定价，发布前揭示官方规格。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Realme phone gets listed before launch, here are its specs and price"
+    },
+    {
+      "id": "reczz28PXt2wj3v1",
+      "title": "Adobe为Lightroom Mobile新增便捷的AI眼睛生成功能",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/adobe-adds-easy-ai-eye-generation-to-lightroom-mobile/",
+      "publish_time": "2026-10-20T08:00:00+08:00",
+      "summary": "Adobe为Lightroom Mobile新增AI眼睛生成功能，可检测照片中闭眼人物并生成新眼睛，解决闭眼废片问题。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Adobe adds easy AI eye generation to Lightroom Mobile"
+    },
     {
       "id": "reczz28PR9n4fgwW",
       "title": "Flashback One75：一款更高端的玩具相机，模拟胶片体验",
@@ -7496,51 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Fitbit Edge specs and colors leak along with pricing for the EU and UK"
-    },
-    {
-      "id": "reczz28KQ9dNBn02",
-      "title": "苹果 iPhone 18 Pro Max 对比三星 Galaxy S26 Ultra",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789.php",
-      "publish_time": "2026-10-07T07:02:02+08:00",
-      "summary": "苹果iPhone 18 Pro Max与三星Galaxy S26 Ultra全面对比，涵盖设计、屏幕、电池、充电、扬声器、性能、相机及最终评价，并附完整规格表。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra"
-    },
-    {
-      "id": "reczz28KQ9Oy8y1A",
-      "title": "BHphoto以自家为期两天的大促回应亚马逊Prime促销",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/bhphoto-answers-to-amazon-prime-deals-with-its-own-big-2-days-only-deals/",
-      "publish_time": "2026-10-07T05:28:27+08:00",
-      "summary": "BHphoto推出为期两天的限时特惠，回应亚马逊Prime大促，涵盖富士胶片等精选商品，并列出美加德Prime特惠页面。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "BHphoto Answers to Amazon Prime Deals with Its Own Big 2 Days Only Deals"
-    },
-    {
-      "id": "reczz28KQ9HaH9Vz",
-      "title": "尼康Z8降至历史最低价：亚马逊Prime Big Deal Days期间相机装备最佳优惠",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/news/nikon-z8-hits-its-lowest-price-yet-the-prime-big-deal-days-camera-deals-worth-a/",
-      "publish_time": "2026-10-07T04:56:43+08:00",
-      "summary": "尼康Z8与索尼50mm F1.4 GM降至历史最低，亚马逊Prime Big Deal Days期间相机装备有优惠，存储卡和固态硬盘也打折，但价格仍远高于一年前。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon Z8 hits its lowest price yet: the best deals on camera gear during Amazon’s Prime Big Deal Days"
     }
   ]
 }
