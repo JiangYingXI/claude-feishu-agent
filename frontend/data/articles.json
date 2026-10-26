@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-26T05:11:12.596915+08:00",
+    "updated_at": "2026-10-26T13:15:55.168831+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28Rv76IRNSU",
+      "title": "尼康每周新闻快讯 #909",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/10/25/weekly-nikon-news-flash-909.aspx/",
+      "publish_time": "2026-10-26T08:30:32+08:00",
+      "summary": "Megadap发布ETZ21适配器固件2.07；尼康ZR获2026年优良设计百佳奖及《时代》最佳发明，并与Sportstar EX双筒望远镜同获奖。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #909"
+    },
+    {
+      "id": "reczz28Rv7EmywBe",
+      "title": "2026年8月CIPA数据",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/10/25/august-2026-cipa-numbers.aspx/",
+      "publish_time": "2026-10-26T08:02:23+08:00",
+      "summary": "CIPA公布2026年8月相机生产数据：对比2025年年初至今，单反出货量降35%、金额降37%，无反出货量降6%。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "August 2026 CIPA numbers"
+    },
     {
       "id": "reczz28RmqzuP0nS",
       "title": "下一波复古卡片机潮流会是110相机吗？方正便携的1980年代相机正催生数码仿款",
@@ -7511,36 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Man is Reunited With Parents’ 1950s Wedding Photo Album After Search"
-    },
-    {
-      "id": "reczz28MvkjJXllG",
-      "title": "vivo V80与X Fold6现已在印度开售",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/vivo_v80_x_fold6_india_price_sale_date-news-75016.php",
-      "publish_time": "2026-10-13T16:51:02+08:00",
-      "summary": "vivo V80与X Fold6在印度开售，V80提供8GB/128GB、256GB、512GB三版本，售价62999、69999、79999卢比；X Fold6仅12GB/512GB一种配置。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "vivo V80 and X Fold6 are now on sale in India"
-    },
-    {
-      "id": "reczz28MvlsCbWuA",
-      "title": "腾龙 28-300mm f/4-7.1 Di III VC VXD 评测：这款“超级变焦”镜头旨在成为你旅行中唯一需要的镜头",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/tamron-28-300mm-f-4-7-1-di-iii-vc-vxd-review",
-      "publish_time": "2026-10-13T16:27:44+08:00",
-      "summary": "腾龙28-300mm f/4-7.1 Di III VC VXD评测：全画幅10.7倍变焦，紧凑轻便，旅行一镜足矣。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Tamron 28-300mm f/4-7.1 Di III VC VXD review: this ‘superzoom’ aims to be the only lens you'll need on your travels"
     }
   ]
 }
