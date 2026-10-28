@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-28T06:37:35.834733+08:00",
+    "updated_at": "2026-10-28T14:12:20.988586+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28Sj8xR2K39",
+      "title": "Redmi K100 首发搭载骁龙 8 Elite 芯片组，配备 10000mAh 电池",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/redmi_k100_debuts_with_snapdragon_8_elite_chipset_10000mah_battery-news-75232.php",
+      "publish_time": "2026-10-28T11:04:02+08:00",
+      "summary": "Redmi K100中国发布，配10000mAh电池、骁龙8 Elite芯片、6.83英寸165Hz OLED屏，12GB/256GB版3499元起，有三色可选。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Redmi K100 debuts with Snapdragon 8 Elite chipset, 10,000mAh battery"
+    },
+    {
+      "id": "reczz28Sj95TdZVa",
+      "title": "iPhone 18e新爆料：涵盖芯片、摄像头与显示屏",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/new_iphone_18e_leak_covers_its_chip_cameras_and_display-news-75230.php",
+      "publish_time": "2026-10-28T06:44:02+08:00",
+      "summary": "爆料称iPhone 18e配6.12英寸LTPS OLED屏、60Hz刷新率，预计2027年春季与iPhone 18同发，延续e系列节奏。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New iPhone 18e leak covers its chip, cameras, and display"
+    },
     {
       "id": "reczz28SbLI6fWxy",
       "title": "特朗普称将禁止使用“人工智能”一词",
@@ -7511,36 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Google's Play Store is now selling Pixel and Samsung devices in some regions"
-    },
-    {
-      "id": "reczz28NRnScVSgh",
-      "title": "今年AOP新锐人才奖得主是值得关注的摄影师",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/photography/this-years-winners-of-aops-emerging-talent-award-are-photographers-to-watch/",
-      "publish_time": "2026-10-15T03:00:00+08:00",
-      "summary": "今年AOP新锐人才奖得主是值得关注的摄影师，其系列作品讲述冰川消融与难民儿童故事。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This year’s winners of AOP’s Emerging Talent Award are photographers to watch"
-    },
-    {
-      "id": "reczz28NRms3uEFR",
-      "title": "“奶奶糊图”是婴儿潮一代制作的怪异儿童AI图像",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/14/grandmaslop-is-bizarre-ai-imagery-of-kids-made-by-baby-boomers/",
-      "publish_time": "2026-10-15T02:33:54+08:00",
-      "summary": "万圣节未到，父母祖父母热衷用AI生成亲人图像，其怪异儿童AI图“奶奶糊图”吓坏众人。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "‘Grandmaslop’ is Bizarre AI Imagery of Kids Made by Baby Boomers"
     }
   ]
 }
