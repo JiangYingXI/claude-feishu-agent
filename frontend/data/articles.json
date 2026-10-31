@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-31T06:43:54.318096+08:00",
+    "updated_at": "2026-10-31T14:15:03.295957+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28TunK8GmA8",
+      "title": "尼康全年利润预期上调50%，但下调影像业务销售展望",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/10/30/nikon-raised-full-year-profit-forecast-by-50-but-trimmed-imaging-sales-outlook.aspx/",
+      "publish_time": "2026-10-31T09:49:03+08:00",
+      "summary": "尼康因半导体业务强劲上调全年利润预期50%，但下调下半年影像业务销售展望；此前一天刚发布售价14000美元的尼克尔Z 120-300mm f/2.8 TC VR S镜头。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Nikon raised full-year profit forecast by 50%, but trimmed imaging sales outlook"
+    },
+    {
+      "id": "reczz28TunBiGH9D",
+      "title": "Apple iPhone 18 Pro 与 iPhone 18 Pro Max 对比",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php",
+      "publish_time": "2026-10-31T06:59:02+08:00",
+      "summary": "文章对比iPhone 18 Pro与Pro Max，聚焦设计、屏幕、电池等差异，解析Pro Max溢价除大屏外的续航优势与独占功能，助用户选购。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max"
+    },
     {
       "id": "reczz28Tn4dk1hHH",
       "title": "被破解的哈苏 X2D II 100C 可拍摄视频、内置 ChatGPT 并运行 Linux",
@@ -7511,36 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Okay, the Sony FX5 Really Is Going to Launch This Time"
-    },
-    {
-      "id": "reczz28PR9CxH74J",
-      "title": "60年前的影像资料证实著名大脚怪视频系伪造",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/19/60-year-old-found-footage-proves-famous-bigfoot-footage-is-a-hoax/",
-      "publish_time": "2026-10-19T22:57:34+08:00",
-      "summary": "新纪录片证实，1967年帕特森与吉姆林拍摄的不到一分钟16毫米大脚怪胶片系伪造，终结近60年争议。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "60-Year-Old Found Footage Proves Famous Bigfoot Footage Is a Hoax"
-    },
-    {
-      "id": "reczz28PR9g3q0Y6",
-      "title": "HMD Vibe2 Max 规格与渲染图泄露",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/hmd_vibe2_max_specifications_and_renders_leak-news-75110.php",
-      "publish_time": "2026-10-19T22:29:02+08:00",
-      "summary": "HMD Vibe2 Max泄露：6.78英寸LCD屏，Full-HD+、1500尼特、120Hz，紫光展锐T9100，最高8GB+256GB，运行Android 16并支持5G。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "HMD Vibe2 Max specifications and renders leak"
     }
   ]
 }
