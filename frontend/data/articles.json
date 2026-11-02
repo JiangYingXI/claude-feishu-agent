@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-02T06:22:44.781401+08:00",
+    "updated_at": "2026-11-02T14:45:52.648350+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28UiO6nsu4t",
+      "title": "尼康每周新闻快讯 #910",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/11/01/weekly-nikon-news-flash-910.aspx/",
+      "publish_time": "2026-11-02T10:21:41+08:00",
+      "summary": "尼康KeyMission 4K 360运动相机近10年后仍在亚马逊有售；神牛发布25美元iM10迷你闪光灯，通用单触点热靴，B&H有货；Thypoch启动2026年黑五促销。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Weekly Nikon news flash #910"
+    },
+    {
+      "id": "reczz28UiNy4qoYb",
+      "title": "这款新行车记录仪创新得令人耳目一新——我想要一个！",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/dash-cams/this-new-dash-cam-is-refreshingly-innovative-i-want-one",
+      "publish_time": "2026-11-02T08:11:58+08:00",
+      "summary": "DDPAI新旗舰行车记录仪能记录竞品无法捕捉的关键信息，创新设计令人耳目一新，值得关注。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "This new dash cam is refreshingly innovative - I want one!"
+    },
     {
       "id": "reczz28UZoPo1XOe",
       "title": "促销：Pixel 11系列开售，Galaxy S26系列同步促销",
@@ -7511,36 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Verizon's Straight Talk upgrades its unlimited plans without raising prices"
-    },
-    {
-      "id": "reczz28PkS0RljvY",
-      "title": "国际摄影大赛中令人惊叹的建筑作品",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/20/awe-inspiring-architecture-celebrated-in-international-photo-competition/",
-      "publish_time": "2026-10-21T00:41:41+08:00",
-      "summary": "建筑摄影大师奖APMP揭晓2026年获奖作品，涵盖建筑外观、室内空间、立面及饰带等各类摄影作品。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Awe-Inspiring Architecture Celebrated in International Photo Competition"
-    },
-    {
-      "id": "reczz28PkS7YSytN",
-      "title": "富士胶片再投资1900万美元扩大Instax拍立得相机产能",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/20/fujifilm-invests-another-19-million-to-expand-instax-production/",
-      "publish_time": "2026-10-21T00:30:03+08:00",
-      "summary": "富士胶片投资30亿日元（约1900万美元）扩大Instax拍立得相机产能，系继一年前更大规模投资后的再度加码。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Fujifilm Invests Another $19 Million To Expand Instax Production"
     }
   ]
 }
