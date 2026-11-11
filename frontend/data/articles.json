@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-11T04:05:21.230472+08:00",
+    "updated_at": "2026-11-11T15:06:55.024248+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -43,6 +43,231 @@
   ],
   "articles": [
     {
+      "id": "reczz28YHX6aJQXN",
+      "title": "三星据称正在研发一款可扩展显示屏手机",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php",
+      "publish_time": "2026-11-11T14:00:02+08:00",
+      "summary": "三星或推垂直卷轴屏手机，屏幕可从16:9扩展至21:9，兼顾宽屏与高屏两种观看偏好。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung reportedly working on a phone with an expandable display"
+    },
+    {
+      "id": "reczz28YHXDuFYlo",
+      "title": "谷歌11月Pixel更新为Pixel 10带来Gemini智能功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php",
+      "publish_time": "2026-11-11T11:30:02+08:00",
+      "summary": "谷歌11月Pixel Drop推送，Gemini智能功能登陆Pixel 10系列（不含10a），带来Gboard语音输入Rambler可去填充词、整理自我纠正并支持语言切换，还能执行多步骤任务。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Google's November Pixel Drop brings Gemini Intelligence to the Pixel 10"
+    },
+    {
+      "id": "reczz28YHXMAariX",
+      "title": "Poco X8s现已在欧洲上市，售价如下",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/poco_x8s_is_now_available_in_europe_heres_how_much_it_costs-news-75427.php",
+      "publish_time": "2026-11-11T09:01:02+08:00",
+      "summary": "Poco X8s登陆欧洲首站德国，配6.35英寸1-120Hz LTPO屏、3500尼特峰值亮度、骁龙7 Gen 4、最高12GB内存，为X系列首款带长焦机型。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Poco X8s is now available in Europe, here's how much it costs"
+    },
+    {
+      "id": "reczz28YHYIbNRCH",
+      "title": "YouTuber泄露尼康ZR固件2.0版发布日期：11月24日",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/11/10/youtuber-leaks-the-release-date-for-the-nikon-zr-firmware-update-2-0-november-24th.aspx/",
+      "publish_time": "2026-11-11T07:38:47+08:00",
+      "summary": "法国YouTuber Mr Camera在评测视频中泄露，尼康ZR固件2.0版将于11月24日发布，消息源自Nikon Rumors。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "YouTuber leaks the release date for the Nikon ZR firmware update 2.0: November 24th"
+    },
+    {
+      "id": "reczz28YHWyIbGES",
+      "title": "Adobe最好的新照片功能终究并非AI",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/adobe-lightroom-acr-photoshop-updates-november-2026-max/",
+      "publish_time": "2026-11-11T07:35:03+08:00",
+      "summary": "Adobe为Lightroom和Camera Raw新增非AI照片功能，含核心技术参数，提升编辑效率。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Adobe’s best new photo features aren’t AI after all"
+    },
+    {
+      "id": "reczz28YHWRgI5zj",
+      "title": "探访OM Digital Solutions冈谷制造基地",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/11/10/inside-om-digital-solutions-okaya-manufacturing-site/",
+      "publish_time": "2026-11-11T06:34:55+08:00",
+      "summary": "作者参观OM Digital Solutions冈谷工厂，了解相机镜头玻璃的加工、工具准备及技艺传承，弥补了镜头制造知识的空白。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Inside OM Digital Solutions’ Okaya Manufacturing Site"
+    },
+    {
+      "id": "reczz28YHYAW4mug",
+      "title": "2026年最值得购买的四款Instax相机",
+      "source": "ThePhoBlographer",
+      "source_url": "https://www.thephoblographer.com/2026/11/10/the-4-best-instax-cameras-to-buy-in-2026/",
+      "publish_time": "2026-11-11T06:00:00+08:00",
+      "summary": "2026年推荐四款Instax相机：Mini 99、Wide Evo、Square 2和Pal 2，后者网络爆红，适合摄影爱好者与追求乐趣者记录珍贵回忆。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The 4 Best Instax Cameras to Buy in 2026"
+    },
+    {
+      "id": "reczz28YHWaJbi1M",
+      "title": "Forma是一款专为寻找摄影构图而打造的可穿戴取景器",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/11/10/forma-is-a-wearable-viewfinder-built-for-finding-photo-compositions/",
+      "publish_time": "2026-11-11T05:36:49+08:00",
+      "summary": "加拿大摄影师彼得·莫泽莱夫斯基通过Oramod在Kickstarter推出Forma，一款口袋大小的光学取景器，适配多种胶片和数码相机，专为寻找摄影构图而设计。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Forma Is a Wearable Viewfinder Built for Finding Photo Compositions"
+    },
+    {
+      "id": "reczz28YHXUMEb04",
+      "title": "三星Galaxy S27系列机模在最新爆料中曝光",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php",
+      "publish_time": "2026-11-11T05:33:02+08:00",
+      "summary": "爆料人Sonny Dickson曝光三星Galaxy S27 Ultra、Pro和S27+机模，Ultra与Pro采用横跨机身顶部的重新设计后置摄像头模组，此前渲染图已现。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Samsung Galaxy S27 series dummy units surface in new leak"
+    },
+    {
+      "id": "reczz28YHXv4Y9x8",
+      "title": "无人机航拍一家人在烧毁房屋废墟中避难的照片赢得全球奖金最高摄影比赛",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/drone-photo-of-family-sheltering-in-the-remains-of-their-burnt-out-home-wins-worlds-richest-photo-competition",
+      "publish_time": "2026-11-11T05:14:40+08:00",
+      "summary": "孟加拉国摄影师凭无人机航拍一家人在烧毁房屋废墟中避难的画面，在阿联酋迪拜HIPA摄影比赛获大奖，奖金20万美元。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Drone photo of family sheltering in the remains of their burnt-out home wins world's richest photo competition"
+    },
+    {
+      "id": "reczz28YHYQLQ2oS",
+      "title": "独家 3 Legged Thing L型快装板优惠码",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/11/10/exclusive-3-legged-thing-coupon-codes.aspx/",
+      "publish_time": "2026-11-11T04:56:54+08:00",
+      "summary": "3 Legged Thing提供NR读者专属L型快装板75折优惠码，分英国3LTNR25UK、美国3LTNR25US、欧盟3LTNR25EU、其他地区3LTNR25ROW，适用于所有在售型号含非尼康相",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Exclusive 3 Legged Thing L-brackets coupon codes"
+    },
+    {
+      "id": "reczz28YHWjGSY8m",
+      "title": "VSCO更新政策，明确声明不会用你的照片训练AI",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
+      "publish_time": "2026-11-11T04:45:13+08:00",
+      "summary": "VSCO今年5月因条款疑似允许用用户内容训练生成式AI或机器学习模型受审查，现已澄清不会也将来不会这样做。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "VSCO Updates Its Policy to Explicitly State It Won’t Train AI on Your Photos"
+    },
+    {
+      "id": "reczz28YHXcHikCV",
+      "title": "Spotify的AI DJ新增多种语音并支持关闭闲聊功能",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/spotifys_ai_dj_gets_new_voices_and_an_option_to_stop_the_chatter-news-75425.php",
+      "publish_time": "2026-11-11T04:03:03+08:00",
+      "summary": "Spotify AI DJ新增7种英语及西班牙语语音，覆盖美英爱澳印口音，并支持关闭歌曲间解说；80%听众每周使用。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Spotify's AI DJ gets new voices and an option to stop the chatter"
+    },
+    {
+      "id": "reczz28YHWrVSQ4H",
+      "title": "假日促销：BHphoto和亚马逊上热销的相机盘点",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/holiday-deals-here-are-the-cameras-selling-hot-at-bhphoto-and-amazon/",
+      "publish_time": "2026-11-11T04:00:41+08:00",
+      "summary": "假日季BHphoto销量前十相机盘点：佳能EOS R6 Mark II、R6 Mark III、索尼a7 V、佳能R5 Mark II、尼康Z8、索尼a7R VI、a7 IV、尼康Z6 III、佳能R",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Holiday deals: Here are the cameras selling hot at BHphoto and Amazon"
+    },
+    {
+      "id": "reczz28YHY2PxZCm",
+      "title": "SmallRig iPhone 18 Pro Max 兔笼与创作者套装评测：拍摄时更稳固的握持体验",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/tech/phone-accessories/smallrig-iphone-18-pro-max-cage-review",
+      "publish_time": "2026-11-11T04:00:00+08:00",
+      "summary": "SmallRig为iPhone 18 Pro Max推出兔笼及创作者套装，无需三脚架或云台续航即可拍摄平滑镜头，提升握持稳定性。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "SmallRig iPhone 18 Pro Max Cage & Creator Kit review: a more secure grip while filming"
+    },
+    {
       "id": "reczz28Y6H7067sW",
       "title": "思锐发布富士卡口Aurora 15mm f/1.6与24mm f/1.4镜头",
       "source": "FujiRumors",
@@ -56,6 +281,21 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "Sirui Aurora 15mm f/1.6 and 24mm f/1.4 for Fujifilm Announced"
+    },
+    {
+      "id": "reczz28YHXndTakw",
+      "title": "思锐 Aurora 15mm f/1.6 与 24mm f/1.4 镜头发布",
+      "source": "FujiRumors",
+      "source_url": "https://www.fujirumors.com/sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-for-fujifilm-announced/",
+      "publish_time": "2026-11-11T03:20:15+08:00",
+      "summary": "思锐Aurora系列新增15mm f/1.6与24mm f/1.4自动对焦定焦镜头，各重约550克，售价599和499美元，现提供L卡口并开启预售。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sirui Aurora 15mm f/1.6 and 24mm f/1.4 Announced"
     },
     {
       "id": "reczz28Y6C1YPAle",
@@ -7301,246 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "This compact camera is the \"Best Professional Fixed Lens Camera\" – it features a viewfinder and full-frame sensor but fits in almost any pocket"
-    },
-    {
-      "id": "reczz28TOsxqPBd7",
-      "title": "尼康在Nikkor Z 120-300mm f/2.8宣传片中提及传闻中的Z70 APS-C相机",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/10/29/nikon-mentions-the-rumored-z70-aps-c-camera-in-nikkor-z-120-300mm-f-2-8-promo.aspx/",
-      "publish_time": "2026-10-29T23:53:40+08:00",
-      "summary": "尼康在Nikkor Z 120-300mm f/2.8 TC VR S镜头宣传材料中意外泄露传闻中的Z70 APS-C相机，该相机预计11月发布。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon mentions the rumored Z70 APS-C camera in Nikkor Z 120-300mm f/2.8 promo"
-    },
-    {
-      "id": "reczz28TOsanX09C",
-      "title": "哈苏X2D II中画幅相机竟能录制视频！这里有证据",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-hasselblad-x2d-ii-can-record-video-heres-proof",
-      "publish_time": "2026-10-29T23:47:55+08:00",
-      "summary": "哈苏X2D II中画幅相机首次实现视频录制，打破该系列无法拍视频的惯例，文章提供证据并展示核心参数。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Hasselblad X2D II medium-format camera CAN record video! Here's proof"
-    },
-    {
-      "id": "reczz28TOsit8ERD",
-      "title": "七工匠超广角自动对焦饼干镜头轻若无物，携带时几乎忘记它的存在！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/lenses/7artisans-ultrawide-af-pancake-lens-is-so-light-you-might-forget-youre-carrying-it",
-      "publish_time": "2026-10-29T23:41:07+08:00",
-      "summary": "七工匠在中国发布71克AF 10mm f/4 APS-C饼干镜头，探讨超广角镜头自动对焦是否必要。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "7Artisans’ ultrawide AF pancake lens is so light you might forget you’re carrying it!"
-    },
-    {
-      "id": "reczz28TOrpg1vo2",
-      "title": "从日本到芬兰，这位摄影师在建筑中发现了全新视角",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/from-japan-to-finland-this-photographer-finds-a-fresh-perspective-on-architecture/",
-      "publish_time": "2026-10-29T23:38:23+08:00",
-      "summary": "DPReview社区成员Andrew Keithly用索尼器材耐心拍摄日本到芬兰的建筑，以独特视角重新审视熟悉场景。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "From Japan to Finland, this photographer finds a fresh perspective on architecture"
-    },
-    {
-      "id": "reczz28TOr22o2aa",
-      "title": "iPad Pro 缺失 macOS 开始让人觉得荒谬",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/29/the-lack-of-macos-on-ipad-pro-is-starting-to-feel-absurd/",
-      "publish_time": "2026-10-29T23:35:23+08:00",
-      "summary": "苹果已在MacBook Pro加入触控功能，文章质疑为何iPad Pro仍不能运行macOS，认为这一缺失愈发荒谬。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Lack of macOS on iPad Pro Is Starting To Feel Absurd"
-    },
-    {
-      "id": "reczz28TOt4iVcN5",
-      "title": "尼康 Nikkor Z 120-300mm f/2.8 TC VR S 镜头样张",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/10/29/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-sample-photos.aspx/",
-      "publish_time": "2026-10-29T23:19:39+08:00",
-      "summary": "尼康Nikkor Z 120-300mm f/2.8 TC VR S镜头样张发布，附美英德加预购链接，展示该镜头实拍效果。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens sample photos"
-    },
-    {
-      "id": "reczz28TOrdDlkZY",
-      "title": "三星W27在中国正式发布",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/the_samsung_w27_goes_official_in_china-news-75268.php",
-      "publish_time": "2026-10-29T23:19:02+08:00",
-      "summary": "三星在中国发布W27折叠屏手机，基于Galaxy Z Fold8 Ultra奢华改装，红蓝双色配金色边框、铰链、摄像头模组及镜头环，后盖有金色“心系天下”标识。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The Samsung W27 goes official in China"
-    },
-    {
-      "id": "reczz28TOr9aOToQ",
-      "title": "徕卡伦敦新旗舰店开业，推出限量版M-A相机",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/29/leicas-new-flagship-store-in-london-comes-with-a-limited-edition-m-a-camera/",
-      "publish_time": "2026-10-29T23:00:26+08:00",
-      "summary": "徕卡伦敦市中心新旗舰店开业，推出14台限量版M-A相机纪念，展现品牌时尚形象。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Leica’s New Flagship Store in London Comes With a Limited Edition M-A Camera"
-    },
-    {
-      "id": "reczz28TOrHZ2vwG",
-      "title": "Mandler 50mm f/1.4 Pre-A 评测：外观与手感神似徕卡，价格却只有零头",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com/2026/10/29/mandler-50mm-f-1-4-pre-a-review-looks-and-feels-like-a-leica-for-a-fraction-of-the-price/",
-      "publish_time": "2026-10-29T22:01:50+08:00",
-      "summary": "Mandler 50mm f/1.4镜头售价368美元，外观手感神似徕卡，在众多中国M卡口镜头中值得关注。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Mandler 50mm f/1.4 Pre-A Review: Looks and Feels Like a Leica for a Fraction of the Price"
-    },
-    {
-      "id": "reczz28TOrwJitQf",
-      "title": "怀旧星期四：松下四分之一世纪的相机创新之路",
-      "source": "DPReview",
-      "source_url": "https://www.dpreview.com/articles/throwback-thursday-panasonics-quarter-century-of-camera-innovation/",
-      "publish_time": "2026-10-29T22:00:00+08:00",
-      "summary": "松下数码相机二十五周年，持续创新贡献行业，回顾其技术演进与核心参数。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Throwback Thursday: Panasonic’s quarter century of camera innovation"
-    },
-    {
-      "id": "reczz28TOtgpF39Y",
-      "title": "唯卓仕 35mm f1.4 Pro 评测：这次与众不同",
-      "source": "ThePhoBlographer",
-      "source_url": "https://www.thephoblographer.com/2026/10/29/viltrox-35mm-f1-4-pro-review-this-is-different/",
-      "publish_time": "2026-10-29T22:00:00+08:00",
-      "summary": "唯卓仕35mm f1.4 Pro虽体积偏大、设计偏老，但具备快速自动对焦（偶有失准）、耐候性和出色画质，评测者追溯其设计渊源。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Viltrox 35mm f1.4 Pro Review: This is Different"
-    },
-    {
-      "id": "reczz28TOtBtukXV",
-      "title": "尼康 Nikkor Z 120-300mm f/2.8 TC VR S 镜头预购链接已更新",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/10/29/updated-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-pre-order-links.aspx/",
-      "publish_time": "2026-10-29T21:42:18+08:00",
-      "summary": "尼康Nikkor Z 120-300mm f/2.8 TC VR S镜头预购链接已更新，覆盖美英德加零售商，该镜头限量生产、等待时间长，短期内难有现货。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Updated Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens pre-order links"
-    },
-    {
-      "id": "reczz28TOtK2rUnH",
-      "title": "即将开始：关于新款尼康NIKKOR Z 120-300mm f/2.8镜头的小组直播讨论（美国东部时间下午1点）",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/10/29/starting-soon-live-panel-discussion-on-the-new-nikon-nikkor-z-120-300mm-f-2-8-lens-1pm-edt.aspx/",
-      "publish_time": "2026-10-29T21:30:06+08:00",
-      "summary": "B&H Photo于2026年10月29日美东下午1点直播讨论尼康NIKKOR Z 120-300mm f/2.8镜头，提供订购渠道，聚焦新品发布与实拍体验。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Starting soon: Live Panel Discussion on the new Nikon NIKKOR Z 120-300mm f/2.8 lens (1pm EDT)"
-    },
-    {
-      "id": "reczz28TOqT2XwqQ",
-      "title": "思锐预告将为索尼推出一款新的全画幅自动对焦镜头",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/sirui-is-teasing-the-launch-of-a-new-full-frame-autofocus-lens-for-sony/",
-      "publish_time": "2026-10-29T21:29:33+08:00",
-      "summary": "思锐预告将推索尼全画幅自动对焦镜头，无规格信息，猜测为24mm f/1.4 FE镜头。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Sirui is teasing the launch of a new Full Frame Autofocus lens for Sony"
-    },
-    {
-      "id": "reczz28TFJ1AZ1G8",
-      "title": "FujiKina NYC 2026——不谈器材，只谈创意与摄影师之间的联结",
-      "source": "FujiRumors",
-      "source_url": "https://www.fujirumors.com/fujikina-nyc-2026-where-nobody-talks-gear-just-creativity-and-connecting-with-fellow-photographers/",
-      "publish_time": "2026-10-29T21:14:51+08:00",
-      "summary": "CineD的Nino总结纽约FujiKina 2026活动：多数摄影师此前从未接触富士相机，现场不谈器材，专注创意交流与灵感碰撞，纯粹庆祝摄影联结。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "FujiKina NYC 2026 — Where Nobody Talks Gear, Just Creativity and Connecting with Fellow Photographers"
-    },
-    {
-      "id": "reczz28TFHoIlabL",
-      "title": "亚马逊Alexa相框为你挑选最佳照片",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/tech/digital-photo-frames/amazons-alexa-photo-frame-picks-your-best-pics-for-you",
-      "publish_time": "2026-10-29T21:02:21+08:00",
-      "summary": "亚马逊Alexa AI相框自动挑选应季照片，并确保人人微笑，免去翻找图库之烦。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Amazon's Alexa Photo Frame picks your best pics for you"
     }
   ]
 }
