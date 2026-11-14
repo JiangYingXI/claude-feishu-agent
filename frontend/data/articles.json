@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-14T04:06:19.412425+08:00",
+    "updated_at": "2026-11-14T14:59:49.653781+08:00",
     "total_articles": 500,
     "data_range_days": 90
   },
@@ -42,6 +42,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "reczz28ZT1lM6tmC",
+      "title": "华为下一代nova Flip或转向宽幅形态",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479.php",
+      "publish_time": "2026-11-14T13:01:02+08:00",
+      "summary": "华为计划明年更新nova Flip产品线，推出6.3英寸屏幕的小型宽折叠手机，搭载麒麟9系列芯片组，较现款麒麟8030大幅升级。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Huawei's next nova Flip could switch to a wide form factor"
+    },
+    {
+      "id": "reczz28ZT1sa9NXL",
+      "title": "Gemini现在可以分析你的Google Wallet支出，帮你制定预算",
+      "source": "GSMArena",
+      "source_url": "https://www.gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php",
+      "publish_time": "2026-11-14T10:31:02+08:00",
+      "summary": "Google Wallet已接入Gemini个人智能应用列表，用户可通过Plaid关联信用卡和银行账户，在聊天中@Google Wallet询问消费习惯与预算问题，获取个人理财洞察。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Gemini can now dig into your Google Wallet spending to help you budget"
+    },
+    {
+      "id": "reczz28ZT24lANAQ",
+      "title": "神牛A2氙气闪光灯评测：为iPhone摄影师打造的迷你强效闪光灯",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/godox-a2-xenon-flash-review",
+      "publish_time": "2026-11-14T09:10:00+08:00",
+      "summary": "神牛A2氙气闪光灯评测：磁吸配件为iPhone摄影师提供讨喜补光闪光或持续造型光，增添人像拍摄效果。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Godox A2 Xenon Flash review: A tiny but powerful flash for iPhone photographers"
+    },
+    {
+      "id": "reczz28ZT2I6Ib7E",
+      "title": "确善能发布适用于尼康Z卡口的NOKTON 35mm f/1.2 Aspherical全画幅镜头",
+      "source": "NikonRumors",
+      "source_url": "https://nikonrumors.com/2026/11/13/new-voigtlander-nokton-35mm-f-1-2-aspherical-full-frame-lens-for-nikon-z-mount-announced-today.aspx/",
+      "publish_time": "2026-11-14T07:46:53+08:00",
+      "summary": "确善能发布福伦达NOKTON 35mm f/1.2 Aspherical全画幅镜头，适用于尼康Z卡口，即将在B&H等平台预售，为第16款Z卡口福伦达镜头。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "New Voigtlander NOKTON 35mm f/1.2 Aspherical full-frame lens for Nikon Z-mount announced today"
+    },
+    {
+      "id": "reczz28ZT1yOYToV",
+      "title": "使用Adobe最新照片编辑工具前，你需要了解这些",
+      "source": "DPReview",
+      "source_url": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
+      "publish_time": "2026-11-14T06:07:53+08:00",
+      "summary": "Adobe产品经理演示新照片编辑功能，作者试用后产生疑问，助你了解使用前须知。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "What you should know before using Adobe’s latest photo-editing tools"
+    },
+    {
+      "id": "reczz28ZT1cRbxj9",
+      "title": "索尼FX5 BHphoto预购订单昨日终于发货！",
+      "source": "SonyAlphaRumors",
+      "source_url": "https://www.sonyalpharumors.com/sony-fx5-bhphoto-preorders-finally-shipped-out-yesterday/",
+      "publish_time": "2026-11-14T05:29:04+08:00",
+      "summary": "多位SAR读者确认，B&H Photo的索尼FX5预购订单已于昨日或今日发货，欢迎新用户分享开箱体验与第一印象。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "Sony FX5 BHphoto preorders finally shipped out yesterday!"
+    },
+    {
+      "id": "reczz28ZT2BQ85P0",
+      "title": "Campix在129克紧凑型相机中内置腰平取景器、胶片风格滤镜、多重曝光和可换镜头",
+      "source": "DigitalCameraWorld",
+      "source_url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-campix-puts-a-waist-level-finder-film-like-filters-double-exposures-and-swappable-lenses-inside-a-129g-compact-camera",
+      "publish_time": "2026-11-14T05:17:21+08:00",
+      "summary": "Fotorgear Campix重129克，内置腰平取景器、胶片滤镜、多重曝光及可换镜头，为数字极简主义者提供复古紧凑相机。",
+      "recommendation": "",
+      "categories": [
+        "产品洞察 & 行业资讯"
+      ],
+      "quality_score": 5,
+      "language": "English",
+      "original_title": "The Campix puts a waist-level finder, film-like filters, double exposures, and swappable lenses inside a 129g compact camera"
+    },
     {
       "id": "reczz28ZHrOmFB7L",
       "title": "速查表：电影制作中的180度法则，以及为什么你的摄像机绝不应越过这条线",
@@ -7436,111 +7541,6 @@
       "quality_score": 5,
       "language": "English",
       "original_title": "New cameras based on heritage models are all very well, but I worry what photography is missing is innovation"
-    },
-    {
-      "id": "reczz28UxwRHXIME",
-      "title": "欧洲地区最高可享300欧元返现",
-      "source": "SonyAlphaRumors",
-      "source_url": "https://www.sonyalpharumors.com/up-to-300-e-cashback-in-europe/",
-      "publish_time": "2026-11-02T16:10:07+08:00",
-      "summary": "欧洲用户购买索尼Alpha相机或镜头可享最高300欧元返现，Fotokoch、WexUK等商家及亚马逊德英法意西平台均有优惠。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Up to 300 € Cashback in Europe"
-    },
-    {
-      "id": "reczz28UxxUd3RA4",
-      "title": "当一位英超球星拿起价值7000美元的电影摄影机和一卷胶卷时，发生了什么",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/film-cameras/this-is-what-happened-when-a-premier-league-star-picked-up-a-us-usd7-000-film-camera-and-a-single-roll-of-film",
-      "publish_time": "2026-11-02T16:05:00+08:00",
-      "summary": "Expired Film Club邀英超球员Merlin Röhl用7000美元电影摄影机和一卷胶卷在利物浦拍摄，展现胶片摄影与职业足球的跨界碰撞。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This is what happened when a Premier League star picked up a US$7,000 film camera and a single roll of film"
-    },
-    {
-      "id": "reczz28UiO6nsu4t",
-      "title": "尼康每周新闻快讯 #910",
-      "source": "NikonRumors",
-      "source_url": "https://nikonrumors.com/2026/11/01/weekly-nikon-news-flash-910.aspx/",
-      "publish_time": "2026-11-02T10:21:41+08:00",
-      "summary": "尼康KeyMission 4K 360运动相机近10年后仍在亚马逊有售；神牛发布25美元iM10迷你闪光灯，通用单触点热靴，B&H有货；Thypoch启动2026年黑五促销。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Weekly Nikon news flash #910"
-    },
-    {
-      "id": "reczz28UiNy4qoYb",
-      "title": "这款新行车记录仪创新得令人耳目一新——我想要一个！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dash-cams/this-new-dash-cam-is-refreshingly-innovative-i-want-one",
-      "publish_time": "2026-11-02T08:11:58+08:00",
-      "summary": "DDPAI新旗舰行车记录仪能记录竞品无法捕捉的关键信息，创新设计令人耳目一新，值得关注。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This new dash cam is refreshingly innovative - I want one!"
-    },
-    {
-      "id": "reczz28UxxaSrd4j",
-      "title": "这款全新双镜头行车记录仪创新得令人耳目一新——我想要一个！",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/dash-cams/this-new-dash-cam-is-refreshingly-innovative-i-want-one",
-      "publish_time": "2026-11-02T08:11:58+08:00",
-      "summary": "DDPAI新款旗舰双镜头行车记录仪可记录竞品无法捕捉的关键信息，创新设计令人耳目一新。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "This new twin-lens dash cam is refreshingly innovative - I want one!"
-    },
-    {
-      "id": "reczz28UZoPo1XOe",
-      "title": "促销：Pixel 11系列开售，Galaxy S26系列同步促销",
-      "source": "GSMArena",
-      "source_url": "https://www.gsmarena.com/deals_the_pixel_11_series_is_on_sale_and_so_is_the_galaxy_s26_series-news-75282.php",
-      "publish_time": "2026-11-02T05:31:02+08:00",
-      "summary": "本周聚焦直板手机：Pixel 11 Pro促销价800美元降27%，12GB/256GB起步，升级16GB/512GB加120美元，且今年256GB版内存低于高配版。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "Deals: the Pixel 11 series is on sale and so is the Galaxy S26 series"
-    },
-    {
-      "id": "reczz28UZoX4L0ln",
-      "title": "CampCo Humvee Safari 是市面上容量最大的摄影马甲，而且领先幅度相当大，但它真的好用吗？我来一探究竟……",
-      "source": "DigitalCameraWorld",
-      "source_url": "https://www.digitalcameraworld.com/cameras/bags-and-backpacks/campco-humvee-safari-photo-vest-review",
-      "publish_time": "2026-11-02T03:00:00+08:00",
-      "summary": "CampCo悍马狩猎摄影背心为全球容量最大，设21个口袋，可收纳纸币、手机、护照、钥匙、镜头、SD卡等，但实际好用性待验证。",
-      "recommendation": "",
-      "categories": [
-        "产品洞察 & 行业资讯"
-      ],
-      "quality_score": 5,
-      "language": "English",
-      "original_title": "The CampCo Humvee Safari is the most capacious photography vest on the market by quite some margin, but is it any good? I find out..."
     }
   ]
 }
